@@ -1,4 +1,12 @@
 """Manages bill, legislator and company data.
+
+Flow:
+0. (Optionally) Specify all the properties you want by calling
+	Add<Bill/Legislator/Company>Properties(). The properties will be added
+	to the dataframe in order in which they appear in the list.
+1. Determine the properties of all your bills/legislators/companies. Store them
+	in a dict. E.g. {"id": 1, "Name": "Barack Obama"}
+2. Call Add<Bill/Legislator/Company>() on the dicts with the properties.
 """
 import os
 import pandas as pd
@@ -75,7 +83,8 @@ def _AddEntryToDf(df, entry_data):
 
 
 def AddBillProperties(properties):
-	"""Adds the given properties to the bills dataframe.
+	"""Adds the given properties to the bills dataframe. The properties will
+	be added in the order specified by the list.
 
 	Args:
 		properties: (list of str) The properties that are relevant to  bills.
@@ -88,7 +97,9 @@ def AddBillProperties(properties):
 def AddBill(bill_data):
 	"""Adds another bill to the dataset. Any new properties will automatically
 	be added to the dataframe. Any properties in the dataframe not specified
-	will be set to None.
+	will be set to None. There is no guarantee on the order in which new
+	properties are added since dict has no ordering. You can use
+	AddBillProperties to specify the ordering of your properties up front.
 
 	Args:
 		bill_data: (dict) A dictionary that maps bill properties to values. For
@@ -127,7 +138,9 @@ def AddLegislatorProperties(properties):
 def AddLegislator(legislator_data):
 	"""Adds another legislator to the dataset. Any new properties will
 	automatically be added to the dataframe. Any properties in the dataframe
-	not specified will be set to None.
+	not specified will be set to None. There is no guarantee on the order in
+	which new properties are added since dict has no ordering. You can use
+	AddLegislatorProperties to specify the ordering of your properties up front.
 
 	Args:
 		legislator_data: (dict) A dictionary that maps legislator properties to
@@ -167,7 +180,9 @@ def AddCompanyProperties(properties):
 def AddCompany(company_data):
 	"""Adds another company to the dataset. Any new properties will
 	automatically be added to the dataframe. Any properties in the dataframe
-	not specified will be set to None.
+	not specified will be set to None. There is no guarantee on the order in
+	which new properties are added since dict has no ordering. You can use
+	AddCompanyProperties to specify the ordering of your properties up front.
 
 	Args:
 		company_data: (dict) A dictionary that maps company properties to
