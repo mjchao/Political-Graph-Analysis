@@ -106,7 +106,7 @@ class DenseGraph(Graph):
 
 
 class SimrankGraph(DenseGraph):
-    """Provides functions for the SimRank algorithm.
+    """A DenseGraph with functions for the SimRank algorithm.
     """
 
     def __init__(self, nodes):
@@ -116,6 +116,10 @@ class SimrankGraph(DenseGraph):
             nodes: (list of object) The nodes in the graph.
         """
         super(SimrankGraph, self).__init__(nodes)
+        self._similarity = np.identity(len(nodes), dtype=np.float32)
+
+        for i in range(len(self._nodes)):
+            self._adj[i][i] = 1.0
 
     def GetNeighbors(self, node=None, node_id=None):
         """Gets the neighbors of the given node. Either the node or the node_id
@@ -146,4 +150,44 @@ class SimrankGraph(DenseGraph):
             if self.GetEdgeWeight(from_id=node_id, to_id=i) != 0.0:
                 neighbors.append(self._id_to_node[i])
         return neighbors
+
+    def Run(self, iterations=10, C=0.8):
+        """Runs the SimRank algorithm to determine the node similarity between
+        all pairs of nodes. Note: similarity is not reset after each call to
+        this function, so you can continue running for more iterations later on.
+
+        Args:
+            iterations: (int) Number of iterations for which to run.
+        """
+        for iteration in range(iterations):
+            next_similarity = np.zeros((len(self._nodes), len(self._nodes)))
+            for i in range(len(self._nodes)):
+                for j in range(len(self._nodes)):
+                    node1_neighbors = self.GetNeighbors(node_id=i)
+                    node2_neighbors = self.GetNeighbors(node_id=j)
+                    for node1_neighbor in node1_neighbors:
+                        for node2_neighbor in node2_neighbors:
+                            node1_id = self._node_to_id[node1_neighbor]
+                            node2_id = self._node_to_id[node2_neighbor]
+                            next_similarity[i][j] += self._similarity[node1_id][node2_id]
+                    multiplier = C / float(len(node1_neighbors) *
+                                            len(node2_neighbors))
+                    next_similarity[i][j] *= multiplier
+            self._similarity = next_similarity
+
+    def Similarity(self, a, b):
+        """Returns the similarity between two nodes.
+
+        Args:
+            a: (object) A node
+            b: (object) Another node
+
+        Returns:
+            sim: (float) The similarity between a and b
+        """
+        a_id = self._node_to_id[a]
+        b_id = self._node_to_id[b]
+        return self._similarity[a_id][b_id]
+                            
+                    
          

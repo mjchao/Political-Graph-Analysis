@@ -29,7 +29,7 @@ class TestGraph(unittest.TestCase):
         self.assertEqual(g.GetEdgeWeight("Alice", "Ethan"), 5.0)
         self.assertEqual(g.GetEdgeWeight("Alice", "Bob"), 1.0)
 
-    def testSimrankGraph(self):
+    def testSimrankGraphNeighbors(self):
         nodes = ["Alice", "Bob", "Carl", "David", "Ethan"]
         g = graph.SimrankGraph(nodes)
         g.SetEdge("Alice", "Bob")
@@ -38,14 +38,24 @@ class TestGraph(unittest.TestCase):
         g.SetEdge("Ethan", "Alice", weight=-10.0)
 
         alice_neighbors = g.GetNeighbors(node="Alice")
-        self.assertEqual(alice_neighbors, ["Bob"])
+        self.assertEqual(alice_neighbors, ["Alice", "Bob"])
         
         bob_neighbors = g.GetNeighbors(node="Bob")
-        self.assertEqual(bob_neighbors, [])
+        self.assertEqual(bob_neighbors, ["Bob"])
 
         ethan_neighbors = g.GetNeighbors(node_id=4)
         self.assertEqual(ethan_neighbors, ["Alice", "Ethan"])
+
+    def testSimrankAlgorithm(self):
+        nodes = ["Alice", "Bob", "Carl"]
+        g = graph.SimrankGraph(nodes)
+        g.SetEdge("Alice", "Bob", directed=False)
+        g.SetEdge("Carl", "Bob", directed=False)
+        g.Run(iterations=1, C=1.0)
         
-        
+        # Alice and Carl both have neighbors [Bob]. This gives a sum of 
+        # 1. The multiplier is 1.0/4. Therefore, the similarity should be .25.
+        self.assertEqual(g.Similarity("Alice", "Carl"), 0.25)
+
 if __name__ == "__main__":
     unittest.main()
