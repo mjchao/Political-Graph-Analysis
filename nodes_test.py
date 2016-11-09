@@ -9,22 +9,22 @@ import nodes
 class TestNodes(unittest.TestCase):
 
     def setUp(self):
-            self._SAVE_DIR = os.path.join("tmp", "test")
-            nodes.Reset()
+        self._SAVE_DIR = os.path.join("tmp", "test")
+        nodes.Reset()
 
     def testAddBills(self):
-            nodes.AddBillProperties(["id", "name", "date"])
-            nodes.AddBill({"id": 1})	
-            nodes.AddBill({"id": 2, "name": "Bill 2"})
-            nodes.AddBill({"id": 3, "name": "Bill 3", "date": "25-10-2016"})
+        nodes.AddBillProperties(["id", "name", "date"])
+        nodes.AddBill({"id": 1})	
+        nodes.AddBill({"id": 2, "name": "Bill 2"})
+        nodes.AddBill({"id": 3, "name": "Bill 3", "date": "25-10-2016"})
 
-            bills = nodes.GetBills()
-            expected = pd.DataFrame([[1, None, None],
-                                    [2, "Bill 2", None],
-                                    [3, "Bill 3", "25-10-2016"]],
-                                    columns=["id", "name", "date"], dtype=object)
+        bills = nodes.GetBills()
+        expected = pd.DataFrame([[1, None, None],
+                                [2, "Bill 2", None],
+                                [3, "Bill 3", "25-10-2016"]],
+                                columns=["id", "name", "date"], dtype=object)
 
-		self.assertTrue(expected.equals(bills))
+        self.assertTrue(expected.equals(bills))
 
     def testAddLegislators(self):
         nodes.AddLegislatorProperties(["id", "name", "state"])
@@ -42,19 +42,19 @@ class TestNodes(unittest.TestCase):
         self.assertTrue(expected.equals(legislators))
 
     def testAddCompanies(self):
-            nodes.AddCompanyProperties(["id", "name", "ceo"])
-            nodes.AddCompany({})
-            nodes.AddCompany({"name": "Company 1", "ceo": "Bob"})
-            nodes.AddCompany({"ceo": "Carl"})
-            nodes.AddCompany({"id": 1, "name": "Company 3", "ceo": "David"})
+        nodes.AddCompanyProperties(["id", "name", "ceo"])
+        nodes.AddCompany({})
+        nodes.AddCompany({"name": "Company 1", "ceo": "Bob"})
+        nodes.AddCompany({"ceo": "Carl"})
+        nodes.AddCompany({"id": 1, "name": "Company 3", "ceo": "David"})
 
-            companies = nodes.GetCompanies()
-            expected = pd.DataFrame([[None, None, None],
-                                    [None, "Company 1", "Bob"],
-                                    [None, None, "Carl"],
-                                    [1, "Company 3", "David"]],
-                                    columns=["id", "name", "ceo"], dtype=object)
-            self.assertTrue(expected.equals(companies))
+        companies = nodes.GetCompanies()
+        expected = pd.DataFrame([[None, None, None],
+                                [None, "Company 1", "Bob"],
+                                [None, None, "Carl"],
+                                [1, "Company 3", "David"]],
+                                columns=["id", "name", "ceo"], dtype=object)
+        self.assertTrue(expected.equals(companies))
 
 	
     def testLoadSave(self):
