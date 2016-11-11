@@ -1,4 +1,5 @@
 import unittest
+import numpy as np
 import graph
 
 
@@ -46,7 +47,7 @@ class TestGraph(unittest.TestCase):
         ethan_neighbors = g.GetNeighbors(node_id=4)
         self.assertEqual(ethan_neighbors, ["Alice", "Ethan"])
 
-    def testSimrankAlgorithm(self):
+    def testSimrankSanity(self):
         nodes = ["Alice", "Bob", "Carl"]
         g = graph.SimrankGraph(nodes)
         g.SetEdge("Alice", "Bob", directed=False)
@@ -57,25 +58,21 @@ class TestGraph(unittest.TestCase):
         # 1. The multiplier is 1.0/4. Therefore, the similarity should be .25.
         self.assertEqual(g.Similarity("Alice", "Carl"), 0.25)
 
+    def testSimrankAlgorithm(self):
         nodes = ["Baker", "Chef", "Programmer",
                 "Eggs", "Flour", "Chocolate",
                 "Meat", "Rice", "Onion",
                 "Computer", "Keyboard", "Headphones"]
         g = graph.SimrankGraph(nodes)
-        g.SetEdge("Baker", "Eggs")
-        g.SetEdge("Baker", "Flour")
-        g.SetEdge("Baker", "Chocolate")
 
-        g.SetEdge("Chef", "Eggs")
-        g.SetEdge("Chef", "Flour")
-        g.SetEdge("Chef", "Meat")
-        g.SetEdge("Chef", "Rice")
-        g.SetEdge("Chef", "Onion")
+        edges = [("Baker", "Eggs"), ("Baker", "Flour"), ("Baker", "Chocolate"),
+                    ("Chef", "Eggs"), ("Chef", "Flour"), ("Chef", "Meat"),
+                    ("Chef", "Rice"), ("Chef", "Onion"),
+                    ("Programmer", "Computer"), ("Programmer", "Keyboard"),
+                    ("Programmer", "Headphones"), ("Programmer", "Chocolate")]
 
-        g.SetEdge("Programmer", "Computer")
-        g.SetEdge("Programmer", "Keyboard")
-        g.SetEdge("Programmer", "Headphones")
-        g.SetEdge("Programmer", "Chocolate")
+        for edge in edges:
+            g.SetEdge(edge[0], edge[1], directed=False)
 
         g.Run(iterations=5, C=0.6)
 
@@ -83,6 +80,13 @@ class TestGraph(unittest.TestCase):
                         g.Similarity("Baker", "Programmer"))
         self.assertTrue(g.Similarity("Baker", "Programmer") >
                         g.Similarity("Chef", "Programmer"))
+        self.assertTrue(g.Similarity("Eggs", "Flour") >
+                        g.Similarity("Eggs", "Headphones"))
+        self.assertTrue(g.Similarity("Eggs", "Chocolate") >
+                        g.Similarity("Eggs", "Headphones"))
+        self.assertTrue(np.isclose(g.Similarity("Baker", "Chef"),
+                        g.Similarity("Chef", "Baker")))
+
         print "Baker ~ Chef:", g.Similarity("Baker", "Chef")
         print "Baker ~ Programmer:", g.Similarity("Baker", "Programmer")
         print "Chef ~ Programmer:", g.Similarity("Chef", "Programmer")
