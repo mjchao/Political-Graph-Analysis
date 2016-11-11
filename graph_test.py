@@ -57,5 +57,35 @@ class TestGraph(unittest.TestCase):
         # 1. The multiplier is 1.0/4. Therefore, the similarity should be .25.
         self.assertEqual(g.Similarity("Alice", "Carl"), 0.25)
 
+        nodes = ["Baker", "Chef", "Programmer",
+                "Eggs", "Flour", "Chocolate",
+                "Meat", "Rice", "Onion",
+                "Computer", "Keyboard", "Headphones"]
+        g = graph.SimrankGraph(nodes)
+        g.SetEdge("Baker", "Eggs")
+        g.SetEdge("Baker", "Flour")
+        g.SetEdge("Baker", "Chocolate")
+
+        g.SetEdge("Chef", "Eggs")
+        g.SetEdge("Chef", "Flour")
+        g.SetEdge("Chef", "Meat")
+        g.SetEdge("Chef", "Rice")
+        g.SetEdge("Chef", "Onion")
+
+        g.SetEdge("Programmer", "Computer")
+        g.SetEdge("Programmer", "Keyboard")
+        g.SetEdge("Programmer", "Headphones")
+        g.SetEdge("Programmer", "Chocolate")
+
+        g.Run(iterations=5, C=0.6)
+
+        self.assertTrue(g.Similarity("Baker", "Chef") >
+                        g.Similarity("Baker", "Programmer"))
+        self.assertTrue(g.Similarity("Baker", "Programmer") >
+                        g.Similarity("Chef", "Programmer"))
+        print "Baker ~ Chef:", g.Similarity("Baker", "Chef")
+        print "Baker ~ Programmer:", g.Similarity("Baker", "Programmer")
+        print "Chef ~ Programmer:", g.Similarity("Chef", "Programmer")
+
 if __name__ == "__main__":
     unittest.main()
