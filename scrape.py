@@ -53,6 +53,7 @@ with open('ids.csv', 'r') as f:
       # dataset = zip(headings, (td.get_text() for td in row.find_all("td")))
       dataCol = param + [td.get_text() for td in row.find_all("td")]
       dataStr = ','.join(dataCol)
-      outfile.write(dataStr + '\n')
+      outfile.write(dataStr.encode('utf8') + '\n')
+    print param[0], param[1]
 
 outfile.close()
