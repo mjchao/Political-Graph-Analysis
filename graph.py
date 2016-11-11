@@ -151,7 +151,7 @@ class SimrankGraph(DenseGraph):
                 neighbors.append(self._id_to_node[i])
         return neighbors
 
-    def Run(self, iterations=10, C=0.8):
+    def Run(self, iterations=5, C=0.8):
         """Runs the SimRank algorithm to determine the node similarity between
         all pairs of nodes. Note: similarity is not reset after each call to
         this function, so you can continue running for more iterations later on.
