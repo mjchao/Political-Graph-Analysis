@@ -24,7 +24,7 @@ with open('ids.csv', 'r') as f:
 
     # Form URL
     line = line[:-1]
-    param = line.split(',')  
+    param = line.split(',')
     url = formatURL % (param[0], param[1])
 
     # Form request
@@ -40,20 +40,36 @@ with open('ids.csv', 'r') as f:
     content = page.read()
     # print content
 
+
     # Get table content
-    soup = BeautifulSoup(content, "lxml")
-    table = soup.find("table", attrs={"id":"topContrib"})
+    soup = BeautifulSoup(content, 'lxml')
+    table = soup.find('table', attrs={'id':'topContrib'})
+
+    # print 'Getting politician name...'
+    # Get politician name
+    profile = soup.find(id='profileEntity')
+    name = profile.find('h1').get_text()
 
     # The first tr contains the field names.
-    # headings = [th.get_text() for th in table.find("tr").find_all("th")]
+    # headings = [th.get_text() for th in table.find('tr').find_all('th')]
     # print headings
 
     # Parse rows of table and print to CSV outfile
-    for row in table.find_all("tr")[1:]:
-      # dataset = zip(headings, (td.get_text() for td in row.find_all("td")))
-      dataCol = param + [td.get_text() for td in row.find_all("td")]
+    for row in table.find_all('tr')[1:]:
+      # dataset = zip(headings, (td.get_text() for td in row.find_all('td')))
+      dataCol = []
+      dataCol.append(name + ',')
+      dataCol = dataCol + param + [td.get_text() for td in row.find_all('td')]
+      dataCol[-1] = dataCol[-1][1:]
+      dataCol[-2] = dataCol[-2][1:]
+      dataCol[-3] = dataCol[-3][1:]
+      for i, colStr in enumerate(dataCol):
+        dataCol[i] = colStr.replace(',','')
+        dataCol[i] = dataCol[i].lower()
+        # print colStr
       dataStr = ','.join(dataCol)
       outfile.write(dataStr.encode('utf8') + '\n')
+      # print dataStr.encode('utf8')
     print param[0], param[1]
 
 outfile.close()
