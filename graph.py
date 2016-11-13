@@ -1,5 +1,6 @@
 import collections
 import numpy as np
+import warnings
 
 class Graph(object):
     """Represents a graph (nodes and edges).
@@ -211,9 +212,18 @@ class SimrankGraph(DenseGraph):
         all pairs of nodes. Note: similarity is not reset after each call to
         this function, so you can continue running for more iterations later on.
 
+        Worst-case complexity: O(|V|^3). In most cases, i
+
         Args:
             iterations: (int) Number of iterations for which to run.
+            C: (float) Decay constant.
+            r: (int) Maximum node distance for which similarity is not set to
+                0. Use smaller values of r to speed up computation. Set to None
+                for infinite r. r should be positive.
         """
+        if r <= 0:
+            warnings.warn("Should use positive r for simrank.",
+                            RuntimeWarning)
         self._ComputeNodesWithinRadius(r)
 
         for iteration in range(iterations):
@@ -246,5 +256,3 @@ class SimrankGraph(DenseGraph):
         b_id = self._node_to_id[b]
         return self._similarity[a_id][b_id]
                             
-                    
-         
