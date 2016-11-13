@@ -44,9 +44,12 @@ def Load(load_dir):
 def Reset():
     """Clears all the data.
     """
-    _bills = pd.DataFrame()
-    _legislators = pd.DataFrame()
-    _companies = pd.DataFrame()
+    _bills.drop(_bills.index)
+    _legislators.drop(_legislators.index)
+    _companies.drop(_companies.index)
+    #_bills = pd.DataFrame()
+    #_legislators = pd.DataFrame()
+    #_companies = pd.DataFrame()
 
 
 def _EnsureColumnsExist(df, column_names):
