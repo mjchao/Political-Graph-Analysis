@@ -38,10 +38,11 @@ if __name__ == "__main__":
 			# print(set.intersection(set(dataframes[i][pair[0]]['yes_votes']), set(dataframes[i][pair[1]]['yes_votes'])))
 			weight += len(set.intersection(set(dataframes[i][pair[0]]['yes_votes']), set(dataframes[i][pair[1]]['yes_votes'])))
 			# weight += len(set.intersection(dataframes[i][pair[0]]['no_votes'], dataframes[i][pair[1]]['no_votes']))
-		g.SetEdgeById(pair[0], pair[1], weight, False)
+		g._SetEdgeById(pair[0], pair[1], weight, False)
 		num_edges += 1
 		total_weight += weight
 		# print(weight)
 	print('Number of Edges: ', num_edges)
 	print('Average Edge Weight: ', total_weight/num_edges)
-	g.Run()
+
+	g.Run(r=1)
