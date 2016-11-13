@@ -17,7 +17,7 @@ contribution_graph = graph.SimrankGraph(nodes_list)
 for edge in edges:
 	contribution_graph.SetEdge(edge[0],edge[1],directed=False)
 
-contribution_graph.Run()
+contribution_graph.Run(r=1)
 
 for edge in edges:
 	print(contribution_graph.Similarity(edge[0],edge[1]))

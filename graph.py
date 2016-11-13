@@ -150,6 +150,7 @@ class SimrankGraph(DenseGraph):
         # Perform a breadth first search to find all nodes within radius r
         # of each node in the graph.
         for i in range(len(self._nodes)):
+            print "Building nodes within radius", r, "for node", i, "of", len(self._nodes)
             nodes_within_radius = [] 
             added_to_queue = [False for _ in range(len(self._nodes))] 
             dist = np.empty(len(self._nodes)) * np.nan
@@ -225,7 +226,7 @@ class SimrankGraph(DenseGraph):
                 0. Use smaller values of r to speed up computation. Set to None
                 for infinite r. r should be positive.
         """
-        if r <= 0:
+        if r is not None and r <= 0:
             warnings.warn("Should use positive r for simrank.",
                             RuntimeWarning)
         self._ComputeNodesWithinRadius(r)
@@ -233,6 +234,7 @@ class SimrankGraph(DenseGraph):
         for iteration in range(iterations):
             next_similarity = np.zeros((len(self._nodes), len(self._nodes)))
             for i in range(len(self._nodes)):
+                print "Iteration", iteration, "of", iterations, ": calculating simrank for node", i, "of", len(self._nodes)
                 for j in self._nodes_within_radius[i]:
                     node1_neighbors = self._GetNeighbors(node_id=i)
                     node2_neighbors = self._GetNeighbors(node_id=j)

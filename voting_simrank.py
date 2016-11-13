@@ -29,6 +29,6 @@ if __name__ == "__main__":
 				weight += len(set.intersection(dataframes[i][pair[0]]['yes_votes'], dataframes[i][pair[1]]['yes_votes']))
 			if 'no_votes' in dataframes[i][pair[0]] and 'no_votes' in dataframes[i][pair[1]]:
 				weight += len(set.intersection(dataframes[i][pair[0]]['no_votes'], dataframes[i][pair[1]]['no_votes']))
-		g.SetEdgeById(pair[0], pair[1], weight, False)
+		g._SetEdgeById(pair[0], pair[1], weight, False)
 
-	g.Run()
+	g.Run(r=1)
