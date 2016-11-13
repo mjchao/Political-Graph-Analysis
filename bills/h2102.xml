@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="2102" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-21"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Anti-Scofflaw Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide penalties for the manufacture, sale, and use of radar detectors.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Radar"/>
+    <term name="Roads and highways"/>
+    <term name="Speed limits"/>
+    <term name="Traffic accidents and safety"/>
+    <term name="Traffic regulations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Anti-Scofflaw Act of 1987 - Amends the Federal criminal code to provide penalties for the manufacture, sale, and possession of radar detectors.</summary>
+</bill>

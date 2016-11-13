@@ -1,0 +1,61 @@
+<bill session="100" type="hc" number="367" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-09-22">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1988-09-20"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution authorizing printing of the booklet entitled "Black Americans in Congress".</title>
+  </titles>
+  <sponsor id="401560"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-20" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-22" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>House Committee on House Administration Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Received in the Senate and referred to the Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Black legislators"/>
+    <term name="Congressional publications"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Printing"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/1988--Introduced.
+Provides for the printing of the booklet entitled "Black Americans in Congress" (as revised by the Office for the Bicentennial of the House of Representatives) as a House document. Requires additional printing of such document for the use of the Office of the Bicentennial of the House of Representatives.</summary>
+</bill>

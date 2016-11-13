@@ -1,0 +1,34 @@
+<bill session="100" type="h" number="4901" updated="2014-03-22T09:53:28-04:00">
+  <state datetime="1988-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-23"/>
+  </status>
+  <introduced datetime="1988-06-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend part D of title IV of the Social Security Act to require each State, under the child support enforcement program, to authorize and provide for awards of child support on a retroactive basis in appropriate cases.</title>
+  </titles>
+  <sponsor id="403695"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-23" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Child support"/>
+    <term name="Domestic Relations and Families"/>
+    <term name="Support of dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/1988--Introduced.
+Amends part D (Child Support and Establishment of Paternity) of title IV of the Social Security Act to require States to have procedures in effect which authorize the issuance or modification of child support orders to require absent parents to pay reasonable support for retroactive periods in appropriate cases.</summary>
+</bill>

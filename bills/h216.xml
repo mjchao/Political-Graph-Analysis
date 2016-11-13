@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="216" updated="2014-03-22T09:51:13-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to permit Senior Reserve Officers' Training programs to be established at public community colleges.</title>
+  </titles>
+  <sponsor id="408976"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Community colleges"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Military training"/>
+    <term name="Officer personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Permits Senior Reserve Officers' Training programs (ROTC) to be established at public community colleges.</summary>
+</bill>

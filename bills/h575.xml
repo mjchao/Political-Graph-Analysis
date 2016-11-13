@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="575" updated="2014-03-22T09:51:24-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Farm Credit Enhancement Act of 1987</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Agriculture to guarantee pools of qualified agricultural mortgage loans and to provide for the issuance of securities representing interests in such pools.</title>
+  </titles>
+  <sponsor id="406799"/>
+  <cosponsors>
+    <cosponsor id="400895" joined="1987-03-18"/>
+    <cosponsor id="401155" joined="1987-03-31"/>
+    <cosponsor id="400569" joined="1987-02-03"/>
+    <cosponsor id="403696" joined="1987-02-03"/>
+    <cosponsor id="403904" joined="1987-03-10"/>
+    <cosponsor id="400140" joined="1987-03-05"/>
+    <cosponsor id="405256" joined="1987-02-03"/>
+    <cosponsor id="405448" joined="1987-04-22"/>
+    <cosponsor id="406530" joined="1987-02-03"/>
+    <cosponsor id="407432" joined="1987-02-19"/>
+    <cosponsor id="407967" joined="1987-03-11"/>
+    <cosponsor id="408618" joined="1987-05-27"/>
+    <cosponsor id="300083" joined="1987-03-25"/>
+    <cosponsor id="409651" joined="1987-04-22"/>
+    <cosponsor id="410261" joined="1987-03-04"/>
+    <cosponsor id="410455" joined="1987-05-04"/>
+    <cosponsor id="411405" joined="1987-02-19"/>
+    <cosponsor id="411585" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>See H.R.3030.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Government securities"/>
+    <term name="Secondary mortgage market"/>
+    <term name="Securities"/>
+    <term name="Securities and Investments"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Farm Credit Enhancement Act of 1987 - Authorizes the Secretary of Agriculture to guarantee pools of qualified agricultural mortgage loans and to provide for the issuance of securities representing interests in such pools by approved agricultural loan facilities. Sets a specified ceiling on outstanding guarantee authority. Terminates guarantee authority five years after enactment of this Act. Authorizes the Secretary to fund such guarantees through obligations issued to the Treasury.</summary>
+</bill>

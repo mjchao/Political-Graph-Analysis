@@ -1,0 +1,72 @@
+<bill session="100" type="s" number="951" updated="2014-03-22T09:55:11-04:00">
+  <state datetime="1988-10-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="short" as="introduced">Federal Courts Study Act</title>
+    <title type="short" as="reported to senate">Federal Courts Study Act</title>
+    <title type="short" as="passed senate">Federal Courts Study Act</title>
+    <title type="official" as="introduced">A bill entitled the "Federal Courts Study Act".</title>
+  </titles>
+  <sponsor id="405310"/>
+  <cosponsors>
+    <cosponsor id="300092" joined="1987-11-05"/>
+    <cosponsor id="300094" joined="1988-04-21"/>
+    <cosponsor id="300157" joined="1988-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Subcommittee on Courts and Administrative Practice. Hearings held. Hearings printed:  S.Hrg. 100-608.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text>
+    </action>
+    <calendar datetime="1988-03-24" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden with amendments. With written report No. 100-521.</text>
+    </action>
+    <calendar datetime="1988-09-22" calendar="Senate Legislative" under="General Orders" number="956">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 956.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Administration of justice"/>
+    <term name="Advisory bodies"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Jurisdiction"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Passed Senate amended.
+(Measure passed Senate, amended) Federal Courts Study Act - Establishes the Federal Courts Study Commission on the future of the Federal Judiciary. Describes the purposes, membership, and powers of the Commission. Directs the Commission to: (1) conduct a study of the jurisdiction of both Federal and State courts; (2) report study results to the President, the Chief Justice of the United States, the Judicial Conference of the United States, the Conference of Chief Justices, the State Justice Institute, and the Congress within two years after the effective date of this Act; (3) recommend revisions to the Constitution and laws of the United States; (4) collect and review studies on the effectiveness of the courts; (5) develop a long-range plan for the judicial system; and (6) beginning after the completion of the jurisdiction study, submit annual reports to the above-named parties on the condition of the judiciary. Requires the Commission to submit a final report within five years after the effective date of this Act. Terminates the Commission 90 days following submission of its final report. Authorizes appropriations for FY 1988 through 1992.</summary>
+</bill>

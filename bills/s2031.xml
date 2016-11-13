@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="2031" updated="2014-03-22T09:55:33-04:00">
+  <state datetime="1988-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-03"/>
+  </status>
+  <introduced datetime="1988-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to include inspectors of the Immigration and Naturalization Service, inspectors of the United States Customs Service, and revenue officers of the Internal Revenue Service with the immediate retirement provisions applicable to certain employees engaged in hazardous occupations.</title>
+  </titles>
+  <sponsor id="300073"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-03-23"/>
+    <cosponsor id="300064" joined="1988-04-27"/>
+    <cosponsor id="407622" joined="1988-06-07"/>
+    <cosponsor id="408597" joined="1988-05-19"/>
+    <cosponsor id="409917" joined="1988-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2532"/>
+    <bill relation="identical" session="100" type="h" number="2532"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service retirement"/>
+    <term name="Customs administration"/>
+    <term name="Department of Justice"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Law enforcement officers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1988--Introduced.
+Includes inspectors for the Immigration and Naturalization Service, inspectors for the United States Customs Service, and revenue officers for the Internal Revenue Service among those employees entitled to immediate retirement (early retirement).</summary>
+</bill>

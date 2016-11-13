@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="2718" updated="2014-03-22T09:55:54-04:00">
+  <state datetime="1988-08-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-10"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="short" as="introduced">Massachusetts Bay Protection Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Federal Water Pollution Control Act to include Massachusetts Bay, Massachusetts, in the National Estuary Program.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="300060" joined="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4883"/>
+    <bill relation="identical" session="100" type="h" number="4883"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Estuaries"/>
+    <term name="Massachusetts"/>
+    <term name="Ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/1988--Introduced.
+Massachusetts Bay Protection Act of 1988 - Amends the Federal Water Pollution Control Act to require the Administrator of the Environmental Protection Agency (EPA) to give priority consideration to the inclusion of Massachusetts Bay, Massachusetts, in the National Estuary program. Supplements program financing for Massachusetts Bay conservation efforts with funds derived from fines, penalties, or settlements paid in conjunction with Massachusetts' effort to comply with the Clean Water Act.</summary>
+</bill>

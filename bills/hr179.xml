@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="179" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-05-28">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 1934) to clarify the congressional intent concerning, and to codify, certain requirements of the Communications Act of 1934 that ensure that broadcasters afford reasonable opportunity for the discussion of conflicting views on issues of public importance.</title>
+  </titles>
+  <sponsor id="400538"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-28">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-113.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Placed on House Calendar No: 29.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 397 - 0 (Record Vote No: 162).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="1934"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Government operations and politics"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 1934 (Fairness Doctrine).</summary>
+</bill>

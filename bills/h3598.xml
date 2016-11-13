@@ -1,0 +1,82 @@
+<bill session="100" type="h" number="3598" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1987-11-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-03"/>
+  </status>
+  <introduced datetime="1987-11-03"/>
+  <titles>
+    <title type="short" as="introduced">Radioactive Materials Transportation Act of 1987</title>
+    <title type="official" as="introduced">A bill to assure additional protection in connection with the transportation of radioactive materials.</title>
+  </titles>
+  <sponsor id="407669"/>
+  <cosponsors>
+    <cosponsor id="401418" joined="1987-11-18"/>
+    <cosponsor id="401986" joined="1987-11-09"/>
+    <cosponsor id="402747" joined="1987-11-09"/>
+    <cosponsor id="402763" joined="1987-12-02"/>
+    <cosponsor id="403203" joined="1987-12-02"/>
+    <cosponsor id="403476" joined="1987-12-03"/>
+    <cosponsor id="403689" joined="1988-01-25"/>
+    <cosponsor id="403864" joined="1987-11-09"/>
+    <cosponsor id="404602" joined="1987-11-09"/>
+    <cosponsor id="407721" joined="1987-11-09"/>
+    <cosponsor id="408109" joined="1987-11-18"/>
+    <cosponsor id="300083" joined="1987-11-09"/>
+    <cosponsor id="410066" joined="1987-11-18"/>
+    <cosponsor id="400387" joined="1987-12-02"/>
+    <cosponsor id="410659" joined="1987-11-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-03" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Executive Comment Requested from DOT, FEMA, NRC, OMB.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1988-01-14">
+      <text>Unfavorable Executive Comment Received From NRC.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1631"/>
+    <bill relation="identical" session="100" type="s" number="1631"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Department of Transportation"/>
+    <term name="Environmental protection"/>
+    <term name="Federal employees"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Nuclear energy"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation of hazardous substances"/>
+    <term name="Transportation safety"/>
+  </subjects>
+  <amendments/>
+  <summary>11/3/1987--Introduced.
+Radioactive Materials Transportation Act of 1987 - Directs the Secretary of Transportation to employ an additional 20 safety inspectors above the aggregate number authorized for FY 1988 for certain Federal agencies, in order to promote radioactive materials transportation safety in cooperation with safety inspectors of the Nuclear Regulatory Commission and State and local governmental officials. Allocates such safety inspectors to the Research and Special Programs Administration, the Federal Railroad Administration, and the Federal Highway Administration. Amends the Hazardous Materials Transportation Act to subject to a civil penalty any persons who commit violations of such Act (currently such persons must knowingly commit violations). Establishes a minimum civil penalty for violations of such Act or of its regulations. Authorizes appropriations.</summary>
+</bill>

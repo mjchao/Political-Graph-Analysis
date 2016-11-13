@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="803" updated="2014-03-22T09:55:01-04:00">
+  <state datetime="1987-03-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-20"/>
+  </status>
+  <introduced datetime="1987-03-20"/>
+  <titles>
+    <title type="short" as="introduced">Fairness in Franchising Act</title>
+    <title type="official" as="introduced">A bill to impose a one year moratorium on the commission of commercial franchise business facilities on military installations.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="300026" joined="1987-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Readiness, Sustainability, Support.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Committee on Armed Services requested executive comment from Defense Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAS04" subcommittee="Readiness, Sustainability and Support" name="Senate Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Business and commerce"/>
+    <term name="Franchises (Retail trade)"/>
+    <term name="Military bases"/>
+  </subjects>
+  <amendments/>
+  <summary>3/20/1987--Introduced.
+Fairness in Franchising Act - Imposes a one-year moratorium on the construction of any commercial franchise business facility on any military installation in the United States, except where the franchisee involved owns or controls a competing franchise business located off the military installation. Directs the Secretary of Defense to conduct a study concerning the effects of the operation of commercial franchise businesses located on military installations on the sales of franchise businesses located outside the installations, and to report the results of such study to the Congress no later than 180 days after the enactment of this Act.</summary>
+</bill>

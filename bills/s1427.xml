@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="1427" updated="2014-03-22T09:55:19-04:00">
+  <state datetime="1987-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Insecticide, Fungicide, and Rodenticide Act to cancel the registration of certain cyclodienes.</title>
+  </titles>
+  <sponsor id="401611"/>
+  <cosponsors>
+    <cosponsor id="403669" joined="1987-09-18"/>
+    <cosponsor id="300099" joined="1987-09-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Licenses"/>
+    <term name="Pest control"/>
+    <term name="Pesticide regulation"/>
+    <term name="Pesticides"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/1987--Introduced.
+Amends the Federal Insecticide, Fungicide, and Rodenticide Act to cancel the registration of the pesticides chlordane, heptachlor, aldrin, and dieldrin (cyclodienes).</summary>
+</bill>

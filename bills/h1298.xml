@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="1298" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Agricultural Trade Financing Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Farm Credit Act of 1971 to extend authority for financing cooperative imports and exports.</title>
+  </titles>
+  <sponsor id="406111"/>
+  <cosponsors>
+    <cosponsor id="405580" joined="1987-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>See H.R.3.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>See H.R.3030.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3"/>
+    <bill relation="unknown" session="100" type="h" number="3030"/>
+    <bill relation="identical" session="100" type="s" number="1013"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural cooperatives"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural societies"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Export finance"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Imports"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Agricultural Trade Financing Act of 1987 - Amends the Farm Credit Act of 1971 to make financing authority permanent for certain entities in connection with the import and export activities of specified cooperatives. (Under current law such authority expires September 30, 1990.)</summary>
+</bill>

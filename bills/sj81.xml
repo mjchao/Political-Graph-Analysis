@@ -1,0 +1,55 @@
+<bill session="100" type="sj" number="81" updated="2014-03-22T09:54:20-04:00">
+  <state datetime="1987-03-18">FAIL:ORIGINATING:SENATE</state>
+  <status>
+    <unknown datetime="1987-03-18"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution disapproving the provision of additional assistance to the Nicaraguan democratic resistance pursuant to title II of the Military Construction Appropriations Act of 1987.</title>
+  </titles>
+  <sponsor id="411421"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Senate Committee on Appropriations discharged. Pursuant to the provisions of P. L. 99-500.</text>
+    </action>
+    <calendar datetime="1987-03-16" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="33">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 33.</text>
+    </calendar>
+    <action datetime="1987-03-17">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="31" datetime="1987-03-18" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
+      <text>Failed of passage in Senate by Yea-Nay Vote. 48-52. Record Vote No: 31.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="174"/>
+    <bill relation="identical" session="100" type="hj" number="174"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Insurgency"/>
+    <term name="Nicaragua"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Declares that the Congress disapproves the provision of additional assistance under the Military Construction Appropriations Act, 1987 to the Nicaraguan democratic resistance.</summary>
+</bill>

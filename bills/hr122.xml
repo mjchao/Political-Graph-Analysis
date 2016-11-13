@@ -1,0 +1,56 @@
+<bill session="100" type="hr" number="122" updated="2016-06-29T08:41:57-04:00">
+  <state datetime="1987-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that May 22, 1987, be observed by the people of the United States as a day to commemorate the Truman Doctrine and to honor the shared achievements and common commitment to democracy of the Greek, Turkish, and American peoples.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Democracy"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Calls for observing May 22, 1987, the 40th anniversary of the Truman Doctrine, as Truman Doctrine Commemoration Day by honoring the achievements of the Greek, Turkish, and American peoples and reaffirming their commitment to democracy.</summary>
+</bill>

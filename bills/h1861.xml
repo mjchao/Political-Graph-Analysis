@@ -1,0 +1,73 @@
+<bill session="100" type="h" number="1861" updated="2014-03-22T09:52:04-04:00">
+  <state datetime="1988-07-12">REPORTED</state>
+  <status>
+    <unknown datetime="1988-07-12"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to extend the program of block grants for preventive health and health services, and for other purposes.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-12" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-14">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-778.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Placed on Union Calendar No: 471.</text>
+    </action>
+    <action datetime="1988-11-04">
+      <text>For Further Action See S.2889.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2889"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Authorization"/>
+    <term name="Block grants"/>
+    <term name="Breast cancer"/>
+    <term name="Cancer"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Cholesterol"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency communication systems"/>
+    <term name="Emergency medical services"/>
+    <term name="Health planning"/>
+    <term name="Heart diseases"/>
+    <term name="Medical screening"/>
+    <term name="Preventive medicine"/>
+    <term name="Public health"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Vaccination"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Reported to House amended.
+(Reported to House from the Committee on Energy and Commerce with amendment, H. Rept. 100-778) Amends the Public Health Service Act to authorize appropriations through FY 1991 for: (1) preventive health and health service block grants; and (2) grants for emergency medical services for children. Allows allotments under the preventive health and health service block grant program to be used for: (1) screening programs for elevated serum cholesterol; (2) immunization services; (3) payment of up to 50 percent of the cost of purchasing communications equipment for emergency medical services systems; and (4) preventive health programs concerned with uterine cancer and breast cancer. Requires the Secretary of Health and Human Services to report to the Congress on State activities with respect to the preventive health and health services block grant program by October 1, 1990. Repeals provisions authorizing State planning grants.</summary>
+</bill>

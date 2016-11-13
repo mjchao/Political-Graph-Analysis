@@ -1,0 +1,76 @@
+<bill session="100" type="hc" number="322" updated="2014-03-22T09:54:14-04:00">
+  <state datetime="1988-09-15">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-15"/>
+  </status>
+  <introduced datetime="1988-06-22"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution recognizing the loyalty and dedication of the American and Panamanian employees of the Panama Canal Commission during the current political unrest in the Republic of Panama, and resolving to protect their personal safety and the integrity of their homes and workplaces.</title>
+  </titles>
+  <sponsor id="400397"/>
+  <cosponsors>
+    <cosponsor id="404068" joined="1988-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-22" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Executive Comment Requested from Panama Canal Comm.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Referred to Subcommittee on Panama Canal and Outer Continental Shelf.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Subcommittee on Panama Canal and Outer Continental Shelf Discharged.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-23">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-965.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Placed on House Calendar No: 216.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSMM05" subcommittee="Panama Canal and Outer Continental Shelf" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Americans employed in foreign countries"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Canals"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Interoceanic canals"/>
+    <term name="Panama"/>
+    <term name="Panama Canal"/>
+    <term name="Panama Canal Commission"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/1988--Passed House amended.
+(Measure passed House, amended) Expresses admiration for the performance of duty by American and Panamanian employees of the Panama Canal Commission during the political unrest in Panama. States that any Panamanian action undermining the safety of American employees shall be considered contrary to the vital interests of the United States.</summary>
+</bill>

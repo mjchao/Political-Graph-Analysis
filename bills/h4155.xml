@@ -1,0 +1,89 @@
+<bill session="100" type="h" number="4155" updated="2014-03-22T09:53:05-04:00">
+  <state datetime="1988-04-12">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-04-12"/>
+  </status>
+  <introduced datetime="1988-03-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Armed Forces Recreation Center at Fort DeRussy, Hawaii, as the "Dan Daniel Armed Forces Recreation Center".</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1988-03-23"/>
+    <cosponsor id="400569" joined="1988-03-15"/>
+    <cosponsor id="401363" joined="1988-03-15"/>
+    <cosponsor id="401526" joined="1988-03-15"/>
+    <cosponsor id="300011" joined="1988-03-15"/>
+    <cosponsor id="402114" joined="1988-03-22"/>
+    <cosponsor id="402159" joined="1988-03-15"/>
+    <cosponsor id="403190" joined="1988-03-17"/>
+    <cosponsor id="403242" joined="1988-03-22"/>
+    <cosponsor id="403364" joined="1988-03-15"/>
+    <cosponsor id="403446" joined="1988-03-15"/>
+    <cosponsor id="403696" joined="1988-03-15"/>
+    <cosponsor id="400552" joined="1988-03-29"/>
+    <cosponsor id="405114" joined="1988-03-15"/>
+    <cosponsor id="405409" joined="1988-03-22"/>
+    <cosponsor id="405524" joined="1988-03-17"/>
+    <cosponsor id="405855" joined="1988-03-15"/>
+    <cosponsor id="405887" joined="1988-03-15"/>
+    <cosponsor id="300062" joined="1988-03-15"/>
+    <cosponsor id="406554" joined="1988-03-22"/>
+    <cosponsor id="406682" joined="1988-03-15"/>
+    <cosponsor id="406873" joined="1988-03-15"/>
+    <cosponsor id="407196" joined="1988-03-15"/>
+    <cosponsor id="407282" joined="1988-03-15"/>
+    <cosponsor id="407351" joined="1988-03-15"/>
+    <cosponsor id="407399" joined="1988-03-15"/>
+    <cosponsor id="408180" joined="1988-03-15"/>
+    <cosponsor id="400302" joined="1988-03-15"/>
+    <cosponsor id="400603" joined="1988-03-15"/>
+    <cosponsor id="408907" joined="1988-03-15"/>
+    <cosponsor id="409060" joined="1988-03-15"/>
+    <cosponsor id="409325" joined="1988-03-15"/>
+    <cosponsor id="400609" joined="1988-03-17"/>
+    <cosponsor id="400377" joined="1988-03-17"/>
+    <cosponsor id="400610" joined="1988-03-30"/>
+    <cosponsor id="410455" joined="1988-03-15"/>
+    <cosponsor id="400504" joined="1988-03-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-15" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-03-29" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-04-12">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-12" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-13">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Markup"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Hawaii"/>
+    <term name="Military bases"/>
+    <term name="Military service clubs"/>
+    <term name="Names"/>
+    <term name="Recreation centers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/15/1988--Introduced.
+Designates the Armed Forces Recreation Center at Fort DeRussy, Hawaii, as the Dan Daniel Armed Forces Recreation Center.</summary>
+</bill>

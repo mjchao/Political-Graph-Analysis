@@ -1,0 +1,39 @@
+<bill session="100" type="hr" number="245" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-05"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives on the occasion of the twenty-fifth anniversary of the independence of Jamaica.</title>
+  </titles>
+  <sponsor id="406530"/>
+  <cosponsors>
+    <cosponsor id="403031" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-05" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>See H.Res.243.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="243"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Jamaica"/>
+    <term name="Sovereignty"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Introduced.
+States that the House of Representatives: (1) expresses its congratulations to the Government and people of Jamaica on their 25th anniversary of independence; (2) declares that economic and social development in Jamaica are important for the stability of the entire Caribbean region as well as the interests of the United States; and (3) expresses its sense that the United States should continue to support Jamaican efforts in developing Jamaica's economy through free market principles and in furthering cooperation in peace, economic development, and security in the Caribbean region.</summary>
+</bill>

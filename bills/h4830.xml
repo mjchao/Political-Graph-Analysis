@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="4830" updated="2014-03-22T09:53:27-04:00">
+  <state datetime="1988-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-15"/>
+  </status>
+  <introduced datetime="1988-06-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to prevent double-counting of income in the conduct of needs analysis for student assistance under that Act.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-07-07"/>
+    <cosponsor id="401986" joined="1988-07-07"/>
+    <cosponsor id="400055" joined="1988-07-07"/>
+    <cosponsor id="402454" joined="1988-07-07"/>
+    <cosponsor id="400548" joined="1988-07-07"/>
+    <cosponsor id="402763" joined="1988-07-07"/>
+    <cosponsor id="400081" joined="1988-07-07"/>
+    <cosponsor id="403242" joined="1988-07-07"/>
+    <cosponsor id="403769" joined="1988-07-07"/>
+    <cosponsor id="400536" joined="1988-07-07"/>
+    <cosponsor id="405006" joined="1988-07-07"/>
+    <cosponsor id="405524" joined="1988-07-07"/>
+    <cosponsor id="405580" joined="1988-08-02"/>
+    <cosponsor id="405646" joined="1988-06-15"/>
+    <cosponsor id="405775" joined="1988-07-07"/>
+    <cosponsor id="400192" joined="1988-07-07"/>
+    <cosponsor id="400205" joined="1988-07-07"/>
+    <cosponsor id="406530" joined="1988-07-07"/>
+    <cosponsor id="406995" joined="1988-07-07"/>
+    <cosponsor id="407196" joined="1988-07-07"/>
+    <cosponsor id="407215" joined="1988-08-02"/>
+    <cosponsor id="407320" joined="1988-08-02"/>
+    <cosponsor id="407399" joined="1988-08-02"/>
+    <cosponsor id="407721" joined="1988-08-02"/>
+    <cosponsor id="407816" joined="1988-07-07"/>
+    <cosponsor id="408109" joined="1988-07-07"/>
+    <cosponsor id="408407" joined="1988-08-02"/>
+    <cosponsor id="400601" joined="1988-08-02"/>
+    <cosponsor id="400604" joined="1988-07-07"/>
+    <cosponsor id="400409" joined="1988-07-07"/>
+    <cosponsor id="411901" joined="1988-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-15" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-07-05">
+      <text>Referred to Subcommittee on Postsecondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED08" subcommittee="Postsecondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Income"/>
+    <term name="Student aid"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/1988--Introduced.
+Amends the Higher Education Act of 1965 to prevent double-counting of income in the conduct of needs analysis for student assistance programs under such Act.</summary>
+</bill>

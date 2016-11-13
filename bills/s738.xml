@@ -1,0 +1,51 @@
+<bill session="100" type="s" number="738" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-04-23">REPORTED</state>
+  <status>
+    <unknown datetime="1987-04-23"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Foreign Assistance Act of 1961 to modify provisions relating to the trade and development program.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="300052" joined="1987-06-03"/>
+    <cosponsor id="405305" joined="1987-06-03"/>
+    <cosponsor id="409562" joined="1987-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Committee on Foreign Relations requested executive comment from State Department.</text>
+    </action>
+    <calendar datetime="1987-04-23" state="REPORTED">
+      <text>Committee on Foreign Relations. Provisions of measure incorporated into measure S. 1274 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1274"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Advisory bodies"/>
+    <term name="American economic assistance"/>
+    <term name="Authorization"/>
+    <term name="Business and commerce"/>
+    <term name="China"/>
+    <term name="Economics and public finance"/>
+    <term name="Employment and training programs"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government and business"/>
+    <term name="Labor and employment"/>
+    <term name="Manpower training programs"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Amends the Foreign Assistance Act of 1961 to require the Director of the Trade and Development Program to establish an advisory board which shall include representatives of the Small Business Service Bureau, Inc., the American Consulting Engineers, and the International Engineering and Construction Industries Council. Increases the FY 1987 authorization for the Program. Earmarks a specified amount of the FY 1987 authorization for education and training programs for nationals from China. Requires that half such earmarked funds be used for education and training programs administered by small businesses in the United States.</summary>
+</bill>

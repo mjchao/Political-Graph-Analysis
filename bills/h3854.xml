@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="3854" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-25"/>
+  </status>
+  <introduced datetime="1988-01-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the provision of the Fiscal Year 1988 Continuing Resolution that bars the Federal Communications Commission from modifying, or extending waivers from, certain rules relating to common ownership of a daily newspaper and a television station.</title>
+  </titles>
+  <sponsor id="407457"/>
+  <cosponsors>
+    <cosponsor id="403242" joined="1988-02-16"/>
+    <cosponsor id="403545" joined="1988-02-16"/>
+    <cosponsor id="403641" joined="1988-02-16"/>
+    <cosponsor id="404009" joined="1988-02-16"/>
+    <cosponsor id="400205" joined="1988-02-16"/>
+    <cosponsor id="406255" joined="1988-02-16"/>
+    <cosponsor id="400307" joined="1988-02-16"/>
+    <cosponsor id="410641" joined="1988-02-16"/>
+    <cosponsor id="411901" joined="1988-02-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-25" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-01-25">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-02-05">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Freedom of speech"/>
+    <term name="Freedom of the press"/>
+    <term name="Mass media"/>
+    <term name="Newspaper publishing"/>
+    <term name="Newspapers"/>
+    <term name="Newspapers and Periodicals"/>
+    <term name="Television"/>
+    <term name="Television stations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/1988--Introduced.
+Amends the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriation Act, 1988 with respect to funds appropriated to the Federal Communications Commission (FCC). Repeals a prohibition against using such funds to repeal, modify, review, or extend waivers in connection with FCC rules governing the common ownership of a daily newspaper and a television station whose primary field strength contour encompasses the same community.</summary>
+</bill>

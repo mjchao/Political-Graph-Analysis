@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="1061" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-21"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to enforcement of the restrictions against imported pornography.</title>
+  </titles>
+  <sponsor id="410936"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-04-21"/>
+    <cosponsor id="300072" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-03-01">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1339"/>
+    <bill relation="identical" session="100" type="h" number="1339"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Civil procedure"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Customs administration"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Forfeiture"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Judicial districts"/>
+    <term name="Pornography"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Amends provisions of the Tariff Act of 1930 which prohibit the importation of immoral articles (treasonous or obscene materials, drugs for causing unlawful abortions, and lottery tickets) to permit customs officers to transmit information regarding the seizure of such articles to the U.S. attorney in the district to which the articles are addressed for institution of forfeiture, confiscation, and destruction actions. (Present law requires seizure information to be transmitted only to the U.S. attorney's office in the district at which the seizure took place.) Requires forfeiture proceedings for obscene material to begin within 30 days of seizure. Prohibits invalidation of a seizure or forfeiture for delay if proceedings are postponed pending the consideration of constitutional issues. Permits stays of forfeiture proceedings pending completion of any related criminal matters.</summary>
+</bill>

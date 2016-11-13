@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="4194" updated="2014-03-22T09:53:07-04:00">
+  <state datetime="1988-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-17"/>
+  </status>
+  <introduced datetime="1988-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the provisions of the Revenue Act of 1987 which imposed the diesel fuel and aviation fuel taxes at the wholesale level.</title>
+  </titles>
+  <sponsor id="300029"/>
+  <cosponsors>
+    <cosponsor id="406530" joined="1988-03-17"/>
+    <cosponsor id="408957" joined="1988-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-17" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Aircraft"/>
+    <term name="Aviation"/>
+    <term name="Aviation fuels"/>
+    <term name="Diesel motor"/>
+    <term name="Excise tax"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Petroleum and petroleum products"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1988--Introduced.
+Repeals provisions of the Revenue Act of 1987 that imposed excise tax on wholesale sales of diesel and aviation fuels. Provides that the Internal Revenue Code be applied and administered as if such provisions had not been enacted.</summary>
+</bill>

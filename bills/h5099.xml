@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="5099" updated="2014-03-22T09:53:33-04:00">
+  <state datetime="1988-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-27"/>
+  </status>
+  <introduced datetime="1988-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Employee Polygraph Protection Act of 1988 to provide coverage under the Act with respect to employees of units of the legislative branch of the Federal Government.</title>
+  </titles>
+  <sponsor id="404170"/>
+  <cosponsors>
+    <cosponsor id="401203" joined="1988-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-27" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Personnel and Police.</text>
+    </action>
+    <action datetime="1988-08-12">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+    <action datetime="1988-08-12">
+      <text>Referred to Subcommittee on Employment Opportunities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED06" subcommittee="Employment Opportunities" name="House Education and Labor"/>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA05" subcommittee="Personnel and Police" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Congressional committees (Senate)"/>
+    <term name="Congressional employees"/>
+    <term name="Employee rights"/>
+    <term name="House of Representatives"/>
+    <term name="Polygraphs"/>
+    <term name="Right of privacy"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/1988--Introduced.
+Amends the Employee Polygraph Protection Act of 1988 (P.L. 100-347) to direct specified congressional committees to establish rules and procedures to apply the principles of such Act with respect to employees of the House of Representatives and the Senate.</summary>
+</bill>

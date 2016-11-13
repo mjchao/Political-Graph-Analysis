@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="3153" updated="2014-03-22T09:52:45-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the President to award a Congressional Medal of Honor in honor of Lieutenant Charles B. Gatewood in recognition of the heroic service rendered by Lieutenant Gatewood in connection with the surrender of Geronimo in the fall of 1886.</title>
+  </titles>
+  <sponsor id="400226"/>
+  <cosponsors>
+    <cosponsor id="403529" joined="1987-09-29"/>
+    <cosponsor id="405646" joined="1987-09-29"/>
+    <cosponsor id="400192" joined="1987-09-29"/>
+    <cosponsor id="406530" joined="1987-09-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-08-12">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-08-12">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>Unfavorable Executive Comment Received From Army.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Awards, medals, prizes"/>
+    <term name="Commemorations"/>
+    <term name="Congressional Medal of Honor"/>
+    <term name="History"/>
+    <term name="Military medals, decorations, etc."/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Authorizes the President to award a Congressional Medal of Honor in honor of Lieutenant Charles B. Gatewood, in recognition of services rendered by Lieutenant Gatewood in connection with the surrender of the Apache leader Geronimo in the fall of 1886. Directs the President to present the medal, if awarded, to a named descendant of Lieutenant Gatewood.</summary>
+</bill>

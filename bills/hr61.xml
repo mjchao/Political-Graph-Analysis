@@ -1,0 +1,44 @@
+<bill session="100" type="hr" number="61" updated="2014-03-22T09:50:55-04:00">
+  <state datetime="1987-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-02"/>
+  </status>
+  <introduced datetime="1987-02-02"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to refer H.R. 816 to the Chief Commissioner of the United States Court of Claims.</title>
+  </titles>
+  <sponsor id="401874"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-02" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-875.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Placed on Private Calendar No: 74.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1987--Introduced.
+Refers H.R. 816, a bill for the relief of certain individuals, to the chief judge of the United States Claims Court.</summary>
+</bill>

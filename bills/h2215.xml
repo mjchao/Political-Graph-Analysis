@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="2215" updated="2014-03-22T09:52:17-04:00">
+  <state datetime="1987-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-29"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that the targeted jobs tax credit shall not be allowed for wages paid during the period of a labor dispute.</title>
+  </titles>
+  <sponsor id="407853"/>
+  <cosponsors>
+    <cosponsor id="400223" joined="1987-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employer incentives"/>
+    <term name="Employment tax credits"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Labor disputes"/>
+    <term name="Lockouts"/>
+    <term name="Tax credits"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1987--Introduced.
+Amends the Internal Revenue Code to revise the definition of "wages" for purposes of determining the amount of the targeted jobs credit against income tax. Excludes from the wages applicable to such credit any amount paid by an employer to an employee for services performed during the period of a strike or lockout when such employee's principal place of employment is the affected plant or facility.</summary>
+</bill>

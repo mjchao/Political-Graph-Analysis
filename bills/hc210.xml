@@ -1,0 +1,38 @@
+<bill session="100" type="hc" number="210" updated="2014-03-22T09:54:10-04:00">
+  <state datetime="1987-11-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-03"/>
+  </status>
+  <introduced datetime="1987-11-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that monetary policy should stabilize the domestic economy, not exchange rates.</title>
+  </titles>
+  <sponsor id="408109"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-03" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Referred to Subcommittee on Domestic Monetary Policy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA03" subcommittee="Domestic Monetary Policy" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="301"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Economic growth"/>
+    <term name="Federal reserve system"/>
+    <term name="Foreign exchange"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+  </subjects>
+  <amendments/>
+  <summary>11/3/1987--Introduced.
+Urges the Board of Governors of the Federal Reserve System and the Federal Open Market Committee to: (1) conduct monetary policy independently of any international agreements or understandings reached by the Department of the Treasury; (2) refrain from conducting monetary policy primarily for the purpose of maintaining exchange rates for the dollar at any particular level or within any particular range; (3) devote monetary policy to the stabilization of the domestic economy along a path of steady, sustainable, and noninflationary growth, even if such stabilization entails significant changes in exchange rates; and (4) take into account the behavior of the dollar on the foreign exchange market in their deliberations, but only as one of many factors affecting the domestic economy.</summary>
+</bill>

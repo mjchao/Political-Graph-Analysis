@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="1298" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-05-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-29"/>
+  </status>
+  <introduced datetime="1987-05-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of the Merchants National Bank of Mobile, Alabama.</title>
+  </titles>
+  <sponsor id="300089"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>5/29/1987--Introduced.
+Authorizes and directs the Secretary of the Treasury to pay a specified sum to a named Alabama bank in full satisfaction of all claims against the United States for losses arising from the cancellation of a Government loan guarantee due to actions and misrepresentations of the Defense Logistics Agency of the Department of Defense.</summary>
+</bill>

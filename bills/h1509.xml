@@ -1,0 +1,82 @@
+<bill session="100" type="h" number="1509" updated="2014-03-22T09:51:52-04:00">
+  <state datetime="1987-04-08">REPORTED</state>
+  <status>
+    <unknown datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Intellectual Property and Trade Act</title>
+    <title type="official" as="introduced">A bill to amend the patent and trademark laws of the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="406191"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1987-04-07"/>
+    <cosponsor id="400064" joined="1987-04-07"/>
+    <cosponsor id="400076" joined="1987-04-07"/>
+    <cosponsor id="405775" joined="1987-04-08"/>
+    <cosponsor id="407899" joined="1987-04-07"/>
+    <cosponsor id="409968" joined="1987-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Measure incorporated into H.R. 3.</text>
+    </action>
+    <action datetime="1987-03-23">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-04-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-08" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-08-23">
+      <text>Provisions of Measure Incorporated Into H.R.4848.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3"/>
+    <bill relation="unknown" session="100" type="h" number="4848"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Computers"/>
+    <term name="Copyright"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import relief"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Patents"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Science and technology"/>
+    <term name="Semiconductors"/>
+    <term name="Trademarks"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Intellectual Property and Trade Act - Amends the Tariff Act of 1930 to make unlawful acts of importation into, or sale in, the United States of articles that infringe a valid U.S. patent, copyright, trademark, or U.S. maskwork in current or soon to be established industries. Permits any person to petition the International Trade Commission (ITC) for the issuance of an order to exclude such articles, during its investigation, from entry into the United States. Sets forth: (1) civil penalties for violations under this Act; and (2) procedures for the modification or rescission of an ITC order under this Act. Repeals a provision of the Tariff Act of 1930 relating to the importation of products produced under a process covered by claims of an unexpired patent.</summary>
+</bill>

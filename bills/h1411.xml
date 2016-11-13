@@ -1,0 +1,71 @@
+<bill session="100" type="h" number="1411" updated="2014-03-22T09:51:48-04:00">
+  <state datetime="1987-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-04"/>
+  </status>
+  <introduced datetime="1987-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to increase the sums authorized to be appropriated for drug law enforcement programs for the fiscal years 1988 and 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-04-27"/>
+    <cosponsor id="300001" joined="1987-05-18"/>
+    <cosponsor id="401418" joined="1987-04-27"/>
+    <cosponsor id="400080" joined="1987-04-27"/>
+    <cosponsor id="403190" joined="1987-04-27"/>
+    <cosponsor id="403242" joined="1987-04-27"/>
+    <cosponsor id="403314" joined="1987-07-23"/>
+    <cosponsor id="403476" joined="1987-05-18"/>
+    <cosponsor id="403545" joined="1987-05-18"/>
+    <cosponsor id="403689" joined="1987-07-23"/>
+    <cosponsor id="403769" joined="1987-05-18"/>
+    <cosponsor id="404097" joined="1987-05-18"/>
+    <cosponsor id="404139" joined="1988-02-01"/>
+    <cosponsor id="404190" joined="1987-07-23"/>
+    <cosponsor id="400140" joined="1987-05-18"/>
+    <cosponsor id="400143" joined="1987-04-27"/>
+    <cosponsor id="404422" joined="1987-07-23"/>
+    <cosponsor id="400536" joined="1987-03-04"/>
+    <cosponsor id="406157" joined="1987-05-18"/>
+    <cosponsor id="400216" joined="1987-05-18"/>
+    <cosponsor id="400238" joined="1987-04-27"/>
+    <cosponsor id="407141" joined="1987-04-27"/>
+    <cosponsor id="407672" joined="1987-04-27"/>
+    <cosponsor id="400306" joined="1987-05-18"/>
+    <cosponsor id="409632" joined="1987-04-27"/>
+    <cosponsor id="410066" joined="1987-04-27"/>
+    <cosponsor id="410145" joined="1987-04-27"/>
+    <cosponsor id="410407" joined="1987-04-27"/>
+    <cosponsor id="400611" joined="1987-04-27"/>
+    <cosponsor id="411677" joined="1987-05-18"/>
+    <cosponsor id="400439" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-04" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Authorization"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Narcotic traffic"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1987--Introduced.
+Amends the Omnibus Crime Control and Safe Streets Act of 1968 to increase the sums authorized to be appropriated for drug law enforcement programs. Provides additional limitations on the allocation of funds for discretionary grants under such programs.</summary>
+</bill>

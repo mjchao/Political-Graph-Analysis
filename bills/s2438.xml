@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="2438" updated="2014-03-22T09:55:49-04:00">
+  <state datetime="1988-05-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-26"/>
+  </status>
+  <introduced datetime="1988-05-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that the time for the payment of the manufacturers' excise tax on bows, arrows and accessories will be the same as the time for payment of the excise tax on sport fishing equipment.</title>
+  </titles>
+  <sponsor id="404444"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-06-28"/>
+    <cosponsor id="403171" joined="1988-05-26"/>
+    <cosponsor id="300052" joined="1988-05-26"/>
+    <cosponsor id="408970" joined="1988-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3245"/>
+    <bill relation="identical" session="100" type="h" number="3245"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Equipment and supplies"/>
+    <term name="Excise tax"/>
+    <term name="Hunting"/>
+    <term name="Manufacturing industries"/>
+    <term name="Sports and Athletics"/>
+    <term name="Sports and recreation"/>
+    <term name="Tax administration"/>
+    <term name="Trapping"/>
+  </subjects>
+  <amendments/>
+  <summary>5/26/1988--Introduced.
+Amends the Internal Revenue Code to provide that the manufacturers excise tax on bows, arrows, and related accessories shall be due and payable on the date for filing the appropriate return. (This provision corresponds to the treatment of sport fishing equipment under current law.)</summary>
+</bill>

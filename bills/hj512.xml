@@ -1,0 +1,35 @@
+<bill session="100" type="hj" number="512" updated="2014-03-22T09:54:00-04:00">
+  <state datetime="1988-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-23"/>
+  </status>
+  <introduced datetime="1988-03-23"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating "God Bless America" as the national hymn of the United States.</title>
+  </titles>
+  <sponsor id="400055"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-23" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Emblems"/>
+    <term name="Music"/>
+    <term name="National emblems"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/1988--Introduced.
+Designates the composition known as "God Bless America" as the national hymn of the United States. Declares that this designation shall not be construed to repeal or affect the Act designating the Star-Spangled Banner as the national anthem.</summary>
+</bill>

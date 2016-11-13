@@ -1,0 +1,35 @@
+<bill session="100" type="hr" number="350" updated="2014-03-22T09:50:59-04:00">
+  <state datetime="1988-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-27"/>
+  </status>
+  <introduced datetime="1988-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to amend the Rules of the House of Representatives to provide that no bill may contain more than one subject.</title>
+  </titles>
+  <sponsor id="300017"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-02-02"/>
+    <cosponsor id="400586" joined="1988-02-02"/>
+    <cosponsor id="408190" joined="1988-02-02"/>
+    <cosponsor id="400601" joined="1988-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-27" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1988--Introduced.
+Amends rule XXI of the Rules of the House of Representatives to prohibit the House from considering any bill if it contains more than one subject.</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="100" type="hj" number="672" updated="2016-06-29T08:44:50-04:00">
+  <state datetime="1988-10-21">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-10-04"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate January 4, 1989, as "National Commissioned Corps of the Public Health Service Centennial Day".</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors>
+    <cosponsor id="407069" joined="1988-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-04" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="395"/>
+    <bill relation="identical" session="100" type="sj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Public health personnel"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Introduced.
+Designates January 4, 1989, as National Commissioned Corps of the Public Health Service Centennial Day.</summary>
+</bill>

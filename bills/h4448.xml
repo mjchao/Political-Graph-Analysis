@@ -1,0 +1,125 @@
+<bill session="100" type="h" number="4448" updated="2014-03-22T09:53:17-04:00">
+  <state datetime="1988-06-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-24"/>
+  </status>
+  <introduced datetime="1988-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Cleveland Ohio General Mail Facility and Main Office in Cleveland, Ohio, as the "John O. Holly Building of the United States Postal Service".</title>
+  </titles>
+  <sponsor id="410407"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="1988-04-26"/>
+    <cosponsor id="400975" joined="1988-04-26"/>
+    <cosponsor id="401383" joined="1988-04-26"/>
+    <cosponsor id="401417" joined="1988-04-26"/>
+    <cosponsor id="402626" joined="1988-04-26"/>
+    <cosponsor id="402763" joined="1988-04-26"/>
+    <cosponsor id="403031" joined="1988-04-26"/>
+    <cosponsor id="403314" joined="1988-04-26"/>
+    <cosponsor id="403364" joined="1988-04-26"/>
+    <cosponsor id="400580" joined="1988-04-26"/>
+    <cosponsor id="403695" joined="1988-04-26"/>
+    <cosponsor id="403776" joined="1988-04-26"/>
+    <cosponsor id="403904" joined="1988-04-26"/>
+    <cosponsor id="404006" joined="1988-04-26"/>
+    <cosponsor id="404013" joined="1988-04-26"/>
+    <cosponsor id="404139" joined="1988-04-26"/>
+    <cosponsor id="404213" joined="1988-04-26"/>
+    <cosponsor id="400143" joined="1988-04-26"/>
+    <cosponsor id="404422" joined="1988-04-26"/>
+    <cosponsor id="404752" joined="1988-04-26"/>
+    <cosponsor id="405236" joined="1988-04-26"/>
+    <cosponsor id="405256" joined="1988-04-26"/>
+    <cosponsor id="405646" joined="1988-04-26"/>
+    <cosponsor id="300058" joined="1988-04-26"/>
+    <cosponsor id="406148" joined="1988-04-26"/>
+    <cosponsor id="406157" joined="1988-04-26"/>
+    <cosponsor id="400211" joined="1988-04-26"/>
+    <cosponsor id="400223" joined="1988-04-26"/>
+    <cosponsor id="406622" joined="1988-04-26"/>
+    <cosponsor id="400238" joined="1988-04-26"/>
+    <cosponsor id="400243" joined="1988-04-26"/>
+    <cosponsor id="406974" joined="1988-04-26"/>
+    <cosponsor id="400595" joined="1988-04-26"/>
+    <cosponsor id="400256" joined="1988-04-26"/>
+    <cosponsor id="407672" joined="1988-04-26"/>
+    <cosponsor id="400306" joined="1988-04-26"/>
+    <cosponsor id="408457" joined="1988-04-26"/>
+    <cosponsor id="400314" joined="1988-04-26"/>
+    <cosponsor id="400333" joined="1988-04-26"/>
+    <cosponsor id="409353" joined="1988-04-26"/>
+    <cosponsor id="410145" joined="1988-04-26"/>
+    <cosponsor id="400610" joined="1988-04-26"/>
+    <cosponsor id="411947" joined="1988-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-21" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-27" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-05-09">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-09" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-05-10">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="1988-05-16" calendar="Senate Legislative" under="General Orders" number="673">
+      <text>Read the second time by unanimous consent. Placed on Senate Legislative Calendar under General Orders. Calendar No. 673.</text>
+    </calendar>
+    <action datetime="1988-05-25">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-05-25" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-05-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-09" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-15">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-345" type="public" datetime="1988-06-24">
+      <text>Became Public Law No: 100-345.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Arizona"/>
+    <term name="Canals"/>
+    <term name="Federal installations"/>
+    <term name="Names"/>
+    <term name="Ohio"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2299"/>
+  </amendments>
+  <summary>5/25/1988--Passed Senate amended.
+(Measure passed Senate, amended) Designates the building located at 2400 Orange Avenue, Cleveland, Ohio, known as the Cleveland Ohio General Mail Facility and Main Office as the John O. Holly Building of the United States Postal Service. Designates the Granite Reef Aqueduct of the Central Arizona project as the Hayden-Rhodes Aqueduct.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="5025" updated="2014-03-22T09:53:30-04:00">
+  <state datetime="1988-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-12"/>
+  </status>
+  <introduced datetime="1988-07-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to enforce the Helsinki Final Act of the Conference on Security and Cooperation in Europe by denying most favored nation status to countries which are not in complete or substantially complete compliance with the Helsinki Final Act.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-12" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-07-15">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-07-25">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-07-25">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1988-07-25">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Human rights"/>
+    <term name="Imports"/>
+    <term name="International affairs"/>
+    <term name="Most favored nation principle"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/1988--Introduced.
+Prohibits the extension of nondiscriminatory treatment (most favored nation status) to the products of a country which is a signatory to the Final Act of the Conference on Security and Cooperation in Europe (Helsinki Final Act) and whose products were not receiving such nondiscriminatory treatment as of May 1, 1988, unless the President certifies to the Congress that such country is either in complete or substantially complete compliance with such Final Act, particularly the human rights and humanitarian affairs provisions.</summary>
+</bill>

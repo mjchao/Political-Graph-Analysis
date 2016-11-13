@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="3776" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1987-12-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-16"/>
+  </status>
+  <introduced datetime="1987-12-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide technical corrections to the Act incorporating the Naval Sea Cadet Corps.</title>
+  </titles>
+  <sponsor id="400435"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-16" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Education"/>
+    <term name="Federal incorporation"/>
+    <term name="Military training"/>
+    <term name="Naval personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/1987--Introduced.
+Provides that upon the dissolution or liquidation of the Naval Sea Cadet Corps its assets shall be distributed: (1) for tax exempt purposes; or (2) to the Federal Government, or a State or local government, exclusively for public purposes.</summary>
+</bill>

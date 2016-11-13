@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="1746" updated="2014-03-22T09:51:57-04:00">
+  <state datetime="1987-04-08">REPORTED</state>
+  <status>
+    <unknown datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to extend certain preventive health service programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors>
+    <cosponsor id="407069" joined="1987-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-04-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-08" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-07-29">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-251.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Placed on Union Calendar No: 155.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>See H.R.1327.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1327"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Authorization"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Federal aid to child health services"/>
+    <term name="Federal aid to medical education"/>
+    <term name="Health education"/>
+    <term name="Medical research"/>
+    <term name="Preventive medicine"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Vaccination"/>
+    <term name="Vaccines"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Reported to House amended.
+(Reported to House from the Committee on Energy and Commerce with amendment, H. Rept. 100-251) Amends the Public Health Service Act to extend through 1990, while increasing the authorization of appropriations, the program of project grants to assist States and localities in immunizing, without charge, persons, including children, against vaccine-preventable diseases. States that certain provisions of this Act do not prohibit grantees from accepting voluntary donations from individuals to whom the grantee has provided an immunization. Prohibits grantees from refusing to provide an immunization to an individual on the ground that the individual will not provide a voluntary donation with respect to the immunization. States that existing provisions authorizing the Secretary of Health and Human Services to make grants include making grants for the prevention and control of vaccine-preventable diseases for: (1) research; (2) demonstration projects; (3) public information and education; and (4) education, training, and clinical skills improvement activities. Requires the Secretary, acting through the Director of the Centers for Disease Control, to maintain a six-month stockpile of vaccines. Authorizes appropriations for FY 1988 through 1990.</summary>
+</bill>

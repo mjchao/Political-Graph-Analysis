@@ -1,0 +1,40 @@
+<bill session="100" type="hj" number="247" updated="2016-06-29T08:44:31-04:00">
+  <state datetime="1987-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-21"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating April 1987 as "National Child Abuse Prevention Month".</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="400205" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>See S.J.Res.58.</text>
+    </action>
+    <action datetime="1987-04-27">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="sj" number="58"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Child abuse"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Designates the month of April 1987 as National Child Abuse Prevention Month.</summary>
+</bill>

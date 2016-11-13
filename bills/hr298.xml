@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="298" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-10-29">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-10-29"/>
+  </status>
+  <introduced datetime="1987-10-29"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 3545) to provide for reconciliation pursuant to section 4 of the concurrent resolution on the budget for the fiscal year 1988.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-29">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-411.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Placed on House Calendar No: 95.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 238 - 182 (Record Vote No: 390).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Federal budgets"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 3545 (budget reconciliation).</summary>
+</bill>

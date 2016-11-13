@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1898" updated="2014-03-22T09:52:06-04:00">
+  <state datetime="1987-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-01"/>
+  </status>
+  <introduced datetime="1987-04-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to temporarily prohibit the Secretary of Commerce from implementing regulations requiring the use of turtle excluder devices in the western Gulf of Mexico.</title>
+  </titles>
+  <sponsor id="406863"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-01" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Executive Comment Requested from Commerce, Interior.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Fisheries"/>
+    <term name="Fishery management"/>
+    <term name="Gulf of Mexico"/>
+    <term name="Marine resources conservation"/>
+    <term name="Reptiles"/>
+    <term name="Shellfish fisheries"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/1987--Introduced.
+Prohibits the Secretary of Commerce, until July 15, 1988, from implementing any rules or regulations which require the use in certain parts of the western Gulf of Mexico of devices which exclude sea turtles from shrimp trawl nets.</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="3018" updated="2014-03-22T09:52:36-04:00">
+  <state datetime="1987-07-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-27"/>
+  </status>
+  <introduced datetime="1987-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to prohibit smoking on board passenger-carrying aircraft on flights of two hours or less and on flights where seating is not assigned.</title>
+  </titles>
+  <sponsor id="401231"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="1987-10-27"/>
+    <cosponsor id="400299" joined="1987-10-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-27" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-08-10">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air travel"/>
+    <term name="Aircraft"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Health"/>
+    <term name="Smoking"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/1987--Introduced.
+Amends the Federal Aviation Act of 1958 to prohibit smoking on passenger-carrying aircraft if the flight is scheduled for two hours or less or seating is not assigned. Directs the Administrator of the Federal Aviation Administration to promulgate regulations to implement this Act.</summary>
+</bill>

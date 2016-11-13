@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="2145" updated="2014-03-22T09:52:13-04:00">
+  <state datetime="1987-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-23"/>
+  </status>
+  <introduced datetime="1987-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to impose a civil penalty for the making of false statements during United States International Trade Commission proceedings, and for other purposes.</title>
+  </titles>
+  <sponsor id="403266"/>
+  <cosponsors>
+    <cosponsor id="400299" joined="1987-04-23"/>
+    <cosponsor id="409654" joined="1987-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-23" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Administrative procedure"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government operations and politics"/>
+    <term name="International Trade Commission"/>
+    <term name="Perjury"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/1987--Introduced.
+Amends the Tariff Act of 1930 to make it unlawful for a person to make false statements during an International Trade Commission investigation or proceeding. Imposes civil penalties. Entitles a petitioner in the investigation or proceeding to have an adverse decision vacated and a rehearing if a person is found liable for making false statements.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="3884" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-02-16">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-02-16"/>
+  </status>
+  <introduced datetime="1988-02-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to rescind certain budget authority recommended in P.L. 100-202.</title>
+  </titles>
+  <sponsor id="400300"/>
+  <cosponsors>
+    <cosponsor id="403769" joined="1988-02-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-01" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="4" datetime="1988-02-02" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 384 - 1 (Record Vote No: 4).</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-02-02" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-02-02">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-02-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-02-05">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-02-16" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-251" type="public" datetime="1988-02-16">
+      <text>Became Public Law No: 100-251.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Appropriations"/>
+    <term name="Department of State"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational facilities"/>
+    <term name="Executive impoundment of appropriated funds"/>
+    <term name="France"/>
+    <term name="Jews"/>
+    <term name="North Africa"/>
+    <term name="Refugees"/>
+    <term name="Schools"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/1988--Introduced.
+Rescinds funds appropriated to the Department of State by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 for the construction of educational facilities for North African Jewish refugees in France.</summary>
+</bill>

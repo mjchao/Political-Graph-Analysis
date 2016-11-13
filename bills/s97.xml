@@ -1,0 +1,36 @@
+<bill session="100" type="s" number="97" updated="2014-03-22T09:54:46-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide that psychologist services furnished by, or under arrangements made by, a hospice program are covered under Medicare.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="407268" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Hospices (Terminal care)"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+    <term name="Mental health services"/>
+    <term name="Psychologists"/>
+    <term name="Terminal care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to include psychologists' services within the definition of hospice care.</summary>
+</bill>

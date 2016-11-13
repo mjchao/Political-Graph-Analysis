@@ -1,0 +1,108 @@
+<bill session="100" type="h" number="3431" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1988-08-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-22"/>
+  </status>
+  <introduced datetime="1987-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to release a reversionary interest of the United States in a certain parcel of land located in Bay County, Florida.</title>
+  </titles>
+  <sponsor id="405855"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-06" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-08" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-15">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-706.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Placed on Union Calendar No: 426.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <calendar datetime="1988-08-03">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-08-05">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-451.</text>
+    </action>
+    <calendar datetime="1988-08-05" calendar="Senate Legislative" under="General Orders" number="867">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 867.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-08-09" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-08-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-08-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-08-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-22" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-410" type="public" datetime="1988-08-22">
+      <text>Became Public Law No: 100-410.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Florida"/>
+    <term name="Land transfers"/>
+    <term name="Land use"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/1988--Passed House amended.
+(Measure passed House, amended) Directs the Secretary of the Interior, upon the receipt of certain documents from the Board of Commissioners of Bay County, Florida, to take steps to: (1) release specified lands in Bay County from the restriction that they be used forever for recreational purposes; and (2) release all right, title, and interest of the United States in the surface estate in such lands to Bay County or its successors. Continues to reserve to the United States the minerals and associated rights previously reserved in such property to the United States. Prohibits the Secretary from taking such steps unless and until the county makes a timely submission (within one year after enactment of this Act) to the Secretary of documents demonstrating that: (1) the county has entered into a binding agreement to exchange the county's interest in such lands for other specified land which the Secretary finds suitable for use for public open space and recreation; and (2) the county agrees that such other land shall be used forever for public open space and recreation or it shall revert to the United States. Directs the Secretary to retain any land transferred to, and vested in, the United States under this Act and to manage it for public open space and recreation, unless the Secretary determines that such land is suitable for disposal, pursuant to the Federal Land Policy and Management Act of 1976.</summary>
+</bill>

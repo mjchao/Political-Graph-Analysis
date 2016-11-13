@@ -1,0 +1,77 @@
+<bill session="100" type="h" number="2057" updated="2014-03-22T09:52:09-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 1105 of title 31, United States Code, relating to the President's budget to require it to separately set forth the annual budget of the Federal Reserve System.</title>
+  </titles>
+  <sponsor id="404996"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-04-09"/>
+    <cosponsor id="400975" joined="1987-04-09"/>
+    <cosponsor id="400018" joined="1987-05-19"/>
+    <cosponsor id="400025" joined="1987-04-09"/>
+    <cosponsor id="400028" joined="1987-04-09"/>
+    <cosponsor id="300011" joined="1987-04-09"/>
+    <cosponsor id="401947" joined="1987-05-11"/>
+    <cosponsor id="402114" joined="1987-04-09"/>
+    <cosponsor id="402928" joined="1987-04-09"/>
+    <cosponsor id="403178" joined="1987-04-09"/>
+    <cosponsor id="403184" joined="1987-04-09"/>
+    <cosponsor id="300037" joined="1987-04-09"/>
+    <cosponsor id="403689" joined="1987-04-09"/>
+    <cosponsor id="403769" joined="1987-06-03"/>
+    <cosponsor id="400126" joined="1987-04-09"/>
+    <cosponsor id="404002" joined="1987-04-09"/>
+    <cosponsor id="404013" joined="1987-05-11"/>
+    <cosponsor id="404602" joined="1987-05-11"/>
+    <cosponsor id="405236" joined="1987-06-03"/>
+    <cosponsor id="405256" joined="1987-04-09"/>
+    <cosponsor id="405939" joined="1987-04-09"/>
+    <cosponsor id="406157" joined="1987-04-09"/>
+    <cosponsor id="400211" joined="1987-04-09"/>
+    <cosponsor id="400231" joined="1987-04-09"/>
+    <cosponsor id="406730" joined="1987-04-09"/>
+    <cosponsor id="407672" joined="1987-04-09"/>
+    <cosponsor id="400278" joined="1987-04-09"/>
+    <cosponsor id="408180" joined="1987-04-09"/>
+    <cosponsor id="400300" joined="1988-03-03"/>
+    <cosponsor id="408407" joined="1987-05-11"/>
+    <cosponsor id="400333" joined="1987-05-19"/>
+    <cosponsor id="300083" joined="1987-04-09"/>
+    <cosponsor id="409353" joined="1987-04-09"/>
+    <cosponsor id="400354" joined="1987-04-09"/>
+    <cosponsor id="410010" joined="1987-04-09"/>
+    <cosponsor id="410066" joined="1987-04-09"/>
+    <cosponsor id="410076" joined="1987-04-09"/>
+    <cosponsor id="400504" joined="1987-07-13"/>
+    <cosponsor id="410641" joined="1987-05-11"/>
+    <cosponsor id="400612" joined="1987-05-11"/>
+    <cosponsor id="400417" joined="1987-04-09"/>
+    <cosponsor id="411405" joined="1987-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal reserve system"/>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Requires the President to include with the annual Federal budget submitted to the Congress another budget prepared by the Board of Governors of the Federal Reserve System showing estimated receipts and expenditures for itself and all Federal Reserve banks for the next three fiscal years.</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="1006" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">United States-Mexico Border Revitalization Act</title>
+    <title type="official" as="introduced">A bill to revitalize trade between the United States and Mexico through the establishment of the United States-Mexico free trade and co-production zone.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-03-06">
+      <text>Referred to Subcommittee on Rules of the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSRU01" subcommittee="Rules of the House" name="House Rules"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Customs unions"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Free ports and zones"/>
+    <term name="Imports"/>
+    <term name="Legislation"/>
+    <term name="Mexico"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+United States-Mexico Border Revitalization Act - Authorizes the President to negotiate an agreement with Mexico to establish a United States-Mexico free trade and co-production zone. Sets forth specific requirements for such agreement relating to tariff and income incentives and labor and capital utilization. States that such an agreement shall not enter into force until the President submits the implementing bill and other related information to the Congress and the bill is enacted into law. Provides for expedited consideration of the implementing bill. Requires the President to report periodically to the Congress, detailing any progress in negotiations under this Act.</summary>
+</bill>

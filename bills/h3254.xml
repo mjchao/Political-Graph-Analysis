@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="3254" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-14"/>
+  </status>
+  <introduced datetime="1987-09-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Defense Production Act of 1950, as amended, to prohibit the Department of Defense from acquiring transportation services from countries which are signatories to the Warsaw Pact.</title>
+  </titles>
+  <sponsor id="401383"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-14" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-09-14">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Referred to Subcommittee on Economic Stabilization.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA05" subcommittee="Economic Stabilization" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Defense contracts"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Military transportation"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Warsaw Pact countries"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/1987--Introduced.
+Prohibits the Department of Defense from entering into a contract for transportation services with countries which are signatories to the Warsaw Pact, or with contractors who are citizens of such countries, with specified exceptions.</summary>
+</bill>

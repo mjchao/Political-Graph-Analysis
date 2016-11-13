@@ -1,0 +1,33 @@
+<bill session="100" type="hj" number="424" updated="2016-06-29T08:44:43-04:00">
+  <state datetime="1987-12-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-15"/>
+  </status>
+  <introduced datetime="1987-12-15"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating May 8-14, 1988, as "National Soccer Week".</title>
+  </titles>
+  <sponsor id="400028"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-15" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-12-29">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Special weeks"/>
+    <term name="Sports and recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/15/1987--Introduced.
+Designates the week of May 8 through May 14, 1988, as National Soccer Week.</summary>
+</bill>

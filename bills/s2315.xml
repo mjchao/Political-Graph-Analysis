@@ -1,0 +1,34 @@
+<bill session="100" type="s" number="2315" updated="2014-03-22T09:55:46-04:00">
+  <state datetime="1988-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-22"/>
+  </status>
+  <introduced datetime="1988-04-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for fiscal year 1989 and 1990 for civil defense programs.</title>
+  </titles>
+  <sponsor id="408252"/>
+  <cosponsors>
+    <cosponsor id="300099" joined="1988-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Civil defense"/>
+    <term name="Defense budgets"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/1988--Introduced.
+Authorizes appropriations for FY 1989 and 1990 for civil defense programs under the Federal Civil Defense Act of 1950.</summary>
+</bill>

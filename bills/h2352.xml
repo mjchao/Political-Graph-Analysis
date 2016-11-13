@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="2352" updated="2014-03-22T09:52:19-04:00">
+  <state datetime="1987-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-08"/>
+  </status>
+  <introduced datetime="1987-05-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38 of the United States Code to permit certain eligible veterans to purchase up to $20,000 of National Service Life Insurance.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="410147" joined="1987-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-08" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Business and commerce"/>
+    <term name="Government life insurance"/>
+    <term name="Insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/1987--Introduced.
+Permits an eligible veteran to purchase additional National Service Life Insurance in an amount equal to the amount of National Service Life Insurance such veteran already has in force.</summary>
+</bill>

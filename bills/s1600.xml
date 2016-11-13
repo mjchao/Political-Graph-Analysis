@@ -1,0 +1,129 @@
+<bill session="100" type="s" number="1600" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1988-06-28">REPORTED</state>
+  <status>
+    <unknown datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Federal Aviation Administration Independent Establishment Act of 1987</title>
+    <title type="short" as="reported to senate">Federal Aviation Administration Independent Establishment Act of 1988</title>
+    <title type="official" as="introduced">A bill to enhance the safety of air travel through a more effective Federal Aviation Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="404219"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1988-04-18"/>
+    <cosponsor id="401391" joined="1988-04-21"/>
+    <cosponsor id="300009" joined="1987-11-12"/>
+    <cosponsor id="401604" joined="1988-04-20"/>
+    <cosponsor id="401611" joined="1988-08-02"/>
+    <cosponsor id="300012" joined="1988-03-24"/>
+    <cosponsor id="402004" joined="1988-04-18"/>
+    <cosponsor id="402023" joined="1987-09-25"/>
+    <cosponsor id="300016" joined="1987-08-06"/>
+    <cosponsor id="300023" joined="1988-04-21"/>
+    <cosponsor id="300026" joined="1987-10-02"/>
+    <cosponsor id="402990" joined="1987-09-22"/>
+    <cosponsor id="300031" joined="1987-09-24"/>
+    <cosponsor id="403346" joined="1987-10-02"/>
+    <cosponsor id="403483" joined="1988-04-18"/>
+    <cosponsor id="300034" joined="1987-09-24"/>
+    <cosponsor id="403962" joined="1988-03-31"/>
+    <cosponsor id="404277" joined="1988-05-23"/>
+    <cosponsor id="404598" joined="1987-10-23"/>
+    <cosponsor id="404679" joined="1988-06-09"/>
+    <cosponsor id="300046" joined="1988-03-31"/>
+    <cosponsor id="300051" joined="1988-03-31"/>
+    <cosponsor id="405212" joined="1988-04-22"/>
+    <cosponsor id="405310" joined="1988-04-22"/>
+    <cosponsor id="300053" joined="1988-05-23"/>
+    <cosponsor id="405795" joined="1988-06-22"/>
+    <cosponsor id="300056" joined="1987-10-08"/>
+    <cosponsor id="406084" joined="1988-03-31"/>
+    <cosponsor id="406183" joined="1988-06-24"/>
+    <cosponsor id="406188" joined="1987-08-06"/>
+    <cosponsor id="300060" joined="1988-03-30"/>
+    <cosponsor id="300064" joined="1987-08-06"/>
+    <cosponsor id="300065" joined="1988-04-18"/>
+    <cosponsor id="407268" joined="1988-04-20"/>
+    <cosponsor id="300071" joined="1988-03-31"/>
+    <cosponsor id="407622" joined="1987-10-23"/>
+    <cosponsor id="300073" joined="1987-10-23"/>
+    <cosponsor id="407786" joined="1988-04-20"/>
+    <cosponsor id="400563" joined="1988-03-24"/>
+    <cosponsor id="300079" joined="1988-04-21"/>
+    <cosponsor id="408252" joined="1988-04-21"/>
+    <cosponsor id="408937" joined="1988-04-21"/>
+    <cosponsor id="408939" joined="1988-02-18"/>
+    <cosponsor id="409225" joined="1988-04-20"/>
+    <cosponsor id="300084" joined="1988-03-31"/>
+    <cosponsor id="409456" joined="1988-04-21"/>
+    <cosponsor id="409562" joined="1987-10-01"/>
+    <cosponsor id="300086" joined="1988-04-21"/>
+    <cosponsor id="409580" joined="1987-10-15"/>
+    <cosponsor id="300089" joined="1988-03-31"/>
+    <cosponsor id="409917" joined="1987-09-22"/>
+    <cosponsor id="409923" joined="1987-11-18"/>
+    <cosponsor id="410242" joined="1987-10-27"/>
+    <cosponsor id="410315" joined="1988-05-26"/>
+    <cosponsor id="300094" joined="1987-12-17"/>
+    <cosponsor id="411762" joined="1988-03-31"/>
+    <cosponsor id="411801" joined="1988-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Subcommittee on Aviation. Hearings held.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee on Aviation. Hearings held.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Subcommittee on Aviation. Hearings held.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee on Aviation. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-06-28" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-08-02">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment in the nature of a substitute. With written report No. 100-440. Minority views filed.</text>
+    </action>
+    <calendar datetime="1988-08-02" calendar="Senate Legislative" under="General Orders" number="854">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 854.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSCM01" subcommittee="Aviation" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4346"/>
+    <bill relation="identical" session="100" type="h" number="4346"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Air routes"/>
+    <term name="Air traffic"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airlines"/>
+    <term name="Airports"/>
+    <term name="Authorization"/>
+    <term name="Aviation"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal Aviation Administration"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="Governmental investigations"/>
+    <term name="Inspectors general"/>
+    <term name="Presidential appointments"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Reported to Senate amended.
+(Reported to Senate from the Committee on Commerce, Science, and Transportation, amended, S. Rept. 100-440) Federal Aviation Administration Independent Establishment Act of 1988 - Establishes the Federal Aviation Administration as an independent Federal agency to succeed the Federal Aviation Administration of the Department of Transportation. Provides that the Administrator of the Administration shall be appointed by the President with the advice and consent of the Senate. Transfers to such independent agency all functions vested in the Federal Aviation Administration currently in the Department of Transportation and all functions vested in such Department which are administered through the Federal Aviation Administration or are related to it. Establishes within the Administration a Deputy Administrator for Operations and Administration and a Deputy Administrator for Safety to exercise oversight over safety programs, including regulatory and enforcement activities. Requires the Administrator to submit to certain congressional committees a three-year development plan for: (1) air traffic control; (2) aviation standards; (3) airport security; (4) airport and airway development; and (5) research and development. Establishes the Federal Aviation Advisory Committee to advise and counsel the Administrator. Terminates such Committee one year after the effective date of this Act. Authorizes appropriations to carry out the provisions of this Act. Amends the Airport and Airway Improvement Act of 1982 to authorize appropriations through FY 1991. Amends the Inspector General Act of 1978 to include within its purview the independent Federal Aviation Administration. Requires the Attorney General, in consultation with the Secretary of Transportation and the Federal Trade Commission, to investigate the domestic airline industry to determine whether its business practices are inconsistent with the policy set forth in the Federal Aviation Act of 1958. Requires the Attorney General to submit a final investigation report to certain congressional committees. Requires the Administrator of the Federal Aviation Administration of the Department of Transportation to institute a rulemaking proceeding to consider the need for regulatory changes pertaining to the allocation and transfer of slots held by air carriers and commuter operators at specified high density traffic airports. Outlines the issues to be included in such proceeding.</summary>
+</bill>

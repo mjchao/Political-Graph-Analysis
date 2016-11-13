@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1884" updated="2014-03-22T09:55:28-04:00">
+  <state datetime="1987-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-19"/>
+  </status>
+  <introduced datetime="1987-11-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 and title II of the Social Security Act to provide an exemption from coverage under the social security program on a current basis (pursuant to applications filed in advance) for employers and their employees in cases where both are members of faiths opposed to participation in such program.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2259"/>
+    <bill relation="identical" session="100" type="h" number="2259"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+    <term name="Social security eligibility"/>
+    <term name="Social security taxes"/>
+    <term name="Tax exemption"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/1987--Introduced.
+Amends the Internal Revenue Code and title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to provide an exemption from taxation under the Federal Insurance Contributions Act (employment tax) and from benefits under the social security program for employers and their employees in cases when both are members of religious groups opposed to participation in such a program. Requires both the employer and the employee to submit an application for the tax exemption.</summary>
+</bill>

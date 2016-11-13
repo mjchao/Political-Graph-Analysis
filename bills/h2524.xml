@@ -1,0 +1,79 @@
+<bill session="100" type="h" number="2524" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1988-09-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-20"/>
+  </status>
+  <introduced datetime="1987-05-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Public Buildings Act of 1959 to permit certain executive agencies to have their headquarters located anywhere in the National Capital region.</title>
+  </titles>
+  <sponsor id="407816"/>
+  <cosponsors>
+    <cosponsor id="400369" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-27" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Executive Comment Requested from GSA, OMB.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-11-24">
+      <text>Favorable Executive Comment Received From GSA.</text>
+    </action>
+    <action datetime="1987-12-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-21" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-08-09">
+      <text>Reported to House (Amended) by House Committee on Public Works and Transportation.  Report No: 100-853.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Placed on Union Calendar No: 515.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="District of Columbia"/>
+    <term name="Federal installations"/>
+    <term name="Maryland"/>
+    <term name="Metropolitan areas"/>
+    <term name="Suburbs"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/1988--Passed House amended.
+(Measure passed House, amended) Amends the Public Buildings Act of 1959 to permit certain executive agencies to have their principal offices located anywhere in the National Capital region. Provides that the location of a principal office outside of the District of Columbia may only be carried out after: (1) consideration is given to agency needs and mission, the best interests of the United States, and economic impact; and (2) appropriate Federal, State, and local officials are consulted. Exempts the principal office of an executive department from the provisions of this Act. Requires the head of each executive department and the Administrator of General Services to report to the Congress on the components of the principal office in terms of personnel, operations, and facilities.</summary>
+</bill>

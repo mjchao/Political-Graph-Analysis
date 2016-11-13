@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="1099" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-28"/>
+  </status>
+  <introduced datetime="1987-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Equity in Interstate Competition Act of 1987</title>
+    <title type="official" as="introduced">A bill to authorize the several States and the District of Columbia to collect certain taxes with respect to sales of tangible personal property by nonresident persons who solicit such sales.</title>
+  </titles>
+  <sponsor id="300023"/>
+  <cosponsors>
+    <cosponsor id="403962" joined="1987-09-17"/>
+    <cosponsor id="406084" joined="1987-05-21"/>
+    <cosponsor id="410242" joined="1987-12-16"/>
+    <cosponsor id="410315" joined="1987-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1987-11-06">
+      <text>Subcommittee on Taxation and Debt Management. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFI06" subcommittee="Taxation and Debt Management" name="Senate Finance"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1891"/>
+    <bill relation="identical" session="100" type="h" number="1891"/>
+    <bill relation="identical" session="100" type="h" number="3521"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business and commerce"/>
+    <term name="Intergovernmental tax relations"/>
+    <term name="Interstate commerce"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local taxation"/>
+    <term name="Mail-order business"/>
+    <term name="Retail trade"/>
+    <term name="Sales promotion"/>
+    <term name="Sales tax"/>
+    <term name="State taxation"/>
+    <term name="States"/>
+    <term name="Tax administration"/>
+    <term name="Tax returns"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1987--Introduced.
+Equity in Interstate Competition Act of 1987 - Empowers any State and the District of Columbia to require a person to collect a State sales tax imposed with respect to the sale of tangible personal property if: (1) the destination of sale is in such State; and (2) such person engages in regular or systematic soliciting of sales in such State and has, within a specified one-year period, gross receipts from the sale of such property that exceed either $500,000 within the State or $12,500,000 nationally. Sets forth certain requirements that will qualify certain local sales taxes for treatment as State sales taxes. Prohibits a State from requiring any person who collects a State sales tax to make an accounting for the receipts of such tax on the basis of the geographical location at which the taxable transaction occurs. Limits the authority of the State to require a taxpayer to: (1) file more than four tax returns reporting the amount of such tax collected or required to be collected in any one-year period; or (2) file a return and remit the receipts of such tax more frequently than once in a calendar quarter, or before the expiration of the 20-day period beginning on the last day of the period for which such return is required to be filed. Provides that any person required by a State to collect a State sales tax shall be subject to the laws of that State relating to such tax.</summary>
+</bill>

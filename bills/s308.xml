@@ -1,0 +1,50 @@
+<bill session="100" type="s" number="308" updated="2014-03-22T09:54:51-04:00">
+  <state datetime="1987-01-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-13"/>
+  </status>
+  <introduced datetime="1987-01-13"/>
+  <titles>
+    <title type="short" as="introduced">Soybean Marketing Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to provide certain agricultural program adjustments for soybeans, and for other purposes.</title>
+  </titles>
+  <sponsor id="300023"/>
+  <cosponsors>
+    <cosponsor id="404219" joined="1987-03-06"/>
+    <cosponsor id="300072" joined="1987-03-03"/>
+    <cosponsor id="408939" joined="1987-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Committee on Agriculture requested executive comment from Agriculture Department.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Subcommittee on Domestic and Foreign Marketing. Hearings held.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Subcommittee on Domestic and Foreign Marketing. Hearings held.</text>
+    </action>
+    <action datetime="1987-07-16">
+      <text>Referred to Subcommittee on Agricultural Production.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSAF02" subcommittee="Domestic and Foreign Marketing and Product Promotion" name="Senate Agriculture, Nutrition, and Forestry"/>
+    <committee activity="Referral" code="SSAF01" subcommittee="Agricultural Production and Stabilization of Prices" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Soybeans"/>
+  </subjects>
+  <amendments/>
+  <summary>1/13/1987--Introduced.
+Soybean Marketing Act of 1987 - Amends the Agricultural Act of 1949 to extend for the 1987 through 1990 soybean crops: (1) price supports at $5.02 per bushel; (2) marketing loans with a loan repayment rate that is the lesser of (A) the loan level determined or (B) the higher of (i) such loan level multiplied by 50 percent in 1987, 60 percent in 1988, and 70 percent in 1989 and 1990 or (ii) the prevailing world market price; and (3) loan deficiency payments.</summary>
+</bill>

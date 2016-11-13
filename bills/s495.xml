@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="495" updated="2014-03-22T09:54:55-04:00">
+  <state datetime="1987-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to remove certain gender references and to make technical corrections.</title>
+  </titles>
+  <sponsor id="300150"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1987-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <calendar datetime="1987-07-31" state="REPORTED">
+      <text>Committee on Veterans. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Sex discrimination"/>
+    <term name="Sex discrimination against women"/>
+    <term name="Veterans' benefits"/>
+    <term name="Women soldiers"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Amends various provisions of Federal law relating to veterans to remove certain gender references and make technical corrections.</summary>
+</bill>

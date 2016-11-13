@@ -1,0 +1,141 @@
+<bill session="100" type="h" number="4445" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1988-11-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-10"/>
+  </status>
+  <introduced datetime="1988-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Terrorist Firearms Detection Act of 1988</title>
+    <title type="short" as="reported to house">Terrorist Firearms Detection Act of 1988</title>
+    <title type="short" as="passed house">Terrorist Firearms Detection Act of 1988</title>
+    <title type="short" as="passed senate">Undetectable Firearms Act of 1988</title>
+    <title type="short" as="enacted">Undetectable Firearms Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to prohibit certain firearms especially useful to terrorists.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="400569" joined="1988-04-21"/>
+    <cosponsor id="401418" joined="1988-04-21"/>
+    <cosponsor id="403031" joined="1988-04-21"/>
+    <cosponsor id="404019" joined="1988-04-21"/>
+    <cosponsor id="400143" joined="1988-05-10"/>
+    <cosponsor id="400544" joined="1988-04-21"/>
+    <cosponsor id="400155" joined="1988-05-10"/>
+    <cosponsor id="407306" joined="1988-04-21"/>
+    <cosponsor id="400596" joined="1988-04-21"/>
+    <cosponsor id="400300" joined="1988-05-10"/>
+    <cosponsor id="400331" joined="1988-05-10"/>
+    <cosponsor id="409344" joined="1988-04-21"/>
+    <cosponsor id="400369" joined="1988-04-21"/>
+    <cosponsor id="400381" joined="1988-04-21"/>
+    <cosponsor id="410066" joined="1988-04-21"/>
+    <cosponsor id="411426" joined="1988-04-21"/>
+    <cosponsor id="411488" joined="1988-05-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-21" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>For Previous Action See H.R.2845.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-05-10">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-612.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Placed on Union Calendar No: 364.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="118" datetime="1988-05-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 413 - 4 (Record Vote No: 118).</text>
+    </vote>
+    <action datetime="1988-05-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Senate struck all after the Enacting Clause and substituted the language of S. 2180 amended.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-05-25" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate in lieu of S. 2180 with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-05-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>House Concurred, in Senate Amendments , with Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate amendment.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-21" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendment to the Senate amendment with an amendment (SP 3767) by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments to House Amendments to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-02">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-649" type="public" datetime="1988-11-10">
+      <text>Became Public Law No: 100-649.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2845"/>
+    <bill relation="unknown" session="100" type="s" number="2180"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Air piracy"/>
+    <term name="Airports"/>
+    <term name="Arson"/>
+    <term name="Assault"/>
+    <term name="Aviation"/>
+    <term name="Courthouses"/>
+    <term name="Explosives"/>
+    <term name="Federal installations"/>
+    <term name="Federal office buildings"/>
+    <term name="Federal officials"/>
+    <term name="Firearms"/>
+    <term name="Firearms control"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Narcotic traffic"/>
+    <term name="Security measures"/>
+    <term name="Sentences (Criminal procedure)"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3767"/>
+  </amendments>
+  <summary>10/21/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendment with an amendment) Undetectable Firearms Act of 1988 - Amends the Federal criminal code to make it unlawful to manufacture, import, sell, ship, deliver, possess, transfer, or receive any firearm: (1) which is not as detectable as the Security Exemplar (after the removal of grips, stocks, and magazines) by walk-through metal detectors calibrated and operated to detect the Exemplar; or (2) of which any major component, when subjected to inspection by x-ray machines commonly used at airports, does not generate an image that accurately depicts the shape of the component. Defines the term "Security Exemplar" to mean an object that is suitable for testing and calibrating metal detectors and is, during the 12-month period beginning on the date of enactment of this Act, constructed of 3.7 ounces of stainless steel in a shape resembling a handgun. Directs the Secretary of the Treasury, at the close of such 12-month period and at appropriate times thereafter, to promulgate regulations to permit the manufacture, importation, sale, shipment, delivery, possession, transfer, or receipt of firearms that are as detectable as a security exemplar which contains 3.7 ounces of stainless steel or such lesser amount as is detectable in view of advances in state-of-the-art developments in weapons detection technology. States that no provision of this Act shall not apply to: (1) the manufacture, possession, transfer, receipt, shipment, or delivery of a firearm by a licensed manufacturer for the purpose of examining and testing such firearm to determine whether it would be prohibited by this Act; and (2) any firearm which has been certified by the Secretary of Defense or the Director of Central Intelligence as necessary for military or intelligence applications and is manufactured for and sold exclusively to military or intelligence agencies of the United States. Permits the conditional importation of firearms for the purpose of examination and testing to determine whether the importation of such firearms will be allowed under this Act. Provides an exemption from such prohibition for any firearm possessed in the United States before the enactment of this Act. Provides criminal penalties for violations of this Act. Prohibits the Secretary from authorizing the importation of undetectable firearms. Directs the Administrator of the Federal Aviation Administration to conduct research to improve the effectiveness of airport security metal detectors and airport security x-ray systems. Directs the Attorney General, the Secretary, and the Secretary of Transportation to conduct studies to identify available equipment capable of detecting the Security Exemplar while distinguishing innocuous metal objects. Repeals such prohibition ten years after the effective date of this Act.</summary>
+</bill>

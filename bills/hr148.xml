@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="148" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-04-22">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-04-22"/>
+  </status>
+  <introduced datetime="1987-04-22"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against consideration of the bill (H.R. 1827) making supplemental appropriations for the fiscal year ending September 30, 1987, and for other purposes.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-22">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-61.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Placed on House Calendar No: 14.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 222 - 191 (Record Vote No: 55).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="1827"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/1987--Introduced.
+Waives points of order against the consideration of H.R. 1827 (supplemental appropriations).</summary>
+</bill>

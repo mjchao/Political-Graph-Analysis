@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1771" updated="2014-03-22T09:51:58-04:00">
+  <state datetime="1987-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-24"/>
+  </status>
+  <introduced datetime="1987-03-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Insecticide, Fungicide, and Rodenticide Act to permit persons adversely affected by an emergency suspension order to request an expedited hearing on the order.</title>
+  </titles>
+  <sponsor id="410010"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-24" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative procedure"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Government operations and politics"/>
+    <term name="Pest control"/>
+    <term name="Pesticide regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/1987--Introduced.
+Amends the Federal Insecticide, Fungicide, and Rodenticide Act to permit persons adversely affected by an emergency pesticide suspension order to request an expedited hearing on such order.</summary>
+</bill>

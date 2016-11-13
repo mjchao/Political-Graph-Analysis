@@ -1,0 +1,75 @@
+<bill session="100" type="hj" number="523" updated="2014-03-22T09:54:00-04:00">
+  <state datetime="1988-04-01">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-04-01"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to provide assistance and support for peace, democracy and reconciliation in Central America.</title>
+  </titles>
+  <sponsor id="404193"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-30">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="49" datetime="1988-03-30" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 345 - 70 (Record Vote No: 49).</text>
+    </vote>
+    <action datetime="1988-03-30">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="83" datetime="1988-03-31" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 87-7. Record Vote No: 83.</text>
+    </vote>
+    <action datetime="1988-03-31">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-03-31">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1988-03-31">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-04-01" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-276" type="public" datetime="1988-04-01">
+      <text>Became Public Law No: 100-276.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Armed forces and national security"/>
+    <term name="Central America"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Defense budgets"/>
+    <term name="Democracy"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Insurgency"/>
+    <term name="International relief"/>
+    <term name="Nicaragua"/>
+    <term name="Peace"/>
+    <term name="Peace treaties"/>
+    <term name="Reagan Doctrine"/>
+    <term name="Reprogramming of appropriated funds"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1922"/>
+    <amendment number="s1923"/>
+  </amendments>
+  <summary>3/30/1988--Introduced.
+Declares it to be U.S. policy to advance peace and democracy and to protect U.S. security interests in Central America. Declares that it is the intent of the Congress, in providing additional assistance to the Nicaraguan democratic resistance, to reinforce the Central American peace process. Requires assistance provided pursuant to this Act to be administered consistent with the agreement between the Government of Nicaragua and the resistance signed March 23, 1988, at Sapoa, Nicaragua (Sapoa agreement.) Authorizes the President to transfer a specified sum from certain Department of Defense appropriations accounts to the Agency for International Development (AID) to provide assistance (defined to include food, clothing, shelter, medical supplies, and communications equipment) to the resistance. Sets limitations on monthly expenditures of such assistance. Provides for the transfer of unobligated funds to AID to provide for delivery of such assistance. Prohibits the use of funds under this Act to purchase aircraft, weapons or weapons systems, ammunition, or any other item or service not specifically permitted under this Act. Earmarks specified amounts of assistance for Yatama (the Indian resistance force). Makes AID responsible for the direction, management, and delivery of assistance under this Act through neutral organizations. Requires the Comptroller General to audit expenditures under this Act. Transfers specified defense appropriations account funds to AID to provide medical care and other relief for children who are victims of the Nicaraguan civil strife. Directs that assistance pursuant to this Act be provided only through nonpolitical private and voluntary organizations and international relief organizations, with at least half provided through such organizations operating inside Nicaragua. Provides for the transfer of a specified amount of unobligated funds from specified defense appropriations accounts to support the activities of the Verification Commission established by the Sapoa agreement.</summary>
+</bill>

@@ -1,0 +1,126 @@
+<bill session="100" type="sj" number="171" updated="2016-06-29T08:45:04-04:00">
+  <state datetime="1987-11-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-11-06"/>
+  </status>
+  <introduced datetime="1987-07-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating the week beginning November 8, 1987, as "National Women Veterans Recognition Week".</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1987-07-22"/>
+    <cosponsor id="401709" joined="1987-09-17"/>
+    <cosponsor id="402023" joined="1987-07-17"/>
+    <cosponsor id="402495" joined="1987-07-21"/>
+    <cosponsor id="300023" joined="1987-07-28"/>
+    <cosponsor id="300026" joined="1987-07-28"/>
+    <cosponsor id="300031" joined="1987-07-22"/>
+    <cosponsor id="403346" joined="1987-07-07"/>
+    <cosponsor id="403483" joined="1987-07-21"/>
+    <cosponsor id="403515" joined="1987-07-22"/>
+    <cosponsor id="403669" joined="1987-07-17"/>
+    <cosponsor id="403920" joined="1987-09-09"/>
+    <cosponsor id="404598" joined="1987-08-04"/>
+    <cosponsor id="404679" joined="1987-07-17"/>
+    <cosponsor id="300046" joined="1987-07-07"/>
+    <cosponsor id="405321" joined="1987-07-28"/>
+    <cosponsor id="300053" joined="1987-07-22"/>
+    <cosponsor id="300056" joined="1987-07-17"/>
+    <cosponsor id="406188" joined="1987-09-29"/>
+    <cosponsor id="300060" joined="1987-07-17"/>
+    <cosponsor id="300064" joined="1987-09-17"/>
+    <cosponsor id="300065" joined="1987-07-07"/>
+    <cosponsor id="300066" joined="1987-07-28"/>
+    <cosponsor id="407268" joined="1987-07-07"/>
+    <cosponsor id="300071" joined="1987-07-17"/>
+    <cosponsor id="407663" joined="1987-10-21"/>
+    <cosponsor id="300073" joined="1987-08-04"/>
+    <cosponsor id="407786" joined="1987-07-07"/>
+    <cosponsor id="400563" joined="1987-07-21"/>
+    <cosponsor id="300150" joined="1987-07-07"/>
+    <cosponsor id="300079" joined="1987-07-17"/>
+    <cosponsor id="408252" joined="1987-07-28"/>
+    <cosponsor id="408597" joined="1987-07-17"/>
+    <cosponsor id="408898" joined="1987-07-28"/>
+    <cosponsor id="408937" joined="1987-07-28"/>
+    <cosponsor id="408939" joined="1987-07-28"/>
+    <cosponsor id="408970" joined="1987-07-22"/>
+    <cosponsor id="409225" joined="1987-07-22"/>
+    <cosponsor id="300084" joined="1987-07-07"/>
+    <cosponsor id="400565" joined="1987-07-21"/>
+    <cosponsor id="300086" joined="1987-09-17"/>
+    <cosponsor id="300089" joined="1987-07-17"/>
+    <cosponsor id="409917" joined="1987-09-29"/>
+    <cosponsor id="409923" joined="1987-07-07"/>
+    <cosponsor id="300092" joined="1987-07-07"/>
+    <cosponsor id="410242" joined="1987-07-22"/>
+    <cosponsor id="410315" joined="1987-09-17"/>
+    <cosponsor id="300094" joined="1987-08-04"/>
+    <cosponsor id="300157" joined="1987-09-29"/>
+    <cosponsor id="300099" joined="1987-09-29"/>
+    <cosponsor id="411762" joined="1987-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-15" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-10-27" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-10-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-10-29">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-10-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-11-06" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-155" type="public" datetime="1987-11-06">
+      <text>Became Public Law No: 100-155.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="43"/>
+    <bill relation="identical" session="100" type="hj" number="43"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Special weeks"/>
+    <term name="Women soldiers"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/1987--Introduced.
+Designates the week beginning on November 8, 1987, as National Women Veterans Recognition Week.</summary>
+</bill>

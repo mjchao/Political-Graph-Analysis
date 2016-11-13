@@ -1,0 +1,71 @@
+<bill session="100" type="h" number="4023" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-25"/>
+  </status>
+  <introduced datetime="1988-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to provide protection for employees of air carriers who engage in whistleblowing activities relating to air carrier safety.</title>
+  </titles>
+  <sponsor id="400223"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-03-28"/>
+    <cosponsor id="402763" joined="1988-02-25"/>
+    <cosponsor id="400100" joined="1988-03-28"/>
+    <cosponsor id="404002" joined="1988-03-28"/>
+    <cosponsor id="404006" joined="1988-03-28"/>
+    <cosponsor id="404013" joined="1988-03-28"/>
+    <cosponsor id="404190" joined="1988-04-18"/>
+    <cosponsor id="400143" joined="1988-04-18"/>
+    <cosponsor id="404422" joined="1988-03-28"/>
+    <cosponsor id="405524" joined="1988-03-28"/>
+    <cosponsor id="407853" joined="1988-04-18"/>
+    <cosponsor id="407960" joined="1988-03-28"/>
+    <cosponsor id="400306" joined="1988-03-28"/>
+    <cosponsor id="400314" joined="1988-03-28"/>
+    <cosponsor id="410066" joined="1988-04-18"/>
+    <cosponsor id="400387" joined="1988-07-07"/>
+    <cosponsor id="410496" joined="1988-03-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-25" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-03-10">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1988-03-10">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Executive Comment Requested from Labor.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Subcommittee Hearings Held.  Hearings printed: H. Hrg. 100-54.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>See H.R.5073.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5073"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airline employees"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Employee rights"/>
+    <term name="Labor and employment"/>
+    <term name="Public safety"/>
+    <term name="Whistle blowing"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1988--Introduced.
+Amends the Federal Aviation Act of 1958 to prohibit discriminatory adverse actions by employers against aircraft personnel who have: (1) filed complaints or testified or participated in a proceeding regarding aircraft safety; (2) provided information to the Federal Government relating to air safety; or (3) reasonably refused to perform a task believed to be adverse to air safety. Sets forth a grievance procedure for the investigation of discrimination grievances by the Secretary of Labor.</summary>
+</bill>

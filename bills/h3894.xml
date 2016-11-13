@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="3894" updated="2014-03-22T09:53:00-04:00">
+  <state datetime="1988-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-02"/>
+  </status>
+  <introduced datetime="1988-02-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the United States Army Corps of Engineers to protect and enhance recreation at certain water resource projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="407432" joined="1988-03-09"/>
+    <cosponsor id="408052" joined="1988-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-02" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Executive Comment Requested from Army, OMB.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1988-11-17">
+      <text>See S.2100.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Boats and boating"/>
+    <term name="Fishing"/>
+    <term name="Licenses"/>
+    <term name="Outdoor recreation"/>
+    <term name="Public works"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="Sports and Athletics"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1988--Introduced.
+Directs the Secretary of the Army, acting through the Chief of Engineers, to: (1) ensure that each water resources project constructed by the Secretary before the enactment of this Act is operated in a manner to protect and enhance recreation associated with such project; and (2) manage lands at each project in a manner to improve opportunities for recreation. Declares downstream whitewater recreation and recreational fishing and boating to be authorized project purposes. Directs the Secretary to impose such conditions on the construction and operation of non-Federal facilities at water resources projects as necessary for the protection and enhancement of project purposes, including recreation. Requires the prior concurrence of the Secretary before the issuance of any permit, license, or exemption for the location of non-Federal facilities at any water resources project of the Secretary.</summary>
+</bill>

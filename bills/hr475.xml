@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="475" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-06-16">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-06-16"/>
+  </status>
+  <introduced datetime="1988-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against consideration of the bill (H.R. 4781) making appropriations for the Department of Defense for the fiscal year ending September 30, 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="400600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-16">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-709.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Placed on House Calendar No: 171.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 364 - 37 (Record Vote No: 192).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="4781"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1988--Introduced.
+Waives points of order against the consideration of H.R. 4781 (armed forces appropriations).</summary>
+</bill>

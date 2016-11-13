@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="139" updated="2014-03-22T09:54:46-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of Transportation to approve modifications of certain interstate highway transfer concept plans.</title>
+  </titles>
+  <sponsor id="300086"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Senate Committee on Commerce discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Federal aid highway program"/>
+    <term name="Interstate highway system"/>
+    <term name="Maryland"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Authorizes the State of Maryland to request a modification of the transfer concept plan approved with respect to the withdrawal of certain interstate routes in the vicinity of Cumberland, Maryland. Directs the Secretary of Transportation to approve such request: (1) if such State submits it to the Secretary before a specified deadline; and (2) if such modification will not result in any increase in the amount of funds available for the Federal share of substitute projects under the transfer concept plan.</summary>
+</bill>

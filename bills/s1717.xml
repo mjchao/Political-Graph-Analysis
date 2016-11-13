@@ -1,0 +1,56 @@
+<bill session="100" type="s" number="1717" updated="2014-03-22T09:55:25-04:00">
+  <state datetime="1987-09-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-24"/>
+  </status>
+  <introduced datetime="1987-09-24"/>
+  <titles>
+    <title type="short" as="introduced">Uniform Regulatory Jurisdiction Act of 1987</title>
+    <title type="official" as="introduced">A bill to assure uniformity in the exercise of regulatory jurisdiction pertaining to the transportation of natural gas and to clarify that the local transportation of natural gas by a distribution company is a matter within State jurisdiction and subject to regulation by State commissions, and for other purposes.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="300051" joined="1987-09-24"/>
+    <cosponsor id="300073" joined="1987-10-01"/>
+    <cosponsor id="300084" joined="1987-09-24"/>
+    <cosponsor id="410936" joined="1987-10-06"/>
+    <cosponsor id="300099" joined="1987-11-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-05-20">
+      <text>Committee on Energy and Natural Resources requested executive comment from Federal Energy Regulatory Commission.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Subcommittee on Energy Regulation. Hearings held.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Committee on Energy and Natural Resources. Ordered favorably reported H.R. 2884 in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee activity="Hearings" code="SSEG02" subcommittee="Energy Regulation and Conservation" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2884"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Energy prices"/>
+    <term name="Gas pipelines"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum pipelines"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Transportation rates"/>
+  </subjects>
+  <amendments/>
+  <summary>9/24/1987--Introduced.
+Uniform Regulatory Jurisdiction Act of 1987 - Provides that the rates and charges for natural gas transportation shall be regulated by the State in which the gas is consumed if that is the election of the person transporting such gas, provided that such person: (1) transports the gas in a service area determined by the Federal Energy Regulatory Commission; and (2) transports gas solely on a retail basis using a pipeline of which the FERC certified portion was less than 30 miles long as of December 31, 1960.</summary>
+</bill>

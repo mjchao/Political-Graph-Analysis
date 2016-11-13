@@ -1,0 +1,48 @@
+<bill session="100" type="hc" number="20" updated="2014-03-22T09:54:05-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution declaring the sense of Congress regarding periods of silence in the public schools.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="40"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Education"/>
+    <term name="Meditation"/>
+    <term name="Prayer in the public schools"/>
+    <term name="Religion"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religion in the public schools"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Declares the sense of the Congress that the Constitution of the United States does not preclude the use of, and that public school authorities should recognize the value of, discretionary periods of silence for silent prayer, meditation, contemplation, or introspection in the public schools.</summary>
+</bill>

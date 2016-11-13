@@ -1,0 +1,82 @@
+<bill session="100" type="hc" number="70" updated="2014-03-22T09:54:07-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the Secretary of Health and Human Services should prepare, and encourage the preparation of, public service announcements about acquired immune deficiency syndrome (AIDS); and that commercial television networks and local television stations should accept for broadcast during selected adult programming such announcements, and commercial advertisements concerning the use of condoms to prevent infection by the AIDS virus.</title>
+  </titles>
+  <sponsor id="404013"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-03-10"/>
+    <cosponsor id="401310" joined="1987-03-10"/>
+    <cosponsor id="400025" joined="1987-03-10"/>
+    <cosponsor id="400527" joined="1987-03-17"/>
+    <cosponsor id="300011" joined="1987-03-10"/>
+    <cosponsor id="402626" joined="1987-03-10"/>
+    <cosponsor id="400104" joined="1987-03-10"/>
+    <cosponsor id="403364" joined="1987-04-06"/>
+    <cosponsor id="403776" joined="1987-03-10"/>
+    <cosponsor id="404019" joined="1987-03-10"/>
+    <cosponsor id="400140" joined="1987-03-10"/>
+    <cosponsor id="404422" joined="1987-03-10"/>
+    <cosponsor id="404765" joined="1987-03-10"/>
+    <cosponsor id="400189" joined="1987-03-11"/>
+    <cosponsor id="406463" joined="1987-03-10"/>
+    <cosponsor id="406473" joined="1987-03-10"/>
+    <cosponsor id="406740" joined="1987-03-10"/>
+    <cosponsor id="400238" joined="1987-03-10"/>
+    <cosponsor id="400239" joined="1987-03-10"/>
+    <cosponsor id="406974" joined="1987-03-10"/>
+    <cosponsor id="400595" joined="1987-03-10"/>
+    <cosponsor id="400256" joined="1987-03-10"/>
+    <cosponsor id="407519" joined="1987-03-10"/>
+    <cosponsor id="407672" joined="1987-03-10"/>
+    <cosponsor id="407772" joined="1987-03-10"/>
+    <cosponsor id="407853" joined="1987-03-10"/>
+    <cosponsor id="407960" joined="1987-03-10"/>
+    <cosponsor id="408023" joined="1987-03-10"/>
+    <cosponsor id="400539" joined="1987-05-20"/>
+    <cosponsor id="409632" joined="1987-03-10"/>
+    <cosponsor id="409644" joined="1987-03-10"/>
+    <cosponsor id="400387" joined="1987-03-10"/>
+    <cosponsor id="410407" joined="1987-03-11"/>
+    <cosponsor id="410889" joined="1987-03-10"/>
+    <cosponsor id="400409" joined="1987-04-21"/>
+    <cosponsor id="400425" joined="1987-03-10"/>
+    <cosponsor id="411426" joined="1987-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Abortion, Birth Control, and Family Planning"/>
+    <term name="Advertising and Marketing"/>
+    <term name="Communicable diseases"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Contraceptives"/>
+    <term name="Public service advertising"/>
+    <term name="Television"/>
+    <term name="Television advertising"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Expresses the sense of the Congress that: (1) the Secretary of Health and Human Services should prepare public service announcements regarding acquired immune deficiency syndrome (AIDS); and (2) the commercial television networks and local television stations should accept for broadcast during selected adult programming such public service announcements and commercial advertisements concerning the use of condoms to prevent infection by the virus that causes AIDS.</summary>
+</bill>

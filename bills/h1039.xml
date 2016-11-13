@@ -1,0 +1,99 @@
+<bill session="100" type="h" number="1039" updated="2014-03-22T09:51:40-04:00">
+  <state datetime="1987-06-02">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-06-02"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 37 of the Mineral Lands Leasing Act of 1920 relating to oil shale claims, and for other purposes.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="300017" joined="1987-02-05"/>
+    <cosponsor id="411025" joined="1987-02-05"/>
+    <cosponsor id="400612" joined="1987-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Mining and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Unfavorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-03-18" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-04-07">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-43.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Placed on Union Calendar No: 34.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Committee on Rules Granted an Open Rule Providing Two Hours of General Debate; Waiving All Points of Order.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Rules Committee Resolution H.Res.155 Reported to House.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="158" datetime="1987-06-02" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 295 - 93 (Record Vote No: 158).</text>
+    </vote>
+    <action datetime="1987-06-03">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-10-21">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-04-22">
+      <text>Subcommittee on Mineral Resources and Development. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII02" subcommittee="Mining and Natural Resources" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG05" subcommittee="Mineral Resources Development and Production" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="155"/>
+  </relatedbills>
+  <subjects>
+    <term name="Mines and mineral resources"/>
+    <term name="Licenses"/>
+    <term name="Mining claims"/>
+    <term name="Mining leases"/>
+    <term name="Oil and gas leases"/>
+    <term name="Oil shales"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Reclamation of land"/>
+    <term name="Shale oils"/>
+    <term name="Strip mining"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/1987--Passed House amended.
+(Measure passed House, amended, roll call #158 (295-93)) Amends the Mineral Lands Leasing Act of 1920 to prohibit the issuance of patents for oil shale claims after February 5, 1987. Exempts from such prohibition those claims for which patent application had been filed and all patent requirements had been fully complied with by such date. Directs the Secretary of the Interior to undertake an expedited program to determine, within two years after enactment of this Act, the validity of all unpatented oil shale claims, and to promptly cancel any claim determined to be invalid. Requires the owner of each unpatented oil shale claim to elect, within 90 days after enactment of this Act, to either: (1) apply to the Secretary for a lease; or (2) maintain the claim by complying with all laws pertaining to the maintenance of mining claims, including regulations regarding annual expenditures which represent diligent efforts towards shale oil production and substantial work on the claims. Requires the Secretary to cancel the claim of any owner who does not make such an election. Requires the Secretary to: (1) promulgate a final rule within 90 days after enactment of this Act regarding such annual expenditure requirement; (2) review such expenditures on an annual basis; and (3) cancel any claim for which the annual expenditure requirement has not been met. Mandates that lease or claim holders under this Act must reclaim the affected site and post a bond before disturbance of the site to guarantee such reclamation.</summary>
+</bill>

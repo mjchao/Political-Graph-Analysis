@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="632" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-04-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-04-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Legislative Branch Appropriation Act, 1979, as reenacted, to extend the duration of the Office of Classified National Security Information within the Office of the Secretary of the Senate, and for other purposes.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-03-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-03-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-03-25" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-03-25">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-03-25">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1987-03-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-04-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-18" type="public" datetime="1987-04-03">
+      <text>Became Public Law No: 100-18.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Classified defense information"/>
+    <term name="Congressional employees"/>
+    <term name="Congressional officers"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Amends the Legislative Branch Appropriations Act, 1979 to extend the duration of the Office of Classified National Security Information within the Office of the Secretary of the Senate until June 5, 1987.</summary>
+</bill>

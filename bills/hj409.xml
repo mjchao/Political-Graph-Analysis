@@ -1,0 +1,76 @@
+<bill session="100" type="hj" number="409" updated="2014-03-22T09:53:57-04:00">
+  <state datetime="1987-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-20"/>
+  </status>
+  <introduced datetime="1987-11-20"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to provide that the United States shall implement changes in defense policy that will reduce the likelihood of the first use of all nuclear weapons, renounce the first use of all nuclear weapons, and conclude treaties with all nations renouncing the first use of all nuclear weapons.</title>
+  </titles>
+  <sponsor id="411426"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-12-21"/>
+    <cosponsor id="400975" joined="1987-12-21"/>
+    <cosponsor id="401231" joined="1987-12-21"/>
+    <cosponsor id="402626" joined="1987-12-21"/>
+    <cosponsor id="402763" joined="1987-12-21"/>
+    <cosponsor id="403031" joined="1987-12-21"/>
+    <cosponsor id="400100" joined="1987-12-21"/>
+    <cosponsor id="403364" joined="1987-12-21"/>
+    <cosponsor id="404006" joined="1987-12-21"/>
+    <cosponsor id="400140" joined="1987-12-21"/>
+    <cosponsor id="404752" joined="1988-05-11"/>
+    <cosponsor id="405256" joined="1987-12-21"/>
+    <cosponsor id="406191" joined="1987-12-21"/>
+    <cosponsor id="406730" joined="1987-12-21"/>
+    <cosponsor id="407772" joined="1987-12-21"/>
+    <cosponsor id="407960" joined="1987-12-21"/>
+    <cosponsor id="408313" joined="1987-12-21"/>
+    <cosponsor id="400314" joined="1988-07-28"/>
+    <cosponsor id="400333" joined="1987-12-21"/>
+    <cosponsor id="400387" joined="1987-12-21"/>
+    <cosponsor id="400612" joined="1987-12-21"/>
+    <cosponsor id="411224" joined="1987-12-21"/>
+    <cosponsor id="411488" joined="1988-02-03"/>
+    <cosponsor id="411834" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-20" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-11-20">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-12-02">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Defense articles"/>
+    <term name="Military policy"/>
+    <term name="Military strategy"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Nuclear weapons"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/1987--Introduced.
+Declares that the United States shall: (1) implement specific changes in defense policy, including changes in deployment and modernization of weapon systems, that will reduce the likelihood of the first use of nuclear weapons; (2) formally renounce the first use of all nuclear weapons; and (3) conclude treaties with all nations renouncing the first use of all nuclear weapons.</summary>
+</bill>

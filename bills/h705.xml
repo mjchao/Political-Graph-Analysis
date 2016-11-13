@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="705" updated="2014-03-22T09:51:32-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to recognize the organization known as "Wildlife Action, Inc.".</title>
+  </titles>
+  <sponsor id="410623"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Federal incorporation"/>
+    <term name="Wildlife"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Grants a Federal charter to Wildlife Action, Inc.</summary>
+</bill>

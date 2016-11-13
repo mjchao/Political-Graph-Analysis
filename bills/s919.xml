@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="919" updated="2014-03-22T09:55:10-04:00">
+  <state datetime="1987-04-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-03"/>
+  </status>
+  <introduced datetime="1987-04-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize the Administrator to make contributions for construction projects on land adjacent to national cemeteries in order to facilitate safe ingress or egress.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1999"/>
+    <bill relation="identical" session="100" type="h" number="1999"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Construction costs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/1987--Introduced.
+Amends Federal veterans' benefits provisions to authorize the Administrator of Veterans Affairs to make contributions to local authorities for construction projects on land adjacent to national cemeteries in order to facilitate safe entry to and exit from such cemeteries.</summary>
+</bill>

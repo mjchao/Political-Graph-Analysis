@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="404" updated="2014-03-22T09:51:20-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 411 of the Higher Education Act of 1965 to exclude from eligibility calculations for basic grants the value of a family's residence.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Postsecondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED08" subcommittee="Postsecondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Scholarships"/>
+    <term name="Student aid"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Higher Education Act of 1965 to exclude the value of a family's principal residence from eligibility calculations for Pell basic grants.</summary>
+</bill>

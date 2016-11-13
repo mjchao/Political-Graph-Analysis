@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="5444" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-03"/>
+  </status>
+  <introduced datetime="1988-10-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to reestablish the National Aeronautics and Space Council, and for other purposes.</title>
+  </titles>
+  <sponsor id="400174"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-03" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Referred to Subcommittee on Space Science and Applications.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Referred to Subcommittee on Transportation, Aviation and Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY02" subcommittee="Space Science and Applications" name="House Science, Space and Technology"/>
+    <committee activity="Referral" code="HSSY07" subcommittee="Transportation, Aviation and Materials" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Advisory bodies"/>
+    <term name="Aeronautics"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Presidential appointments"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Senate"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space sciences"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/1988--Introduced.
+Amends the National Aeronautics and Space Act of 1958 to reestablish the National Aeronautics and Space Council. Revises the membership of the Council, vesting its leadership in a Chairman, to be appointed by the President, with the advice and consent of the Senate. Directs the President to: (1) ensure that the U.S. space effort conforms to both domestic and foreign policy goals; and (2) report annually to the Congress on all significant aeronautical and space activities.</summary>
+</bill>

@@ -1,0 +1,127 @@
+<bill session="100" type="h" number="1173" updated="2014-03-22T09:51:43-04:00">
+  <state datetime="1987-06-29">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-06-29"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for certain restrictions on the use of lands within boundaries of national parks and monuments.</title>
+  </titles>
+  <sponsor id="406729"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-06-09"/>
+    <cosponsor id="401231" joined="1987-06-09"/>
+    <cosponsor id="401310" joined="1987-06-09"/>
+    <cosponsor id="401363" joined="1987-06-16"/>
+    <cosponsor id="400025" joined="1987-06-22"/>
+    <cosponsor id="401986" joined="1987-06-09"/>
+    <cosponsor id="402600" joined="1987-06-09"/>
+    <cosponsor id="402710" joined="1987-06-09"/>
+    <cosponsor id="403776" joined="1987-06-09"/>
+    <cosponsor id="404006" joined="1987-06-18"/>
+    <cosponsor id="404190" joined="1987-06-23"/>
+    <cosponsor id="400140" joined="1987-06-09"/>
+    <cosponsor id="400585" joined="1987-06-09"/>
+    <cosponsor id="404765" joined="1987-06-09"/>
+    <cosponsor id="405236" joined="1987-06-09"/>
+    <cosponsor id="400216" joined="1987-06-09"/>
+    <cosponsor id="406473" joined="1987-06-09"/>
+    <cosponsor id="406765" joined="1987-06-09"/>
+    <cosponsor id="400240" joined="1987-06-09"/>
+    <cosponsor id="400595" joined="1987-06-23"/>
+    <cosponsor id="400256" joined="1987-06-16"/>
+    <cosponsor id="400278" joined="1987-06-09"/>
+    <cosponsor id="407960" joined="1987-06-09"/>
+    <cosponsor id="408023" joined="1987-06-09"/>
+    <cosponsor id="408109" joined="1987-06-09"/>
+    <cosponsor id="408313" joined="1987-06-09"/>
+    <cosponsor id="408407" joined="1987-06-09"/>
+    <cosponsor id="408457" joined="1987-06-16"/>
+    <cosponsor id="400318" joined="1987-06-09"/>
+    <cosponsor id="408907" joined="1987-06-16"/>
+    <cosponsor id="400331" joined="1987-06-09"/>
+    <cosponsor id="409446" joined="1987-06-16"/>
+    <cosponsor id="409632" joined="1987-06-09"/>
+    <cosponsor id="409793" joined="1987-06-16"/>
+    <cosponsor id="400387" joined="1987-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-17" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-25">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-185.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Placed on Union Calendar No: 107.</text>
+    </action>
+    <action datetime="1987-06-26">
+      <text>Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-29" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee on Energy and Natural Resources. Committee consideration and Mark Up Session held.</text>
+    </action>
+    <action datetime="1988-10-31">
+      <text>For Further Action See H.R.3408.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3408"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Dams"/>
+    <term name="Monuments and memorials"/>
+    <term name="National monuments"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Reservoirs"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Prohibits the construction of any new dam or impoundment within a national park or monument unless such construction is necessary for the purposes of such park or monument and park resources would not be degraded. Prohibits such construction outside park or monument boundaries if lands within the boundaries would be inundated. Prohibits the use of Federal lands to expand any reservoir within Yosemite National Park without specific congressional authorization.</summary>
+</bill>

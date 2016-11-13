@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="1731" updated="2014-03-22T09:51:57-04:00">
+  <state datetime="1987-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-19"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Agricultural Export Reserve Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish the Agricultural Export Reserve, and to define its functions.</title>
+  </titles>
+  <sponsor id="406799"/>
+  <cosponsors>
+    <cosponsor id="401526" joined="1987-06-24"/>
+    <cosponsor id="401986" joined="1987-07-01"/>
+    <cosponsor id="404723" joined="1987-06-18"/>
+    <cosponsor id="406554" joined="1987-06-18"/>
+    <cosponsor id="407162" joined="1987-06-25"/>
+    <cosponsor id="408618" joined="1987-03-25"/>
+    <cosponsor id="410251" joined="1987-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural surpluses"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Barter"/>
+    <term name="Exports"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign trade promotion"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Strategic materials"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Agricultural Export Reserve Act of 1987 - Directs the Secretary of Agriculture, in consultation with the United States Trade Representative, to carry out an export expansion program for the 1987 through 1991 marketing years. Establishes an agricultural surplus Export Reserve for such program. Permits such Reserve to be used for barter for strategic and other stockpiled materials, either for direct ownership or for storage use as collateral. Sets forth policy guidelines for such Reserve, including a prohibition on its use to expand exports to any nation with which the United States does not have full diplomatic relations or against which the President has imposed a trade embargo. Establishes the Export Reserve Advisory Council to advise the Secretary and the Trade Representative on how best to use such Reserve. Requires semi-annual reports to the appropriate congressional committees.</summary>
+</bill>

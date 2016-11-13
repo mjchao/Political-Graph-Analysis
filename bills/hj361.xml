@@ -1,0 +1,52 @@
+<bill session="100" type="hj" number="361" updated="2014-03-22T09:53:55-04:00">
+  <state datetime="1987-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-16"/>
+  </status>
+  <introduced datetime="1987-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution recognizing, encouraging, and supporting the National Rural Crisis Response Center.</title>
+  </titles>
+  <sponsor id="400540"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-04-20"/>
+    <cosponsor id="402454" joined="1987-09-16"/>
+    <cosponsor id="402710" joined="1987-09-16"/>
+    <cosponsor id="403696" joined="1987-09-16"/>
+    <cosponsor id="403769" joined="1987-09-30"/>
+    <cosponsor id="403873" joined="1987-09-16"/>
+    <cosponsor id="403904" joined="1987-10-21"/>
+    <cosponsor id="400126" joined="1987-09-16"/>
+    <cosponsor id="405646" joined="1987-09-16"/>
+    <cosponsor id="405775" joined="1987-09-16"/>
+    <cosponsor id="407772" joined="1987-10-21"/>
+    <cosponsor id="400409" joined="1987-09-16"/>
+    <cosponsor id="411025" joined="1987-09-16"/>
+    <cosponsor id="411166" joined="1987-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-16" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-09-28">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="207"/>
+    <bill relation="identical" session="100" type="sj" number="207"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Commemorations"/>
+    <term name="Farmers"/>
+    <term name="Farms"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1987--Introduced.
+Declares that the National Rural Crisis Response Center is deserving of recognition, encouragement, and support of the Congress and the American people. Recognizes the Center for the valuable service being rendered and authorizes and requests the President to issue a proclamation calling on the people to recognize, encourage, and support the Center.</summary>
+</bill>

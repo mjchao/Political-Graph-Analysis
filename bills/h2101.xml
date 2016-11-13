@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="2101" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-21"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to provide that a Federal employee who participates in the Government's health benefits program for a continuous period of 25 years or longer shall be eligible to continue enrollment as an annuitant, without regard to an interruption of less than 1 year during the 5-year period before seperation.</title>
+  </titles>
+  <sponsor id="404006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+    <action datetime="1987-04-27">
+      <text>Executive Comment Requested from OMB, OPM, GAO.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Executive Comment Received From GAO.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Business and commerce"/>
+    <term name="Civil service retirement"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government employees' health insurance"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Provides that a Federal employee who participates in the Federal health benefits program for a continuous period of 25 years shall be eligible to continue enrollment as an annuitant without regard to a break in service of less than one year during the five-year period before retirement.</summary>
+</bill>

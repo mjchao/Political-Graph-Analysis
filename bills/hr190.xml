@@ -1,0 +1,36 @@
+<bill session="100" type="hr" number="190" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-10">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 1777) to authorize appropriations for fiscal years 1988 and 1989 for the Department of State, the United States Information Agency, and for other purposes.</title>
+  </titles>
+  <sponsor id="400538"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-10">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-139.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Placed on House Calendar No: 43.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="1777"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 1777 (Department of State and United States Information Agency funding).</summary>
+</bill>

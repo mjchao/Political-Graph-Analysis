@@ -1,0 +1,54 @@
+<bill session="100" type="hr" number="364" updated="2014-03-22T09:50:59-04:00">
+  <state datetime="1988-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-04"/>
+  </status>
+  <introduced datetime="1988-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to amend the Rules of the House of Representatives to limit the contents of continuing resolutions.</title>
+  </titles>
+  <sponsor id="409650"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-02-22"/>
+    <cosponsor id="300017" joined="1988-02-22"/>
+    <cosponsor id="400100" joined="1988-02-04"/>
+    <cosponsor id="400174" joined="1988-02-04"/>
+    <cosponsor id="400243" joined="1988-02-04"/>
+    <cosponsor id="300069" joined="1988-02-09"/>
+    <cosponsor id="407215" joined="1988-02-09"/>
+    <cosponsor id="407838" joined="1988-02-04"/>
+    <cosponsor id="408190" joined="1988-02-22"/>
+    <cosponsor id="408342" joined="1988-02-04"/>
+    <cosponsor id="408618" joined="1988-02-04"/>
+    <cosponsor id="409793" joined="1988-02-04"/>
+    <cosponsor id="409901" joined="1988-02-04"/>
+    <cosponsor id="409954" joined="1988-02-04"/>
+    <cosponsor id="409966" joined="1988-02-22"/>
+    <cosponsor id="300155" joined="1988-02-09"/>
+    <cosponsor id="400414" joined="1988-02-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-04" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Economics and public finance"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Legislation"/>
+    <term name="Legislative resolutions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1988--Introduced.
+Amends rule XXI of the Rules of the House of Representatives to prohibit appropriations in continuing resolutions for any program, project, or activity not previously authorized by law. Prohibits appropriations in continuing resolutions for all or part of a fiscal year for funding any program, project, or activity at a level greater than its level of funding for the immediately preceding fiscal year.</summary>
+</bill>

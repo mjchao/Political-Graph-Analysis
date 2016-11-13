@@ -1,0 +1,72 @@
+<bill session="100" type="h" number="4584" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-09-26">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-26"/>
+  </status>
+  <introduced datetime="1988-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the development of public outdoor recreation areas and facilities at Minidoka Dam in the State of Idaho.</title>
+  </titles>
+  <sponsor id="410251"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-11" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-23">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-974.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Placed on Union Calendar No: 584.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Construction costs"/>
+    <term name="Dams"/>
+    <term name="Idaho"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/1988--Passed House amended.
+(Measure passed House, amended) Authorizes the Secretary of the Interior to construct and maintain public outdoor recreation areas and facilities at Minidoka Dam, Idaho. Requires 50 percent of the costs for such construction and maintenance to be repaid to the Federal Government from non-Federal interests. Authorizes appropriations.</summary>
+</bill>

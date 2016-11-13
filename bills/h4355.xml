@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="4355" updated="2014-03-22T09:53:10-04:00">
+  <state datetime="1988-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-31"/>
+  </status>
+  <introduced datetime="1988-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of William D. Benoni.</title>
+  </titles>
+  <sponsor id="402833"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-31" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1988--Introduced.
+Confers jurisdiction upon the U.S. District Court for the District of Massachusetts, or another district in which a named railroad corporation does business, to review and render judgment on a Public Law Board decision with respect to the discharge of a named individual from his employment with such corporation.</summary>
+</bill>

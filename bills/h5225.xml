@@ -1,0 +1,89 @@
+<bill session="100" type="h" number="5225" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-09-26">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-26"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="short" as="introduced">Health Waste Anti-Dumping Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide penalties for the dumping of hospital wastes in the high seas, and for other purposes.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="300019" joined="1988-08-11"/>
+    <cosponsor id="402928" joined="1988-09-09"/>
+    <cosponsor id="403031" joined="1988-08-11"/>
+    <cosponsor id="403476" joined="1988-08-11"/>
+    <cosponsor id="404019" joined="1988-08-11"/>
+    <cosponsor id="400544" joined="1988-08-11"/>
+    <cosponsor id="400536" joined="1988-08-11"/>
+    <cosponsor id="405646" joined="1988-08-11"/>
+    <cosponsor id="406148" joined="1988-08-11"/>
+    <cosponsor id="406746" joined="1988-08-11"/>
+    <cosponsor id="400617" joined="1988-08-11"/>
+    <cosponsor id="407141" joined="1988-08-11"/>
+    <cosponsor id="407306" joined="1988-08-11"/>
+    <cosponsor id="400596" joined="1988-08-11"/>
+    <cosponsor id="407960" joined="1988-08-11"/>
+    <cosponsor id="400333" joined="1988-08-11"/>
+    <cosponsor id="409237" joined="1988-09-07"/>
+    <cosponsor id="409344" joined="1988-08-11"/>
+    <cosponsor id="409353" joined="1988-08-11"/>
+    <cosponsor id="400359" joined="1988-08-11"/>
+    <cosponsor id="409644" joined="1988-08-11"/>
+    <cosponsor id="400381" joined="1988-08-11"/>
+    <cosponsor id="410066" joined="1988-08-11"/>
+    <cosponsor id="410145" joined="1988-08-11"/>
+    <cosponsor id="410245" joined="1988-08-11"/>
+    <cosponsor id="410455" joined="1988-08-11"/>
+    <cosponsor id="410496" joined="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>For Previous Action See H.R.5130.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-22" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5130"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Environmental protection"/>
+    <term name="Forfeiture"/>
+    <term name="Hazardous waste disposal"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Medical supplies"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Waste disposal in rivers, lakes, etc."/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Health Waste Anti-Dumping Act of 1988 - Amends the Federal criminal code to establish criminal penalties for knowingly and without lawful authority dumping any health care facility waste: (1) upon the high seas or any waters within the admiralty and maritime jurisdiction of the United States; or (2) in any other place within the United States if interstate or foreign commerce is affected. Provides for forfeiture of property of violators. Includes wastes of veterinary services and laboratory services under the prohibition.</summary>
+</bill>

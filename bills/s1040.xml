@@ -1,0 +1,36 @@
+<bill session="100" type="s" number="1040" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-10"/>
+  </status>
+  <introduced datetime="1987-04-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 49, United States Code, relating to sale, acquisition, or abandonment of railroad lines.</title>
+  </titles>
+  <sponsor id="407622"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Subcommittee on Surface Transportation. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSCM08" subcommittee="Surface Transportation" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Railroad abandonments"/>
+    <term name="Railroad facilities"/>
+    <term name="Railroad rates"/>
+    <term name="Railroads"/>
+    <term name="Railroads and state"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/1987--Introduced.
+Amends Federal law to provide that any sale, acquisition, or abandonment of a railroad line, rail transportation, trackage, or trackage rights which exceed 100 miles in length, and which are transferred to a non-carrier, is subject to the jurisdiction of the Interstate Commerce Commission (thus requiring the Commission to review sales of major portions of railroad lines to private noncarrier persons). Directs the Commission to take the necessary action to assure that: (1) the level of service to be provided by the non-carrier transferee of such rail facilities will not be substantially less than the level of service provided prior to the sale; and (2) the rates on that particular segment of tracks involved will not be increased more than the increase in the rail cost adjustment factor.</summary>
+</bill>

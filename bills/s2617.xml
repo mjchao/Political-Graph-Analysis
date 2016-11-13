@@ -1,0 +1,61 @@
+<bill session="100" type="s" number="2617" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-09-22">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1988-07-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to revise the boundary of Aztec Ruins National Monument in the State of New Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor id="300009"/>
+  <cosponsors>
+    <cosponsor id="300036" joined="1988-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-07-08">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-08-19">
+      <text>Committee on Energy and Natural Resources requested executive comment from Agriculture Department, OMB.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-09-22" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <calendar datetime="1988-09-22">
+      <text>Committee on Energy and Natural Resources. Measure incorporated into measure S. 2545 ordered to be reported.</text>
+    </calendar>
+    <action datetime="1988-09-30">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment. With written report No. 100-573.</text>
+    </action>
+    <calendar datetime="1988-09-30" calendar="Senate Legislative" under="General Orders" number="1037">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1037.</text>
+    </calendar>
+    <action datetime="1988-10-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="National monuments"/>
+    <term name="New Mexico"/>
+  </subjects>
+  <amendments/>
+  <summary>10/11/1988--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate) Revises the boundary of the Aztec National Monument, New Mexico. Authorizes appropriations.</summary>
+</bill>

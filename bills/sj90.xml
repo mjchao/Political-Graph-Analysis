@@ -1,0 +1,56 @@
+<bill session="100" type="sj" number="90" updated="2014-03-22T09:54:20-04:00">
+  <state datetime="1987-04-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-04-03"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution disapproving the certification by the President under section 481(h) of the Foreign Assistance Act of 1961.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="300154" joined="1987-03-17"/>
+    <cosponsor id="300072" joined="1987-03-17"/>
+    <cosponsor id="410936" joined="1987-03-23"/>
+    <cosponsor id="411762" joined="1987-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Committee on Foreign Relations. Committee consideration and Mark Up Session held.</text>
+    </action>
+    <calendar datetime="1987-03-26" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-03-27">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Pell with an amendment in the nature of a substitute. With written report No. 100-24. Additional views filed.</text>
+    </action>
+    <calendar datetime="1987-03-27" calendar="Senate Legislative" under="General Orders" number="70">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 70.</text>
+    </calendar>
+    <vote how="roll" type="vote" roll="64" datetime="1987-04-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Motion to table the resolution agreed to in Senate by Yea-Nay Vote. 54-34. Record Vote No: 64.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="203"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Bahamas"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Narcotic traffic"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/1987--Reported to Senate amended.
+(Reported to Senate from the Committee on Foreign Relations with amendments, S. Rept. 100-24) Disapproves the President's certification for U.S. assistance to the Bahamas under provisions of the Foreign Assistance Act of 1961 relating to countries that fail to take adequate measures to prevent narcotics and other controlled substances from being sold illegally within the jurisdiction of such country to U.S. Government personnel or from entering the United States unlawfully, unless the President: (1) notifies the appropriate congressional committees that he will reexamine such certification; and (2) provides such committees with the detailed results of such reexamination, including information concerning the Bahamas' attempts to eradicate drug trafficking.</summary>
+</bill>

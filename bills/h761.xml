@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="761" updated="2014-03-22T09:51:33-04:00">
+  <state datetime="1987-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-27"/>
+  </status>
+  <introduced datetime="1987-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 11 of the United States Code to prevent the rejection of contracts, whether executory or not, that provide hospitalization and health benefits to current or former employees of the debtor.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-03-03"/>
+    <cosponsor id="401383" joined="1987-02-10"/>
+    <cosponsor id="402710" joined="1987-02-10"/>
+    <cosponsor id="402763" joined="1987-02-10"/>
+    <cosponsor id="400080" joined="1987-02-10"/>
+    <cosponsor id="400100" joined="1987-03-03"/>
+    <cosponsor id="403695" joined="1987-02-10"/>
+    <cosponsor id="403726" joined="1987-02-10"/>
+    <cosponsor id="404006" joined="1987-03-03"/>
+    <cosponsor id="404750" joined="1987-02-10"/>
+    <cosponsor id="405855" joined="1987-02-10"/>
+    <cosponsor id="406157" joined="1987-02-10"/>
+    <cosponsor id="400211" joined="1987-03-03"/>
+    <cosponsor id="400223" joined="1987-02-10"/>
+    <cosponsor id="406473" joined="1987-03-03"/>
+    <cosponsor id="400243" joined="1987-02-10"/>
+    <cosponsor id="408052" joined="1987-02-10"/>
+    <cosponsor id="408313" joined="1987-02-10"/>
+    <cosponsor id="408342" joined="1987-03-03"/>
+    <cosponsor id="400306" joined="1987-02-10"/>
+    <cosponsor id="400331" joined="1987-02-10"/>
+    <cosponsor id="409593" joined="1987-02-10"/>
+    <cosponsor id="409632" joined="1987-03-03"/>
+    <cosponsor id="300087" joined="1987-03-03"/>
+    <cosponsor id="400409" joined="1987-02-10"/>
+    <cosponsor id="411224" joined="1987-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-27" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Business and commerce"/>
+    <term name="Employee benefit plans"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+    <term name="Labor and employment"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1987--Introduced.
+Prohibits the trustee in a bankruptcy case from rejecting any executory or other contract that provides for hospitalization or health benefits for current or former employees of the debtor.</summary>
+</bill>

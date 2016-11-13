@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="1263" updated="2014-03-22T09:51:46-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to implement the United States-European Communities Agreement on Citrus and Pasta.</title>
+  </titles>
+  <sponsor id="400256"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Provisions of Measure Incorporated Into H.R.4848.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4848"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Cheese"/>
+    <term name="Citrus fruits"/>
+    <term name="Dairy products"/>
+    <term name="EEC countries"/>
+    <term name="Fisheries"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food industry"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Fruit and fruit trade"/>
+    <term name="Imports"/>
+    <term name="Oils and fats"/>
+    <term name="Seafood"/>
+    <term name="Seafood industries"/>
+    <term name="Spices"/>
+    <term name="Tariff"/>
+    <term name="Trade agreements"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Amends the Tariff Schedules of the United States to implement changes to the following products pursuant to the United States-European Communities Agreement on Citrus and Pasta: (1) anchovies; (2) certain cheeses; (3) satsuma oranges (mandarin); (4) olives; (5) capers; (6) paprika; (7) cider; and (8) olive oil.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="4959" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-30"/>
+  </status>
+  <introduced datetime="1988-06-30"/>
+  <titles>
+    <title type="short" as="introduced">National Housing Trust Act</title>
+    <title type="official" as="introduced">A bill to establish a National Housing Trust to assist first-time homebuyers.</title>
+  </titles>
+  <sponsor id="404634"/>
+  <cosponsors>
+    <cosponsor id="404139" joined="1988-06-30"/>
+    <cosponsor id="404422" joined="1988-06-30"/>
+    <cosponsor id="405724" joined="1988-06-30"/>
+    <cosponsor id="406277" joined="1988-06-30"/>
+    <cosponsor id="400314" joined="1988-06-30"/>
+    <cosponsor id="400611" joined="1988-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-30" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-07-15">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Department of Housing and Urban Development"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal aid to housing"/>
+    <term name="Government trust funds"/>
+    <term name="Home ownership"/>
+    <term name="Housing and Housing Finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1988--Introduced.
+National Housing Trust Act - Establishes the National Housing Trust in the Department of Housing and Urban Development to assist first-time homebuyers so the rate of interest payable on the mortgages does not exceed six percent. Sets homebuyer eligibility requirements. Establishes the National Housing Trust Fund in the Treasury. Authorizes FY 1989 through 1991 appropriations.</summary>
+</bill>

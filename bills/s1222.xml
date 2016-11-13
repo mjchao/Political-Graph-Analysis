@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1222" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the temporary suspension of duty on certain textile machines.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="401709" joined="1987-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1460"/>
+    <bill relation="identical" session="100" type="h" number="1460"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Machinery"/>
+    <term name="Tariff"/>
+    <term name="Textile industry and fabrics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1987--Introduced.
+Amends the Tariff Schedules of the United States to extend, through December 31, 1991, the duty-free treatment of certain narrow weaving machines and certain lace-braiding machines.</summary>
+</bill>

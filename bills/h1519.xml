@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1519" updated="2014-03-22T09:51:52-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to limit medicare denials by peer review organizations of medically necessary inpatient hospital services.</title>
+  </titles>
+  <sponsor id="408976"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-13">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+    <term name="Peer review organizations (Medicine)"/>
+    <term name="Physicians"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Prohibits the Secretary of Health and Human Services or a peer review organization from denying Medicare payments (under title XVIII of the Social Security Act) for inpatient hospital services on the basis that the services were not reasonable and medically necessary, if a physician has certified the services as reasonable and medically necessary and has not established a clear pattern of making faulty certifications.</summary>
+</bill>

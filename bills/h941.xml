@@ -1,0 +1,74 @@
+<bill session="100" type="h" number="941" updated="2016-06-29T08:42:28-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Clayton Act Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Clayton Act regarding liability.</title>
+  </titles>
+  <sponsor id="410589"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-02-03"/>
+    <cosponsor id="400975" joined="1987-03-18"/>
+    <cosponsor id="400025" joined="1987-02-03"/>
+    <cosponsor id="401417" joined="1987-03-18"/>
+    <cosponsor id="401612" joined="1987-02-03"/>
+    <cosponsor id="400043" joined="1987-02-03"/>
+    <cosponsor id="401874" joined="1987-02-03"/>
+    <cosponsor id="402114" joined="1988-05-03"/>
+    <cosponsor id="403031" joined="1987-02-03"/>
+    <cosponsor id="403314" joined="1987-02-03"/>
+    <cosponsor id="300037" joined="1987-02-03"/>
+    <cosponsor id="403776" joined="1987-02-03"/>
+    <cosponsor id="403873" joined="1987-02-03"/>
+    <cosponsor id="400143" joined="1987-02-03"/>
+    <cosponsor id="400146" joined="1987-02-03"/>
+    <cosponsor id="404520" joined="1987-02-03"/>
+    <cosponsor id="404602" joined="1987-02-03"/>
+    <cosponsor id="404634" joined="1987-02-03"/>
+    <cosponsor id="405747" joined="1987-02-03"/>
+    <cosponsor id="405887" joined="1987-02-03"/>
+    <cosponsor id="400595" joined="1987-02-03"/>
+    <cosponsor id="407399" joined="1987-02-03"/>
+    <cosponsor id="407960" joined="1987-03-18"/>
+    <cosponsor id="408052" joined="1987-02-03"/>
+    <cosponsor id="408632" joined="1987-03-18"/>
+    <cosponsor id="410076" joined="1987-02-03"/>
+    <cosponsor id="411025" joined="1987-02-03"/>
+    <cosponsor id="400540" joined="1987-02-03"/>
+    <cosponsor id="411725" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Antitrust actions"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Injunctions"/>
+    <term name="Railroads"/>
+    <term name="Railroads and state"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Clayton Act Amendments of 1987 - Amends the Clayton Act to provide that rail common carriers shall not be immune from private suits for damages or injunctive relief under the antitrust laws.</summary>
+</bill>

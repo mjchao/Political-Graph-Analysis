@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="5144" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-08-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-03"/>
+  </status>
+  <introduced datetime="1988-08-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require that light trucks and multi-purpose vehicles shall be subject to certain Federal motor vehicle safety standards which are applicable to passenger motor vehicles.</title>
+  </titles>
+  <sponsor id="400585"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-08-09"/>
+    <cosponsor id="400975" joined="1988-08-03"/>
+    <cosponsor id="401231" joined="1988-08-03"/>
+    <cosponsor id="401310" joined="1988-08-03"/>
+    <cosponsor id="400572" joined="1988-08-03"/>
+    <cosponsor id="402763" joined="1988-09-15"/>
+    <cosponsor id="403689" joined="1988-08-03"/>
+    <cosponsor id="404006" joined="1988-09-08"/>
+    <cosponsor id="404190" joined="1988-08-03"/>
+    <cosponsor id="404422" joined="1988-08-03"/>
+    <cosponsor id="400240" joined="1988-08-03"/>
+    <cosponsor id="400595" joined="1988-09-15"/>
+    <cosponsor id="400306" joined="1988-08-03"/>
+    <cosponsor id="409325" joined="1988-08-03"/>
+    <cosponsor id="410066" joined="1988-08-09"/>
+    <cosponsor id="400387" joined="1988-08-03"/>
+    <cosponsor id="400409" joined="1988-08-03"/>
+    <cosponsor id="411426" joined="1988-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-03" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Motor vehicles"/>
+    <term name="Automobile safety standards"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle safety"/>
+    <term name="Roads and highways"/>
+    <term name="Standards"/>
+    <term name="Trucking"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1988--Introduced.
+Subjects light trucks and multi-purpose vehicles to specified safety standards applicable to passenger motor vehicles under the National Traffic and Motor Vehicle Safety Act of 1966.</summary>
+</bill>

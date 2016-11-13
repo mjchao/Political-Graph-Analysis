@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="3738" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-10"/>
+  </status>
+  <introduced datetime="1987-12-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Wild and Scenic Rivers Act by designating a segment of the Klamath River in Oregon and California as a component of the National Wild and Scenic Rivers System.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400987" joined="1987-12-10"/>
+    <cosponsor id="401231" joined="1988-03-10"/>
+    <cosponsor id="401947" joined="1988-03-10"/>
+    <cosponsor id="300038" joined="1988-03-10"/>
+    <cosponsor id="400231" joined="1988-03-10"/>
+    <cosponsor id="400240" joined="1988-06-08"/>
+    <cosponsor id="406974" joined="1988-06-08"/>
+    <cosponsor id="407051" joined="1988-03-10"/>
+    <cosponsor id="400278" joined="1988-03-10"/>
+    <cosponsor id="408023" joined="1988-06-08"/>
+    <cosponsor id="408109" joined="1988-06-08"/>
+    <cosponsor id="400306" joined="1988-03-10"/>
+    <cosponsor id="408407" joined="1988-03-10"/>
+    <cosponsor id="300100" joined="1987-12-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-10" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-01-26">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Oregon"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Rivers"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Wild rivers"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>12/10/1987--Introduced.
+Amends the Wild and Scenic Rivers Act to designate a segment of the Klamath River in Oregon and California as a component of the National Wild and Scenic Rivers System.</summary>
+</bill>

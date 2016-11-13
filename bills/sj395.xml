@@ -1,0 +1,82 @@
+<bill session="100" type="sj" number="395" updated="2016-06-29T08:45:11-04:00">
+  <state datetime="1988-11-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-10"/>
+  </status>
+  <introduced datetime="1988-10-21"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate January 4, 1989, as "National Commissioned Corps of the Public Health Service Centennial Day".</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="1988-10-21"/>
+    <cosponsor id="401709" joined="1988-10-21"/>
+    <cosponsor id="402004" joined="1988-10-21"/>
+    <cosponsor id="402023" joined="1988-10-21"/>
+    <cosponsor id="300023" joined="1988-10-21"/>
+    <cosponsor id="300026" joined="1988-10-21"/>
+    <cosponsor id="403142" joined="1988-10-21"/>
+    <cosponsor id="403346" joined="1988-10-21"/>
+    <cosponsor id="300034" joined="1988-10-21"/>
+    <cosponsor id="403515" joined="1988-10-21"/>
+    <cosponsor id="403669" joined="1988-10-21"/>
+    <cosponsor id="404444" joined="1988-10-21"/>
+    <cosponsor id="404679" joined="1988-10-21"/>
+    <cosponsor id="405310" joined="1988-10-21"/>
+    <cosponsor id="300056" joined="1988-10-21"/>
+    <cosponsor id="300059" joined="1988-10-21"/>
+    <cosponsor id="300066" joined="1988-10-21"/>
+    <cosponsor id="300070" joined="1988-10-21"/>
+    <cosponsor id="407268" joined="1988-10-21"/>
+    <cosponsor id="407355" joined="1988-10-21"/>
+    <cosponsor id="408597" joined="1988-10-21"/>
+    <cosponsor id="300084" joined="1988-10-21"/>
+    <cosponsor id="409562" joined="1988-10-21"/>
+    <cosponsor id="300089" joined="1988-10-21"/>
+    <cosponsor id="410242" joined="1988-10-21"/>
+    <cosponsor id="410315" joined="1988-10-21"/>
+    <cosponsor id="300094" joined="1988-10-21"/>
+    <cosponsor id="300157" joined="1988-10-21"/>
+    <cosponsor id="300099" joined="1988-10-21"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-652" type="public" datetime="1988-11-10">
+      <text>Became Public Law No: 100-652.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="672"/>
+    <bill relation="identical" session="100" type="hj" number="672"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Public health personnel"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1988--Introduced.
+Designates January 4, 1989, as National Commissioned Corps of the Public Health Service Centennial Day.</summary>
+</bill>

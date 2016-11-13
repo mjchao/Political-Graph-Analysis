@@ -1,0 +1,72 @@
+<bill session="100" type="s" number="1532" updated="2014-03-22T09:55:21-04:00">
+  <state datetime="1987-10-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-10-05"/>
+  </status>
+  <introduced datetime="1987-07-23"/>
+  <titles>
+    <title type="official" as="introduced">An original bill relating to the payment for telecommunications equipment and certain services furnished by the Sergeant at Arms and Doorkeeper of the Senate.</title>
+  </titles>
+  <sponsor id="404219"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1987-07-23" state="REPORTED">
+      <text>Committee on Rules ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1987-07-23">
+      <text>Committee on Rules. Original measure reported to Senate by Senator Ford. With written report No. 100-121.</text>
+    </action>
+    <calendar datetime="1987-07-23" calendar="Senate Legislative" under="General Orders" number="250">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 250.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>House Committee on House Administration Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-09-22" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-09-22">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-09-24">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-09-24">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-10-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-123" type="public" datetime="1987-10-05">
+      <text>Became Public Law No: 100-123.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Origin, Reporting, Markup"/>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Congressional officers"/>
+    <term name="Senate"/>
+    <term name="Senate rules and procedure"/>
+    <term name="Telephone"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/1987--Introduced.
+Grants the Sergeant at Arms of the Senate the authority, with respect to telephone equipment and services provided to any user on a reimbursable basis, to make such certification as may be necessary to establish such services and equipment as official, issue invoices, and receive payment for such services and equipment by certification, voucher, or otherwise. Authorizes the Sergeant at Arms, subject to the approval of the Committee on Rules and Administration, to establish reasonable charges for telephone equipment and services provided to any user which may be in addition to that regularly authorized by the Committee. Provides for making expenditures or obligations for such equipment and services from the contingent fund of the Senate. Directs the Sergeant at Arms to report to the Committee, as the Committee may direct, on expenditures made, and revenues received, under this Act. Requires the Sergeant at Arms to advise the Committee on any dispute regarding payments to and from the fund which have remained unresolved for at least 60 days.</summary>
+</bill>

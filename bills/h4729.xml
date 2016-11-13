@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="4729" updated="2014-03-22T09:53:24-04:00">
+  <state datetime="1988-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-02"/>
+  </status>
+  <introduced datetime="1988-06-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal building numbered 31 located on the National Institutes of Health reservation in Bethesda, Maryland, as the "Claude Denson Pepper Building".</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors>
+    <cosponsor id="401363" joined="1988-06-02"/>
+    <cosponsor id="401417" joined="1988-09-08"/>
+    <cosponsor id="400028" joined="1988-06-02"/>
+    <cosponsor id="402463" joined="1988-06-02"/>
+    <cosponsor id="404520" joined="1988-06-02"/>
+    <cosponsor id="404733" joined="1988-06-02"/>
+    <cosponsor id="405855" joined="1988-06-02"/>
+    <cosponsor id="405887" joined="1988-06-02"/>
+    <cosponsor id="406730" joined="1988-06-02"/>
+    <cosponsor id="406790" joined="1988-06-02"/>
+    <cosponsor id="400562" joined="1988-06-02"/>
+    <cosponsor id="407051" joined="1988-06-02"/>
+    <cosponsor id="400596" joined="1988-06-02"/>
+    <cosponsor id="407673" joined="1988-06-02"/>
+    <cosponsor id="300078" joined="1988-06-02"/>
+    <cosponsor id="400369" joined="1988-06-02"/>
+    <cosponsor id="410066" joined="1988-06-02"/>
+    <cosponsor id="400439" joined="1988-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-02" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Federal installations"/>
+    <term name="Maryland"/>
+    <term name="Names"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Research centers"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/1988--Introduced.
+Designates the Federal building numbered 31, at 9000 Rockville Pike, Bethesda, Maryland, which contains facilities of the National Institute on Aging, the National Cancer Institute, and other institutes in the Public Health Service as the Claude Denson Pepper Building.</summary>
+</bill>

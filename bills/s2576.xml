@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="2576" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1988-06-28"/>
+  <titles>
+    <title type="short" as="introduced">Department of Environmental Protection Act</title>
+    <title type="official" as="introduced">A bill to establish a Department of Environmental Protection.</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1988-06-28"/>
+    <cosponsor id="402412" joined="1988-06-28"/>
+    <cosponsor id="405321" joined="1988-06-28"/>
+    <cosponsor id="300070" joined="1988-06-28"/>
+    <cosponsor id="410242" joined="1988-06-28"/>
+    <cosponsor id="411421" joined="1988-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4969"/>
+    <bill relation="identical" session="100" type="h" number="4969"/>
+    <bill relation="identical" session="100" type="h" number="5021"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Environmental protection"/>
+    <term name="Executive reorganization"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/1988--Introduced.
+Department of Environmental Protection Act - Redesignates the Environmental Protection Agency as the Department of Environmental Protection, an executive department to be administered by a Secretary of Environmental Protection appointed by the President.</summary>
+</bill>

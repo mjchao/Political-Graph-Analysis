@@ -1,0 +1,135 @@
+<bill session="100" type="h" number="2325" updated="2014-03-22T09:52:19-04:00">
+  <state datetime="1987-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-22"/>
+  </status>
+  <introduced datetime="1987-05-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the acceptance of a donation of land for addition to Big Bend National Park, in the State of Texas.</title>
+  </titles>
+  <sponsor id="400381"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-09-22"/>
+    <cosponsor id="400567" joined="1987-09-22"/>
+    <cosponsor id="401203" joined="1987-09-22"/>
+    <cosponsor id="401628" joined="1987-09-22"/>
+    <cosponsor id="401947" joined="1987-09-22"/>
+    <cosponsor id="402114" joined="1987-09-22"/>
+    <cosponsor id="402454" joined="1987-09-22"/>
+    <cosponsor id="402750" joined="1987-10-05"/>
+    <cosponsor id="400079" joined="1987-09-22"/>
+    <cosponsor id="400104" joined="1987-09-22"/>
+    <cosponsor id="404068" joined="1987-09-22"/>
+    <cosponsor id="404634" joined="1987-09-22"/>
+    <cosponsor id="400165" joined="1987-09-22"/>
+    <cosponsor id="406682" joined="1987-09-22"/>
+    <cosponsor id="406740" joined="1987-09-22"/>
+    <cosponsor id="400302" joined="1987-09-22"/>
+    <cosponsor id="408725" joined="1987-10-05"/>
+    <cosponsor id="410553" joined="1987-09-22"/>
+    <cosponsor id="411725" joined="1987-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-07" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-11">
+      <text>Favorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-09-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-05">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-341.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Placed on Union Calendar No: 212.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-05" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-06">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-10-23">
+      <text>Committee on Energy and Natural Resources requested executive comment from Department of the Interior, OMB.</text>
+    </action>
+    <action datetime="1987-11-12">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Unfavorable.</text>
+    </action>
+    <calendar datetime="1987-12-02">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-12-09">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-249.</text>
+    </action>
+    <calendar datetime="1987-12-09" calendar="Senate Legislative" under="General Orders" number="478">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 478.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-12" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-16">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-22" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-201" type="public" datetime="1987-12-22">
+      <text>Became Public Law No: 100-201.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1987--Passed House amended.
+(Measure passed House, amended) Expands the boundaries of the Big Bend National Park, Texas, to include specified lands known as the Harte Ranch Addition. Authorizes the Secretary of the Interior to acquire such lands through donation, purchase, or exchange.</summary>
+</bill>

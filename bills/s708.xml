@@ -1,0 +1,83 @@
+<bill session="100" type="s" number="708" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Tongass Timber Reform Act</title>
+    <title type="official" as="introduced">A bill to require annual appropriations of funds to support timber management and resource conservation on the Tongass National Forest.</title>
+  </titles>
+  <sponsor id="408937"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="1988-09-12"/>
+    <cosponsor id="402023" joined="1987-12-03"/>
+    <cosponsor id="402412" joined="1987-04-09"/>
+    <cosponsor id="300026" joined="1988-04-22"/>
+    <cosponsor id="300034" joined="1988-09-26"/>
+    <cosponsor id="404277" joined="1988-01-28"/>
+    <cosponsor id="404679" joined="1987-07-31"/>
+    <cosponsor id="300051" joined="1988-09-29"/>
+    <cosponsor id="405795" joined="1987-09-10"/>
+    <cosponsor id="406190" joined="1988-10-19"/>
+    <cosponsor id="300060" joined="1987-11-10"/>
+    <cosponsor id="300064" joined="1988-05-25"/>
+    <cosponsor id="300065" joined="1987-03-24"/>
+    <cosponsor id="300070" joined="1987-03-30"/>
+    <cosponsor id="407663" joined="1987-04-24"/>
+    <cosponsor id="400563" joined="1987-06-23"/>
+    <cosponsor id="408597" joined="1987-09-10"/>
+    <cosponsor id="408939" joined="1988-05-12"/>
+    <cosponsor id="409225" joined="1987-04-24"/>
+    <cosponsor id="400565" joined="1987-06-25"/>
+    <cosponsor id="409562" joined="1987-06-02"/>
+    <cosponsor id="411801" joined="1987-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee on Energy and Natural Resources requested executive comment from Agriculture Department.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1987-11-05">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1988-02-17">
+      <text>Committee on Energy and Natural Resources received executive comment from Agriculture Department. Unfavorable.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1516"/>
+    <bill relation="identical" session="100" type="h" number="1516"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Forest products"/>
+    <term name="Forests and forest products"/>
+    <term name="Forests and forestry"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Lumber trade"/>
+    <term name="National forests"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Tongass Timber Reform Act - Amends the Alaska National Interest Lands Conservation Act to repeal the ongoing appropriations for timber utilization in the Tongass National Forest, Alaska. Repeals the requirement for identifying lands unsuitable for timber production in such forest, and repeals the reporting requirement on the adequacy of timber supply from such forest lands. Requires the biennial report on such Forest to include the impact of timber management on subsistence resources, wildlife, and fisheries habitats.</summary>
+</bill>

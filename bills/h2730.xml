@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="2730" updated="2014-03-22T09:52:29-04:00">
+  <state datetime="1987-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-18"/>
+  </status>
+  <introduced datetime="1987-06-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to require the Secretary concerned to notify Congress whenever a progress payment is withheld under a contract in excess of $1,000,000.</title>
+  </titles>
+  <sponsor id="409443"/>
+  <cosponsors>
+    <cosponsor id="405887" joined="1987-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-18" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Government contractors"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/1987--Introduced.
+Amends Federal armed forces procurement provisions to require the Secretary of the military department concerned to notify the Senate and House Armed Services Committees whenever a progress payment is withheld under a defense contract in excess of $1,000,000. Requires such report to be submitted within 30 days of the withholding of the payment, and to include the reasons for such action.</summary>
+</bill>

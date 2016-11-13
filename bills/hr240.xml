@@ -1,0 +1,41 @@
+<bill session="100" type="hr" number="240" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-08-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-03"/>
+  </status>
+  <introduced datetime="1987-08-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution supporting the people of Haiti in their efforts to obtain respect for human rights and the holding of free and fair elections in Haiti, and for other purposes.</title>
+  </titles>
+  <sponsor id="400231"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-03" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-08-24">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-08-24">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Haiti"/>
+    <term name="Human rights"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1987--Introduced.
+Expresses the sense of the House of Representatives that: (1) the President should continue to make clear the support of the United States for the Haitian people's efforts to establish a democracy; (2) Haiti's National Council of Government (Council) should respect and abide by decisions made by the Provisional Election Council in conducting elections called for under the new Haitian constitution; (3) the Council should be mindful of and responsive to conditions placed upon the provision of U.S. economic and military assistance to Haiti with particular attention to specified conditions concerning free elections and human rights improvements; (4) the Haitian armed forces should respect human rights and exercise retrain in carrying out their duties; (5) the Council should redouble its efforts to demonstrate progress in investigations into past human rights abuses by members of the Haitian armed forces and to put into place safeguards against future abuses; and (6) all Haitians need to work to avoid further violence and allow the democratic transition to proceed in a peaceful atmosphere.</summary>
+</bill>

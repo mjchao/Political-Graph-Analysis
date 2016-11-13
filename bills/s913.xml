@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="913" updated="2014-03-22T09:55:07-04:00">
+  <state datetime="1987-04-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-03"/>
+  </status>
+  <introduced datetime="1987-04-03"/>
+  <titles>
+    <title type="short" as="introduced">Quality in Education Act of 1987</title>
+    <title type="official" as="introduced">A bill to promote excellence in education, and for other purposes.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Education, Arts, Humanities.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Committee on Labor and Human Resources requested executive comment from Education Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR01" subcommittee="Education, Arts and Humanities" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Educational tests"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Secondary education"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/1987--Introduced.
+Quality in Education Act of 1987 - Establishes the Optional Test of Academic Excellence. Directs the Secretary of Education to prepare or approve a comprehensive test of academic excellence designed to identify students with outstanding aptitude and ability who are in the 12th grade of secondary school. Provides that such test may be taken on a voluntary basis. Provides for certificates to be given to those who pass such test.</summary>
+</bill>

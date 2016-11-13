@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="968" updated="2014-03-22T09:51:38-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to continue until the close of September 30, 1990, the existing suspension of duties on color couplers and coupler intermediates used in the manufacture of photographic sensitized material.</title>
+  </titles>
+  <sponsor id="403641"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, USDA, ITC, USTR.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemicals"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Photography"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Amends the Tariff Schedules of the United States to extend, through September 30, 1990, the suspension of duty on photographic color couplers and certain cyclic organic chemical products used in the manufacture of photographic color couplers.</summary>
+</bill>

@@ -1,0 +1,69 @@
+<bill session="100" type="hr" number="181" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives with respect to the goals of the economic summit conference to be held in Venice, Italy, beginning of June 8, 1987.</title>
+  </titles>
+  <sponsor id="408575"/>
+  <cosponsors>
+    <cosponsor id="401585" joined="1987-05-28"/>
+    <cosponsor id="404520" joined="1987-05-28"/>
+    <cosponsor id="400211" joined="1987-07-08"/>
+    <cosponsor id="400595" joined="1987-07-08"/>
+    <cosponsor id="410231" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to Subcommittee on Economic Stabilization.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA05" subcommittee="Economic Stabilization" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Budget deficits"/>
+    <term name="Canada"/>
+    <term name="Conferences"/>
+    <term name="Economics and public finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign economic relations"/>
+    <term name="France"/>
+    <term name="Great Britain"/>
+    <term name="International economic relations"/>
+    <term name="Italy"/>
+    <term name="Japan"/>
+    <term name="Summit diplomacy"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+    <term name="West Germany"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Expresses the sense of the House of Representatives that: (1) it should be the goal of the United States to enhance coordination of fiscal and monetary policies among the seven countries participating in the economic summit conference to be held in Venice, Italy; and (2) the President should seek to obtain an agreement of the countries participating in such summit providing that West Germany and Japan should implement policies generating a specified fiscal stimulus, the United States should reduce its fiscal deficit by a specified amount, and the United Kingdom, France, Canada, and Italy should undertake macroeconomic and other measures to assist in the orderly adjustment of global economic imbalances.</summary>
+</bill>

@@ -1,0 +1,105 @@
+<bill session="100" type="s" number="1991" updated="2014-03-22T09:55:32-04:00">
+  <state datetime="1988-11-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-05"/>
+  </status>
+  <introduced datetime="1987-12-21"/>
+  <titles>
+    <title type="short" as="introduced">Uranium Mill Tailings Remedial Action Amendments Act of 1987</title>
+    <title type="short" as="reported to senate">Uranium Mill Tailings Remedial Action Amendments Act of 1988</title>
+    <title type="short" as="passed senate">Uranium Mill Tailings Remedial Action Amendments Act of 1988</title>
+    <title type="short" as="enacted">Uranium Mill Tailings Remedial Action Amendments of 1988</title>
+    <title type="official" as="introduced">A bill entitled the "Uranium Mill Tailings Remedial Action Amendments Act of 1987."</title>
+    <title type="official" as="amended by senate">An Act Uranium Mill Tailings Remedial Action Amendments Act of 1988.</title>
+  </titles>
+  <sponsor id="411801"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-12-21"/>
+    <cosponsor id="300009" joined="1987-12-21"/>
+    <cosponsor id="300036" joined="1987-12-21"/>
+    <cosponsor id="406084" joined="1987-12-21"/>
+    <cosponsor id="411271" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on Research and Development.</text>
+    </action>
+    <calendar datetime="1988-09-15" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-09-23">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments and an amendment to the title. With written report No. 100-543.</text>
+    </action>
+    <calendar datetime="1988-09-23" calendar="Senate Legislative" under="General Orders" number="984">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 984.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-13">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-19" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-616" type="public" datetime="1988-11-05">
+      <text>Became Public Law No: 100-616.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSEG01" subcommittee="Research and Development" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4591"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Fissionable materials"/>
+    <term name="Groundwater"/>
+    <term name="Land transfers"/>
+    <term name="Mine wastes"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Nuclear energy"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="Uranium"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Passed Senate amended.
+(Measure passed Senate, amended) Uranium Mill Tailings Remedial Action Amendments Act of 1988 - Amends the Uranium Mill Tailings Radiation Control Act of 1978 to authorize the Secretary of the Interior to transfer permanently to the Secretary of Energy public lands under the jurisdiction of the Bureau of Land Management in the vicinity of certain processing sites. Prohibits such transfer until the Secretary of Energy complies with certain National Environmental Policy Act requirements regarding site selection for the permanent disposition and stabilization of residual radioactive materials. Requires the Secretary of Energy to obtain the appropriate State's consent before acquiring lands upon which there is no: (1) designated processing site; or (2) active uranium mill operation. Terminates the Secretary of Energy's authority to perform remedial action on September 30, 1994. Provides that the Secretary's authority to perform groundwater restoration activities is without limitation.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="4185" updated="2014-03-22T09:53:06-04:00">
+  <state datetime="1988-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-16"/>
+  </status>
+  <introduced datetime="1988-03-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize the stretching out of the $1,200 basic-pay reduction of Montgomery GI Bill participants.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="406530" joined="1988-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-16" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1988-03-18">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-03-18">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Military pay"/>
+    <term name="Student aid"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/1988--Introduced.
+Amends Federal veterans' benefits provisions to authorize the Secretary of Defense, after consultation with the Secretaries of the military departments, the Secretary of Transportation, and the Administrator of Veterans Affairs, to adjust certain individuals' reduction in basic pay (reduced for the purpose of the provision of basic educational assistance for members of the armed forces serving on active duty during a specified period) so that such reduction is less than $100 but not less than $60 for the first 20 months (with a $1,200 total reduction limit) that the individual is entitled to such pay. Makes identical changes to the reduction in such pay for members of the Selected Reserve component of the armed forces.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="1065" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize the Administrator of Veterans Affairs to provide on call pay to certain civil service health-care personnel.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+    <calendar datetime="1987-07-31" state="REPORTED">
+      <text>Committee on Veterans. Provisions of measure incorporated into measure S. 9 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2002"/>
+    <bill relation="identical" session="100" type="h" number="2002"/>
+    <bill relation="unknown" session="100" type="s" number="9"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil service compensation"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Hospital personnel"/>
+    <term name="Medical personnel"/>
+    <term name="Veterans' medical care"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Amends Federal pay provisions for health-care employees within the Veterans Administration to authorize the Administrator of Veterans Affairs to provide ten percent of the hourly overtime rate for on call pay to certain civil service health-care personnel.</summary>
+</bill>

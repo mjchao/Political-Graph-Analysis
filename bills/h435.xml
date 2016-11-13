@@ -1,0 +1,111 @@
+<bill session="100" type="h" number="435" updated="2014-03-22T09:51:21-04:00">
+  <state datetime="1987-11-10">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-11-10"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 3, United States Code, and the Uniform Time Act of 1966 to establish a single poll closing time in the continental United States for Presidential general elections.</title>
+  </titles>
+  <sponsor id="410567"/>
+  <cosponsors>
+    <cosponsor id="400401" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-05-20" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-02">
+      <text>Reported to House by House Committee on House Administration. Report No: 100-117 (Part I).</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-29">
+      <text>Reported to House by House Committee on Energy and Commerce. Report No: 100-117 (Part II).</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Placed on Union Calendar No: 266.</text>
+    </action>
+    <action datetime="1987-11-04">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1987-11-04">
+      <text>Rules Committee Resolution H.Res.303 Reported to House.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="428" datetime="1987-11-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 208 - 189 (Record Vote No: 428).</text>
+    </vote>
+    <action datetime="1987-11-13">
+      <text>Received in the Senate and read twice and referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Committee on Rules. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="303"/>
+    <bill relation="identical" session="100" type="s" number="182"/>
+    <bill relation="identical" session="100" type="s" number="182"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Presidential elections"/>
+    <term name="Time"/>
+    <term name="Time and Calendars"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments>
+    <amendment number="h493"/>
+    <amendment number="h494"/>
+    <amendment number="h495"/>
+  </amendments>
+  <summary>1/6/1987--Introduced.
+Establishes 9:00 p.m., eastern standard time, as the poll closing time for presidential elections. Allows polling places to close if all eligible voters have voted. Amends the Uniform Time Act of 1966 to extend daylight saving time in the Pacific time zone in the year of a presidential election to the first Sunday after the date of such election.</summary>
+</bill>

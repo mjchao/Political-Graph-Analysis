@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="4112" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-09"/>
+  </status>
+  <introduced datetime="1988-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to allow the Export-Import Bank to prepay obligations issued to the Federal Financing Bank without incurring prepayment penalties.</title>
+  </titles>
+  <sponsor id="404422"/>
+  <cosponsors>
+    <cosponsor id="401155" joined="1988-04-14"/>
+    <cosponsor id="404006" joined="1988-04-14"/>
+    <cosponsor id="400223" joined="1988-03-09"/>
+    <cosponsor id="411834" joined="1988-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-09" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Referred to Subcommittee on International Finance, Trade and Monetary Policy.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Hearing Held by the Subcommittee on International Finance, Trade and Monetary Policy Prior to Introduction (Feb 25, 88).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSBA08" subcommittee="International Finance, Trade and Monetary Policy" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Export finance"/>
+    <term name="Export-Import Bank of the United States"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Government corporations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government securities"/>
+    <term name="Securities and Investments"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1988--Introduced.
+Allows the Export-Import Bank to prepay obligations issued to the Federal Financing Bank between November 30, 1982, and January 1, 1988, without incurring prepayment penalties.</summary>
+</bill>

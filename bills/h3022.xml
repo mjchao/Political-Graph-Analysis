@@ -1,0 +1,88 @@
+<bill session="100" type="h" number="3022" updated="2014-03-22T09:52:36-04:00">
+  <state datetime="1987-07-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-07-30"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for a temporary extension of the public debt limit.</title>
+  </titles>
+  <sponsor id="409422"/>
+  <cosponsors>
+    <cosponsor id="403641" joined="1987-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-28">
+      <text>Committee on Rules Granted a Rule Providing One Hour of Debate.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Placed on Union Calendar No: 151.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Rules Committee Resolution H.Res.233 Reported to House.</text>
+    </action>
+    <action datetime="1987-07-28" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-28" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-07-28">
+      <text>Reported to House by House Committee on Ways and Means.  Report No: 100-244.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Measure Considered in House as in the Committee of the Whole.</text>
+    </action>
+    <vote how="roll" type="vote" roll="288" datetime="1987-07-29" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 263 - 155 (Record Vote No: 288).</text>
+    </vote>
+    <action datetime="1987-07-29">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-07-29" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-07-29">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1987-07-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-07-30" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-80" type="public" datetime="1987-07-30">
+      <text>Became Public Law No: 100-80.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="233"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Public debt"/>
+  </subjects>
+  <amendments>
+    <amendment number="s643"/>
+  </amendments>
+  <summary>7/28/1987--Introduced.
+Extends the public debt limit through August 6, 1987.</summary>
+</bill>

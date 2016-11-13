@@ -1,0 +1,47 @@
+<bill session="100" type="sc" number="146" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-09-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-09-28"/>
+  </status>
+  <introduced datetime="1988-09-28"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to authorize the printing of Senator Bob Dole's series of "Senate Bicentennial Minutes".</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee activity="Referral" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional publications"/>
+    <term name="History"/>
+    <term name="Printing"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1988--Introduced.
+Authorizes the printing of "The United States Senate Historical Almanac" by Senator Bob Dole as a Senate document under the supervision of the Secretary of the Senate with the editorial assistance of the Senate Historical Office. Requires the printing of additional copies for the use of the Secretary of the Senate.</summary>
+</bill>

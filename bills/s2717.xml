@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="2717" updated="2014-03-22T09:55:54-04:00">
+  <state datetime="1988-08-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-10"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill extending permission for the President's Commission on White House Fellows to accept certain donations.</title>
+  </titles>
+  <sponsor id="411801"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Committee on Labor and Human Resources requested executive comment from OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4529"/>
+    <bill relation="identical" session="100" type="h" number="4529"/>
+  </relatedbills>
+  <subjects>
+    <term name="Federal advisory bodies"/>
+    <term name="Advisory bodies"/>
+    <term name="Education"/>
+    <term name="Gifts"/>
+    <term name="Government internships"/>
+    <term name="Student aid"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/1988--Introduced.
+Authorizes the President's Commission on White House Fellows to accept donations of money, property, and personal services.</summary>
+</bill>

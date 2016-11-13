@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="5490" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1988-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of William J. Guadagni.</title>
+  </titles>
+  <sponsor id="410231"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-06" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Military pay"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1988--Introduced.
+Provides that a named individual is eligible for military retired pay. Directs the Secretary of the Army to pay a specified amount in a lump sum to such individual.</summary>
+</bill>

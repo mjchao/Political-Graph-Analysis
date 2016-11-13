@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="3843" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-25"/>
+  </status>
+  <introduced datetime="1988-01-25"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Pay Responsibility Act of 1988</title>
+    <title type="official" as="introduced">A bill to require that a pay adjustment for Members of Congress may not be made except by a recorded vote on a bill or resolution relating to that subject matter only, to deny Federal retirement annuities to Members of Congress convicted of any felony, and for other purposes.</title>
+  </titles>
+  <sponsor id="403203"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-01-25" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-01-25">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-01-25">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1988-01-28">
+      <text>Referred to Subcommittee on Personnel and Police.</text>
+    </action>
+    <action datetime="1988-02-01">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA05" subcommittee="Personnel and Police" name="House Administration"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Civil service retirement"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Congressional-Presidential relations"/>
+    <term name="Crime prevention"/>
+    <term name="Federal employees and officials"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Legislation"/>
+    <term name="Members of Congress"/>
+    <term name="Misconduct in office"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Record votes"/>
+    <term name="Senate"/>
+    <term name="Senate rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/1988--Introduced.
+Congressional Pay Responsibility Act of 1988 - Amends the Federal Salary Act of 1967 to declare that any part of the recommendations of the President relating to the salaries of Members of Congress shall be of an advisory nature only. Amends the Legislative Reorganization Act of 1946 to declare that the annual rate of pay for Members of Congress shall be the rate payable on the date of enactment of this Act. Prohibits the House of Representatives or the Senate from considering a bill or resolution which would adjust the rate of pay of Members unless the bill or resolution deals with no other subject matter. Requires a recorded vote on such legislation. Prohibits the payment of an annuity or retired pay on the basis of any service performed as a Member of Congress, if the individual is convicted of any State or Federal felony committed after the date of enactment of this Act. Authorizes the restoration of such annuity or retired pay if such individual is pardoned by the Governor in the case of an offense against a State law.</summary>
+</bill>

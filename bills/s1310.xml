@@ -1,0 +1,34 @@
+<bill session="100" type="s" number="1310" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-03"/>
+  </status>
+  <introduced datetime="1987-06-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the tariff treatment of tin plate and tin-coated sheets.</title>
+  </titles>
+  <sponsor id="300084"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2440"/>
+    <bill relation="identical" session="100" type="h" number="2440"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+    <term name="Tin"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/1987--Introduced.
+Amends the Tariff Schedules of the United States to establish the rates of duty for coiled, straight-cut, or scroll-cut tin plate and tin sheets.</summary>
+</bill>

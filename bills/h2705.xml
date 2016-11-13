@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="2705" updated="2014-03-22T09:52:28-04:00">
+  <state datetime="1987-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-17"/>
+  </status>
+  <introduced datetime="1987-06-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to limit effectively to 525,000 the number of aliens who may acquire lawful permanent residence in the United States in any fiscal year as special immigrants, immediate relatives, and preference immigrants.</title>
+  </titles>
+  <sponsor id="403203"/>
+  <cosponsors>
+    <cosponsor id="300155" joined="1987-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-17" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/1987--Introduced.
+Amends the Immigration and Nationality Act to reduce the total number (270,000) of permanent resident visas available in a fiscal year by the number of special immigrant, immediate relative, and preference visas issued during the preceding fiscal year in excess of 255,000. Stipulates that such reductions may not exceed 50 percent of such total.</summary>
+</bill>

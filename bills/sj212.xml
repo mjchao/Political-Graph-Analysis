@@ -1,0 +1,130 @@
+<bill session="100" type="sj" number="212" updated="2016-06-29T08:45:05-04:00">
+  <state datetime="1988-05-12">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1987-11-05"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate the period commencing May 8, 1988, and ending on May 14, 1988, as "National Tuberous Sclerosis Awareness Week".</title>
+  </titles>
+  <sponsor id="403483"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-02-17"/>
+    <cosponsor id="400927" joined="1988-01-28"/>
+    <cosponsor id="300005" joined="1988-02-17"/>
+    <cosponsor id="401391" joined="1988-02-17"/>
+    <cosponsor id="300010" joined="1988-02-17"/>
+    <cosponsor id="401611" joined="1988-02-17"/>
+    <cosponsor id="401709" joined="1988-02-17"/>
+    <cosponsor id="402023" joined="1988-01-28"/>
+    <cosponsor id="402412" joined="1988-02-17"/>
+    <cosponsor id="402495" joined="1988-02-17"/>
+    <cosponsor id="403142" joined="1988-02-24"/>
+    <cosponsor id="403171" joined="1988-02-17"/>
+    <cosponsor id="403346" joined="1988-02-17"/>
+    <cosponsor id="300034" joined="1988-02-17"/>
+    <cosponsor id="403515" joined="1988-02-17"/>
+    <cosponsor id="300036" joined="1988-02-17"/>
+    <cosponsor id="403669" joined="1988-02-17"/>
+    <cosponsor id="404219" joined="1988-02-24"/>
+    <cosponsor id="404277" joined="1988-02-17"/>
+    <cosponsor id="404598" joined="1988-02-17"/>
+    <cosponsor id="300046" joined="1988-01-28"/>
+    <cosponsor id="300048" joined="1988-02-17"/>
+    <cosponsor id="405310" joined="1988-02-17"/>
+    <cosponsor id="300154" joined="1988-02-17"/>
+    <cosponsor id="300053" joined="1988-02-17"/>
+    <cosponsor id="405795" joined="1988-02-17"/>
+    <cosponsor id="300056" joined="1988-02-17"/>
+    <cosponsor id="406084" joined="1988-01-28"/>
+    <cosponsor id="406188" joined="1988-02-17"/>
+    <cosponsor id="300064" joined="1988-02-17"/>
+    <cosponsor id="300066" joined="1988-02-17"/>
+    <cosponsor id="300070" joined="1988-01-28"/>
+    <cosponsor id="407355" joined="1988-02-17"/>
+    <cosponsor id="407663" joined="1988-01-28"/>
+    <cosponsor id="407786" joined="1988-02-17"/>
+    <cosponsor id="400563" joined="1988-02-17"/>
+    <cosponsor id="408252" joined="1988-02-17"/>
+    <cosponsor id="408939" joined="1988-02-17"/>
+    <cosponsor id="408970" joined="1988-02-24"/>
+    <cosponsor id="300084" joined="1988-02-17"/>
+    <cosponsor id="400565" joined="1988-02-17"/>
+    <cosponsor id="409562" joined="1988-02-17"/>
+    <cosponsor id="300089" joined="1988-02-17"/>
+    <cosponsor id="409917" joined="1988-02-17"/>
+    <cosponsor id="410242" joined="1988-02-17"/>
+    <cosponsor id="410315" joined="1988-02-17"/>
+    <cosponsor id="410588" joined="1988-02-17"/>
+    <cosponsor id="300157" joined="1988-02-17"/>
+    <cosponsor id="410936" joined="1988-02-17"/>
+    <cosponsor id="300099" joined="1988-02-17"/>
+    <cosponsor id="411421" joined="1988-02-17"/>
+    <cosponsor id="411762" joined="1988-02-17"/>
+    <cosponsor id="411801" joined="1988-02-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1988-02-23" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-02-24">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-02-24" calendar="Senate Legislative" under="General Orders" number="544">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 544.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-02-26" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-03-01">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-03-07">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-05-05" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-05-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-05-09">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-05-09">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-05-12" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-316" type="public" datetime="1988-05-12">
+      <text>Became Public Law No: 100-316.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="398"/>
+    <bill relation="identical" session="100" type="hj" number="398"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Hereditary diseases"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>11/5/1987--Introduced.
+Designates the week of May 8 through May 14, 1988, as National Tuberous Sclerosis Awareness Week.</summary>
+</bill>

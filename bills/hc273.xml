@@ -1,0 +1,45 @@
+<bill session="100" type="hc" number="273" updated="2014-03-22T09:54:13-04:00">
+  <state datetime="1988-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution in support of the Palestinian people's right to self-determination and statehood in the West Bank and Gaza.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="1988-05-03"/>
+    <cosponsor id="403031" joined="1988-04-19"/>
+    <cosponsor id="403314" joined="1988-07-07"/>
+    <cosponsor id="403695" joined="1988-04-19"/>
+    <cosponsor id="404006" joined="1988-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-04-11">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-04-20">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="National self-determination"/>
+    <term name="Palestinians"/>
+    <term name="Sovereignty"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Expresses the sense of the Congress that the United States should adopt a policy which supports the Palestinian people's right to self-determination and statehood in the West Bank and Gaza.</summary>
+</bill>

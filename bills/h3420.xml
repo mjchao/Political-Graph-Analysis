@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3420" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1987-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-05"/>
+  </status>
+  <introduced datetime="1987-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to change the name of Ventura Marina to Ventura Harbor.</title>
+  </titles>
+  <sponsor id="406530"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-05" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>See S.2100.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Harbors"/>
+    <term name="Names"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1987--Introduced.
+Designates the harbor known as Ventura Marina in Ventura County, California, as Ventura Harbor.</summary>
+</bill>

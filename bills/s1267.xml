@@ -1,0 +1,69 @@
+<bill session="100" type="s" number="1267" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-07-21">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-07-21"/>
+  </status>
+  <introduced datetime="1987-05-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide authorization of appropriations for the United States Travel and Tourism Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="300084"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-05-21"/>
+    <cosponsor id="403171" joined="1987-05-21"/>
+    <cosponsor id="403962" joined="1987-07-10"/>
+    <cosponsor id="404219" joined="1987-05-21"/>
+    <cosponsor id="404679" joined="1987-05-21"/>
+    <cosponsor id="405305" joined="1987-06-16"/>
+    <cosponsor id="300053" joined="1987-05-21"/>
+    <cosponsor id="300056" joined="1987-05-21"/>
+    <cosponsor id="300060" joined="1987-06-17"/>
+    <cosponsor id="408898" joined="1987-05-21"/>
+    <cosponsor id="409225" joined="1987-05-21"/>
+    <cosponsor id="409580" joined="1987-05-21"/>
+    <cosponsor id="410936" joined="1987-05-21"/>
+    <cosponsor id="300099" joined="1987-05-21"/>
+    <cosponsor id="411762" joined="1987-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <calendar datetime="1987-06-16" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-07-17">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings without amendment. With written report No. 100-116.</text>
+    </action>
+    <calendar datetime="1987-07-17" calendar="Senate Legislative" under="General Orders" number="244">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 244.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-23">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive agency funding and structure"/>
+    <term name="Travel and tourism"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/1987--Introduced.
+Amends the International Travel Act of 1961 to authorize appropriations for 1988 through 1990 for the United States Travel and Tourism Administration.</summary>
+</bill>

@@ -1,0 +1,125 @@
+<bill session="100" type="s" number="1165" updated="2014-12-10T13:15:50-05:00">
+  <state datetime="1988-10-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-13"/>
+  </status>
+  <introduced datetime="1987-05-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Secretary of the Interior to provide for the development and operation of a visitor and environmental education center in the Pinelands National Reserve, in the State of New Jersey.</title>
+  </titles>
+  <sponsor id="401709"/>
+  <cosponsors>
+    <cosponsor id="300064" joined="1987-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Unfavorable.</text>
+    </action>
+    <calendar datetime="1987-12-02" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-12-09">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-244.</text>
+    </action>
+    <calendar datetime="1987-12-09" calendar="Senate Legislative" under="General Orders" number="473">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 473.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-01-26">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Unfavorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-14">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-16">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-933.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Placed on Union Calendar No: 559.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-20" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-22">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-09-30" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1988-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-05">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-05">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-13" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-486" type="public" datetime="1988-10-13">
+      <text>Became Public Law No: 100-486.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="New Jersey"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/1988--Passed House amended.
+(Measure passed House, amended) Amends the National Parks and Recreation Act of 1978 to direct the Secretary of the Interior, within nine months after enactment of this Act, to study and recommend initiatives to provide an educational and interpretive program for the Pinelands National Reserve, New Jersey, through the improvement of existing facilities and programs in the Reserve. Directs the Secretary to study New Jersey's Pinelands Development Credit Bank, Pinelands Development Credit System, and Pinelands Municipal Council and submit to the Congress, within nine months after enactment of this Act, recommendations for improvements in the operation of such programs and council. Provides Federal funds for 50 percent of the cost for land acquisitions under this Act. Authorizes appropriations.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="5408" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-10-03">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-03"/>
+  </status>
+  <introduced datetime="1988-09-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make a correction in the Education and Training for a Competitive America Act of 1988.</title>
+  </titles>
+  <sponsor id="402747"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-28" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="379" datetime="1988-10-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 393 - 9 (Record Vote No: 379).</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Authorization"/>
+    <term name="Department of Education"/>
+    <term name="Economics and public finance"/>
+    <term name="Educational counseling"/>
+    <term name="Federal aid to education"/>
+    <term name="Secondary education"/>
+    <term name="Teacher education"/>
+    <term name="Teachers"/>
+    <term name="Vocational guidance"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1988--Introduced.
+Amends the Education and Training for a Competitive America Act of 1988 to extend through FY 1992 the authorization of appropriations for the Access Demonstration Programs (for training of secondary school personnel, including guidance counselors).</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="100" type="h" number="1084" updated="2014-03-22T09:51:41-04:00">
+  <state datetime="1987-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Compensation Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to provide a 3.5 percent increase in the rates of compensation and of dependency and indemnity compensation (DIC) paid by the Veterans' Administration.</title>
+  </titles>
+  <sponsor id="400906"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="1987-02-11"/>
+    <cosponsor id="402114" joined="1987-06-30"/>
+    <cosponsor id="402657" joined="1987-05-21"/>
+    <cosponsor id="403576" joined="1987-09-22"/>
+    <cosponsor id="400126" joined="1987-02-11"/>
+    <cosponsor id="300058" joined="1987-02-11"/>
+    <cosponsor id="407432" joined="1987-02-11"/>
+    <cosponsor id="407673" joined="1987-02-11"/>
+    <cosponsor id="407838" joined="1987-02-11"/>
+    <cosponsor id="408618" joined="1987-02-11"/>
+    <cosponsor id="409325" joined="1987-02-11"/>
+    <cosponsor id="300155" joined="1987-02-11"/>
+    <cosponsor id="410147" joined="1987-02-11"/>
+    <cosponsor id="411929" joined="1987-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-11" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-02-27">
+      <text>Executive Comment Requested from VA.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Executive Comment Received From VA.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Compensation, Pension and Insurance.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSVR01" subcommittee="Compensation, Pension and Insurance" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Survivors' benefits"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' pensions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1987--Introduced.
+Veterans' Compensation Amendments of 1987 - Increases the rate of veterans' disability compensation, additional compensation for dependents, and the clothing allowance for certain disabled veterans. Increases the rates of dependency and indemnity compensation for surviving spouses and for children, as well as the rates of supplemental dependency and indemnity compensation for children.</summary>
+</bill>

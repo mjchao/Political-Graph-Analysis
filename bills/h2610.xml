@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="2610" updated="2014-03-22T09:52:26-04:00">
+  <state datetime="1987-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-04"/>
+  </status>
+  <introduced datetime="1987-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Wheat and Feed Grain Programs Improvement Act of 1987</title>
+    <title type="official" as="introduced">A bill to revise the price support loan rates for the 1987 crop of corn and the 1988 crop of wheat.</title>
+  </titles>
+  <sponsor id="404602"/>
+  <cosponsors>
+    <cosponsor id="400761" joined="1987-06-04"/>
+    <cosponsor id="400898" joined="1987-06-04"/>
+    <cosponsor id="401923" joined="1987-06-04"/>
+    <cosponsor id="300037" joined="1987-06-04"/>
+    <cosponsor id="403873" joined="1987-06-04"/>
+    <cosponsor id="400126" joined="1987-06-04"/>
+    <cosponsor id="300058" joined="1987-06-04"/>
+    <cosponsor id="406111" joined="1987-06-04"/>
+    <cosponsor id="406157" joined="1987-06-04"/>
+    <cosponsor id="407351" joined="1987-06-04"/>
+    <cosponsor id="408097" joined="1987-06-04"/>
+    <cosponsor id="408342" joined="1987-06-04"/>
+    <cosponsor id="408457" joined="1987-06-04"/>
+    <cosponsor id="408618" joined="1987-06-04"/>
+    <cosponsor id="400377" joined="1987-06-04"/>
+    <cosponsor id="410251" joined="1987-06-11"/>
+    <cosponsor id="411166" joined="1987-06-04"/>
+    <cosponsor id="400540" joined="1987-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-04" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-09-28">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Corn"/>
+    <term name="Feed grain program"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/1987--Introduced.
+Wheat and Feed Grain Programs Improvement Act of 1987 - Amends the Agricultural Act of 1949 to establish the loan rate for the 1987 corn crop at $2.40 per bushel. (Currently such rate is based on a percentage of the preceding five years' average price.) Establishes the loan rate for the 1988 wheat crop at $2.85 per bushel. (Currently such rate is based on a percentage of the preceding five years' average price.)</summary>
+</bill>

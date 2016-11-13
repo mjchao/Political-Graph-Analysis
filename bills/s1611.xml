@@ -1,0 +1,64 @@
+<bill session="100" type="s" number="1611" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Immigration Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to effect changes in the numerical limitation and preference system for the admission of immigrants.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="1987-10-13"/>
+    <cosponsor id="403142" joined="1987-10-21"/>
+    <cosponsor id="300034" joined="1988-01-27"/>
+    <cosponsor id="300073" joined="1987-10-13"/>
+    <cosponsor id="400563" joined="1987-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+    <action datetime="1987-12-11">
+      <text>Subcommittee on Immigration and Refugee Affairs. Hearings held.</text>
+    </action>
+    <action datetime="1987-12-11">
+      <text>Subcommittee on Immigration and Refugee Affairs. Approved for full committee consideration with amendments favorably.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3143"/>
+    <bill relation="identical" session="100" type="h" number="3143"/>
+    <bill relation="unknown" session="100" type="s" number="2104"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative procedure"/>
+    <term name="Alien labor"/>
+    <term name="Aliens"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Department of Labor"/>
+    <term name="District courts"/>
+    <term name="Domestic Relations and Families"/>
+    <term name="Families"/>
+    <term name="Immigration policy"/>
+    <term name="Judicial review"/>
+    <term name="Judicial review of administrative acts"/>
+    <term name="Jurisdiction"/>
+    <term name="Passports"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Immigration Act of 1987 - Amends the Immigration and Nationality Act to revise numerical limitations for immigrant admissions with respect to family reunification immigrants and independent immigrants. Directs the Attorney General and the Secretaries of State, Labor, and Health and Human Services, every five years, beginning two years after this Act becomes effective, to prepare jointly and to submit to the President and to specified congressional committees a report discussing the need to revise these numerical limitations. Lists factors to be considered in preparing the report. Requires the President within 60 days of receiving the report to transmit to the Congress a certification as to whether the numerical limitations should be changed and, if so, what they should be. Deems the numerical limitations cartified by the President to be valid for the subsequent five fiscal years unless the Congress acts through a joint resolution to prohibit their effect. Prescribes the expedited parliamentary procedure to be followed in the House of Representatives and in the Senate in considering such a joint resolution. Revises the preference visa allocation system for immigrant admissions with respect to family reunification immigrants to: (1) increase the percentage of visas available to qualified spouses and unmarried minor children of permanent resident aliens; and (2) decrease the percentage available to qualified children and siblings of U.S. citizens. Revises the preference and nonpreference visa allocation system for independent immigrants to set fiscal year numerical limitations on visas available to aliens who are professionals holding doctoral degrees, aliens of exceptional ability, or skilled workers. Establishes a point system applicable to nonpreference aliens under which credit for visa qualification assessment is based on such eligibility criteria as: (1) country of origin (with preference for countries adversely affected by immigration reforms enacted in 1965); (2) work skills and employability; (3) education and literacy; and (4) age. Sets forth the formula for determining the appropriate allocation preference system to be applied to natives of any single foreign state with respect to which the maximum number of visas will be made available. Revises the labor certification procedure used with regard to excludable aliens and reduces the scope of its applicability to certain preference immigrants. Provides for judicial review in U.S. district court of the Secretary of Labor's decisions with respect to exclusions related to labor certification. Permits a waiver of the offer of employment requirement for immigrant admission purposes when the Attorney General deems the waiver to be in the national interest. Directs the Secretary of Labor to study and report to the Congress, within six months of this Act's enactment, on means for streamlining the labor certification process used in the immigration context. Authorizes appropriations.</summary>
+</bill>

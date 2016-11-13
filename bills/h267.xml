@@ -1,0 +1,70 @@
+<bill session="100" type="h" number="267" updated="2014-03-22T09:51:16-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">National Forests and Public Lands of Nevada Enhancement Act of 1987</title>
+    <title type="official" as="introduced">A bill to exchange certain public lands in Nevada between the Bureau of Land Management and the National Forest Service.</title>
+  </titles>
+  <sponsor id="411178"/>
+  <cosponsors>
+    <cosponsor id="401446" joined="1987-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Executive Comment Requested from USDA, Interior.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Unfavorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>For Further Action See S.59.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="59"/>
+    <bill relation="identical" session="100" type="s" number="59"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Economics and public finance"/>
+    <term name="Forest management"/>
+    <term name="Forests and forest products"/>
+    <term name="Government trust funds"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="Nevada"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+National Forests and Public Lands of Nevada Enhancement Act of 1987 - Transfers specified public lands in Nevada to the Secretary of Agriculture for inclusion in the Toiyabe or the Inyo National Forest. Transfers specified national forest lands to the Secretary of the Interior. Requires lands designated for inclusion in such Forests to be managed so as not to impair their suitability for wilderness designation. Excludes such additional national forest lands from calculations for interstate (California and Nevada) but not intrastate (Nevada) distribution of the Twenty-Five Percent Fund.</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="100" type="sc" number="60" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-21"/>
+  </status>
+  <introduced datetime="1987-05-21"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution recognizing the DARE program for its contribution to the fight against drug and alcohol abuse.</title>
+  </titles>
+  <sponsor id="403142"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-21" state="REFERRED">
+      <text>Referred to the Committee on Labor and Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="110"/>
+    <bill relation="identical" session="100" type="hc" number="110"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Alcoholism"/>
+    <term name="Commemorations"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse prevention"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/1987--Introduced.
+Honors the DARE program for its contributions to the fight against alcohol and other drug abuse.</summary>
+</bill>

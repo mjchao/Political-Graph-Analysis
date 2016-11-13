@@ -1,0 +1,34 @@
+<bill session="100" type="h" number="4988" updated="2014-03-22T09:53:30-04:00">
+  <state datetime="1988-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-07"/>
+  </status>
+  <introduced datetime="1988-07-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the Tennessee Valley Authority from taking any action that results in lowering the water levels of certain lakes in North Carolina.</title>
+  </titles>
+  <sponsor id="402600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-07" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Lakes"/>
+    <term name="North Carolina"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/1988--Introduced.
+Prohibits the Tennessee Valley Authority (TVA) from taking any action which results in lowering (below a specified number of feet above mean sea level) of the level of water in Fontana Lake, Lake Hiwassee, or Santeetlah Lake, all located in North Carolina, except when necessary in emergency situations to protect the public health and safety. Allows the TVA to suspend temporarily such prohibitions when necessary to carry out its functions.</summary>
+</bill>

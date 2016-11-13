@@ -1,0 +1,74 @@
+<bill session="100" type="sr" number="377" updated="2014-03-22T09:54:39-04:00">
+  <state datetime="1988-03-31">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1988-03-31"/>
+  </status>
+  <introduced datetime="1988-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to express the sense of the Senate regarding negotiations on a new long-term agreement on agricultural trade with the Soviet Union.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="1988-03-29"/>
+    <cosponsor id="401604" joined="1988-03-29"/>
+    <cosponsor id="401611" joined="1988-03-29"/>
+    <cosponsor id="402023" joined="1988-03-29"/>
+    <cosponsor id="300023" joined="1988-02-18"/>
+    <cosponsor id="300026" joined="1988-03-01"/>
+    <cosponsor id="403483" joined="1988-03-03"/>
+    <cosponsor id="403962" joined="1988-03-29"/>
+    <cosponsor id="404679" joined="1988-03-29"/>
+    <cosponsor id="300048" joined="1988-02-16"/>
+    <cosponsor id="300051" joined="1988-03-29"/>
+    <cosponsor id="300052" joined="1988-02-22"/>
+    <cosponsor id="300154" joined="1988-03-29"/>
+    <cosponsor id="406183" joined="1988-02-16"/>
+    <cosponsor id="406188" joined="1988-02-25"/>
+    <cosponsor id="300065" joined="1988-03-29"/>
+    <cosponsor id="300072" joined="1988-03-29"/>
+    <cosponsor id="407622" joined="1988-03-29"/>
+    <cosponsor id="300150" joined="1988-02-23"/>
+    <cosponsor id="408898" joined="1988-03-29"/>
+    <cosponsor id="408939" joined="1988-03-29"/>
+    <cosponsor id="408970" joined="1988-03-29"/>
+    <cosponsor id="409917" joined="1988-02-23"/>
+    <cosponsor id="300092" joined="1988-03-29"/>
+    <cosponsor id="410588" joined="1988-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-04" state="REFERRED">
+      <text>Referred to the Committee on Agriculture.</text>
+    </action>
+    <calendar datetime="1988-03-30" state="REPORTED">
+      <text>Committee on Agriculture. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-03-30">
+      <text>Committee on Agriculture. Reported to Senate by Senator Leahy without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-03-30" calendar="Senate Legislative" under="General Orders" number="606">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 606.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-31" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1988--Introduced.
+Expresses the sense of the Senate that the President should: (1) report to the Congress his intention to initiate negotiations on a new long-term agricultural trade agreement with the Soviet Union; (2) seek to include in the terms of such agreement specified provisions concerning the purchase of U.S. agricultural goods by the Soviet Union; (3) no later than May 30, 1988, report to the Congress on the impact of such agreement on U.S. economic growth and agriculture-related employment; and (4) take appropriate measures to assure the free movement of increased quantities of U.S. agricultural products to the Soviet Union.</summary>
+</bill>

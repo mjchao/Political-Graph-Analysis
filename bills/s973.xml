@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="973" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for additional criminal penalties for deported aliens who reenter the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="402495"/>
+  <cosponsors>
+    <cosponsor id="403142" joined="1988-03-25"/>
+    <cosponsor id="300056" joined="1987-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Subcommittee on Immigration and Refugee Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3530"/>
+    <bill relation="identical" session="100" type="h" number="3530"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Deportation"/>
+    <term name="Illegal aliens"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Immigration and Nationality Act to establish additional specified criminal penalties for an alien who reenters the United States after having been deported subsequent to conviction of a felony or aggravated felony.</summary>
+</bill>

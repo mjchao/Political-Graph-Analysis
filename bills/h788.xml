@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="788" updated="2014-03-22T09:51:33-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 23 of the United States Code to limit application of the 55-mile per-hour speed limit.</title>
+  </titles>
+  <sponsor id="401874"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-18"/>
+    <cosponsor id="403545" joined="1987-03-05"/>
+    <cosponsor id="400140" joined="1987-02-24"/>
+    <cosponsor id="300049" joined="1987-02-24"/>
+    <cosponsor id="408190" joined="1987-03-18"/>
+    <cosponsor id="409165" joined="1987-03-05"/>
+    <cosponsor id="410574" joined="1987-02-24"/>
+    <cosponsor id="410623" joined="1987-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Roads and highways"/>
+    <term name="Speed limits"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Repeals the national maximum speed limit of 55 miles per hour.</summary>
+</bill>

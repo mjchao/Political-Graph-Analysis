@@ -1,0 +1,43 @@
+<bill session="100" type="sj" number="78" updated="2014-03-22T09:54:20-04:00">
+  <state datetime="1987-03-23">REPORTED</state>
+  <status>
+    <unknown datetime="1987-03-23"/>
+  </status>
+  <introduced datetime="1987-03-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to approve the request of the President for additional assistance for Central American democracies under section 215(2) of P. L. 99-500.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+    <action datetime="1987-03-23">
+      <text>Senate Committee on Appropriations discharged. Pursuant to the provisions of Public Law 99-500.</text>
+    </action>
+    <calendar datetime="1987-03-23" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="64">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 64.</text>
+    </calendar>
+    <action datetime="1987-03-26">
+      <text>Indefinitely postponed by Senate by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="167"/>
+    <bill relation="identical" session="100" type="hj" number="167"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Central America"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/1987--Introduced.
+Grants congressional approval of additional economic assistance for the Central American democracies that the President requested pursuant to the Military Construction Appropriations Act, 1987.</summary>
+</bill>

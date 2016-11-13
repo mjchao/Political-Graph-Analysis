@@ -1,0 +1,34 @@
+<bill session="100" type="h" number="3014" updated="2014-03-22T09:52:36-04:00">
+  <state datetime="1987-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-23"/>
+  </status>
+  <introduced datetime="1987-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to limit the number of aliens in each fiscal year who may become lawfully admitted to the United States for permanent residence.</title>
+  </titles>
+  <sponsor id="410574"/>
+  <cosponsors>
+    <cosponsor id="300155" joined="1988-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-23" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/1987--Introduced.
+Limits the number of fiscal year alien admissions (other than political asylum entries) to 600,000.</summary>
+</bill>

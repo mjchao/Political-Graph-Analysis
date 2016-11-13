@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="3502" updated="2014-03-22T09:52:52-04:00">
+  <state datetime="1987-10-15">REPORTED</state>
+  <status>
+    <unknown datetime="1987-10-15"/>
+  </status>
+  <introduced datetime="1987-10-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Meat Inspection Act to require meat food products containing imitation or alternate cheese to be labeled to reflect the fact that imitation or alternate cheese is contained therein.</title>
+  </titles>
+  <sponsor id="400389"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="1987-12-03"/>
+    <cosponsor id="404869" joined="1987-10-15"/>
+    <cosponsor id="300057" joined="1987-10-15"/>
+    <cosponsor id="406157" joined="1987-10-15"/>
+    <cosponsor id="407399" joined="1987-10-21"/>
+    <cosponsor id="400300" joined="1988-03-09"/>
+    <cosponsor id="408618" joined="1988-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-15" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Subcommittee on Livestock, Dairy, and Poultry Discharged.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-15" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-15">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Discharged" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Cheese"/>
+    <term name="Consumer protection"/>
+    <term name="Dairy products"/>
+    <term name="Food adulteration and inspection"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food industry"/>
+    <term name="Food substitutes"/>
+    <term name="Labeling"/>
+    <term name="Meat"/>
+  </subjects>
+  <amendments/>
+  <summary>10/15/1987--Introduced.
+Amends the Federal Meat Inspection Act to require that meat and meat food products containing specified amounts of cheese substitutes or imitations are so labeled.</summary>
+</bill>

@@ -1,0 +1,70 @@
+<bill session="100" type="h" number="2083" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to impose travel restrictions on the personnel of certain foreign missions and foreign organizations in the United States.</title>
+  </titles>
+  <sponsor id="410574"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-05-05"/>
+    <cosponsor id="400018" joined="1987-06-11"/>
+    <cosponsor id="401383" joined="1987-06-11"/>
+    <cosponsor id="400571" joined="1987-06-02"/>
+    <cosponsor id="401628" joined="1987-06-02"/>
+    <cosponsor id="402675" joined="1987-07-22"/>
+    <cosponsor id="400085" joined="1987-06-11"/>
+    <cosponsor id="403178" joined="1987-05-05"/>
+    <cosponsor id="403190" joined="1987-06-17"/>
+    <cosponsor id="403203" joined="1987-05-05"/>
+    <cosponsor id="400104" joined="1987-06-11"/>
+    <cosponsor id="403476" joined="1987-06-02"/>
+    <cosponsor id="403545" joined="1987-05-05"/>
+    <cosponsor id="400165" joined="1987-06-11"/>
+    <cosponsor id="400192" joined="1987-06-11"/>
+    <cosponsor id="300055" joined="1987-06-11"/>
+    <cosponsor id="406530" joined="1987-05-05"/>
+    <cosponsor id="300069" joined="1987-07-22"/>
+    <cosponsor id="406995" joined="1987-06-02"/>
+    <cosponsor id="400596" joined="1987-06-02"/>
+    <cosponsor id="407432" joined="1987-07-22"/>
+    <cosponsor id="400601" joined="1987-06-02"/>
+    <cosponsor id="400604" joined="1987-06-17"/>
+    <cosponsor id="400359" joined="1987-06-17"/>
+    <cosponsor id="400380" joined="1987-06-11"/>
+    <cosponsor id="411405" joined="1987-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Diplomatic privileges and immunities"/>
+    <term name="Diplomats"/>
+    <term name="District of Columbia"/>
+    <term name="Embassies"/>
+    <term name="International agencies"/>
+    <term name="Right to travel"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends title II (Foreign Missions Act) of the State Department Basic Authorities Act of 1956 to restrict the travel within the United States of the personnel of certain international organizations and the personnel of the foreign missions of specified foreign countries. Limits such travel to the municipal city limits of the city in which such organization or mission is located. Allows a special rule for such travel within the Washington, D.C., metropolitan area. Authorizes the Attorney General to waive such restrictions for U.S. security or foreign policy interests.</summary>
+</bill>

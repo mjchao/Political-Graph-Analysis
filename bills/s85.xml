@@ -1,0 +1,104 @@
+<bill session="100" type="s" number="85" updated="2014-03-22T09:54:46-04:00">
+  <state datetime="1987-04-08">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Natural Gas Utilization Act of 1987</title>
+    <title type="short" as="reported to senate">Natural Gas Utilization Act of 1987</title>
+    <title type="short" as="passed senate">Natural Gas Utilization Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Powerplant and Industrial Fuel Use Act of 1978 to repeal the end use constraints on natural gas, and to amend the Natural Gas Policy Act of 1978 to repeal the incremental pricing requirements.</title>
+  </titles>
+  <sponsor id="406084"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-02-04"/>
+    <cosponsor id="300009" joined="1987-01-06"/>
+    <cosponsor id="401604" joined="1987-02-23"/>
+    <cosponsor id="300012" joined="1987-01-06"/>
+    <cosponsor id="402004" joined="1987-01-29"/>
+    <cosponsor id="402495" joined="1987-04-07"/>
+    <cosponsor id="300023" joined="1987-02-23"/>
+    <cosponsor id="403515" joined="1987-02-05"/>
+    <cosponsor id="300036" joined="1987-01-06"/>
+    <cosponsor id="300159" joined="1987-02-23"/>
+    <cosponsor id="405305" joined="1987-02-23"/>
+    <cosponsor id="407622" joined="1987-02-23"/>
+    <cosponsor id="300150" joined="1987-03-06"/>
+    <cosponsor id="300079" joined="1987-01-13"/>
+    <cosponsor id="408597" joined="1987-01-28"/>
+    <cosponsor id="408939" joined="1987-03-03"/>
+    <cosponsor id="411801" joined="1987-02-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to Subcommittee on Energy Regulation.</text>
+    </action>
+    <action datetime="1987-02-03">
+      <text>Committee on Energy and Natural Resources requested executive comment from Energy Department, OMB.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Subcommittee on Energy Regulation. Hearings held. Hearings printed:  S.Hrg. 100-45.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Committee on Energy and Natural Resources received executive comment from Energy Department. Favorable.</text>
+    </action>
+    <calendar datetime="1987-03-25" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1987-03-31">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 100-30. Additional views filed.</text>
+    </action>
+    <calendar datetime="1987-03-31" calendar="Senate Legislative" under="General Orders" number="73">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 73.</text>
+    </calendar>
+    <action datetime="1987-04-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-04-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-04-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>For Further Action See H.R.1941.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG02" subcommittee="Energy Regulation and Conservation" name="Senate Energy and Natural Resources"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1941"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Coal-fired power plants"/>
+    <term name="Economics and public finance"/>
+    <term name="Electric power production"/>
+    <term name="Energy facilities"/>
+    <term name="Energy policy"/>
+    <term name="Energy prices"/>
+    <term name="Fuel"/>
+    <term name="Lighting"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Price regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/1987--Passed Senate amended.
+(Measure passed Senate, amended) Natural Gas Utilization Act of 1987 - Amends the Powerplant and Industrial Fuel Use Act of 1978 to repeal: (1) prohibitions on the use of natural gas and petroleum as a primary energy source in new electric powerplants and new major fuel-burning installations; (2) the authority of the Secretary of Energy to prohibit the use of natural gas in certain boilers; (3) the prohibition on the use of natural gas for decorative outdoor lighting; and (4) the authority of the Secretary to restrict increased uses of petroleum by existing powerplants. Defines the term "capability to use coal" as requiring an electric powerplant to have sufficient inherent design characteristics which will permit the addition of equipment (including pollution control devices) necessary to render such electric powerplant capable of using coal or another alternate fuel as a primary energy source. Makes the provisions of this Act applicable within the contiguous 48 States and the District of Columbia. Specifies that no new electric powerplant may be constructed or operated as a baseload powerplant without meeting the design capability of being converted from gas or oil to coal as market conditions warrant. Exempts from such requirement peakload powerplants or intermediate load powerplants. Requires the owner or operator of any new baseload electric powerplant proposing to use natural gas or petroleum as its primary energy source to certify to the Secretary prior to construction or operation that such powerplant has the requisite coal-using capability. Repeals the incremental pricing provisions of the Natural Gas Policy Act of 1978.</summary>
+</bill>

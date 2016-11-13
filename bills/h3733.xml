@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="3733" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-09"/>
+  </status>
+  <introduced datetime="1987-12-09"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Appeal Rights Preservation Act of 1987</title>
+    <title type="official" as="introduced">A bill to maintain the system of hearing medicare appeals before administrative law judges, to require a study of alternative procedures for such appeals, and for other purposes.</title>
+  </titles>
+  <sponsor id="410245"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="1987-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-09" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-11">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-01-21">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1857"/>
+    <bill relation="identical" session="100" type="s" number="1857"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative remedies"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Social security eligibility"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/1987--Introduced.
+Medicare Appeal Rights Preservation Act of 1987 - Provides that, during the six months after enactment of this Act, any hearing conducted under provisions of the Social Security Act relating to determination of entitlement to and amount of benefits under title XVIII (Medicare) of the Act shall be conducted by administrative law judges employed by the Social Security Administration to the same extent and in the same manner as are hearings conducted under specified provisions of title II (Old Age, Survivors, and Disability Insurance) (OASDI) of the Act. Prohibits requiring, as a precondition to receiving such a Medicare hearing with respect to a claim for not less than $500 under part B (Supplementary Medical Insurance for Aged and Disabled) of the Act, participation in a hearing under provisions relating to use of carriers for administration of benefits. Directs the Comptroller General, in consultation with the Secretary of Health and Human Services, to conduct a study of the feasibility of conducting such Medicare hearings on other than an in-person basis before administrative law judges of the Social Security Administration.</summary>
+</bill>

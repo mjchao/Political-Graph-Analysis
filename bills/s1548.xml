@@ -1,0 +1,55 @@
+<bill session="100" type="s" number="1548" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-24"/>
+  </status>
+  <introduced datetime="1987-07-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 1886 of the Social Security Act to require that certain hospitals be classified as being located in an urban area for purposes of determining payments under the medicare program for inpatient hospital services furnished by such hospitals, and to require that certain hospitals be treated in the same manner as a hospital located within a particular geographic area for purposes of making such determination.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="402495" joined="1987-08-07"/>
+    <cosponsor id="403142" joined="1987-07-24"/>
+    <cosponsor id="403171" joined="1987-07-24"/>
+    <cosponsor id="403483" joined="1987-08-07"/>
+    <cosponsor id="403515" joined="1987-07-24"/>
+    <cosponsor id="403669" joined="1987-07-24"/>
+    <cosponsor id="404598" joined="1987-07-24"/>
+    <cosponsor id="300046" joined="1987-07-24"/>
+    <cosponsor id="405310" joined="1987-07-24"/>
+    <cosponsor id="405321" joined="1987-07-24"/>
+    <cosponsor id="300154" joined="1987-07-24"/>
+    <cosponsor id="406188" joined="1987-07-24"/>
+    <cosponsor id="406190" joined="1987-07-24"/>
+    <cosponsor id="300066" joined="1987-07-24"/>
+    <cosponsor id="408937" joined="1987-07-24"/>
+    <cosponsor id="408970" joined="1987-07-24"/>
+    <cosponsor id="409225" joined="1987-07-24"/>
+    <cosponsor id="409562" joined="1987-07-24"/>
+    <cosponsor id="300089" joined="1987-07-24"/>
+    <cosponsor id="300157" joined="1987-07-24"/>
+    <cosponsor id="410936" joined="1987-08-07"/>
+    <cosponsor id="300099" joined="1987-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Medicare"/>
+    <term name="Prospective payment systems (Medical care)"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to consider the aggregate number of resident workers who commute from the county in which a hospital is located to contiguous metropolitan statistical areas, rather than only considering the number of workers commuting to a single metropolitan area, for the purpose of determining whether such hospital should be paid at urban rather than rural rates.</summary>
+</bill>

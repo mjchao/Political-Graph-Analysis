@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="1151" updated="2014-03-22T09:51:43-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="short" as="introduced">Freeze Assistance Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide that the emergency assistance made available to certain agricultural producers by Public Law 99-591 shall be made available to apple producers for losses resulting from excessive cold.</title>
+  </titles>
+  <sponsor id="402600"/>
+  <cosponsors>
+    <cosponsor id="406148" joined="1987-02-19"/>
+    <cosponsor id="409400" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Fruit and fruit trade"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Freeze Assistance Act of 1987 - Amends Federal law to make disaster emergency assistance under Public Law 99-591 available to certain apple producers.</summary>
+</bill>

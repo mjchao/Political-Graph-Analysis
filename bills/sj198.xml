@@ -1,0 +1,66 @@
+<bill session="100" type="sj" number="198" updated="2016-06-29T08:45:04-04:00">
+  <state datetime="1987-10-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-10-28"/>
+  </status>
+  <introduced datetime="1987-10-09"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate the week beginning on November 2, 1987, and ending November 8, 1987, as "National Tourette Syndrome Awareness Week".</title>
+  </titles>
+  <sponsor id="407663"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-15" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-10-20" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-10-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-10-21">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-10-22">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-10-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-145" type="public" datetime="1987-10-28">
+      <text>Became Public Law No: 100-145.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Nervous system diseases"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>10/9/1987--Introduced.
+Designates November 2 through November 8, 1987, as National Tourette Syndrome Awareness Week.</summary>
+</bill>

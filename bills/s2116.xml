@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="2116" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-02"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Commercial Motor Vehicle Safety Act of 1986 to provide that the requirements for the operation of commercial motor vehicles will not apply to the operation of certain farm and firefighting vehicles.</title>
+  </titles>
+  <sponsor id="406183"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-03-14"/>
+    <cosponsor id="401611" joined="1988-03-02"/>
+    <cosponsor id="402004" joined="1988-03-30"/>
+    <cosponsor id="300023" joined="1988-03-21"/>
+    <cosponsor id="300026" joined="1988-03-21"/>
+    <cosponsor id="403142" joined="1988-03-02"/>
+    <cosponsor id="300031" joined="1988-03-14"/>
+    <cosponsor id="403483" joined="1988-03-21"/>
+    <cosponsor id="300048" joined="1988-03-02"/>
+    <cosponsor id="300154" joined="1988-03-02"/>
+    <cosponsor id="406188" joined="1988-03-02"/>
+    <cosponsor id="300072" joined="1988-03-02"/>
+    <cosponsor id="300150" joined="1988-03-30"/>
+    <cosponsor id="408898" joined="1988-03-14"/>
+    <cosponsor id="411271" joined="1988-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4011"/>
+    <bill relation="identical" session="100" type="h" number="4011"/>
+    <bill relation="identical" session="100" type="h" number="4166"/>
+  </relatedbills>
+  <subjects>
+    <term name="Motor vehicles"/>
+    <term name="Agricultural machinery"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Fire departments"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle safety"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1988--Introduced.
+Amends the Commercial Motor Vehicle Safety Act of 1986 to declare that its requirements do not apply to: (1) motor vehicles registered for farm use which are driven less than 15,000 miles per year; or (2) motor vehicles used solely for fire fighting purposes.</summary>
+</bill>

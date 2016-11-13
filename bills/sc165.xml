@@ -1,0 +1,37 @@
+<bill session="100" type="sc" number="165" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-18"/>
+  </status>
+  <introduced datetime="1988-10-18"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to make a correction in the enrollment of H.R. 3146.</title>
+  </titles>
+  <sponsor id="409917"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Advertising"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>10/18/1988--Introduced.
+Makes corrections in the enrollment of H.R. 3146 (Charity Games Advertising Clarification Act of 1988).</summary>
+</bill>

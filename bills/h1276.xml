@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="1276" updated="2014-03-22T09:51:46-04:00">
+  <state datetime="1987-06-03">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-03"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to name the lake formed by the Felsenthal Dam on the Ouchita River, Arkansas, as "Lake Jack Lee".</title>
+  </titles>
+  <sponsor id="400898"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Subcommittee on Water Resources Discharged.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-03" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-04">
+      <text>Reported to House by House Committee on Public Works and Transportation.  Report No: 100-132.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Placed on House Calendar No: 40.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Placed on Consent Calendar No: 6.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Called up by House on Call of Consent Calendar.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Passed House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Arkansas"/>
+    <term name="Lakes"/>
+    <term name="Names"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Designates the lake formed by the Felsenthal Dam on the Ouachita River, Arkansas, as Lake Jack Lee.</summary>
+</bill>

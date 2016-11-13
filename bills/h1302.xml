@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="1302" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit contracting out of functions at Department of Defense arsenals and weapons manufacturing facilities.</title>
+  </titles>
+  <sponsor id="400236"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-03-25"/>
+    <cosponsor id="401383" joined="1987-04-01"/>
+    <cosponsor id="402454" joined="1987-03-25"/>
+    <cosponsor id="400126" joined="1987-02-26"/>
+    <cosponsor id="404006" joined="1987-03-25"/>
+    <cosponsor id="404013" joined="1987-03-25"/>
+    <cosponsor id="404996" joined="1987-03-18"/>
+    <cosponsor id="400256" joined="1987-04-22"/>
+    <cosponsor id="407351" joined="1987-03-25"/>
+    <cosponsor id="407960" joined="1987-04-01"/>
+    <cosponsor id="410147" joined="1987-03-18"/>
+    <cosponsor id="410455" joined="1987-03-18"/>
+    <cosponsor id="400409" joined="1987-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Readiness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Defense contracts"/>
+    <term name="Military bases"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Standards"/>
+    <term name="Weapons"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Prohibits the contracting out for performance by private contractor personnel of any function at an arsenal or weapons manufacturing facility under the jurisdiction of the Department of Defense. Provides an exception to such prohibition for functions currently under contract.</summary>
+</bill>

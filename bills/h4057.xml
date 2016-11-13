@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="4057" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-02"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for a study by the Secretary of Health and Human Services to develop recommendations for correcting the disparities in the computation of social security benefits (commonly referred to as the "notch problem") which were caused by the enactment (in 1977) of the present formula for computing primary insurance amounts under title II of the Social Security Act.</title>
+  </titles>
+  <sponsor id="403888"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-03-09">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1988--Introduced.
+Directs the Secretary of Health and Human Services to conduct a study of the benefit disparities caused by the 1977 changes in the social security benefit formula. Directs the Secretary to report the results of the study to the Congress and the Congressional Budget Office. Directs the Director of the Congressional Budget Office to report to the Congress that Office's conclusions and recommendations regarding the Secretary's report.</summary>
+</bill>

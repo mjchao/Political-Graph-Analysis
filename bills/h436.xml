@@ -1,0 +1,104 @@
+<bill session="100" type="h" number="436" updated="2014-03-22T09:51:21-04:00">
+  <state datetime="1987-07-17">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-07-17"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building and United States Courthouse at 316 North Robert Street, St. Paul, Minnesota, as the "Warren E. Burger Federal Building and United States Courthouse".</title>
+  </titles>
+  <sponsor id="400612"/>
+  <cosponsors>
+    <cosponsor id="404325" joined="1987-01-06"/>
+    <cosponsor id="400299" joined="1987-01-06"/>
+    <cosponsor id="408618" joined="1987-01-06"/>
+    <cosponsor id="400354" joined="1987-01-06"/>
+    <cosponsor id="409901" joined="1987-01-06"/>
+    <cosponsor id="410261" joined="1987-01-06"/>
+    <cosponsor id="411405" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-03" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-04">
+      <text>Reported to House by House Committee on Public Works and Transportation.  Report No: 100-129.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Placed on House Calendar No: 37.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Placed on Consent Calendar No: 3.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Called up by House on Call of Consent Calendar.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Passed House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-07-01" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate in lieu of S. 1337 without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-07-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-07-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-07-09">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-07-17" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-74" type="public" datetime="1987-07-17">
+      <text>Became Public Law No: 100-74.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1337"/>
+    <bill relation="identical" session="100" type="s" number="1337"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Courthouses"/>
+    <term name="Federal office buildings"/>
+    <term name="Minnesota"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Designates the Federal building and United States Courthouse located on North Robert Street, St. Paul, Minnesota, as the Warren E. Burger Federal Building and United States Courthouse.</summary>
+</bill>

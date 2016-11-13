@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1954" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1987-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-06"/>
+  </status>
+  <introduced datetime="1987-04-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 39, United States Code, to provide that the United States Postal Service shall be subject to certain provisions of the Occupational Safety and Health Act of 1970.</title>
+  </titles>
+  <sponsor id="406740"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-06" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-04-08">
+      <text>Executive Comment Requested from OMB, US Postal Service.</text>
+    </action>
+    <action datetime="1987-04-08">
+      <text>Referred to Subcommittee on Postal Personnel and Modernization.</text>
+    </action>
+    <action datetime="1987-04-08">
+      <text>Referred to Subcommittee on Postal Operations and Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO05" subcommittee="Postal Personnel and Modernization" name="House Post Office and Civil Service"/>
+    <committee activity="Referral" code="HSPO06" subcommittee="Postal Operations and Services" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Occupational health and safety"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal employees"/>
+    <term name="United States Postal Service"/>
+  </subjects>
+  <amendments/>
+  <summary>4/6/1987--Introduced.
+Makes all provisions of the Occupational Safety and Health Act of 1970 applicable to the United States Postal Service, except those concerning: (1) civil and criminal penalties for willful violation causing death to an employee; and (2) reporting and program requirements for Federal agencies.</summary>
+</bill>

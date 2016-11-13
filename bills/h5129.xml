@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="5129" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-02"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to eliminate unnecessary and redundant data requirements requested by states or the federal government under the "Registration of Pesticides -- Additional Data to Support Existing Registration" (7 U.S.C. 136a(c)(2)(B)) -- section of our pesticide laws.</title>
+  </titles>
+  <sponsor id="404869"/>
+  <cosponsors>
+    <cosponsor id="402710" joined="1988-08-02"/>
+    <cosponsor id="405209" joined="1988-08-04"/>
+    <cosponsor id="300083" joined="1988-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-02" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Executive Comment Requested from EPA.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative procedure"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Federal-state relations"/>
+    <term name="Licenses"/>
+    <term name="Pest control"/>
+    <term name="Pesticide regulation"/>
+    <term name="Pesticides"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Amends the Federal Insecticide, Fungicide, and Rodenticide Act to provide that whenever one or more States or Federal agencies request certain tests in support of a pesticide registration, they must coordinate and synchronize such tests so as to avoid unnecessary repetition and redundancy. Directs the Administrator of the Environmental Protection Agency to promulgate rules with respect to the development and implementation of such coordination.</summary>
+</bill>

@@ -1,0 +1,160 @@
+<bill session="100" type="s" number="1966" updated="2014-03-22T09:55:31-04:00">
+  <state datetime="1988-06-17">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-06-17"/>
+  </status>
+  <introduced datetime="1987-12-18"/>
+  <titles>
+    <title type="short" as="introduced">Biotechnology Competitiveness Act of 1987</title>
+    <title type="short" as="reported to house">Biotechnology Competitiveness Act of 1988</title>
+    <title type="short" as="reported to senate">Biotechnology Competitiveness Act of 1987</title>
+    <title type="short" as="passed senate">Biotechnology Competitiveness Act of 1988</title>
+    <title type="short" as="passed senate" partial="1">Alternative Agricultural Products Research Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to improve information and research on biotechnology and the human genome, and for other purposes.</title>
+  </titles>
+  <sponsor id="402495"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-12-21"/>
+    <cosponsor id="300036" joined="1987-12-18"/>
+    <cosponsor id="300046" joined="1987-12-18"/>
+    <cosponsor id="300052" joined="1988-07-29"/>
+    <cosponsor id="300059" joined="1987-12-18"/>
+    <cosponsor id="300065" joined="1987-12-18"/>
+    <cosponsor id="409225" joined="1988-06-17"/>
+    <cosponsor id="411762" joined="1987-12-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1988-01-15">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department, OMB, Agriculture Department, Defense Department, Commerce Department, Energy Department.</text>
+    </action>
+    <calendar datetime="1988-04-13" state="REPORTED">
+      <text>Committee on Labor and Human Resources. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-05-25">
+      <text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy with amendments. With written report No. 100-359.</text>
+    </action>
+    <calendar datetime="1988-05-25" calendar="Senate Legislative" under="General Orders" number="690">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 690.</text>
+    </calendar>
+    <action datetime="1988-06-17">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="190" datetime="1988-06-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 88-1. Record Vote No: 190.</text>
+    </vote>
+    <action datetime="1988-06-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1988-07-05">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-07-11">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-11">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-13">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-28">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-992 (Part I).</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Reported to House (Amended) by House Committee on Agriculture. Report No: 100-992 (Part II).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural innovations"/>
+    <term name="Agricultural research"/>
+    <term name="Authorization"/>
+    <term name="Bioethics"/>
+    <term name="Biological research"/>
+    <term name="Biotechnology"/>
+    <term name="Communication in science"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to research"/>
+    <term name="Genetic research"/>
+    <term name="Government operations and politics"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Health"/>
+    <term name="Information services"/>
+    <term name="Information storage and retrieval systems"/>
+    <term name="Libraries"/>
+    <term name="Medical ethics"/>
+    <term name="Medical genetics"/>
+    <term name="Medical libraries"/>
+    <term name="Medical research"/>
+    <term name="Molecular biology"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="New products"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2403"/>
+    <amendment number="s2404"/>
+    <amendment number="s2405"/>
+  </amendments>
+  <summary>10/13/1988--Reported to House amended, Part II.
+(Reported to House from the Committee on Agriculture with amendment, H. Rept. 100-992 (Part II)) Biotechnology Competitiveness Act of 1988 - Title I: National Center for Biotechnology Information - Amends part D (National Library of Medicine) of title IV of the Public Health Service Act to establish the National Center for Biotechnology Information to focus and expand the collection, storage, retrieval, and dissemination of the results of biotechnology research by information systems and to support the development of new information technologies regarding the molecular processes that control health and disease. Authorizes appropriations for FY 1989 through 1993. Title II: National Biotechnology Policy Board and Advisory Panels - Subtitle A: National Biotechnology Policy Board - Establishes in the executive branch a National Biotechnology Policy Board (Board) to review and appraise programs, activities, and regulatory policies relating to biotechnology and to submit recommendations to the President and the Congress. Sets forth reporting requirements. Requires the Biomedical Ethics Board to review, prior to publication, reports issued by the Board and advisory panels the Board establishes. Authorizes appropriations for FY 1989 through 1993 to carry out this title. Subtitle B: Human Genome Research and Development - Establishes a National Advisory Panel on the Human Genome to advise the Board on matters concerning the mapping and sequencing of the human genome. Sets forth reporting requirements. Requires the Biomedical Ethics Board to review the ethical and social implications of human genome research. Subtitle C: National Agricultural Biotechnology Advisory Panel - Establishes, as an advisory panel to the National Biotechnology Policy Board, a National Agricultural Biotechnology Advisory Panel to advise the Board on agricultural biotechnology and coordinate national agricultural biotechnology activities. Sets forth reporting requirements. Title III: Biomedical Ethics Board Reauthorization - Amends the Public Health Service Act to authorize appropriations for the Biomedical Ethics Board (Ethics Board) and the Biomedical Ethics Advisory Committee (Ethics Committee) for FY 1989 through 1991. Requires the Ethics Board and the Ethics Committee to function through a majority vote of their members and to adopt rules governing their procedures.</summary>
+</bill>

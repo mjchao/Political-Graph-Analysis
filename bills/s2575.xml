@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="2575" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-27"/>
+  </status>
+  <introduced datetime="1988-06-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National Trails System Act by designating the Pacific Northwest Scenic Trail, and for other purposes.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-06-27"/>
+    <cosponsor id="404277" joined="1988-06-27"/>
+    <cosponsor id="405305" joined="1988-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites"/>
+    <term name="Montana"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Trails"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/1988--Introduced.
+Amends the National Trails System Act to designate the Pacific Northwest Scenic Trail, extending from Cape Alava, Washington, to Glacier Park, Montana, as a component of the National Trails System.</summary>
+</bill>

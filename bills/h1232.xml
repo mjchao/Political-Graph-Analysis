@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="1232" updated="2014-03-22T09:51:45-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Afghan Adjustment Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for the adjustment of immigration status of certain nationals of Afghanistan in the United States.</title>
+  </titles>
+  <sponsor id="400003"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-04-01"/>
+    <cosponsor id="401383" joined="1987-04-01"/>
+    <cosponsor id="401418" joined="1987-04-01"/>
+    <cosponsor id="402114" joined="1987-04-01"/>
+    <cosponsor id="403545" joined="1987-04-01"/>
+    <cosponsor id="403695" joined="1987-04-01"/>
+    <cosponsor id="403904" joined="1987-04-01"/>
+    <cosponsor id="400140" joined="1987-04-01"/>
+    <cosponsor id="404422" joined="1987-04-01"/>
+    <cosponsor id="405646" joined="1987-04-01"/>
+    <cosponsor id="400238" joined="1987-04-01"/>
+    <cosponsor id="400595" joined="1987-04-01"/>
+    <cosponsor id="407457" joined="1987-04-01"/>
+    <cosponsor id="408023" joined="1987-04-01"/>
+    <cosponsor id="400306" joined="1987-04-01"/>
+    <cosponsor id="408618" joined="1987-04-01"/>
+    <cosponsor id="409251" joined="1987-04-01"/>
+    <cosponsor id="409901" joined="1987-04-01"/>
+    <cosponsor id="410455" joined="1987-04-01"/>
+    <cosponsor id="400409" joined="1987-04-01"/>
+    <cosponsor id="400611" joined="1987-04-01"/>
+    <cosponsor id="411834" joined="1987-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Afghanistan"/>
+    <term name="Aliens"/>
+    <term name="International affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Afghan Adjustment Act of 1987 - Provides for the adjustment to permanent resident status of specified nationals of Afghanistan who have resided in the United States since January 1, 1986.</summary>
+</bill>

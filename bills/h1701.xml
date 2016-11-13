@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="1701" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-18"/>
+  </status>
+  <introduced datetime="1987-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to prohibit certain airline scheduling practices that result in passenger delays and inconveniences, and for other purposes.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="1987-04-09"/>
+    <cosponsor id="403726" joined="1987-05-05"/>
+    <cosponsor id="403769" joined="1987-06-09"/>
+    <cosponsor id="400140" joined="1987-03-31"/>
+    <cosponsor id="400211" joined="1987-06-09"/>
+    <cosponsor id="406191" joined="1987-03-31"/>
+    <cosponsor id="400300" joined="1987-06-09"/>
+    <cosponsor id="410529" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-18" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>See H.R.3051.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3051"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Air traffic"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airlines"/>
+    <term name="Airports"/>
+    <term name="Aviation"/>
+    <term name="Consumer protection"/>
+    <term name="Rebates"/>
+    <term name="Restrictive trade practices"/>
+    <term name="Unfair or deceptive trade practices"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1987--Introduced.
+Amends the Federal Aviation Act of 1958 to prohibit an air carrier from scheduling a flight at a particular time from a particular airport if such carrier has reason to know that it is unlikely to depart at that time because of the number of flights scheduled to depart from the airport at that time. Directs the Secretary of Transportation to: (1) immediately investigate the scheduling practices of air carriers at major hub airports in order to determine whether such practices make it likely that one or more flights will not depart as scheduled because of the number of flights scheduled at any one time; (2) request air carriers to discuss and agree on schedules if an investigation reveals that scheduling practices make it unlikely for flights to depart as scheduled; and (3) prescribe schedules to ensure that flights are liley to depart as scheduled if the carriers cannot agree upon such schedules among themselves. Requires any air carrier that cancels a flight for reasons other than weather or aviation safety to provide free transportation on the next available flight to the same destination.</summary>
+</bill>

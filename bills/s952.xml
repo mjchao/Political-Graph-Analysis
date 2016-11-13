@@ -1,0 +1,106 @@
+<bill session="100" type="s" number="952" updated="2014-03-22T09:55:11-04:00">
+  <state datetime="1988-06-27">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-27"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to improve the administration of justice by providing greater discretion to the Supreme Court in selecting the cases it will review, and for other purposes.</title>
+  </titles>
+  <sponsor id="405310"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="1987-11-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration with an amendment favorably.</text>
+    </action>
+    <calendar datetime="1987-12-03" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-03-16">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden with amendments. With written report No. 100-300.</text>
+    </action>
+    <calendar datetime="1988-03-16" calendar="Senate Legislative" under="General Orders" number="586">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 586.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-03-24">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Subcommittee on Courts, Civil Liberties, and the Administration of Justice Discharged.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-03">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-05-26">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-660.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Placed on Union Calendar No: 388.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-07" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-17">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-27" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-352" type="public" datetime="1988-06-27">
+      <text>Became Public Law No: 100-352.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Appellate procedure"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Judicial review"/>
+    <term name="Jurisdiction"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Supreme Court"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1988--Passed Senate amended.
+(Measure passed Senate, amended) Repeals the provision of the judicial code authorizing any party (in a proceeding to which the United States is a party) to appeal directly to the Supreme Court from a Federal court order which declares an Act of Congress unconstitutional. Repeals Supreme Court mandatory jurisdiction to hear appeals from a Federal appellate court decision holding a State statute unconstitutional. Repeals Supreme Court mandatory jurisdiction to hear appeals from decisions of the highest court of a State (including Puerto Rico) which hold that: (1) a Federal treaty or statute is invalid; or (2) a State law is valid.</summary>
+</bill>

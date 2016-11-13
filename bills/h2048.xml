@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="2048" updated="2014-03-22T09:52:09-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to prohibit domestic air carriers from providing alcoholic beverages on domestic and international flights to persons under 21 years of age.</title>
+  </titles>
+  <sponsor id="403476"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1988-04-13"/>
+    <cosponsor id="401383" joined="1987-05-27"/>
+    <cosponsor id="300011" joined="1987-05-27"/>
+    <cosponsor id="403769" joined="1987-07-15"/>
+    <cosponsor id="404422" joined="1987-11-09"/>
+    <cosponsor id="400586" joined="1987-05-27"/>
+    <cosponsor id="406530" joined="1987-05-27"/>
+    <cosponsor id="400238" joined="1987-05-27"/>
+    <cosponsor id="400604" joined="1987-05-27"/>
+    <cosponsor id="409887" joined="1987-07-15"/>
+    <cosponsor id="410531" joined="1987-05-27"/>
+    <cosponsor id="400435" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airlines"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol and youth"/>
+    <term name="Alcoholic beverage control"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Alcoholism"/>
+    <term name="Aviation"/>
+    <term name="Children and youth"/>
+    <term name="Fines (Penalties)"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Federal Aviation Act of 1958 to prohibit an air carrier from providing an alcoholic beverage on any flight to individuals who are less than 21 years of age. Establishes a civil penalty for an air carrier which violates this Act.</summary>
+</bill>

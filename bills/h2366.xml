@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="2366" updated="2014-03-22T09:52:20-04:00">
+  <state datetime="1987-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-11"/>
+  </status>
+  <introduced datetime="1987-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Federal Deposit Insurance Corporation to pay interest on certain certificates issued by the Golden Pacific National Bank of New York, New York, which have been determined to be insured deposits in any judicial action or agency proceeding.</title>
+  </titles>
+  <sponsor id="404765"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-11" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA07" subcommittee="Financial Institutions Supervision, Regulation and Insurance" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank deposits"/>
+    <term name="Bank failures"/>
+    <term name="Deposit insurance"/>
+    <term name="Interest"/>
+    <term name="New York City"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1987--Introduced.
+Requires the Federal Deposit Insurance Corporation to pay interest on certain certificates issued by the Golden Pacific National Bank of New York, New York, before it was declared insolvent which have been determine to be insured deposits (as defined by the Federal Deposit Insurance Act) in any judicial action or agency proceeding. Sets forth the method of computing the interest to be paid with respect to such certificates.</summary>
+</bill>

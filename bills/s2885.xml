@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="2885" updated="2014-03-22T09:55:58-04:00">
+  <state datetime="1988-11-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-05"/>
+  </status>
+  <introduced datetime="1988-10-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Hunger Prevention Act of 1988 to make a technical correction.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="300051" joined="1988-10-12"/>
+    <cosponsor id="300065" joined="1988-10-12"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-20" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-619" type="public" datetime="1988-11-05">
+      <text>Became Public Law No: 100-619.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food stamps"/>
+    <term name="Grocery trade"/>
+    <term name="Public assistance programs"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Introduced.
+Amends the Hunger Prevention Act of 1988 to make the provisions regarding civil penalties against food stores for food stamp program abuse effective on October 1, 1988. (The effective date under current law is the earlier of July 1, 1989, or the date the Secretary of Agriculture issues implementing regulations.)</summary>
+</bill>

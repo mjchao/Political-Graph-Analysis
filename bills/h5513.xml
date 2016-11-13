@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="5513" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-12"/>
+  </status>
+  <introduced datetime="1988-10-12"/>
+  <titles>
+    <title type="short" as="introduced">Used Oil Recycling Act of 1988</title>
+    <title type="official" as="introduced">A bill to protect the used oil recycling system and for other purposes.</title>
+  </titles>
+  <sponsor id="400377"/>
+  <cosponsors>
+    <cosponsor id="400389" joined="1988-10-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-12" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-11-01">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Hazardous wastes"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum conservation"/>
+    <term name="Petroleum recycling"/>
+    <term name="Petroleum storage"/>
+    <term name="Refuse and refuse disposal"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Introduced.
+Used Oil Recycling Act of 1988 - Amends the Solid Waste Disposal Act to prohibit the Administrator of the Environmental Protection Agency from listing or identifying recycled used oil as a hazardous waste under such Act. Directs the Administrator to propose management standards, within 180 days of this Act's enactment, governing the storage, transportation, and processing of recycled used oil.</summary>
+</bill>

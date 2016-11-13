@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="4144" updated="2014-03-22T09:53:05-04:00">
+  <state datetime="1988-03-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-14"/>
+  </status>
+  <introduced datetime="1988-03-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to exclude certain farmout agreements from property of the estate.</title>
+  </titles>
+  <sponsor id="401837"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-14" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2161"/>
+    <bill relation="identical" session="100" type="s" number="2161"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Mineral rights conveyances"/>
+    <term name="Mines and mineral resources"/>
+  </subjects>
+  <amendments/>
+  <summary>3/14/1988--Introduced.
+Amends Federal bankruptcy provisions to exclude property interests in, or contract rights to, hydrocarbons and other minerals produced with hydrocarbons from a debtor's estate to the extent that such debtor has contractually transferred such interests or rights.</summary>
+</bill>

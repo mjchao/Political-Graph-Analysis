@@ -1,0 +1,58 @@
+<bill session="100" type="s" number="2915" updated="2014-03-22T09:55:58-04:00">
+  <state datetime="1988-10-20">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-10-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make certain minor and technical amendments to the Child Abuse Prevention, Adoption, and Family Services Act of 1988.</title>
+  </titles>
+  <sponsor id="300034"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-20" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-21">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Adoption"/>
+    <term name="Child abuse"/>
+    <term name="Children and youth"/>
+    <term name="Disabled"/>
+    <term name="Domestic Relations and Families"/>
+    <term name="Family violence"/>
+    <term name="Federal aid to child welfare"/>
+    <term name="Grants-in-aid"/>
+    <term name="Handicapped infants"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Intermediate care facilities"/>
+    <term name="Medicaid"/>
+    <term name="Mental care facilities"/>
+    <term name="Mental health"/>
+    <term name="Mentally handicapped"/>
+    <term name="Planning"/>
+    <term name="Public assistance programs"/>
+    <term name="Research"/>
+    <term name="Social welfare"/>
+    <term name="Wife abuse"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1988--Passed House amended.
+(Measure passed House, amended) Makes technical and other amendments to the Child Abuse Prevention, Adoption, and Family Services Act of 1988. Amends the Child Abuse Prevention and Treatment Act to require that priority for discretionary research and demonstration grants be given to activities related to the identification and prevention of child abuse and neglect. Makes technical revisions to such Act with respect to specified provisions for grants and contracts, extensions of waivers of certain requirements for States, grants and technical assistance to States for programs for disabled infants with life-threatening conditions, and authorizations of appropriations. Replaces a reference to the Office of Human Development Services with a reference to the Office of the Assistant Secretary of the Department responsible for administration of the program under such Act. Amends title II of the Child Abuse Prevention and Treatment and Adoption Reform Act of 1978 to provide that such title may be cited as the Adoption Opportunities Act. Amends the Family Violence Prevention and Services Act to raise from $150,000 to $200,000 the maximum amount which any one family violence shelter may receive under a demonstration grants program.</summary>
+</bill>

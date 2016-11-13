@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="2146" updated="2014-03-22T09:52:13-04:00">
+  <state datetime="1987-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-23"/>
+  </status>
+  <introduced datetime="1987-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to extend the transition period for the Veterans' Administration readjustment counseling centers program, and for other purposes.</title>
+  </titles>
+  <sponsor id="400126"/>
+  <cosponsors>
+    <cosponsor id="401947" joined="1987-04-23"/>
+    <cosponsor id="402114" joined="1987-06-16"/>
+    <cosponsor id="404170" joined="1987-04-23"/>
+    <cosponsor id="404750" joined="1987-04-23"/>
+    <cosponsor id="300058" joined="1987-04-23"/>
+    <cosponsor id="406157" joined="1987-05-12"/>
+    <cosponsor id="406277" joined="1987-04-23"/>
+    <cosponsor id="400600" joined="1987-05-27"/>
+    <cosponsor id="408520" joined="1987-05-12"/>
+    <cosponsor id="408618" joined="1987-05-12"/>
+    <cosponsor id="409219" joined="1987-04-23"/>
+    <cosponsor id="409325" joined="1987-05-27"/>
+    <cosponsor id="409500" joined="1987-06-29"/>
+    <cosponsor id="400380" joined="1987-04-23"/>
+    <cosponsor id="410245" joined="1987-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-23" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Referred to Subcommittee on Hospitals and Health Care.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>For Further Action See H.R.2616.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Hospitals and Health Care" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2616"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Counseling"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Mental care facilities"/>
+    <term name="Mental health"/>
+    <term name="Mental health services"/>
+    <term name="Stress (Psychology)"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' rehabilitation"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/1987--Introduced.
+Amends Federal veterans' benefits provisions to extend until October 1, 1990, the period for transition from the provision of readjustment counseling services for veterans in facilities set apart from general Veterans Administration (VA) health-care facilities to the provision of such counseling services primarily through VA general health-care facilities. Extends until April 1, 1988, the deadline for a report to the Congress by the Administrator of Veterans Affairs concerning the effectiveness of providing such readjustment counseling to veterans. Extends by one year various other reporting dates required of the Administrator under the readjustment counseling program. Revises certain reporting requirements of the Administrator under such program. Directs the Administrator to maintain in operation until October 1, 1988, the same number of readjustment counseling centers as were in operation on April 1, 1987. Amends the Veterans' Health Care Amendments of 1983 to extend until October 1, 1987, the deadline for a report to the Congress by the Administrator on the results of a study of post-traumatic stress disorder and other post-war psychological problems of Vietnam veterans.</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="557" updated="2016-06-29T08:42:22-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Intellectual Property Antitrust Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to modify the application of the antitrust laws so as to encourage the licensing and other use of certain intellectual property.</title>
+  </titles>
+  <sponsor id="404097"/>
+  <cosponsors>
+    <cosponsor id="403184" joined="1987-01-08"/>
+    <cosponsor id="404019" joined="1987-03-25"/>
+    <cosponsor id="400140" joined="1987-01-08"/>
+    <cosponsor id="400192" joined="1987-01-08"/>
+    <cosponsor id="400617" joined="1987-01-08"/>
+    <cosponsor id="407899" joined="1987-01-08"/>
+    <cosponsor id="400365" joined="1987-01-21"/>
+    <cosponsor id="410589" joined="1987-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1987-04-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Antitrust actions"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Business intelligence"/>
+    <term name="Civil actions and liability"/>
+    <term name="Computers"/>
+    <term name="Copyright"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Intellectual property"/>
+    <term name="Interest"/>
+    <term name="Inventions"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal fees"/>
+    <term name="Patents"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Science and technology"/>
+    <term name="Semiconductors"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Intellectual Property Antitrust Protection Act of 1987 - Provides that agreements to convey rights to use, practice, or sublicense a patented invention, rights to use or sublicense a trade secret including related know how, or rights in a copyrighted work or mask work shall not be deemed to be illegal per se under the Federal antitrust laws or similar State laws. Limits the amount a person may recover in an antitrust claim based on such an agreement to the actual damages sustained, specified interest, and the cost of suit, including a reasonable attorney's fee.</summary>
+</bill>

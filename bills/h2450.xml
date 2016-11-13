@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="2450" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1987-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-18"/>
+  </status>
+  <introduced datetime="1987-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 903(b) (1) and (2) of title 38, United States Code, to increase the burial plot allowance for veterans from $150 to $250.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="300057" joined="1987-12-01"/>
+    <cosponsor id="409052" joined="1987-12-01"/>
+    <cosponsor id="410147" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-18" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1987--Introduced.
+Increases the veterans' burial plot allowance from $150 to $250 for eligible veterans who die in Veterans Administration facilities.</summary>
+</bill>

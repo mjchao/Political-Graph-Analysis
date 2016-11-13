@@ -1,0 +1,68 @@
+<bill session="100" type="hc" number="151" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-08-07">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-06-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution urging the President to make the development of agricultural markets in developing countries a high priority of the foreign economic policy of the Nation.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-30" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-07-14">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-23" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-08-07">
+      <text>House Committee on Agriculture Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>House Committee on Foreign Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-08-07" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Received in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Discharged"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="American economic assistance"/>
+    <term name="Developing countries"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign economic relations"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign trade promotion"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1987--Introduced.
+Expresses the sense of the Congress urging the President to: (1) make development of agricultural markets in developing countries a high priority of foreign economic policy; and (2) make more effective use of the food aid and agricultural export development tools provided in the Food Security Act of 1985 and other laws by developing, on a country-by-country basis, a comprehensive program of food aid and economic development assistance to build future foreign commercial markets for U.S. agricultural products.</summary>
+</bill>

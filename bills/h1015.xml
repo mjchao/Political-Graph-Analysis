@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="1015" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">1986 Agricultural Disaster Program Revisions Act</title>
+    <title type="official" as="introduced">A bill to revise the provisions relating to the 1986 agricultural disaster program under Public Law 99-591, the continuing appropriations Act for fiscal year 1987.</title>
+  </titles>
+  <sponsor id="410926"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral, Hearings" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Droughts"/>
+    <term name="Feed grain program"/>
+    <term name="Floods"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+1986 Agricultural Disaster Program Revisions Act - Amends Federal law to require that emergency disaster assistance based on 1986 droughts, floods, and other related conditions be made available by March 15, 1987, or within 45 days of application for such assistance, whichever is later. States that certain wheat and feed grain producers who planted a 1986 crop but did not have a 1986 acreage base shall not be considered ineligible for such assistance. Permits applications based on this Act to be filed at any time prior to April 1, 1987.</summary>
+</bill>

@@ -1,0 +1,34 @@
+<bill session="100" type="h" number="1264" updated="2014-03-22T09:51:46-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to protect the benefit levels of individuals becoming eligible for benefits in or after 1979 by eliminating the disparity (resulting from changes made in 1977 in the benefit computation formula) between those levels and the benefit levels of persons who became eligible for benefits before 1979; and to remove the ceiling on the amount of an individual's income which can be taken into account in computing his or her benefits and in determining his or her liability for social security taxes.</title>
+  </titles>
+  <sponsor id="407960"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security taxes"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to revise the benefit levels of individuals becoming eligible for benefits in or after 1979 so that they are equal to the benefit levels of individuals who became eligible for benefits before 1979. Amends title II of the Social Security Act and the Internal Revenue Code to eliminate the ceiling on the contribution and benefit base used to determine an individual's benefits under title II and his or her liability for social security taxes.</summary>
+</bill>

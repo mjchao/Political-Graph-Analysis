@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="5130" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-02"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="short" as="introduced">Health Waste Anti-Dumping Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide penalties for the dumping of hospital wastes in the high seas, and for other purposes.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="400359" joined="1988-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-02" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Clean Bill H.R.5225 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5225"/>
+    <bill relation="identical" session="100" type="s" number="2685"/>
+    <bill relation="identical" session="100" type="s" number="2685"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Environmental protection"/>
+    <term name="Hazardous waste disposal"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Medical supplies"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Waste disposal in rivers, lakes, etc."/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Health Waste Anti-Dumping Act of 1988 - Amends the Federal criminal code to establish criminal penalties for knowingly dumping any health care facility waste upon the high seas or any waters within the admiralty and maritime jurisdiction of the United States. Includes wastes of veterinary services and laboratory services under the prohibition.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="2786" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Victims of Crime Act of 1984 to require State compensation for State residents who are victims of crimes occurring outside the State if the crimes would be compensable crimes had they occurred inside that State.</title>
+  </titles>
+  <sponsor id="404097"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-25" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-12-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Compensation for victims of crime"/>
+    <term name="Crime prevention"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/1987--Introduced.
+Amends the Victims of Crime Act of 1984 to require State crime victim compensation programs receiving Federal assistance to compensate State residents who are victims of crimes occurring outside the State if the crimes would be compensable had they occurred inside the State.</summary>
+</bill>

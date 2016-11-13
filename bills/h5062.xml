@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="5062" updated="2014-03-22T09:53:32-04:00">
+  <state datetime="1988-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-14"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Lyme Disease Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to establish a program of grants to the States for the purpose of providing for research and treatment with respect to Lyme disease.</title>
+  </titles>
+  <sponsor id="405524"/>
+  <cosponsors>
+    <cosponsor id="403476" joined="1988-07-14"/>
+    <cosponsor id="403581" joined="1988-07-14"/>
+    <cosponsor id="408023" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Communicable diseases"/>
+    <term name="Federal aid to medical research"/>
+    <term name="Grants-in-aid"/>
+    <term name="Medical research"/>
+    <term name="Parasitic diseases"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Introduced.
+Lyme Disease Act of 1988 - Amends the Public Health Service Act to authorize the Secretary of Health and Human Services to make grants to States for research and treatment with respect to Lyme disease. Authorizes appropriations for FY 1989 through 1991.</summary>
+</bill>

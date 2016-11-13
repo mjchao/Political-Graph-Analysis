@@ -1,0 +1,34 @@
+<bill session="100" type="h" number="4572" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-11"/>
+  </status>
+  <introduced datetime="1988-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to require the use of succeeding fiscal year Pell Grant appropriations to meet prior fiscal year shortfalls.</title>
+  </titles>
+  <sponsor id="300057"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-11" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Referred to Subcommittee on Postsecondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED08" subcommittee="Postsecondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Scholarships"/>
+    <term name="Student aid"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1988--Introduced.
+Amends the Higher Education Act of 1965 to require the use of succeeding fiscal year appropriations to meet prior fiscal year shortfalls under the Pell Grant program.</summary>
+</bill>

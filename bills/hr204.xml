@@ -1,0 +1,51 @@
+<bill session="100" type="hr" number="204" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-18"/>
+  </status>
+  <introduced datetime="1987-06-18"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that any legislation that provides additional financial assistance to the Farm Credit System should enable the banks and associations of the System to make loans at lower interest rates, ensure the continued participation of borrowers in the System, and assist borrowers to repay their loans obtained from banks and associations of the System.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="300058" joined="1987-06-18"/>
+    <cosponsor id="408618" joined="1987-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-18" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>See H.R.3030.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Farm Credit Administration"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government operations and politics"/>
+    <term name="Interest"/>
+    <term name="Interest rates"/>
+    <term name="Legislation"/>
+    <term name="Mediation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/1987--Introduced.
+Expresses the sense of the House of Representatives that any Federal legislation enacted to increase financial assistance to the Farm Credit System (FCS) should: (1) enable FCS banks and associations to offer loans at lower interest rates than would be possible without the assistance; (2) ensure the continued participation of borrowers in the management and control of the FCS; (3) require FCS entities to reduce loan repayment obligations as necessary if the reduction is less costly than foreclosure or legal actions with respect to debtors unable to make payments; and (4) encourage FCS banks and associations to take part in State mediation programs conducted by independent arbitrators and to offer delinquent borrowers opportunities to restructure their loans.</summary>
+</bill>

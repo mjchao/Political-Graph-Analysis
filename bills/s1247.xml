@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="1247" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-20"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the area of Arlington National Cemetery where the remains of four unknown service members are interred as the "Tomb of the Unknowns".</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-07-21"/>
+    <cosponsor id="402023" joined="1987-07-23"/>
+    <cosponsor id="300031" joined="1987-07-21"/>
+    <cosponsor id="403346" joined="1987-05-20"/>
+    <cosponsor id="403515" joined="1987-07-23"/>
+    <cosponsor id="407622" joined="1987-07-10"/>
+    <cosponsor id="408937" joined="1987-07-24"/>
+    <cosponsor id="410315" joined="1987-05-20"/>
+    <cosponsor id="300157" joined="1987-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/1987--Introduced.
+Designates the burial site at Arlington National Cemetery where the remains of four unknown servicemen are interred as the Tomb of the Unknowns.</summary>
+</bill>

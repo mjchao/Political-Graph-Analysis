@@ -1,0 +1,72 @@
+<bill session="100" type="h" number="4063" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-03">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Labor to permit North Carolina and South Carolina to continue to employ 17-year old school bus drivers under certain conditions until June 15, 1988.</title>
+  </titles>
+  <sponsor id="409400"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="1988-03-02"/>
+    <cosponsor id="402600" joined="1988-03-02"/>
+    <cosponsor id="400076" joined="1988-03-02"/>
+    <cosponsor id="403403" joined="1988-03-02"/>
+    <cosponsor id="405313" joined="1988-03-02"/>
+    <cosponsor id="406148" joined="1988-03-02"/>
+    <cosponsor id="406554" joined="1988-03-02"/>
+    <cosponsor id="407558" joined="1988-03-02"/>
+    <cosponsor id="408109" joined="1988-03-02"/>
+    <cosponsor id="408520" joined="1988-03-02"/>
+    <cosponsor id="400326" joined="1988-03-02"/>
+    <cosponsor id="409052" joined="1988-03-02"/>
+    <cosponsor id="400610" joined="1988-03-02"/>
+    <cosponsor id="400386" joined="1988-03-02"/>
+    <cosponsor id="410623" joined="1988-03-02"/>
+    <cosponsor id="411065" joined="1988-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>House Committee on Education and Labor Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-04">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="1988-03-14" calendar="Senate Legislative" under="General Orders" number="583">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 583.</text>
+    </calendar>
+    <action datetime="1988-03-17">
+      <text>Indefinitely postponed by Senate by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Child labor"/>
+    <term name="Children and youth"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Hours of labor"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="North Carolina"/>
+    <term name="School buses"/>
+    <term name="South Carolina"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1988--Introduced.
+Directs the Secretary of Labor to permit North Carolina and South Carolina to continue to employ 17-year-old school bus drivers until June 15, 1988, under certain conditions and notwithstanding specified provisions of the Fair Labor Standards Act of 1938.</summary>
+</bill>

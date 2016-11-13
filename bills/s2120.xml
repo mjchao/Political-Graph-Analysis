@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="2120" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-02"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">To amend section 3104 of title 38, United States Code, to permit certain service-connected disabled veterans who are retired members of the Armed Forces to receive compensation concurrently with retired pay, without deduction from either.</title>
+  </titles>
+  <sponsor id="407268"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-07-11"/>
+    <cosponsor id="402023" joined="1988-03-02"/>
+    <cosponsor id="300031" joined="1988-06-24"/>
+    <cosponsor id="404219" joined="1988-03-02"/>
+    <cosponsor id="405310" joined="1988-04-14"/>
+    <cosponsor id="300056" joined="1988-03-02"/>
+    <cosponsor id="300060" joined="1988-03-21"/>
+    <cosponsor id="407622" joined="1988-03-29"/>
+    <cosponsor id="400563" joined="1988-03-02"/>
+    <cosponsor id="300089" joined="1988-03-02"/>
+    <cosponsor id="410242" joined="1988-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military pensions"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1988--Introduced.
+Permits certain veterans with service-connected disabilities who are retired members of the uniformed services to receive compensation concurrently with retired pay, without deduction from either. Makes this Act inapplicable to disability compensation and retirement pay that has accrued before its enactment.</summary>
+</bill>

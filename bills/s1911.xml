@@ -1,0 +1,97 @@
+<bill session="100" type="s" number="1911" updated="2014-03-22T09:55:28-04:00">
+  <state datetime="1988-10-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-24"/>
+  </status>
+  <introduced datetime="1987-12-03"/>
+  <titles>
+    <title type="short" as="introduced">Forest Wildfire Emergency Pay Equity Act of 1987</title>
+    <title type="short" as="reported to senate">Forest Wildfire Emergency Pay Equity Act of 1988</title>
+    <title type="short" as="passed senate">Forest Wildfire Emergency Pay Equity Act of 1988</title>
+    <title type="short" as="enacted">Forest Wildfire Emergency Pay Equity Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to allow all forest fire fighting employees to be paid overtime without limitation while serving on forest fire emergencies.</title>
+  </titles>
+  <sponsor id="405212"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-02-29"/>
+    <cosponsor id="300005" joined="1988-02-02"/>
+    <cosponsor id="300009" joined="1988-02-02"/>
+    <cosponsor id="401611" joined="1988-05-17"/>
+    <cosponsor id="402990" joined="1988-02-02"/>
+    <cosponsor id="403346" joined="1988-02-02"/>
+    <cosponsor id="300036" joined="1987-12-03"/>
+    <cosponsor id="405305" joined="1988-02-02"/>
+    <cosponsor id="300071" joined="1988-03-03"/>
+    <cosponsor id="407622" joined="1988-03-03"/>
+    <cosponsor id="300150" joined="1988-02-29"/>
+    <cosponsor id="408420" joined="1988-02-02"/>
+    <cosponsor id="409580" joined="1988-03-03"/>
+    <cosponsor id="300094" joined="1988-02-02"/>
+    <cosponsor id="411271" joined="1988-02-02"/>
+    <cosponsor id="300099" joined="1988-02-29"/>
+    <cosponsor id="411762" joined="1988-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1988-07-14" state="REPORTED">
+      <text>Committee on Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-09-23">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with an amendment in the nature of a substitute. With written report No. 100-546.</text>
+    </action>
+    <calendar datetime="1988-09-23" calendar="Senate Legislative" under="General Orders" number="990">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 990.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-30" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-06" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-06">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-523" type="public" datetime="1988-10-24">
+      <text>Became Public Law No: 100-523.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4695"/>
+    <bill relation="identical" session="100" type="h" number="4695"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service compensation"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Fire fighters"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Forest fires"/>
+    <term name="Forests and forest products"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1988--Passed Senate amended.
+(Measure passed Senate, amended) Forest Wildfire Emergency Pay Equity Act of 1988 - Allows Federal forest firefighters to be paid overtime without limitation while serving during forest wildfire emergencies. Prohibits the annual salary of a forest firefighter from exceeding the maximum payable to a GS-15.</summary>
+</bill>

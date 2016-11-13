@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="2031" updated="2014-03-22T09:52:08-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act to require that all gasoline sold by refineries in the United States contain a certain percentage of ethanol or certain percentages of both ethanol and methanol; to amend the Internal Revenue Code of 1986 to extend for 8 years certain tax benefits for fuels containing alcohol; and to provide that revenues to the Highway Trust Fund shall not be reduced by reason of such tax benefits.</title>
+  </titles>
+  <sponsor id="400761"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="1987-04-09"/>
+    <cosponsor id="404602" joined="1987-04-09"/>
+    <cosponsor id="406111" joined="1987-04-09"/>
+    <cosponsor id="400210" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Administrative procedure"/>
+    <term name="Air pollution control"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Alcohol tax"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Environmental protection"/>
+    <term name="Excise tax"/>
+    <term name="Gasohol"/>
+    <term name="Gasoline"/>
+    <term name="Gasoline tax"/>
+    <term name="Government operations and politics"/>
+    <term name="Methanol"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle pollution control"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Standards"/>
+    <term name="Tax rates"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Clean Air Act to direct the Administrator of the Environmental Protection Agency to promulgate regulations governing the methanol and ethanol content of gasoline produced in U.S. refineries for motor vehicle use. Mandates that such regulations require that half of the gasoline sold by each refinery in a calendar year shall have ten percent ethanol content; and half shall have a two and one-half percent ethanol content and a five percent methanol content. Amends the Internal Revenue Code to extend from 1992 until 2000 the excise tax rate reductions applicable to: (1) qualified methanol and ethanol fuel; (2) fuels containing alcohol; (3) gasoline mixed with alcohol; and (4) gasoline used to produce certain alcohol fuels. Provides that the extension of such reductions shall not affect revenue transfers to the Highway Trust Fund.</summary>
+</bill>

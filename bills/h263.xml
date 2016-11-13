@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="263" updated="2014-03-22T09:51:15-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal section 154 of title 23, United States Code, relating to the national maximum speed limit, and to provide that the States should establish maximum speed limits.</title>
+  </titles>
+  <sponsor id="411178"/>
+  <cosponsors>
+    <cosponsor id="400552" joined="1987-02-03"/>
+    <cosponsor id="300062" joined="1987-01-21"/>
+    <cosponsor id="407162" joined="1987-02-03"/>
+    <cosponsor id="400534" joined="1987-02-03"/>
+    <cosponsor id="410084" joined="1987-02-03"/>
+    <cosponsor id="400440" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Roads and highways"/>
+    <term name="Speed limits"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Repeals the national maximum speed limit of 55 miles per hour. Expresses the sense of the Congress that the States should not establish a maximum speed limit exceeding: (1) 55 miles per hour on public highways in urbanized areas; and (2) 70 miles per hour on any other public highways.</summary>
+</bill>

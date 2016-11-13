@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="5253" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-09-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-07"/>
+  </status>
+  <introduced datetime="1988-09-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Title XVIII of the Social Security Act, to allow Medicare coverage for all clinical diagnostic laboratory services.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-09-07">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-09-12">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Medical fees"/>
+    <term name="Medical laboratories"/>
+    <term name="Medical tests"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/7/1988--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to require that Medicare payment for a clinical diagnostic laboratory test performed by a laboratory which is independent of a physician's office or a rural health clinic only be made on the basis of an assignment.</summary>
+</bill>

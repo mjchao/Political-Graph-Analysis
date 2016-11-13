@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1743" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-01"/>
+  </status>
+  <introduced datetime="1987-10-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to restore income averaging for farmers.</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors>
+    <cosponsor id="403171" joined="1988-07-06"/>
+    <cosponsor id="300048" joined="1987-10-01"/>
+    <cosponsor id="411271" joined="1987-10-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Farmers"/>
+    <term name="Farms"/>
+    <term name="Income"/>
+    <term name="Income tax"/>
+    <term name="Tax administration"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/1987--Introduced.
+Repeals specified provisions of the Tax Reform Act of 1986 that eliminated income averaging. Provides that the Internal Revenue Code (IRC) be applied and administered as if such provisions had not been enacted. Amends the IRC to restore income averaging for a person: (1) actively engaged in the trade or business of farming, including aquaculture; and (2) whose average annual gross income for the three preceding taxable years is at least 50 percent attributable to farming.</summary>
+</bill>

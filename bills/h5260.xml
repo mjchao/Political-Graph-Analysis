@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="5260" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-09-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-07"/>
+  </status>
+  <introduced datetime="1988-09-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide protection for established recreational uses of water resources projects constructed by the Secretary of the Army.</title>
+  </titles>
+  <sponsor id="400414"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-07" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Business and commerce"/>
+    <term name="Government and business"/>
+    <term name="Public works"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/7/1988--Introduced.
+Directs the Secretary of the Army, in planning any water resources project, to consider the impact of the project on existing and future recreational and commercial uses in the area surrounding the project. Directs the Secretary to take action as necessary to restore recreational use or provide alternative opportunities for comparable recreational use, if maintenance, repair, rehabilitation, or reconstruction of a water resources project results in a change in the configuration of such project and has an adverse effect on a recreational use.</summary>
+</bill>

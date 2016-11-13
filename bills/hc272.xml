@@ -1,0 +1,40 @@
+<bill session="100" type="hc" number="272" updated="2014-03-22T09:54:13-04:00">
+  <state datetime="1988-03-31">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-03-31"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment of the House and Senate until April 11, 1988.</title>
+  </titles>
+  <sponsor id="404193"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-30">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-03-31" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Provides for an adjournment of the House of Representatives and the Senate from March 31, 1988, until April 11, 1988.</summary>
+</bill>

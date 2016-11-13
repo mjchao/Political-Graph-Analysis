@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="1374" updated="2014-03-22T09:51:48-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to allow homeowners to deduct the full amount of prepaid interest paid in connection with the refinancing of their principal residence for the taxable year in which paid.</title>
+  </titles>
+  <sponsor id="410231"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="544"/>
+    <bill relation="identical" session="100" type="s" number="338"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Finance and financial sector"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing finance"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Mortgage loans"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Amends the Internal Revenue Code to allow homeowners to deduct the full amount of prepaid interest in connection with the refinancing of their principal residences for the taxable year in which paid.</summary>
+</bill>

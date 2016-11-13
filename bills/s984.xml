@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="984" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the filing period for reliquidation of certain imports.</title>
+  </titles>
+  <sponsor id="401391"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3059"/>
+    <bill relation="identical" session="100" type="h" number="3059"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Customs administration"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+    <term name="Transistors"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Extends the filing period for liquidation or reliquidation of certain transistors that entered the United States on or after March 1, 1985, and before November 6, 1986.</summary>
+</bill>

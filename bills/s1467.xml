@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="1467" updated="2014-03-22T09:55:20-04:00">
+  <state datetime="1987-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-07"/>
+  </status>
+  <introduced datetime="1987-07-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to modify an excessive deductible mileage requirement relating to the payment of travel expenses by the Veterans' Administration for travel of certain persons between their residences and Veterans' Administration health care facilities.</title>
+  </titles>
+  <sponsor id="401611"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Committee on Veterans requested executive comment from VA, OMB, Defense Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/1987--Introduced.
+Prohibits the Administrator of Veterans Affairs, in providing for the payment of travel expenses by the Veterans Administration of certain veterans and their dependents between their residence and Veterans Administration health facilities as currently required under Federal law, from limiting eligibility for, or the amount of, payments for such travel expenses when the distance exceeds 40 miles.</summary>
+</bill>

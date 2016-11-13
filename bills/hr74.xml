@@ -1,0 +1,78 @@
+<bill session="100" type="hr" number="74" updated="2014-03-22T09:50:55-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that farmers and industry should continue their efforts to improve and expand the market for corn grown in the United States; and that the Congress should reject proposals made by the President to repeal the excise tax reduction for fuels containing alcohol and to reduce the minimum level of price support for domestic sugar.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="401923" joined="1987-03-17"/>
+    <cosponsor id="403696" joined="1987-03-17"/>
+    <cosponsor id="400126" joined="1987-03-17"/>
+    <cosponsor id="404422" joined="1987-03-17"/>
+    <cosponsor id="404750" joined="1987-03-17"/>
+    <cosponsor id="405256" joined="1987-03-17"/>
+    <cosponsor id="405646" joined="1987-03-17"/>
+    <cosponsor id="300057" joined="1987-03-17"/>
+    <cosponsor id="406461" joined="1987-03-17"/>
+    <cosponsor id="400243" joined="1987-03-17"/>
+    <cosponsor id="408907" joined="1987-03-17"/>
+    <cosponsor id="400333" joined="1987-03-17"/>
+    <cosponsor id="409793" joined="1987-03-17"/>
+    <cosponsor id="410097" joined="1987-03-17"/>
+    <cosponsor id="410251" joined="1987-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Alcohol tax"/>
+    <term name="Corn"/>
+    <term name="Economics and public finance"/>
+    <term name="Excise tax"/>
+    <term name="Federal budgets"/>
+    <term name="Gasoline"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Sugar and sugar trade"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Expresses the sense of the House of Representatives that: (1) farmers and industry should continue efforts to improve the market for U.S. corn; and (2) the Congress should reject presidential budget proposals to repeal the excise tax reduction for alcohol fuels and to reduce sugar price support levels.</summary>
+</bill>

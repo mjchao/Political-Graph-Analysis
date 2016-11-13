@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="327" updated="2014-03-22T09:54:51-04:00">
+  <state datetime="1987-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-20"/>
+  </status>
+  <introduced datetime="1987-01-20"/>
+  <titles>
+    <title type="short" as="introduced">Public School Civil Rights Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for civil rights in public schools.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="300154" joined="1987-03-26"/>
+    <cosponsor id="300157" joined="1987-01-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Appellate courts"/>
+    <term name="Busing (School integration)"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Desegregation in education"/>
+    <term name="District courts"/>
+    <term name="Education"/>
+    <term name="Jurisdiction"/>
+    <term name="Law"/>
+    <term name="Racial discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/1987--Introduced.
+Public School Civil Rights Act of 1987 - Eliminates inferior Federal court jurisdiction to issue any order requiring the assignment or transportation of students to public schools on the basis of race, color, or national origin. Permits individuals and school boards to seek relief from court orders made prior to this Act unless the court makes certain findings, including: (1) that the acts giving rise to the order intentionally and specifically caused the segregation; (2) that no other remedy would work; (3) that the benefits of the order outweigh its economic, social, and educational costs; and (4) that the busing required by the order does not consume more than 30 minutes of travel time or ten miles of travel distance daily. Lists remedies which remain available for unconstitutional segregation.</summary>
+</bill>

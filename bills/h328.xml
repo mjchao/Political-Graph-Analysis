@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="328" updated="2014-03-22T09:51:17-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Airport and Airway Improvement Act of 1982 to require that at least 10 percent of all funds authorized for airport development be expended with minority business enterprises.</title>
+  </titles>
+  <sponsor id="402763"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Minorities"/>
+    <term name="Airports"/>
+    <term name="Aviation"/>
+    <term name="Business and commerce"/>
+    <term name="Minority business enterprises"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Airport and Airway Improvement Act of 1982 to require that a minimum of ten percent of funds authorized for airport development be expended with small businesses owned and controlled by socially and economically disadvantaged individuals.</summary>
+</bill>

@@ -1,0 +1,37 @@
+<bill session="100" type="hr" number="49" updated="2014-03-22T09:50:54-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Reconciliation Reform Amendments</title>
+    <title type="official" as="introduced">A resolution to amend the Rules of the House of Representatives to prohibit the inclusion of extraneous matters in reconciliation bills.</title>
+  </titles>
+  <sponsor id="300069"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1987-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional budget process"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Legislation"/>
+    <term name="Legislative resolutions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Reconciliation Reform Amendments - Amends rule XXI of the Rules of the House of Representatives to prohibit extraneous matters in reconciliation bills considered pursuant to the most recently agreed to concurrent resolution on the budget.</summary>
+</bill>

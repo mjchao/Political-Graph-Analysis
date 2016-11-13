@@ -1,0 +1,79 @@
+<bill session="100" type="h" number="2168" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-06-09">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-09"/>
+  </status>
+  <introduced datetime="1987-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to limit the dispensing of certain drugs by practitioners.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="401155" joined="1987-11-16"/>
+    <cosponsor id="400571" joined="1987-04-23"/>
+    <cosponsor id="403190" joined="1987-12-21"/>
+    <cosponsor id="300037" joined="1988-06-14"/>
+    <cosponsor id="404006" joined="1987-09-16"/>
+    <cosponsor id="404170" joined="1988-09-26"/>
+    <cosponsor id="404401" joined="1988-06-01"/>
+    <cosponsor id="400585" joined="1987-09-16"/>
+    <cosponsor id="404587" joined="1988-06-14"/>
+    <cosponsor id="404869" joined="1988-09-26"/>
+    <cosponsor id="405006" joined="1988-06-01"/>
+    <cosponsor id="405313" joined="1988-05-23"/>
+    <cosponsor id="405775" joined="1988-10-19"/>
+    <cosponsor id="406191" joined="1988-05-23"/>
+    <cosponsor id="406740" joined="1987-04-23"/>
+    <cosponsor id="400240" joined="1987-12-01"/>
+    <cosponsor id="406974" joined="1988-06-01"/>
+    <cosponsor id="400256" joined="1987-04-27"/>
+    <cosponsor id="409325" joined="1988-05-23"/>
+    <cosponsor id="409344" joined="1988-05-23"/>
+    <cosponsor id="400359" joined="1988-09-26"/>
+    <cosponsor id="400387" joined="1988-01-25"/>
+    <cosponsor id="410574" joined="1988-07-07"/>
+    <cosponsor id="410641" joined="1987-04-23"/>
+    <cosponsor id="410765" joined="1988-05-23"/>
+    <cosponsor id="300156" joined="1988-09-26"/>
+    <cosponsor id="411224" joined="1988-09-26"/>
+    <cosponsor id="400425" joined="1987-04-23"/>
+    <cosponsor id="411901" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-23" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>For Previous Action See H.R.2093.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-09" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2093"/>
+  </relatedbills>
+  <subjects>
+    <term name="Drugs"/>
+    <term name="Drug safety and regulation"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Health"/>
+    <term name="Medical economics"/>
+    <term name="Medical fees"/>
+    <term name="Medical personnel"/>
+    <term name="Physicians"/>
+    <term name="Prescription pricing"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/1987--Introduced.
+Amends the Federal Food, Drug, and Cosmetic Act to prohibit practitioners from dispensing oral, non-vaccine drugs for profit, except as specified in emergency, rural, or other limited circumstances. Retains to the States authority over the regulation of drug dispensation. Directs the Secretary of Health and Human Services, upon request, to assist States in enforcing this Act.</summary>
+</bill>

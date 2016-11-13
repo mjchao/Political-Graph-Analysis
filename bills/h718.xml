@@ -1,0 +1,75 @@
+<bill session="100" type="h" number="718" updated="2014-03-22T09:51:32-04:00">
+  <state datetime="1987-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-22"/>
+  </status>
+  <introduced datetime="1987-01-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to improve the safety and efficiency of the Nation's rail and air transportation systems.</title>
+  </titles>
+  <sponsor id="402763"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-02-10"/>
+    <cosponsor id="401383" joined="1987-02-10"/>
+    <cosponsor id="300011" joined="1987-03-11"/>
+    <cosponsor id="400580" joined="1987-02-10"/>
+    <cosponsor id="404006" joined="1987-02-10"/>
+    <cosponsor id="405256" joined="1987-03-11"/>
+    <cosponsor id="400223" joined="1987-02-10"/>
+    <cosponsor id="400243" joined="1987-03-11"/>
+    <cosponsor id="400595" joined="1987-02-10"/>
+    <cosponsor id="400302" joined="1987-03-11"/>
+    <cosponsor id="400533" joined="1987-02-10"/>
+    <cosponsor id="410145" joined="1987-02-10"/>
+    <cosponsor id="410496" joined="1987-02-10"/>
+    <cosponsor id="400409" joined="1987-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-22" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>See H.R.3051.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3051"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Aircraft pilots"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Driver licenses"/>
+    <term name="Licenses"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Public safety"/>
+    <term name="Railroad employees"/>
+    <term name="Railroad safety"/>
+    <term name="Railroads"/>
+    <term name="Standards"/>
+    <term name="Traffic accidents and safety"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/1987--Introduced.
+Amends the Federal Railroad Safety Act of 1970 to direct the Secretary of Transportation to issue regulations which require that trains be operated by persons licensed under such Act. Requires such regulations to: (1) establish minimum licensing standards; and (2) ensure that the license applicant has not been reported to the National Driver Register because of a motor vehicle-related conviction under the National Driver Register Act of 1982 for driving under the influence, reckless driving, or other traffic violations. Entitles individuals who are denied a license because their names appear on the Register to an administrative hearing to determine whether such license has been properly denied. Amends the Federal Aviation Act of 1958 to prohibit the issuance of an airman's certificate to an individual who has been reported to the Register because of a motor vehicle-related conviction. Mandates the revocation of an airman's certificate of any individual who has been reported to the Register because of such conviction. Amends the National Driver Register Act of 1982 to direct the Secretary of Transportation, for airman certification purposes, to provide the Administrator of the Federal Aviation Administration with information regarding the motor vehicle driving record of any individual.</summary>
+</bill>

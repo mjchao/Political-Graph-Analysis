@@ -1,0 +1,31 @@
+<bill session="100" type="s" number="1791" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-16"/>
+  </status>
+  <introduced datetime="1987-10-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Airport and Airway Improvement Act of 1982 with respect to the operation of flight service stations.</title>
+  </titles>
+  <sponsor id="403142"/>
+  <cosponsors>
+    <cosponsor id="400563" joined="1987-10-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airports"/>
+    <term name="Aviation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/16/1987--Introduced.
+Amends the Airport and Airway Improvement Act of 1982 to prohibit the Secretary of Transportation from closing or reducing flight service station operation hours unless substitute service will be provided by an automated flight service station with specified equipment. Requires the Secretary to reopen flight service stations that were closed during a specified time period.</summary>
+</bill>

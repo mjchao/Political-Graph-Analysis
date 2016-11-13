@@ -1,0 +1,122 @@
+<bill session="100" type="sc" number="120" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-06-23">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-06-23"/>
+  </status>
+  <introduced datetime="1988-05-23"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution urging the Government of Iran to respect the human rights of members of the Baha'i faith, and for other purposes.</title>
+  </titles>
+  <sponsor id="300034"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-05-23"/>
+    <cosponsor id="401611" joined="1988-05-23"/>
+    <cosponsor id="401709" joined="1988-05-23"/>
+    <cosponsor id="402023" joined="1988-05-23"/>
+    <cosponsor id="402412" joined="1988-05-23"/>
+    <cosponsor id="300031" joined="1988-05-23"/>
+    <cosponsor id="403483" joined="1988-05-23"/>
+    <cosponsor id="403515" joined="1988-06-16"/>
+    <cosponsor id="300036" joined="1988-06-27"/>
+    <cosponsor id="403920" joined="1988-05-23"/>
+    <cosponsor id="403962" joined="1988-05-23"/>
+    <cosponsor id="404598" joined="1988-05-23"/>
+    <cosponsor id="404679" joined="1988-05-23"/>
+    <cosponsor id="300052" joined="1988-06-16"/>
+    <cosponsor id="405321" joined="1988-05-23"/>
+    <cosponsor id="300056" joined="1988-05-23"/>
+    <cosponsor id="406183" joined="1988-05-23"/>
+    <cosponsor id="406188" joined="1988-05-23"/>
+    <cosponsor id="300059" joined="1988-05-23"/>
+    <cosponsor id="300060" joined="1988-05-23"/>
+    <cosponsor id="300064" joined="1988-05-23"/>
+    <cosponsor id="300066" joined="1988-05-23"/>
+    <cosponsor id="300070" joined="1988-06-16"/>
+    <cosponsor id="300071" joined="1988-05-23"/>
+    <cosponsor id="407622" joined="1988-05-23"/>
+    <cosponsor id="407786" joined="1988-06-16"/>
+    <cosponsor id="400563" joined="1988-05-23"/>
+    <cosponsor id="300150" joined="1988-06-16"/>
+    <cosponsor id="408597" joined="1988-05-23"/>
+    <cosponsor id="408898" joined="1988-05-23"/>
+    <cosponsor id="408970" joined="1988-05-23"/>
+    <cosponsor id="300086" joined="1988-05-23"/>
+    <cosponsor id="409917" joined="1988-05-23"/>
+    <cosponsor id="409923" joined="1988-05-23"/>
+    <cosponsor id="300092" joined="1988-05-23"/>
+    <cosponsor id="410242" joined="1988-05-23"/>
+    <cosponsor id="411762" joined="1988-05-23"/>
+    <cosponsor id="411801" joined="1988-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-23" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1988-06-21" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-06-21">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-06-21" calendar="Senate Legislative" under="General Orders" number="748">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 748.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-23" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-07-05">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-07-05">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Subcommittee on Europe and the Middle East Discharged.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Subcommittee on Human Rights and International Organizations Discharged.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-03">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral, Discharged" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="310"/>
+    <bill relation="identical" session="100" type="hc" number="310"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Human rights"/>
+    <term name="Iran"/>
+    <term name="Minorities"/>
+    <term name="Refugees"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+    <term name="Treaties"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/1988--Introduced.
+Urges the Government of Iran to uphold the human rights of all its nationals, including members of the Baha'i faith, and to restore fully the rights guaranteed by the Universal Declaration of Human Rights. Calls upon the President to: (1) monitor and report on developments affecting the Baha'i minority in Iran and in other countries; (2) cooperate with other governments in continuing to make appeals to Iran concerning the situation of the Baha'is; (3) initiate and support efforts in the United Nations and its agencies on behalf of the Baha'is; and (4) provide, and urge others to provide, for refugee and humanitarian assistance for those Baha'is fleeing their homelands to escape religious repression.</summary>
+</bill>

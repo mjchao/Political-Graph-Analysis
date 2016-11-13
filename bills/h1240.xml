@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="1240" updated="2014-03-22T09:51:45-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the provision of the Tax Reform Act of 1986 which disallowed the treatment of certain technical personnel as self-employed individuals.</title>
+  </titles>
+  <sponsor id="403476"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1988-04-13"/>
+    <cosponsor id="401383" joined="1987-03-31"/>
+    <cosponsor id="402159" joined="1987-07-15"/>
+    <cosponsor id="402657" joined="1987-04-08"/>
+    <cosponsor id="300029" joined="1987-03-31"/>
+    <cosponsor id="403178" joined="1987-07-15"/>
+    <cosponsor id="403545" joined="1987-03-25"/>
+    <cosponsor id="404097" joined="1987-11-09"/>
+    <cosponsor id="400144" joined="1988-02-25"/>
+    <cosponsor id="405855" joined="1987-04-08"/>
+    <cosponsor id="300057" joined="1987-07-15"/>
+    <cosponsor id="406530" joined="1987-03-25"/>
+    <cosponsor id="406554" joined="1987-04-08"/>
+    <cosponsor id="406863" joined="1987-04-08"/>
+    <cosponsor id="408490" joined="1987-07-15"/>
+    <cosponsor id="409887" joined="1987-03-31"/>
+    <cosponsor id="410147" joined="1987-07-15"/>
+    <cosponsor id="410889" joined="1987-07-15"/>
+    <cosponsor id="400409" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="491"/>
+    <bill relation="identical" session="100" type="s" number="491"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Contractors"/>
+    <term name="Labor and employment"/>
+    <term name="Self-employed"/>
+    <term name="Skilled labor"/>
+    <term name="Social security taxes"/>
+    <term name="Unemployment insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Amends the Tax Reform Act of 1986 to repeal the provision which disallows the treatment of certain technical personnel as self-employed individuals for employment tax purposes. Specifies that the Internal Revenue Code shall be applied and administered as if such provision had not been enacted.</summary>
+</bill>

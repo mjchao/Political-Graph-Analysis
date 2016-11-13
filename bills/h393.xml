@@ -1,0 +1,79 @@
+<bill session="100" type="h" number="393" updated="2014-03-22T09:51:19-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">National Biotechnology Information Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish the National Center for Biotechnology Information within the Department of Health and Human Services as a component of the National Library of Medicine.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-04-28"/>
+    <cosponsor id="401418" joined="1987-04-28"/>
+    <cosponsor id="400542" joined="1987-04-28"/>
+    <cosponsor id="401986" joined="1987-06-16"/>
+    <cosponsor id="403031" joined="1987-04-28"/>
+    <cosponsor id="403308" joined="1987-04-28"/>
+    <cosponsor id="403576" joined="1987-10-06"/>
+    <cosponsor id="404422" joined="1987-06-16"/>
+    <cosponsor id="405524" joined="1987-04-28"/>
+    <cosponsor id="405687" joined="1987-04-28"/>
+    <cosponsor id="405775" joined="1987-06-16"/>
+    <cosponsor id="406463" joined="1987-04-28"/>
+    <cosponsor id="406530" joined="1987-04-28"/>
+    <cosponsor id="407141" joined="1987-04-28"/>
+    <cosponsor id="400595" joined="1987-04-28"/>
+    <cosponsor id="407564" joined="1987-06-16"/>
+    <cosponsor id="407669" joined="1987-06-16"/>
+    <cosponsor id="408023" joined="1987-04-28"/>
+    <cosponsor id="408407" joined="1987-10-06"/>
+    <cosponsor id="409632" joined="1987-04-28"/>
+    <cosponsor id="410066" joined="1987-04-28"/>
+    <cosponsor id="410145" joined="1987-04-28"/>
+    <cosponsor id="410407" joined="1987-06-16"/>
+    <cosponsor id="411901" joined="1987-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-02-22">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Biochemistry"/>
+    <term name="Biological research"/>
+    <term name="Biotechnology"/>
+    <term name="Communication in science"/>
+    <term name="Computers"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive reorganization"/>
+    <term name="Genetic research"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Health"/>
+    <term name="Information services"/>
+    <term name="Information storage and retrieval systems"/>
+    <term name="International cooperation in science"/>
+    <term name="Libraries"/>
+    <term name="Medical libraries"/>
+    <term name="Medical research"/>
+    <term name="Molecular biology"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+National Biotechnology Information Act of 1987 - Amends the Public Health Service Act to establish the National Center for Biotechnology Information (the Center) in the National Library of Medicine in the Department of Health and Human Services. Directs the Secretary of Health and Human Services (the Secretary), through the Center, to: (1) design, develop, implement, and manage automated systems for the collection, storage, retrieval, analysis, and dissemination of knowledge concerning human molecular biology, biochemistry, and genetics; (2) perform research into advanced methods of computer-based information processing capable of representing and analyzing the vast number of biologically important molecules and compounds; (3) enable persons engaged in biotechnology research and medical care to use such systems and methods; and (4) coordinate efforts to gather biotechnology information on an international basis. Authorizes appropriations to the Secretary for FY 1988 through 1992.</summary>
+</bill>

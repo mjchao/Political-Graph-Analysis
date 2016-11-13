@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="4973" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-30"/>
+  </status>
+  <introduced datetime="1988-06-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 28, United States Code, and the Tariff Act of 1930 to provide amounts from the Department of Justice Assets Forfeiture Fund and the Customs Forfeiture Fund to assist State residential drug treatment programs.</title>
+  </titles>
+  <sponsor id="406730"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-30" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Drugs"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Treatment and rehabilitation of narcotic addicts"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1988--Introduced.
+Amends the Federal judicial code to make funds from the Department of Justice Assets Forfeiture Fund available to assist the States in providing residential drug treatment programs. Requires the Secretary of Health and Human Services to prepare that portion of the Attorney General's report to the Congress relating to the expenditure of such funds. Amends the Tariff Act of 1930 to add parallel provisions with respect to the Customs Forfeiture Fund.</summary>
+</bill>

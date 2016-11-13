@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="172" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-05-19">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H. R. 5) to improve elementary and secondary education, and for other purposes.</title>
+  </titles>
+  <sponsor id="400600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-19">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-100.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Placed on House Calendar No: 26.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="5"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Education"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 5 (education programs funding).</summary>
+</bill>

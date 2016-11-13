@@ -1,0 +1,111 @@
+<bill session="100" type="h" number="3460" updated="2014-03-22T09:52:52-04:00">
+  <state datetime="1987-10-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-27"/>
+  </status>
+  <introduced datetime="1987-10-09"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Employment and Training Act of 1987</title>
+    <title type="short" as="reported to house">Veterans' Employment and Training Act of 1987</title>
+    <title type="short" as="passed house">Veterans' Employment and Training Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend chapter 41 of title 38, United States Code, with respect to veterans' employment and training.</title>
+  </titles>
+  <sponsor id="403576"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-10-19"/>
+    <cosponsor id="400028" joined="1987-10-19"/>
+    <cosponsor id="401947" joined="1987-10-19"/>
+    <cosponsor id="400055" joined="1987-10-19"/>
+    <cosponsor id="403242" joined="1987-10-19"/>
+    <cosponsor id="403545" joined="1987-10-09"/>
+    <cosponsor id="403776" joined="1987-10-19"/>
+    <cosponsor id="400126" joined="1987-10-09"/>
+    <cosponsor id="404170" joined="1987-10-19"/>
+    <cosponsor id="404750" joined="1987-10-19"/>
+    <cosponsor id="405006" joined="1987-10-19"/>
+    <cosponsor id="405114" joined="1987-10-19"/>
+    <cosponsor id="405313" joined="1987-10-19"/>
+    <cosponsor id="405985" joined="1987-10-19"/>
+    <cosponsor id="300058" joined="1987-10-19"/>
+    <cosponsor id="406157" joined="1987-10-09"/>
+    <cosponsor id="400210" joined="1987-10-19"/>
+    <cosponsor id="400211" joined="1987-10-09"/>
+    <cosponsor id="406277" joined="1987-10-09"/>
+    <cosponsor id="406682" joined="1987-10-19"/>
+    <cosponsor id="407432" joined="1987-10-19"/>
+    <cosponsor id="407673" joined="1987-10-19"/>
+    <cosponsor id="407838" joined="1987-10-09"/>
+    <cosponsor id="408520" joined="1987-10-09"/>
+    <cosponsor id="408618" joined="1987-10-19"/>
+    <cosponsor id="409205" joined="1987-10-19"/>
+    <cosponsor id="409219" joined="1987-10-09"/>
+    <cosponsor id="409325" joined="1987-10-19"/>
+    <cosponsor id="409442" joined="1987-10-19"/>
+    <cosponsor id="409443" joined="1987-10-19"/>
+    <cosponsor id="300155" joined="1987-10-19"/>
+    <cosponsor id="400380" joined="1987-10-09"/>
+    <cosponsor id="410147" joined="1987-10-09"/>
+    <cosponsor id="410245" joined="1987-10-19"/>
+    <cosponsor id="400389" joined="1987-10-19"/>
+    <cosponsor id="400504" joined="1987-10-19"/>
+    <cosponsor id="411929" joined="1987-10-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-09" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Subcommittee Consideration and Mark-up Session Held by Subcommittee on Education, Training and Employment Prior to Introduction (Oct 7, 87). Forwarded to Full Committee.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-21">
+      <text>Reported to House (Amended) by House Committee on Veterans' Affairs.  Report No: 100-387.</text>
+    </action>
+    <action datetime="1987-10-21">
+      <text>Placed on Union Calendar No: 248.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Certain Provisions Included in S.999.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Markup" code="HSVR02" subcommittee="Education, Training and Employment" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="999"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Labor"/>
+    <term name="Disabled"/>
+    <term name="Employment and training programs"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Manpower training programs"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Veterans' employment"/>
+    <term name="Vocational guidance"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1987--Passed House amended.
+(Measure passed House, amended) Veterans' Employment and Training Act of 1987 - Amends Federal veterans' benefits provisions to require the administrative head of employment service in each State to assign local veterans' employment representatives (LVERs) to the staffs of local employment service offices. Outlines various functions to be performed by such LVERs in service to veterans in such employment area, including: (1) maintaining ties with the local community in order to keep business leaders aware of the availability of qualified veterans for employment; (2) encouraging business owners and labor unions to hire qualified veterans; (3) promoting, facilitating, and monitoring the participation of veterans in Federal and federally-funded employment and training programs; (4) working closely with Veterans Administration (VA) personnel engaged in providing counseling and rehabilitative services to veterans and identifying qualified disabled veterans who need employment; (5) assisting in securing and maintaining current information regarding available employment and training opportunities; and (6) assisting Federal and State agencies to obtain prosthetic and sensory aids and devices which enhance the employability of disabled veterans. Requires each LVER to be administratively responsible to his or her local employment service manager and provide periodic reports to such manager and to the Director for Veterans' Employment and Training regarding compliance with Federal law and regulations in the provision of such services to veterans. Directs the Secretary of Labor, acting through the Assistant Secretary of Labor for Veterans' Employment and Training, to make available during each fiscal year for use in each State an amount sufficient to support a specified number of LVERs, depending upon the number of eligible veterans residing in such local employment area, and on the number of eligible veterans residing in such State at the end of the previous fiscal year. Outlines a method for determining the number of LVERs to be supported in each State. Sets forth requirements for the proper registration of an individual for assistance with a local employment office during a program year. Amends general veterans' administrative provisions to require the Secretary, through the Assistant Secretary, to: (1) carry out all provisions under the Secretary's jurisdiction for the provision of employment and training services to eligible veterans; (2) encourage cooperative agreements with private industry and business concerns in order to make maximum use of available resources; (3) ensure that maximum effectiveness and efficiency are achieved in the provision of services and assistance to eligible veterans; (4) ensure that job placement activities are carried out in coordination and cooperation with appropriate State public employment service officials; (5) monitor and supervise the distribution and use of funds provided for States for veterans' assistance purposes; (6) monitor the appointment of disabled veterans' outreach specialists and the assignment of LVERs in order to assure compliance with specified Federal provisions; and (7) promote, facilitate, and monitor participation of qualified veterans and eligible persons in employment and training opportunities under the Job Training Partnership Act and other Federal and federally-funded employment and training programs. Outlines administrative provisions concerning the distribution of funds and the terms and conditions of grants to States for the above purposes. Directs the Secretary to assign to each region for which the Secretary operates a regional office a representative of the Veterans' Employment and Training Service (who shall be an eligible veteran) to serve as the Regional Administrator for Veterans' Employment and Training in such region. Outlines responsibilities of such Regional Administrator relating to the employment of qualified veterans in such region. Establishes in the Department of Labor the position of Deputy Assistant Secretary of Labor for Veterans' Employment and Training within the Senior Executive Service. Requires such appointment no later than the beginning of program year 1989. Revises certain administrative provisions to provide for the budgeting of the National Veterans' Employment and Training Service Institute. Directs the Secretary, no later than December 1 annually, to report to the appropriate congressional committees on the provision of employment and training services to meet the needs of veterans. Adds certain monitoring responsibilities to those required at the State level for the Directors for Veterans' Employment and Training. Directs the Secretary, through the Assistant Secretary, to establish and make available necessary funds to operate a National Veterans' Employment and Training Service Institute (the Institute) for the training of disabled veterans' outreach program specialists, LVERs, State Directors and Assistant State Directors for Veterans' Employment and Training, and other personnel involved in the provision of employment, job-training, counseling, placement, and related services to veterans. Adds representatives of the Secretary of Education, the Postmaster General, and the Director of the ACTION Agency to those required to be represented on the Secretary of Labor's Committee on Veterans' Employment. Authorizes the Secretary, in appointing a State Director or Assistant Director for Veterans' Employment and Training, to waive the required State residency requirement if the Secretary finds that there is no qualified veteran available who meets such requirement.</summary>
+</bill>

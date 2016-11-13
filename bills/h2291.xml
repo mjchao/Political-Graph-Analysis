@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="2291" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-05"/>
+  </status>
+  <introduced datetime="1987-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Public Law 99-190 to repeal the provision relating to the collection of tolls for motor vehicles on any bridge connecting the borough of Brooklyn, New York, and Staten Island, New York.</title>
+  </titles>
+  <sponsor id="411426"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-05-05"/>
+    <cosponsor id="404422" joined="1987-05-05"/>
+    <cosponsor id="404856" joined="1987-05-05"/>
+    <cosponsor id="405775" joined="1987-05-05"/>
+    <cosponsor id="400306" joined="1987-05-05"/>
+    <cosponsor id="400333" joined="1987-05-05"/>
+    <cosponsor id="409237" joined="1987-05-05"/>
+    <cosponsor id="409344" joined="1987-05-05"/>
+    <cosponsor id="409632" joined="1987-05-05"/>
+    <cosponsor id="410145" joined="1987-05-05"/>
+    <cosponsor id="400409" joined="1987-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-05" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Bridges"/>
+    <term name="New York City"/>
+    <term name="Roads and highways"/>
+    <term name="Toll roads"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1987--Introduced.
+Repeals the provisions of Federal law which state that motor vehicle tolls on any bridge connecting Brooklyn and Staten Island, New York, may only be collected for vehicles exiting in Staten Island. Repeals accompanying enforcement and related provisions.</summary>
+</bill>

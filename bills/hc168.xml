@@ -1,0 +1,117 @@
+<bill session="100" type="hc" number="168" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-28"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the United Nations should offer to place the United Nations flag on nonbelligerent ships in the Persian Gulf, and authorize United Nations peacekeeping vessels to escort those ships, as part of broader United Nations efforts to bring about a peaceful resolution of the Iran-Iraq war.</title>
+  </titles>
+  <sponsor id="403581"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-09-14"/>
+    <cosponsor id="400895" joined="1987-09-14"/>
+    <cosponsor id="400906" joined="1987-09-14"/>
+    <cosponsor id="400975" joined="1987-09-14"/>
+    <cosponsor id="401310" joined="1987-09-14"/>
+    <cosponsor id="400025" joined="1987-09-14"/>
+    <cosponsor id="400035" joined="1987-09-14"/>
+    <cosponsor id="401560" joined="1987-09-14"/>
+    <cosponsor id="300011" joined="1987-09-14"/>
+    <cosponsor id="400572" joined="1987-09-14"/>
+    <cosponsor id="402114" joined="1987-09-14"/>
+    <cosponsor id="402600" joined="1987-09-14"/>
+    <cosponsor id="402763" joined="1987-10-14"/>
+    <cosponsor id="400080" joined="1987-10-14"/>
+    <cosponsor id="403031" joined="1987-12-15"/>
+    <cosponsor id="403314" joined="1987-09-14"/>
+    <cosponsor id="403364" joined="1987-09-14"/>
+    <cosponsor id="300037" joined="1987-09-14"/>
+    <cosponsor id="403689" joined="1987-09-14"/>
+    <cosponsor id="403776" joined="1987-10-28"/>
+    <cosponsor id="403904" joined="1987-10-14"/>
+    <cosponsor id="400126" joined="1987-09-14"/>
+    <cosponsor id="404002" joined="1987-07-28"/>
+    <cosponsor id="404006" joined="1987-09-14"/>
+    <cosponsor id="404009" joined="1987-09-14"/>
+    <cosponsor id="404190" joined="1987-09-14"/>
+    <cosponsor id="400140" joined="1987-09-14"/>
+    <cosponsor id="404325" joined="1987-09-14"/>
+    <cosponsor id="400143" joined="1987-10-28"/>
+    <cosponsor id="404422" joined="1987-09-14"/>
+    <cosponsor id="400538" joined="1987-10-28"/>
+    <cosponsor id="405256" joined="1987-09-14"/>
+    <cosponsor id="405377" joined="1987-09-14"/>
+    <cosponsor id="405524" joined="1987-09-14"/>
+    <cosponsor id="405687" joined="1987-09-14"/>
+    <cosponsor id="400211" joined="1987-10-28"/>
+    <cosponsor id="406191" joined="1987-09-14"/>
+    <cosponsor id="406461" joined="1987-09-14"/>
+    <cosponsor id="400236" joined="1987-07-28"/>
+    <cosponsor id="406730" joined="1987-09-14"/>
+    <cosponsor id="406765" joined="1987-10-28"/>
+    <cosponsor id="406873" joined="1987-09-14"/>
+    <cosponsor id="400595" joined="1987-09-14"/>
+    <cosponsor id="407853" joined="1987-09-14"/>
+    <cosponsor id="408023" joined="1987-09-14"/>
+    <cosponsor id="408109" joined="1987-09-14"/>
+    <cosponsor id="408244" joined="1987-09-14"/>
+    <cosponsor id="400299" joined="1987-10-28"/>
+    <cosponsor id="400306" joined="1987-10-28"/>
+    <cosponsor id="408407" joined="1987-09-14"/>
+    <cosponsor id="400314" joined="1987-10-14"/>
+    <cosponsor id="408618" joined="1987-10-14"/>
+    <cosponsor id="400604" joined="1987-09-14"/>
+    <cosponsor id="409344" joined="1987-10-28"/>
+    <cosponsor id="409632" joined="1987-09-14"/>
+    <cosponsor id="409644" joined="1987-10-28"/>
+    <cosponsor id="409901" joined="1987-10-14"/>
+    <cosponsor id="400378" joined="1987-09-14"/>
+    <cosponsor id="410066" joined="1987-09-14"/>
+    <cosponsor id="400387" joined="1987-10-28"/>
+    <cosponsor id="410496" joined="1987-09-14"/>
+    <cosponsor id="400612" joined="1987-10-14"/>
+    <cosponsor id="411426" joined="1987-10-14"/>
+    <cosponsor id="411834" joined="1987-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-28" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+    <action datetime="1987-08-11">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-08-11">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-08-11">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sc" number="66"/>
+    <bill relation="identical" session="100" type="sc" number="66"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Flags of convenience"/>
+    <term name="International military forces"/>
+    <term name="Marine transportation"/>
+    <term name="Middle East"/>
+    <term name="Persian Gulf"/>
+    <term name="Ships and shipping"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1987--Introduced.
+Expresses the sense of the Congress that the President should instruct the Permanent Representative of the United States to the United Nations to urge the Secretary General and Security Council to: (1) permit nonbelligerent ships in the Persian Gulf to fly the United Nations flag if such ships submit to inspection by United Nations observers to guarantee that no war material is being carried; (2) authorize United Nations peacekeeping vessels to escort such ships; and (3) determine what enforcement action should be taken in the event of an attack on ships under the United Nations flag. States that any such escort vessels and their crews should be provided by countries other than the Soviet Union and the United States.</summary>
+</bill>

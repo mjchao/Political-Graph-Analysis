@@ -1,0 +1,60 @@
+<bill session="100" type="sc" number="114" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-04-22">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-04-22"/>
+  </status>
+  <introduced datetime="1988-04-12"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution authorizing the Law Enforcement Torch Run for the Special Olympics through the Capitol Grounds.</title>
+  </titles>
+  <sponsor id="404219"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-12" state="REFERRED">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+    <calendar datetime="1988-04-19" state="REPORTED">
+      <text>Committee on Rules. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-04-21">
+      <text>Committee on Rules. Reported to Senate by Senator Ford without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-04-21" calendar="Senate Legislative" under="General Orders" number="621">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 621.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-22" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-04-29">
+      <text>House Committee on Public Works and Transportation Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-29">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-29">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Disabled"/>
+    <term name="District of Columbia"/>
+    <term name="Olympic games"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/1988--Introduced.
+Permits the Law Enforcement Torch Run for the Special Olympics to be run through the Capitol Grounds.</summary>
+</bill>

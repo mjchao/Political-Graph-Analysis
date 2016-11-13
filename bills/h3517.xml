@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="3517" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-20"/>
+  </status>
+  <introduced datetime="1987-10-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Tax Reform Act of 1986 to delay for 1 year the effective date for the increase in the current year liability test for estimated tax payments by individuals.</title>
+  </titles>
+  <sponsor id="407320"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-12-11"/>
+    <cosponsor id="401155" joined="1987-12-11"/>
+    <cosponsor id="401417" joined="1987-10-29"/>
+    <cosponsor id="400035" joined="1987-10-27"/>
+    <cosponsor id="401986" joined="1987-11-05"/>
+    <cosponsor id="402454" joined="1987-12-18"/>
+    <cosponsor id="402763" joined="1987-11-30"/>
+    <cosponsor id="403178" joined="1987-12-18"/>
+    <cosponsor id="403476" joined="1987-12-18"/>
+    <cosponsor id="403545" joined="1987-10-27"/>
+    <cosponsor id="403769" joined="1988-02-25"/>
+    <cosponsor id="404190" joined="1987-11-30"/>
+    <cosponsor id="404401" joined="1987-10-27"/>
+    <cosponsor id="404634" joined="1987-12-18"/>
+    <cosponsor id="400169" joined="1987-10-27"/>
+    <cosponsor id="405646" joined="1987-11-05"/>
+    <cosponsor id="405687" joined="1987-10-27"/>
+    <cosponsor id="400226" joined="1988-02-25"/>
+    <cosponsor id="400537" joined="1987-12-18"/>
+    <cosponsor id="406530" joined="1987-10-27"/>
+    <cosponsor id="400243" joined="1987-10-27"/>
+    <cosponsor id="407215" joined="1987-10-27"/>
+    <cosponsor id="400595" joined="1988-02-25"/>
+    <cosponsor id="407351" joined="1987-12-18"/>
+    <cosponsor id="408109" joined="1987-11-05"/>
+    <cosponsor id="408190" joined="1987-10-29"/>
+    <cosponsor id="400306" joined="1987-10-29"/>
+    <cosponsor id="400307" joined="1987-10-27"/>
+    <cosponsor id="409237" joined="1988-06-22"/>
+    <cosponsor id="409353" joined="1987-12-11"/>
+    <cosponsor id="409793" joined="1987-10-27"/>
+    <cosponsor id="411585" joined="1987-10-29"/>
+    <cosponsor id="411901" joined="1987-10-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-20" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax"/>
+    <term name="Tax administration"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1987--Introduced.
+Amends the Tax Reform Act of 1986 to delay for one year, from 1987 until 1988, implementation of the increase from 80 percent to 90 percent in the current year liability test for estimated tax payments by individuals.</summary>
+</bill>

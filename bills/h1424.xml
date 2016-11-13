@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="1424" updated="2014-03-22T09:51:49-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that certain regulations issued by the Department of Transportation which exempt commercial motor vehicles operating in commercial zones from Federal motor carrier safety regulation shall have no effect.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="400524" joined="1987-05-19"/>
+    <cosponsor id="408976" joined="1987-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>See H.R.5210.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5210"/>
+  </relatedbills>
+  <subjects>
+    <term name="Motor vehicles"/>
+    <term name="Administrative procedure"/>
+    <term name="Common carrier regulation"/>
+    <term name="Common carriers"/>
+    <term name="Department of Transportation"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor transportation"/>
+    <term name="Motor vehicle safety"/>
+    <term name="Public safety"/>
+    <term name="Traffic accidents and safety"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation safety"/>
+    <term name="Trucks"/>
+    <term name="Urban affairs"/>
+    <term name="Urban transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Brings within the scope of Federal motor carrier safety regulation certain commercial motor vehicles operating in a municipality or its commercial zone. Declares certain Department of Transportation regulations exempting such vehicles from Federal safety regulation to be without effect.</summary>
+</bill>

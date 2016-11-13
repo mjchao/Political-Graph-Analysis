@@ -1,0 +1,59 @@
+<bill session="100" type="hc" number="285" updated="2014-03-22T09:54:13-04:00">
+  <state datetime="1988-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-21"/>
+  </status>
+  <introduced datetime="1988-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution relating to drug trafficking in the Washington Metropolitan Area.</title>
+  </titles>
+  <sponsor id="408490"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1988-04-21"/>
+    <cosponsor id="407215" joined="1988-04-21" withdrawn="1988-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-21" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Referred to Subcommittee on Fiscal Affairs and Health.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Executive Comment Requested from Justice, DOT, OMB.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSDT01" subcommittee="Fiscal Affairs and Health" name="House District of Columbia"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="District of Columbia"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Law enforcement officers"/>
+    <term name="Maryland"/>
+    <term name="Narcotic traffic"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1988--Introduced.
+Expresses the sense of the Congress that certain actions should be taken in the Washington, D.C. Metropolitan Area to curtail drug trafficking, including: (1) creating a model drug enterprise control zone; (2) equipping police officers with nonlethal electronic stunning devices; (3) cross-deputizing law enforcement officials; and (4) adopting a metropolitan area-wide drug abuse policy.</summary>
+</bill>

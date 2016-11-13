@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="2510" updated="2014-03-22T09:55:50-04:00">
+  <state datetime="1988-06-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-14"/>
+  </status>
+  <introduced datetime="1988-06-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make certain United States-flag vessels eligible for operating-differential subsidies under the Merchant Marine Act, 1936.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1988-06-20"/>
+    <cosponsor id="404219" joined="1988-06-20"/>
+    <cosponsor id="300094" joined="1988-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee on Merchant Marine. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSCM06" subcommittee="Merchant Marine" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Merchant marine"/>
+    <term name="Shipbuilding"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Subsidies"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/1988--Introduced.
+Allows an operator of U.S.-flag liner vessels which has taken delivery from a U.S. shipyard of new U.S.-built liner vessels within the last two years to designate not more than 12 existing U.S.-flag foreign-built vessels, meeting certain criteria, which it is currently operating. Deems the vessels so designated to have been U.S.-built for purposes of provisions relating to operating-differential subsidies.</summary>
+</bill>

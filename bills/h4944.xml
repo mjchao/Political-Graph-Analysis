@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="4944" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-29"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVI of the Social Security Act to permit an individual receiving SSI benefits who becomes entitled to OASDI benefits or veterans' compensation or pension and, as a result, ceases to be eligible to receive such SSI benefits, to be treated as receiving SSI benefits for purposes of determining eligibility to receive Medicaid benefits.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-29" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Armed forces and national security"/>
+    <term name="Coinsurance"/>
+    <term name="Drugs"/>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Military pensions"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Public assistance programs"/>
+    <term name="Supplemental security income program"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' pensions"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Introduced.
+Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act (the Act) to treat an individual who becomes eligible for SSI benefits by reason of his or her receipt of Old Age, Survivors and Disability Insurance (OASDI) (title II of the Act) benefits, or a veterans' compensation or pension as continuing to receive SSI benefits for Medicaid (title XIX of the Act) eligibility purposes for so long as he or she would remain eligible for SSI benefits but for the receipt of OASDI or veterans' benefits. Makes such provision ineffective when the coinsurance percentage for outpatient drug coverage under part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Act is 20 percent or less.</summary>
+</bill>

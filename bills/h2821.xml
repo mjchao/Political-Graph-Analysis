@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="2821" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-29"/>
+  </status>
+  <introduced datetime="1987-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to expedite certain California land exchanges between the Secretary of the Interior and the Nature Conservancy.</title>
+  </titles>
+  <sponsor id="407320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-29" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-08-12">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1987--Introduced.
+Directs the Secretary of the Interior to proceed with land exchanges between the Nature Conservancy and the Bureau of Land Management to complete the Coachella Valley preserve, California.</summary>
+</bill>

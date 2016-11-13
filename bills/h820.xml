@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="820" updated="2014-03-22T09:51:34-04:00">
+  <state datetime="1987-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-29"/>
+  </status>
+  <introduced datetime="1987-01-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to allow States to increase the maximum speed limit to sixty-five miles per hour on rural interstate and four lane highways where the Governor of that State determines that highway safety on that route will not significantly decline.</title>
+  </titles>
+  <sponsor id="400079"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-05"/>
+    <cosponsor id="401628" joined="1987-02-05"/>
+    <cosponsor id="403242" joined="1987-02-18"/>
+    <cosponsor id="403545" joined="1987-03-05"/>
+    <cosponsor id="403769" joined="1987-04-21"/>
+    <cosponsor id="400140" joined="1987-02-05"/>
+    <cosponsor id="405626" joined="1987-08-07"/>
+    <cosponsor id="406682" joined="1987-02-18"/>
+    <cosponsor id="409165" joined="1987-03-05"/>
+    <cosponsor id="400389" joined="1987-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-29" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Interstate highway system"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Roads and highways"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Speed limits"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/1987--Introduced.
+Amends Federal law to authorize the Governor of any State to increase the speed limit to a maximum of 65 miles per hour on segments of rural interstate or rural four-lane highways in the State if the Governor determines that such a speed limit increase is not likely to lead to a significant decline in highway safety on such segments. Requires the Governor, before raising the speed limit, to submit to the Secretary of Transportation information supporting the determination of the projected effects on highway safety. Directs the Secretary to notify the Governor if the Secretary determines that a speed limit increase is likely to lead to a significant decline in highway safety on the affected roadway. Requires the Governor of each State in which a higher speed limit is in effect to report to the Secretary every seven years concerning the safety factors taken into account in setting the speed limit. Authorizes the Governor to withdraw the higher speed limit permission upon determination that the safety requirements upon which the higher speed was based are no longer being met.</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="100" type="sj" number="231" updated="2016-06-29T08:45:08-04:00">
+  <state datetime="1988-03-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-03-28"/>
+  </status>
+  <introduced datetime="1987-12-09"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to authorize the entry into force of the "Compact of Free Association" between the United States and the Government of Palau, and for other purposes.</title>
+  </titles>
+  <sponsor id="406084"/>
+  <cosponsors>
+    <cosponsor id="407355" joined="1987-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-01-28">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-03-23" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-03-23">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute and with a preamble. With written report No. 100-307.</text>
+    </action>
+    <calendar datetime="1988-03-23" calendar="Senate Legislative" under="General Orders" number="598">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 598.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Referred to Subcommittee on Insular and International Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII07" subcommittee="Insular and International Affairs" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Territories (U.S.)"/>
+    <term name="Civil actions and liability"/>
+    <term name="Developing countries"/>
+    <term name="Electric utilities"/>
+    <term name="Palau Islands"/>
+    <term name="Treaties"/>
+    <term name="Trust Territory of the Pacific Islands"/>
+  </subjects>
+  <amendments/>
+  <summary>3/28/1988--Passed Senate amended.
+(Measure passed Senate, amended) Authorizes the entry into force of the Compact of Free Association between the United States and the Government of Palau. Provides for the resolution of any action brought in the Supreme Court of Palau challenging the procedure under which the Compact was approved, by allowing the Compact to take effect only if: (1) the Supreme Court of Palau issues a final ruling which sustains the August 29, 1987, certification that the Compact was approved pursuant to the Constitution of Palau; (2) the action is otherwise disposed of under Palauan law; or (3) the Compact is otherwise approved by the Government of Palau in a manner which satisfies the requirements of the Constitution and the Compact. Prohibits any officer or agent of the United States from paying or transferring any funds payable to the Government of Palau pursuant to the Act approving the Compact to any party other than such Government, except under the procedures established by the Compact and its related agreements. Prohibits using funds appropriated for assistance to Palau to satisfy any obligation or expense incurred by Palau prior to November 14, 1986, with respect to contracts or debts related to any electrical generating plant or related facilities which have not been specifically authorized by the Congress in advance, with exceptions.</summary>
+</bill>

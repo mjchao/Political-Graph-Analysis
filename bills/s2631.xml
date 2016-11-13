@@ -1,0 +1,208 @@
+<bill session="100" type="s" number="2631" updated="2014-03-22T09:55:53-04:00">
+  <state datetime="1988-07-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-07-28"/>
+  </status>
+  <introduced datetime="1988-07-12"/>
+  <titles>
+    <title type="short" as="introduced">Drought Assistance Act of 1988</title>
+    <title type="short" as="introduced" partial="1">Emergency Livestock Feed Assistance Act of 1988</title>
+    <title type="short" as="reported to senate">Drought Assistance Act of 1988</title>
+    <title type="short" as="reported to senate" partial="1">Emergency Livestock Feed Assistance Act of 1988</title>
+    <title type="official" as="introduced">A bill to provide drought assistance to agricultural producers, and for other purposes.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1988-07-12"/>
+    <cosponsor id="300009" joined="1988-07-28"/>
+    <cosponsor id="300010" joined="1988-07-12"/>
+    <cosponsor id="401604" joined="1988-07-12"/>
+    <cosponsor id="401611" joined="1988-07-12"/>
+    <cosponsor id="300012" joined="1988-07-12"/>
+    <cosponsor id="402023" joined="1988-07-12"/>
+    <cosponsor id="300023" joined="1988-07-12"/>
+    <cosponsor id="300026" joined="1988-07-12"/>
+    <cosponsor id="403171" joined="1988-07-12"/>
+    <cosponsor id="300031" joined="1988-07-12"/>
+    <cosponsor id="403483" joined="1988-07-12"/>
+    <cosponsor id="403515" joined="1988-07-12"/>
+    <cosponsor id="403669" joined="1988-07-12"/>
+    <cosponsor id="403962" joined="1988-07-12"/>
+    <cosponsor id="404219" joined="1988-07-14"/>
+    <cosponsor id="404277" joined="1988-07-12"/>
+    <cosponsor id="404679" joined="1988-07-12"/>
+    <cosponsor id="300048" joined="1988-07-12"/>
+    <cosponsor id="300051" joined="1988-07-12"/>
+    <cosponsor id="405310" joined="1988-07-12"/>
+    <cosponsor id="405321" joined="1988-07-12"/>
+    <cosponsor id="406183" joined="1988-07-12"/>
+    <cosponsor id="406188" joined="1988-07-12"/>
+    <cosponsor id="406190" joined="1988-07-12"/>
+    <cosponsor id="300059" joined="1988-07-12"/>
+    <cosponsor id="300066" joined="1988-07-12"/>
+    <cosponsor id="300070" joined="1988-07-12"/>
+    <cosponsor id="407355" joined="1988-07-12"/>
+    <cosponsor id="300072" joined="1988-07-12"/>
+    <cosponsor id="407622" joined="1988-07-12"/>
+    <cosponsor id="407663" joined="1988-07-12"/>
+    <cosponsor id="300073" joined="1988-07-25"/>
+    <cosponsor id="400563" joined="1988-07-12"/>
+    <cosponsor id="408898" joined="1988-07-12"/>
+    <cosponsor id="408939" joined="1988-07-12"/>
+    <cosponsor id="408970" joined="1988-07-12"/>
+    <cosponsor id="409225" joined="1988-07-12"/>
+    <cosponsor id="300084" joined="1988-07-12"/>
+    <cosponsor id="409562" joined="1988-07-28"/>
+    <cosponsor id="300086" joined="1988-07-14"/>
+    <cosponsor id="409580" joined="1988-07-12"/>
+    <cosponsor id="300089" joined="1988-07-25"/>
+    <cosponsor id="409917" joined="1988-07-12"/>
+    <cosponsor id="300092" joined="1988-07-12"/>
+    <cosponsor id="410315" joined="1988-07-12"/>
+    <cosponsor id="300157" joined="1988-07-28"/>
+    <cosponsor id="411271" joined="1988-07-12"/>
+    <cosponsor id="411762" joined="1988-07-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Committee on Agriculture. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-07-14" state="REPORTED">
+      <text>Committee on Agriculture. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-07-25">
+      <text>Committee on Agriculture. Reported to Senate by Senator Leahy with an amendment in the nature of a substitute. With written report No. 100-426. Additional views filed.</text>
+    </action>
+    <calendar datetime="1988-07-25" calendar="Senate Legislative" under="General Orders" number="836">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 836.</text>
+    </calendar>
+    <action datetime="1988-07-28">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="273" datetime="1988-07-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 94-0. Record Vote No: 273.</text>
+    </vote>
+    <action datetime="1988-07-29">
+      <text>Senate vitiated previous passage.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Senate incorporated this measure in H.R. 5015 as an amendment.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Senate passed companion measure H.R. 5015 in lieu of this measure by Voice Vote.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Placed on Senate Legislative Calendar under Subjects on the Table.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5015"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Accounting"/>
+    <term name="Agribusiness"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural insurance"/>
+    <term name="Agricultural labor"/>
+    <term name="Agricultural machinery"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Collection of accounts"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Corn"/>
+    <term name="Costs"/>
+    <term name="Cotton"/>
+    <term name="Dairy products"/>
+    <term name="Diesel motor"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Droughts"/>
+    <term name="Economic development"/>
+    <term name="Economics and public finance"/>
+    <term name="Embargo"/>
+    <term name="Environmental protection"/>
+    <term name="Excise tax"/>
+    <term name="Exports"/>
+    <term name="Family farms"/>
+    <term name="Farmers"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Feed grain program"/>
+    <term name="Feeds"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Fisheries"/>
+    <term name="Flowers"/>
+    <term name="Futures trading"/>
+    <term name="Government lending"/>
+    <term name="Grain storage"/>
+    <term name="Grazing"/>
+    <term name="Income tax"/>
+    <term name="Information services"/>
+    <term name="Inventories"/>
+    <term name="Irrigation"/>
+    <term name="Legislation"/>
+    <term name="Livestock"/>
+    <term name="Milk"/>
+    <term name="Native Americans"/>
+    <term name="Nuts"/>
+    <term name="Oilseeds"/>
+    <term name="Peanuts"/>
+    <term name="Rice"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Rural conditions"/>
+    <term name="Soil conservation"/>
+    <term name="Soybeans"/>
+    <term name="Sugar and sugar trade"/>
+    <term name="Surveys"/>
+    <term name="Tax deductions"/>
+    <term name="Taxation"/>
+    <term name="Tobacco"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water conservation"/>
+    <term name="Water supply"/>
+    <term name="Water use"/>
+    <term name="Wheat"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2725"/>
+    <amendment number="s2726"/>
+    <amendment number="s2727"/>
+    <amendment number="s2728"/>
+    <amendment number="s2729"/>
+    <amendment number="s2730"/>
+    <amendment number="s2731"/>
+    <amendment number="s2732"/>
+    <amendment number="s2733"/>
+    <amendment number="s2734"/>
+    <amendment number="s2735"/>
+    <amendment number="s2736"/>
+    <amendment number="s2737"/>
+    <amendment number="s2738"/>
+    <amendment number="s2739"/>
+    <amendment number="s2740"/>
+    <amendment number="s2741"/>
+    <amendment number="s2742"/>
+    <amendment number="s2743"/>
+    <amendment number="s2744"/>
+    <amendment number="s2745"/>
+    <amendment number="s2746"/>
+    <amendment number="s2747"/>
+    <amendment number="s2748"/>
+  </amendments>
+  <summary>9/20/1988--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate) Drought Assistance Act of 1988 - Title I: Emergency Livestock Assistance - Amends the Agricultural Act of 1949 to add a new title VI which may be cited as the "Emergency Livestock Feed Assistance Act of 1988." Includes Indian tribes, organizations, and specified enterprises within the definition of "livestock producers" for purposes of assistance under this title. States that the term "area" shall include Indian reservations. Directs the Secretary of Agriculture to provide emergency feed assistance in any State, county, or area of a State where disease, weather, or other natural disaster has created a livestock emergency. States that the Governor of a State or a county committee may request the Secretary to make a livestock emergency determination and to provide assistance. Authorizes the Secretary to make such determination on his own initiative. Requires the Secretary to make such determination within 30 days of request and to notify the requesting party of any proposed action. States that producers in counties eligible for the emergency feed or emergency feed assistance programs in 1988 shall maintain such eligibility and be eligible for assistance under this title. Directs the Secretary to determine such counties' eligibility for assistance under this title. Prohibits the Secretary from considering feed purchased by a producer within 60 days of a county's eligibility for feed assistance when making a determination of a producer's eligibility for drought related feed assistance. States that an eligible producer may receive assistance as follows: (1) assistance to offset inadequate feed stocks resulting from on-farm feed production losses; and (2) assistance to maintain foundation herds if the producer does not have, and is unable to obtain through normal channels without undue cost, necessary feed stocks. Sets forth the following assistance programs available under this title: (1) Commodity Credit Corporation (CCC) feed donations and reduced price sales; (2) partial reimbursement of feed purchase expenses; and (3) partial reimbursement of transportation and handling costs for such CCC feed, for hay, and for transporting livestock to and from available grazing areas (not to exceed $24 a head). Permits the Secretary to: (1) make in-kind payments; and (2) provide assistance through feed dealers or manufacturers. Authorizes the Secretary to provide the following additional assistance if necessary: (1) CCC feed donations for stranded and unidentified livestock, including transportation costs; (2) water assistance; and (3) CCC catalog commodities in lots appropriate to family farmers. Limits total assistance under this title for each livestock disaster to any one person to $50,000. Prohibits assistance to any person with gross annual revenues in excess of $2,500,000. Subjects each person (including individual members of a cooperative producer association) to the overall payment limitation ($100,000) under this Act. Prohibits a person from receiving assistance under this title for lost feed production due to the 1988 drought to the extent that such person receives production disaster payments under this Act Subjects persons who misuse such assistance to a civil penalty equal to the market value of the involved feed and a fine of up to $1000 or imprisonment for up to one year, or both. Directs the Secretary to provide assistance to otherwise eligible producers who conduct farming, ranching, or aquaculture operations in any county contiguous to a disaster-designated county. Directs the Secretary to: (1) evaluate CCC feed stocks on a State by State basis, conduct an assessment of producer needs, and list States with surplus feed stocks; and (2) report to the appropriate congressional committees and to the States. Amends the Agricultural Act of 1949 to repeal the Secretary's authority to reduce 1989 milk price supports (50-cents per hundred weight). Title II: Disaster Payments - Provides that, for producers of the 1988 crops of wheat, feed grains, upland cotton, extra long staple cotton, or rice who participated in the production adjustment program under the Agricultural Act of 1949, the Secretary shall make disaster payments to those producers who have suffered at least 35 percent production losses due to the 1988 drought or related condition. States that such payments shall be made at a rate equal to 65 percent (but not more than 75 percent) of the established price for deficiencies in excess of 35 percent, and at 85 percent for that part of the deficiency in excess of 75 percent. Limits eligible acres to a farm's permitted program acreage. Exempts such producers from advance deficiency repayments for up to 35 percent of crop losses. Permits eligible producers who had elected not to receive such payments prior to enactment of this Act to change their decision. States that effective for the 1988 crops of wheat, feed grains, upland cotton, extra long staple cotton, and rice, if the Secretary requires repayment of any part of the advance deficiency payments such repayment shall not be required before July 31, 1989. Provides similar disaster payments to producers who did not participate in such production adjustment program. Bases payments on the basic county loan rate (or comparable price). Provides similar disaster payments to producers of the 1988 crops of peanuts, tobacco, sugar beets, and sugarcane. Bases payments for peanuts and tobacco on the basic county loan rate (or comparable price), and for sugar beets and sugarcane on 1988 price support levels. Provides for prevented planting credit. Sets forth special payment provisions for peanuts, including deficiency payments based on quota and additional peanuts. Makes 1988 sugar beet and sugarcane producers eligible for disaster assistance if they were unable to process such commodities into sugar due to the inability of processing plants to process sugar as a result of the drought or related condition. Provides similar disaster payments to producers of the 1988 soybean and nonprogram crops. Bases payments on a specified percentage of the average market price received in three of the last five years (excluding high and low years). Provides for prevented planting credit. Provides disaster payments to producers of nonprogram crops who have planted tree seedlings during the five-year period ending on the date of enactment of this Act and whose seedling losses from the 1988 drought exceed 35 percent. Reduces payments to producers with Federal crop insurance under a specified crop-type determination. Authorizes the Secretary to transfer CCC funds during FY 1988 to the Agricultural Stabilization and Conservation Service to carry out the provisions of this title. Directs the Secretary, within 15 days after enactment of this Act, to announce the terms by which producers may provide their yield on crops harvested for silage or other forage uses. Directs the Secretary to make full disaster payments under this title in the form of cash, commodities, or commodity certificates. Limits individuals to $100,000 in disaster payments. Prohibits a person with gross revenues in excess of $2,000,000 from receiving such assistance. Limits a person to $100,000 of combined assistance for crop disaster assistance and livestock disaster assistance. Permits a person to elect which form of assistance to receive. Prohibits a person from receiving disaster payments attributable to 1988 drought-caused crop losses to the extent that such person receives livestock emergency benefits for such lost production under the Agricultural Act of 1949. Authorizes the Secretary to make disaster payments based on crop quality reductions (on losses of between 35 percent and 75 percent). Title III: General Provisions - Subtitle A: Commodity Stock Adjustment - Amends the Agricultural Act of 1949 to authorize the Secretary, if an acreage limitation program is in effect for 1989 and 1990, to permit producers to plant soybeans or sunflowers on between ten percent and 35 percent of permitted crop acreage. Directs the Secretary to submit to the appropriate congressional committees a statement of permission or nonpermission for such plantings by specified times for each of the 1989 and 1990 crop years. Requires such statement to include: (1) the estimated impact on affected crops; (2) an economic evaluation of market effects; and (3) an estimate of foreign oilseed production and its effect on domestic oilseed markets. Directs the Secretary to submit to the appropriate congressional committees by specified times for each of the 1989 and 1990 soybean crops a statement setting forth the reasons for implementation or nonimplementation of the soybean marketing loan program. Requires such statement to include: (1) an economic evaluation of domestic and foreign soybean markets; (2) the U.S. soybean export market outlook; (3) a computation of the prevailing world price; and (4) the fiscal impact of soybean marketing loans. Directs the Secretary to provide export assistance for cottonseeds and sunflower seeds if such crop prices are adversely affected by soybean and sunflower plantings under this title. Directs the Secretary to permit producers to designate any portion of their 1989 or 1990 farm acreage base for oats if the feed grain acreage base for such years is less than 12.5 percent. Expresses the sense of the Congress that, with respect to the 1989 and 1990 feed grain crops, if such crops' acreage limitation percentage exceeds 12.5 percent the Secretary should establish the lowest possible oats acreage limitation if market imbalances for barley and oats exist. Provides that, effective for the 1988 marketing year for wheat and feed grains, producers may repay specified commodity loans without additional interest or other specified charges if the producer reserve program trigger level has been met. Provides that, if during the 1988 marketing year the Secretary permits producers to place wheat and feed grains into the producer reserve, no storage payments nor interest forgiveness shall be permitted on such stored commodities during the marketing year. Permits generic commodity certificates redeemable for CCC commodities to be used to repay loans made through the producer-owned reserve. Subtitle B: Disaster Credit and Forbearance - Directs the Secretary to ensure, to the maximum extent practicable, that Farmers Home Administration direct operating loans for 1989 crop production are made available to producers suffering major losses resulting from the 1988 drought or related condition. Directs the Secretary to make available in FY 1989 specified operating loan guarantees, in addition to existing purposes for such guarantees, to refinance and reamoritize 1988 operating debt resulting from major farming or ranching losses resulting from the 1988 drought or related condition. Expresses the sense of the Congress that the Secretary should exercise forbearance in debt collection and encourage similar actions by commercial lenders and expedite loan restructuring with respect to producers suffering major drought losses. Authorizes the Secretary to waive crop insurance requirements with respect to producers affected by the drought or related condition who are applying for Consolidated Farm and Rural Development Act emergency loans. Subtitle C: Conservation and Water Assistance - Provides that with respect to a producer who harvested hay during the 1988 crop year on conservation reserve program acreage, such producer's rental payments shall not be reduced to the extent that he or she shares the cost of carrying out practices designed to enhance soil, water, and wildlife conservation on such land (or in the vicinity of such land) in accordance with a Soil Conservation Service approved plan. Authorizes the Secretary to: (1) undertake water-problem related projects, including research, grants, technical assistance, loans, and extension services; (2) cooperate with other Federal agencies, State or local units, universities, Indian tribes, or public or private entities; and (3) accept funds from non-Federal sources to carry out such activities. Authorizes appropriations. Directs the Secretary to make emergency water assistance available under the emergency conservation program for extending wells, drilling temporary irrigation wells, and installing temporary irrigation water delivery systems. Subtitle D: Rural Businesses - Directs the Secretary to make rural industrialization loans or loan guarantees during FY 1989 to assist rural businesses (including cooperatives) adversely affected by the 1988 drought or related condition. Requires any such loan to meet applicable Consolidated Farm and Rural Development Act eligibility requirements. Directs the Secretary, within 90 days of enactment of this Act, to conduct a survey of agriculture-related rural businesses to determine the adverse effects of the 1988 drought and report to the appropriate congressional committees. Directs the Secretary, within 60 days after the enactment of this Act, to prepare and submit to the appropriate congressional committees a report on the financial impact that forward contracting, hedging, and associated margin requirements for wheat, feed grains, and soybeans have had on producers and on grain markets during the drought period. Directs the Secretary to consult with the Chairman of the Commodity Futures Trading Commission on issues concerning futures markets. Subtitle E: Miscellaneous - Amends the Food Security Act of 1985 to exempt State or local special conservation reserve enhancement assistance from specified individual payment limits under such Act and under the Agricultural Reconciliation Act of 1987. Directs the Secretary, within 30 days after enactment of this Act, to prepare and submit to the appropriate congressional committees a Federal drought relief contingency plan. States that if during any month after July 31, 1988, the average corn price exceeds a certain fuel conversion price: (1) the Secretary shall make not more than 16,000,000 bushels of CCC corn available per month to domestic ethanol producers; (2) the price of such corn shall be not more than the fuel conversion price but not less than 110 percent of the basic county loan rate for corn; (3) maximum individual amounts shall not exceed 2,000,000 bushels per month; and (4) producers shall not resell such corn and shall make certain amounts of feed byproducts available for domestic livestock producers. Authorizes program termination if: (1) such program is no longer necessary to maintain the economic vitality of the ethanol industry; or (2) a specified sufficient supply of CCC corn would not otherwise be available for the emergency livestock feeding programs, except that the program shall be terminated no later than September 1, 1989. Permits, upon request by a domestic producer of ethanol, the substitution of another feed grain (including grain sorghum) for corn. Directs the Secretary to: (1) conduct a study of food and commodity prices as of December 31, 1988, to determine the effect of the 1988 drought on recipients of Federal nutrition and hunger benefits; and (2) report to the Congress by March 1, 1989. Directs the Extension Service to provide drought information to persons in counties designated as disaster areas because of the drought. Expresses the sense of the Congress that the Congress should urgently proceed with comprehensive rural economic legislation. Provides assistance by transfer from the disaster relief program through the Secretary of Labor to low-income agricultural workers adversely affected by the 1988 drought. Directs the Secretary to ensure that payments under this Act to a producer, when combined with other farm program payments and crop marketings, will not exceed 100 percent of such producer's expected returns for 1988 under normal conditions. Expresses the sense of the Congress that there should be no embargo on exports of domestic agricultural commodities and products. Expresses the sense of the Senate that the Congress should enact legislation to: (1) provide an exemption from the Federal excise tax on farm and fishing use diesel fuel rather than an after-purchase refund; and (2) repeal the "heifer tax" capitalization rules.</summary>
+</bill>

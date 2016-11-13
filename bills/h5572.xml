@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="5572" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1988-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-10-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Unemployment Tax Act with respect to the provisions of State law required by such Act.</title>
+  </titles>
+  <sponsor id="407960"/>
+  <cosponsors>
+    <cosponsor id="403581" joined="1988-10-21"/>
+    <cosponsor id="406284" joined="1988-10-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-21" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Civil procedure"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Evidence (Law)"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Unemployment insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1988--Introduced.
+Amends the Federal Unemployment Tax Act to condition the Secretary of Labor's approval of a State's unemployment compensation law on the law's inclusion of provisions that prohibit findings, judgments, conclusions, or final orders with respect to claims for unemployment compensation benefits under the State law from being used as evidence or from being considered as conclusive or binding in any separate or subsequent proceedings in another forum, even if the parties are the same or facts are the same as in the previous action. Excepts proceedings under the State's unemployment compensation law from these restrictions.</summary>
+</bill>

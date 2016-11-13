@@ -1,0 +1,76 @@
+<bill session="100" type="hc" number="140" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-11-04">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1987-11-04"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution authorizing printing of the compilation of materials entitled "Guide to Research Collections of Former Members of the United States House of Representatives, 1789-1987".</title>
+  </titles>
+  <sponsor id="401560"/>
+  <cosponsors>
+    <cosponsor id="404190" joined="1987-06-16"/>
+    <cosponsor id="404587" joined="1987-06-16"/>
+    <cosponsor id="405377" joined="1987-06-16"/>
+    <cosponsor id="409793" joined="1987-06-16"/>
+    <cosponsor id="400374" joined="1987-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-22">
+      <text>House Committee on House Administration Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Received in the Senate and referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1987-11-04">
+      <text>Senate Committee on Rules discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-11-04" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-11-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional publications"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress (House)"/>
+    <term name="Political science research"/>
+    <term name="Printing"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1987--Introduced.
+Authorizes the printing of a compilation of materials entitled "Guide to Research Collections of Former Members of the United States House of Representatives, 1789-1987" as a House document. Requires additional printing of such document for the use of the Office for the Bicentennial of the House of Representatives.</summary>
+</bill>

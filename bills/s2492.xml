@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="2492" updated="2014-03-22T09:55:50-04:00">
+  <state datetime="1988-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-10"/>
+  </status>
+  <introduced datetime="1988-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the Mississippi River National Park in the State of Mississippi.</title>
+  </titles>
+  <sponsor id="300023"/>
+  <cosponsors>
+    <cosponsor id="410315" joined="1988-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-11">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Mississippi"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Rivers"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1988--Introduced.
+Establishes the Mississippi River National Park in Mississippi. Provides for the administration of the Park. Establishes the Mississippi River National Park Advisory Commission. Authorizes appropriations.</summary>
+</bill>

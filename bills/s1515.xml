@@ -1,0 +1,70 @@
+<bill session="100" type="s" number="1515" updated="2016-06-29T08:45:53-04:00">
+  <state datetime="1988-08-03">REPORTED</state>
+  <status>
+    <unknown datetime="1988-08-03"/>
+  </status>
+  <introduced datetime="1987-07-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit injunctive relief, or an award of damages, against a judicial officer for action taken in an official capacity.</title>
+  </titles>
+  <sponsor id="405310"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1988-10-06"/>
+    <cosponsor id="403142" joined="1988-09-22"/>
+    <cosponsor id="403346" joined="1988-05-18"/>
+    <cosponsor id="403962" joined="1988-09-22"/>
+    <cosponsor id="404219" joined="1988-09-22"/>
+    <cosponsor id="300048" joined="1988-01-26"/>
+    <cosponsor id="300052" joined="1987-07-21"/>
+    <cosponsor id="300089" joined="1988-09-26"/>
+    <cosponsor id="409923" joined="1988-08-02"/>
+    <cosponsor id="300157" joined="1988-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1988-02-26">
+      <text>Subcommittee on Courts and Administrative Practice. Hearings held.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration with an amendment favorably.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Committee on Judiciary. Committee consideration and Mark Up Session held.</text>
+    </action>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-09-28">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden with amendments and an amendment to the title. With written report No. 100-556. Minority views filed.</text>
+    </action>
+    <calendar datetime="1988-09-28" calendar="Senate Legislative" under="General Orders" number="1011">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1011.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Administrative responsibility"/>
+    <term name="Civil actions and liability"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Injunctions"/>
+    <term name="Judges"/>
+    <term name="Judicial officers"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal fees"/>
+    <term name="Privileges and immunities"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1988--Reported to Senate amended.
+(Reported to Senate from the Committee on the Judiciary with amendment, S. Rept. 100-556) Amends the Civil Rights Attorney's Fees Awards Act of 1976 and other Federal civil rights law to provide that a judicial official (includes both State and Federal judges) shall not be liable for any costs, including attorney fees, or injunctive relief in any proceeding brought against the official for an act or omission committed in his or her judicial capacity. Creates an exception if the action was clearly in excess of the official's jurisdiction or, in the case of injunctive relief, if a declaratory decree was violated or declaratory relief was unavailable. Prohibits a Federal court from issuing an injunctive or declaratory order against a State judicial officer for an act or omission committed in the official's judicial capacity unless there is no adequate remedy in State court and there is imminent danger of irreparable harm to the petitioner.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="1710" updated="2014-03-22T09:51:57-04:00">
+  <state datetime="1987-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-18"/>
+  </status>
+  <introduced datetime="1987-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of Health and Human Services to establish a grant program to fund research, training, and patient services in pediatric pulmonary medicine.</title>
+  </titles>
+  <sponsor id="411224"/>
+  <cosponsors>
+    <cosponsor id="405687" joined="1987-08-05"/>
+    <cosponsor id="400256" joined="1987-10-07"/>
+    <cosponsor id="409353" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-18" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to child health services"/>
+    <term name="Lung diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1987--Introduced.
+Directs the Secretary of Health and Human Services to establish a grant program in pediatric pulmonary medicine. Sets forth criteria to govern grant applications and the use of grant funds. Requires selection of at least four grant recipients each year from diverse geographical areas. Directs the Secretary to establish an advisory council to assist in the formulation of policy for the administration of the grant program. Provides for the termination of the advisory council three years following the date of this Act's enactment. Authorizes appropriations for FY 1988 through 1990.</summary>
+</bill>

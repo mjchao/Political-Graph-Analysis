@@ -1,0 +1,74 @@
+<bill session="100" type="hc" number="91" updated="2014-03-22T09:54:07-04:00">
+  <state datetime="1987-05-12">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1987-05-12"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution authorizing the 1987 Special Olympics Torch Relay to be run through the Capitol Grounds.</title>
+  </titles>
+  <sponsor id="407673"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-03-30"/>
+    <cosponsor id="400569" joined="1987-03-30"/>
+    <cosponsor id="400076" joined="1987-03-30"/>
+    <cosponsor id="403545" joined="1987-03-30"/>
+    <cosponsor id="404325" joined="1987-03-30"/>
+    <cosponsor id="405687" joined="1987-03-30"/>
+    <cosponsor id="400238" joined="1987-03-30"/>
+    <cosponsor id="407899" joined="1987-03-30"/>
+    <cosponsor id="408407" joined="1987-03-30"/>
+    <cosponsor id="410145" joined="1987-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+    <calendar datetime="1987-05-07" state="REPORTED">
+      <text>Committee on Rules. Ordered to be reported in lieu of S.CON.RES. 44 without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-05-08">
+      <text>Committee on Rules. Reported to Senate by Senator Ford without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1987-05-08" calendar="Senate Legislative" under="General Orders" number="119">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 119.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-05-12" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-05-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sc" number="44"/>
+    <bill relation="identical" session="100" type="sc" number="44"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Disabled"/>
+    <term name="District of Columbia"/>
+    <term name="Olympic games"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1987--Introduced.
+Permits the 1987 Special Olympics Torch Relay to be run through the Capitol Grounds.</summary>
+</bill>

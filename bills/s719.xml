@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="719" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that certain minimum tax and accounting rules (added by the Tax Reform Act of 1986) applicable to installment obligations shall not apply to obligations arising from sales of property by nondealers.</title>
+  </titles>
+  <sponsor id="408939"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-05-29"/>
+    <cosponsor id="401604" joined="1987-03-11"/>
+    <cosponsor id="403346" joined="1987-03-24"/>
+    <cosponsor id="405321" joined="1987-03-11"/>
+    <cosponsor id="300089" joined="1987-05-19"/>
+    <cosponsor id="410588" joined="1987-03-24"/>
+    <cosponsor id="410936" joined="1987-05-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Income tax"/>
+    <term name="Minimum tax"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Amends the Internal Revenue Code to provide that specified minimum tax and accounting rules applicable to installment obligations shall not apply to obligations arising from sales of property by nondealers. Allows taxpayers to elect to have the amendments made by this Act regarding minimum tax not apply to dispositions made before January 1, 1987.</summary>
+</bill>

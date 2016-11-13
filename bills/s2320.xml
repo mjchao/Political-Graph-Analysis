@@ -1,0 +1,46 @@
+<bill session="100" type="s" number="2320" updated="2014-03-22T09:55:46-04:00">
+  <state datetime="1988-04-26">REPORTED</state>
+  <status>
+    <unknown datetime="1988-04-26"/>
+  </status>
+  <introduced datetime="1988-04-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Rail Passenger Service Act to authorize appropriations for the National Railroad Passenger Corporation, and for other purposes.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors>
+    <cosponsor id="300064" joined="1988-04-25"/>
+    <cosponsor id="409917" joined="1988-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <calendar datetime="1988-04-26" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-06-15">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings without amendment. With written report No. 100-385.</text>
+    </action>
+    <calendar datetime="1988-06-15" calendar="Senate Legislative" under="General Orders" number="734">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 734.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Freedom of information"/>
+    <term name="Government records, documents, and information"/>
+    <term name="National Railroad Passenger Corporation (Amtrak)"/>
+    <term name="Railroad finance"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/1988--Introduced.
+Amends the Rail Passenger Service Act to authorize appropriations for FY 1989 through 1991 for the National Railroad Passenger Corporation (Amtrak). Exempts the Corporation from Freedom of Information Act requirements to grant requests for records which are: (1) intended for commercial use; or (2) intended for litigation or legal proceedings.</summary>
+</bill>

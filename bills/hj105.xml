@@ -1,0 +1,57 @@
+<bill session="100" type="hj" number="105" updated="2014-03-22T09:53:42-04:00">
+  <state datetime="1987-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-27"/>
+  </status>
+  <introduced datetime="1987-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution disapproving the salary increases recommended by the President for certain executive, legislative, and judicial positions.</title>
+  </titles>
+  <sponsor id="402750"/>
+  <cosponsors>
+    <cosponsor id="401947" joined="1987-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-27" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Ad Hoc Task Force on Presidential Pay Recommendation.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-02-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-02-03">
+      <text>Subcommittee Failed to Report to Full Committee.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPO08" subcommittee="Hoc Task Force on Presidential Pay Recommendation" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="81"/>
+    <bill relation="identical" session="100" type="hj" number="107"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service compensation"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Congressional veto"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Judges"/>
+    <term name="Judicial compensation"/>
+    <term name="Members of Congress"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1987--Introduced.
+Disapproves the recommendations of the President relating to pay rates of Members of Congress, Federal judges, and Federal officials under the Executive Schedule.</summary>
+</bill>

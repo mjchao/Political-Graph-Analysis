@@ -1,0 +1,47 @@
+<bill session="100" type="hr" number="480" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-06-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-21"/>
+  </status>
+  <introduced datetime="1988-06-21"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to encourage the establishment of genuine democracy in Pakistan.</title>
+  </titles>
+  <sponsor id="410145"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-06-21"/>
+    <cosponsor id="401526" joined="1988-06-21"/>
+    <cosponsor id="400236" joined="1988-06-21"/>
+    <cosponsor id="410531" joined="1988-06-21"/>
+    <cosponsor id="300156" joined="1988-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-21" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>For Further Action See H.Res.484.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hr" number="484"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Pakistan"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/1988--Introduced.
+Calls upon President Zia of Pakistan, consistent with his pledge of May 29, 1988, to hold free and fair party-based elections within 90 days of that date. Urges the appointment of an independent electoral commission to supervise such elections. Declares that the United States should consider the extent to which Pakistan has moved toward creation of a full-fledged democracy in determining future levels of assistance.</summary>
+</bill>

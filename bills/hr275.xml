@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="275" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-09-29">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-09-29"/>
+  </status>
+  <introduced datetime="1987-09-29"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 2310) to amend the Airport and Airway Improvement Act of 1982 for the purposes of extending the authorization of appropriations for airport and airway improvements, and for other purposes.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-29">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-321.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Placed on House Calendar No: 82.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Failed of Passage in House by Yea-Nay Vote: 178 - 235 (Record Vote No: 338).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="2310"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 2310 (airport development).</summary>
+</bill>

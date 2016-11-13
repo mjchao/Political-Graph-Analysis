@@ -1,0 +1,63 @@
+<bill session="100" type="s" number="1084" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-10-01">REPORTED</state>
+  <status>
+    <unknown datetime="1987-10-01"/>
+  </status>
+  <introduced datetime="1987-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the amount of the costs of the Department of Energy's uranium enrichment program that have not previously been recovered from enrichment customers in the charges of the Department of Energy to its customers.</title>
+  </titles>
+  <sponsor id="404219"/>
+  <cosponsors>
+    <cosponsor id="406084" joined="1987-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Referred to Subcommittee on Research and Development.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Subcommittee on Research and Development. Hearings held.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Subcommittee on Research and Development. Hearings held.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Committee on Energy and Natural Resources requested executive comment from Justice Department, Nuclear Regulatory Commission, OMB.</text>
+    </action>
+    <action datetime="1987-07-14">
+      <text>Committee on Energy and Natural Resources received executive comment from Nuclear Regulatory Commission. Favorable.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Committee on Energy and Natural Resources. Committee consideration held.</text>
+    </action>
+    <calendar datetime="1987-10-01" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Provisions of measure incorporated into measure S. 1846 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG01" subcommittee="Research and Development" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1846"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Accounting"/>
+    <term name="Collection of accounts"/>
+    <term name="Costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy policy"/>
+    <term name="Fissionable materials"/>
+    <term name="Nuclear energy"/>
+    <term name="Uranium enrichment"/>
+  </subjects>
+  <amendments>
+    <amendment number="s176"/>
+  </amendments>
+  <summary>4/23/1987--Introduced.
+Amends the Atomic Energy Act of 1954 to state that the Government's costs of providing uranium enrichment services that have not been recovered prior to FY 1987 amount to $364,000,000. Provides that such amount, with interest on the unpaid balance, will be covered in charges for services within a 20-year period commencing October 1, 1987.</summary>
+</bill>

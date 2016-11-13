@@ -1,0 +1,41 @@
+<bill session="100" type="hr" number="510" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-02"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for printing of a collection of statements made in tribute to the late Senator Robert F. Kennedy.</title>
+  </titles>
+  <sponsor id="400238"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-02" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Tabled by Subcommittee.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Markup" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional publications"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress (Senate)"/>
+    <term name="Printing"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Authorizes the printing of a collection of statements made in tribute to the late Senator Robert F. Kennedy as a House document. Authorizes the printing of an additional number of such documents for the use of the Committee on House Administration.</summary>
+</bill>

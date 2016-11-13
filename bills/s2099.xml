@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="2099" updated="2014-03-22T09:55:36-04:00">
+  <state datetime="1988-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-26"/>
+  </status>
+  <introduced datetime="1988-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit taxpayers to elect to pay tax shown on return in installments and to authorize the Secretary to enter into installments agreements.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="405305" joined="1988-03-24"/>
+    <cosponsor id="300066" joined="1988-02-26"/>
+    <cosponsor id="407622" joined="1988-03-28"/>
+    <cosponsor id="300094" joined="1988-05-25"/>
+    <cosponsor id="411801" joined="1988-04-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4534"/>
+    <bill relation="identical" session="100" type="h" number="4534"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Collection of accounts"/>
+    <term name="Consumer credit"/>
+    <term name="Income tax"/>
+    <term name="Tax administration"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1988--Introduced.
+Amends the Internal Revenue Code to permit an individual taxpayer who files a timely return to elect to pay part or all of his or her income tax liability in three equal installments. Makes the entire amount of unpaid tax due and payable upon the notice and demand of the Secretary of the Treasury when an installment is not timely paid. Authorizes the Secretary to enter into a written agreement with a taxpayer under which the taxpayer may pay any tax liability in installments when the Secretary determines that such an agreement will facilitate the collection of the tax. Invalidates any agreement based on inaccurate or incomplete taxpayer information. Permits the Secretary, after proper notice to the taxpayer, to modify or annul an agreement upon the finding that the financial condition of the affected taxpayer has significantly changed. Permits the modification or termination of an agreement if the taxpayer fails to comply with its terms or fails to pay any tax liability when due.</summary>
+</bill>

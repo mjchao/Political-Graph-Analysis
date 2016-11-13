@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1447" updated="2014-03-22T09:51:49-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="short" as="introduced">Balanced Budget Act</title>
+    <title type="official" as="introduced">A bill to amend the Congressional Budget Act to limit the growth of Federal spending and to achieve balanced budgets, and for other purposes.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="400192" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Congressional budget"/>
+    <term name="Federal budgets"/>
+    <term name="Legislative resolutions"/>
+    <term name="National income"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Balanced Budget Act - Amends the Congressional Budget Act of 1974 to prohibit either House of the Congress from adopting any concurrent resolution on the budget that would cause: (1) total budget outlays to exceed Federal revenues for any fiscal year; or (2) revenues for any fiscal year to exceed the recommended level of revenues for the preceding fiscal year by more than the percentage increase in gross national income for the most recently completed calendar year. Provides for the waiver of such prohibitions by the Congress. Amends such Act and the Budget and Accounting Act, 1921 to require inclusion in the congressional and presidential budgets of revenues from, and budget authority and outlays for, all activities of the Government, except revenues derived from borrowing and outlays for repayment of debt principal.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="2095" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to requirements for insurance for recreational events on federally-owned lands.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Executive Comment Requested from Justice.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Business and commerce"/>
+    <term name="Insurance"/>
+    <term name="Land use"/>
+    <term name="Liability insurance"/>
+    <term name="Licenses"/>
+    <term name="National policy"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Recreation"/>
+    <term name="Recreation and Recreational Facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+States that a U.S. citizen need not obtain liability insurance as a condition for receiving a permit to hold a recreation event on certain federally owned lands.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="996" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill amending section 19 of the Outer Continental Shelf Lands Act to provide for effective State/Federal consultation.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1987-02-04"/>
+    <cosponsor id="401363" joined="1987-02-04"/>
+    <cosponsor id="400100" joined="1987-02-04"/>
+    <cosponsor id="405775" joined="1987-02-04"/>
+    <cosponsor id="400278" joined="1987-02-04"/>
+    <cosponsor id="408457" joined="1987-02-04"/>
+    <cosponsor id="410496" joined="1987-02-04"/>
+    <cosponsor id="410765" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Executive Comment Requested from DOE, Commerce, Interior.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Referred to Subcommittee on Panama Canal and Outer Continental Shelf.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM05" subcommittee="Panama Canal and Outer Continental Shelf" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative procedure"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Continental shelf"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Federal-state relations"/>
+    <term name="Marine resources conservation"/>
+    <term name="Natural gas"/>
+    <term name="Ocean"/>
+    <term name="Oil and gas leases"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum in submerged lands"/>
+    <term name="Prospecting"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Amends the Outer Continental Shelf Lands Act to revise the State and Federal consultation procedures applicable to certain determinations of the Secretary of the Interior regarding proposed lease sales or development and production plans. Requires the Secretary to weigh equally the need for oil and gas production and the need to protect coastal zone resources and the marine environment in reaching such a determination.</summary>
+</bill>

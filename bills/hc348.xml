@@ -1,0 +1,115 @@
+<bill session="100" type="hc" number="348" updated="2014-03-22T09:54:15-04:00">
+  <state datetime="1988-09-16">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-09-16"/>
+  </status>
+  <introduced datetime="1988-08-04"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress concerning the 1988 Seoul Olympic Games.</title>
+  </titles>
+  <sponsor id="405646"/>
+  <cosponsors>
+    <cosponsor id="400567" joined="1988-08-11"/>
+    <cosponsor id="401029" joined="1988-08-11"/>
+    <cosponsor id="400023" joined="1988-09-15"/>
+    <cosponsor id="401446" joined="1988-09-15"/>
+    <cosponsor id="401526" joined="1988-08-11"/>
+    <cosponsor id="401585" joined="1988-09-15"/>
+    <cosponsor id="401847" joined="1988-09-15"/>
+    <cosponsor id="402600" joined="1988-09-15"/>
+    <cosponsor id="400080" joined="1988-08-11"/>
+    <cosponsor id="403184" joined="1988-09-09"/>
+    <cosponsor id="300033" joined="1988-09-15"/>
+    <cosponsor id="403545" joined="1988-09-15"/>
+    <cosponsor id="403695" joined="1988-09-15"/>
+    <cosponsor id="403696" joined="1988-08-11"/>
+    <cosponsor id="404002" joined="1988-09-15"/>
+    <cosponsor id="404325" joined="1988-09-09"/>
+    <cosponsor id="404376" joined="1988-09-15"/>
+    <cosponsor id="404422" joined="1988-09-14"/>
+    <cosponsor id="400585" joined="1988-09-15"/>
+    <cosponsor id="400536" joined="1988-09-09"/>
+    <cosponsor id="404996" joined="1988-09-15"/>
+    <cosponsor id="400192" joined="1988-09-15"/>
+    <cosponsor id="400211" joined="1988-09-09"/>
+    <cosponsor id="406473" joined="1988-09-15"/>
+    <cosponsor id="406530" joined="1988-09-09"/>
+    <cosponsor id="400231" joined="1988-09-15"/>
+    <cosponsor id="400236" joined="1988-09-15"/>
+    <cosponsor id="406995" joined="1988-09-15"/>
+    <cosponsor id="400562" joined="1988-09-15"/>
+    <cosponsor id="407669" joined="1988-09-14"/>
+    <cosponsor id="408407" joined="1988-09-15"/>
+    <cosponsor id="400378" joined="1988-08-11"/>
+    <cosponsor id="410066" joined="1988-09-15"/>
+    <cosponsor id="410145" joined="1988-09-15"/>
+    <cosponsor id="410147" joined="1988-09-15"/>
+    <cosponsor id="300156" joined="1988-09-15"/>
+    <cosponsor id="411025" joined="1988-09-15"/>
+    <cosponsor id="400540" joined="1988-08-11"/>
+    <cosponsor id="411834" joined="1988-09-15"/>
+    <cosponsor id="411901" joined="1988-08-11"/>
+    <cosponsor id="411948" joined="1988-09-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-04" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-08-15">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-08-15">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1988-08-29">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-15">
+      <text>House Committee on Foreign Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-16" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Received in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Favorable Executive Comment Received From State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Asia"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="International cooperation"/>
+    <term name="International relations"/>
+    <term name="North Korea"/>
+    <term name="Olympic games"/>
+    <term name="South Korea"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments>
+    <amendment number="h888"/>
+  </amendments>
+  <summary>9/15/1988--Passed House amended.
+(Measure passed House, amended) Pays tribute to the friendship between the Republic of Korea and the United States. Supports the choice of Seoul as the host city for the 1988 Summer Olympic Games and commends the Seoul Olympic Organizing Committee for its work. Expresses appreciation for the measures the Committee has taken to offer security for the athletes, officials, and visitors of the 1988 Summer Olympic Games. Urges all nations of the Olympic movement to participate in the Seoul Olympic Games. Commends those nations that have announced their intention to participate.</summary>
+</bill>

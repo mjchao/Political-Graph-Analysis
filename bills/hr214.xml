@@ -1,0 +1,46 @@
+<bill session="100" type="hr" number="214" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-26"/>
+  </status>
+  <introduced datetime="1987-06-26"/>
+  <titles>
+    <title type="official" as="introduced">A resolution calling for the immediate release of all the children detained under the state of emergency regulations in South Africa, and calling for strong and sweeping sanctions against South Africa if such children are not released.</title>
+  </titles>
+  <sponsor id="404752"/>
+  <cosponsors>
+    <cosponsor id="400240" joined="1987-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-26" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-07-06">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-07-06">
+      <text>Referred to Subcommittee on Africa.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral, Hearings" code="HSFA08" subcommittee="Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Detention of persons"/>
+    <term name="Families"/>
+    <term name="Human rights"/>
+    <term name="Sanctions (International law)"/>
+    <term name="South Africa"/>
+    <term name="Torture"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/1987--Introduced.
+Declares that the House of Representatives: (1) calls for the immediate release of all the children detained under state of emergency regulations in South Africa; (2) pending release of such children, calls upon South Africa to permit parental access to such children, make public their names and their location, provide them with adequate food, clothing, and protection, and permit an international organization to verify that such actions are carried out and that such children are not abused or tortured; and (3) calls for strong sanctions against the Republic of South Africa if such children are not released in 30 days.</summary>
+</bill>

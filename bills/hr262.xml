@@ -1,0 +1,37 @@
+<bill session="100" type="hr" number="262" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-09-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-15"/>
+  </status>
+  <introduced datetime="1987-09-15"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives concerning the right to life of handicapped infants.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="406530" joined="1987-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-15" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Referred to Subcommittee on Select Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Disabled"/>
+    <term name="Birth defects"/>
+    <term name="Children's rights"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Rights of institutionalized persons"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/1987--Introduced.
+Expresses the sense of the House of Representatives that a handicapped child's right to life should not be abridged or denied on account of age, health, defect, or condition of dependency.</summary>
+</bill>

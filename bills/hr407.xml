@@ -1,0 +1,58 @@
+<bill session="100" type="hr" number="407" updated="2014-03-22T09:51:01-04:00">
+  <state datetime="1988-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-17"/>
+  </status>
+  <introduced datetime="1988-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution impeaching Walter L. Nixon, Jr., judge of the United States District Court for the Southern District of Mississippi for high crimes and misdemeanors.</title>
+  </titles>
+  <sponsor id="409344"/>
+  <cosponsors>
+    <cosponsor id="403776" joined="1988-03-17"/>
+    <cosponsor id="404097" joined="1988-03-17"/>
+    <cosponsor id="400365" joined="1988-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-17" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-08">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Crime prevention"/>
+    <term name="District courts"/>
+    <term name="House of Representatives"/>
+    <term name="Impeachments"/>
+    <term name="Judges"/>
+    <term name="Judicial tenure"/>
+    <term name="Mississippi"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1988--Introduced.
+Impeaches Walter L. Nixon, Jr., judge of the U.S. District Court for the Southern District of Mississippi.</summary>
+</bill>

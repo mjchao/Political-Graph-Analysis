@@ -1,0 +1,87 @@
+<bill session="100" type="s" number="2641" updated="2014-03-22T09:55:53-04:00">
+  <state datetime="1988-09-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-09-09"/>
+  </status>
+  <introduced datetime="1988-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Wildfire Protection Assistance Act of 1988</title>
+    <title type="short" as="passed senate">Temporary Emergency Wildfire Suppression Act</title>
+    <title type="short" as="enacted">Temporary Emergency Wildfire Suppression Act</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Agriculture and other agency heads to enter into agreements with foreign fire organizations for assistance in wildfire protection.</title>
+  </titles>
+  <sponsor id="407622"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1988-09-08"/>
+    <cosponsor id="300065" joined="1988-08-09"/>
+    <cosponsor id="407355" joined="1988-09-08"/>
+    <cosponsor id="409923" joined="1988-09-08"/>
+    <cosponsor id="410588" joined="1988-09-08"/>
+    <cosponsor id="411271" joined="1988-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Conservation and Forestry.</text>
+    </action>
+    <calendar datetime="1988-09-08" state="REPORTED">
+      <text>Committee on Agriculture. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-08">
+      <text>Committee on Agriculture. Reported to Senate by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-08">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-08" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-09">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-09">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-09-09" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-428" type="public" datetime="1988-09-09">
+      <text>Became Public Law No: 100-428.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSAF07" subcommittee="Conservation and Forestry" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4936"/>
+    <bill relation="identical" session="100" type="h" number="4936"/>
+  </relatedbills>
+  <subjects>
+    <term name="Fires"/>
+    <term name="Canada"/>
+    <term name="Environmental protection"/>
+    <term name="Fire departments"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Forest fires"/>
+    <term name="Forests and forest products"/>
+    <term name="International cooperation"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2940"/>
+  </amendments>
+  <summary>9/8/1988--Passed Senate amended.
+(Measure passed Senate, amended) Temporary Emergency Wildfire Suppression Act - Authorizes the Secretary of Agriculture or the Secretary of the Interior to enter into reciprocal agreements with foreign fire organizations to provide wildfire protection for lands and other properties for which such Secretaries or organizations normally provide such protection. Requires that such agreements allow for termination of the agreement by any party thereto after reasonable notice. Authorizes the Secretary of Agriculture or the Secretary of the Interior, in the absence of such agreement, to furnish emergency wildfire protection resources to any foreign nation and to accept such assistance from any foreign fire organization when to do so is in our best interest. Authorizes the reimbursement of Canada or Canadian fire organizations for U.S. wildfire protection pursuant to a specified memorandum and arrangement with Canada. Requires the Secretary of Agriculture or the Secretary of the Interior to determine that no U.S. fire organization is reasonably available to provide such protection before spending funds for foreign wildfire protection.</summary>
+</bill>

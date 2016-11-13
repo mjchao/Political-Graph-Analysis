@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="2136" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-04"/>
+  </status>
+  <introduced datetime="1988-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to deny discretionary project funds to States that voluntarily reduce the period of availability of interstate highway construction funds for any fiscal year.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1988-03-04"/>
+    <cosponsor id="402004" joined="1988-06-13"/>
+    <cosponsor id="403171" joined="1988-03-04"/>
+    <cosponsor id="300031" joined="1988-03-04"/>
+    <cosponsor id="403962" joined="1988-03-04"/>
+    <cosponsor id="404277" joined="1988-03-04"/>
+    <cosponsor id="300051" joined="1988-03-04"/>
+    <cosponsor id="405795" joined="1988-03-04"/>
+    <cosponsor id="406188" joined="1988-03-04"/>
+    <cosponsor id="300150" joined="1988-03-04"/>
+    <cosponsor id="408898" joined="1988-03-04"/>
+    <cosponsor id="408939" joined="1988-05-24"/>
+    <cosponsor id="300082" joined="1988-03-30"/>
+    <cosponsor id="409456" joined="1988-03-22"/>
+    <cosponsor id="409917" joined="1988-03-04"/>
+    <cosponsor id="410242" joined="1988-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4802"/>
+    <bill relation="identical" session="100" type="h" number="4802"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Federal aid highway program"/>
+    <term name="Highway finance"/>
+    <term name="Interstate highway system"/>
+    <term name="Roads and highways"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1988--Introduced.
+Amends Federal law relating to Interstate highway construction funds to provide that any State which voluntarily reduces the period of availability of apportioned funds for any fiscal year shall be ineligible to receive funds for the succeeding fiscal year.</summary>
+</bill>

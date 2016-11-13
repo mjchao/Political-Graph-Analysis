@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="2105" updated="2014-03-22T09:55:36-04:00">
+  <state datetime="1988-02-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-29"/>
+  </status>
+  <introduced datetime="1988-02-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to extend for 4 years the authority of the Veterans' Administration to contract for drug and alcohol treatment and rehabilitation services in halfway houses and other certain community-based facilities.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="300150" joined="1988-02-29"/>
+    <cosponsor id="300092" joined="1988-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1988-03-07">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Committee on Veterans received executive comment from VA.</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcoholism"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Halfway houses"/>
+    <term name="Treatment and rehabilitation of alcoholics"/>
+    <term name="Treatment and rehabilitation of narcotic addicts"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/29/1988--Introduced.
+Extends through FY 1992 the authority of the Veterans Administration to contract for drug and alcohol treatment and rehabilitation services in halfway houses and certain other community-based facilities.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="100" type="hj" number="352" updated="2014-03-22T09:53:55-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution granting the consent and approval of Congress for the State of Maryland, the Commonwealth of Virginia and the District of Columbia to amend the Washington Metropolitan Area Transit Regulation Compact.</title>
+  </titles>
+  <sponsor id="400043"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="1987-08-07"/>
+    <cosponsor id="404006" joined="1987-08-07"/>
+    <cosponsor id="400189" joined="1987-08-07"/>
+    <cosponsor id="407564" joined="1987-08-07"/>
+    <cosponsor id="400524" joined="1987-08-07"/>
+    <cosponsor id="408490" joined="1987-08-07"/>
+    <cosponsor id="400609" joined="1987-08-07"/>
+    <cosponsor id="400435" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-08-11">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-02-25">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-02">
+      <text>Clean Bill H.J.Res.480 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="480"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="District of Columbia"/>
+    <term name="Interstate compacts"/>
+    <term name="Maryland"/>
+    <term name="Mass rapid transit"/>
+    <term name="States"/>
+    <term name="Transportation and Travel"/>
+    <term name="Urban affairs"/>
+    <term name="Urban transportation"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Interstate Compact - Grants congressional approval to amendments of the State of Maryland, the Commonwealth of Virginia, and the District of Columbia to the Washington Metropolitan Area Transit Regulation Compact, including: public hearings for changes in service; the creation, administration, and investment of funds; contract bidding; and establishment of a Metro Transit Police force.</summary>
+</bill>

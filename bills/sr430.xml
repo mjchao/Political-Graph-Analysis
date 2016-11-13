@@ -1,0 +1,37 @@
+<bill session="100" type="sr" number="430" updated="2014-03-22T09:54:39-04:00">
+  <state datetime="1988-06-23">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1988-06-23"/>
+  </status>
+  <introduced datetime="1988-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to order the printing of 300 additional copies of the Senate Document entitled "The Older Americans Act Amendments of 1987: A Summary of Provisions."</title>
+  </titles>
+  <sponsor id="407622"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Senate Committee on Rules discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-23" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional publications"/>
+    <term name="Printing"/>
+    <term name="Senate"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1988--Introduced.
+Authorizes additional printing of Senate Document 100-68, 100th Congress, 1st Session, entitled "The Older Americans Act Amendments of 1987: A Summary of Provisions" for the use of the Special Committee on Aging.</summary>
+</bill>

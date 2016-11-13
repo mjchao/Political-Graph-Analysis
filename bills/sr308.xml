@@ -1,0 +1,36 @@
+<bill session="100" type="sr" number="308" updated="2014-03-22T09:54:37-04:00">
+  <state datetime="1987-10-29">REPORTED</state>
+  <status>
+    <unknown datetime="1987-10-29"/>
+  </status>
+  <introduced datetime="1987-10-29"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to limit time on the motion to proceed.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors>
+    <cosponsor id="408939" joined="1987-10-29"/>
+    <cosponsor id="300094" joined="1987-10-29"/>
+  </cosponsors>
+  <actions>
+    <calendar datetime="1987-10-29" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="398">
+      <text>Submitted in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 398.</text>
+    </calendar>
+    <action datetime="1988-06-23">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sr" number="309"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Limitation of debate"/>
+    <term name="Senate"/>
+    <term name="Senate rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/1987--Introduced.
+Amends rule VII of the Standing Rules of the Senate to limit to two hours debate on motions to proceed to the consideration of any matter, other than Rules amendments, if such motions are made at times other than the morning hour.</summary>
+</bill>

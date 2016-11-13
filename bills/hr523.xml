@@ -1,0 +1,39 @@
+<bill session="100" type="hr" number="523" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-08-11">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 4986) to amend the Higher Education Act of 1965 to reduce the default rate on student loans under that Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-11">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-866.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Placed on House Calendar No: 204.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="4986"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Education"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Sets forth the rule for the consideration of H.R. 4986 (student loan defaults).</summary>
+</bill>

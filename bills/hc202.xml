@@ -1,0 +1,39 @@
+<bill session="100" type="hc" number="202" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-10-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-14"/>
+  </status>
+  <introduced datetime="1987-10-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution honoring the distinguished service of the pioneers of supersonic aerial flight, as exemplified by Air Force Brigadier General Charles E. "Chuck" Yeager's many years of distinguished United States service, on the 40th anniversary of his becoming the first man to fly an airplane faster than the speed of sound.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="400281" joined="1987-10-14"/>
+    <cosponsor id="410245" joined="1987-10-14"/>
+    <cosponsor id="400614" joined="1987-10-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-14" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Aircraft pilots"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Supersonic aircraft"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/1987--Introduced.
+Honors the service of the pioneers of supersonic flight, as exemplified by Air Force Brigadier General Charles E. "Chuck" Yeager, on the 40th anniversary of his becoming the first man to fly an airplane faster than the speed of sound.</summary>
+</bill>

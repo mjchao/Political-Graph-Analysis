@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="1216" updated="2014-03-22T09:51:44-04:00">
+  <state datetime="1987-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-24"/>
+  </status>
+  <introduced datetime="1987-02-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the transportation on South African vessels of agricultural commodities provided under the Agricultural Trade Development and Assistance Act of 1954.</title>
+  </titles>
+  <sponsor id="406740"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-02-24"/>
+    <cosponsor id="300011" joined="1987-03-25"/>
+    <cosponsor id="402833" joined="1987-03-25"/>
+    <cosponsor id="403031" joined="1987-02-24"/>
+    <cosponsor id="400580" joined="1987-02-24"/>
+    <cosponsor id="300037" joined="1987-03-25"/>
+    <cosponsor id="403581" joined="1987-03-25"/>
+    <cosponsor id="403904" joined="1987-03-25"/>
+    <cosponsor id="404006" joined="1987-02-24"/>
+    <cosponsor id="400143" joined="1987-02-24"/>
+    <cosponsor id="404752" joined="1987-02-24"/>
+    <cosponsor id="405256" joined="1987-02-24"/>
+    <cosponsor id="405939" joined="1987-02-24"/>
+    <cosponsor id="400211" joined="1987-02-24"/>
+    <cosponsor id="400595" joined="1987-03-25"/>
+    <cosponsor id="407672" joined="1987-03-25"/>
+    <cosponsor id="407853" joined="1987-02-24"/>
+    <cosponsor id="407960" joined="1987-02-24"/>
+    <cosponsor id="408023" joined="1987-02-24"/>
+    <cosponsor id="400306" joined="1987-03-25"/>
+    <cosponsor id="400333" joined="1987-03-25"/>
+    <cosponsor id="409205" joined="1987-02-24"/>
+    <cosponsor id="400354" joined="1987-02-24"/>
+    <cosponsor id="410066" joined="1987-02-24"/>
+    <cosponsor id="400612" joined="1987-03-25"/>
+    <cosponsor id="411426" joined="1987-02-24"/>
+    <cosponsor id="400614" joined="1987-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-24" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to Subcommittee on Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA08" subcommittee="Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Marine transportation"/>
+    <term name="Sanctions (International law)"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="South Africa"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1987--Introduced.
+Directs the President to ensure that no agricultural commodities provided under the Agricultural Trade Development and Assistance Act of 1954 are transported on any vessel owned by South Africa or any citizen or national of South Africa or on any vessel registered under the flag of South Africa.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="2869" updated="2014-03-22T09:55:57-04:00">
+  <state datetime="1988-10-21">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for the completion of certain walls of the Internal Revenue Service Building located in Washington, D.C.</title>
+  </titles>
+  <sponsor id="402023"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-09-23" state="REPORTED">
+      <text>Committee on Environment and Public Works ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1988-10-06">
+      <text>Committee on Environment and Public Works. Original measure reported to Senate by Senator Burdick. With written report No. 100-589.</text>
+    </action>
+    <calendar datetime="1988-10-06" calendar="Senate Legislative" under="General Orders" number="1120">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1120.</text>
+    </calendar>
+    <action datetime="1988-10-21">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Authorization"/>
+    <term name="Building construction"/>
+    <term name="Courthouses"/>
+    <term name="Department of the Treasury"/>
+    <term name="District of Columbia"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal office buildings"/>
+    <term name="Illinois"/>
+    <term name="Indiana"/>
+    <term name="Internal Revenue Service (IRS)"/>
+    <term name="Names"/>
+    <term name="Tax courts"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3772"/>
+  </amendments>
+  <summary>10/21/1988--Passed Senate amended.
+(Measure passed Senate, amended) Authorizes appropriations for the completion of existing external walls of the Internal Revenue Service Building, located at 1111 Constitution Avenue, N.W., Washington, D.C. Designates the Federal building and United States Courthouse at 301 West Main Street, Benton, Illinois, as the Kenneth J. Gray Federal Building and United States Courthouse. Authorizes appropriations: (1) to the Department of Commerce, Bureau of the Census, for renovations of Federal Center Buildings 63 and 64 in Jeffersonville, Indiana; and (2) to the United States Tax Court for renovations of its building in Washington, D.C. Authorizes the Administrator of the General Services Administration, on a reimbursable basis, to perform such renovations.</summary>
+</bill>

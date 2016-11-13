@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2233" updated="2014-03-22T09:52:17-04:00">
+  <state datetime="1987-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-30"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the privatization of the United States Postal Service.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Executive Comment Requested from OMB, US Postal Service, GAO.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Referred to Subcommittee on Postal Personnel and Modernization.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Referred to Subcommittee on Postal Operations and Services.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Executive Comment Received From GAO.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO05" subcommittee="Postal Personnel and Modernization" name="House Post Office and Civil Service"/>
+    <committee activity="Referral" code="HSPO06" subcommittee="Postal Operations and Services" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Advisory bodies"/>
+    <term name="Business and commerce"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government and business"/>
+    <term name="Government operations and politics"/>
+    <term name="Postal Rate Commission"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Privatization"/>
+    <term name="United States Postal Service"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Provides for the transfer of the United States Postal Service to a private corporation. Sets forth requirements for such corporation, including that it: (1) be incorporated under a State law; (2) not be a department, agency, or establishment of the United States; (3) be incorporated by not more than nine individuals who are especially qualified to establish and operate an effective mail system, and who are chosen by the employees of the Postal Service in an appropriate election; (4) include among its purposes the delivery of postal services in a manner consistent with current postal policy and at fair and equitable rates; (5) issue securities as provided by this Act; and (6) satisfy such other requirements as the President may by regulation prescribe. Requires that retirement benefits for employees of the corporation be comparable to those which would have been afforded to those individuals as employees of the Postal Service had this Act not been enacted. Directs the President, after consultation with the Postal Privatization Commission (established by this Act) and not later than the 60th day after the corporation satisfies requirements under this Act, to transmit to the Congress: (1) a comprehensive plan providing for the transfer of property subject to this Act, including a 180-day timetable for the completion of such transfer; and (2) recommendations for legislation as necessary, including recommendations for the abolishment of the Postal Service, continuation of the private express statutes for a five-year period, and the repeal or modification of appropriate Federal statutes. Requires the President, after consultation with the Postal Rate Commission, to develop and include in the recommendations for the transfer proposals relating to the means by which postage rates would be established during such five-year period. Establishes the Postal Privatization Commission to carry out the functions relating to the issuance of securities to postal employees and assisting the President in transferring the Postal Service to a private corporation.</summary>
+</bill>

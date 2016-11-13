@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="5416" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-28"/>
+  </status>
+  <introduced datetime="1988-09-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a task force to be known as the Congressional Task Force on Concurrent Jurisdiction over Lorton.</title>
+  </titles>
+  <sponsor id="408490"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-28" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Referred to Subcommittee on Judiciary and Education.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSDT03" subcommittee="Judiciary and Education" name="House District of Columbia"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Advisory bodies"/>
+    <term name="Correctional institutions"/>
+    <term name="Corrections"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="District of Columbia"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Prisons"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1988--Introduced.
+Establishes the Congressional Task Force on Concurrent Jurisdiction Over Lorton. Directs the Task Force to conduct a study and make recommendations with regard to the most efficient and effective balance of jurisdictional powers between Virginia and the District of Columbia over the Lorton Reformatory Complex. Requires the Task Force to submit a final report with a detailed statement of its recommendations to the President, the Congress, the Governor of Virginia, and the Mayor of the District of Columbia. Terminates the Task Force 30 days after the date on which such Task Force submits its report.</summary>
+</bill>

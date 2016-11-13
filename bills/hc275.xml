@@ -1,0 +1,52 @@
+<bill session="100" type="hc" number="275" updated="2014-03-22T09:54:13-04:00">
+  <state datetime="1988-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution calling on the Soviet Union and its allies to withhold military assistance to the government of Nicaragua.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="401986" joined="1988-03-30"/>
+    <cosponsor id="400104" joined="1988-03-30"/>
+    <cosponsor id="400115" joined="1988-03-30"/>
+    <cosponsor id="400544" joined="1988-03-30"/>
+    <cosponsor id="400192" joined="1988-03-30"/>
+    <cosponsor id="300062" joined="1988-03-30"/>
+    <cosponsor id="406530" joined="1988-03-30"/>
+    <cosponsor id="409251" joined="1988-03-30"/>
+    <cosponsor id="410574" joined="1988-03-30"/>
+    <cosponsor id="411247" joined="1988-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-04-11">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-04-11">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Armed forces and national security"/>
+    <term name="Military advisers"/>
+    <term name="Military assistance"/>
+    <term name="Nicaragua"/>
+    <term name="Political parties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Calls upon the Soviet Union and its allies to withhold further military assistance to the Government of Nicaragua and to withdraw military advisors and support personnel from that country. Calls upon the Government of Nicaragua to: (1) reverse significantly the growth of its armed forces; (2) work toward a stabilization of the regional military balance and prevent the introduction of advanced weapon systems; and (3) separate the armed forces from the Sandinista political party.</summary>
+</bill>

@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="4076" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to extend penalties for the operation of a locomotive, and to provide increased penalties for the operation of a common carrier, under the influence of alcohol or drugs if such operation results in serious bodily injury or death.</title>
+  </titles>
+  <sponsor id="400043"/>
+  <cosponsors>
+    <cosponsor id="400110" joined="1988-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-03" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-03-09">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>See H.R.4916.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4916"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcoholism"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Common carriers"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and employment"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Drunk driving"/>
+    <term name="Locomotives"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Public safety"/>
+    <term name="Railroad employees"/>
+    <term name="Railroad safety"/>
+    <term name="Railroads"/>
+    <term name="Sentences (Criminal procedure)"/>
+    <term name="Transportation safety"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Amends the Federal criminal code, with respect to criminal penalties for operating a common carrier under the influence of alcohol or drugs, to: (1) provide criminal penalties for operation of a locomotive under the influence of alcohol or drugs; and (2) provide increased criminal penalties where a death or serious injury results from such operation.</summary>
+</bill>

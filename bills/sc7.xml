@@ -1,0 +1,72 @@
+<bill session="100" type="sc" number="7" updated="2014-03-22T09:54:40-04:00">
+  <state datetime="1987-01-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-14"/>
+  </status>
+  <introduced datetime="1987-01-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the sense of the Congress regarding its opposition to reductions in Veterans' Administration funding levels to pay for health care for certain categories of eligible veterans.</title>
+  </titles>
+  <sponsor id="300150"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-03-11"/>
+    <cosponsor id="300009" joined="1987-03-03"/>
+    <cosponsor id="402023" joined="1987-03-03"/>
+    <cosponsor id="402990" joined="1987-01-14"/>
+    <cosponsor id="300031" joined="1987-02-02"/>
+    <cosponsor id="403346" joined="1987-01-14"/>
+    <cosponsor id="300046" joined="1987-01-14"/>
+    <cosponsor id="300070" joined="1987-03-03"/>
+    <cosponsor id="407268" joined="1987-01-14"/>
+    <cosponsor id="300071" joined="1987-03-23"/>
+    <cosponsor id="407786" joined="1987-01-14"/>
+    <cosponsor id="300084" joined="1987-01-14"/>
+    <cosponsor id="409917" joined="1987-02-02"/>
+    <cosponsor id="409923" joined="1987-01-14"/>
+    <cosponsor id="300092" joined="1987-01-14"/>
+    <cosponsor id="410242" joined="1987-01-14"/>
+    <cosponsor id="300157" joined="1987-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-14" state="REFERRED">
+      <text>Referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Senate Committee on Veterans discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Senate incorporated this measure in H.CON.RES. 27 as an amendment.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Senate agreed to companion measure H.CON.RES. 27 in lieu of this measure by Voice Vote.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hc" number="27"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Government operations and politics"/>
+    <term name="Government spending reductions"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments>
+    <amendment number="s86"/>
+  </amendments>
+  <summary>4/7/1987--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate, H.Con.Res. 27 passed in lieu) Expresses the sense of the Congress in opposition to reductions in Veterans Administration funding levels used to pay for health care for certain categories of eligible veterans.</summary>
+</bill>

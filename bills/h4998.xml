@@ -1,0 +1,84 @@
+<bill session="100" type="h" number="4998" updated="2014-03-22T09:53:30-04:00">
+  <state datetime="1988-10-11">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-11"/>
+  </status>
+  <introduced datetime="1988-07-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Food Stamp Act of 1977 to make technical corrections in the Family Independence Demonstration Project.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors>
+    <cosponsor id="403864" joined="1988-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-07" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-07-11">
+      <text>Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition Discharged.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-12" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Reported to House by House Committee on Agriculture.  Report No: 100-840.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Placed on Union Calendar No: 512.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-10">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Senate Committee on Agriculture discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-28" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-30">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-11" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-481" type="public" datetime="1988-10-11">
+      <text>Became Public Law No: 100-481.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG05" subcommittee="Domestic Marketing, Consumer Relations, and Nutrition" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Food stamps"/>
+    <term name="Public assistance programs"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/1988--Introduced.
+Amends the Food Stamp Act of 1977, regarding the Washington State family independence demonstration project, to provide that family members participating in such project shall receive separate benefits in food coupons under the food stamp plan at least equal to the food stamp benefits they would have received if they were not project participants.</summary>
+</bill>

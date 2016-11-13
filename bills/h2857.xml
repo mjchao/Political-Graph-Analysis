@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="2857" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1988-09-22">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1987-06-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Christy Carl Hallien of Arlington, Texas.</title>
+  </titles>
+  <sponsor id="400551"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-30" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-871.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Placed on Private Calendar No: 70.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-23">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1987--Introduced.
+Relieves a named individual of all liability for repayment to the United States of a specified sum representing an amount such individual owed the Department of Defense for certain relocation expenses erroneously stated to be reimbursable by an agent of the Department. Authorizes and directs the Secretary of the Treasury to pay a specified sum to such individual in full settlement of all claims against the United States for certain real estate costs incurred in such relocation.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="2458" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1987-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-18"/>
+  </status>
+  <introduced datetime="1987-05-18"/>
+  <titles>
+    <title type="short" as="introduced">Base Acreage Equity Act of 1987</title>
+    <title type="official" as="introduced">A bill to improve the provisions of the Agricultural Act of 1949 relating to adjustments of crop acreage bases.</title>
+  </titles>
+  <sponsor id="400389"/>
+  <cosponsors>
+    <cosponsor id="300083" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-18" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Cotton"/>
+    <term name="Feed grain program"/>
+    <term name="Rice"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1987--Introduced.
+Base Acreage Equity Act of 1987 - Amends the Agricultural Act of 1949 to permit a producer, upon appropriate notice to the county committee, to increase the crop acreage base for wheat, feed grains, upland cotton, or rice by up to ten percent (20 percent for two or more crops). Requires that any upward adjustment be offset by an equivalent downward adjustment of one or more other crop acreage bases. Sets forth county committee notification dates according to individual program crops.</summary>
+</bill>

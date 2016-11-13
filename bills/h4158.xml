@@ -1,0 +1,123 @@
+<bill session="100" type="h" number="4158" updated="2014-03-22T09:53:05-04:00">
+  <state datetime="1988-06-13">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-06-13"/>
+  </status>
+  <introduced datetime="1988-03-15"/>
+  <titles>
+    <title type="short" as="introduced">National Appliance Energy Conservation Amendments of 1988</title>
+    <title type="short" as="reported to house">National Appliance Energy Conservation Amendments of 1988</title>
+    <title type="short" as="passed house">National Appliance Energy Conservation Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Energy Policy and Conservation Act to provide for Federal energy conservation standards for fluorescent lamp ballasts.</title>
+  </titles>
+  <sponsor id="409793"/>
+  <cosponsors>
+    <cosponsor id="401155" joined="1988-05-17"/>
+    <cosponsor id="401231" joined="1988-04-21"/>
+    <cosponsor id="401585" joined="1988-05-03"/>
+    <cosponsor id="300011" joined="1988-04-13"/>
+    <cosponsor id="400572" joined="1988-03-30"/>
+    <cosponsor id="401923" joined="1988-03-30"/>
+    <cosponsor id="401947" joined="1988-03-15"/>
+    <cosponsor id="300019" joined="1988-05-17"/>
+    <cosponsor id="402600" joined="1988-05-17"/>
+    <cosponsor id="403184" joined="1988-03-15"/>
+    <cosponsor id="403190" joined="1988-04-21"/>
+    <cosponsor id="403689" joined="1988-03-30"/>
+    <cosponsor id="404002" joined="1988-04-13"/>
+    <cosponsor id="404190" joined="1988-04-13"/>
+    <cosponsor id="400585" joined="1988-03-15"/>
+    <cosponsor id="400165" joined="1988-03-30"/>
+    <cosponsor id="405377" joined="1988-04-13"/>
+    <cosponsor id="405524" joined="1988-03-30"/>
+    <cosponsor id="405775" joined="1988-04-21"/>
+    <cosponsor id="406157" joined="1988-03-30"/>
+    <cosponsor id="400211" joined="1988-05-17"/>
+    <cosponsor id="400216" joined="1988-04-21"/>
+    <cosponsor id="400223" joined="1988-05-03"/>
+    <cosponsor id="406740" joined="1988-03-15"/>
+    <cosponsor id="400253" joined="1988-03-15"/>
+    <cosponsor id="407899" joined="1988-03-15"/>
+    <cosponsor id="408109" joined="1988-04-13"/>
+    <cosponsor id="408190" joined="1988-04-13"/>
+    <cosponsor id="400307" joined="1988-03-15"/>
+    <cosponsor id="408957" joined="1988-04-21"/>
+    <cosponsor id="400334" joined="1988-05-24"/>
+    <cosponsor id="409205" joined="1988-03-15"/>
+    <cosponsor id="409644" joined="1988-03-30"/>
+    <cosponsor id="409954" joined="1988-04-13"/>
+    <cosponsor id="409966" joined="1988-05-03"/>
+    <cosponsor id="410496" joined="1988-04-21"/>
+    <cosponsor id="410567" joined="1988-03-30"/>
+    <cosponsor id="410589" joined="1988-03-30"/>
+    <cosponsor id="400611" joined="1988-05-24"/>
+    <cosponsor id="411224" joined="1988-03-15"/>
+    <cosponsor id="411901" joined="1988-04-13"/>
+    <cosponsor id="300100" joined="1988-03-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-15" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-18" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-10">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-685.</text>
+    </action>
+    <action datetime="1988-06-10">
+      <text>Placed on Union Calendar No: 407.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-13">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Other Measure S.2167 Passed House in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2167"/>
+    <bill relation="identical" session="100" type="s" number="2167"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Consumer protection"/>
+    <term name="Energy conservation"/>
+    <term name="Energy efficiency"/>
+    <term name="Energy policy"/>
+    <term name="Federal preemption"/>
+    <term name="Labeling"/>
+    <term name="Lighting"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/1988--Passed House amended.
+(Measure passed House, amended) National Appliance Energy Conservation Amendments of 1988 - Amends the Energy Policy and Conservation Act to include fluorescent lamp ballasts within the list of products covered by the Act. Revises the definition of "consumer product" to include fluorescent lamp ballasts distributed in commerce for personal or commercial use or consumption. Directs the Secretary of Energy to prescribe test procedures for such ballasts manufactured on or after January 1, 1990. Directs the Federal Trade Commission to prescribe labeling rules for such ballasts according to specified guidelines. Sets forth energy efficiency standards for such ballasts. Preempts State energy conservation standards for such ballasts unless such standards were prescribed or enacted before the date of enactment of this Act.</summary>
+</bill>

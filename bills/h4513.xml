@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4513" updated="2014-03-22T09:53:18-04:00">
+  <state datetime="1988-05-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-03"/>
+  </status>
+  <introduced datetime="1988-05-03"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Foreign Travel Accountability Act of 1988</title>
+    <title type="official" as="introduced">A bill to provide a separate appropriation for all congressional foreign travel, and for other purposes.</title>
+  </titles>
+  <sponsor id="403476"/>
+  <cosponsors>
+    <cosponsor id="300057" joined="1988-05-03"/>
+    <cosponsor id="300155" joined="1988-05-03"/>
+    <cosponsor id="400381" joined="1988-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-03" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Referred to Subcommittee on Accounts.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA01" subcommittee="Accounts" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional travel"/>
+    <term name="Economics and public finance"/>
+    <term name="Members of Congress"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel costs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/3/1988--Introduced.
+Congressional Foreign Travel Accountability Act of 1988 - Prohibits the use of Federal funds for the expenses of foreign travel by Members of Congress or congressional officers or employees unless such expenses are paid out of a specific appropriation included in the Legislative Branch Appropriation Act or any supplement thereto. Requires such travel to be accomplished by the most economical means possible. Requires congressional committees to establish guidelines to avoid duplicative and unnecessary travel and to file quarterly reports on such travel for public inspection. Sets forth civil penalties for persons who use such reports for unlawful, commercial, or solicitation purposes.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="100" type="s" number="1764" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-07"/>
+  </status>
+  <introduced datetime="1987-10-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 39 of the United States Code, to grant local governments the discretion to assign mailing addresses to sites within their jurisdiction.</title>
+  </titles>
+  <sponsor id="401709"/>
+  <cosponsors>
+    <cosponsor id="300064" joined="1987-10-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1742"/>
+    <bill relation="identical" session="100" type="h" number="1742"/>
+  </relatedbills>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Federal-local relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Postal Services and Facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/1987--Introduced.
+Authorizes county and municipal governments to designate mailing addresses.</summary>
+</bill>

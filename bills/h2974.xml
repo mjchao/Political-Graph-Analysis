@@ -1,0 +1,99 @@
+<bill session="100" type="h" number="2974" updated="2014-03-22T09:52:35-04:00">
+  <state datetime="1987-12-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-30"/>
+  </status>
+  <introduced datetime="1987-07-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to make technical corrections in provisions of law enacted by the Military Retirement Reform Act of 1986.</title>
+  </titles>
+  <sponsor id="402159"/>
+  <cosponsors>
+    <cosponsor id="400569" joined="1987-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-21" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-22" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-07-22">
+      <text>Reported to House by House Committee on Armed Services.  Report No: 100-231.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Placed on Union Calendar No: 142.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-28" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-29">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1987-07-30" calendar="Senate Legislative" under="General Orders" number="277">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 277.</text>
+    </calendar>
+    <action datetime="1987-08-06">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-08-06" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>House Concurred, in Senate Amendments , with Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate amendment.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Senate agreed the House amendment to the Senate amendment by Voice Vote.</text>
+    </action>
+    <topresident datetime="1987-12-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-30" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-224" type="public" datetime="1987-12-30">
+      <text>Became Public Law No: 100-224.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Consumer price indexes"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Economics and public finance"/>
+    <term name="Inflation"/>
+    <term name="Military pay"/>
+    <term name="Military pensions"/>
+    <term name="Survivors' benefits"/>
+  </subjects>
+  <amendments>
+    <amendment number="s665"/>
+  </amendments>
+  <summary>12/16/1987--House agreed to Senate amendment with amendment.
+(House agreed to Senate amendment with an amendment) Amends Federal armed forces provisions to require that if a regularly scheduled adjustment in military retired and retainer pay (to reflect changes in the Consumer Price Index (CPI)) is not made by reason of law, then the next increase in such pay should be adjusted to account for such previously precluded increase. Revises provisions relating to the prorating of initial CPI increase adjustments for new retirees. Revises provisions relating to the computation at age 62 of military retired pay and Survivor Benefit Plan (SBP) amounts available to persons who first became members of the armed forces after July 31, 1986, and to members of the armed forces who retired, then returned to active duty after such date, and then retired once again. Provides that, for such members, the amount of military retired pay to which they are eligible will be recomputed to take into account changes in the cost-of-living and CPI adjustments since the date of their initial retirement from the armed forces. Makes identical recomputation adjustments for such members who are SBP participants to take into account cost-of-living and CPI adjustments since initial retirement in the base amount of SBP benefits for which such member's dependents will be eligible. Excludes reserve members on active duty only for training from the protection afforded other members of the reserves serving on active duty from being involuntarily released from such duty within two years of becoming eligible for retired or retainer pay (unless such release is approved by the Secretary of the military department concerned).</summary>
+</bill>

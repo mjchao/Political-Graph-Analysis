@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="3056" updated="2014-03-22T09:52:43-04:00">
+  <state datetime="1987-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-29"/>
+  </status>
+  <introduced datetime="1987-07-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of the estate of Major Travis E. Kitchens.</title>
+  </titles>
+  <sponsor id="411725"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-29" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Military pay"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Introduced.
+Authorizes and directs the Secretary of the Treasury to pay to the estate of a named individual a specified sum relating to Federal income taxes on basic and retired military pay.</summary>
+</bill>

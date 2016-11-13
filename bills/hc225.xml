@@ -1,0 +1,46 @@
+<bill session="100" type="hc" number="225" updated="2014-03-22T09:54:11-04:00">
+  <state datetime="1987-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-09"/>
+  </status>
+  <introduced datetime="1987-12-09"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the Soviet Union's treatment of women and children in its occupation of Afghanistan is a particularly heinous abuse of internationally recognized human rights.</title>
+  </titles>
+  <sponsor id="400115"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-09" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Afghanistan"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Families"/>
+    <term name="Human rights"/>
+    <term name="Military occupation"/>
+    <term name="U.S.S.R."/>
+    <term name="War"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/1987--Introduced.
+Calls upon the Soviet Union to: (1) withdraw Soviet troops immediately from Afghanistan, restore Afghan cultural institutions and human rights, and allow the verification of this restoration by international organizations; (2) release Afghan children being held in the Soviet Union against their will, or without the knowledge or consent of their parents; and (3) pending such release, permit parental access to the detained children, make public their names and locations, and permit an international organization to verify that such parental access and public disclosure are being carried out and that the children are not being abused or tortured.</summary>
+</bill>

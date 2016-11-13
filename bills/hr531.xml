@@ -1,0 +1,56 @@
+<bill session="100" type="hr" number="531" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-09-22">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1988-09-08"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing amounts from the contingent fund of the House for further expenses of investigations and studies by the Committee on Standards of Official Conduct in the second session of the One Hundredth Congress.</title>
+  </titles>
+  <sponsor id="400580"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-08" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Referred to Subcommittee on Accounts.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Subcommittee on Accounts Discharged.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-22" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-23">
+      <text>Reported to House by House Committee on House Administration. Report No: 100-958.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Placed on House Calendar No: 215.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 412 - 2 (Record Vote No: 357).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSHA01" subcommittee="Accounts" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Government consultants"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>9/8/1988--Introduced.
+Provides amounts for the further expenses of investigations and studies by the House Committee on Standards of Official Conduct for the remainder of the second session of the 100th Congress. Authorizes the use of such funds for the procurement of consultant services.</summary>
+</bill>

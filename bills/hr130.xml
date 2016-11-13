@@ -1,0 +1,62 @@
+<bill session="100" type="hr" number="130" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-25"/>
+  </status>
+  <introduced datetime="1987-03-25"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that the United States should place greater emphasis on the improvement of the capabilities of United States conventional forces, seeking also additional cooperation in conventional defense measures with other member nations of the North Atlantic Treaty Organization.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-25" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-06-12">
+      <text>Executive Comment Requested from State, Arms Control and Disarm Agency, D, OD.</text>
+    </action>
+    <action datetime="1987-07-10">
+      <text>Executive Comment Received From Arms Control and Disarm Agency.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Antitank weapons"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Collective security agreements"/>
+    <term name="Conventional weapons"/>
+    <term name="Defense articles"/>
+    <term name="Europe"/>
+    <term name="Military policy"/>
+    <term name="Military strategy"/>
+    <term name="NATO countries"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Treaties"/>
+    <term name="Western Europe"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/1987--Introduced.
+Expresses the sense of the House of Representatives that: (1) the United States should place greater emphasis on the improvement of U.S. conventional forces, particularly in cooperation with other member nations of the North Atlantic Treaty Organization; and (2) such improvement should emphasize improved readiness and greater sustainability in conflict; defensive measures, particularly joint development and deployment of infantry antitank weapons; and the assumption that the United States would not be the first to use nuclear weapons.</summary>
+</bill>

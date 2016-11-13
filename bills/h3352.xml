@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="3352" updated="2014-03-22T09:52:50-04:00">
+  <state datetime="1987-09-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-29"/>
+  </status>
+  <introduced datetime="1987-09-29"/>
+  <titles>
+    <title type="short" as="introduced">Crime Victims Act of 1987</title>
+    <title type="official" as="introduced">A bill to aid the innocent victims of crimes by amending the Victims of Crime Act of 1984 to make permanent the Crime Victims Fund.</title>
+  </titles>
+  <sponsor id="409344"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-29" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Compensation for victims of crime"/>
+    <term name="Crime prevention"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1987--Introduced.
+Crime Victims Act of 1987 - Amends the Victims of Crime Act of 1984, with respect to the Crime Victims Fund, to: (1) remove the fund ceiling; and (2) repeal the sunset clause.</summary>
+</bill>

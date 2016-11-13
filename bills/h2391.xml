@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="2391" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1987-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-13"/>
+  </status>
+  <introduced datetime="1987-05-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make an exception to the United States embargo on trade with Cuba for the export of agricultural commodities produced in the United States.</title>
+  </titles>
+  <sponsor id="400761"/>
+  <cosponsors>
+    <cosponsor id="400987" joined="1987-05-13"/>
+    <cosponsor id="401310" joined="1987-06-02"/>
+    <cosponsor id="401417" joined="1987-06-02"/>
+    <cosponsor id="300017" joined="1987-05-13"/>
+    <cosponsor id="402626" joined="1987-05-13"/>
+    <cosponsor id="403695" joined="1987-06-02"/>
+    <cosponsor id="404006" joined="1987-05-13"/>
+    <cosponsor id="404750" joined="1987-06-02"/>
+    <cosponsor id="405256" joined="1987-06-02"/>
+    <cosponsor id="406740" joined="1987-05-13"/>
+    <cosponsor id="406974" joined="1987-05-13"/>
+    <cosponsor id="400253" joined="1987-05-13"/>
+    <cosponsor id="407853" joined="1987-05-13"/>
+    <cosponsor id="407960" joined="1987-06-02"/>
+    <cosponsor id="400306" joined="1987-05-13"/>
+    <cosponsor id="409344" joined="1987-06-02"/>
+    <cosponsor id="409650" joined="1987-05-13"/>
+    <cosponsor id="400387" joined="1987-06-02"/>
+    <cosponsor id="400409" joined="1987-06-02"/>
+    <cosponsor id="411426" joined="1987-05-13"/>
+    <cosponsor id="411677" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-13" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-26">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1987-05-26">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Cuba"/>
+    <term name="Embargo"/>
+    <term name="Export controls"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Oils and fats"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/1987--Introduced.
+Amends the Foreign Assistance Act of 1961 to make an exception to the U.S. embargo on trade with Cuba for the export of agricultural commodities, including fats, oils, and animal hides or skins. Prohibits the President from exercising authorities under the Export Administration Act of 1979 and the International Emergency Economic Powers Act restricting the exportation of agricultural commodities to Cuba. Prohibits application of existing restrictions on trade with Cuba from being applied to the export to Cuba of U.S. agricultural commodities.</summary>
+</bill>

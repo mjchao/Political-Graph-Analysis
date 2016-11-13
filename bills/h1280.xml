@@ -1,0 +1,137 @@
+<bill session="100" type="h" number="1280" updated="2014-03-22T09:51:46-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Part A Catastrophic Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend part A of title XVIII of the Social Security Act to provide protection against catastrophic medical expenses under part A of the medicare program.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="1987-05-11"/>
+    <cosponsor id="400882" joined="1987-02-26"/>
+    <cosponsor id="401418" joined="1987-04-07"/>
+    <cosponsor id="400035" joined="1987-02-26"/>
+    <cosponsor id="400043" joined="1987-03-17"/>
+    <cosponsor id="402114" joined="1987-03-17"/>
+    <cosponsor id="400064" joined="1987-04-07"/>
+    <cosponsor id="402435" joined="1987-02-26"/>
+    <cosponsor id="402454" joined="1987-04-07"/>
+    <cosponsor id="402763" joined="1987-03-17"/>
+    <cosponsor id="400543" joined="1987-02-26"/>
+    <cosponsor id="403266" joined="1987-03-17"/>
+    <cosponsor id="403641" joined="1987-02-26"/>
+    <cosponsor id="403776" joined="1987-04-07"/>
+    <cosponsor id="404097" joined="1987-04-07"/>
+    <cosponsor id="404190" joined="1987-05-11"/>
+    <cosponsor id="404213" joined="1987-02-26"/>
+    <cosponsor id="404325" joined="1987-02-26"/>
+    <cosponsor id="400143" joined="1987-04-07"/>
+    <cosponsor id="404422" joined="1987-04-07"/>
+    <cosponsor id="400585" joined="1987-04-28"/>
+    <cosponsor id="404520" joined="1987-02-26"/>
+    <cosponsor id="400536" joined="1987-03-17"/>
+    <cosponsor id="404705" joined="1987-02-26"/>
+    <cosponsor id="405256" joined="1987-03-17"/>
+    <cosponsor id="400189" joined="1987-04-07"/>
+    <cosponsor id="405747" joined="1987-03-17"/>
+    <cosponsor id="405775" joined="1987-04-07"/>
+    <cosponsor id="405939" joined="1987-02-26"/>
+    <cosponsor id="400205" joined="1987-04-28"/>
+    <cosponsor id="400211" joined="1987-04-28"/>
+    <cosponsor id="406191" joined="1987-03-17"/>
+    <cosponsor id="406740" joined="1987-03-17"/>
+    <cosponsor id="400238" joined="1987-02-26"/>
+    <cosponsor id="400240" joined="1987-03-17"/>
+    <cosponsor id="400595" joined="1987-04-07"/>
+    <cosponsor id="407351" joined="1987-03-17"/>
+    <cosponsor id="407772" joined="1987-05-11"/>
+    <cosponsor id="400600" joined="1987-05-11"/>
+    <cosponsor id="407853" joined="1987-02-26"/>
+    <cosponsor id="400286" joined="1987-04-28"/>
+    <cosponsor id="408575" joined="1987-02-26"/>
+    <cosponsor id="408632" joined="1987-03-17"/>
+    <cosponsor id="408907" joined="1987-03-17"/>
+    <cosponsor id="409325" joined="1987-03-17"/>
+    <cosponsor id="409344" joined="1987-03-17"/>
+    <cosponsor id="409353" joined="1987-03-17"/>
+    <cosponsor id="409422" joined="1987-02-26"/>
+    <cosponsor id="400354" joined="1987-04-07"/>
+    <cosponsor id="409644" joined="1987-05-11"/>
+    <cosponsor id="410147" joined="1987-04-07"/>
+    <cosponsor id="410245" joined="1987-04-28"/>
+    <cosponsor id="410261" joined="1987-03-17"/>
+    <cosponsor id="410623" joined="1987-05-11"/>
+    <cosponsor id="400401" joined="1987-02-26"/>
+    <cosponsor id="410889" joined="1987-03-17"/>
+    <cosponsor id="400409" joined="1987-03-17"/>
+    <cosponsor id="400414" joined="1987-03-17"/>
+    <cosponsor id="411119" joined="1987-02-26"/>
+    <cosponsor id="411178" joined="1987-03-17"/>
+    <cosponsor id="411725" joined="1987-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Clean Bill H.R.2470 Reported in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Blood"/>
+    <term name="Catastrophic health insurance"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospices (Terminal care)"/>
+    <term name="Hospital care"/>
+    <term name="Hospitals"/>
+    <term name="Income tax"/>
+    <term name="Inflation"/>
+    <term name="Long-term care"/>
+    <term name="Medical economics"/>
+    <term name="Medicare"/>
+    <term name="Tax exclusion"/>
+    <term name="Terminal care"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Medicare Part A Catastrophic Protection Act of 1987 - Amends part A (Hospital Insurance) of title XVIII (Medicare) of the Social Security Act to require that an inpatient hospital deductible be paid only for the first period of continuous hospitalization in a calendar year. (Currently, such deductible must be paid for each "spell of illness" requiring inpatient hospital services.) Removes durational limitations on the coverage of inpatient hospital services, except with respect to inpatient psychiatric hospital services. Eliminates the coinsurance requirement for inpatient hospital services. Sets the inpatient hospital deductible for 1987 at $520, requiring cost-of-living adjustments to such deductible for succeeding years. Establishes the monthly part A premium, required of individuals who wish to buy into the Hospital Insurance program, at the monthly actuarial value of part A services provided to beneficiaries age 65 and over. Imposes a coinsurance rate, equal to 20 percent of the average per diem cost of post-hospital extended care services, for the first seven days of an individual's receipt of such services in a calendar year. Provides coverage for post-hospital extended care services for 150 days in each calendar year. (Currently, such coverage is limited to 100 days for each "spell of illness.") Creates an extension period of hospice care for terminally ill beneficiaries which is to follow the two 90-day periods and the subsequent 30-day period of hospice care coverage currently provided in an individual's lifetime. Reduces the deductible imposed under part A on the first three pints of blood furnished to an individual during a calendar year to the extent such blood is replaced or a blood deductible has been imposed on the individual under part B (Supplementary Medical Insurance) of the Medicare program within such year. Amends the Internal Revenue Code to require the inclusion within an individual's gross income of: (1) 50 percent of the actuarial value of part A services received, unless the individual became eligible for such services by paying a part A premium; and (2) the actuarial value of part B benefits received. Provides for the transfer of additional revenues resulting from the taxation of the value of Medicare services to the Federal Hospital Insurance Trust Fund. Sets forth reporting requirements.</summary>
+</bill>

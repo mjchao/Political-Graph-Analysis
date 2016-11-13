@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="3169" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to provide a presumption of service connection for the condition of non-Hodgkins lymphoma arising in veterans who were exposed to the chemical defoliant known as Agent Orange during service in the Republic of Vietnam during the Vietnam era.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="406157" joined="1987-09-30"/>
+    <cosponsor id="406554" joined="1987-09-16"/>
+    <cosponsor id="410147" joined="1987-08-06"/>
+    <cosponsor id="410231" joined="1987-10-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Agent Orange"/>
+    <term name="Cancer"/>
+    <term name="Health"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Amends Federal veterans' benefits provisions to provide a presumption of service-connection for the condition of non-Hodgkin's lymphoma (if manifest to a degree of ten percent or more after service) arising in veterans who were exposed to Agent Orange while serving in Vietnam during the Vietnam era.</summary>
+</bill>

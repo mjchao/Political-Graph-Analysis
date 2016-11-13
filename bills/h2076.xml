@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="2076" updated="2014-03-22T09:52:11-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Older Americans Transportation Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Older Americans Act of 1965 to require the Commissioner on Aging to conduct a study regarding transportation services provided under such Act, and to submit to the Congress a report summarizing the results of such study and containing recommendations with respect to providing such services.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-05-18"/>
+    <cosponsor id="401418" joined="1987-04-09"/>
+    <cosponsor id="403864" joined="1987-05-12"/>
+    <cosponsor id="400143" joined="1987-05-12"/>
+    <cosponsor id="404869" joined="1987-05-12"/>
+    <cosponsor id="405646" joined="1987-05-12"/>
+    <cosponsor id="400211" joined="1987-05-12"/>
+    <cosponsor id="400595" joined="1987-05-12"/>
+    <cosponsor id="410261" joined="1987-05-12"/>
+    <cosponsor id="400414" joined="1987-05-18"/>
+    <cosponsor id="411725" joined="1987-05-12"/>
+    <cosponsor id="411901" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED07" subcommittee="Human Resources" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Evaluation"/>
+    <term name="Transportation and the aged"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Older Americans Transportation Act of 1987 - Amends the Older Americans Act of 1965 to direct the Commissioner on Aging to conduct a study to determine for FY 1988: (1) the extent to which funding for such Act was used for transportation services (including the delivery of goods and services) benefiting older individuals; and (2) the relative importance of such transportation services for older individuals. Requires the Commissioner to submit a report to the Congress by March 31, 1989, summarizing the results of such study and containing recommendations for improving such services.</summary>
+</bill>

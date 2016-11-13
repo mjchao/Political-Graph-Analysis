@@ -1,0 +1,95 @@
+<bill session="100" type="h" number="3564" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-28"/>
+  </status>
+  <introduced datetime="1987-10-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to establish penalties for tampering with smoke detection devices.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="1987-10-28"/>
+    <cosponsor id="401231" joined="1987-10-28"/>
+    <cosponsor id="401383" joined="1987-10-28"/>
+    <cosponsor id="401417" joined="1987-10-28"/>
+    <cosponsor id="401418" joined="1987-10-28"/>
+    <cosponsor id="300011" joined="1987-10-28"/>
+    <cosponsor id="402763" joined="1987-10-28"/>
+    <cosponsor id="400080" joined="1987-10-28"/>
+    <cosponsor id="403242" joined="1987-10-28"/>
+    <cosponsor id="400100" joined="1987-10-28"/>
+    <cosponsor id="403529" joined="1987-10-28"/>
+    <cosponsor id="403545" joined="1987-10-28"/>
+    <cosponsor id="403769" joined="1987-10-28"/>
+    <cosponsor id="403904" joined="1987-10-28"/>
+    <cosponsor id="404006" joined="1987-10-28"/>
+    <cosponsor id="404013" joined="1987-10-28"/>
+    <cosponsor id="404019" joined="1987-10-28"/>
+    <cosponsor id="404068" joined="1987-10-28"/>
+    <cosponsor id="404602" joined="1987-10-28"/>
+    <cosponsor id="404723" joined="1987-10-28"/>
+    <cosponsor id="404750" joined="1987-10-28"/>
+    <cosponsor id="405256" joined="1987-10-28"/>
+    <cosponsor id="405524" joined="1987-10-28"/>
+    <cosponsor id="400205" joined="1987-10-28"/>
+    <cosponsor id="400216" joined="1987-10-28"/>
+    <cosponsor id="406530" joined="1987-10-28"/>
+    <cosponsor id="406730" joined="1987-10-28"/>
+    <cosponsor id="400243" joined="1987-10-28"/>
+    <cosponsor id="407351" joined="1987-10-28"/>
+    <cosponsor id="408023" joined="1987-10-28"/>
+    <cosponsor id="408190" joined="1987-10-28"/>
+    <cosponsor id="400299" joined="1987-10-28"/>
+    <cosponsor id="400306" joined="1987-10-28"/>
+    <cosponsor id="408457" joined="1987-10-28"/>
+    <cosponsor id="408618" joined="1987-10-28"/>
+    <cosponsor id="409205" joined="1987-10-28"/>
+    <cosponsor id="400533" joined="1987-10-28"/>
+    <cosponsor id="400539" joined="1987-10-28"/>
+    <cosponsor id="409887" joined="1987-10-28"/>
+    <cosponsor id="409954" joined="1987-10-28"/>
+    <cosponsor id="409966" joined="1987-10-28"/>
+    <cosponsor id="410066" joined="1987-10-28"/>
+    <cosponsor id="410251" joined="1987-10-28"/>
+    <cosponsor id="411065" joined="1987-10-28"/>
+    <cosponsor id="400417" joined="1987-10-28"/>
+    <cosponsor id="400428" joined="1987-10-28"/>
+    <cosponsor id="411725" joined="1987-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-28" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aircraft"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Public safety"/>
+    <term name="Smoke detectors"/>
+  </subjects>
+  <amendments/>
+  <summary>10/28/1987--Introduced.
+Amends the Federal Aviation Act of 1958 to establish a fine of not more than $50,000, or imprisonment for up to five years, or both, as criminal penalties for any person who knowingly and without authority tampers with a smoke detection device of an aircraft used for air transportation.</summary>
+</bill>

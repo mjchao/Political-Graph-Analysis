@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3339" updated="2014-03-22T09:52:49-04:00">
+  <state datetime="1987-09-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-23"/>
+  </status>
+  <introduced datetime="1987-09-23"/>
+  <titles>
+    <title type="short" as="introduced">Lower Income Homeownership Improvement Act</title>
+    <title type="official" as="introduced">A bill to amend section 235 of the National Housing Act to reduce the costs of the lower income homeownership program.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-23" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Federal aid to housing"/>
+    <term name="Home ownership"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing finance"/>
+    <term name="Low-income housing"/>
+    <term name="Mortgage interest rates"/>
+    <term name="Mortgage loans"/>
+    <term name="Mortgages"/>
+  </subjects>
+  <amendments/>
+  <summary>9/23/1987--Introduced.
+Lower Income Homeownerhip Improvement Act - Amends the National Housing Act to require the Secretary of Housing and Urban Development to review lower-income mortgage assistance contracts and, if a contract's interest rate exceeds current rates on similar mortgages by more than three percentage points, the Secretary shall notify the homeowner that: (1) he or she should attempt to refinance; and (2) the Secretary will reimburse reasonable refinancing costs.</summary>
+</bill>

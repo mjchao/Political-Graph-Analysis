@@ -1,0 +1,75 @@
+<bill session="100" type="h" number="1890" updated="2014-03-22T09:52:05-04:00">
+  <state datetime="1987-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-01"/>
+  </status>
+  <introduced datetime="1987-04-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the obligation or expenditure of funds available to the Department of Defense for the direct or indirect benefit of the Nicaraguan democratic resistance (commonly referred to as the "Contras") unless such funds were appropriated for such purpose.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-05-12"/>
+    <cosponsor id="400025" joined="1987-05-12"/>
+    <cosponsor id="400527" joined="1987-05-12"/>
+    <cosponsor id="402626" joined="1987-05-12"/>
+    <cosponsor id="403364" joined="1987-05-12"/>
+    <cosponsor id="300038" joined="1987-05-12"/>
+    <cosponsor id="403776" joined="1987-04-01"/>
+    <cosponsor id="404006" joined="1987-05-12"/>
+    <cosponsor id="404013" joined="1987-05-12"/>
+    <cosponsor id="404019" joined="1987-05-12"/>
+    <cosponsor id="400140" joined="1987-05-12"/>
+    <cosponsor id="404376" joined="1987-05-12"/>
+    <cosponsor id="404422" joined="1987-05-12"/>
+    <cosponsor id="400585" joined="1987-05-12"/>
+    <cosponsor id="404752" joined="1987-05-12"/>
+    <cosponsor id="405687" joined="1987-05-12"/>
+    <cosponsor id="400240" joined="1987-05-12"/>
+    <cosponsor id="400595" joined="1987-05-12"/>
+    <cosponsor id="407282" joined="1987-05-12"/>
+    <cosponsor id="407672" joined="1987-05-12"/>
+    <cosponsor id="400278" joined="1987-04-01"/>
+    <cosponsor id="400299" joined="1987-05-12"/>
+    <cosponsor id="400306" joined="1987-05-12"/>
+    <cosponsor id="408457" joined="1987-05-12"/>
+    <cosponsor id="409446" joined="1987-05-12"/>
+    <cosponsor id="409632" joined="1987-05-12"/>
+    <cosponsor id="400387" joined="1987-05-12"/>
+    <cosponsor id="410889" joined="1987-05-12"/>
+    <cosponsor id="400409" joined="1987-05-12"/>
+    <cosponsor id="411025" joined="1987-05-12"/>
+    <cosponsor id="400612" joined="1987-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-01" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on Readiness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Defense budgets"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Insurgency"/>
+    <term name="International affairs"/>
+    <term name="Nicaragua"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/1987--Introduced.
+Prohibits the obligation or expenditure of funds available to the Department of Defense for the direct or indirect benefit of the Nicaraguan democratic resistance, unless such funds were specifically authorized and appropriated for such purpose.</summary>
+</bill>

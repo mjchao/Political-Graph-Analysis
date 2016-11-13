@@ -1,0 +1,111 @@
+<bill session="100" type="h" number="4182" updated="2014-03-22T09:53:06-04:00">
+  <state datetime="1988-10-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-31"/>
+  </status>
+  <introduced datetime="1988-03-16"/>
+  <titles>
+    <title type="short" as="passed senate">Zuni-Cibola National Historical Park Establishment Act of 1988</title>
+    <title type="short" as="enacted">Zuni-Cibola National Historical Park Establishment Act of 1988</title>
+    <title type="official" as="introduced">A bill to authorize the establishment of the Zuni-Cibola National Historical Park in the State of New Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="411025" joined="1988-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-16" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-20">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-942.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Placed on Union Calendar No: 565.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1988-09-22" calendar="Senate Legislative" under="General Orders" number="981">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 981.</text>
+    </calendar>
+    <action datetime="1988-10-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-11" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-12" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-31" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-567" type="public" datetime="1988-10-31">
+      <text>Became Public Law No: 100-567.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Arizona"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Historic sites"/>
+    <term name="National parks"/>
+    <term name="Native Americans"/>
+    <term name="New Mexico"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Roads and highways"/>
+    <term name="Trails"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3659"/>
+  </amendments>
+  <summary>10/11/1988--Passed Senate amended.
+(Measure passed Senate, amended) Zuni-Cibola National Historical Park Establishment Act of 1988 - Establishes the Zuni-Cibola National Historical Park in New Mexico. Authorizes the Secretary of the Interior to accept a leasehold interest in trust lands of the Zuni Indian Reservation which are necessary for the establishment of such park. Provides for the management of the park by the Secretary. Authorizes the Secretary to accept concurrent jurisdiction from the Zuni Tribe with respect to law enforcement within the park. Exempts all enrolled members of the Tribe from the payment of park admission fees. Authorizes the Secretary to enter into cooperative agreements with the Tribe for the purpose of providing training to Zuni members in the management and preservation of historical properties and needed public services on the Reservation. Directs the Secretary to give employment preference to tribal members with respect to park management. Sets forth requirements with respect to Federal agency activities affecting the park. Establishes the Zuni-Cibola National Historical Park Advisory Commission within the Department of the Interior. Provides that such Commission shall advise the Director of the National Park Service in the planning, management, and administration of the park. Authorizes the Commission to employ an administrative director. Directs the Secretary to develop and transmit a park management plan to the House Committee on Interior and Insular Affairs, the Senate Committee on Energy and Natural Resources, and the Senate Select Committee on Indian Affairs. Authorizes the Secretary to close the park to the public when tribal religious activities are scheduled. Includes the Zuni-Cibola National Historical Park as an area to be accessed by the Masau Trail. Authorizes appropriations.</summary>
+</bill>

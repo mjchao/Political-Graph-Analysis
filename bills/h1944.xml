@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="1944" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1987-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-06"/>
+  </status>
+  <introduced datetime="1987-04-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require an annual report on the Strategic Defense Initiative program, and for other purposes.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-06" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Research and Development.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS01" subcommittee="Research and Development" name="House Armed Services"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Defense articles"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="International affairs"/>
+    <term name="Military policy"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space warfare"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>4/6/1987--Introduced.
+Directs the Secretary of Defense to include in the annual report to the Congress a review of the Strategic Defense Initiative (SDI) systems, including progress reports on the deployment of such systems. Encourages the President to begin talks with the Soviet Union concerning any applicable treaty restrictions relating to the SDI systems.</summary>
+</bill>

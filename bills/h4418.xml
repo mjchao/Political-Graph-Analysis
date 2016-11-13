@@ -1,0 +1,190 @@
+<bill session="100" type="h" number="4418" updated="2014-12-10T13:14:36-05:00">
+  <state datetime="1988-10-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-31"/>
+  </status>
+  <introduced datetime="1988-04-20"/>
+  <titles>
+    <title type="short" as="introduced">National Science Foundation Authorization Act for Fiscal Years 1989 and 1990</title>
+    <title type="short" as="reported to house">National Science Foundation Authorization Act for Fiscal Years 1989 and 1990</title>
+    <title type="short" as="passed house">National Science Foundation Authorization Act for Fiscal Years 1989 and 1990</title>
+    <title type="short" as="passed senate">National Science Foundation Authorization Act of 1988</title>
+    <title type="short" as="passed senate" partial="1">Academic Research Facilities Modernization Act of 1988</title>
+    <title type="short" as="passed senate" partial="1">College and University Innovation Research Program Act of 1988</title>
+    <title type="short" as="passed senate" partial="1">Undergraduate Science and Engineering Improvement Act of 1988</title>
+    <title type="short" as="enacted">National Science Foundation Authorization Act of 1988</title>
+    <title type="short" as="enacted" partial="1">Academic Research Facilities Modernization Act of 1988</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for the National Science Foundation for fiscal years 1989 and 1990, and for other purposes.</title>
+  </titles>
+  <sponsor id="411224"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-20" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-05" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-05-24">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-649.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Placed on Union Calendar No: 384.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Rules Committee Resolution H.Res.459 Reported to House.</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <vote how="roll" type="vote" roll="177" datetime="1988-06-09" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 405 - 5 (Record Vote No: 177).</text>
+    </vote>
+    <calendar datetime="1988-06-14" calendar="Senate Legislative" under="General Orders" number="733">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 733.</text>
+    </calendar>
+    <action datetime="1988-06-17">
+      <text>Senate struck all after the Enacting Clause and substituted the language of S. 1632 amended.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="191" datetime="1988-06-17" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate in lieu of S. 1632 with an amendment and an amendment to the Title by Yea-Nay Vote. 88-1. Record Vote No: 191.</text>
+    </vote>
+    <action datetime="1988-06-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>House Concurred in Senate Amendments to House Amendments, with Amendments, by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate amendment.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-14" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment to the Senate amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-31" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-570" type="public" datetime="1988-10-31">
+      <text>Became Public Law No: 100-570.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="459"/>
+    <bill relation="unknown" session="100" type="s" number="1632"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative procedure"/>
+    <term name="Antarctic regions"/>
+    <term name="Authorization"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Biology"/>
+    <term name="Buy American"/>
+    <term name="Chemistry"/>
+    <term name="College teachers"/>
+    <term name="Colleges"/>
+    <term name="Communists"/>
+    <term name="Community colleges"/>
+    <term name="Computers"/>
+    <term name="Computers in education"/>
+    <term name="Conflict of interests"/>
+    <term name="Disabled"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and employment"/>
+    <term name="Earthquakes"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational facilities"/>
+    <term name="Educational technology"/>
+    <term name="Engineering"/>
+    <term name="Equipment and supplies"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to research"/>
+    <term name="Federal budgets"/>
+    <term name="Financial disclosure"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foundations"/>
+    <term name="Geology"/>
+    <term name="Geophysics"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Higher education"/>
+    <term name="Ice breaking operations"/>
+    <term name="Inspectors general"/>
+    <term name="International cooperation in science"/>
+    <term name="Laboratories"/>
+    <term name="Language and languages"/>
+    <term name="Loyalty oaths"/>
+    <term name="Mathematics"/>
+    <term name="Minority education"/>
+    <term name="Minority students"/>
+    <term name="Museums"/>
+    <term name="National Science Foundation"/>
+    <term name="Oceanographic research ships"/>
+    <term name="Physics"/>
+    <term name="Planning-programming-budgeting"/>
+    <term name="Public meetings of administrative bodies"/>
+    <term name="Research"/>
+    <term name="Research and development"/>
+    <term name="Research and development facilities"/>
+    <term name="Research centers"/>
+    <term name="Research grants"/>
+    <term name="Revolving funds"/>
+    <term name="Saline water conversion"/>
+    <term name="Scholarships"/>
+    <term name="Science and technology"/>
+    <term name="Scientific education"/>
+    <term name="Scientific instruments and apparatus"/>
+    <term name="Scientists"/>
+    <term name="Shipbuilding"/>
+    <term name="Social sciences"/>
+    <term name="Student aid"/>
+    <term name="Supercomputers"/>
+    <term name="Teacher education"/>
+    <term name="Teachers"/>
+    <term name="Teaching materials"/>
+    <term name="Technical education"/>
+    <term name="Technological innovations"/>
+    <term name="Women engineers"/>
+    <term name="Women scientists"/>
+    <term name="Women's education"/>
+  </subjects>
+  <amendments>
+    <amendment number="h738"/>
+    <amendment number="h739"/>
+    <amendment number="h740"/>
+    <amendment number="h741"/>
+    <amendment number="h742"/>
+    <amendment number="h743"/>
+  </amendments>
+  <summary>9/27/1988--House agreed to Senate amendment with amendment.
+(House agreed to Senate amendment with an amendment) National Science Foundation Authorization Act of 1988 - Title I: National Science Foundation Authorization - Authorizes appropriations for FY 1989 through 1993 to the National Science Foundation (NSF). Sets forth the following categories for which FY 1989 through 1991 funds for research and related activities are to be available: (1) mathematical and physical sciences; (2) engineering; (3) biological, behavioral, and social sciences; (4) geosciences; (5) computer and information science and engineering; (6) Science and Technology Research Centers; (7) scientific, technological, and international affairs; and (8) program development and management. Authorizes FY 1992 and 1993 appropriations for research and related programs, but without specifying categories of expenditure. Authorizes FY 1989 through 1993 funds for the following additional programs: (1) academic research facilities modernization; (2) the U.S. Antarctic Program; and (3) science and engineering education, including specified amounts for College Science Instrumentation in FY 1989. Earmarks specified FY 1989 amounts for teacher training and enhancement, and for the development of model curricula tailored for science and mathematics instruction and instruction in technician training programs, in two-year and community colleges. Prescribes guidelines for the obligation and allocation of funds in connection with planning grants for Science and Technology Centers. Limits the amounts that may be used for consultation, representation, or other extraordinary expenses. Permits transfers of funds among categories as long as transfers do not exceed ten percent of authorized amounts. Permits transfers in excess of ten percent if specified congressional committees are given 30 days' notice in writing. Amends the National Science Foundation Act of 1950 to allow portions of National Science Board meetings to be closed to the public when the Board considers possible NSF budgets for a particular fiscal year, if the President's budget for that fiscal year has not yet been submitted to the Congress. Repeals provisions that: (1) condition NSF scholarships and fellowships upon the recipient's oath of allegiance to the United States; and (2) prohibit members of Communist organizations from applying for NSF scholarships or fellowships. Amends the Science and Technology Equal Opportunities Act to require the Committee on Equal Opportunities in Science and Engineering to report biennially rather than annually. Amends the National Science Foundation Act of 1950 to authorize the NSF Director to hire, on a temporary basis, personnel on leave of absence from academic, industrial, or research institutions. Directs the NSF, beginning in FY 1990, to submit to the Congress each fiscal year, at the time of the release of the President's budget, a three-year budget estimate for each major activity. Requires National Science Board members to file financial disclosure reports under the the Ethics in Government Act of 1978. Instructs the NSF Director to: (1) follow specified guidelines when evaluating research center performance; (2) encourage the formation of consortia of private sector and academic entities when making grants to research centers; and (3) award purchase and services contracts, to the maximum extent practicable, to domestic firms. Requires the Director to report to specified congressional committees on the number of contracts entered into with both domestic and foreign firms in FY 1988 and steps that will be taken to increase awards to domestic firms. Directs the NSF to support undergraduate science and engineering activities in instrumentation and laboratory improvement, undergraduate faculty enhancement, and research opportunities and curriculum development at the undergraduate level, as well as efforts to encourage the participation of women, minorities, and the disabled in these fields. Requires the NSF Director to: (1) operate an experimental program to stimulate competitive research in the interest of assisting States that historically have received relatively little Federal research and development funding and have demonstrated a commitment to improve their research and education programs; and (2) report to specified congressional committees, not later than March 1, 1989, on ways to help academic researchers at the postsecondary level to pursue high-quality research having economic potential. Directs the National Academy of Sciences to study and report to the Congress concerning current U.S. earthquake engineering research efforts. Directs the Office of Science and Technology Policy to report to the Congress, not later than December 1, 1988, on desalination research and technology. Authorizes the President to make Presidential Awards for Excellence in Mathematics and Science Teaching. Makes funds available for these awards from amounts appropriated for the Foundation for Science and Engineering Education. Amends the Elementary and Secondary Education Act of 1965 to institute corresponding awards for Excellence in Teaching Foreign Languages. Authorizes appropriations. Permits the granting of 108 of each category of award to elementary and secondary school teachers who have demonstrated outstanding teaching ability in the relevant field. Prohibits the obligation or expenditure of any authorized FY 1989 through 1993 NSF appropriations unless the NSF administers in good faith a written policy designed to ensure that its workplaces are free from illegal drug use by NSF officers and employees. Applies the same prohibitions in connection with secondary recipients of NSF funding (grantees, contractors). Title II: Academic Research Facilities Modernization - Academic Research Facilities Modernization Act of 1988 - Instructs the NSF Director to establish and carry out a new Academic Research Facilities Modernization Program, making awards to institutions of higher education, independent nonprofit research institutions, research museums, and consortia of these entities for the repair, renovation, or replacement of obsolete laboratories and research facilities. Lists considerations the Director must respect in making awards under the program. Prescribes criteria for the awards, which may not exceed $7,000,000 to any recipient over any five-year period, and instructs the Director to promulgate procedures and to conduct comprehensive planning activities in connection with implementation of the program. Requires that the resultant comprehensive program plan include provisions defining the appropriate roles and responsibilities of Federal, State, and local government, institutions of higher education, and appropriate nongovernmental organizations with respect to research facilities. Instructs the Director to publish program criteria and proposed program guidelines in the Federal Register for public review and comment. Requires the Director to submit a report containing the comprehensive plan to specified congressional committees by June 15, 1989. Mandates that at least 12 percent of the funds appropriated for the program be set aside for institutions of higher education whose enrollment includes a substantial percentage of Black, Hispanic, or Native American students.</summary>
+</bill>

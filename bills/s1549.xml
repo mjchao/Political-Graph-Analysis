@@ -1,0 +1,57 @@
+<bill session="100" type="s" number="1549" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1988-10-12">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-12"/>
+  </status>
+  <introduced datetime="1987-07-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to increase the authorization ceiling for the Closed Basin Division, San Luis Valley Project, Colorado.</title>
+  </titles>
+  <sponsor id="411801"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-07-24">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Subcommittee on Water and Power. Hearings held.</text>
+    </action>
+    <action datetime="1988-10-01">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <calendar datetime="1988-10-01" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="1050">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1050.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+    <committee activity="Referral, Hearings" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Authorization"/>
+    <term name="Colorado"/>
+    <term name="Economics and public finance"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/1987--Introduced.
+Amends the Reclamation Project Authorization Act of 1972 to increase the authorization of appropriations for construction and operation and maintenance of the Closed Basin Division, San Luis Valley Project, Colorado.</summary>
+</bill>

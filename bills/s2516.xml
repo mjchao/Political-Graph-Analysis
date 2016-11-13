@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="2516" updated="2014-03-22T09:55:50-04:00">
+  <state datetime="1988-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-15"/>
+  </status>
+  <introduced datetime="1988-06-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to transfer a certain parcel of land in Clark County, Nevada.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="405305" joined="1988-07-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Child abuse"/>
+    <term name="Homeless"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Youth services"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/1988--Introduced.
+Directs the Secretary of the Interior to transfer specified land to Clark County, Nevada, for use as a site to build Boys Town USA of Las Vegas for homeless, abused, and neglected youth. Reserves mineral rights in such land to the United States.</summary>
+</bill>

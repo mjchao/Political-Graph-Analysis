@@ -1,0 +1,106 @@
+<bill session="100" type="h" number="2683" updated="2014-03-22T09:52:28-04:00">
+  <state datetime="1987-12-14">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-12-14"/>
+  </status>
+  <introduced datetime="1987-06-12"/>
+  <titles>
+    <title type="short" as="passed house">Nuclear Safety and Security Improvements Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Atomic Energy Act of 1954 to improve security procedures, and for other purposes.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-12" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <calendar datetime="1987-07-01" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-07-15">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-223 (Part I).</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-06">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-16">
+      <text>House Committee on Energy and Commerce Granted an Extension for Further Consideration Ending not Later Than October 19, 1987.</text>
+    </action>
+    <action datetime="1987-10-16">
+      <text>House Committee on The Judiciary Granted an Extension for Further Consideration Ending not Later Than October 19, 1987.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-223 (Part II).</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>House Committee on The Judiciary Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-28">
+      <text>Placed on Union Calendar No: 242.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-14" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Discharged"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1316"/>
+    <bill relation="unknown" session="100" type="h" number="1317"/>
+    <bill relation="unknown" session="100" type="h" number="1318"/>
+    <bill relation="unknown" session="100" type="h" number="1319"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative procedure"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Destruction of property"/>
+    <term name="Energy policy"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Freedom of information"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Information leaking"/>
+    <term name="Nuclear Regulatory Commission"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear facilities"/>
+    <term name="Nuclear power plants"/>
+    <term name="Nuclear security measures"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Sabotage"/>
+    <term name="Weapons"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/1987--Passed House amended.
+(Measure passed House, amended) Nuclear Safety and Security Improvements Act of 1987 - Amends the Atomic Energy Act of 1954 to direct the Nuclear Regulatory Commission (the Commission) to prescribe regulations prohibiting the unauthorized disclosure of generic or specific safeguards information which describes the detailed security measures of an applicant or licensee. (Current law does not say "generic or specific.") Authorizes the Department of Energy to issue regulations regarding trespass or the introduction of dangerous materials or instruments upon any property or facility subject to its jurisdiction, administration, custody, or licensing authority. Applies certain criminal penalty provisions to persons who willfully destroy or damage a nuclear facility during its construction where the action could affect public health and safety if undetected before operation. Amends the Energy Reorganization Act of 1974 to authorize the Commission to issue regulations requiring firms subject to defect disclosure requirements to implement procedures to identify, evaluate, and report defects in a nuclear facility or activity. Makes such firms directly responsible for failure to notify the Commission. Subjects to a civil penalty any individual who knowingly and consciously fails to provide such notice.</summary>
+</bill>

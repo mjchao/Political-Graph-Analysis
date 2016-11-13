@@ -1,0 +1,44 @@
+<bill session="100" type="sj" number="207" updated="2014-03-22T09:54:23-04:00">
+  <state datetime="1987-10-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-22"/>
+  </status>
+  <introduced datetime="1987-10-22"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution recognizing, encouraging, and supporting the National Rural Crisis Response Center.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-10-22"/>
+    <cosponsor id="300026" joined="1987-10-22"/>
+    <cosponsor id="403483" joined="1987-10-22"/>
+    <cosponsor id="403669" joined="1987-10-22"/>
+    <cosponsor id="404679" joined="1987-10-22"/>
+    <cosponsor id="405305" joined="1987-10-22"/>
+    <cosponsor id="407622" joined="1987-10-22"/>
+    <cosponsor id="409580" joined="1987-10-22"/>
+    <cosponsor id="409917" joined="1987-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="361"/>
+    <bill relation="identical" session="100" type="hj" number="361"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Agricultural economics"/>
+    <term name="Commemorations"/>
+    <term name="Farmers"/>
+    <term name="Farms"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/1987--Introduced.
+Declares that the National Rural Crisis Response Center is deserving of recognition, encouragement, and support of the Congress and the American people. Recognizes the Center for the valuable service being rendered and authorizes and requests the President to issue a proclamation calling upon the people of the United States to recognize, encourage, and support the Center.</summary>
+</bill>

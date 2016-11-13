@@ -1,0 +1,114 @@
+<bill session="100" type="h" number="2224" updated="2014-03-22T09:52:17-04:00">
+  <state datetime="1987-10-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-27"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Panama Canal Commission Authorization Act, Fiscal Year 1988</title>
+    <title type="short" as="reported to house">Panama Canal Commission Authorization Act, Fiscal Year 1988</title>
+    <title type="short" as="passed house">Panama Canal Commission Authorization Act, Fiscal Year 1988</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for fiscal year 1988 for the Panama Canal Commission to operate and maintain the Panama Canal, and for other purposes.</title>
+  </titles>
+  <sponsor id="400397"/>
+  <cosponsors>
+    <cosponsor id="404068" joined="1987-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Executive Comment Requested from DOD, State, Treasury, Panama Canal Comm.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Referred to Subcommittee on Panama Canal and Outer Continental Shelf.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Favorable Executive Comment Received From State.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-08-06">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-275.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Placed on Union Calendar No: 172.</text>
+    </action>
+    <action datetime="1987-08-17">
+      <text>Favorable Executive Comment Received From Panama Canal Comm.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Committee Amendment in the Nature of a Substitute Considered as an Original Bill for the Purpose of Amendment.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>House Agreed to Amendments Adopted by the Committee of the Whole.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>See H.R.3545.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSMM05" subcommittee="Panama Canal and Outer Continental Shelf" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Authorization"/>
+    <term name="Building leases"/>
+    <term name="Business and commerce"/>
+    <term name="Canals"/>
+    <term name="Civil service compensation"/>
+    <term name="Claims"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Government liability"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Insurance"/>
+    <term name="Interoceanic canals"/>
+    <term name="Navigation"/>
+    <term name="Panama Canal"/>
+    <term name="Panama Canal Commission"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Salaries"/>
+    <term name="Treaties"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments>
+    <amendment number="h472"/>
+  </amendments>
+  <summary>10/27/1987--Passed House amended.
+(Measure passed House, amended) Panama Canal Commission Authorization Act, Fiscal Year 1988 - Authorizes funds to be appropriated from the Panama Canal Commission Fund to the Panama Canal Commission for FY 1988 for operating expenses including expenses for: (1) the hire of passenger motor vehicles and aircraft; (2) the purchase of passenger motor vehicles; (3) official receptions and representation expenses; (4) expert and consultant services; (5) a residence for the Administrator of the Commission; (6) uniforms; (7) employee recreation and community projects; and (8) the operation of guide services. Specifies a maximum amount of funds which may be used for capital outlays. Authorizes additional appropriations for salary increases, retirement and employee benefits, payments to Panama, and increased fuel costs. Requires the Commission to report to the Congress concerning: (1) the condition of the Panama Canal and potential adverse effects on U.S. shipping and commerce; (2) the effect on canal operations of the military forces under General Noriega; and (3) an evaluation of the effect on canal operations if the Panamanian Government continues to withhold its consent to major factors in the U.S. Senate's ratification of the Panama Canal Treaties.</summary>
+</bill>

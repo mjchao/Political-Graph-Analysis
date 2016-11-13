@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="171" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-05-19">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H. R. 1451) to amend the Older Americans Act of 1965 to authorize appropriations for the fiscal years 1988, 1989, 1990, and 1991, and for other purposes.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-19">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-99.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Placed on House Calendar No: 25.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="1451"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 1451 (old age assistance).</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="2107" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-21"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Notch Reform Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act, effective after fiscal year 1991, to protect the future benefit levels of individuals becoming eligible for benefits in or after 1979 by eliminating the disparity (resulting from changes made in 1977 in the benefit computation formula) between those levels and the benefit levels of persons who became eligible for benefits before 1979.</title>
+  </titles>
+  <sponsor id="411901"/>
+  <cosponsors>
+    <cosponsor id="403696" joined="1987-04-21"/>
+    <cosponsor id="400595" joined="1988-04-13"/>
+    <cosponsor id="408190" joined="1987-04-21"/>
+    <cosponsor id="400333" joined="1987-04-21"/>
+    <cosponsor id="400409" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Social Security Notch Reform Act of 1987 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to revise the benefit levels of individuals becoming eligible for benefits in or after 1979 so that they are equal to the benefit levels of individuals who became eligible for benefits before 1979.</summary>
+</bill>

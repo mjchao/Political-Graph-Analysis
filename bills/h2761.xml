@@ -1,0 +1,91 @@
+<bill session="100" type="h" number="2761" updated="2014-03-22T09:52:29-04:00">
+  <state datetime="1987-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-24"/>
+  </status>
+  <introduced datetime="1987-06-24"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Prescription Drug Catastrophic Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act and the Internal Revenue Code of 1986 to provide for prescription drugs benefits under the medicare program and provide for coverage of all State and local government employees under the medicare program.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-10-06"/>
+    <cosponsor id="400895" joined="1987-10-06"/>
+    <cosponsor id="400527" joined="1987-10-06"/>
+    <cosponsor id="400572" joined="1987-10-06"/>
+    <cosponsor id="402626" joined="1987-10-06"/>
+    <cosponsor id="400100" joined="1987-10-06"/>
+    <cosponsor id="403364" joined="1987-10-06"/>
+    <cosponsor id="404190" joined="1987-10-06"/>
+    <cosponsor id="404750" joined="1987-10-06"/>
+    <cosponsor id="405256" joined="1987-10-06"/>
+    <cosponsor id="405687" joined="1987-10-06"/>
+    <cosponsor id="406148" joined="1987-10-06"/>
+    <cosponsor id="400216" joined="1987-10-06"/>
+    <cosponsor id="406730" joined="1987-10-06"/>
+    <cosponsor id="400240" joined="1987-10-06"/>
+    <cosponsor id="407282" joined="1987-10-06"/>
+    <cosponsor id="400306" joined="1987-10-06"/>
+    <cosponsor id="400314" joined="1987-10-06"/>
+    <cosponsor id="409344" joined="1987-10-06"/>
+    <cosponsor id="409593" joined="1987-10-06"/>
+    <cosponsor id="410145" joined="1987-10-06"/>
+    <cosponsor id="400409" joined="1987-10-06"/>
+    <cosponsor id="410926" joined="1987-10-06"/>
+    <cosponsor id="411725" joined="1987-10-06"/>
+    <cosponsor id="400614" joined="1987-10-06"/>
+    <cosponsor id="411947" joined="1987-10-06"/>
+    <cosponsor id="411948" joined="1987-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-24" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Provisions of Measure Incorporated Into H.R.2470.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Ambulatory care"/>
+    <term name="Catastrophic health insurance"/>
+    <term name="Costs"/>
+    <term name="Drugs"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Drugstores"/>
+    <term name="Electronic data processing"/>
+    <term name="Health"/>
+    <term name="Health maintenance organizations"/>
+    <term name="Insulin"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local officials and employees"/>
+    <term name="Medical economics"/>
+    <term name="Medicare"/>
+    <term name="Pharmacists"/>
+    <term name="Social security eligibility"/>
+    <term name="State officials and employees"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/1987--Introduced.
+Medicare Prescription Drug Catastrophic Protection Act of 1987 - Amends title XVIII (Medicare) of the Social Security Act to cover catastrophic expenses for outpatient prescription drugs and insulin (outpatient drugs) under part B (Supplementary Medical Insurance) of the Medicare program. Sets the annual deductible for such coverage at $250 for 1989, with subsequent annual adjustments of such deductible reflecting changes in the cost of medical care. Covers all costs in excess of such deductible provided the cost for each drug does not exceed payment limits based on the average cost for each drug. Authorizes the Secretary to deny payment for outpatient drugs which are prescribed or dispensed with excessive frequency or in excessive quantities. Authorizes a pharmacy to enter into an agreement with the Secretary of Health and Human Services to accept payment under part B of the Medicare program on an assigned basis for outpatient drugs furnished to part B enrollees. Sets forth the obligations of participating pharmacies, including the requirements that they: (1) charge Medicare beneficiaries no more for drugs than they charge the general public; (2) keep patient records for all outpatient drugs dispensed to such beneficiaries; (3) assist beneficiaries in determining whether or not their expenses have exceeded the annual deductible; and (4) offer to counsel each of their beneficiaries on the appropriate use of such drugs and the availability of therapeutically equivalent outpatient drugs. Requires the Secretary to provide each participating pharmacy with: (1) a distinctive emblem indicating its status as such; and (2) information on the payment limits established for outpatient drugs. Requires Medicare carriers which make determinations or payments with respect to outpatient drugs to offer to receive requests from participating pharmacies for payments for such drugs through electronic communications and respond to requests by such pharmacies as to whether or not an individual has paid the deductible for such drugs. Directs the Secretary to: (1) take this Act's amendments into account in estimating the adjusted average per capita cost used in computing payments to be made to health maintenance organizations; and (2) require such organizations to adjust their agreements with Medicare beneficiaries in consideration of such amendments. Provides Medicare coverage of all State and local government employees.</summary>
+</bill>

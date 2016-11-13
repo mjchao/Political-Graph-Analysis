@@ -1,0 +1,68 @@
+<bill session="100" type="s" number="2637" updated="2014-03-22T09:55:53-04:00">
+  <state datetime="1988-11-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-07"/>
+  </status>
+  <introduced datetime="1988-07-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Gillian Lesley Sackler.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+    <calendar datetime="1988-08-10" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-12">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-09-12" calendar="Senate Legislative" under="General Orders" number="925">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 925.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-15" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-20" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-28">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-07" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-35" type="private" datetime="1988-11-07">
+      <text>Became Private Law No: 100-35.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/1988--Introduced.
+Declares a named individual to have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act.</summary>
+</bill>

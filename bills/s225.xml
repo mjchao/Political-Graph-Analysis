@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="225" updated="2014-03-22T09:54:49-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to protect the benefit levels of individuals becoming eligible for benefits in or after 1979 by eliminating the disparity (resulting from changes made in 1977 in the benefit computation formula) between those levels and the benefit levels of persons who become eligible for benefits before 1979.</title>
+  </titles>
+  <sponsor id="403142"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1987-01-28"/>
+    <cosponsor id="300031" joined="1987-07-29"/>
+    <cosponsor id="403346" joined="1987-05-05"/>
+    <cosponsor id="300048" joined="1987-01-20"/>
+    <cosponsor id="300051" joined="1987-02-02"/>
+    <cosponsor id="405310" joined="1987-04-23"/>
+    <cosponsor id="407622" joined="1987-01-14"/>
+    <cosponsor id="407663" joined="1987-02-02"/>
+    <cosponsor id="300073" joined="1987-02-19"/>
+    <cosponsor id="408898" joined="1987-01-21"/>
+    <cosponsor id="300082" joined="1987-01-14"/>
+    <cosponsor id="300089" joined="1987-03-24"/>
+    <cosponsor id="410315" joined="1987-02-02"/>
+    <cosponsor id="300157" joined="1987-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to revise the benefit levels of individuals becoming eligible for benefits in or after 1979 so that they are equal to the benefit levels of individuals who became eligible for benefits before 1979.</summary>
+</bill>

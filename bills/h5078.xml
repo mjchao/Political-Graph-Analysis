@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="5078" updated="2014-03-22T09:53:32-04:00">
+  <state datetime="1988-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-14"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Public Safety Radio Compatibility Act of 1988</title>
+    <title type="official" as="introduced">A bill to require the Federal Communications Commission to prescribe standards for compatibility of mobile radio systems for public safety uses, and for other purposes.</title>
+  </titles>
+  <sponsor id="408190"/>
+  <cosponsors>
+    <cosponsor id="404068" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Emergency communication systems"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Radio"/>
+    <term name="Radio broadcasting"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Introduced.
+Public Safety Radio Compatibility Act of 1988 - Directs the Federal Communications Commission, as part of its national public safety plan for mobile radio communications, to prescribe regulations setting national technical standards to establish interoperability between and among trunked public safety radio systems.</summary>
+</bill>

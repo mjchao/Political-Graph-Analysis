@@ -1,0 +1,52 @@
+<bill session="100" type="h" number="4824" updated="2014-03-22T09:53:27-04:00">
+  <state datetime="1988-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-15"/>
+  </status>
+  <introduced datetime="1988-06-15"/>
+  <titles>
+    <title type="short" as="introduced">Joint Federal Task Force on Clandestine Drug Laboratories Establishment Act of 1988</title>
+    <title type="official" as="introduced">A bill to establish the Joint Federal Task Force on Clandestine Drug Laboratories.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-15" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1988-06-24">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1988-06-24">
+      <text>See H.R.4916.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4916"/>
+  </relatedbills>
+  <subjects>
+    <term name="Drugs"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Environmental protection"/>
+    <term name="Executive reorganization"/>
+    <term name="Government operations and politics"/>
+    <term name="Hazardous waste disposal"/>
+    <term name="Laboratories"/>
+    <term name="Narcotic traffic"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/1988--Introduced.
+Joint Federal Task Force on Clandestine Drug Laboratories Establishment Act of 1988 - Establishes the Joint Federal Task Force on Clandestine Drug Laboratories to formulate, establish, and implement a program for the cleanup and disposal of hazardous waste produced by clandestine drug laboratories. Directs the Task Force to submit an initial report to the President and the Congress and to report periodically on its progress thereafter.</summary>
+</bill>

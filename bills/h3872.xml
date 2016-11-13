@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="3872" updated="2016-06-29T08:43:39-04:00">
+  <state datetime="1988-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-27"/>
+  </status>
+  <introduced datetime="1988-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 2680(a) of title 28, United States Code, to narrow the discretionary function exception to the Federal Tort Claims Act.</title>
+  </titles>
+  <sponsor id="408407"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-01-27"/>
+    <cosponsor id="400537" joined="1988-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-27" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-01-29">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Decision making in public administration"/>
+    <term name="Government liability"/>
+    <term name="Negligence"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1988--Introduced.
+Amends the Federal Tort Claims Act to provide that the Government may be held liable for damages resulting from negligent acts committed during the implementation of a discretionary function or duty. States that the exception provided policy decisions respecting such discretionary functions or duties shall continue.</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2077" updated="2014-03-22T09:52:11-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Area Agency on Aging Uniform Listing Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Older Americans Act of 1965 to require uniform telephone listing of area agencies on aging.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-05-18"/>
+    <cosponsor id="401418" joined="1987-04-09"/>
+    <cosponsor id="403864" joined="1987-05-12"/>
+    <cosponsor id="400143" joined="1987-05-12"/>
+    <cosponsor id="404869" joined="1987-05-12"/>
+    <cosponsor id="405646" joined="1987-05-12"/>
+    <cosponsor id="400211" joined="1987-05-12"/>
+    <cosponsor id="400595" joined="1987-05-12"/>
+    <cosponsor id="410261" joined="1987-05-12"/>
+    <cosponsor id="400414" joined="1987-05-18"/>
+    <cosponsor id="411725" joined="1987-05-12"/>
+    <cosponsor id="411901" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED07" subcommittee="Human Resources" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Directories"/>
+    <term name="Old age assistance"/>
+    <term name="Social workers"/>
+    <term name="Telephone"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Area Agency on Aging Uniform Listing Act of 1987 - Amends the Older Americans Act of 1965 to require each area agency on aging to list its telephone number in each telephone directory covering geographical areas served by such agency.</summary>
+</bill>

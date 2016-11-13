@@ -1,0 +1,38 @@
+<bill session="100" type="sj" number="236" updated="2016-06-29T08:45:08-04:00">
+  <state datetime="1987-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-12-18"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate the week of January 17 through January 23, 1988, as "National Jaycee Week".</title>
+  </titles>
+  <sponsor id="300079"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-12-18"/>
+    <cosponsor id="404219" joined="1988-01-26"/>
+    <cosponsor id="404598" joined="1988-01-26"/>
+    <cosponsor id="408898" joined="1987-12-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="407"/>
+    <bill relation="identical" session="100" type="hj" number="407"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Citizen participation"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Introduced.
+Designates the week of January 17 through January 23, 1988, as National Jaycee Week.</summary>
+</bill>

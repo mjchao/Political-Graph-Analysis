@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="270" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide a transition period for the full implementation of the nonrecurring adoption expenses reimbursement program.</title>
+  </titles>
+  <sponsor id="405795"/>
+  <cosponsors>
+    <cosponsor id="402412" joined="1987-09-11"/>
+    <cosponsor id="403171" joined="1987-04-22"/>
+    <cosponsor id="403346" joined="1987-03-06"/>
+    <cosponsor id="403515" joined="1987-03-30"/>
+    <cosponsor id="404598" joined="1987-04-02"/>
+    <cosponsor id="300052" joined="1987-04-02"/>
+    <cosponsor id="300154" joined="1987-02-17"/>
+    <cosponsor id="300056" joined="1987-06-23"/>
+    <cosponsor id="300079" joined="1987-02-17"/>
+    <cosponsor id="410315" joined="1987-07-17"/>
+    <cosponsor id="410936" joined="1987-03-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="914"/>
+    <bill relation="identical" session="100" type="h" number="914"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Adoption"/>
+    <term name="Children and youth"/>
+    <term name="Income tax"/>
+    <term name="Social welfare"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Tax Reform Act of 1986 to provide that provisions relating to the repeal of the income tax deduction for adoption expenses shall not take effect until taxable years beginning after December 31 of the calendar year in which final regulations are issued to implement the reimbursement of nonrecurring adoption expenses under any adoption assistance agreement under subtitle E (Foster Care and Adoption Assistance) of title IV of the Social Security Act.</summary>
+</bill>

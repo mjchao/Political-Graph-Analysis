@@ -1,0 +1,33 @@
+<bill session="100" type="hj" number="641" updated="2016-06-29T08:44:50-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating the month of May 1989, as "National Stroke Awareness Month".</title>
+  </titles>
+  <sponsor id="401874"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Brain diseases"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Designates the month of May 1989 as National Stroke Awareness Month.</summary>
+</bill>

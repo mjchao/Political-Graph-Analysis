@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="329" updated="2014-03-22T09:54:51-04:00">
+  <state datetime="1987-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-20"/>
+  </status>
+  <introduced datetime="1987-01-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Dynamic Technology International, Inc., Lew Malank Associates, Star Design, Inc., Riverside Precision Machines, and certain other individuals.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/1987--Introduced.
+Authorizes and directs the Secretary of the Treasury to pay a sum to be determined to certain organizations and individuals in full satisfaction of their claims against the United States for damages resulting from certain actions of U.S. agents, officers, and employees committed prior to, during, and after various contract investigations.</summary>
+</bill>

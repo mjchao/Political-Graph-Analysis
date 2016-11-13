@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="2973" updated="2014-03-22T09:52:35-04:00">
+  <state datetime="1987-11-16">REPORTED</state>
+  <status>
+    <unknown datetime="1987-11-16"/>
+  </status>
+  <introduced datetime="1987-07-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Junior Achievement of Sacramento, Inc.</title>
+  </titles>
+  <sponsor id="400256"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-20" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-24">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-11-16" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-11-16">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-444.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Placed on Private Calendar No: 39.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Passed House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-12-03">
+      <text>Received in the Senate and read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Social welfare"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/20/1987--Introduced.
+Declares that services performed over a specified period for a named corporation shall not be treated as employment for purposes of the employment tax provisions of the Internal Revenue Code and title II (Old Age, Survivors and Disability Insurance) of the Social Security Act.</summary>
+</bill>

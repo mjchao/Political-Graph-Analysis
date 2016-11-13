@@ -1,0 +1,78 @@
+<bill session="100" type="s" number="2838" updated="2014-03-22T09:55:57-04:00">
+  <state datetime="1988-10-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Sipsey Wild and Scenic River and Alabama Wilderness Addition Act of 1988</title>
+    <title type="short" as="passed senate">Sipsey Wild and Scenic River and Alabama Wilderness Addition Act of 1988</title>
+    <title type="official" as="introduced">A bill to designate the Sipsey River as a component of the National Wild and Scenic Rivers System, to designate certain areas as additions to the Sipsey Wilderness, to designate certain areas as additions to the Cheaha Wilderness, and to preserve over thirty thousand acres of pristine natural treasures in the Bankhead National Forest for the aesthetic and recreational benefit of future generations of Alabamians, and for other purposes.</title>
+  </titles>
+  <sponsor id="405310"/>
+  <cosponsors>
+    <cosponsor id="300089" joined="1988-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <calendar datetime="1988-09-28" state="REPORTED">
+      <text>Committee on Agriculture. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-30">
+      <text>Committee on Agriculture. Reported to Senate by Senator Leahy without amendment. With written report No. 100-578.</text>
+    </action>
+    <calendar datetime="1988-09-30" calendar="Senate Legislative" under="General Orders" number="1043">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1043.</text>
+    </calendar>
+    <action datetime="1988-10-05">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="5395"/>
+    <bill relation="identical" session="100" type="h" number="5395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Administrative procedure"/>
+    <term name="Alabama"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Dams"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Fire prevention"/>
+    <term name="Forest roads"/>
+    <term name="Forests and forest products"/>
+    <term name="Government operations and politics"/>
+    <term name="Insect control"/>
+    <term name="Judicial review"/>
+    <term name="Judicial review of administrative acts"/>
+    <term name="Lakes"/>
+    <term name="National forests"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Recreation areas"/>
+    <term name="Rivers"/>
+    <term name="Trails"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water quality"/>
+    <term name="Wild rivers"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3420"/>
+  </amendments>
+  <summary>10/5/1988--Passed Senate amended.
+(Measure passed Senate, amended) Sipsey Wild and Scenic River and Alabama Wilderness Addition Act of 1988 - Title I: Wild and Scenic River Designation - Amends the Wild and Scenic River Act to designate specified segments of the Sipsey Fork River, Alabama, as components of the National Wild and Scenic Rivers System. Directs the Secretary of Agriculture to do a study to determine the feasibility of constructing a dam to establish a lake for recreational use within the Bankhead National Forest. Directs the Secretary to monitor waters flowing into Lewis Smith Lake and to take appropriate actions to control any conditions causing injurious water quality. Title II: Wilderness Designation - Designates the following lands in Alabama as components of the National Wilderness Preservation System: (1) the Sipsey Wilderness in the William B. Bankhead National Forest; and (2) the Cheaha Wilderness in the Talladega National Forest. Authorizes the Secretary to take measures to control fire, insects, and diseases within the Sipsey Wilderness. Requires the Secretary, at his discretion, to convert existing roads within the Sipsey Wilderness Addition into hiking or horse trails. Requires the Secretary to permit continued use of horse drawn vehicles on routes designated by the Secretary in the Addition. Provides that the RARE II (second roadless area review and evaluation) final environmental statement (dated January 1979) with respect to national forest system lands in Alabama shall not be subject to judicial review. Releases national forest system lands in Alabama which were reviewed in the RARE II program from further review by the Department of Agriculture, pending the revision of initial national forest management plans. Releases lands in Alabama reviewed in the RARE II program and not designated as wilderness from management as wilderness areas. Prohibits the Department of Agriculture from conducting any further statewide roadless area review and evaluation of national forest system lands in Alabama without express congressional authorization. States that the provisions above shall also apply to national forest system roadless lands in Alabama which are less than 5,000 acres in size.</summary>
+</bill>

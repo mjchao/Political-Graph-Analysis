@@ -1,0 +1,68 @@
+<bill session="100" type="sc" number="27" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-03-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-03-26"/>
+  </status>
+  <introduced datetime="1987-03-06"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution stating the sense of the Senate that the U. S. Department of Commerce and Special Trade Representative should initiate investigations of Canadian agricultural subsidies.</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1987-03-25"/>
+    <cosponsor id="300023" joined="1987-03-17"/>
+    <cosponsor id="300026" joined="1987-03-19"/>
+    <cosponsor id="403483" joined="1987-03-18"/>
+    <cosponsor id="300048" joined="1987-03-25"/>
+    <cosponsor id="406183" joined="1987-03-26"/>
+    <cosponsor id="300065" joined="1987-03-26"/>
+    <cosponsor id="300066" joined="1987-03-26"/>
+    <cosponsor id="300070" joined="1987-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-06" state="REFERRED">
+      <text>Referred to the Committee on Finance.</text>
+    </action>
+    <calendar datetime="1987-03-18" state="REPORTED">
+      <text>Committee on Finance. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-03-23">
+      <text>Committee on Finance. Reported to Senate by Senator Bentsen with an amendment in the nature of a substitute and an amendment to the title and an amended preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1987-03-23" calendar="Senate Legislative" under="General Orders" number="66">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 66.</text>
+    </calendar>
+    <action datetime="1987-03-26">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="40" datetime="1987-03-26" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Yea-Nay Vote. 99-0. Record Vote No: 40.</text>
+    </vote>
+    <action datetime="1987-03-30">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, Reporting"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Canada"/>
+    <term name="Countervailing duties"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Subsidies"/>
+    <term name="Tariff"/>
+    <term name="Trade agreements"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/1987--Passed Senate amended.
+(Measure passed Senate, amended, roll call #40 (99-0)) Expresses the sense of the Congress that the U.S. Trade Representative should: (1) initiate an investigation to determine whether the ruling of the Canadian Import Tribunal is inconsistent with the obligations of Canada under the General Agreement on Tariffs and Trade; (2) publish the results of such investigation in the Federal Register; and (3) if the U.S. Trade Representative determines such ruling is inconsistent, initiate an investigation under the Trade Act of 1974 and make recommendations to the President.</summary>
+</bill>

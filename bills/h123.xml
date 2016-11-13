@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="123" updated="2014-03-22T09:51:09-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide for a permanent extension of the exclusion for educational assistance programs.</title>
+  </titles>
+  <sponsor id="403203"/>
+  <cosponsors>
+    <cosponsor id="403576" joined="1988-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Education"/>
+    <term name="Employee benefit plans"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Student aid"/>
+    <term name="Tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Internal Revenue Code to make permanent the income tax exclusion for employee educational assistance programs. (Present law terminates such exclusion as of December 31, 1987.)</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="3859" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-25"/>
+  </status>
+  <introduced datetime="1988-01-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the treatment of certain workers' compensation funds.</title>
+  </titles>
+  <sponsor id="411119"/>
+  <cosponsors>
+    <cosponsor id="403641" joined="1988-02-04"/>
+    <cosponsor id="404163" joined="1988-02-04"/>
+    <cosponsor id="405377" joined="1988-02-04"/>
+    <cosponsor id="405409" joined="1988-02-16"/>
+    <cosponsor id="405646" joined="1988-02-16"/>
+    <cosponsor id="400238" joined="1988-01-25"/>
+    <cosponsor id="408109" joined="1988-03-23"/>
+    <cosponsor id="400306" joined="1988-02-04"/>
+    <cosponsor id="409534" joined="1988-02-04"/>
+    <cosponsor id="409651" joined="1988-02-04"/>
+    <cosponsor id="410066" joined="1988-02-16"/>
+    <cosponsor id="410147" joined="1988-02-04"/>
+    <cosponsor id="400414" joined="1988-02-16"/>
+    <cosponsor id="411488" joined="1988-02-04"/>
+    <cosponsor id="411677" joined="1988-02-16"/>
+    <cosponsor id="411834" joined="1988-03-23"/>
+    <cosponsor id="411901" joined="1988-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-25" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-02-05">
+      <text>Executive Comment Requested from Treasury.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Self-insurance"/>
+    <term name="Tax administration"/>
+    <term name="Tax assessment"/>
+    <term name="Workers' compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/1988--Introduced.
+Prohibits the assessment of any pre-1987 income tax deficiency against a qualified group self-insured workers' compensation fund to the extent the deficiency is attributable to the timing of the policyholder dividend or return premium deductions. Delays until 1989 the application to qualified group self-insurers' funds of the amendments made by the Tax Reform Act of 1986 with respect to property and casualty insurance companies and products.</summary>
+</bill>

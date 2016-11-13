@@ -1,0 +1,133 @@
+<bill session="100" type="h" number="1941" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1987-05-21">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-05-21"/>
+  </status>
+  <introduced datetime="1987-04-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal and amend certain sections of the Powerplant and Industrial Fuel Use Act of 1978.</title>
+  </titles>
+  <sponsor id="400397"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-04-23"/>
+    <cosponsor id="400551" joined="1987-04-06"/>
+    <cosponsor id="401029" joined="1987-04-23"/>
+    <cosponsor id="401560" joined="1987-04-06"/>
+    <cosponsor id="401923" joined="1987-04-06"/>
+    <cosponsor id="401947" joined="1987-04-06"/>
+    <cosponsor id="402114" joined="1987-04-06"/>
+    <cosponsor id="402454" joined="1987-04-06"/>
+    <cosponsor id="402675" joined="1987-04-06"/>
+    <cosponsor id="402750" joined="1987-04-06"/>
+    <cosponsor id="400104" joined="1987-05-04"/>
+    <cosponsor id="403576" joined="1987-04-06"/>
+    <cosponsor id="403726" joined="1987-04-06"/>
+    <cosponsor id="400165" joined="1987-04-06"/>
+    <cosponsor id="405258" joined="1987-04-06"/>
+    <cosponsor id="405580" joined="1987-04-06"/>
+    <cosponsor id="300055" joined="1987-04-06"/>
+    <cosponsor id="406740" joined="1987-04-06"/>
+    <cosponsor id="406863" joined="1987-04-06"/>
+    <cosponsor id="407051" joined="1987-04-06"/>
+    <cosponsor id="407399" joined="1987-04-06"/>
+    <cosponsor id="407838" joined="1987-04-06"/>
+    <cosponsor id="400318" joined="1987-04-06"/>
+    <cosponsor id="409205" joined="1987-04-06"/>
+    <cosponsor id="409354" joined="1987-04-06"/>
+    <cosponsor id="409423" joined="1987-04-23"/>
+    <cosponsor id="409966" joined="1987-04-06"/>
+    <cosponsor id="410589" joined="1987-04-06"/>
+    <cosponsor id="400540" joined="1987-04-06"/>
+    <cosponsor id="411405" joined="1987-04-06"/>
+    <cosponsor id="411725" joined="1987-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-05-04">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-78.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Placed on Union Calendar No: 58.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-05-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1987-05-05" calendar="Senate Legislative" under="General Orders" number="111">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 111.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-05-07" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-05-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-05-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-05-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-05-21" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-42" type="public" datetime="1987-05-21">
+      <text>Became Public Law No: 100-42.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="271"/>
+    <bill relation="unknown" session="100" type="h" number="309"/>
+    <bill relation="unknown" session="100" type="h" number="534"/>
+    <bill relation="unknown" session="100" type="s" number="85"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative procedure"/>
+    <term name="Alternative energy sources"/>
+    <term name="Coal"/>
+    <term name="Coal-fired power plants"/>
+    <term name="Department of Energy"/>
+    <term name="Electric power production"/>
+    <term name="Energy facilities"/>
+    <term name="Energy policy"/>
+    <term name="Energy prices"/>
+    <term name="Federal Energy Regulatory Commission"/>
+    <term name="Fuel"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum conservation"/>
+    <term name="Price regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/1987--Passed House amended.
+(Measure passed House, amended) Amends the Powerplant and Industrial Fuel Use Act of 1978 to repeal prohibitions against the use of natural gas or petroleum as a primary energy source in new and existing electric powerplants and major fuel-burning installations. Applies the provisions of this Act only to the contiguous 48 States and the District of Columbia. Prohibits the construction or operation of any new electric powerplant as a base load powerplant without the capability to use coal or another alternate fuel as a primary source. States that an electric powerplant has the capability to use coal or another alternate fuel if: (1) it has sufficient inherent design characteristics to permit the addition of equipment necessary to render it capable of using coal or another alternate fuel as its primary energy source; and (2) it is not technologically or structurally precluded from using coal or another alternate fuel as its primary energy source. Makes the coal utilization requirements inapplicable to peakload powerplants or to intermediate load powerplants. Requires the owner or operator of any new baseload electric powerplant proposing to use natural gas or petroleum as its primary energy source to certify to the Secretary of Energy prior to construction or operation that such powerplant has the requisite coal-using capability. Requires such certification to effectively establish compliance with the coal or alternate fuel utilization requirements as of the date it is filed with the Secretary. Requires the Secretary to publish notice of receipt in the Federal Register within 15 days after receipt of such certification has been filed. Authorizes the Secretary to require supporting documentation to verify such certification within 60 days after it has been filed. States that any permanent exemption from the proscription against the construction of new electric powerplants without coal or alternate fuel capability shall not take effect until all approvals required by State regulatory authorities relating to construction have been obtained. Amends the Natural Gas Policy Act of 1978 to repeal the incremental pricing requirements pertaining to natural gas. Provides that a certain rule promulgated by the Federal Energy Regulatory Commission under such Act shall continue in effect only with regard to flowthrough costs incurred before enactment of this Act (including any surcharges based on such costs).</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="942" updated="2014-03-22T09:51:37-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit further launches of the space shuttle until improved safety features have been developed and installed.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-02-06">
+      <text>Referred to Subcommittee on Space Science Applications.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY02" subcommittee="Space Science and Applications" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Astronautics"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Safety measures"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space sciences"/>
+    <term name="Space shuttles"/>
+    <term name="Spacecraft"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Prohibits launching any space shuttle orbiter unless it is equipped with an escape mechanism which assures that the astronauts aboard will have a realistic chance of survival and recovery should problems arise during the flight as a result of equipment malfunction or hardware defects. Directs the National Aeronautics and Space Administration to: (1) proceed expeditiously with the development and testing of an escape mechanism to achieve such purpose; and (2) periodically report to the appropriate congressional committees on the progress being made.</summary>
+</bill>

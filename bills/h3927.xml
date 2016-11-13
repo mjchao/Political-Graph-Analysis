@@ -1,0 +1,129 @@
+<bill session="100" type="h" number="3927" updated="2014-03-22T09:53:00-04:00">
+  <state datetime="1988-06-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-29"/>
+  </status>
+  <introduced datetime="1988-02-09"/>
+  <titles>
+    <title type="short" as="introduced">Indian Housing Act of 1988</title>
+    <title type="short" as="reported to house">Indian Housing Act of 1988</title>
+    <title type="short" as="passed house">Indian Housing Act of 1988</title>
+    <title type="short" as="enacted">Indian Housing Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the United States Housing Act of 1937 to establish a separate program to provide housing assistance for Indians and Alaska Natives.</title>
+  </titles>
+  <sponsor id="404634"/>
+  <cosponsors>
+    <cosponsor id="401203" joined="1988-03-28"/>
+    <cosponsor id="400023" joined="1988-03-28"/>
+    <cosponsor id="300014" joined="1988-03-28"/>
+    <cosponsor id="404006" joined="1988-03-28"/>
+    <cosponsor id="400140" joined="1988-03-28"/>
+    <cosponsor id="404422" joined="1988-03-28"/>
+    <cosponsor id="400211" joined="1988-03-28"/>
+    <cosponsor id="406277" joined="1988-03-28"/>
+    <cosponsor id="406729" joined="1988-03-28"/>
+    <cosponsor id="407672" joined="1988-03-28"/>
+    <cosponsor id="407960" joined="1988-03-28"/>
+    <cosponsor id="408313" joined="1988-03-28"/>
+    <cosponsor id="409423" joined="1988-03-28"/>
+    <cosponsor id="400533" joined="1988-03-28"/>
+    <cosponsor id="409534" joined="1988-03-28"/>
+    <cosponsor id="410231" joined="1988-03-28"/>
+    <cosponsor id="410889" joined="1988-03-08"/>
+    <cosponsor id="400612" joined="1988-03-28"/>
+    <cosponsor id="411929" joined="1988-03-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-09" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+    <action datetime="1988-02-24">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-27" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-05-05">
+      <text>Reported to House (Amended) by House Committee on Banking, Finance and Urban Affairs.  Report No: 100-604.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Placed on Union Calendar No: 356.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="112" datetime="1988-05-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 312 - 106 (Record Vote No: 112).</text>
+    </vote>
+    <action datetime="1988-05-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="1988-06-10">
+      <text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-10" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate in lieu of S. 1987 without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-10">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-17">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-29" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-358" type="public" datetime="1988-06-29">
+      <text>Became Public Law No: 100-358.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1987"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Alaska"/>
+    <term name="Alaskan natives"/>
+    <term name="Architecture and the disabled"/>
+    <term name="Cooperative housing"/>
+    <term name="Federal aid to Indians"/>
+    <term name="Federal aid to housing"/>
+    <term name="Government paperwork"/>
+    <term name="Hawaii"/>
+    <term name="Home ownership"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing authorities"/>
+    <term name="Housing for the aged"/>
+    <term name="Housing for the handicapped"/>
+    <term name="Low-income housing"/>
+    <term name="Native Americans"/>
+    <term name="Pets"/>
+    <term name="Public housing"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Passed House amended.
+(Measure passed House, amended, roll call #112 (312-106)) Indian Housing Act of 1988 - Amends the United States Housing Act of 1937 to establish a separate assisted housing program for Indians and Alaska Natives. States that: (1) current public housing provisions shall continue to apply to federally assisted Indian housing; and (2) future provisions shall not apply to such housing unless explicitly provided for. Exempts Indian housing authorities (IHAs) from certain requirements under the Housing and Urban-Rural Recovery Act of 1983 regarding pet ownership in assisted housing for the elderly or handicapped. Directs the Secretary of Housing and Urban Development to carry out a mutual help homeownership opportunity program (program) for Indians and Alaska Natives, including non-lower income families. Authorizes the Secretary to provide financial assistance to IHAs for such purpose. Makes single-family dwellings eligible for program assistance. Authorizes cooperative ownership as an eligible form of program ownership. Authorizes up to ten percent of a project's dwellings, or five dwelling units, whichever is higher, to be used for non-lower income families on Indian reservations or other Indian areas if there is a need for such housing that cannot otherwise be met. Authorizes assistance to a non-Indian family if such family is essential to the well-being of Indian families and housing needs cannot otherwise be met. Requires a participating family to enter into a mutual help and occupancy agreement with the IHA which shall provide for: (1) family contribution of at least $1,500 in land, cash, labor, or materials (which may, except for labor, be contributed by the tribe); (2) monthly payments of the higher of either a percentage of adjusted income minus utilities, or the non-federally subsidized portion of the dwelling's operating expenses; (3) family responsibility for maintenance and utilities; and (4) homeownership opportunities. Directs the Secretary to establish a self-help housing program for projects assisted under this Act. Requires participating families to make labor contributions similar to those of the mutual self-help housing program under the Housing Act of 1949. Provides for technical and supervisory assistance to participating families. Permits IHAs to apply for the self-help housing program. Authorizes the Secretary to: (1) consider logistical problems and the availability of skilled labor and acceptable materials in determining maximum contributions to IHA projects; and (2) ensure provision, through the Interdepartmental Agreement on Indian Housing, of roads, electricity, and other facilities necessary for Indian housing projects. Requires IHAs to provide project accessibility for handicapped persons. Requires the Department of Housing and Urban Development annual report to include evaluations of Indian housing, including housing for Native Hawaiians. Directs the Secretary to consult with IHAs to develop implementing regulations under this Act. States that any recaptured Indian housing funds shall be available only for such housing. Excludes from the definition of "adjusted income" for purposes of such Act up to $25 per week of employment or education related travel for families receiving IHA assistance. Includes IHAs in the definition of "public housing agency." Defines "Indian" to mean any person recognized as being an Indian or Alaska Native by an Indian tribe, the Federal Government, or any State. Defines the following terms: (1) Indian area; (2) Indian housing authority; and (3) Indian tribe.</summary>
+</bill>

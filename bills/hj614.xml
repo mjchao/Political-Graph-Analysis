@@ -1,0 +1,37 @@
+<bill session="100" type="hj" number="614" updated="2016-06-29T08:44:49-04:00">
+  <state datetime="1988-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-14"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating the week beginning March 19, 1989, as "National Merit Shop Pride and Productivity Week".</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors>
+    <cosponsor id="404587" joined="1988-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Building construction"/>
+    <term name="Construction industries"/>
+    <term name="Special weeks"/>
+    <term name="Union security"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Introduced.
+Designates the week beginning March 19, 1989, as National Merit Shop Pride and Productivity Week.</summary>
+</bill>

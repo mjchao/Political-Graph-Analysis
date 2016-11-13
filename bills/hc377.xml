@@ -1,0 +1,48 @@
+<bill session="100" type="hc" number="377" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-28"/>
+  </status>
+  <introduced datetime="1988-09-28"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress regarding the state of affairs in Lebanon and urging all parties in Lebanon to work together to resolve the constitutional crisis.</title>
+  </titles>
+  <sponsor id="408313"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-09-28"/>
+    <cosponsor id="403545" joined="1988-09-28"/>
+    <cosponsor id="404019" joined="1988-10-04"/>
+    <cosponsor id="400192" joined="1988-09-29"/>
+    <cosponsor id="406765" joined="1988-09-28"/>
+    <cosponsor id="408190" joined="1988-09-28"/>
+    <cosponsor id="408407" joined="1988-10-04"/>
+    <cosponsor id="400331" joined="1988-09-28"/>
+    <cosponsor id="409443" joined="1988-09-28"/>
+    <cosponsor id="410066" joined="1988-10-04"/>
+    <cosponsor id="410145" joined="1988-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-28" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>See H.Con.Res.381.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hc" number="381"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Lebanon"/>
+    <term name="Sovereignty"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1988--Introduced.
+Expresses the sense of the Congress that the United States should: (1) encourage all parties in Lebanon to support the constitutional mandate to elect a new President; (2) reinforce its commitment to national sovereignty for Lebanon; and (3) oppose actions which promote a partition of Lebanon.</summary>
+</bill>

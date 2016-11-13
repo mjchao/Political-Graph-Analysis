@@ -1,0 +1,44 @@
+<bill session="100" type="sr" number="58" updated="2014-03-22T09:54:35-04:00">
+  <state datetime="1987-01-14">REPORTED</state>
+  <status>
+    <unknown datetime="1987-01-14"/>
+  </status>
+  <introduced datetime="1987-01-14"/>
+  <titles>
+    <title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Appropriations.</title>
+  </titles>
+  <sponsor id="410315"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1987-01-14" state="REPORTED">
+      <text>Committee on Appropriations ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1987-01-14">
+      <text>Committee on Appropriations. Original measure reported to Senate by Senator Stennis. Without written report.</text>
+    </action>
+    <action datetime="1987-01-14">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Committee on Rules. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Origin, Reporting, Markup"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="sr" number="80"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committee staffing"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (Senate)"/>
+    <term name="Government consultants"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/1987--Introduced.
+Authorizes the Senate Committee on Appropriations, from March 1, 1987, through February 29, 1988, to: (1) employ personnel; (2) use on a reimbursable basis the services of agency personnel; (3) procure consultant services; (4) train professional staff; and (5) make expenditures from the contingent fund.</summary>
+</bill>

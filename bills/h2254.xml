@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="2254" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-30"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to permit the Joint Committee on the Library to accept gifts of personal property for use in the Botanic Garden, and for other purposes.</title>
+  </titles>
+  <sponsor id="409654"/>
+  <cosponsors>
+    <cosponsor id="406530" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on Libraries and Memorials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA09" subcommittee="Libraries and Memorials" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Botanical gardens"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional joint committees"/>
+    <term name="Gifts"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Authorizes the Joint Committee on the Library to accept gifts of personal property for use in the Botanic Garden.</summary>
+</bill>

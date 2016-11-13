@@ -1,0 +1,63 @@
+<bill session="100" type="hc" number="86" updated="2014-03-22T09:54:07-04:00">
+  <state datetime="1987-04-09">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-03-25"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress congratulating the people of Berlin on the occasion of the city's 750th anniversary in the year 1987, commending the people of Berlin for their centuries of great tradition and continuing courage in the face of historical adversity, and recognizing the deep and lasting relations they have with the people of the United States of America.</title>
+  </titles>
+  <sponsor id="402710"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-25" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-01" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-04-01">
+      <text>House Committee on Foreign Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-04-09" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-04-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Discharged"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="East Germany"/>
+    <term name="West Germany"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/1987--Introduced.
+States that the Congress: (1) congratulates Berlin on its 750th anniversary; (2) commends the people of Berlin for their tradition and courage in adversity; and (3) recognizes the deep and lasting relations Berliners have with the people of the United States.</summary>
+</bill>

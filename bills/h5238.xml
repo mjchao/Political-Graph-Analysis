@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="5238" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Food and Security Act of 1985 to authorize and direct the Secretary of Agriculture to establish a strategic forage reserve comprised of multiyear set-aside acreage.</title>
+  </titles>
+  <sponsor id="407432"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-08-25">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1988-08-25">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+    <action datetime="1988-08-25">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Grazing"/>
+    <term name="Legumes"/>
+    <term name="Livestock"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Amends the Food Security Act of 1985 to direct the Secretary of Agriculture to establish an eight-million acre strategic forage (grass and legumes) reserve comprising set-aside acreage.</summary>
+</bill>

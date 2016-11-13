@@ -1,0 +1,81 @@
+<bill session="100" type="h" number="4699" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-08-01">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-08-01"/>
+  </status>
+  <introduced datetime="1988-05-26"/>
+  <titles>
+    <title type="short" as="introduced">Computer Matching and Privacy Protection Act of 1988</title>
+    <title type="short" as="passed house">Computer Matching and Privacy Protection Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to ensure privacy, integrity, and verification of data disclosed for computer matching, to establish Data Integrity Boards within Federal agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="403873"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-26" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Referred to Subcommittee on Government Information, Justice, and Agriculture.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-09" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-07-27">
+      <text>Reported to House by House Committee on Government Operations. Report No: 100-802.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Placed on Union Calendar No: 488.</text>
+    </action>
+    <action datetime="1988-08-01">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-01" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-01">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-08-01">
+      <text>House Incorporated this Measure in S.496 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSGO02" subcommittee="Government Information, Justice, and Agriculture" name="House Government Operations"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="496"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Computer security measures"/>
+    <term name="Computers"/>
+    <term name="Computers and government"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Data banks"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public assistance programs"/>
+    <term name="Right of privacy"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>8/1/1988--Passed House amended.
+(Measure passed House, amended) Computer Matching and Privacy Protection Act of 1988 - Requires Federal agencies to enter into written agreements with other agencies or non-Federal entities before disclosing records for use in computer matching programs. Specifies areas to be addressed in such agreements, including justification for matching, notifying individuals (including Federal employees) whose records are to be matched, procedures for retention and destruction of data after matching, and prohibitions on disclosure of records and the compilation of data. Requires a copy of each agreement to be transmitted to specified congressional committees and available to the public upon request. Prohibits an agency from terminating, suspending, reducing, or making final denial of financial assistance to any individual, or to take any other adverse action against such individual, as a result of information produced by the programs until the agency has verified such information. Provides individuals an opportunity to refute such information. Requires agencies to publish in the Federal Register notice of the establishment or the revision of such programs. Requires agencies to provide notice to the Congress and the Office of Management and Budget of any proposal to establish or alter such programs. Requires each agency to establish a Data Integrity Board to oversee and coordinate the implementation of this Act. Prohibits a Board from approving any written agreement for a matching program unless the agency demonstrates that the proposed program is cost effective through a cost-benefit analysis. Authorizes a Board to waive the requirements for such analysis. Sets forth a process for appeal to the Director of Management and Budget of matching agreements that are disapproved. Requires the Director to report to the Congress on information obtained from reports from the various Boards. Defines "matching program" as the computerized comparison of: (1) two or more automated systems of records with a set of non-Federal records; or (2) two or more automated Federal personnel or payroll systems of records or a system of Federal personnel or payroll records with a set of non-Federal records. Excludes certain tax refund offset programs from such definition. Requires the Director to provide guidelines, regulations, assistance, and oversight regarding the implementation of this Act. Requires the Office of the Federal Register biennially (currently, annually) to publish rules promulgated and agency notices on records maintained on individuals. Changes the annual report of the President on such information to a biennial report.</summary>
+</bill>

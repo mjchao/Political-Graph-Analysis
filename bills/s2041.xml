@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="2041" updated="2014-03-22T09:55:33-04:00">
+  <state datetime="1988-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-04"/>
+  </status>
+  <introduced datetime="1988-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 23, United States Code, to reduce Federal highway funds to states that do not enforce the 65 mile per hour speed limit.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-02-23"/>
+    <cosponsor id="300073" joined="1988-02-18"/>
+    <cosponsor id="408597" joined="1988-02-04"/>
+    <cosponsor id="408937" joined="1988-02-04"/>
+    <cosponsor id="409917" joined="1988-02-04"/>
+    <cosponsor id="411421" joined="1988-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Federal aid highway program"/>
+    <term name="Highway finance"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Roads and highways"/>
+    <term name="Speed limits"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1988--Introduced.
+Amends Federal speed limit law to require that States with speed limits exceeding 55 miles an hour must meet the compliance requirement (that at least 50 percent of the motorists on such highways are complying with the posted speed limit) in order to retain their apportionment of Federal-aid highway funds.</summary>
+</bill>

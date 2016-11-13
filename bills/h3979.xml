@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="3979" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-02-18">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-18"/>
+  </status>
+  <introduced datetime="1988-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the compensation of the Clallam County Historical Society for its participation in the construction of the Pioneer Memorial Museum at Olympic National Park, Washington.</title>
+  </titles>
+  <sponsor id="410567"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-24">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Real property"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/1988--Introduced.
+Authorizes the Secretary of the Interior to pay a specified sum to a named organization in compensation for the relinquishment of its interest in certain property in Washington State and in satisfaction of any claim arising out of construction on such property.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="4751" updated="2014-03-22T09:53:24-04:00">
+  <state datetime="1988-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-03"/>
+  </status>
+  <introduced datetime="1988-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Coronado National Trail Study Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the National Trails System Act to provide for a study of the Coronado Trail, and for other purposes.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="400079" joined="1988-06-03"/>
+    <cosponsor id="406992" joined="1988-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-03" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-17">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>For Further Action See S.1693.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1693"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arizona"/>
+    <term name="Historic sites"/>
+    <term name="Kansas"/>
+    <term name="New Mexico"/>
+    <term name="Oklahoma"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Texas"/>
+    <term name="Trails"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/1988--Introduced.
+Coronado National Trail Study Act of 1988 - Amends the National Trails System Act to provide for a study of the Coronado Trail, the route taken by the Spanish explorer through Arizona, New Mexico, Texas, Oklahoma, and Kansas, for inclusion in such System.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="100" type="s" number="2152" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-04"/>
+  </status>
+  <introduced datetime="1988-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to increase the authority to transfer unobligated balances between certain accounts of the Department of Defense in order to meet increased military personnel costs resulting from fluctuations in foreign currency exchange rates, and for other purposes.</title>
+  </titles>
+  <sponsor id="300079"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-03-04"/>
+    <cosponsor id="403483" joined="1988-04-12"/>
+    <cosponsor id="404444" joined="1988-03-04"/>
+    <cosponsor id="404598" joined="1988-03-04"/>
+    <cosponsor id="300159" joined="1988-03-28"/>
+    <cosponsor id="300052" joined="1988-03-04"/>
+    <cosponsor id="300071" joined="1988-03-29"/>
+    <cosponsor id="407663" joined="1988-03-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Committee on Armed Services. Ordered favorably reported an original bill (S. 2374) in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2374"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Appropriations"/>
+    <term name="Authorization"/>
+    <term name="Civilian personnel positions"/>
+    <term name="Defense budgets"/>
+    <term name="Department of Defense"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal employees"/>
+    <term name="Foreign exchange"/>
+    <term name="Government trust funds"/>
+    <term name="Military personnel"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Reprogramming of appropriated funds"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1988--Introduced.
+Amends the Department of Defense Appropriations Act, 1988, and the National Defense Authorization Act for Fiscal Years 1988 and 1989 to increase the amount that the Secretary of Defense may transfer between appropriations and between authorizations within the Department of Defense. Directs the Secretary to give priority to civilian employees, readiness, and a more efficient acquisition process. Allows the Secretary to transfer between the Foreign Currency Fluctuations, Defense account and the military personnel account of a military department funds resulting from increased or decreased military personnel costs due to fluctuations in foreign currency exchange rates.</summary>
+</bill>

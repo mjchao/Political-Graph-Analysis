@@ -1,0 +1,36 @@
+<bill session="100" type="s" number="2399" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-16"/>
+  </status>
+  <introduced datetime="1988-05-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend until December 31, 1993, the existing suspension of duty on certain yttrium ores, materials, and compounds.</title>
+  </titles>
+  <sponsor id="400927"/>
+  <cosponsors>
+    <cosponsor id="300071" joined="1988-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4415"/>
+    <bill relation="identical" session="100" type="h" number="4415"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Metals"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>5/16/1988--Introduced.
+Amends the Tariff Schedules of the United States to extend the suspension of duty on certain yttrium bearing materials and compounds through December 31, 1993.</summary>
+</bill>

@@ -1,0 +1,64 @@
+<bill session="100" type="hj" number="131" updated="2014-03-22T09:53:43-04:00">
+  <state datetime="1987-02-11">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution congratulating Dennis Conner and the crew of STARS AND STRIPES for their achievement in winning the America's Cup.</title>
+  </titles>
+  <sponsor id="400191"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1987-02-04"/>
+    <cosponsor id="406968" joined="1987-02-04"/>
+    <cosponsor id="400601" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-02-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-02-04">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-02-05" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-02-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-02-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-02-06">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-02-06">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-02-11" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-5" type="public" datetime="1987-02-11">
+      <text>Became Public Law No: 100-5.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Boats and boating"/>
+    <term name="Commemorations"/>
+    <term name="Sailing ships"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Authorizes and requests the President to congratulate Dennis Conner and the crew of Stars and Stripes for winning the America's Cup and asks the President to issue a proclamation thanking them for instilling a sense of national pride.</summary>
+</bill>

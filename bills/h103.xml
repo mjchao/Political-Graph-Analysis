@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="103" updated="2014-03-22T09:51:08-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Voluntary School Prayer Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 28 of the United States Code to allow voluntary school prayer.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="1987-03-30"/>
+    <cosponsor id="400571" joined="1987-09-09"/>
+    <cosponsor id="401628" joined="1987-05-28"/>
+    <cosponsor id="402928" joined="1987-11-03"/>
+    <cosponsor id="400191" joined="1987-09-09"/>
+    <cosponsor id="411901" joined="1987-11-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="District courts"/>
+    <term name="Education"/>
+    <term name="Jurisdiction"/>
+    <term name="Prayer in the public schools"/>
+    <term name="Religion"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religion in the public schools"/>
+    <term name="Supreme Court"/>
+    <term name="Supreme Court jurisdiction"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Voluntary School Prayer Act of 1987 - Eliminates Supreme Court and Federal district court jurisdiction to review or hear any case arising out of State law relating to voluntary prayer in public buildings and schools.</summary>
+</bill>

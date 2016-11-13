@@ -1,0 +1,125 @@
+<bill session="100" type="h" number="74" updated="2014-03-22T09:51:08-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Abandoned Shipwreck Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish the title of States in certain abandoned shipwrecks, and for other purposes.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors>
+    <cosponsor id="401155" joined="1987-03-04"/>
+    <cosponsor id="401383" joined="1987-02-09"/>
+    <cosponsor id="400023" joined="1987-01-06"/>
+    <cosponsor id="401418" joined="1987-03-10"/>
+    <cosponsor id="401837" joined="1987-02-09"/>
+    <cosponsor id="402114" joined="1987-04-29"/>
+    <cosponsor id="402454" joined="1987-08-07"/>
+    <cosponsor id="403190" joined="1987-02-23"/>
+    <cosponsor id="403308" joined="1987-04-09"/>
+    <cosponsor id="403314" joined="1987-03-10"/>
+    <cosponsor id="400104" joined="1987-04-09"/>
+    <cosponsor id="403696" joined="1987-04-08"/>
+    <cosponsor id="404006" joined="1987-02-23"/>
+    <cosponsor id="404190" joined="1987-06-08"/>
+    <cosponsor id="404376" joined="1987-05-13"/>
+    <cosponsor id="400544" joined="1987-03-31"/>
+    <cosponsor id="404520" joined="1987-02-10"/>
+    <cosponsor id="404750" joined="1987-02-23"/>
+    <cosponsor id="405409" joined="1987-01-06"/>
+    <cosponsor id="405687" joined="1987-03-10"/>
+    <cosponsor id="400189" joined="1987-04-09"/>
+    <cosponsor id="405775" joined="1987-01-06"/>
+    <cosponsor id="406554" joined="1987-02-10"/>
+    <cosponsor id="406730" joined="1987-02-09"/>
+    <cosponsor id="400240" joined="1987-05-18"/>
+    <cosponsor id="407051" joined="1987-02-10"/>
+    <cosponsor id="400595" joined="1987-02-09"/>
+    <cosponsor id="407564" joined="1987-04-23"/>
+    <cosponsor id="407672" joined="1987-04-23"/>
+    <cosponsor id="407853" joined="1988-03-02"/>
+    <cosponsor id="400524" joined="1987-04-06"/>
+    <cosponsor id="400302" joined="1987-01-06"/>
+    <cosponsor id="408490" joined="1987-04-06"/>
+    <cosponsor id="408621" joined="1987-02-09"/>
+    <cosponsor id="400603" joined="1987-03-04"/>
+    <cosponsor id="409205" joined="1987-07-01"/>
+    <cosponsor id="409344" joined="1988-02-23"/>
+    <cosponsor id="400359" joined="1987-04-29"/>
+    <cosponsor id="409644" joined="1987-06-08"/>
+    <cosponsor id="400369" joined="1987-08-04"/>
+    <cosponsor id="410496" joined="1987-08-05"/>
+    <cosponsor id="410531" joined="1987-03-16"/>
+    <cosponsor id="410553" joined="1987-04-23"/>
+    <cosponsor id="410623" joined="1987-04-23"/>
+    <cosponsor id="410765" joined="1987-02-10"/>
+    <cosponsor id="405855" joined="1987-02-23" withdrawn="1988-03-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Executive Comment Requested from Commerce, Interior, State, Justice, DOD, DOT.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Requested from Justice.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Executive Comment Received From DOT.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-02-24">
+      <text>For Further Action See S.858.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>See S.858.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="858"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Historic sites"/>
+    <term name="Salvage"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Submerged lands"/>
+    <term name="Territorial waters"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Abandoned Shipwreck Act of 1987 - Provides that the United States asserts title to any abandoned shipwreck that is: (1) embedded in submerged lands of a State; (2) embedded in coralline formations protected by a State on its submerged lands; or (3) on submerged lands of a State when such shipwreck is included or eligible for inclusion in the National Register, and the public is given adequate notice of the location of the shipwreck. Declares that any title to abandoned shipwrecks asserted under such conditions is transferred to the State in or on whose submerged lands the shipwreck is located. States that any abandoned shipwreck in or on the public lands of the United States (except the Outer Continental Shelf) is the property of the United States. Directs the Advisory Council on Historic Preservation to publish, within six months after enactment of this Act, advisory guidelines for the protection of shipwrecks and properties.</summary>
+</bill>

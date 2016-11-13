@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="1238" updated="2014-03-22T09:51:45-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Insider Trading Prevention Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide penalties for insider trading of securities and related conduct.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Information disclosure (Securities law)"/>
+    <term name="Insider trading in securities"/>
+    <term name="Securities and Investments"/>
+    <term name="Securities regulation"/>
+    <term name="White collar crime"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Insider Trading Prevention Act of 1987 - Amends the Federal criminal code to establish criminal penalties for insider trading in securities. Defines "insider trading" as using any means or instrumentality of interstate commerce, the mails, or any facility of a national securities exchange to buy or sell a security to which inside information pertains, or to communicate inside information to any person knowing that such communication is likely to result in trading on the basis of such information. Sets forth certain affirmative defenses based on the second party's knowledge of the inside information.</summary>
+</bill>

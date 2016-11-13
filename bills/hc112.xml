@@ -1,0 +1,54 @@
+<bill session="100" type="hc" number="112" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-29"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress regarding the Government of Cuba's decision "to suspend all formalities regarding the execution" of the agreement on immigration matters signed by United States and Cuban representatives on December 14, 1984 (hereinafter, the "Agreement") and its persistent refusal to resume implementation of that Agreement.</title>
+  </titles>
+  <sponsor id="410574"/>
+  <cosponsors>
+    <cosponsor id="402928" joined="1987-06-23"/>
+    <cosponsor id="403184" joined="1987-06-11"/>
+    <cosponsor id="403545" joined="1987-06-02"/>
+    <cosponsor id="404856" joined="1987-06-02"/>
+    <cosponsor id="400192" joined="1987-06-23"/>
+    <cosponsor id="406730" joined="1987-06-23"/>
+    <cosponsor id="400617" joined="1987-06-23"/>
+    <cosponsor id="400595" joined="1987-06-02"/>
+    <cosponsor id="400596" joined="1987-06-02"/>
+    <cosponsor id="407899" joined="1987-06-11"/>
+    <cosponsor id="400365" joined="1987-06-02"/>
+    <cosponsor id="400369" joined="1987-06-02"/>
+    <cosponsor id="409968" joined="1987-06-11"/>
+    <cosponsor id="410066" joined="1987-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Cuba"/>
+    <term name="Immigration"/>
+    <term name="Refugees"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1987--Introduced.
+Expresses the sense of the Congress that the Government of Cuba should take immediate steps to resume implementation of the agreement on migration between the United States and Cuba.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="3722" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-09"/>
+  </status>
+  <introduced datetime="1987-12-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to improve pension benefits for World War I veterans and for surviving spouses of such veterans.</title>
+  </titles>
+  <sponsor id="400906"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="1988-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-09" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Referred to Subcommittee on Compensation, Pension and Insurance.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR01" subcommittee="Compensation, Pension and Insurance" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military pensions"/>
+    <term name="Survivors' benefits"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' pensions"/>
+    <term name="World War I"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/1987--Introduced.
+Amends Federal veterans' benefits provisions to add $1,800 (currently $800) annually in such benefits to veterans of World War I who were not provided with the educational and home-loan benefits that were provided to veterans of later periods. Increases by $600 annually the rate of pension payable to a qualifying surviving spouse of a veteran of World War I.</summary>
+</bill>

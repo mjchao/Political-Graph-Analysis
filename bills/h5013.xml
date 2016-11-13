@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="5013" updated="2014-03-22T09:53:30-04:00">
+  <state datetime="1988-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-12"/>
+  </status>
+  <introduced datetime="1988-07-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Urban Mass Transportation Act of 1964 to allow certain recipients of mass transit assistance to continue to use mass transit vehicles for providing school bus transportation.</title>
+  </titles>
+  <sponsor id="400003"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-12" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-07-25">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1988-07-25">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Mass rapid transit"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="School buses"/>
+    <term name="Student transportation"/>
+    <term name="Transportation and Travel"/>
+    <term name="Trucks"/>
+    <term name="Urban affairs"/>
+    <term name="Urban transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/1988--Introduced.
+Amends the Urban Mass Transportation Act of 1964 to provide that a financial assistance recipient under such Act who used a mass transit vehicle as a school bus in calendar year 1987 may receive financial assistance whether or not such recipient uses any part of it for acquisition, construction, or improvement of a mass transit vehicle for school bus use.</summary>
+</bill>

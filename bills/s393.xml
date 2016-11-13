@@ -1,0 +1,124 @@
+<bill session="100" type="s" number="393" updated="2014-03-22T09:54:52-04:00">
+  <state datetime="1988-05-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-05-20"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Emilie Santos.</title>
+  </titles>
+  <sponsor id="300066"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+    <calendar datetime="1987-03-19" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-05-04">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden under the authority of the order of May  1, 87 without amendment. With written report No. 100-50.</text>
+    </action>
+    <calendar datetime="1987-05-04" calendar="Senate Legislative" under="General Orders" number="108">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 108.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-05-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-05-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-354.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-06">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-06">
+      <text>Placed on Private Calendar No: 26.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1987-11-17">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-11-17">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-11-17">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-05-03" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-05-03">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-05-09">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-05-09">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-05-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-14" type="private" datetime="1988-05-20">
+      <text>Became Private Law No: 100-14.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Declares a named individual to have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act.</summary>
+</bill>

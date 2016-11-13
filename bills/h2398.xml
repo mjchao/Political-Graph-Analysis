@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="2398" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1987-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-13"/>
+  </status>
+  <introduced datetime="1987-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Rural Crisis Intervention Program Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for counseling and outreach programs to aid farmers and rural families, and for other purposes.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="403873" joined="1987-05-20"/>
+    <cosponsor id="404602" joined="1987-05-13"/>
+    <cosponsor id="406157" joined="1987-07-13"/>
+    <cosponsor id="410623" joined="1987-05-20"/>
+    <cosponsor id="411166" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-13" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>See H.R.3492.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3492"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Dislocated workers"/>
+    <term name="Farmers"/>
+    <term name="Farmland loss"/>
+    <term name="Farms"/>
+    <term name="Grants-in-aid"/>
+    <term name="Labor and employment"/>
+    <term name="Rural economic development"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/1987--Introduced.
+Rural Crisis Intervention Program Act of 1987 - Amends the Rural Development Act of 1972 to provide for counseling and outreach programs to aid farmers and others who have been adversely affected by the current farm and rural economic crisis. Extends such program for an additional two years to December 23, 1990.</summary>
+</bill>

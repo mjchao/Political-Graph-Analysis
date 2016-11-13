@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4795" updated="2014-03-22T09:53:25-04:00">
+  <state datetime="1988-06-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-13"/>
+  </status>
+  <introduced datetime="1988-06-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to make the research credit available to certain start-up ventures.</title>
+  </titles>
+  <sponsor id="403581"/>
+  <cosponsors>
+    <cosponsor id="408725" joined="1988-06-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-13" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4805"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business and commerce"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Entrepreneurs"/>
+    <term name="Income tax"/>
+    <term name="Research and development"/>
+    <term name="Research and development tax credit"/>
+    <term name="Science and technology"/>
+    <term name="Small business"/>
+    <term name="Tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>6/13/1988--Introduced.
+Amends the Internal Revenue Code to apply the research tax credit to in-house research expenses that the taxpayer pays or incurs for the principal purpose of using the research results in the active conduct of a future trade or business.</summary>
+</bill>

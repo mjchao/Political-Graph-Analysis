@@ -1,0 +1,96 @@
+<bill session="100" type="s" number="391" updated="2014-12-10T13:15:40-05:00">
+  <state datetime="1988-10-25">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-25"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Hyong Cha Kim Kay.</title>
+  </titles>
+  <sponsor id="300066"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+    <calendar datetime="1987-12-03" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-01-27">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. With written report No. 100-278.</text>
+    </action>
+    <calendar datetime="1988-01-27" calendar="Senate Legislative" under="General Orders" number="523">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 523.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-02-02" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-02-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-09">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-848.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Placed on Private Calendar No: 64.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-04" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-07" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-25" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-23" type="private" datetime="1988-10-25">
+      <text>Became Private Law No: 100-23.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments>
+    <amendment number="h946"/>
+  </amendments>
+  <summary>1/28/1987--Introduced.
+Authorizes the granting of a visa and admission to the United States for permanent residence to a named individual.</summary>
+</bill>

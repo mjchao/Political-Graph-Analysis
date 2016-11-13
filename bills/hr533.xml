@@ -1,0 +1,50 @@
+<bill session="100" type="hr" number="533" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-09-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-09"/>
+  </status>
+  <introduced datetime="1988-09-09"/>
+  <titles>
+    <title type="short" as="introduced">Lebanon Reconstruction Resolution of 1988</title>
+    <title type="official" as="introduced">A resolution expressing the sense of the House regarding United States goals with respect to Lebanon.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-09" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>See H.Con.Res.381.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hc" number="381"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Democracy"/>
+    <term name="Economic growth"/>
+    <term name="Government operations and politics"/>
+    <term name="International military forces"/>
+    <term name="Lebanon"/>
+    <term name="Military occupation"/>
+    <term name="National self-determination"/>
+    <term name="Peace"/>
+    <term name="Sovereignty"/>
+    <term name="Syria"/>
+    <term name="United Nations"/>
+    <term name="War relief"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/1988--Introduced.
+Lebanon Reconstruction Resolution of 1988 - Urges the United States to: (1) to help foster presidential elections in Lebanon; (2) endorse Lebanon's sovereignty and the withdrawal of all foreign forces; (3) encourage the establishment of Lebanese nonbelligerence with respect to regional conflicts; (4) oppose any policy by any foreign power which promotes territorial annexation or de facto partition of Lebanon; (5) assume the role of a diplomatic broker helping Lebanon recover its position as an integral element in the geopolitical equilibrium of the region; (6) work to ensure a major expansion of the mandate and operational capability of the United Nations Interim Force in Lebanon; (7) encourge a reorganization of the relationship between Syria and Lebanon; (8) assist a political and economic reconstruction of Lebanon that reinforces the current constitutional democracy; and (9) commit itself to an overall assistance program that enables Lebanon to recover its economic expansion and address major social problems.</summary>
+</bill>

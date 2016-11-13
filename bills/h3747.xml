@@ -1,0 +1,60 @@
+<bill session="100" type="h" number="3747" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-16">REPORTED</state>
+  <status>
+    <unknown datetime="1987-12-16"/>
+  </status>
+  <introduced datetime="1987-12-11"/>
+  <titles>
+    <title type="short" as="introduced">Omnibus Insular Areas Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide the governance in insular areas, and amend Acts relating thereto.</title>
+  </titles>
+  <sponsor id="403314"/>
+  <cosponsors>
+    <cosponsor id="401526" joined="1987-12-11"/>
+    <cosponsor id="406530" joined="1987-12-11"/>
+    <cosponsor id="410531" joined="1987-12-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-11" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>Subcommittee on Insular and International Affairs Discharged.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-12-16" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-12-16">
+      <text>Referred to Subcommittee on Insular and International Affairs.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>For Further Action See S.1047.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Discharged" code="HSII07" subcommittee="Insular and International Affairs" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3474"/>
+    <bill relation="unknown" session="100" type="s" number="1047"/>
+  </relatedbills>
+  <subjects>
+    <term name="Territories (U.S.)"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Department of the Interior"/>
+    <term name="District courts"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal officials"/>
+    <term name="Grants-in-aid"/>
+    <term name="Judicial officers"/>
+    <term name="Trust Territory of the Pacific Islands"/>
+    <term name="Virgin Islands"/>
+  </subjects>
+  <amendments/>
+  <summary>12/11/1987--Introduced.
+Omnibus Insular Areas Act of 1987 - Requires the Secretary of the Interior to designate a Deputy Director of the Office of Freely Associated State Affairs. Expands the congressional declaration of policy respecting the authority of Federal agencies to consolidate grants to Insular Areas to include as Insular Areas any freely associated states of the Trust Territory of the Pacific Islands. Amends the Revised Organic Act of the Virgin Islands to require the President (currently, the Attorney General) to appoint a U.S. marshal for the Virgin Islands. Repeals the requirements that the District Court of the Virgin Islands for the Division of Saint Croix be held in Christiansted and for the Division of Saint Thomas and Saint John at Charlotte Amalie.</summary>
+</bill>

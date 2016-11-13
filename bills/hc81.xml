@@ -1,0 +1,34 @@
+<bill session="100" type="hc" number="81" updated="2014-03-22T09:54:07-04:00">
+  <state datetime="1987-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-18"/>
+  </status>
+  <introduced datetime="1987-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to request that the President issue a proclamation designating July 4 of each year as the principal national permanent legal holiday.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-18" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorations"/>
+    <term name="Fourth of July"/>
+    <term name="Holidays"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1987--Introduced.
+Requests the President to designate July 4 of each year as the principal national permanent legal holiday.</summary>
+</bill>

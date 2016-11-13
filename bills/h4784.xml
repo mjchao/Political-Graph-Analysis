@@ -1,0 +1,314 @@
+<bill session="100" type="h" number="4784" updated="2014-03-22T09:53:25-04:00">
+  <state datetime="1988-10-01">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-01"/>
+  </status>
+  <introduced datetime="1988-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989</title>
+    <title type="short" as="enacted">Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989</title>
+    <title type="official" as="introduced">A bill making appropriations for Rural Development, Agriculture, and Related Agencies programs for the fiscal year ending September 30, 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="411587"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Referred to Subcommittee on Rural Development, Agriculture and Related Agencies.</text>
+    </action>
+    <action datetime="1988-03-01">
+      <text>First Day of Subcommittee Hearings.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Final Day of Subcommittee Hearings.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>First Day of Subcommittee Mark-up.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Final Day of Subcommittee Mark-up.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-26" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-06-10">
+      <text>Reported to House by House Committee on Appropriations.  Report No: 100-690.</text>
+    </action>
+    <action datetime="1988-06-10">
+      <text>Placed on Union Calendar No: 411.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <vote how="roll" type="vote" roll="190" datetime="1988-06-16" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 343 - 54 (Record Vote No: 190).</text>
+    </vote>
+    <action datetime="1988-06-20">
+      <text>Received in the Senate and read twice and referred to the Committee on Appropriations.</text>
+    </action>
+    <calendar datetime="1988-06-20">
+      <text>Committee on Appropriations. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-06-20">
+      <text>Committee on Appropriations. Reported to Senate by Senator Burdick with amendments. With written report No. 100-389.</text>
+    </action>
+    <calendar datetime="1988-06-20" calendar="Senate Legislative" under="General Orders" number="741">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 741.</text>
+    </calendar>
+    <action datetime="1988-07-28">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="278" datetime="1988-07-29" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 74-8. Record Vote No: 278.</text>
+    </vote>
+    <action datetime="1988-07-29">
+      <text>Senate insists on its amendments, asks for a conference, appoints conferees Burdick; Stennis; Chiles; Sasser; Bumpers; Harkin; Inouye; Cochran; McClure; Kasten; Specter; Grassley; Hatfield.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>House Disagreed to Senate Amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>House Agreed to Request for Conference and Speaker Appointed Conferees: Whitten, Traxler, McHugh, Natcher, Akaka, Watkins, Durbin, Smith (IA), Smith (NE), Myers (IN), Skeen, Weber, Conte.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Conference held.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Conference held.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Conferees agreed to file conference report.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Conference Report 100-990 Filed in House.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>House Agreed to Conference Report by Yea-Nay Vote: 353 - 35 (Record Vote No: 364).</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>House Receded and Concurred in Senate Amendments 020, 060, 071, 078, 115, 116, 117, 118, 119.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>House Receded and Concurred With an Amendment in Senate Amendments 001, 012, 022, 043, 046, 056, 068, 075, 082, 090, 091, 109, 120, 121, 122, 126, 127, 128, 129, 130, 131, 140, 141, 142.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Conference papers: message on House action held at the desk in Senate.</text>
+    </action>
+    <vote how="roll" type="conference" roll="345" datetime="1988-09-30" where="s" result="pass" state="CONFERENCE:PASSED:SENATE">
+      <text>Senate agreed to conference report by Yea-Nay Vote. 90-4. Record Vote No: 345.</text>
+    </vote>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-09-30" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to House amendment to Senate amendments nos. 1, 12, 22, 43, 46, 56, 68, 75, 82, 90, 91, 109, 120, 121, 122, 126, 127, 128, 129, 130, 131, 140, 141, and 142 by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Senate receded from its amendments nos. 110 and 134 by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1988-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-01" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-460" type="public" datetime="1988-10-01">
+      <text>Became Public Law No: 100-460.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAP01" subcommittee="Rural Development, Agriculture and Related Agencies" name="House Appropriations"/>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4373"/>
+    <bill relation="unknown" session="100" type="h" number="5283"/>
+    <bill relation="unknown" session="100" type="h" number="5378"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural education"/>
+    <term name="Agricultural extension work"/>
+    <term name="Agricultural insurance"/>
+    <term name="Agricultural labor"/>
+    <term name="Agricultural marketing regulation"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agricultural research"/>
+    <term name="Agricultural societies"/>
+    <term name="Agricultural statistics"/>
+    <term name="Agricultural surpluses"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Animal diseases"/>
+    <term name="Appropriations"/>
+    <term name="Caribbean area"/>
+    <term name="Child nutrition"/>
+    <term name="Civil service employment"/>
+    <term name="Collection of accounts"/>
+    <term name="Commodity Futures Trading Commission"/>
+    <term name="Commodity control"/>
+    <term name="Commodity exchanges"/>
+    <term name="Commodity prices"/>
+    <term name="Community development"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Cotton"/>
+    <term name="Credit"/>
+    <term name="Dairy products"/>
+    <term name="Day care centers for the aged"/>
+    <term name="Department of Agriculture"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Disabled"/>
+    <term name="Drug adulteration"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Economic development"/>
+    <term name="Economic research"/>
+    <term name="Electric power"/>
+    <term name="Employee training"/>
+    <term name="Energy"/>
+    <term name="Environmental protection"/>
+    <term name="Export credit"/>
+    <term name="Exports"/>
+    <term name="Farm Credit Administration"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to housing"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Fees"/>
+    <term name="Fire fighters"/>
+    <term name="Fire prevention"/>
+    <term name="Flood control"/>
+    <term name="Flowers"/>
+    <term name="Food adulteration and inspection"/>
+    <term name="Food and Drug Administration (FDA)"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Food stamps"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign exchange"/>
+    <term name="Foreign loans"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Freedom of information"/>
+    <term name="Futures trading"/>
+    <term name="Government consultants"/>
+    <term name="Government corporations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Government service contracts"/>
+    <term name="Government trust funds"/>
+    <term name="Grain inspection"/>
+    <term name="Hawaii"/>
+    <term name="Hazardous waste disposal"/>
+    <term name="Hazardous wastes"/>
+    <term name="Higher education"/>
+    <term name="Honey"/>
+    <term name="Housing finance"/>
+    <term name="Import quotas"/>
+    <term name="Infant formulas"/>
+    <term name="Insects"/>
+    <term name="International agricultural cooperation"/>
+    <term name="International competitiveness"/>
+    <term name="Language and languages"/>
+    <term name="Layoffs"/>
+    <term name="Libraries"/>
+    <term name="Low-income housing"/>
+    <term name="Marijuana"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Maternal and infant welfare"/>
+    <term name="Maternal health services"/>
+    <term name="Meat packing industry"/>
+    <term name="Narcotic traffic"/>
+    <term name="Nutrition"/>
+    <term name="Nutrition and the aged"/>
+    <term name="Nuts"/>
+    <term name="Oils and fats"/>
+    <term name="Pest control"/>
+    <term name="Pest management"/>
+    <term name="Petroleum industry"/>
+    <term name="Pharmaceutical research"/>
+    <term name="Philippines"/>
+    <term name="Plant diseases"/>
+    <term name="Poland"/>
+    <term name="Prices"/>
+    <term name="Produce trade"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Residential rehabilitation"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Rural economic development"/>
+    <term name="Rural electrification"/>
+    <term name="Rural housing"/>
+    <term name="School lunch program"/>
+    <term name="Science, technology, communications"/>
+    <term name="Sewage disposal"/>
+    <term name="Soil conservation"/>
+    <term name="Stocks"/>
+    <term name="Sugar and sugar trade"/>
+    <term name="Tariff"/>
+    <term name="Vaccination"/>
+    <term name="Veterinarians"/>
+    <term name="Veterinary medicine"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water purification"/>
+    <term name="Water resources development"/>
+    <term name="Water supply"/>
+    <term name="Watershed management"/>
+  </subjects>
+  <amendments>
+    <amendment number="h754"/>
+    <amendment number="h755"/>
+    <amendment number="s2650"/>
+    <amendment number="s2749"/>
+    <amendment number="s2750"/>
+    <amendment number="s2751"/>
+    <amendment number="s2752"/>
+    <amendment number="s2754"/>
+    <amendment number="s2755"/>
+    <amendment number="s2756"/>
+    <amendment number="s2757"/>
+    <amendment number="s2758"/>
+    <amendment number="s2759"/>
+    <amendment number="s2760"/>
+    <amendment number="s2761"/>
+    <amendment number="s2762"/>
+    <amendment number="s2763"/>
+    <amendment number="s2764"/>
+    <amendment number="s2765"/>
+    <amendment number="s2766"/>
+    <amendment number="s2767"/>
+    <amendment number="s2768"/>
+    <amendment number="s2769"/>
+    <amendment number="s2770"/>
+    <amendment number="s2771"/>
+    <amendment number="s2772"/>
+    <amendment number="s2773"/>
+    <amendment number="s2774"/>
+    <amendment number="s2775"/>
+  </amendments>
+  <summary>9/29/1988--House receded and concurred with amendment.
+(House receded and concurred in certain Senate amendments with amendments) Rural Development, Agriculture, and Related Agencies Appropriations Act, 1989 - Title I: Agricultural Programs - Appropriates funds for FY 1989 to the Department of Agriculture for the following programs and services: (1) Office of the Secretary of Agriculture; (2) Office of the Deputy Secretary of Agriculture; (3) Office of the Assistant Secretary for Special Services; (4) Office of the Assistant Secretary for Administration; (5) rental payments; (6) building operations and maintenance; (7) advisory committees; (8) hazardous waste management; (9) departmental administration; (10) Working Capital Fund; (11) Office of the Assistant Secretary for Governmental and Public Affairs; (12) Office of the Inspector General; (13) Office of the General Counsel; (14) Office of the Assistant Secretary for Economics; (15) Economic Research Service; (16) National Agricultural Statistics Service; (17) World Agricultural Outlook Board; (18) Office of the Assistant Secretary for Science and Education; (19) Agricultural Research Service; (20) Cooperative State Research Service; (21) Extension Service; (22) National Agricultural Library; (23) Office of the Assistant Secretary for Marketing and Inspection Services; (24) Animal and Plant Health Inspection Service; (25) Food Safety and Inspection Service; (26) Federal Grain Inspection Service; (27) Agricultural Cooperative Service; (28) Agricultural Marketing Service; (29) funds for strengthening markets, income, and supply; (30) Office of Transportation; (31) Packers and Stockyards Administration; (32) Office of the Under Secretary for International Affairs and Commodity Programs; (33) Agricultural Stabilization and Conservation Service; (34) Dairy Indemnity Program; (35) Federal Crop Insurance Corporation; and (36) Commodity Credit Corporation. Authorizes specified amounts to be transferred from the Commodity Credit Corporation to support the General Sales Manager in expanding commodity sales abroad. Directs the Commodity Credit Corporation to make specified amounts available for short-term and intermediate export credit. Title II: Rural Development Programs - Appropriates funds for FY 1989 to the Department of Agriculture for rural development assistance. Appropriates funds for the Office of the Under Secretary for Small Community and Rural Development. Appropriates funds for the Farmers Home Administration for: (1) the Rural Housing Insurance Fund; (2) the Self-Help Housing Land Development Fund; (3) the Agricultural Credit Insurance Fund; (4) the Rural Development Insurance Fund; (5) the Rural Development Loan Fund; (6) rural water and waste disposal grants; (7) very low-income housing repair grants; (8) rural housing for domestic farm labor; (9) mutual and self-help housing; (10) rural community fire protection grants; (11) compensation for construction defects; (12) rural housing preservation grants; (13) rural development grants; (14) the Office of the Administrator; and (15) salaries and expenses. Appropriates funds for the Rural Electrification Administration for: (1) rural electrification and telephone revolving fund loans and reimbursements; (2) the Rural Telephone Bank (3) the Rural Communication Development Fund; (4) the rural economic development subaccount; (5) the Office of the Administrator; and (6) salaries and expenses. Appropriates funds for the Office of the Assistant to the Secretary for Natural Resources and the Environment. Appropriates funds for the Soil Conservation Service for: (1) conservation operations; (2) river basin surveys and investigations; (3) watershed planning; (4) watershed and flood prevention operations; (5) resource conservation and development; and (6) the Great Plains conservation programs. Appropriates funds for the Agricultural Stabilization and Conservation Service for: (1) agricultural conservation; (2) forestry incentives; (3) the Water Bank; (4) emergency conservation; (5) Colorado River Basin salinity control; and (6) conservation reserve. Title III: Domestic Food Programs - Appropriates funds for FY 1989 to the Department of Agriculture for the: (1) Office of the Assistant Secretary for Food and Consumer Services; (2) Food and Nutrition Service for child nutrition programs, the school lunch program, the special milk program, the special supplemental food program for women, infants, and children (WIC), and the commodity supplemental food program; (3) Food Stamp Program, including food donations programs for selected groups, temporary emergency food assistance program, and domestic food program administration; and (4) Human Nutrition Information Service. Title IV: International Programs - Appropriates funds for FY 1989 to the Department of Agriculture for: (1) the Foreign Agricultural Service; (2) Agricultural Trade Missions; (3) Public Law 480 (financing the sale of agricultural commodities for convertible foreign currencies); (4) the Office of International Cooperation and Development; and (5) scientific activities overseas (foreign currency program). Title V: Related Agencies - Appropriates funds for FY 1989 for the: (1) Food and Drug Administration (in the Department of Health and Human Services); (2) Farm Credit System Financial Assistance Corporation (in the Department of the Treasury); (3) Commodity Futures Trading Commission; and (4) Farm Credit Administration. Title VI: General Provisions - Limits the expenditure of appropriations for consulting service through procurement contracts to those contracts where such expenditures are a matter of public record and available for public inspection. Authorizes the use of funds for replacement passenger motor vehicles and uniforms and allowances. Limits the availability of funds for contracting for research and service work. Prohibits the use of funds for production payments to recipients who harvest marijuana or other prohibited drug-producing plants for illegal use. Limits the amount of transfers to the Working Capital Fund for the purpose of accumulating growth capital for data services and National Finance Center operations. States that the following appropriation items shall remain available until expended: (1) Public Law 480; (2) mutual and self-help housing; (3) watershed and flood prevention operations; (4) resource conservation and development; (5) Colorado River Basin salinity control program; (6) Animal and Plant Health Inspection Service; (7) specified amounts for an emergency contingency fund, and buildings and facilities; (8) Agricultural Stabilization and Conservation Service county committees; (9) Federal Crop Insurance Corporation Fund; (10) Agricultural Research Service facilities and buildings; (11) scientific activities overseas (foreign currency program); (12) dairy indemnity program; (13) specified amounts for grasshopper and Mormon cricket control; (14) specified amounts for higher education training grants under Public Law 95-113; and (15) Food and Drug Administration facilities and buildings. Limits the availability of funds for orientation and language training. Authorizes part-time and intermittent intra-Department of Agriculture employee transfers. Prohibits the use of funds to implement, administer, or enforce any regulation which has been disapproved pursuant to any resolution of disapproval. Provides that the certificates of beneficial ownership sold by the Farmers Home Administration in connection with specified insurance funds shall not be less than 65 percent of the value of loans closed during the fiscal year. Prohibits the use of funds to carry out any activity related to phasing out the Resource Conservation and Development Program. Prohibits the use of funds to prevent or interfere with the right and obligation of the Commodity Credit Corporation to sell surplus agricultural commodities in world trade at competitive prices. Authorizes the provision of specified commodities to individuals in cases of hardship. Prohibits during FY 1989 the payment of any funds out of the Treasury or any fund of a Government corporation to any private individual or corporation in satisfaction of a loan guarantee entered into by a Federal agency or corporation with respect to loans made and credits extended to the Polish People's Republic, unless: (1) the Republic has been declared to be in default of its debt to such individual or corporation; or (2) the President has provided a monthly written report to specified congressional leaders justifying any such payments during the previous month. Prohibits the use of funds to reimburse the General Services Administration for rental space in excess of amounts specified in this Act. Directs the Secretary of Agriculture to initiate construction on not less than 20 new projects under the Watershed Protection and Flood Prevention Act and not less than five new projects under the Flood Control Act. Authorizes the use of funds for foreign language translation of Department of Agriculture publications. Prohibits the use of funds under this Act to relocate the Hawaii State Office of the FmHA from Hilo, Hawaii, to Honolulu, Hawaii. Exempts Department veterinarians from personal service contract restrictions with respect to taking animal blood samples, testing and vaccinating animals, and performing branding and tagging activities on a fee-for-service basis. Prohibits employee reductions below specified levels for the Food and Drug Administration, the Farmers Home Administration, the Agricultural Stabilization and Conservation Service, the Rural Electrification Administration, and the Soil Conservation Service. Authorizes the use of funds for one-year contracts which are to be performed in two fiscal years so long as such contracts' total amount is obligated in the same year for which the funds are appropriated. States that appropriations shall be applied only to the objects for which the appropriations were made, unless otherwise provided by law. Prohibits the use of funds to restrict the authority of the Commodity Credit Corporation to lease jointly-occupied space for its own use or on behalf of other Department of Agriculture agencies. Prohibits the use of funds to release information acquired from certain handlers under the Agricultural Marketing Agreement Act of 1937. Prohibits the use of funds by the FmHA to employ or otherwise contract with private debt collection agencies to collect delinquent payments from FmHA borrowers. Prohibits the use of funds to alter the method of computing normalized agricultural commodity prices for use by any Federal agency in evaluating water resources development projects in effect as of January 1, 1986. Prohibits the use of funds to: (1) sell loans made by the Agricultural Credit Insurance Fund; or (2) sell or offer for borrower prepayment more loans from the Rural Development Insurance Fund than needed to realize specified net proceeds. Amends the Agricultural Act of 1949 to to establish a price support loan forfeiture limitation for producers of honey. Limits to not more than $250,000 the total value of all collateral which may be forfeited. Makes such limitation inapplicable for any crop year for which the Secretary of Agriculture does not permit producers of honey to repay the price support loans at a certain level. Prohibits the use of funds to pay the salaries of personnel who carry out the following programs, if the aggregate amounts of funds and/or commodities under each of such programs exceed specified levels: (1) a targeted export assistance program under the Food Security Act of 1985; and (2) an export enhancement program.. Requires the use of funds under this Act, within 30 days after its enactment, for certain guaranteed loan prepayments to telephone program and electronic program borrowers. Prohibits the use of funds to regulate the order or sequence of advances to a borrower under any combination of approved telephone loans from the Rural Electrification Administration, the Rural Telephone Bank, or the Federal Financing Bank. Requires the use of specified funds to purchase sunflower and cottonseed oil, in order to facilitate additional sales in world markets at competitive prices. Directs the Secretary of Agriculture, during FY 1989, to make Commodity Credit Corporation commodities available to sugar refiners, operators, and processors to permit them to buy raw sugar grown in the Republic of the Philippines and designated beneficiary countries under the Caribbean Basin Recovery Act at prices equivalent to the market price for raw cane sugar in the United States, on the condition that an equivalent amount of sugar refined in the United States is exported to world markets within 60 days. Specifies minimum tonnage of such imported sugar. Amends the National School Lunch Act to provide that, for purposes of establishing eligibility of older persons and chronically impaired disabled persons for certain free or reduced-price meals or supplements, income shall include only the income of the eligible person and any spouse or dependents with whom such person resides. Provides that persons 60 years of age or older or chronically impaired disabled persons shall be considered automatically eligible for free meals or supplements, without further application or eligibility determination, if they are: (1) members of a household receiving assistance under the Food Stamp Act of 1977; or (2) recipients of assistance under the Supplemental Security Income or Medicaid programs under the Social Security Act. Directs the Secretary of Agriculture, in consultation with the Commissioner of Aging, to establish, within a specified time period, separate guidelines for reimbursement to adult day care centers. Requires that such reimbursement take into account the nutritional requirements of eligible persons, as determined on the basis of tested nutritional research, but not be less than otherwise required. Requires that sums necessary for FY 1989 pay raises for programs funded by this Act be absorbed within the levels appropriated in this Act. Requires all grantees receiving Federal funds (including State and local governments) to clearly state, when issuing statements, press releases, requests for proposals, bid solicitations, and other documents describing programs or projects funded in whole or part with Federal money, the dollar amount of such Federal fund and the percentage of the total cost of the program or project which such Federal funds cover. Prohibits a State, effective August 30, 1989, from using any funds available in this Act for the Special Supplemental Food Program for Women, Infants, and Children (WIC), if it: (1) has not examined the feasibility of implementing certain cost containment procedures for acquiring infant formula and, where practicable, other foods necessary for such program; and (2) has not initiated action to implement any procedures that would lower costs and enable more eligible persons to be served (without interference with the delivery of nutritious foods to recipients). Authorizes the Secretary of Agriculture to extend the effective date of implementation on a case-by-case basis where necessary. Amends the Farm Credit Act of 1971, effective October 1, 1989, to direct the Financial Assistance Corporation to establish a program under which Farm Credit System institutions shall purchase, as debt obligations are issued, stock of the Corporation in amounts determined by a certain formula. Directs the Corporation promptly to rescind purchases of its stock made under certain circumstances and refund the purchase price, deducting and retaining any amount payable with respect to each issuance of debt obligations occurring before October 1, 1988. Directs the Corporation, not later than 15 days before each issuance of debt obligations after September 30, 1988, to notify each System institution of the amount of Corporation stock which that institution is required to purchase.</summary>
+</bill>

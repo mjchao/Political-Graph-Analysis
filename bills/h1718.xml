@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="1718" updated="2014-03-22T09:51:57-04:00">
+  <state datetime="1987-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-19"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Patent Equity Act</title>
+    <title type="official" as="introduced">A bill to amend title 35, United States Code, with respect to patented processes and the patent cooperation treaty.</title>
+  </titles>
+  <sponsor id="406191"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Clean Bill H.R.1931 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Markup" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1508"/>
+    <bill relation="unknown" session="100" type="h" number="1931"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Patents"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Patent Equity Act - Title I: Patented Process - Amends the patent laws to make it an infringement of patent to use, sell, or import into the United States without authority a product produced by a process patented in the United States. Requires the infringer to know or be on notice that the product was made by a process patented in the United States before a process patent holder may recover damages. Limits damages for unknowing infringement to reasonable royalties. Makes this provision effective prospectively only. Directs the Secretary of Commerce to report annually to the Congress for five years on the effect of this provision on the importation of manufacturing ingredients in certain domestic industries.</summary>
+</bill>

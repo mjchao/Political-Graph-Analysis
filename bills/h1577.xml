@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="1577" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1987-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to permit Willie D. Harris to present a claim against the United States in the manner provided for in chapter 171 of title 28, United States Code, and for other purposes.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Declares that the United States shall be liable to a named individual for any injuries he suffered in connection with steroid injections administered by armed forces medical personnel if such injuries are determined to have resulted from the negligence of such medical personnel.</summary>
+</bill>

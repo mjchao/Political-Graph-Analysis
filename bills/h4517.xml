@@ -1,0 +1,118 @@
+<bill session="100" type="h" number="4517" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-11-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-05"/>
+  </status>
+  <introduced datetime="1988-05-03"/>
+  <titles>
+    <title type="short" as="introduced">Outer Continental Shelf Operations Indemnification Clarification Act of 1988</title>
+    <title type="short" as="reported to house">Outer Continental Shelf Operations Indemnification Clarification Act of 1988</title>
+    <title type="short" as="passed house">Outer Continental Shelf Operations Indemnification Clarification Act of 1988</title>
+    <title type="short" as="passed senate">Outer Continental Shelf Operations Indemnification Clarification Act of 1988</title>
+    <title type="short" as="enacted">Outer Continental Shelf Operations Indemnification Clarification Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title III of the Outer Continental Shelf Lands Act Amendments of 1978 to provide for indemnification and hold harmless agreements.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-03" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Executive Comment Requested from Interior, DOT.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Subcommittee on Coast Guard and Navigation Discharged.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-08" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-16">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-710.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Placed on Union Calendar No: 429.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-21">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="1988-06-28" calendar="Senate Legislative" under="General Orders" number="771">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 771.</text>
+    </calendar>
+    <action datetime="1988-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-610" type="public" datetime="1988-11-05">
+      <text>Became Public Law No: 100-610.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Business and commerce"/>
+    <term name="Continental shelf"/>
+    <term name="Government liability"/>
+    <term name="Indemnity"/>
+    <term name="Insurance"/>
+    <term name="Liability for environmental damages"/>
+    <term name="Liability for oil pollution"/>
+    <term name="Liability insurance"/>
+    <term name="Marine insurance"/>
+    <term name="Ocean"/>
+    <term name="Offshore structures"/>
+    <term name="Oil pollution"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Rhode Island"/>
+    <term name="Ships and shipping"/>
+    <term name="Submarine oil well drilling"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3709"/>
+    <amendment number="s3710"/>
+  </amendments>
+  <summary>10/14/1988--Passed Senate amended.
+(Measure passed senate, amended) Outer Continental Shelf Operations Indemnification Clarification Act of 1988 - Amends the Outer Continental Shelf Lands Act Amendments of 1978 to authorize any owner or operator of an offshore facility to enter into an idemnity, hold harmless, or similar agreement regarding their oil pollution liability, but prohibits such agreements from relieving them of liability under the Act or altering the Act's financial responsibility requirements. Limits the liability of any guarantor in a direct action suit brought under the Act to the monetary limits of the instrument obtained from the guarantor by the liable party. Requires the Secretary of the Interior to designate Pettaquamscutt Cove in Rhode Island as a National Wildlife Refuge. Authorizes appropriations.</summary>
+</bill>

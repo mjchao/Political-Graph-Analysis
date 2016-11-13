@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="2024" updated="2014-03-22T09:52:08-04:00">
+  <state datetime="1987-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clear certain impediments to the issuance of a certificate of documentation for a vessel for employment in the coastwise trade and fisheries of the United States.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>For Further Action See H.R.4490.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Executive Comment Received From DOT.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4490"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Ships"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/1987--Introduced.
+Authorizes the Secretary of the department in which the Coast Guard is operating to cause a named vessel to be documented as a vessel of the United States entitled to engage in the coastwise trade and fisheries.</summary>
+</bill>

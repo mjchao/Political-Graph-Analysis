@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="1176" updated="2014-03-22T09:51:43-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Perishable Agricultural Commodities Act of 1930 (7 U.S.C. 499b) to require clear country of origin labeling on imported perishable agricultural products.</title>
+  </titles>
+  <sponsor id="407320"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-05-07"/>
+    <cosponsor id="401383" joined="1987-05-07"/>
+    <cosponsor id="300011" joined="1987-05-07"/>
+    <cosponsor id="403266" joined="1987-05-07"/>
+    <cosponsor id="400100" joined="1987-05-07"/>
+    <cosponsor id="404002" joined="1987-05-07"/>
+    <cosponsor id="404013" joined="1987-05-07"/>
+    <cosponsor id="404422" joined="1987-05-07"/>
+    <cosponsor id="300057" joined="1987-05-07"/>
+    <cosponsor id="400211" joined="1987-05-07"/>
+    <cosponsor id="406530" joined="1987-05-07"/>
+    <cosponsor id="400240" joined="1987-05-07"/>
+    <cosponsor id="400596" joined="1987-05-07"/>
+    <cosponsor id="409353" joined="1987-05-07"/>
+    <cosponsor id="410147" joined="1987-05-07"/>
+    <cosponsor id="400409" joined="1987-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG05" subcommittee="Domestic Marketing, Consumer Relations, and Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural marketing regulation"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Consumer protection"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Fruit and fruit trade"/>
+    <term name="Imports"/>
+    <term name="Labeling"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Vegetables and vegetable trade"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Amends the Perishable Agricultural Commodities Act of 1930 to make it unlawful to fail to mark any perishable agricultural commodity as to its State, country, or region of origin. Increases the penalty from $2,000 to $50,000 for such labeling or misrepresentation violations.</summary>
+</bill>

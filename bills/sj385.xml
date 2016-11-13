@@ -1,0 +1,102 @@
+<bill session="100" type="sj" number="385" updated="2016-06-29T08:45:11-04:00">
+  <state datetime="1988-10-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-07"/>
+  </status>
+  <introduced datetime="1988-09-26"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate September 11 through 17, 1988, as "National Youth 2000 Week".</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-09-26"/>
+    <cosponsor id="400927" joined="1988-09-26"/>
+    <cosponsor id="401391" joined="1988-09-26"/>
+    <cosponsor id="300010" joined="1988-09-26"/>
+    <cosponsor id="401611" joined="1988-09-26"/>
+    <cosponsor id="402412" joined="1988-09-26"/>
+    <cosponsor id="300023" joined="1988-09-26"/>
+    <cosponsor id="403142" joined="1988-09-26"/>
+    <cosponsor id="403171" joined="1988-09-26"/>
+    <cosponsor id="403483" joined="1988-09-26"/>
+    <cosponsor id="300034" joined="1988-09-26"/>
+    <cosponsor id="403515" joined="1988-09-26"/>
+    <cosponsor id="300036" joined="1988-09-26"/>
+    <cosponsor id="403669" joined="1988-09-26"/>
+    <cosponsor id="404444" joined="1988-09-26"/>
+    <cosponsor id="404598" joined="1988-09-26"/>
+    <cosponsor id="404679" joined="1988-09-26"/>
+    <cosponsor id="300159" joined="1988-09-26"/>
+    <cosponsor id="300048" joined="1988-09-26"/>
+    <cosponsor id="405305" joined="1988-09-26"/>
+    <cosponsor id="405310" joined="1988-09-26"/>
+    <cosponsor id="405321" joined="1988-09-26"/>
+    <cosponsor id="300053" joined="1988-09-26"/>
+    <cosponsor id="300056" joined="1988-09-26"/>
+    <cosponsor id="406183" joined="1988-09-26"/>
+    <cosponsor id="300059" joined="1988-09-26"/>
+    <cosponsor id="300060" joined="1988-09-26"/>
+    <cosponsor id="300064" joined="1988-09-26"/>
+    <cosponsor id="300066" joined="1988-09-26"/>
+    <cosponsor id="300070" joined="1988-09-26"/>
+    <cosponsor id="407268" joined="1988-09-26"/>
+    <cosponsor id="300071" joined="1988-09-26"/>
+    <cosponsor id="407786" joined="1988-09-26"/>
+    <cosponsor id="400563" joined="1988-09-26"/>
+    <cosponsor id="300150" joined="1988-09-26"/>
+    <cosponsor id="408420" joined="1988-09-26"/>
+    <cosponsor id="408597" joined="1988-09-26"/>
+    <cosponsor id="408970" joined="1988-09-26"/>
+    <cosponsor id="300082" joined="1988-09-26"/>
+    <cosponsor id="409225" joined="1988-09-26"/>
+    <cosponsor id="300084" joined="1988-09-26"/>
+    <cosponsor id="400565" joined="1988-09-26"/>
+    <cosponsor id="409562" joined="1988-09-26"/>
+    <cosponsor id="409917" joined="1988-09-26"/>
+    <cosponsor id="300092" joined="1988-09-26"/>
+    <cosponsor id="410242" joined="1988-09-26"/>
+    <cosponsor id="300157" joined="1988-09-26"/>
+    <cosponsor id="410936" joined="1988-09-26"/>
+    <cosponsor id="411421" joined="1988-09-26"/>
+    <cosponsor id="411762" joined="1988-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1988-10-05" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-10-05">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-10-05" calendar="Senate Legislative" under="General Orders" number="1091">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1091.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="623"/>
+    <bill relation="identical" session="100" type="hj" number="623"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Special weeks"/>
+    <term name="Youth"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/1988--Introduced.
+Designates the week beginning September 11, 1988, as National Youth 2000 Week.</summary>
+</bill>

@@ -1,0 +1,73 @@
+<bill session="100" type="hj" number="519" updated="2014-03-22T09:54:00-04:00">
+  <state datetime="1988-04-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-04-06"/>
+  </status>
+  <introduced datetime="1988-03-28"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to continue the withdrawal of certain public lands in Nevada.</title>
+  </titles>
+  <sponsor id="400612"/>
+  <cosponsors>
+    <cosponsor id="403364" joined="1988-03-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-28" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-28">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>House Committee on Interior and Insular Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>House Committee on Armed Services Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-29" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-30">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-03-31" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-03-31">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-04-01">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-04-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-04-06" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-280" type="public" datetime="1988-04-06">
+      <text>Became Public Law No: 100-280.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Air force operations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Defense articles"/>
+    <term name="Land use"/>
+    <term name="Military training"/>
+    <term name="Nevada"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>3/28/1988--Introduced.
+Extends from March 31, 1988, to June 15, 1988, the withdrawal from all forms of appropriation under the public land laws certain public lands in Lincoln County, Nevada.</summary>
+</bill>

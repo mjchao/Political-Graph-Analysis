@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="1283" updated="2014-03-22T09:51:46-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the provision of the Tax Reform Act of 1986 which eliminates the deduction for State and local sales taxes.</title>
+  </titles>
+  <sponsor id="400109"/>
+  <cosponsors>
+    <cosponsor id="402435" joined="1987-02-26"/>
+    <cosponsor id="404193" joined="1987-02-26"/>
+    <cosponsor id="406974" joined="1987-02-26"/>
+    <cosponsor id="407721" joined="1987-02-26"/>
+    <cosponsor id="407967" joined="1987-02-26"/>
+    <cosponsor id="410567" joined="1987-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="374"/>
+    <bill relation="identical" session="100" type="h" number="806"/>
+    <bill relation="identical" session="100" type="h" number="3219"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local taxation"/>
+    <term name="Sales tax"/>
+    <term name="State taxation"/>
+    <term name="States"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+See digest of H.R. 374.</summary>
+</bill>

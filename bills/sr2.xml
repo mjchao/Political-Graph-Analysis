@@ -1,0 +1,30 @@
+<bill session="100" type="sr" number="2" updated="2014-03-22T09:54:34-04:00">
+  <state datetime="1987-01-06">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution informing the House of Representatives that a quorum of the Senate is assembled.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-01-06" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Informs the House of Representatives that a quorum of the Senate is assembled.</summary>
+</bill>

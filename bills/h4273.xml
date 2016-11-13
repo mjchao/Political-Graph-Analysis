@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="4273" updated="2014-03-22T09:53:09-04:00">
+  <state datetime="1988-03-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-29"/>
+  </status>
+  <introduced datetime="1988-03-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend titles XVI and II of the Social Security Act to promote the rehabilitation of blind beneficiaries under the SSI and OASDI programs, and to assure that they receive the most appropriate employment and training services which are available, by permitting them to select the agencies to which they will be referred for such services.</title>
+  </titles>
+  <sponsor id="404213"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-04-18"/>
+    <cosponsor id="402454" joined="1988-05-02"/>
+    <cosponsor id="402763" joined="1988-04-18"/>
+    <cosponsor id="403031" joined="1988-05-03"/>
+    <cosponsor id="404006" joined="1988-04-18"/>
+    <cosponsor id="400143" joined="1988-05-11"/>
+    <cosponsor id="404422" joined="1988-05-02"/>
+    <cosponsor id="405236" joined="1988-05-02"/>
+    <cosponsor id="406157" joined="1988-04-18"/>
+    <cosponsor id="400211" joined="1988-04-18"/>
+    <cosponsor id="400256" joined="1988-04-18"/>
+    <cosponsor id="408907" joined="1988-04-18"/>
+    <cosponsor id="400333" joined="1988-04-18"/>
+    <cosponsor id="409353" joined="1988-05-11"/>
+    <cosponsor id="400354" joined="1988-04-18"/>
+    <cosponsor id="300155" joined="1988-05-03"/>
+    <cosponsor id="400611" joined="1988-05-02"/>
+    <cosponsor id="411426" joined="1988-04-18"/>
+    <cosponsor id="411901" joined="1988-05-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-29" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Advisory bodies"/>
+    <term name="Blind"/>
+    <term name="Disabled"/>
+    <term name="Employment and training programs"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Labor and employment"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Public assistance programs"/>
+    <term name="Standards"/>
+    <term name="Supplemental security income program"/>
+    <term name="Vocational rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/29/1988--Introduced.
+Amends titles II (Old Age, Survivors and Disability Insurance) and XVI (Supplemental Security Income) of the Social Security Act to permit blind beneficiaries to select the agency or organization to which they will be referred for vocational rehabilitation services. Requires the Secretary of Health and Human Services to determine whether the agency or organization is an appropriate choice given each beneficiary's particular needs. Directs the Secretary to establish an advisory panel on rehabilitation services for the blind, a majority of which shall consist of blind consumers of rehabilitation services, to develop guidelines and standards for the provision of such services to the blind and to assist the Secretary in determining which agencies or organizations meet the needs of blind beneficiaries.</summary>
+</bill>

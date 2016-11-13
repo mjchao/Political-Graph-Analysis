@@ -1,0 +1,40 @@
+<bill session="100" type="hc" number="379" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-09-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-29"/>
+  </status>
+  <introduced datetime="1988-09-29"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress concerning the current fraternization policies of the Armed Forces of the United States.</title>
+  </titles>
+  <sponsor id="402159"/>
+  <cosponsors>
+    <cosponsor id="402435" joined="1988-10-20"/>
+    <cosponsor id="407215" joined="1988-10-20"/>
+    <cosponsor id="400377" joined="1988-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-29" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel"/>
+    <term name="Women soldiers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1988--Introduced.
+Expresses the sense of the Congress that: (1) an outright prohibition on fraternization between members of the armed forces is not feasible; and (2) the Secretary of Defense should prepare a report which makes recommendations to the President and the Congress for changes in the fraternization policy of the armed forces that may be required to maintain a modern military force.</summary>
+</bill>

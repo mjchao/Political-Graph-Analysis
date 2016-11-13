@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="1040" updated="2014-03-22T09:51:40-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 11 of the United States Code to give priority to certain unsecured claims of retired former employees of the debtor, and for other purposes.</title>
+  </titles>
+  <sponsor id="400334"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-02-05"/>
+    <cosponsor id="401417" joined="1987-02-05"/>
+    <cosponsor id="400572" joined="1987-02-05"/>
+    <cosponsor id="403242" joined="1987-02-05"/>
+    <cosponsor id="404013" joined="1987-02-05"/>
+    <cosponsor id="404477" joined="1987-02-05"/>
+    <cosponsor id="407432" joined="1987-05-06"/>
+    <cosponsor id="400281" joined="1987-02-05"/>
+    <cosponsor id="400286" joined="1987-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>See H.R.2969.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2969"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Business and commerce"/>
+    <term name="Claims"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Employee benefit plans"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+    <term name="Labor and employment"/>
+    <term name="Life insurance"/>
+    <term name="Retirement"/>
+    <term name="Survivors' benefits"/>
+    <term name="Tax liens"/>
+    <term name="Trusts and trustees"/>
+    <term name="Workers' compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Amends Federal bankruptcy provisions to give fifth priority to unsecured claims of retired former employees for up to specified amounts of payments to any employee health insurance plan, employee pension plan, or employee life insurance plan arising from services rendered before the earlier of the date the bankruptcy petition is filed or the date of cessation of the debtor's business. Provides that an entity that is subrogated to the rights of a holder of an unsecured claim of a governmental unit is not subrogated to the priority right of the holder of such claim. Gives second priority in the distribution of property in which the estate has an interest and which is subject to a tax lien that is not avoidable to such unsecured claims of retired former employees. Prohibits a court from confirming a reorganization plan which does not provide for cash or deferred cash payments of the allowed amounts of such claims. Amends the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriation Act, 1987 to require the bankruptcy trustee in any reorganization case to insure the payment to retired former employees of health, disability, or death benefits under a program established or maintained by the debtor prior to filing a bankruptcy petition. (Current law requires the trustee to pay such benefits until May 15, 1987.)</summary>
+</bill>

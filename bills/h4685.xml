@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="4685" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-25"/>
+  </status>
+  <introduced datetime="1988-05-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the authority of the Secretary of Transportation to encourage and foster air commerce in the United States.</title>
+  </titles>
+  <sponsor id="406790"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-25" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Hearings Held by the Subcommittee on Aviation Prior to Referral (June 2, 88).</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airline law and legislation"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Business and commerce"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive reorganization"/>
+    <term name="Government and business"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/1988--Introduced.
+Amends the Federal Aviation Act of 1958 to repeal the mandate of the Secretary of Transportation to foster the development of civil aeronautics and air commerce.</summary>
+</bill>

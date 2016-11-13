@@ -1,0 +1,92 @@
+<bill session="100" type="s" number="1945" updated="2014-03-22T09:55:31-04:00">
+  <state datetime="1988-10-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1987-12-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Second Supplemental Appropriation Act, 1961, relating to the lease of certain lands from the Isleta Indian Tribe for a seismological laboratory.</title>
+  </titles>
+  <sponsor id="300009"/>
+  <cosponsors>
+    <cosponsor id="300036" joined="1987-12-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="1988-04-28" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-05-23">
+      <text>Committee on Indian Affairs. Reported to Senate by Senator Inouye without amendment. With written report No. 100-353.</text>
+    </action>
+    <calendar datetime="1988-05-23" calendar="Senate Legislative" under="General Orders" number="682">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 682.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-13">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-839.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Placed on Union Calendar No: 510.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Placed on Consent Calendar No: 25.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-22" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-22">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-06" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-477" type="public" datetime="1988-10-06">
+      <text>Became Public Law No: 100-477.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Markup, Reporting"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4133"/>
+    <bill relation="identical" session="100" type="h" number="4133"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal installations"/>
+    <term name="Government operations and politics"/>
+    <term name="Indian lands"/>
+    <term name="Laboratories"/>
+    <term name="Leases"/>
+    <term name="New Mexico"/>
+    <term name="Rent"/>
+    <term name="Seismology"/>
+  </subjects>
+  <amendments/>
+  <summary>12/11/1987--Introduced.
+Amends the Second Supplemental Appropriation Act, 1961 to require that annual rent at fair market value be paid for leasing certain Isleta Pueblo Indian tribal lands in New Mexico for a seismological laboratory. Provides for five-year periodic review and readjustment of the rental rate.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="4980" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-07-06">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-06"/>
+  </status>
+  <introduced datetime="1988-07-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize Small Business Administration disaster assistance to concerns affected by the 1988 drought, and for other purposes.</title>
+  </titles>
+  <sponsor id="410076"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-06" state="REFERRED">
+      <text>Referred to House Committee on Small Business.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Referred to Subcommittee on SBA, and the General Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSM02" subcommittee="SBA, and the General Economy" name="House Small Business"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Agricultural cooperatives"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural societies"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Business and commerce"/>
+    <term name="Disaster loans"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Droughts"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Government lending"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>7/6/1988--Introduced.
+Directs the Small Business Administration to make disaster loans available to businesses and agricultural concerns located in areas affected by the 1988 drought that the President or the Secretary of Agriculture has declared to be disaster areas. Prescribes special rules to govern the loans, including a provision mandating that the loan's maturity be determined solely by the borrower's ability to repay the loan from earnings.</summary>
+</bill>

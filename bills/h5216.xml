@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="5216" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for consolidated treatment of certain New England County Metropolitan Areas for purposes of applying the area hospital wage index.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors>
+    <cosponsor id="400600" joined="1988-08-11"/>
+    <cosponsor id="410496" joined="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-08-24">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Medicare"/>
+    <term name="New England"/>
+    <term name="Prospective payment systems (Medical care)"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to treat a hospital which is located in a New England County Metropolitan Area (NECMA) that is adjacent to another NECMA that has a higher Medicare hospital wage index as being located in such other NECMA for purposes of applying the wage index.</summary>
+</bill>

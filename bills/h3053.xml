@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="3053" updated="2016-06-29T08:43:20-04:00">
+  <state datetime="1987-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-29"/>
+  </status>
+  <introduced datetime="1987-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Economic Statute of Repose Act</title>
+    <title type="official" as="introduced">A bill to establish a limitation on the bringing of product liability actions which is related to the useful life of the product involved.</title>
+  </titles>
+  <sponsor id="409654"/>
+  <cosponsors>
+    <cosponsor id="300049" joined="1987-09-30"/>
+    <cosponsor id="406530" joined="1987-08-06"/>
+    <cosponsor id="407838" joined="1987-08-06"/>
+    <cosponsor id="409251" joined="1987-10-01"/>
+    <cosponsor id="410010" joined="1988-02-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-29" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer protection"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Defective products"/>
+    <term name="Limitation of actions"/>
+    <term name="Products liability"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Introduced.
+Economic Statute of Repose Act - Establishes a statute of repose (based upon the useful life of a product) for civil actions brought for damages for death or personal injury resulting from the use of a product of a character subject to the allowance for depreciation under the Internal Revenue Code.</summary>
+</bill>

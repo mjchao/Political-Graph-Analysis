@@ -1,0 +1,61 @@
+<bill session="100" type="hc" number="105" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress regarding the goals and objectives in international trade of the Member Nations of the General Agreement on Tariffs and Trade.</title>
+  </titles>
+  <sponsor id="409887"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1987-04-27"/>
+    <cosponsor id="400569" joined="1987-05-20"/>
+    <cosponsor id="403203" joined="1987-04-27"/>
+    <cosponsor id="400104" joined="1987-04-27"/>
+    <cosponsor id="403545" joined="1987-04-09"/>
+    <cosponsor id="404401" joined="1987-04-09"/>
+    <cosponsor id="300055" joined="1987-04-09"/>
+    <cosponsor id="400226" joined="1987-04-09"/>
+    <cosponsor id="406530" joined="1987-04-09"/>
+    <cosponsor id="406863" joined="1987-04-09"/>
+    <cosponsor id="407215" joined="1987-04-09"/>
+    <cosponsor id="408190" joined="1987-05-20"/>
+    <cosponsor id="400307" joined="1987-04-27"/>
+    <cosponsor id="408618" joined="1987-04-09"/>
+    <cosponsor id="409651" joined="1987-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Dispute settlement"/>
+    <term name="Export subsidies"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign investments"/>
+    <term name="Intellectual property"/>
+    <term name="International cooperation"/>
+    <term name="Nontariff trade barriers"/>
+    <term name="Tariff"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Expresses the sense of the Congress that the member nations of the General Agreement on Tariffs and Trade (GATT) should: (1) negotiate further reductions in tariffs and strengthen the rules governing nontariff barriers; (2) establish rules governing the use of safeguard actions (including voluntary restraint agreements and marketing arrangements) to ensure that such actions contribute to trade adjustment without shifting the burden to other trading countries; (3) develop rules governing agricultural trade (including the elimination of export subsidies and barriers to agricultural markets) and foreign investment; (4) establish enforceable mechanisms for the protection of intellectual property; and (5) strengthen and streamline the GATT dispute settlement procedures.</summary>
+</bill>

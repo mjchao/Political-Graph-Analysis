@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="1805" updated="2014-03-22T09:51:59-04:00">
+  <state datetime="1987-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-25"/>
+  </status>
+  <introduced datetime="1987-03-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 28, United States Code, to provide that an independent counsel shall be a full-time position.</title>
+  </titles>
+  <sponsor id="400617"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-25" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Government attorneys"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Prosecution"/>
+    <term name="Special prosecutors"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/1987--Introduced.
+Makes the position of independent counsel a full-time position.</summary>
+</bill>

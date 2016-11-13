@@ -1,0 +1,72 @@
+<bill session="100" type="h" number="3953" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-17"/>
+  </status>
+  <introduced datetime="1988-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVI of the Social Security Act to provide that the existing requirement for deeming a parent's income and resources to his or her children under age 18 shall not apply in the case of certain severely disabled children, and for other purposes.</title>
+  </titles>
+  <sponsor id="403529"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-03-03"/>
+    <cosponsor id="400975" joined="1988-02-17"/>
+    <cosponsor id="400572" joined="1988-04-13"/>
+    <cosponsor id="402763" joined="1988-03-17"/>
+    <cosponsor id="402833" joined="1988-03-03"/>
+    <cosponsor id="403308" joined="1988-03-17"/>
+    <cosponsor id="403776" joined="1988-04-13"/>
+    <cosponsor id="400126" joined="1988-03-17"/>
+    <cosponsor id="404013" joined="1988-05-03"/>
+    <cosponsor id="404190" joined="1988-03-17"/>
+    <cosponsor id="400140" joined="1988-02-17"/>
+    <cosponsor id="404422" joined="1988-03-03"/>
+    <cosponsor id="400253" joined="1988-03-31"/>
+    <cosponsor id="400600" joined="1988-03-03"/>
+    <cosponsor id="408313" joined="1988-03-31"/>
+    <cosponsor id="400306" joined="1988-03-03"/>
+    <cosponsor id="400314" joined="1988-03-17"/>
+    <cosponsor id="408621" joined="1988-04-13"/>
+    <cosponsor id="409344" joined="1988-03-03"/>
+    <cosponsor id="409353" joined="1988-03-03"/>
+    <cosponsor id="409650" joined="1988-03-03"/>
+    <cosponsor id="410145" joined="1988-03-03"/>
+    <cosponsor id="400614" joined="1988-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-17" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-02-25">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2094"/>
+    <bill relation="identical" session="100" type="s" number="2094"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Children and youth"/>
+    <term name="Corporate mergers"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Disabled"/>
+    <term name="Excise tax"/>
+    <term name="Health"/>
+    <term name="Home care services"/>
+    <term name="Income"/>
+    <term name="Public assistance programs"/>
+    <term name="Stockholders"/>
+    <term name="Supplemental security income program"/>
+    <term name="Taxation"/>
+    <term name="Tender offers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1988--Introduced.
+Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act to exclude parental income and resources from the determination of a disabled child's SSI eligibility if such child requires the level of care provided in a hospital, skilled nursing facility, or intermediate care facility, but care outside such a facility is appropriate and less costly. Amends the Internal Revenue Code to impose a 50 percent excise tax on gain or other income realized by greenmail (amounts paid by corporations in redeeming their stock from certain shareholders) recipients.</summary>
+</bill>

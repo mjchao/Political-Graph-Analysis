@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="1678" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-18"/>
+  </status>
+  <introduced datetime="1987-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the prevention of circumvention of countervailing and antidumping duty orders.</title>
+  </titles>
+  <sponsor id="400035"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-04-07"/>
+    <cosponsor id="401383" joined="1987-04-07"/>
+    <cosponsor id="401418" joined="1987-04-07"/>
+    <cosponsor id="403476" joined="1987-04-09"/>
+    <cosponsor id="400140" joined="1987-04-07"/>
+    <cosponsor id="400536" joined="1987-04-07"/>
+    <cosponsor id="405377" joined="1987-04-07"/>
+    <cosponsor id="400205" joined="1987-04-07"/>
+    <cosponsor id="406461" joined="1987-05-19"/>
+    <cosponsor id="406530" joined="1987-04-07"/>
+    <cosponsor id="400243" joined="1987-04-07"/>
+    <cosponsor id="407141" joined="1987-04-07"/>
+    <cosponsor id="407196" joined="1987-04-07"/>
+    <cosponsor id="407215" joined="1987-04-09"/>
+    <cosponsor id="407471" joined="1987-03-18"/>
+    <cosponsor id="407721" joined="1987-04-07"/>
+    <cosponsor id="408244" joined="1987-04-07"/>
+    <cosponsor id="400306" joined="1987-04-07"/>
+    <cosponsor id="409219" joined="1987-04-07"/>
+    <cosponsor id="400378" joined="1987-04-07"/>
+    <cosponsor id="400409" joined="1987-05-11"/>
+    <cosponsor id="411725" joined="1987-04-07"/>
+    <cosponsor id="411901" joined="1987-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-18" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Provisions of Measure Incorporated Into H.R.4848.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4848"/>
+    <bill relation="identical" session="100" type="s" number="893"/>
+    <bill relation="identical" session="100" type="s" number="893"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Antidumping"/>
+    <term name="Countervailing duties"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1987--Introduced.
+Amends the Tariff Act of 1930 with respect to preventing the circumvention of countervailing and antidumping duty orders and findings. Outlines considerations with respect to the applicability of such orders and findings for: (1) products completed or assembled in the United States with parts or components imported from a country covered by such an order or finding; (2) products completed or assembled in a third country prior to importation into the United States; (3) products altered to be removed from a particular tariff classification; and (4) determining whether a later-developed product is subject to an outstanding order or finding.</summary>
+</bill>

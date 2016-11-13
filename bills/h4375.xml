@@ -1,0 +1,136 @@
+<bill session="100" type="h" number="4375" updated="2014-03-22T09:53:11-04:00">
+  <state datetime="1988-10-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-28"/>
+  </status>
+  <introduced datetime="1988-04-13"/>
+  <titles>
+    <title type="short" as="introduced">Michigan Public Lands Improvement Act of 1988</title>
+    <title type="short" as="reported to house">Michigan Public Lands Improvement Act of 1988</title>
+    <title type="short" as="passed house">Michigan Public Lands Improvement Act of 1988</title>
+    <title type="short" as="enacted">Michigan Public Lands Improvement Act of 1988</title>
+    <title type="official" as="introduced">A bill to improve the management of certain public lands in the State of Michigan.</title>
+  </titles>
+  <sponsor id="400216"/>
+  <cosponsors>
+    <cosponsor id="400527" joined="1988-04-13"/>
+    <cosponsor id="401847" joined="1988-04-13"/>
+    <cosponsor id="402325" joined="1988-04-13"/>
+    <cosponsor id="400080" joined="1988-04-13"/>
+    <cosponsor id="403031" joined="1988-04-13"/>
+    <cosponsor id="403266" joined="1988-04-13"/>
+    <cosponsor id="400110" joined="1988-04-13"/>
+    <cosponsor id="404220" joined="1988-04-13"/>
+    <cosponsor id="405377" joined="1988-04-13"/>
+    <cosponsor id="405409" joined="1988-04-13"/>
+    <cosponsor id="400238" joined="1988-04-13"/>
+    <cosponsor id="408957" joined="1988-04-13"/>
+    <cosponsor id="409651" joined="1988-04-13"/>
+    <cosponsor id="410926" joined="1988-04-13"/>
+    <cosponsor id="400414" joined="1988-04-13"/>
+    <cosponsor id="411119" joined="1988-04-13"/>
+    <cosponsor id="411834" joined="1988-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-13" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-07">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-758.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Placed on Union Calendar No: 459.</text>
+    </action>
+    <action datetime="1988-07-11">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-11" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-07-12">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <calendar datetime="1988-09-14">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-19">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-537.</text>
+    </action>
+    <calendar datetime="1988-09-22" calendar="Senate Legislative" under="General Orders" number="972">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 972.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-11" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-11">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-537" type="public" datetime="1988-10-28">
+      <text>Became Public Law No: 100-537.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Claims"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Islands"/>
+    <term name="Land transfers"/>
+    <term name="Michigan"/>
+    <term name="Mineral rights conveyances"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/11/1988--Passed House amended.
+(Measure passed House, amended) Michigan Public Lands Improvement Act of 1988 - Grants to the State of Michigan the right, title, and interest of the United States in and to certain public uplands and islands in Michigan waters which were not subject to any claim on January 1, 1988. Allows the Secretary of the Interior to sell certain other lands which were subject to a claim identified on the records of the Bureau of Land Management as of that date to the claimants following resolution of conflicting claims. Deems title to public lands which, on the date of enactment of this Act, was subject to leases issued to the State of Michigan under the Recreation and Public Purposes Act to have vested in the State and to be exempt from Department of the Interior regulations governing leases under such Act. Allows the State to receive, under this Act, lands previously patented to the State under such Act by notifying the Secretary that it intends to relinquish such lands to the United States. Requires the Secretary to transfer such lands back to the State subject to the provisions of this Act, effective simultaneously with the State's relinquishment of such lands. Authorizes the Secretary to sell and issue a patent to a tract of public land located in Michigan where the Secretary determines that: (1) such tract does not exceed 1,500 acres and is difficult and uneconomic to manage as part of the public lands and is not suitable for management by another Federal department or agency; and (2) such sale would not be inconsistent with land use plans developed in accordance with the Federal Land Policy and Management Act of 1976. Allows the Secretary, following adjudication of any claims, to convey such land at fair market value, less equities presented by an applicant for such conveyance (such as the amount paid for the land, longevity of the applicant's claim, and taxes paid on the land) and less the value of any improvements. Provides for description of tracts of such land conveyed on the approved Federal plat of survey. Authorizes the Secretary to either: (1) convey title to a qualified trustee, where a tract does not conform to an existing survey plat, in order to conform the legal description to such plat; or (2) require the applicant to reimburse the United States for the cost of preparing a plat of survey. Prohibits the sale of such lands unless the Secretary, before 30 days prior to such sale, publishes notice in a newspaper of general circulation in the county where the tract is located. Reserves to the United States all mineral rights in the lands transferred under this Act. Prohibits the conveyance or transfer of such lands by Michigan to any person or entity other than a political subdivision of the State. Authorizes the use of such lands only for purposes of public recreation or protection of fish, wildlife, plants, or other natural resources and values. Directs the Secretary to take steps to notify Michigan residents of the uplands and islands to be granted or otherwise transferred to the State. Requires Michigan to notify the Secretary with regard to any grant or transfer of such lands by the State to a political subdivision. Requires the State to submit to the Secretary a report within five years of enactment of this Act, and every five years thereafter, as to the present ownership, management, and use of the lands granted or otherwise transferred. Sets forth enforcement procedures. Declares that nothing in this Act shall be construed as affecting the jurisdiction or responsibilities of the State with respect to fish and wildlife in any lands granted or transferred to the State under this Act.</summary>
+</bill>

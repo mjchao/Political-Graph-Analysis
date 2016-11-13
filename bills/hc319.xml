@@ -1,0 +1,59 @@
+<bill session="100" type="hc" number="319" updated="2014-03-22T09:54:14-04:00">
+  <state datetime="1988-07-07">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-07-07"/>
+  </status>
+  <introduced datetime="1988-06-21"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution commending His Majesty King Taufa' ahau Tupou IV, the Parliament, and the people of the Kingdom of Tonga on the occasion of the centennial of the Treaty of Amity, Commerce, and Navigation between the United States and the Kingdom of Tonga and the 21st anniversary of the coronation of, and 70th birthday of, His Majesty King Taufa' ahau Tupou IV.</title>
+  </titles>
+  <sponsor id="406530"/>
+  <cosponsors>
+    <cosponsor id="409534" joined="1988-06-21"/>
+    <cosponsor id="410531" joined="1988-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-21" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-07-07" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Tonga"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments>
+    <amendment number="h803"/>
+  </amendments>
+  <summary>6/30/1988--Passed House amended.
+(Measure passed House, amended) Congratulates His Majesty King Taufa'ahau Tupou IV of the Kingdom of Tonga on his 70th birthday, the 21st anniversary of his coronation, and the centennial of the Treaty of Amity, Commerce, and Navigation between Tonga and the United States.</summary>
+</bill>

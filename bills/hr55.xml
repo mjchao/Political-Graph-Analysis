@@ -1,0 +1,44 @@
+<bill session="100" type="hr" number="55" updated="2014-03-22T09:50:55-04:00">
+  <state datetime="1987-01-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-26"/>
+  </status>
+  <introduced datetime="1987-01-26"/>
+  <titles>
+    <title type="official" as="introduced">A resolution in memorium of the crew of the space shuttle Challenger.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors>
+    <cosponsor id="406992" joined="1987-01-27"/>
+    <cosponsor id="400539" joined="1987-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-26" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>House Committee on Science and Technology Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Astronautics"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space sciences"/>
+    <term name="Space shuttles"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/1987--Introduced.
+Expresses the resolve that: (1) the Committee on Science, Space and Technology, the Congress, the administration, and the Nation commit themselves to using the lessons learned in inquiries into the space shuttle Challenger accident in order to get the space program back into operation on a strong and stable foundation; (2) the United States is dedicated to its goal to continuously explore and exploit space for the benefit of all mankind; and (3) the United States is committed to advancing its leadership in space through manpower, technology, and missions.</summary>
+</bill>

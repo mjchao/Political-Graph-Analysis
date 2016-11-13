@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="4813" updated="2014-03-22T09:53:26-04:00">
+  <state datetime="1988-06-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-14"/>
+  </status>
+  <introduced datetime="1988-06-14"/>
+  <titles>
+    <title type="short" as="introduced">National Forest System Drug Control Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the National Forest System Drug Control Act of 1986, and for other purposes.</title>
+  </titles>
+  <sponsor id="400369"/>
+  <cosponsors>
+    <cosponsor id="401363" joined="1988-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-14" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>See H.R.5210.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5210"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Department of Agriculture"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Environmental protection"/>
+    <term name="Forests and forest products"/>
+    <term name="Forests, forestry, trees"/>
+    <term name="Forfeiture"/>
+    <term name="Law enforcement officers"/>
+    <term name="Narcotic traffic"/>
+    <term name="National forests"/>
+    <term name="Pollution"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Searches and seizures"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/1988--Introduced.
+National Forest System Drug Control Act of 1988 - Amends the National Forest System Drug Control Act of 1986 to provide additional law enforcement authority for the Forest Service in dealing with Controlled Substances Act violations by: (1) removing the limitation on the number of Service personnel who may exercise specified law enforcement powers; and (2) permitting the exercise of such powers by Service personnel outside of the boundaries of the National Forest System. Grants the Service authority, with respect to the specified law enforcement powers, to: (1) coordinate investigations and enforcement activities and prepare national and regional strategy plans in coordination with the Drug Enforcement Administration and the Federal Bureau of Investigation; and (2) cooperate with the Attorney General in carrying out the seizure and forfeiture provisions of the Controlled Substances Act as such activities relate to the manufacture, distribution, or dispensing of controlled substances within the System. Establishes criminal penalties for polluting Federal lands while manufacturing, distributing, or dispensing a controlled substance.</summary>
+</bill>

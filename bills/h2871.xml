@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="2871" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1987-07-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-01"/>
+  </status>
+  <introduced datetime="1987-07-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend benefits under section 8191 of title 5, United States Code, to law enforcement officers and firemen not employed by the United States who are killed or totally disabled in the line of duty.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-01" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Fire fighters"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Labor and employment"/>
+    <term name="Law enforcement officers"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local officials and employees"/>
+    <term name="State officials and employees"/>
+    <term name="States"/>
+    <term name="Survivors' benefits"/>
+    <term name="Workers' compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/1987--Introduced.
+Extends Federal benefits (compensation for injuries) to law enforcement officers and firemen not employed by the United States, and not engaged in Federal-related activities, who are killed or totally disabled in the line of duty.</summary>
+</bill>

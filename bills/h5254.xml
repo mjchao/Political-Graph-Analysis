@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="5254" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-09-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-07"/>
+  </status>
+  <introduced datetime="1988-09-07"/>
+  <titles>
+    <title type="short" as="introduced">Panama Canal Act Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Panama Canal Act of 1979 with respect to proxies of the Panama Canal Commission, and the transfer of use of funds available to the Panama Canal Commission.</title>
+  </titles>
+  <sponsor id="404068"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-07" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Executive Comment Requested from Panama Canal Comm.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>For Further Action See H.R.5287.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Referred to Subcommittee on Panama Canal and Outer Continental Shelf.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM05" subcommittee="Panama Canal and Outer Continental Shelf" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5287"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Canals"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Government operations and politics"/>
+    <term name="Interoceanic canals"/>
+    <term name="Marine transportation"/>
+    <term name="Panama Canal"/>
+    <term name="Panama Canal Commission"/>
+    <term name="Reprogramming of appropriated funds"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/7/1988--Introduced.
+Panama Canal Act Amendments of 1988 - Amends the Panama Canal Act of 1979 to remove provisions stating that, in meetings of the Supervisory Board of the Panama Canal Commission, only one proxy may be valid at any one time. Prohibits, except as provided in such Act, funds available to the Commission from being made available to any other agency. Prohibits the Commission from obligating or expending funds for widening of the Gaillard Cut section of the Canal unless specifically authorized by law enacted after enactment of this Act.</summary>
+</bill>

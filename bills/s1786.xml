@@ -1,0 +1,49 @@
+<bill session="100" type="s" number="1786" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1988-08-03">REPORTED</state>
+  <status>
+    <unknown datetime="1988-08-03"/>
+  </status>
+  <introduced datetime="1987-10-14"/>
+  <titles>
+    <title type="short" as="introduced">Regional Presidential Primaries Act of 1987</title>
+    <title type="short" as="reported to senate">Regional Presidential Primaries and Caucuses Act of 1988</title>
+    <title type="official" as="introduced">A bill to establish a series of six Presidential primaries at which the public may express its preference for the nomination of an individual for election to the office of President of the United States.</title>
+  </titles>
+  <sponsor id="403483"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-11-17"/>
+    <cosponsor id="300012" joined="1987-11-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Committee on Rules. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Committee on Rules. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Committee on Rules. Reported to Senate by Senator Ford with an amendment in the nature of a substitute and an amendment to the title. With written report No. 100-540.</text>
+    </action>
+    <calendar datetime="1988-09-22" calendar="Senate Legislative" under="General Orders" number="975">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 975.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Presidential candidates"/>
+    <term name="Presidential elections"/>
+    <term name="Presidential primaries"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/1988--Reported to Senate amended.
+(Reported to Senate from the Committee on Rules and Administration with amendment, S. Rept. 100-540) Regional Presidential Primaries and Caucuses Act of 1988 - Prohibits any State from conducting a presidential primary election except in accordance with the provisions of this Act. Establishes five regional primaries to be held in each presidential election year. Sets the dates for such primaries. Authorizes the Attorney General to bring a civil suit in United States district court when there is reason to believe that a State is holding a primary in violation of this Act. Authorizes necessary appropriations.</summary>
+</bill>

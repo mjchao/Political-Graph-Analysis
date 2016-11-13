@@ -1,0 +1,94 @@
+<bill session="100" type="hc" number="371" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-10-07">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-10-07"/>
+  </status>
+  <introduced datetime="1988-09-22"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution concerning the United States response to the atrocities reportedly carried out in Burundi in August.</title>
+  </titles>
+  <sponsor id="411426"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-09-22"/>
+    <cosponsor id="400975" joined="1988-09-26"/>
+    <cosponsor id="400987" joined="1988-09-29"/>
+    <cosponsor id="400025" joined="1988-09-26"/>
+    <cosponsor id="400055" joined="1988-09-22"/>
+    <cosponsor id="402600" joined="1988-09-22"/>
+    <cosponsor id="403031" joined="1988-09-26"/>
+    <cosponsor id="300037" joined="1988-09-27"/>
+    <cosponsor id="400536" joined="1988-09-28"/>
+    <cosponsor id="404752" joined="1988-09-22"/>
+    <cosponsor id="400231" joined="1988-09-29"/>
+    <cosponsor id="400236" joined="1988-09-26"/>
+    <cosponsor id="406995" joined="1988-09-22"/>
+    <cosponsor id="400604" joined="1988-09-28"/>
+    <cosponsor id="410496" joined="1988-09-26"/>
+    <cosponsor id="411834" joined="1988-09-22"/>
+    <cosponsor id="411948" joined="1988-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-22" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-27" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-01">
+      <text>Referred to Subcommittee on International Development Institutions and Finance.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Resolution Agreed to in House (Amended) by Yea-Nay Vote: 415 - 0 (Record Vote No: 433).</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-07" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSBA06" subcommittee="International Development Institutions and Finance" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Burundi"/>
+    <term name="Development credit institutions"/>
+    <term name="Ethnic relations"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Genocide"/>
+    <term name="Human rights"/>
+    <term name="International agencies"/>
+    <term name="Multilateral development banks"/>
+    <term name="Treaties"/>
+    <term name="Tribes and tribal system"/>
+    <term name="Violence"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1988--Passed House amended.
+(Measure passed House, amended, roll call #433 (415-0)) Urges the Government of Burundi to maintain and increase its efforts toward national reconciliation. Condemns the recent violence against Burundi citizens. Urges the President and Secretary of State to: (1) pursue bilateral and multilateral initiatives to press for nonviolent national reconciliation in Burundi, reduction of the risk of cross-border violence, and continued advancement in Burundi's economic reform program; (2) undertake a comprehensive reassessment of the bilateral relationship between the United States and Burundi and to consider the suspension of U.S. assistance unless specified conditions related to the violence against Burundi citizens are met within six months; and (3) suspend U.S. aid and oppose future World Bank loans to Burundi if, after one year, there has not been substantial progress in the internal reform of Burundi's military and civil administration and the reversal of patterns of ethnic discrimination against the majority Hutu.</summary>
+</bill>

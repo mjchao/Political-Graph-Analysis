@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="1475" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Major Ralph Edwards, United States Air Force, retired.</title>
+  </titles>
+  <sponsor id="404733"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Military pay"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Deems a named individual to have held the grade of lieutenant colonel in the U.S. Air Force for purposes of the computation of retired pay.</summary>
+</bill>

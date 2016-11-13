@@ -1,0 +1,42 @@
+<bill session="100" type="sr" number="406" updated="2014-03-22T09:54:39-04:00">
+  <state datetime="1988-04-11">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1988-04-11"/>
+  </status>
+  <introduced datetime="1988-04-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution congratulating the University of Kansas on winning the NCAA Basketball Championship.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-04-11"/>
+    <cosponsor id="403142" joined="1988-04-11"/>
+    <cosponsor id="403346" joined="1988-04-11"/>
+    <cosponsor id="405310" joined="1988-04-11"/>
+    <cosponsor id="300154" joined="1988-04-11"/>
+    <cosponsor id="406188" joined="1988-04-11"/>
+    <cosponsor id="300071" joined="1988-04-11"/>
+    <cosponsor id="300079" joined="1988-04-11"/>
+    <cosponsor id="409562" joined="1988-04-11"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-11" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="425"/>
+    <bill relation="identical" session="100" type="hr" number="425"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Basketball"/>
+    <term name="College sports"/>
+    <term name="Commemorations"/>
+    <term name="Kansas"/>
+  </subjects>
+  <amendments/>
+  <summary>4/11/1988--Introduced.
+Recognizes and congratulates the University of Kansas for winning the 1988 NCAA Basketball Crown.</summary>
+</bill>

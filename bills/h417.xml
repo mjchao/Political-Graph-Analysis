@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="417" updated="2014-03-22T09:51:20-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to provide in certain cases for an exchange of credits between the old-age, survivors, and disability insurance system and the civil service retirement system so as to enable individuals who have coverage under both systems to obtain maximum benefits based on their combined service.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Civil service pensions"/>
+    <term name="Civil service retirement"/>
+    <term name="Federal employees and officials"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Retirement income"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to allow, under specified circumstances, persons who have acquired retirement credits under both the civil service system and the Old Age, Survivors and Disability Insurance system to exchange such credits between the two systems in order to obtain benefits based on combined service.</summary>
+</bill>

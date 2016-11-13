@@ -1,0 +1,105 @@
+<bill session="100" type="h" number="4861" updated="2014-03-22T09:53:28-04:00">
+  <state datetime="1988-07-12">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-07-12"/>
+  </status>
+  <introduced datetime="1988-06-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize appropriations for grants for State veterans' cemeteries.</title>
+  </titles>
+  <sponsor id="400211"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1988-07-07"/>
+    <cosponsor id="400028" joined="1988-07-07"/>
+    <cosponsor id="401947" joined="1988-07-07"/>
+    <cosponsor id="400055" joined="1988-07-07"/>
+    <cosponsor id="403242" joined="1988-07-07"/>
+    <cosponsor id="403545" joined="1988-07-07"/>
+    <cosponsor id="403576" joined="1988-07-07"/>
+    <cosponsor id="403776" joined="1988-07-07"/>
+    <cosponsor id="400126" joined="1988-07-07"/>
+    <cosponsor id="404170" joined="1988-07-07"/>
+    <cosponsor id="404750" joined="1988-07-07"/>
+    <cosponsor id="405006" joined="1988-07-07"/>
+    <cosponsor id="405114" joined="1988-07-07"/>
+    <cosponsor id="405313" joined="1988-07-07"/>
+    <cosponsor id="405985" joined="1988-07-07"/>
+    <cosponsor id="300058" joined="1988-07-07"/>
+    <cosponsor id="406157" joined="1988-07-07"/>
+    <cosponsor id="400210" joined="1988-07-07"/>
+    <cosponsor id="406277" joined="1988-07-07"/>
+    <cosponsor id="406682" joined="1988-07-07"/>
+    <cosponsor id="407432" joined="1988-07-07"/>
+    <cosponsor id="407838" joined="1988-07-07"/>
+    <cosponsor id="408520" joined="1988-07-07"/>
+    <cosponsor id="408618" joined="1988-07-07"/>
+    <cosponsor id="409205" joined="1988-07-07"/>
+    <cosponsor id="409219" joined="1988-07-07"/>
+    <cosponsor id="409325" joined="1988-07-07"/>
+    <cosponsor id="409442" joined="1988-07-07"/>
+    <cosponsor id="409443" joined="1988-07-07"/>
+    <cosponsor id="300155" joined="1988-07-07"/>
+    <cosponsor id="400380" joined="1988-07-07"/>
+    <cosponsor id="410147" joined="1988-07-07"/>
+    <cosponsor id="410245" joined="1988-07-07"/>
+    <cosponsor id="400389" joined="1988-07-07"/>
+    <cosponsor id="400504" joined="1988-07-07"/>
+    <cosponsor id="411929" joined="1988-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-20" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Referred to Subcommittee on Housing and Memorial Affairs.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-28" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-07-07">
+      <text>Reported to House by House Committee on Veterans' Affairs. Report No: 100-757.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Placed on Union Calendar No: 458.</text>
+    </action>
+    <action datetime="1988-07-11">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-07-11">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="225" datetime="1988-07-12" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 414 - 0 (Record Vote No: 225).</text>
+    </vote>
+    <action datetime="1988-07-13">
+      <text>Received in the Senate and read twice and referred to the Committee on Veterans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR04" subcommittee="Housing and Memorial Affairs" name="House Veterans' Affairs"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Economics and public finance"/>
+    <term name="Grants-in-aid"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/1988--Introduced.
+Authorizes appropriations for FY 1989-1993 for grants to States for the establishment, expansion, and improvement of veterans' cemeteries.</summary>
+</bill>

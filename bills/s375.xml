@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="375" updated="2014-03-22T09:54:52-04:00">
+  <state datetime="1987-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-22"/>
+  </status>
+  <introduced datetime="1987-01-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to permit the President to order to active duty units and members of the Army National Guard of the United States and the Air National Guard of the United States in cases in which the Governor of a State or other appropriate authority withholds consent.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors>
+    <cosponsor id="300012" joined="1987-02-26" withdrawn="1987-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Committee on Armed Services requested executive comment from Department of Defense.</text>
+    </action>
+    <action datetime="1987-01-30">
+      <text>Referred to Subcommittee on Manpower and Personnel (Arm Serv).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAS05" subcommittee="Manpower and Personnel" name="Senate Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military command and control"/>
+    <term name="National Guard"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/1987--Introduced.
+Amends Federal armed forces provisions to authorize the President to order to active duty units and members of the Army National Guard and Air National Guard in cases in which the Governor of a State or other appropriate authority withholds consent. Conditions such authority on the President's determination and certification that the national security requires such action.</summary>
+</bill>

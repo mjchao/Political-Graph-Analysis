@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="3988" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-02-23">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-23"/>
+  </status>
+  <introduced datetime="1988-02-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Secretary of the Interior to provide water conservation opportunities by lining the All-American Canal, Boulder Canyon Project, and for other purposes.</title>
+  </titles>
+  <sponsor id="406765"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1988-04-12"/>
+    <cosponsor id="401231" joined="1988-05-10"/>
+    <cosponsor id="403184" joined="1988-05-10"/>
+    <cosponsor id="403545" joined="1988-03-30"/>
+    <cosponsor id="400115" joined="1988-05-10"/>
+    <cosponsor id="400144" joined="1988-02-23"/>
+    <cosponsor id="405236" joined="1988-06-28"/>
+    <cosponsor id="406530" joined="1988-06-02"/>
+    <cosponsor id="400617" joined="1988-05-10"/>
+    <cosponsor id="400595" joined="1988-07-27"/>
+    <cosponsor id="407320" joined="1988-02-23"/>
+    <cosponsor id="400278" joined="1988-02-23"/>
+    <cosponsor id="407899" joined="1988-05-10"/>
+    <cosponsor id="400601" joined="1988-05-10"/>
+    <cosponsor id="410889" joined="1988-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-23" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>For Further Action See S.795.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="795"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Canals"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water conservation"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>2/23/1988--Introduced.
+Authorizes the Secretary of the Interior, in order to provide for water conservation, to: (1) construct a new lined canal or to line the presently unlined portions of the All-American Canal of the Boulder Canyon Project; and (2) implement measures to replace incidental fish and wildlife values foregone. Provides that the water conserved by the project shall be available for beneficial consumptive use within California as specified in existing water delivery contracts. Entitles participating contractors to a proportionate share of the water conserved. Directs the Secretary to study the impact of the project on the operation and maintenance of the existing All-American Canal and its Coachella Branch and to provide for certain additional costs if necessary. Requires the cost of the project to be paid from funds advanced by the participating contractors and in accordance with terms and conditions acceptable to the Secretary. Provides that title to all constructed facilities shall rest with the United States, subject to disposal by the Secretary at his discretion as permitted under certain existing repayment contracts.</summary>
+</bill>

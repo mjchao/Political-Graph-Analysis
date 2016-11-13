@@ -1,0 +1,121 @@
+<bill session="100" type="h" number="1250" updated="2014-03-22T09:51:45-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to suspend most-favored-nation treatment to the products of Romania until that country recognizes and protects fundamental human rights, and for other purposes.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-04-08"/>
+    <cosponsor id="400975" joined="1987-04-28"/>
+    <cosponsor id="401029" joined="1987-04-08"/>
+    <cosponsor id="401417" joined="1987-06-24"/>
+    <cosponsor id="401628" joined="1987-04-08"/>
+    <cosponsor id="400055" joined="1987-04-08"/>
+    <cosponsor id="402484" joined="1987-04-28"/>
+    <cosponsor id="402657" joined="1987-04-28"/>
+    <cosponsor id="402675" joined="1987-04-28"/>
+    <cosponsor id="402928" joined="1987-04-08"/>
+    <cosponsor id="400085" joined="1987-06-24"/>
+    <cosponsor id="403184" joined="1987-04-08"/>
+    <cosponsor id="300033" joined="1987-04-08"/>
+    <cosponsor id="403476" joined="1988-08-02"/>
+    <cosponsor id="403545" joined="1987-04-08"/>
+    <cosponsor id="403689" joined="1987-04-08"/>
+    <cosponsor id="403726" joined="1987-04-08"/>
+    <cosponsor id="403769" joined="1987-04-08"/>
+    <cosponsor id="404013" joined="1987-04-28"/>
+    <cosponsor id="404019" joined="1987-04-08"/>
+    <cosponsor id="404068" joined="1987-04-08"/>
+    <cosponsor id="400155" joined="1987-04-28"/>
+    <cosponsor id="404765" joined="1987-04-08"/>
+    <cosponsor id="400538" joined="1987-02-25"/>
+    <cosponsor id="400552" joined="1987-04-08"/>
+    <cosponsor id="405377" joined="1987-04-08"/>
+    <cosponsor id="405448" joined="1987-04-28"/>
+    <cosponsor id="400191" joined="1987-04-08"/>
+    <cosponsor id="400192" joined="1987-04-28"/>
+    <cosponsor id="300055" joined="1987-04-08"/>
+    <cosponsor id="400211" joined="1987-04-08"/>
+    <cosponsor id="406255" joined="1987-04-08"/>
+    <cosponsor id="400226" joined="1987-04-08"/>
+    <cosponsor id="406461" joined="1987-06-24"/>
+    <cosponsor id="406463" joined="1987-04-28"/>
+    <cosponsor id="300062" joined="1987-04-28"/>
+    <cosponsor id="406530" joined="1987-04-08"/>
+    <cosponsor id="406682" joined="1987-06-24"/>
+    <cosponsor id="406790" joined="1987-04-08"/>
+    <cosponsor id="406863" joined="1987-04-28"/>
+    <cosponsor id="406974" joined="1987-04-28"/>
+    <cosponsor id="406995" joined="1987-04-28"/>
+    <cosponsor id="407400" joined="1987-04-08"/>
+    <cosponsor id="407432" joined="1987-10-06"/>
+    <cosponsor id="407676" joined="1987-04-08"/>
+    <cosponsor id="407899" joined="1987-04-08"/>
+    <cosponsor id="407960" joined="1987-06-24"/>
+    <cosponsor id="400307" joined="1987-04-08"/>
+    <cosponsor id="400601" joined="1987-04-28"/>
+    <cosponsor id="400604" joined="1987-04-08"/>
+    <cosponsor id="409325" joined="1987-04-08"/>
+    <cosponsor id="409423" joined="1987-04-08"/>
+    <cosponsor id="400359" joined="1987-04-28"/>
+    <cosponsor id="409651" joined="1987-04-08"/>
+    <cosponsor id="409887" joined="1987-04-08"/>
+    <cosponsor id="409901" joined="1987-04-08"/>
+    <cosponsor id="400534" joined="1987-04-08"/>
+    <cosponsor id="300155" joined="1987-04-08"/>
+    <cosponsor id="410010" joined="1987-04-08"/>
+    <cosponsor id="400389" joined="1987-04-08"/>
+    <cosponsor id="410574" joined="1987-04-08"/>
+    <cosponsor id="400409" joined="1987-06-24"/>
+    <cosponsor id="400611" joined="1987-04-28"/>
+    <cosponsor id="411178" joined="1987-04-28"/>
+    <cosponsor id="411247" joined="1987-04-08"/>
+    <cosponsor id="411725" joined="1987-06-24"/>
+    <cosponsor id="400435" joined="1987-02-25"/>
+    <cosponsor id="411901" joined="1987-04-08"/>
+    <cosponsor id="411948" joined="1987-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-03-06">
+      <text>Referred to Subcommittee on Rules of the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSRU01" subcommittee="Rules of the House" name="House Rules"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Human rights"/>
+    <term name="Imports"/>
+    <term name="International affairs"/>
+    <term name="Legislation"/>
+    <term name="Most favored nation principle"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+    <term name="Romania"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Suspends most-favored-nation treatment for Romania for six months. Permits the products of Romania to receive most-favored-nation treatment during any 180-day period following the initial six months only if: (1) the President submits to the House of Representatives and the Senate a document containing specified findings and assurances, including a finding that granting most-favored-nation treatment will promote improved freedom to emigrate from Romania and will promote an end to religious and political persecution in Romania; and (2) a joint resolution disapproving such action is not enacted. Provides for expedited consideration of such resolution.</summary>
+</bill>

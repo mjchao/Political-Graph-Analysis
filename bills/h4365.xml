@@ -1,0 +1,104 @@
+<bill session="100" type="h" number="4365" updated="2014-03-22T09:53:11-04:00">
+  <state datetime="1988-10-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-18"/>
+  </status>
+  <introduced datetime="1988-04-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Sunderland National Salmon Station located in Sunderland, Massachusetts, as the "Richard Cronin National Salmon Station".</title>
+  </titles>
+  <sponsor id="402833"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-13" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-25" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-06-03">
+      <text>Reported to House by House Committee on Merchant Marine and Fisheries.  Report No: 100-671.</text>
+    </action>
+    <action datetime="1988-06-03">
+      <text>Placed on Union Calendar No: 396.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="171" datetime="1988-06-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 407 - 0 (Record Vote No: 171).</text>
+    </vote>
+    <action datetime="1988-06-09">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Subcommittee on Environmental Protection. Approved for full committee consideration without amendment favorably.</text>
+    </action>
+    <calendar datetime="1988-09-23">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-10-03">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-10-03" calendar="Senate Legislative" under="General Orders" number="1055">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1055.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-04" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-04">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-500" type="public" datetime="1988-10-18">
+      <text>Became Public Law No: 100-500.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee activity="Markup, Reporting" code="SSEV02" subcommittee="Environmental Protection" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Aquaculture"/>
+    <term name="Federal installations"/>
+    <term name="Fish culture"/>
+    <term name="Fisheries"/>
+    <term name="Government operations and politics"/>
+    <term name="Massachusetts"/>
+    <term name="Names"/>
+    <term name="Salmon fisheries"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/1988--Introduced.
+Designates the Sunderland National Salmon Station located in Sunderland, Massachusetts, as the Richard Cronin National Salmon Station.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="3055" updated="2014-03-22T09:52:43-04:00">
+  <state datetime="1987-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-29"/>
+  </status>
+  <introduced datetime="1987-07-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Jose M. Arvayo.</title>
+  </titles>
+  <sponsor id="409165"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-29" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to two named individuals on behalf of their infant son in full settlement of all claims arising out of the failure of a physician of the U.S. Air Force to diagnose and treat an illness of such son.</summary>
+</bill>

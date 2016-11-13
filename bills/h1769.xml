@@ -1,0 +1,152 @@
+<bill session="100" type="h" number="1769" updated="2014-03-22T09:51:58-04:00">
+  <state datetime="1988-10-12">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-12"/>
+  </status>
+  <introduced datetime="1987-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Minority Business Development Act of 1987</title>
+    <title type="short" as="reported to house">Minority Business Development Act of 1988</title>
+    <title type="short" as="passed house">Minority Business Development Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish the Minority Business Development Administration in the Department of Commerce, to clarify the relationship between such Administration and the Small Business Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="407672"/>
+  <cosponsors>
+    <cosponsor id="402626" joined="1987-03-24"/>
+    <cosponsor id="402763" joined="1987-03-24"/>
+    <cosponsor id="400080" joined="1987-03-24"/>
+    <cosponsor id="403031" joined="1987-06-09"/>
+    <cosponsor id="403314" joined="1987-06-09"/>
+    <cosponsor id="403364" joined="1987-03-24"/>
+    <cosponsor id="400580" joined="1987-04-09"/>
+    <cosponsor id="403695" joined="1987-03-24"/>
+    <cosponsor id="403904" joined="1987-12-08"/>
+    <cosponsor id="404006" joined="1987-04-01"/>
+    <cosponsor id="404139" joined="1987-03-24"/>
+    <cosponsor id="404213" joined="1987-04-01"/>
+    <cosponsor id="400140" joined="1987-12-08"/>
+    <cosponsor id="404376" joined="1988-05-26"/>
+    <cosponsor id="404422" joined="1987-06-09"/>
+    <cosponsor id="404752" joined="1987-04-01"/>
+    <cosponsor id="405236" joined="1987-03-24"/>
+    <cosponsor id="405256" joined="1987-03-24"/>
+    <cosponsor id="400189" joined="1987-06-09"/>
+    <cosponsor id="406530" joined="1988-05-26"/>
+    <cosponsor id="406740" joined="1987-03-24"/>
+    <cosponsor id="400240" joined="1987-03-24"/>
+    <cosponsor id="400595" joined="1987-04-01"/>
+    <cosponsor id="407282" joined="1988-06-29"/>
+    <cosponsor id="408109" joined="1988-06-13"/>
+    <cosponsor id="400302" joined="1987-04-09"/>
+    <cosponsor id="400306" joined="1987-04-01"/>
+    <cosponsor id="400314" joined="1988-06-13"/>
+    <cosponsor id="400333" joined="1987-04-09"/>
+    <cosponsor id="409205" joined="1987-04-01"/>
+    <cosponsor id="409593" joined="1987-03-24"/>
+    <cosponsor id="410145" joined="1987-03-24"/>
+    <cosponsor id="410407" joined="1987-04-09"/>
+    <cosponsor id="410889" joined="1988-06-29"/>
+    <cosponsor id="400409" joined="1988-02-17"/>
+    <cosponsor id="411488" joined="1988-06-29"/>
+    <cosponsor id="411901" joined="1987-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-24" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to House Committee on Small Business.</text>
+    </action>
+    <action datetime="1987-04-15">
+      <text>Referred to Subcommittee on Economic Stabilization.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Referred to Subcommittee on Procurement, Innovation and Minority Enterprise Development.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-11">
+      <text>Reported to House (Amended) by House Committee on Small Business. Report No: 100-1073 (Part I).</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-12" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSBA05" subcommittee="Economic Stabilization" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="HSSM" name="House Small Business" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSSM01" subcommittee="Procurement, Innovation and Minority Enterprise Development" name="House Small Business"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative procedure"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Business and commerce"/>
+    <term name="Business education"/>
+    <term name="Capital formation"/>
+    <term name="Corporate finance"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Data banks"/>
+    <term name="Department of Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational policy"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal aid to minority business enterprises"/>
+    <term name="Government and business"/>
+    <term name="Government paperwork"/>
+    <term name="Government publicity"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Government trust funds"/>
+    <term name="Information services"/>
+    <term name="International competitiveness"/>
+    <term name="Joint ventures"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Minorities"/>
+    <term name="Minority business enterprises"/>
+    <term name="Presidential appointments"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Revolving funds"/>
+    <term name="Securities and Investments"/>
+    <term name="Securities regulation"/>
+    <term name="Small business"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Surety and fidelity"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Passed House amended.
+(Measure passed House, amended) Minority Business Development Act of 1987 - Redesignates the Minority Business Development Agency in the Department of Commerce as the Minority Business Development Administration, to be headed by an Assistant Secretary of Commerce appointed by the President, with the advice and consent of the Senate. Requires the Secretary of Commerce to report to the Congress on the organizational structure within the Administration and its organizational position in the Department of Commerce. Title I: Market Development - Empowers the Administration to: (1) assist disadvantaged businesses in penetrating domestic and foreign markets by making available to them management and technological assistance, a skilled labor pool, and financial and marketing services; and (2) encourage disadvantaged firms to establish joint ventures and projects to increase their share of the market. Allows the Assistant Secretary of the Administration, if certain conditions are met, to approve any agreement between disadvantaged firms or public or private sector organizations providing for a joint program for market development. Exempts from the antitrust laws and the Federal Trade Commission Act any act within the scope of any approved joint program for approved market development. Requires that at least one party to each agreement be a small business concern and that the majority of parties be small businesses if there are more than two parties to an agreement. Authorizes the Administration to provide financial assistance to public and private sector organizations to carry out this Act, unless the assistance is intended primarily to facilitate the use by disadvantaged businesses of federally-administered programs not established under this Act. Requires the Administration to consult with State and local governments for the purpose of leveraging local resources and recommending local administrative and legislative initiatives to promote the position of disadvantaged businesses. Authorizes the Administration to provide financial assistance to States and cities. Requires the Administration to publish in the Federal Register: (1) amounts available Requires the Administration to publish in the Federal Register: (1) amounts available for financial assistance and proposed allocations; (2) responses to public comments in connection with the allocation scheme; and (3) changes in allocation methodology. Title II: Capital Formation - Authorizes the Administration to defray all or part of the costs of pilot projects conducted by public or private organizations and designed to assist disadvantaged businesses in obtaining equity capital. Directs the Securities and Exchange Commission to cooperate with the Administration to promote access to securities markets for disadvantaged businesses. Directs the Administration to study and report to the Small Business Committees on alternatives for providing capital formation assistance to qualified disadvantaged businesses, including the possibility of a revolving fund and a surety bond referral assistance program. Title III: Management Educational Development - Requires the Administration to: (1) encourage universities, business leaders, and other public and private entities to offer scholarships, sponsor seminars, and provide internships for the benefit of disadvantaged individuals; and (2) accelerate curriculum design in support of disadvantaged business development. Title IV: Research and Information - Requires the Administration to submit to the Congress a report describing the resources needed to advance and represent disadvantaged businesses in all levels of the economic system in numbers that would have existed were it not for past discrimination. Authorizes the Administration to: (1) provide financial assistance to public and private organizations to assist the Administration in collecting data on the causes for success and failure of disadvantaged businesses and in conducting research on how economic conditions affect their development; (2) develop and maintain a data bank on disadvantaged businesses; and (3) establish an information clearinghouse for data pertinent to disadvantaged business. Title V: Administrative and Miscellaneous Powers of the Administration - Sets forth the administrative powers of the Administration. Requires: (1) recipients of assistance to keep records for audit purposes; (2) the Comptroller General to review and report to the Congress on programs authorized by this Act; and (3) the Assistant Secretary to submit to the Congress an annual report on the Administration's activities. Excludes the Administration from the coordination functions of the Small Business Administration's Associate Administrator for Minority Small Business and Capital Ownership Development. Authorizes appropriations.</summary>
+</bill>

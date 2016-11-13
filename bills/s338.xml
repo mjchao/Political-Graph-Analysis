@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="338" updated="2014-03-22T09:54:51-04:00">
+  <state datetime="1987-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-20"/>
+  </status>
+  <introduced datetime="1987-01-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to allow homeowners to deduct the full amount of prepaid interest paid in connection with the refinancing of their principal residence for the taxable year in which paid.</title>
+  </titles>
+  <sponsor id="408939"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-01-20"/>
+    <cosponsor id="401611" joined="1987-03-24"/>
+    <cosponsor id="402004" joined="1987-03-11"/>
+    <cosponsor id="402990" joined="1987-03-24"/>
+    <cosponsor id="403142" joined="1987-03-03"/>
+    <cosponsor id="403669" joined="1987-03-11"/>
+    <cosponsor id="403962" joined="1987-03-06"/>
+    <cosponsor id="300048" joined="1987-01-21"/>
+    <cosponsor id="405321" joined="1987-01-20"/>
+    <cosponsor id="406190" joined="1987-03-31"/>
+    <cosponsor id="407622" joined="1987-01-20"/>
+    <cosponsor id="400563" joined="1987-01-21"/>
+    <cosponsor id="410588" joined="1987-03-24"/>
+    <cosponsor id="410936" joined="1987-01-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="544"/>
+    <bill relation="identical" session="100" type="h" number="544"/>
+    <bill relation="identical" session="100" type="h" number="1374"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Finance and financial sector"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing finance"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Mortgage loans"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/1987--Introduced.
+Amends the Internal Revenue Code to allow homeowners to deduct the full amount of prepaid interest in connection with the refinancing of their principal residences for the taxable year in which paid.</summary>
+</bill>

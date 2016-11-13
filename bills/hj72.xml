@@ -1,0 +1,41 @@
+<bill session="100" type="hj" number="72" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to amend the Constitution of the United States to provide for balanced budgets and elimination of the Federal indebtedness.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>See H.J.Res.321.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="321"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal budgets"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Constitutional Amendment - Requires the Congress to assure that the total outlays of the Government do not exceed its total receipts during any fiscal year. Provides for the phased implementation of this requirement after the ratification of this amendment. Permits expenditures to exceed national revenues in time of national emergency, but never by more than ten percent. Provides that during the fourth fiscal year beginning after the ratification of this amendment and for the 39 succeeding fiscal years, the total receipts of the Government shall exceed outlays by an amount equal to two and a half percent of the Federal indebtedness at the beginning of the fourth fiscal year. Requires the elimination, within three fiscal years, of any indebtedness incurred as a result of a national emergency.</summary>
+</bill>

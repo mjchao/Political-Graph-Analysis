@@ -1,0 +1,46 @@
+<bill session="100" type="hc" number="289" updated="2014-03-22T09:54:13-04:00">
+  <state datetime="1988-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-26"/>
+  </status>
+  <introduced datetime="1988-04-26"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution protesting Soviet human rights violations, especially restrictive emigration regulations, and calling on the President to stress, at the Moscow summit meeting, the inherent link between respect for human rights and the achievement of lasting peace.</title>
+  </titles>
+  <sponsor id="411948"/>
+  <cosponsors>
+    <cosponsor id="410147" joined="1988-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-26" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="437"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Emigration"/>
+    <term name="Human rights"/>
+    <term name="Peace"/>
+    <term name="Right to travel"/>
+    <term name="Summit diplomacy"/>
+    <term name="Transportation and Travel"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/1988--Introduced.
+Protests Soviet human rights violations, especially the restrictive emigration regulations, and calls upon the President to use the upcoming summit meeting in Moscow to stress the inherent link between respect for human rights and the achievement of lasting peace.</summary>
+</bill>

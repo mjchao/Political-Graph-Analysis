@@ -1,0 +1,91 @@
+<bill session="100" type="s" number="1792" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1988-10-21">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1987-10-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for the Office of Environmental Quality for fiscal years 1987, 1988, and 1989.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="403669" joined="1987-10-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Subcommittee on Hazardous Wastes and Toxic. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text>
+    </action>
+    <calendar datetime="1988-06-23" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-06-23">
+      <text>Committee on Environment and Public Works incorporated provisions of related measures S. 1584 in reported measure.</text>
+    </action>
+    <action datetime="1988-09-12">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick with an amendment in the nature of a substitute. With written report No. 100-502.</text>
+    </action>
+    <calendar datetime="1988-09-12" calendar="Senate Legislative" under="General Orders" number="923">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 923.</text>
+    </calendar>
+    <action datetime="1988-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate incorporated this measure in H.R. 2020 as an amendment.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate passed companion measure H.R. 2020 in lieu of this measure by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Indefinitely postponed by Senate by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Previous action vitiated by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee activity="Markup, Reporting" code="SSEV03" subcommittee="Hazardous Wastes and Toxic Substances" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2020"/>
+    <bill relation="unknown" session="100" type="s" number="1584"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative procedure"/>
+    <term name="Airspace (Law)"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy"/>
+    <term name="Energy facilities"/>
+    <term name="Energy policy"/>
+    <term name="Environmental assessment"/>
+    <term name="Evaluation"/>
+    <term name="Executive Office of the President"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publicity"/>
+    <term name="Hydroelectric power"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Licenses"/>
+    <term name="Military aviation"/>
+    <term name="Water pollution control"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3706"/>
+    <amendment number="s3771"/>
+  </amendments>
+  <summary>10/21/1988--Passed Senate amended.
+(Measure passed Senate, amended) Title I: Amends the National Environmental Policy Act of 1969 (the Act) to direct the Council on Environmental Quality to promulgate regulations implementing the National Environmental Policy Act for all Federal agencies, including independent regulatory commissions. Requires each Federal agency to review on a continuing basis and report to the Council on a statistically significant random sample of environmental impact statements prepared by such agency in which measures were specified for the mitigation of the adverse impact on the environment, including fish and wildlife populations and habitat, that was predicted to result from the action. Requires each review to assess the implementation of mitigation measures and the accuracy and effectiveness of projected adverse impacts and their mitigation. Directs each Federal agency to comply with requirements for an initial review within 24 months of this Act's enactment. Authorizes appropriations for FY 1987 through 1989 for the operations of the Office of Environmental Quality and the Council of Environmental Quality. Authorizes States to petition the Federal Energy Regulatory Commission, within 60 days of this Act's enactment, for the retroactive application of a Commission order waiving certain hydroelectric project certification requirements to projects for which an application was pending on Fedbruary 11, 1987, and is still pending. Reinstates a certification or denial of certification waived by the retroactive application of such order to a petitioning State Title II: Special Use Air Space - Directs the Secretary of Defense to provide written notice of, and an opportunity to comment on, proposed military special use airspace designations to: (1) Governors of affected States; (2) the heads of Indian tribes whose lands are likely to be affected by such designations; and (3) the Secretary of the Interior, if such designations include airspace over lands administered by the Secretary. Requires that the public in affected areas be given notice of, and an opportunity to comment on, significant proposed designations. Requires the Secretary of Defense, upon the timely request of the Governor of an affected State, to hold a public meeting and consider comments prior to making a determination on a proposed airspace designation. Directs the Administrator of the Federal Aviation Administration to: (1) adopt procedures, within 90 days of this Act's enactment, to assure that designations of special use airspace are in compliance with the National Environmental Policy Act of 1969; (2) establish procedures for the review of each special use airspace designation at least once every three years; and (3) terminate or modify designations which are found to be inappropriate in the course of such review.</summary>
+</bill>

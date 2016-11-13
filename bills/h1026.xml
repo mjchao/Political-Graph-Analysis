@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="1026" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to provide increases in primary insurance amounts to account for depressed replacement rates.</title>
+  </titles>
+  <sponsor id="400028"/>
+  <cosponsors>
+    <cosponsor id="405747" joined="1987-03-04"/>
+    <cosponsor id="407282" joined="1987-03-04"/>
+    <cosponsor id="408190" joined="1987-03-31"/>
+    <cosponsor id="408632" joined="1987-03-04"/>
+    <cosponsor id="410531" joined="1987-03-31"/>
+    <cosponsor id="411948" joined="1987-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to require the Secretary of Health and Human Services to prescribe annual adjustments to the formula for determining the primary insurance amount in order to ensure that the replacement rate for the primary insurance amount for January of the following year does not fall below a specified percentage.</summary>
+</bill>

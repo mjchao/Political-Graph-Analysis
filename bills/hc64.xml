@@ -1,0 +1,53 @@
+<bill session="100" type="hc" number="64" updated="2014-03-22T09:54:07-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to implement the 1979 resolution of the Organization of American States on democracy in Nicaragua.</title>
+  </titles>
+  <sponsor id="400055"/>
+  <cosponsors>
+    <cosponsor id="403203" joined="1987-03-05"/>
+    <cosponsor id="300033" joined="1987-03-05"/>
+    <cosponsor id="403545" joined="1987-03-05"/>
+    <cosponsor id="400191" joined="1987-03-05"/>
+    <cosponsor id="400192" joined="1987-03-30"/>
+    <cosponsor id="406530" joined="1987-03-05"/>
+    <cosponsor id="406863" joined="1987-03-05"/>
+    <cosponsor id="409251" joined="1987-03-05"/>
+    <cosponsor id="410574" joined="1987-03-05"/>
+    <cosponsor id="411405" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Democracy"/>
+    <term name="Insurgency"/>
+    <term name="International agencies"/>
+    <term name="Nicaragua"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Expresses the sense of the Congress that: (1) the United States should not abandon its obligation to promote democracy in Nicaragua; and (2) in order to ensure the implementation of democratic commitments, the United States should provide assistance to the United Nicaraguan Opposition forces until such commitments have been implemented and verified by the Organization of American States.</summary>
+</bill>

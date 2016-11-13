@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="5191" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-08-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-10"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 9006 of the Internal Revenue Code of 1986 to provide for funding of the Federal Election Commission from amounts designated for the Presidential Election Campaign Fund under section 6096 of such Code.</title>
+  </titles>
+  <sponsor id="400895"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-10" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal Election Commission"/>
+    <term name="Government trust funds"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Presidential elections"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/1988--Introduced.
+Amends the Internal Revenue Code to provide funding of the Federal Election Commission from amounts in the Presidential Election Campaign Fund.</summary>
+</bill>

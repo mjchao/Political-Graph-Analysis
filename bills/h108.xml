@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="108" updated="2014-03-22T09:51:09-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for annual observances of certain legal public holidays on their traditional dates.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorations"/>
+    <term name="Holidays"/>
+    <term name="Martin Luther King Day"/>
+    <term name="Memorial Day"/>
+    <term name="Veterans Day"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Redesignates the legal public holidays of the Birthday of Martin Luther King, Jr., as January 15, Washington's Birthday as February 22, Memorial Day as May 30, Columbus Day as October 12, and Veterans Day as November 11.</summary>
+</bill>

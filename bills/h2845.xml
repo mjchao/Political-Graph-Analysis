@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="2845" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1987-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-30"/>
+  </status>
+  <introduced datetime="1987-06-30"/>
+  <titles>
+    <title type="short" as="introduced">Terrorist Firearms Detection Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to prohibit certain firearms especially useful to terrorists.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="401418" joined="1987-06-30"/>
+    <cosponsor id="403031" joined="1987-06-30"/>
+    <cosponsor id="404019" joined="1987-06-30"/>
+    <cosponsor id="407306" joined="1987-06-30"/>
+    <cosponsor id="408023" joined="1987-06-30"/>
+    <cosponsor id="300087" joined="1987-06-30"/>
+    <cosponsor id="410066" joined="1987-06-30"/>
+    <cosponsor id="411426" joined="1987-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-30" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1987-12-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Clean Bill H.R.4445 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="155"/>
+    <bill relation="unknown" session="100" type="h" number="1002"/>
+    <bill relation="unknown" session="100" type="h" number="1785"/>
+    <bill relation="unknown" session="100" type="h" number="3974"/>
+    <bill relation="unknown" session="100" type="h" number="4445"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms"/>
+    <term name="Firearms control"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1987--Introduced.
+Terrorist Firearms Detection Act of 1987 - Amends the Federal criminal code to prohibit the manufacture, importation, sale, or transfer of plastic firearms. Exempts specified firearms from such prohibition.</summary>
+</bill>

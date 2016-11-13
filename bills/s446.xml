@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="446" updated="2014-03-22T09:54:54-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to disallow deductions for advertising expenses for tobacco products.</title>
+  </titles>
+  <sponsor id="401709"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-02-03"/>
+    <cosponsor id="402412" joined="1987-02-03"/>
+    <cosponsor id="404444" joined="1987-02-03"/>
+    <cosponsor id="300059" joined="1987-02-03"/>
+    <cosponsor id="410242" joined="1987-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Advertising"/>
+    <term name="Advertising and Marketing"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Business and commerce"/>
+    <term name="Cigarettes"/>
+    <term name="Income tax"/>
+    <term name="Sales promotion"/>
+    <term name="Smokeless tobacco"/>
+    <term name="Tax deductions"/>
+    <term name="Tobacco"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Amends the Internal Revenue Code to disallow an income tax deduction for any amounts paid or incurred to advertise any tobacco products. Defines "tobacco products" as cigarettes, cigars, smokeless tobacco, pipe tobacco, or any similar tobacco product.</summary>
+</bill>

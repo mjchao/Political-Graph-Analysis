@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="3385" updated="2014-03-22T09:52:50-04:00">
+  <state datetime="1987-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-30"/>
+  </status>
+  <introduced datetime="1987-09-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for an easement for a natural gas pipeline through the Big Thicket National Preserve in the State of Texas.</title>
+  </titles>
+  <sponsor id="411725"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-30" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Easements"/>
+    <term name="Gas pipelines"/>
+    <term name="National parks"/>
+    <term name="Natural areas"/>
+    <term name="Natural gas"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Pipeline siting"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1987--Introduced.
+Directs the Secretary of the Interior to grant an easement through the Big Thicket National Preserve, Texas, for a natural gas pipeline.</summary>
+</bill>

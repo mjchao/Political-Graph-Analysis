@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="4877" updated="2014-03-22T09:53:28-04:00">
+  <state datetime="1988-06-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-21"/>
+  </status>
+  <introduced datetime="1988-06-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize and direct the Secretary of Agriculture to make advance deficiency payments for the 1987 crop of corn and sorghum to producers in July 1988, because of the severe drought occurring across the United States.</title>
+  </titles>
+  <sponsor id="407432"/>
+  <cosponsors>
+    <cosponsor id="406995" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-21" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>See H.R.5015.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5015"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Corn"/>
+    <term name="Feed grain program"/>
+    <term name="Sorghum"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/1988--Introduced.
+Directs the Secretary of Agriculture to make advance deficiency payments for corn and sorghum in July 1988, rather than October 1988.</summary>
+</bill>

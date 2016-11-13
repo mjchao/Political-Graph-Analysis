@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="1104" updated="2014-03-22T09:51:42-04:00">
+  <state datetime="1987-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Solar Energy and Energy Conservation Bank Reauthorization Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Solar Energy and Conservation Bank Act to authorize appropriations for the provision of financial assistance through fiscal year 1993, and for other purposes.</title>
+  </titles>
+  <sponsor id="408109"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="1987-07-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-11" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Authorization"/>
+    <term name="Bank loans"/>
+    <term name="Department of Housing and Urban Development"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy conservation"/>
+    <term name="Energy policy"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government lending"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing finance"/>
+    <term name="Industrial energy conservation"/>
+    <term name="Mortgages"/>
+    <term name="Residential energy conservation"/>
+    <term name="Secondary mortgage market"/>
+    <term name="Solar energy"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1987--Introduced.
+Solar Energy and Energy Conservation Bank Reauthorization Act of 1987 - Amends the Solar Energy and Energy Conservation Bank Act to extend the life of the Solar Energy and Energy Conservation Bank until September 30, 1993. (Under current law, the Bank will cease to exist after September 30, 1987.) Requires that 25 percent of the payments by the Bank to financial institutions to provide financial assistance for the installation of solar energy systems in residential, commercial, and agricultural buildings be allocated for active solar energy. Requires an equitable distribution of financial assistance between residential and multifamily residential buildings. Permits all financial institutions to apply directly to the Bank for financial assistance. Authorizes appropriations for FY 1988 through 1993 for the financial assistance program under the Solar Energy and Energy Conservation Bank Act for the purchase and installation of residential and commercial energy conserving improvements and solar energy systems. Amends the Federal National Mortgage Association Charter Act to eliminate the condition under which the Board of the Bank would not exercise its authority to purchase loans for energy conserving improvements or to purchase mortgages secured by newly constructed homes with solar energy systems.</summary>
+</bill>

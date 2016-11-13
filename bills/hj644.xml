@@ -1,0 +1,109 @@
+<bill session="100" type="hj" number="644" updated="2014-03-22T09:54:04-04:00">
+  <state datetime="1988-10-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-28"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution granting the consent of Congress to the compact entered into between the State of North Carolina and the State of South Carolina establishing the Lake Wylie Marine Commission.</title>
+  </titles>
+  <sponsor id="400386"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="1988-09-13"/>
+    <cosponsor id="402600" joined="1988-09-22"/>
+    <cosponsor id="400076" joined="1988-09-13"/>
+    <cosponsor id="403403" joined="1988-09-13"/>
+    <cosponsor id="405313" joined="1988-09-13"/>
+    <cosponsor id="406148" joined="1988-09-13"/>
+    <cosponsor id="406554" joined="1988-09-13"/>
+    <cosponsor id="400231" joined="1988-09-13"/>
+    <cosponsor id="407558" joined="1988-09-13"/>
+    <cosponsor id="408109" joined="1988-09-13"/>
+    <cosponsor id="408520" joined="1988-09-13"/>
+    <cosponsor id="400326" joined="1988-09-13"/>
+    <cosponsor id="409400" joined="1988-09-13"/>
+    <cosponsor id="400610" joined="1988-09-13"/>
+    <cosponsor id="410623" joined="1988-09-13"/>
+    <cosponsor id="411065" joined="1988-09-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-08-29">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Subcommittee on Administrative Law and Governmental Relations Discharged.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-03">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-1039.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Placed on House Calendar No: 234.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-05" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1988-10-07" calendar="Senate Legislative" under="General Orders" number="1138">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1138.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-12" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-549" type="public" datetime="1988-10-28">
+      <text>Became Public Law No: 100-549.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Interstate commissions"/>
+    <term name="Interstate compacts"/>
+    <term name="Lakes"/>
+    <term name="North Carolina"/>
+    <term name="South Carolina"/>
+    <term name="States"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Passed House amended.
+(Measure passed House, amended) Interstate Compact - Grants congressional approval to the compact between the States of North Carolina and South Carolina which provides for the establishment of the Lake Wylie Marine Commission.</summary>
+</bill>

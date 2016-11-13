@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="1517" updated="2014-03-22T09:55:21-04:00">
+  <state datetime="1987-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-07-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to provide that per diem subsidies paid by the Veterans' Administration for the care of veterans in State homes shall not be used to offset payments that are made under the medicaid program for the purpose of assisting eligible veterans.</title>
+  </titles>
+  <sponsor id="407786"/>
+  <cosponsors>
+    <cosponsor id="402727" joined="1987-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <calendar datetime="1987-07-31" state="REPORTED">
+      <text>Committee on Veterans. Provisions of measure incorporated into measure S. 9 ordered to be reported.</text>
+    </calendar>
+    <action datetime="1987-12-17">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="9"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Extended care facilities"/>
+    <term name="Health facilities"/>
+    <term name="Medicaid"/>
+    <term name="Public assistance programs"/>
+    <term name="Social welfare"/>
+    <term name="Soldiers' homes"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/1987--Introduced.
+Amends Federal law concerning veterans' benefits to provide that the per diem subsidies paid by the Veterans Administration for the care of veterans in State homes shall not be used to offset payments made to such homes under title XIX (Medicaid) of the Social Security Act for the purpose of assisting eligible veterans.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="3029" updated="2014-03-22T09:52:37-04:00">
+  <state datetime="1988-10-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the new Post Office Building in Gretna, Louisiana, as the "William W. Pares, Jr., Post Office Building".</title>
+  </titles>
+  <sponsor id="406863"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-28" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-07" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-511" type="public" datetime="1988-10-20">
+      <text>Became Public Law No: 100-511.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal installations"/>
+    <term name="Louisiana"/>
+    <term name="Names"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Passed House amended.
+(Measure passed House, amended) Designates the U.S. Post Office Building located at 406 Gretna Boulevard, Gretna, Louisiana, as the William W. Pares, Jr., Post Office Building.</summary>
+</bill>

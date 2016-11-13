@@ -1,0 +1,43 @@
+<bill session="100" type="hr" number="412" updated="2014-03-22T09:51:01-04:00">
+  <state datetime="1988-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-23"/>
+  </status>
+  <introduced datetime="1988-03-23"/>
+  <titles>
+    <title type="official" as="introduced">A resolution reaffirming United States support for the Nicaraguan democratic resistance, and condemning the recent invasion of Honduras by Nicaragua.</title>
+  </titles>
+  <sponsor id="401986"/>
+  <cosponsors>
+    <cosponsor id="403545" joined="1988-03-23"/>
+    <cosponsor id="403769" joined="1988-03-23"/>
+    <cosponsor id="400192" joined="1988-03-23"/>
+    <cosponsor id="406255" joined="1988-03-23"/>
+    <cosponsor id="300155" joined="1988-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-23" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-04-04">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Armistices"/>
+    <term name="Honduras"/>
+    <term name="Insurgency"/>
+    <term name="Nicaragua"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/1988--Introduced.
+Condemns the Nicaraguan invasion of Honduras and calls upon the Nicaraguan Government forces to withdraw immediately and negotiate a ceasefire with the Nicaraguan democratic resistance. Calls upon the Nicaraguan Government to make a full accounting and issue an apology to the Honduran Government for casualties incurred. Calls for renewed U.S. support and military aid for the Nicaraguan democratic resistance.</summary>
+</bill>

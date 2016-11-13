@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4762" updated="2014-03-22T09:53:24-04:00">
+  <state datetime="1988-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-08"/>
+  </status>
+  <introduced datetime="1988-06-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that the President may reduce foreign assistance to a country involved in illegal exports for nuclear explosive devices.</title>
+  </titles>
+  <sponsor id="400236"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-08" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="International control of nuclear power"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear exports"/>
+    <term name="Nuclear nonproliferation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/1988--Introduced.
+Amends the Foreign Assistance Act of 1961 to authorize the President to reduce U.S. economic and military assistance to a country determined to be involved in illegal exports for nuclear explosive devices. (Present law requires a total termination of assistance to such countries or a waiver of such total termination.)</summary>
+</bill>

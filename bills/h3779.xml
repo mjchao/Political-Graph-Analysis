@@ -1,0 +1,88 @@
+<bill session="100" type="h" number="3779" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1988-09-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-20"/>
+  </status>
+  <introduced datetime="1987-12-17"/>
+  <titles>
+    <title type="short" as="introduced">Controller Performance Research Act</title>
+    <title type="official" as="introduced">A bill to direct the Administrator of the Federal Aviation Administration to conduct research into the consequences for the air traffic control system of automation of such system, and for other purposes.</title>
+  </titles>
+  <sponsor id="401986"/>
+  <cosponsors>
+    <cosponsor id="405258" joined="1987-12-17"/>
+    <cosponsor id="405377" joined="1987-12-17"/>
+    <cosponsor id="406463" joined="1987-12-17"/>
+    <cosponsor id="406790" joined="1987-12-17"/>
+    <cosponsor id="406992" joined="1987-12-17"/>
+    <cosponsor id="407399" joined="1987-12-17"/>
+    <cosponsor id="300078" joined="1987-12-17"/>
+    <cosponsor id="409251" joined="1987-12-17"/>
+    <cosponsor id="400533" joined="1988-05-24"/>
+    <cosponsor id="400365" joined="1987-12-17"/>
+    <cosponsor id="409968" joined="1987-12-17"/>
+    <cosponsor id="411247" joined="1987-12-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-17" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-01-04">
+      <text>Referred to Subcommittee on Transportation, Aviation and Materials.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-11" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-08">
+      <text>Reported to House by House Committee on Science, Space, and Technology.  Report No: 100-893.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Placed on Union Calendar No: 530.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSSY07" subcommittee="Transportation, Aviation and Materials" name="House Science, Space and Technology"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2876"/>
+    <bill relation="identical" session="100" type="s" number="2876"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air traffic"/>
+    <term name="Air traffic controllers"/>
+    <term name="Automation"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Computers"/>
+    <term name="Public safety"/>
+    <term name="Science and technology"/>
+    <term name="Technology and social problems"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/1987--Introduced.
+Controller Performance Research Act - Directs the Administrator of the Federal Aviation Administration to research the effects of automation on the performance of the next generation of air traffic controllers and the air traffic control system, and to report to the Congress regarding such research. Authorizes the Administrator to enter into an agreement with the Administrator of the National Aeronautics and Space Administration (NASA) regarding the use of NASA facilities to study the human factor aspects of a highly automated environment upon air traffic controllers. Prescribes the contents of such research. Authorizes appropriations.</summary>
+</bill>

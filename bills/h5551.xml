@@ -1,0 +1,89 @@
+<bill session="100" type="h" number="5551" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-10-20"/>
+  <titles>
+    <title type="short" as="introduced">International Peacekeeping Activities Authorization Act of 1988</title>
+    <title type="official" as="introduced">A bill to authorize the transfer of certain funds for use for United States contributions to new international peacekeeping activities.</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-10-20"/>
+    <cosponsor id="400975" joined="1988-10-20"/>
+    <cosponsor id="400025" joined="1988-10-20"/>
+    <cosponsor id="401526" joined="1988-10-20"/>
+    <cosponsor id="401585" joined="1988-10-20"/>
+    <cosponsor id="401847" joined="1988-10-20"/>
+    <cosponsor id="402600" joined="1988-10-20"/>
+    <cosponsor id="403031" joined="1988-10-20"/>
+    <cosponsor id="403545" joined="1988-10-20"/>
+    <cosponsor id="404019" joined="1988-10-20"/>
+    <cosponsor id="404376" joined="1988-10-20"/>
+    <cosponsor id="400585" joined="1988-10-20"/>
+    <cosponsor id="400536" joined="1988-10-20"/>
+    <cosponsor id="404996" joined="1988-10-20"/>
+    <cosponsor id="406473" joined="1988-10-20"/>
+    <cosponsor id="406530" joined="1988-10-20"/>
+    <cosponsor id="400231" joined="1988-10-20"/>
+    <cosponsor id="400236" joined="1988-10-20"/>
+    <cosponsor id="406765" joined="1988-10-20"/>
+    <cosponsor id="406995" joined="1988-10-20"/>
+    <cosponsor id="400562" joined="1988-10-20"/>
+    <cosponsor id="407669" joined="1988-10-20"/>
+    <cosponsor id="407673" joined="1988-10-20"/>
+    <cosponsor id="407721" joined="1988-10-20"/>
+    <cosponsor id="410066" joined="1988-10-20"/>
+    <cosponsor id="300156" joined="1988-10-20"/>
+    <cosponsor id="411025" joined="1988-10-20"/>
+    <cosponsor id="411426" joined="1988-10-20"/>
+    <cosponsor id="411834" joined="1988-10-20"/>
+    <cosponsor id="411948" joined="1988-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-20" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>Senate Committee on Appropriations discharged by Unanimous Consent.</text>
+    </action>
+    <calendar datetime="1988-10-22" calendar="Senate Legislative" under="General Orders" number="1148">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1148.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Appropriations"/>
+    <term name="Economics and public finance"/>
+    <term name="International military forces"/>
+    <term name="Reprogramming of appropriated funds"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1988--Introduced.
+International Peacekeeping Activities Authorization Act of 1988 - Authorizes the President to transfer specified funds during FY 1989 to the Contributions for International Peacekeeping Activities Account or the Peacekeeping Operations Account of the Department of State in order to meet requests for contributions or other assistance for new international peacekeeping activities. Provides that such transferred funds shall be deemed to be authorized to be appropriated for such accounts. Subjects any transfer or obligation of such funds to the regular reprogramming procedures of the relevant committees of the Congress.</summary>
+</bill>

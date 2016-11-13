@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="348" updated="2014-03-22T09:54:51-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to redesignate Capulin Mountain National Monument as Capulin Volcano National Monument in the State of New Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor id="300036"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to Subcommittee on Public Lands National Parks.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Favorable.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="National monuments"/>
+    <term name="New Mexico"/>
+    <term name="Volcanoes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Redesignates the Capulin Mountain National Monument, New Mexico, as the Capulin Volcano National Monument. Transfers jurisdiction over the federally owned lands within the revised boundaries of the Monument to the National Park Service.</summary>
+</bill>

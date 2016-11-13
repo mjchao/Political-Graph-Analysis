@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="1859" updated="2014-03-22T09:55:27-04:00">
+  <state datetime="1987-11-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-10"/>
+  </status>
+  <introduced datetime="1987-11-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to eliminate cost-of-living increases for Federal programs in fiscal year 1988.</title>
+  </titles>
+  <sponsor id="300150"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Federal budgets"/>
+    <term name="Government spending reductions"/>
+    <term name="Inflation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1194"/>
+  </amendments>
+  <summary>11/10/1987--Introduced.
+Prohibits any cost-of-living increase for FY 1988 for Federal payments or benefits. Declares that such increase that would have resulted for FY 1988 cannot be taken into account to determine such increase for any other fiscal year.</summary>
+</bill>

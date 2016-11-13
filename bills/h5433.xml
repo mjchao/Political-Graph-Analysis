@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="5433" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-30"/>
+  </status>
+  <introduced datetime="1988-09-30"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Fuel Utilization and Domestic Production Act of 1988</title>
+    <title type="official" as="introduced">A bill to assist in creating a viable domestic uranium enrichment industry, to insure the maximum economic utilization of the existing diffusion plant assests, to establish mechanisms which would permit the creation of a privately owned corporation or a mixed government-privately owned corporation to utilize the federal government's investment in centrifuge technology and in the centrifuge assests, to establish alternate sources of enrichment supply, so as to create American jobs, to return monies to the government and to increase American industrial competitiveness in world wide nuclear fuel sales.</title>
+  </titles>
+  <sponsor id="406992"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-30" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Referred to Subcommittee on Energy Research and Development.</text>
+    </action>
+    <action datetime="1988-10-24">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY06" subcommittee="Energy Research and Development" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Energy policy"/>
+    <term name="Fissionable materials"/>
+    <term name="Government corporations"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Nuclear energy"/>
+    <term name="Privatization"/>
+    <term name="Research and development"/>
+    <term name="Strategic materials"/>
+    <term name="Uranium"/>
+    <term name="Uranium enrichment"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1988--Introduced.
+Nuclear Fuel Utilization and Domestic Production Act of 1988 - Establishes the National Enrichment Corporation as a wholly owned government corporation which shall passively hold title to Government assets and which shall not be considered an agency or instrumentality of the United States. Declares that the Corporation's purpose is to: (1) acquire feed material for uranium enrichment and for the gas centrifuge technology activities of the Department of Energy; (2) repay the maximum amount of revenue to the Treasury for past uranium enrichment expenditures; and (3) establish a mechanism to convey the Corporation or the centrifuge technology to domestically-controlled private interests. Directs the Secretary of Energy to transfer to the Corporation all properties owned by the Department of Energy which relate to uranium enrichment and gas centrifuge technologies.</summary>
+</bill>

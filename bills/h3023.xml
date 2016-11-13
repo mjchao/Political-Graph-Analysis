@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="3023" updated="2014-03-22T09:52:36-04:00">
+  <state datetime="1987-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-28"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Voter Participation Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Election Campaign Act of 1971 to provide for mail registration and election day registration for elections for Federal office.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1987-08-05"/>
+    <cosponsor id="402763" joined="1987-09-14"/>
+    <cosponsor id="400126" joined="1987-09-09"/>
+    <cosponsor id="404006" joined="1987-08-05"/>
+    <cosponsor id="404190" joined="1987-09-21"/>
+    <cosponsor id="400140" joined="1987-08-05"/>
+    <cosponsor id="400238" joined="1987-08-05"/>
+    <cosponsor id="407960" joined="1987-08-05"/>
+    <cosponsor id="400306" joined="1987-09-09"/>
+    <cosponsor id="400314" joined="1987-08-05"/>
+    <cosponsor id="410076" joined="1987-08-05"/>
+    <cosponsor id="400409" joined="1987-09-09"/>
+    <cosponsor id="411025" joined="1987-09-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-28" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-05-27">
+      <text>Field Hearings Held in Los Angeles, California.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Election administration"/>
+    <term name="Voter registration"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1987--Introduced.
+Voter Participation Act of 1987 - Amends the Federal Election Campaign Act of 1971 to allow an individual who is otherwise eligible to vote in a Federal election to register to vote in such election by submitting a registration form, in person or by mail, to appropriate State election officials at least 20 days before the election. Authorizes such an individual to register to vote in a Federal election at the appropriate polling place on the date of the election. Requires States to provide for maximum accessibility to registration offices and forms. Directs the Federal Election Commission to prescribe regulations to carry out this Act, taking into consideration the need for uniformity in voter registration procedures. Declares that this Act does not prevent any State from providing greater access to voter registration.</summary>
+</bill>

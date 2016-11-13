@@ -1,0 +1,69 @@
+<bill session="100" type="h" number="3896" updated="2014-03-22T09:53:00-04:00">
+  <state datetime="1988-05-09">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-05-09"/>
+  </status>
+  <introduced datetime="1988-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to change the position of the Director of the Census Bureau to level IV from level V in the Executive Schedule.</title>
+  </titles>
+  <sponsor id="403695"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-03" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Subcommittee on Human Resources Discharged.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Subcommittee on Census and Population Discharged.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-27" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-04-29">
+      <text>Reported to House by House Committee on Post Office and Civil Service.  Report No: 100-592.</text>
+    </action>
+    <action datetime="1988-04-29">
+      <text>Placed on Union Calendar No: 353.</text>
+    </action>
+    <action datetime="1988-05-09">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-09" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-05-10">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+    <committee activity="Referral, Discharged" code="HSPO04" subcommittee="Human Resources" name="House Post Office and Civil Service"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Census"/>
+    <term name="Civil service compensation"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive compensation"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1988--Introduced.
+Changes the position of the Director of the Bureau of the Census from level V to level IV in the Executive Schedule.</summary>
+</bill>

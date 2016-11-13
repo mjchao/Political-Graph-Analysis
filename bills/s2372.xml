@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="2372" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-27">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-05-27"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">An original bill to authorize appropriations for Federal Civil Defense programs for fiscal year 1989.</title>
+  </titles>
+  <sponsor id="408252"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-04-27" state="REPORTED">
+      <text>Committee on Armed Services ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1988-05-12">
+      <text>Committee on Armed Services. Original measure reported to Senate by Senator Nunn. With written report No. 100-338.</text>
+    </action>
+    <calendar datetime="1988-05-12" calendar="Senate Legislative" under="General Orders" number="659">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 659.</text>
+    </calendar>
+    <action datetime="1988-05-27">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-05-27">
+      <text>Senate struck all after the enacting clause and inserted the language of title 33, of S.2355, as amended. By Voice Vote.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-27" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate in lieu of S. 2355 (Title 33) with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2355"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Civil defense"/>
+    <term name="Defense budgets"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/1988--Passed Senate amended.
+(Measure passed Senate, amended, (Inserted Title XXXIII of S. 2355)) Authorizes appropriations for FY 1989 for civil defense functions under the Federal Civil Defense Act of 1950.</summary>
+</bill>

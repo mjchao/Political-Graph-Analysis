@@ -1,0 +1,34 @@
+<bill session="100" type="sc" number="156" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-06">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1988-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to correct the enrollment of S. 2723.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-06" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Legislation"/>
+    <term name="Native Americans"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1988--Introduced.
+Makes corrections in the enrollment of S. 2723 (Hoopa-Yurok Settlement Act).</summary>
+</bill>

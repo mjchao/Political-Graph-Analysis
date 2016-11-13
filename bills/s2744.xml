@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="2744" updated="2014-03-22T09:55:54-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 35, United States Code, to permit separate patent extensions for each product under a patent which is subject to full regulatory review and approval.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors>
+    <cosponsor id="300052" joined="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on Patents, Copyrights and Trademarks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU06" subcommittee="Patents, Copyrights and Trademarks" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Drug industry"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Patents"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Amends Federal law regarding extensions of pharmaceutical patent terms to permit a separate extension for a product subject to a regulatory review period before it is put into commerce if the patent claim covers more than one: (1) product; (2) method of product use; or (3) product manufacturing method. Precludes the use of such extensions for a product other than the one for which the extension is sought.</summary>
+</bill>

@@ -1,0 +1,88 @@
+<bill session="100" type="s" number="1609" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1988-04-27">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-04-27"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of James P. Purvis.</title>
+  </titles>
+  <sponsor id="407355"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-08-06"/>
+    <cosponsor id="403920" joined="1987-08-06"/>
+    <cosponsor id="410588" joined="1987-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1988-02-19">
+      <text>Subcommittee on Courts and Administrative Practice. Subcommittee approved for full committee consideration.</text>
+    </action>
+    <calendar datetime="1988-02-23" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-03-15">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden without amendment. With written report No. 100-298.</text>
+    </action>
+    <calendar datetime="1988-03-15" calendar="Senate Legislative" under="General Orders" number="584">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 584.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-03-24">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>House Committee on The Judiciary Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-04-19" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-04-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-04-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-04-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-04-27" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-9" type="private" datetime="1988-04-27">
+      <text>Became Private Law No: 100-9.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3185"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full satisfaction of any claim of that individual and a named company against the United States arising out of a contract with the United States for construction of a building at the World's Fair in Seattle, Washington, in 1962.</summary>
+</bill>

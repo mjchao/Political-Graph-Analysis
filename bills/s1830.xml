@@ -1,0 +1,50 @@
+<bill session="100" type="s" number="1830" updated="2014-03-22T09:55:27-04:00">
+  <state datetime="1987-10-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-29"/>
+  </status>
+  <introduced datetime="1987-10-29"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Notch Adjustment Act</title>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to provide for a more gradual period of transition (and a new alternative formula with respect to such transition) to the changes in benefit computation rules enacted in the Social Security Amendments of 1977 as they apply to workers born in years after 1916 and before 1930 (and related beneficiaries) and to provide for increases on their benefits accordingly, and for other purposes.</title>
+  </titles>
+  <sponsor id="409562"/>
+  <cosponsors>
+    <cosponsor id="402412" joined="1988-02-18"/>
+    <cosponsor id="300023" joined="1988-02-17"/>
+    <cosponsor id="403346" joined="1987-12-02"/>
+    <cosponsor id="404219" joined="1988-01-25"/>
+    <cosponsor id="300048" joined="1987-12-10"/>
+    <cosponsor id="300051" joined="1987-11-17"/>
+    <cosponsor id="405305" joined="1988-02-16"/>
+    <cosponsor id="405310" joined="1988-02-17"/>
+    <cosponsor id="300053" joined="1988-02-04"/>
+    <cosponsor id="406190" joined="1988-02-18"/>
+    <cosponsor id="300070" joined="1987-10-29"/>
+    <cosponsor id="407663" joined="1988-04-12"/>
+    <cosponsor id="300073" joined="1987-10-29"/>
+    <cosponsor id="408597" joined="1988-04-20"/>
+    <cosponsor id="408898" joined="1987-10-29"/>
+    <cosponsor id="300089" joined="1988-01-25"/>
+    <cosponsor id="300092" joined="1987-10-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3788"/>
+    <bill relation="identical" session="100" type="h" number="3788"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/1987--Introduced.
+Social Security Notch Adjustment Act - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to establish a new alternative formula for computing the primary insurance amount (used in calculating the amount of OASDI benefits to which an individual is entitled) of workers born after 1916 and before 1930. Makes the new formula effective beginning January 1987, but provides retroactive benefits of up to $1,000 for months prior to January 1987. Excludes the earnings an individual who was born before 1917 earns in or after the year he or she reaches age 70 from the calculation of benefits payable to such individual after 1985.</summary>
+</bill>

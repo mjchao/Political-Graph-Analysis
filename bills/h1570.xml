@@ -1,0 +1,96 @@
+<bill session="100" type="h" number="1570" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1988-05-10">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-05-10"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Power Emergency Response Data System Act of 1987</title>
+    <title type="short" as="reported to house">Nuclear Power Emergency Response Data System Act of 1987</title>
+    <title type="short" as="passed house">Nuclear Power Emergency Response Data System Act of 1988</title>
+    <title type="official" as="introduced">A bill to establish an emergency response program within the Nuclear Regulatory Commission.</title>
+  </titles>
+  <sponsor id="405747"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-01" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-07-27">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-243 (Part I).</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Referred to House Committee on Energy and Commerce Sequentially, for a Period Ending not Later than Oct 16, 87.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-16">
+      <text>House Committee on Energy and Commerce Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-16">
+      <text>Placed on Union Calendar No: 238.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="111" datetime="1988-05-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 341 - 77 (Record Vote No: 111).</text>
+    </vote>
+    <action datetime="1988-05-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral, Hearings" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Computers"/>
+    <term name="Data transmission systems"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency communication systems"/>
+    <term name="Energy policy"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal-state relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Nuclear Regulatory Commission"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear power plant accidents"/>
+    <term name="Nuclear power plants"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Passed House amended.
+(Measure passed House, amended, roll call #111 (341-77)) Nuclear Power Emergency Response Data System Act of 1988 - Directs the Nuclear Regulatory Commission (the Commission) to establish a nuclear power emergency response data system to respond to a qualified nuclear power reactor emergency occurring at any commercial nuclear power reactor. Sets forth the system's requirements and mandates that it be operational within five years after the date of enactment of this Act. Requires commercial nuclear power reactor licensees to: (1) maintain and store a continuous 24-hour data record; and (2) transmit specified data to the Commission in the event of an emergency. Prescribes action guidelines for the Commission in the event of such an emergency. Mandates that such data system be the exclusive system in the United States. Prohibits any State or a public or private entity, after enactment of this Act, from requiring a commercial nuclear power reactor to implement any electronic data system that is: (1) capable of transmitting the data prescribed under this Act; and (2) connected to any commercial nuclear power reactor. Grandfathers existing systems. Requires the Commission to transmit electronically to the requesting State all data received through the data system with respect to a qualified nuclear power reactor emergency. Prohibits the use of Federal funds to pay the costs of such data transmissions.</summary>
+</bill>

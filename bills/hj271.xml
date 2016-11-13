@@ -1,0 +1,86 @@
+<bill session="100" type="hj" number="271" updated="2014-03-22T09:53:47-04:00">
+  <state datetime="1987-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-07"/>
+  </status>
+  <introduced datetime="1987-05-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution authorizing and directing the President to call upon radio and television broadcasters, to educate, in cooperation with public health organizations, the public about the dangers of cigarette smoking.</title>
+  </titles>
+  <sponsor id="401310"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-06-23"/>
+    <cosponsor id="400975" joined="1987-05-07"/>
+    <cosponsor id="400035" joined="1987-05-18"/>
+    <cosponsor id="300011" joined="1987-05-07"/>
+    <cosponsor id="400543" joined="1987-05-27"/>
+    <cosponsor id="403031" joined="1987-05-07"/>
+    <cosponsor id="403314" joined="1987-05-07"/>
+    <cosponsor id="400100" joined="1987-05-07"/>
+    <cosponsor id="403904" joined="1987-05-07"/>
+    <cosponsor id="404019" joined="1987-05-18"/>
+    <cosponsor id="404422" joined="1987-06-23"/>
+    <cosponsor id="400585" joined="1988-02-24"/>
+    <cosponsor id="400536" joined="1987-06-23"/>
+    <cosponsor id="400552" joined="1987-05-27"/>
+    <cosponsor id="405236" joined="1987-06-23"/>
+    <cosponsor id="405775" joined="1987-05-27"/>
+    <cosponsor id="405939" joined="1987-05-07"/>
+    <cosponsor id="400205" joined="1987-05-07"/>
+    <cosponsor id="400211" joined="1987-05-07"/>
+    <cosponsor id="400537" joined="1987-06-08"/>
+    <cosponsor id="400240" joined="1987-05-18"/>
+    <cosponsor id="400243" joined="1987-05-07"/>
+    <cosponsor id="400617" joined="1987-06-08"/>
+    <cosponsor id="407672" joined="1987-05-07"/>
+    <cosponsor id="407960" joined="1987-05-18"/>
+    <cosponsor id="408023" joined="1987-05-07"/>
+    <cosponsor id="408190" joined="1987-07-21"/>
+    <cosponsor id="400299" joined="1987-05-07"/>
+    <cosponsor id="400306" joined="1987-05-07"/>
+    <cosponsor id="409632" joined="1987-06-08"/>
+    <cosponsor id="410066" joined="1987-05-07"/>
+    <cosponsor id="410145" joined="1987-05-07"/>
+    <cosponsor id="400387" joined="1987-05-27"/>
+    <cosponsor id="411025" joined="1987-05-27"/>
+    <cosponsor id="400612" joined="1987-06-08"/>
+    <cosponsor id="411585" joined="1987-05-07"/>
+    <cosponsor id="411725" joined="1987-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advertising and Marketing"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Broadcasting"/>
+    <term name="Cigarettes"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Health"/>
+    <term name="Public health"/>
+    <term name="Public service advertising"/>
+    <term name="Radio broadcasting"/>
+    <term name="Smoking"/>
+    <term name="Television"/>
+    <term name="Television advertising"/>
+    <term name="Tobacco"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/1987--Introduced.
+Authorizes and directs the President to call on representatives of the broadcasting industry, in cooperation with public health organizations, to provide free air time to private and government organizations for antismoking public service announcements which educate the public about the dangers of cigarette smoking.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="814" updated="2014-03-22T09:51:34-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 107D(c)(1) of the Agricultural Act of 1949.</title>
+  </titles>
+  <sponsor id="411585"/>
+  <cosponsors>
+    <cosponsor id="300083" joined="1987-01-28"/>
+    <cosponsor id="409651" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Floods"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Amends the Agricultural Act of 1949 to provide deficiency payments for 1987 wheat crop reductions due to flooding or other specified natural disasters. Sets forth such payment formula.</summary>
+</bill>

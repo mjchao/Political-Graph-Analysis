@@ -1,0 +1,61 @@
+<bill session="100" type="sc" number="82" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1988-03-04">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-03-04"/>
+  </status>
+  <introduced datetime="1987-10-13"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution urging the German Democratic chief of state Erich Honecker to repeal permanently the order directing East German border guards to shoot to kill anyone who, without authorization, attempts to cross the Berlin Wall, and to issue an order to tear down the Berlin Wall.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-10-22"/>
+    <cosponsor id="401611" joined="1987-10-13"/>
+    <cosponsor id="401709" joined="1987-10-13"/>
+    <cosponsor id="300023" joined="1987-11-17"/>
+    <cosponsor id="403142" joined="1987-10-13"/>
+    <cosponsor id="403669" joined="1987-10-22"/>
+    <cosponsor id="404444" joined="1987-10-13"/>
+    <cosponsor id="406183" joined="1987-10-22"/>
+    <cosponsor id="300059" joined="1987-10-13"/>
+    <cosponsor id="300060" joined="1987-10-13"/>
+    <cosponsor id="300065" joined="1987-10-13"/>
+    <cosponsor id="300066" joined="1987-11-17"/>
+    <cosponsor id="300071" joined="1987-10-22"/>
+    <cosponsor id="300073" joined="1987-11-17"/>
+    <cosponsor id="300150" joined="1987-10-22"/>
+    <cosponsor id="300079" joined="1987-10-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-13" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1988-03-03" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-03-03">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-03-03" calendar="Senate Legislative" under="General Orders" number="575">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 575.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Berlin question"/>
+    <term name="East Germany"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1987--Introduced.
+Urges the German Democratic chief of state Erich Honecker to: (1) repeal the order directing East German border guards to shoot to kill anyone who attempts to cross the Berlin Wall; and (2) issue an order to tear down the Berlin Wall.</summary>
+</bill>

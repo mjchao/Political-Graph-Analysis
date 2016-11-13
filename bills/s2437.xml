@@ -1,0 +1,56 @@
+<bill session="100" type="s" number="2437" updated="2014-03-22T09:55:49-04:00">
+  <state datetime="1988-09-28">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-28"/>
+  </status>
+  <introduced datetime="1988-05-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of Agriculture to release a reversionary interest of the United States in certain land located in Oktibbeha County, Mississippi.</title>
+  </titles>
+  <sponsor id="300023"/>
+  <cosponsors>
+    <cosponsor id="410315" joined="1988-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Agricultural Research, Gen. Leg.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Committee on Agriculture. Subcommittee on Agricultural Research, and General Legislation was discharged.</text>
+    </action>
+    <calendar datetime="1988-09-28" state="REPORTED">
+      <text>Committee on Agriculture. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-10-03">
+      <text>Committee on Agriculture. Reported to Senate by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="1988-10-03" calendar="Senate Legislative" under="General Orders" number="1051">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1051.</text>
+    </calendar>
+    <action datetime="1988-10-05">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSAF04" subcommittee="Agricultural Research and General Legislation" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4724"/>
+    <bill relation="identical" session="100" type="h" number="4724"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colleges"/>
+    <term name="Land transfers"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Mississippi"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate (See H.R. 4724 as passed Senate for similar provisions)) Directs the Secretary of Agriculture: (1) to release the restriction that certain land located in Oktibbeha County, Mississippi, be used for public purposes; and (2) prior to releasing any restrictions contained in the deed granting such land to Mississippi State College, to enter into an agreement with the College which provides that the release of the restrictions shall be conditioned on the placing of identical restrictions on property of equal value acquired by the College in exchange for the land. Requires the Secretary of the Interior to convey all mineral interests in such lands to the College. Directs the Secretary of the Interior to determine the mineral character of such lands and the fair market value of the mineral interests. Requires the College to pay to the United States: (1) any administrative costs incurred by the United States in conveying such mineral interests to the College; and (2) the fair market value of such mineral interests; or (3) one dollar, if the Secretary of the Interior determines that such mineral interests have no value.</summary>
+</bill>

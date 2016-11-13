@@ -1,0 +1,38 @@
+<bill session="100" type="hc" number="17" updated="2014-03-22T09:54:05-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution concerning the rights of the people of Ireland.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-01-26">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-01-26">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Ireland"/>
+    <term name="National self-determination"/>
+    <term name="Northern Ireland"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Recognizes the right of all people of Ireland, including Northern Ireland, to control their own political destiny. Urges the President to pursue policies consistent with such right.</summary>
+</bill>

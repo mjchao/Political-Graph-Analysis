@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="639" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to eliminate restrictions on the taxing power of the State to impose, collect, and administer State and local sales and use taxes on sales in interstate commerce.</title>
+  </titles>
+  <sponsor id="402023"/>
+  <cosponsors>
+    <cosponsor id="410242" joined="1988-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1987-11-06">
+      <text>Subcommittee on Taxation and Debt Management. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFI06" subcommittee="Taxation and Debt Management" name="Senate Finance"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Intergovernmental tax relations"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local taxation"/>
+    <term name="Sales tax"/>
+    <term name="State taxation"/>
+    <term name="States"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Allows any State, or political subdivision thereof, to impose a sales or use tax on: (1) any interstate sale of tangible personal property by a person located outside such State or political subdivision; or (2) the use of tangible personal property in such State or political subdivision acquired through any interstate sale by a resident of such State or political subdivision. Defines "interstate sale" as a sale in which tangible personal property sold is shipped or delivered by common carrier or the United States Postal Service to the purchaser in a State from a point outside such State.</summary>
+</bill>

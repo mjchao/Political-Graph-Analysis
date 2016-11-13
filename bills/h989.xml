@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="989" updated="2014-03-22T09:51:38-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to investigate alternatives to the institutionalization of Medicare and Medicaid patients.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Extended care facilities"/>
+    <term name="Geriatrics"/>
+    <term name="Health facilities"/>
+    <term name="Intermediate care facilities"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+    <term name="Public assistance programs"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Authorizes the Secretary of Health and Human Services to provide, through demonstration projects, to eligible individuals who do not require 24-hour nursing care and who desire to establish a medical, noninstitutional living arrangement, payment for: (1) post-hospital extended care services under title XVIII (Medicare) of the Social Security Act; or (2) intermediate care facility services or skilled nursing facility services under title XIX (Medicaid) of such Act. Requires payments received to be used to finance appropriate medical, noninstitutional living arrangements. Provides that such payments shall not be includable in gross income under the Internal Revenue Code. Requires the Secretary to design the demonstration projects to determine: (1) the feasibility of transferring inpatients of skilled nursing and intermediate care facilities to noninstitutional living arrangements; (2) the types and percentage of such inpatients who could live effectively in a noninstitutional living arrangement; and (3) the types and percentages of such inpatients who would benefit economically and qualitatively from a noninstitutional living arrangement. Directs that funds for such payments be made from the Federal Hospital Insurance Trust Fund established under the Social Security Act and from funds appropriated for Medicaid.</summary>
+</bill>

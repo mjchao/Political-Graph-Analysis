@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="2608" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-29"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the requirement that taxpayers include on an income return a tax identification number for claimed dependents who have attained the age of 5 years.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1988-08-11"/>
+    <cosponsor id="404444" joined="1988-08-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Families"/>
+    <term name="Income tax"/>
+    <term name="Tax returns"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Introduced.
+Repeals the provision of the Internal Revenue Code that requires a taxpayer to include a tax identification number for each dependent of age five or older claimed on an income tax return.</summary>
+</bill>

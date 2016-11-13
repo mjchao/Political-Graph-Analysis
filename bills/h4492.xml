@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="4492" updated="2014-03-22T09:53:18-04:00">
+  <state datetime="1988-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-29"/>
+  </status>
+  <introduced datetime="1988-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Water Resources Development Act of 1986 relating to cost sharing.</title>
+  </titles>
+  <sponsor id="400761"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-29" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Arkansas"/>
+    <term name="Costs"/>
+    <term name="Flood control"/>
+    <term name="Harbors"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1988--Introduced.
+Amends the Water Resources Development Act of 1986 to provide that the cost sharing provisions do not apply to: (1) the construction of harbors with a depth of 20 feet or less; (2) certain flood control projects in Arkansas within the boundaries of the watersheds of the Mississippi River and tributaries; and (3) the feasibility studies, planning, engineering, and design of such flood control projects.</summary>
+</bill>

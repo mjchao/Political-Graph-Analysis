@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="447" updated="2014-03-22T09:54:55-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the excise taxes on cigarettes to 32 cents per pack and on snuff and chewing tobacco to 8 cents per package.</title>
+  </titles>
+  <sponsor id="402412"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-02-03"/>
+    <cosponsor id="401709" joined="1987-02-03"/>
+    <cosponsor id="403171" joined="1987-03-23"/>
+    <cosponsor id="300070" joined="1987-05-06"/>
+    <cosponsor id="409917" joined="1987-02-03"/>
+    <cosponsor id="410242" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Cigarettes"/>
+    <term name="Excise tax"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Imports"/>
+    <term name="Smokeless tobacco"/>
+    <term name="Tobacco"/>
+    <term name="Tobacco tax"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Amends the Internal Revenue Code to increase the excise tax on cigarettes from: (1) $8 to $16 per thousand for small cigarettes; and (2) $16.80 to $33.60 per thousand for large cigarettes. Increases the excise tax on snuff from 24 cents to $1.20. Increases the excise tax on chewing tobacco from eight cents to 40 cents. Imposes a floor stock tax on domestic and imported large and small cigarettes, snuff, and chewing tobacco.</summary>
+</bill>

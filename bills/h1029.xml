@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1029" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide tax credits to producers of domestic crude oil when the removal price is less than the adjusted base price determined for purposes of the windfall profit tax.</title>
+  </titles>
+  <sponsor id="400079"/>
+  <cosponsors>
+    <cosponsor id="400018" joined="1987-03-05"/>
+    <cosponsor id="401628" joined="1987-03-10"/>
+    <cosponsor id="400104" joined="1987-03-24"/>
+    <cosponsor id="403769" joined="1987-03-10"/>
+    <cosponsor id="404068" joined="1987-03-05"/>
+    <cosponsor id="406863" joined="1987-03-05"/>
+    <cosponsor id="411725" joined="1987-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Energy policy"/>
+    <term name="Excess profits tax"/>
+    <term name="Excise tax"/>
+    <term name="Income tax"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Tax credits"/>
+    <term name="Tax returns"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Amends the Internal Revenue Code to require the Secretary of the Treasury to pay to domestic oil producers the applicable percentage of the excess of the adjusted base price of such oil over its removal price. Defines "applicable percentage" in terms of the windfall profit tax rate for such oil. Prohibits filing a claim for payment more than once a year, unless such payment exceeds $1,000 in specified quarters. Requires, with specified exceptions, tax credits in lieu of payments. Terminates the provisions of this Act for crude oil removed after December 31, 1991.</summary>
+</bill>

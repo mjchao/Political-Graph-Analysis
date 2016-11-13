@@ -1,0 +1,58 @@
+<bill session="100" type="hj" number="252" updated="2014-03-22T09:53:47-04:00">
+  <state datetime="1987-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-23"/>
+  </status>
+  <introduced datetime="1987-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution expressing the sense of the Congress that Federal aid for refugee assistance programs should not be reduced, and for other purposes.</title>
+  </titles>
+  <sponsor id="404325"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-05-04"/>
+    <cosponsor id="300001" joined="1987-05-04"/>
+    <cosponsor id="400975" joined="1987-06-03"/>
+    <cosponsor id="402114" joined="1987-06-03"/>
+    <cosponsor id="404002" joined="1987-05-04"/>
+    <cosponsor id="404013" joined="1987-05-19"/>
+    <cosponsor id="400595" joined="1987-05-04"/>
+    <cosponsor id="408023" joined="1987-05-04"/>
+    <cosponsor id="400299" joined="1987-05-04"/>
+    <cosponsor id="400306" joined="1987-05-19"/>
+    <cosponsor id="400604" joined="1987-05-04"/>
+    <cosponsor id="400354" joined="1987-05-19"/>
+    <cosponsor id="410066" joined="1987-05-04"/>
+    <cosponsor id="410145" joined="1987-06-30"/>
+    <cosponsor id="410407" joined="1987-06-17"/>
+    <cosponsor id="400612" joined="1987-04-29"/>
+    <cosponsor id="411725" joined="1987-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-23" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-27">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="116"/>
+    <bill relation="identical" session="100" type="sj" number="116"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Public assistance programs"/>
+    <term name="Refugees"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/1987--Introduced.
+Expresses the sense of the Congress that Federal aid for refugee assistance programs should not be reduced.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="sr" number="314" updated="2014-03-22T09:54:37-04:00">
+  <state datetime="1987-11-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-04"/>
+  </status>
+  <introduced datetime="1987-11-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate regarding the American Civil Defense program.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1988-02-01"/>
+    <cosponsor id="300154" joined="1988-02-01"/>
+    <cosponsor id="300079" joined="1987-12-09"/>
+    <cosponsor id="411762" joined="1987-11-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-04" state="REFERRED">
+      <text>Referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="311"/>
+    <bill relation="identical" session="100" type="hr" number="311"/>
+    <bill relation="identical" session="100" type="hr" number="312"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Air raid shelters"/>
+    <term name="Civil defense"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Food supply"/>
+    <term name="Nuclear warfare"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive contamination of food"/>
+  </subjects>
+  <amendments/>
+  <summary>11/4/1987--Introduced.
+Expresses the sense of the Senate that the Department of Defense should immediately provide the Congress with a report on a program for the building of nuclear blast and radiation shelters and for the storage of at least one year's supply of food for every individual in the United States.</summary>
+</bill>

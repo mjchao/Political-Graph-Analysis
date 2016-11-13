@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="3196" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act to ensure the safety of consumers in issuing regulations concerning mobile sources.</title>
+  </titles>
+  <sponsor id="400110"/>
+  <cosponsors>
+    <cosponsor id="401923" joined="1987-08-07"/>
+    <cosponsor id="401947" joined="1987-08-07"/>
+    <cosponsor id="402325" joined="1987-08-07"/>
+    <cosponsor id="402675" joined="1987-08-07"/>
+    <cosponsor id="404220" joined="1987-08-07"/>
+    <cosponsor id="400165" joined="1987-08-07"/>
+    <cosponsor id="405747" joined="1987-08-07"/>
+    <cosponsor id="400216" joined="1987-08-07"/>
+    <cosponsor id="406994" joined="1987-08-07"/>
+    <cosponsor id="407069" joined="1987-08-07"/>
+    <cosponsor id="400307" joined="1987-08-07"/>
+    <cosponsor id="408957" joined="1987-08-07"/>
+    <cosponsor id="409651" joined="1987-08-07"/>
+    <cosponsor id="409966" joined="1987-08-07"/>
+    <cosponsor id="400409" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative procedure"/>
+    <term name="Air pollution control"/>
+    <term name="Automobile safety standards"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Government operations and politics"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle pollution control"/>
+    <term name="Motor vehicle safety"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Amends the Clean Air Act to require the Administrator of the Environmental Protection Agency to consult with the Secretary of Transportation to coordinate regulations under such Act with the motor vehicle safety standards and other requirements of the National Traffic and Motor Vehicle Safety Act of 1966. Requires the Administrator to publish certain findings if inconsistencies are resolved against a safety recommendation of the Secretary.</summary>
+</bill>

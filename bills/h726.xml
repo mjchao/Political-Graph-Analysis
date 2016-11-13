@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="726" updated="2014-03-22T09:51:32-04:00">
+  <state datetime="1987-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-22"/>
+  </status>
+  <introduced datetime="1987-01-22"/>
+  <titles>
+    <title type="short" as="introduced">National Advisory Commission on the Future of Rural America Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish a National Advisory Commission on the Future of Rural America.</title>
+  </titles>
+  <sponsor id="404869"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-02-04"/>
+    <cosponsor id="400035" joined="1987-04-07"/>
+    <cosponsor id="400079" joined="1987-01-22"/>
+    <cosponsor id="400365" joined="1987-02-04"/>
+    <cosponsor id="410261" joined="1987-01-22"/>
+    <cosponsor id="410641" joined="1987-01-22"/>
+    <cosponsor id="411585" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-22" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-01-30">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Rural conditions"/>
+    <term name="Rural economic development"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/1987--Introduced.
+National Advisory Commission on the Future of Rural America Act of 1987 - Establishes a National Advisory Commission on the Future of Rural America. Sets forth related operating provisions. Directs such Commission to study and report to the President and the Congress within one year regarding the enhancement of the agricultural and non-agricultural economic base of rural areas, and the quality of health, housing, transportation, and education services in such areas. Terminates the Commission 30 days after submitting such report.</summary>
+</bill>

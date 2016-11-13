@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="2109" updated="2014-03-22T09:55:36-04:00">
+  <state datetime="1988-02-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-29"/>
+  </status>
+  <introduced datetime="1988-02-29"/>
+  <titles>
+    <title type="short" as="introduced">Civil Rights Protection Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend Title 18, United States Code, to protect the civil rights of individuals from discrimination on the basis of affectional or sexual orientation.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-03-14"/>
+    <cosponsor id="402990" joined="1988-02-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Conspiracy"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Discrimination in employment"/>
+    <term name="Discrimination in public facilities"/>
+    <term name="Gay rights"/>
+    <term name="Juries"/>
+    <term name="Jury selection"/>
+    <term name="Labor and employment"/>
+    <term name="Public schools"/>
+  </subjects>
+  <amendments/>
+  <summary>2/29/1988--Introduced.
+Civil Rights Protection Act of 1988 - Amends the Federal criminal code to add affectional or sexual orientation to the list of protected categories under Federal civil rights laws respecting: (1) conspiracy against the rights of citizens; (2) deprivation of rights under color of law; (3) certain federally protected activities (including attending public schools, serving as a juror, and traveling in or using any facility of interstate commerce); and (4) deprivation of relief benefits.</summary>
+</bill>

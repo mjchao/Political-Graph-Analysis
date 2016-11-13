@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4559" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-10"/>
+  </status>
+  <introduced datetime="1988-05-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to change the status of the Veterans' Administration outpatient clinic in Toledo, Ohio, to that of an independent clinic.</title>
+  </titles>
+  <sponsor id="400211"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-10" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Referred to Subcommittee on Hospitals and Health Care.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Hospitals and Health Care" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Ambulatory care"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Ohio"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Introduced.
+Directs the Administrator of Veterans Affairs to change the status of the Veterans Administration outpatient clinic in Toledo, Ohio, to that of an independent clinic. Provides for funding of the clinic after its change of status.</summary>
+</bill>

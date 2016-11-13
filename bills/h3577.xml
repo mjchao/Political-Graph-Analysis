@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="3577" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1987-10-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-29"/>
+  </status>
+  <introduced datetime="1987-10-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to suspend most-favored-nation trade privileges to the Socialist Federal Republic of Yugoslavia.</title>
+  </titles>
+  <sponsor id="403476"/>
+  <cosponsors>
+    <cosponsor id="401155" joined="1988-10-19"/>
+    <cosponsor id="400055" joined="1987-10-29"/>
+    <cosponsor id="402928" joined="1988-02-25"/>
+    <cosponsor id="400085" joined="1987-10-29"/>
+    <cosponsor id="403545" joined="1987-10-29"/>
+    <cosponsor id="400536" joined="1987-10-29"/>
+    <cosponsor id="404587" joined="1987-10-29"/>
+    <cosponsor id="400192" joined="1987-10-29"/>
+    <cosponsor id="300055" joined="1988-02-25"/>
+    <cosponsor id="400211" joined="1987-10-29"/>
+    <cosponsor id="406463" joined="1987-10-29"/>
+    <cosponsor id="407432" joined="1988-02-25"/>
+    <cosponsor id="300155" joined="1988-02-25"/>
+    <cosponsor id="410147" joined="1988-02-25"/>
+    <cosponsor id="410574" joined="1988-02-25"/>
+    <cosponsor id="400611" joined="1987-10-29"/>
+    <cosponsor id="400435" joined="1987-10-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-29" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-11-02">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Most favored nation principle"/>
+    <term name="Tariff"/>
+    <term name="Yugoslavia"/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/1987--Introduced.
+Suspends most-favored-nation treatment of imports from Yugoslavia.</summary>
+</bill>

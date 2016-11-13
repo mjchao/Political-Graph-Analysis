@@ -1,0 +1,46 @@
+<bill session="100" type="hr" number="313" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-11-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-17"/>
+  </status>
+  <introduced datetime="1987-11-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that the proposed treaty with the Soviet Union for the reduction of intermediate-range nuclear forces in Europe is deficient.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-17" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Collective security agreements"/>
+    <term name="Conventional weapons"/>
+    <term name="Europe"/>
+    <term name="Intermediate range ballistic missiles"/>
+    <term name="Military policy"/>
+    <term name="NATO countries"/>
+    <term name="NATO military forces"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/1987--Introduced.
+Expresses the sense of the House of Representatives that: (1) the proposed treaty with the Soviet Union for the reduction of intermediate-range nuclear forces in Europe is deficient in that it fails to provide for the reduction of Soviet and Warsaw Pact conventional forces in Europe; (2) the President should pursue an agreement for the reduction of such conventional forces before entering into any agreement for the reduction of intermediate-range nuclear forces in Europe; and (3) any such agreement should result in substantial parity of the strength of Soviet and Warsaw Pact conventional forces and North Atlantic Treaty Organization (NATO) conventional forces.</summary>
+</bill>

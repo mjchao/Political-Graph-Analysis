@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1383" updated="2014-03-22T09:51:48-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the Secretary of the Army from issuing certain permits in connection with a proposed water pipeline project until an environmental impact statement for that project has been completed.</title>
+  </titles>
+  <sponsor id="411065"/>
+  <cosponsors>
+    <cosponsor id="403178" joined="1987-03-03"/>
+    <cosponsor id="405313" joined="1987-03-03"/>
+    <cosponsor id="406148" joined="1987-03-03"/>
+    <cosponsor id="408109" joined="1987-03-03"/>
+    <cosponsor id="400326" joined="1987-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Lakes"/>
+    <term name="North Carolina"/>
+    <term name="Virginia"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Prohibits the Secretary of the Army from issuing certain permits for the construction of a water supply pipeline and related structures for removing water from Lake Gaston, North Carolina and Virginia, to Virginia Beach, Virginia, until an environmental impact statement is completed.</summary>
+</bill>

@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="3994" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-24"/>
+  </status>
+  <introduced datetime="1988-02-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the coverage of certain Federal labor laws to foreign flagships.</title>
+  </titles>
+  <sponsor id="402626"/>
+  <cosponsors>
+    <cosponsor id="408052" joined="1988-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-24" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Referred to Subcommittee on Labor Standards.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Referred to Subcommittee on Health and Safety.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Referred to Subcommittee on Employment Opportunities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED03" subcommittee="Labor Standards" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED05" subcommittee="Health and Safety" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED06" subcommittee="Employment Opportunities" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Collective bargaining"/>
+    <term name="Discrimination in employment"/>
+    <term name="Employee rights"/>
+    <term name="Flags of convenience"/>
+    <term name="Hours of labor"/>
+    <term name="Industrial relations"/>
+    <term name="Labor unions"/>
+    <term name="Marine safety"/>
+    <term name="Merchant marine"/>
+    <term name="Merchant seamen"/>
+    <term name="Merchant ships"/>
+    <term name="Minimum wages"/>
+    <term name="Occupational health and safety"/>
+    <term name="Overtime"/>
+    <term name="Passenger ships"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Standards"/>
+    <term name="Unfair labor practices"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1988--Introduced.
+Extends to certain foreign flagships and other vessels coverage under the National Labor Relations Act, the Occupational Safety and Health Act of 1970, the Fair Labor Standards Act of 1938, and the Civil Rights Act of 1964.</summary>
+</bill>

@@ -1,0 +1,98 @@
+<bill session="100" type="s" number="794" updated="2016-06-29T08:45:37-04:00">
+  <state datetime="1988-06-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-24"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend chapter 13 of title 18, United States Code, to impose criminal penalties and provide a civil action for damage to religious property and for injury to persons in the free exercise of religious beliefs.</title>
+  </titles>
+  <sponsor id="407663"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-04-21"/>
+    <cosponsor id="300031" joined="1987-11-19"/>
+    <cosponsor id="404679" joined="1987-10-02"/>
+    <cosponsor id="300056" joined="1987-03-19"/>
+    <cosponsor id="300064" joined="1987-03-19"/>
+    <cosponsor id="300066" joined="1987-03-31"/>
+    <cosponsor id="407622" joined="1987-11-19"/>
+    <cosponsor id="300073" joined="1987-03-19"/>
+    <cosponsor id="400565" joined="1987-03-26"/>
+    <cosponsor id="409562" joined="1987-03-19"/>
+    <cosponsor id="409917" joined="1988-02-03"/>
+    <cosponsor id="300092" joined="1987-03-19"/>
+    <cosponsor id="411421" joined="1987-03-19"/>
+    <cosponsor id="411801" joined="1987-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-11-17">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Subcommittee on Constitution. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text>
+    </action>
+    <calendar datetime="1988-03-24" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-04-27">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden with an amendment in the nature of a substitute. With written report No. 100-324.</text>
+    </action>
+    <calendar datetime="1988-04-27" calendar="Senate Legislative" under="General Orders" number="638">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 638.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-05-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-14" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-17">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-346" type="public" datetime="1988-06-24">
+      <text>Became Public Law No: 100-346.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Church property"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Crime prevention"/>
+    <term name="Damages"/>
+    <term name="Destruction of property"/>
+    <term name="Prosecution"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+    <term name="Torts"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1966"/>
+  </amendments>
+  <summary>5/18/1988--Passed Senate amended.
+(Measure passed Senate, amended) Amends the Federal criminal code to establish criminal penalties for: (1) intentionally defacing, damaging, or destroying (or attempting to deface, damage, or destroy) any religious real property because of the religious character of that property (provided the loss from such defacement, damage, or destruction exceeds $10,000); or (2) intentionally obstructing (or attempting to obstruct) any person's free exercise of religious beliefs. Precludes any prosecution under this Act unless the Attorney General provides written notice that, in his judgment, prosecution by the United States is in the public interest and necessary to secure justice.</summary>
+</bill>

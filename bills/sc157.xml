@@ -1,0 +1,37 @@
+<bill session="100" type="sc" number="157" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1988-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to support further cooperation between the United States and Japan in the coordination of foreign economic assistance programs.</title>
+  </titles>
+  <sponsor id="401709"/>
+  <cosponsors>
+    <cosponsor id="406188" joined="1988-10-06"/>
+    <cosponsor id="300070" joined="1988-10-06"/>
+    <cosponsor id="300084" joined="1988-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-06" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="387"/>
+    <bill relation="identical" session="100" type="hc" number="387"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="International cooperation"/>
+    <term name="Japan"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1988--Introduced.
+Expresses the sense of the Congress that the President should direct the Secretary of State and the Administrator of the Agency for International Development to take specified steps to improve coordination between Japanese and American foreign economic assistance programs.</summary>
+</bill>

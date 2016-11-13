@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="988" updated="2014-03-22T09:51:38-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to include service during World War II in the United States merchant marine as military service for purposes of the civil service retirement system.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-08-02"/>
+    <cosponsor id="400542" joined="1988-08-02"/>
+    <cosponsor id="406473" joined="1987-03-31"/>
+    <cosponsor id="400231" joined="1988-06-23"/>
+    <cosponsor id="410145" joined="1988-06-08"/>
+    <cosponsor id="411178" joined="1988-08-11"/>
+    <cosponsor id="400428" joined="1988-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+    <action datetime="1987-02-20">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service retirement"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Merchant marine"/>
+    <term name="Ships and shipping"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Includes service in the U.S. merchant marine between May 26, 1940, and January 1, 1948, as military service for the purpose of determining civil service retirement benefits.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="100" type="sj" number="344" updated="2016-06-29T08:45:11-04:00">
+  <state datetime="1988-10-19">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-19"/>
+  </status>
+  <introduced datetime="1988-06-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the week of November 20 through November 26, 1988, as "National Family Week".</title>
+  </titles>
+  <sponsor id="402023"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1988-10-13"/>
+    <cosponsor id="300026" joined="1988-10-13"/>
+    <cosponsor id="300048" joined="1988-10-13"/>
+    <cosponsor id="405310" joined="1988-10-13"/>
+    <cosponsor id="300154" joined="1988-10-13"/>
+    <cosponsor id="300053" joined="1988-10-20"/>
+    <cosponsor id="300056" joined="1988-10-13"/>
+    <cosponsor id="300070" joined="1988-10-13"/>
+    <cosponsor id="409917" joined="1988-10-19"/>
+    <cosponsor id="300094" joined="1988-10-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Families"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/1988--Introduced.
+Authorizes and requests the President to designate the week of November 20 through November 26, 1988, as National Family Week.</summary>
+</bill>

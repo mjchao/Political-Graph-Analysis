@@ -1,0 +1,34 @@
+<bill session="100" type="hr" number="579" updated="2014-03-22T09:51:03-04:00">
+  <state datetime="1988-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1988-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives with respect to the protection provided by the Clayton Act and the Robinson-Patman Antidiscrimination Act against price discrimination by wholesale suppliers of products.</title>
+  </titles>
+  <sponsor id="404213"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Antitrust law"/>
+    <term name="Price discrimination"/>
+    <term name="Price fixing"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1988--Introduced.
+Expresses the sense of the House of Representatives that the Clayton Act and the Robinson-Patman Antidiscrimination Act protect a distributor of products against unfair price discrimination by its supplier through the sale of products at a lower price to another person in another market with knowledge that such products will be resold in the distributor's market.</summary>
+</bill>

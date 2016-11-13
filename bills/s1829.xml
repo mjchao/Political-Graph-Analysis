@@ -1,0 +1,46 @@
+<bill session="100" type="s" number="1829" updated="2014-03-22T09:55:27-04:00">
+  <state datetime="1987-10-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-28"/>
+  </status>
+  <introduced datetime="1987-10-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that a special gold medal be presented to Mary Lasker for her humanitarian contributions in the area of medical research and education, urban beautification and fine arts, and for other purposes.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1987-12-02"/>
+    <cosponsor id="300026" joined="1987-12-02"/>
+    <cosponsor id="404598" joined="1987-12-02"/>
+    <cosponsor id="405212" joined="1987-10-28"/>
+    <cosponsor id="300053" joined="1987-11-06"/>
+    <cosponsor id="300056" joined="1987-10-28"/>
+    <cosponsor id="300059" joined="1987-10-28"/>
+    <cosponsor id="300094" joined="1987-12-02"/>
+    <cosponsor id="411421" joined="1987-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="390"/>
+    <bill relation="identical" session="100" type="h" number="390"/>
+  </relatedbills>
+  <subjects>
+    <term name="Awards, medals, prizes"/>
+    <term name="Arts"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Medical education"/>
+    <term name="Medical research"/>
+    <term name="Urban beautification"/>
+  </subjects>
+  <amendments/>
+  <summary>10/28/1987--Introduced.
+Authorizes the President, on behalf of the Congress, to present a gold medal to Mary Lasker in recognition of her humanitarian contributions in medical research and education, urban beautification, and the fine arts. Authorizes appropriations. Authorizes the Secretary of the Treasury to provide for the sale of bronze duplicates of the medal.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="8" updated="2014-03-22T09:54:43-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Alliance for Education Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide Federal financial assistance to facilitate the establishment of alliances between educational agencies and the private sector to increase the use of resources of the private and nonprofit sectors in the provision of elementary and secondary education, and for other purposes.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="402004" joined="1987-03-17"/>
+    <cosponsor id="300026" joined="1987-03-18"/>
+    <cosponsor id="300056" joined="1987-03-06"/>
+    <cosponsor id="410242" joined="1987-02-26"/>
+    <cosponsor id="411801" joined="1987-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Education, Arts, Humanities.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Committee on Labor and Human Resources requested executive comment from Education Department, OMB, GAO.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR01" subcommittee="Education, Arts and Humanities" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="627"/>
+    <bill relation="identical" session="100" type="h" number="627"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Business and commerce"/>
+    <term name="Business and social problems"/>
+    <term name="Department of Energy"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal aid to education"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Secondary education"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Alliance for Education Act of 1987 - Authorizes the Secretary of Education to make grants to eligible alliances (i.e., alliances between a local educational agency and business concerns, nonprofit private organizations, institutions of higher education, museums, libraries, educational television stations, and appropriate State agencies). Authorizes appropriations for FY 1988 through 1991. Allows grant funds to be used for: (1) model cooperative programs applying private and nonprofit sector resources to elementary and secondary schools; (2) projects to encourage business and other alliance participants to work with educationally disadvantaged and with gifted students; (3) projects to apply community resources to improve elementary and secondary education; (4) projects to enrich the career awareness of secondary school students; (5) statewide activities including the development of model State statutes for the support of cooperative ties between the private sector and schools; (6) special staff training projects; (7) academic internship programs; and (8) tutorial and volunteer work in elementary and secondary schools by personnel assigned from business concerns and other alliance participants. Establishes an Alliance for Education Board within the Department of Education. Sets forth membership requirements and duties of the Board. Sets forth grant application criteria, including assurances of a non-Federal share and continuation of activities after the grant period. Sets forth application approval requirements. Sets forth requirements for a declining Federal share of costs. Sets forth evaluation and dissemination requirements.</summary>
+</bill>

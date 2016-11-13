@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="3795" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1987-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-12-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend until October 1, 1989 the International Coffee Agreement Act of 1980.</title>
+  </titles>
+  <sponsor id="400567"/>
+  <cosponsors>
+    <cosponsor id="405985" joined="1987-12-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-18" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-01-04">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-02-01">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1988-04-08">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Provisions of Measure Incorporated Into H.R.4848.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4848"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Coffee"/>
+    <term name="Trade agreements"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Introduced.
+Amends the International Coffee Agreement Act of 1980 to extend the effective period of such Act until October 1, 1989.</summary>
+</bill>

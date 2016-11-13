@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="1578" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1987-08-07">REPORTED</state>
+  <status>
+    <unknown datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Ray A. Bonney.</title>
+  </titles>
+  <sponsor id="408907"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-08-07" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-08-07">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-287.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Placed on Private Calendar No: 13.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Passed House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Relieves a named Department of Defense employee of liability for repayment to the United States of a specified sum representing travel and relocation expenses incurred by such individual after assurances from the Department of Defense that such expenses were authorized as a Government expense.</summary>
+</bill>

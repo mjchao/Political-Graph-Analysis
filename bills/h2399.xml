@@ -1,0 +1,139 @@
+<bill session="100" type="h" number="2399" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1988-10-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-24"/>
+  </status>
+  <introduced datetime="1987-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Forest Ecosystems and Atmospheric Pollution Research Act of 1987</title>
+    <title type="short" as="passed senate">Forest Ecosystems and Atmospheric Pollution Research Act of 1988</title>
+    <title type="short" as="enacted">Forest Ecosystems and Atmospheric Pollution Research Act of 1988</title>
+    <title type="official" as="introduced">A bill to provide for study and research on the decline in United States forest productivity and to determine the effects of atmospheric pollutants on forest environments, and for other purposes.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="401612" joined="1987-07-13"/>
+    <cosponsor id="400572" joined="1987-05-13"/>
+    <cosponsor id="401947" joined="1987-05-13"/>
+    <cosponsor id="402710" joined="1987-05-20"/>
+    <cosponsor id="404193" joined="1987-05-13"/>
+    <cosponsor id="405209" joined="1987-05-13"/>
+    <cosponsor id="400176" joined="1987-05-13"/>
+    <cosponsor id="405580" joined="1987-05-13"/>
+    <cosponsor id="300057" joined="1987-05-13"/>
+    <cosponsor id="406157" joined="1987-05-20"/>
+    <cosponsor id="406530" joined="1987-07-13"/>
+    <cosponsor id="407069" joined="1987-05-13"/>
+    <cosponsor id="407967" joined="1987-05-13"/>
+    <cosponsor id="408342" joined="1987-05-13"/>
+    <cosponsor id="409205" joined="1987-05-13"/>
+    <cosponsor id="409651" joined="1987-05-13"/>
+    <cosponsor id="400377" joined="1987-05-13"/>
+    <cosponsor id="410084" joined="1987-07-13"/>
+    <cosponsor id="410251" joined="1987-05-13"/>
+    <cosponsor id="411166" joined="1987-05-13"/>
+    <cosponsor id="411725" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-13" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Unfavorable Executive Comment Received From 1350.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-23" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-07-27">
+      <text>Reported to House by House Committee on Agriculture.  Report No: 100-241.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Placed on Union Calendar No: 149.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Senate Committee on Agriculture discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-05" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1988-10-06">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-521" type="public" datetime="1988-10-24">
+      <text>Became Public Law No: 100-521.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Air pollution control"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Forest conservation"/>
+    <term name="Forest ecology"/>
+    <term name="Forestry research"/>
+    <term name="Forests and forest products"/>
+    <term name="Forests and forestry"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3419"/>
+  </amendments>
+  <summary>10/5/1988--Passed Senate amended.
+(Measure passed Senate, amended) Forest Ecosystems and Atmospheric Pollution Research Act of 1988 - Amends the Forest and Rangeland Renewable Resources Research Act of 1978 to direct the Secretary of Agriculture to establish a ten-year program to evaluate and research the effects of atmospheric pollutants on forest ecosystems, including recommendations for solving problems affecting health and productivity. Requires the Secretary to appoint an advisory committee to assist in developing and carrying out the program which shall be coordinated with other governmental and private efforts. Directs the Secretary to report to the President and the Congress initially and annually on the status of the forest ecosystems, the program, and the costs of implementing the program. Requires the Secretary to submit a final report within ten years.</summary>
+</bill>

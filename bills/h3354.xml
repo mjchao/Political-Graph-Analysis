@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="3354" updated="2014-03-22T09:52:50-04:00">
+  <state datetime="1987-09-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-29"/>
+  </status>
+  <introduced datetime="1987-09-29"/>
+  <titles>
+    <title type="short" as="introduced">Aircraft Fire Prevention Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to require smoke detection devices in bathrooms on aircraft operated in air commerce.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-29" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Hearings Held by Subcommittee on Aviation Prior to Referral (Oct 7, 87).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aircraft"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Fire prevention"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Public safety"/>
+    <term name="Smoke detectors"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1987--Introduced.
+Aircraft Fire Prevention Act of 1987 - Amends the Federal Aviation Act of 1958 to require a smoke detection device in each bathroom on a civil aircraft operated in air commerce.</summary>
+</bill>

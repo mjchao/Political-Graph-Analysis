@@ -1,0 +1,59 @@
+<bill session="100" type="hc" number="166" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-22"/>
+  </status>
+  <introduced datetime="1987-07-22"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution stating United States findings regarding conditions in Central America and the Sandinista government of Nicaragua, support for the initiative of President Oscar Arias Sanchez of Costa Rica to end armed conflict in Central America, encouragement for the nations of Central America in the timely pursuit and implementation of a peace demilitarization, and democratization plan for the region resulting from the Arias initiative, and the nature of the Presidential findings and report to the Congress necessary to permit it to appropriate additional funds for the support of the Nicaraguan resistance forces.</title>
+  </titles>
+  <sponsor id="400023"/>
+  <cosponsors>
+    <cosponsor id="401310" joined="1987-08-06"/>
+    <cosponsor id="403203" joined="1987-08-06"/>
+    <cosponsor id="400239" joined="1987-07-22"/>
+    <cosponsor id="402435" joined="1987-07-22" withdrawn="1987-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-22" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Central America"/>
+    <term name="Commemorations"/>
+    <term name="Conferences"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional tributes"/>
+    <term name="Costa Rica"/>
+    <term name="Democracy"/>
+    <term name="Dispute settlement"/>
+    <term name="Human rights"/>
+    <term name="Insurgency"/>
+    <term name="Nicaragua"/>
+    <term name="Peace"/>
+    <term name="Peace negotiations"/>
+    <term name="Reagan Doctrine"/>
+    <term name="Summit diplomacy"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/1987--Introduced.
+States that the Congress: (1) congratulates President Oscar Arias Sanchez of Costa Rica on the contribution he has made by his initiative toward ending armed conflict and reinforcing democracy in Central America; (2) supports the purpose of the initiative and urges all Central American countries to actively participate in a rescheduled summit meeting to discuss the initiative and to cooperate in the effort to reach a negotiated settlement of the conflict in Central America; and (3) should make assistance to the Nicaraguan resistance forces contingent upon progress in their development of civilian leadership committed to democratic principles and respect for human rights. States that the Congress should not appropriate additional funds to such resistance forces unless the President: (1) finds and reports to the Congress (and the Congress accepts such findings) that the United States supports the efforts of President Arias and the assistance to such forces in formally supported by the Organization of American States or the nations adjacent to Nicaragua, is in the national security interests of the United States, and will not interfere with Nicaragua's acceptance of a cease-fire and peace plan; or (2) certifies to the Congress that Nicaragua has not signed a peace plan which has been accepted by neighboring nations and which is supported by the United States.</summary>
+</bill>

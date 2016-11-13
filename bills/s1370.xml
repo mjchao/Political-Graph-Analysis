@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="1370" updated="2014-03-22T09:55:18-04:00">
+  <state datetime="1987-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-16"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide special rules for health insurance costs of self-employed individuals.</title>
+  </titles>
+  <sponsor id="402004"/>
+  <cosponsors>
+    <cosponsor id="403483" joined="1987-07-01"/>
+    <cosponsor id="300051" joined="1987-09-15"/>
+    <cosponsor id="300053" joined="1987-07-14"/>
+    <cosponsor id="300056" joined="1987-07-01"/>
+    <cosponsor id="300060" joined="1988-02-16"/>
+    <cosponsor id="300070" joined="1987-07-10"/>
+    <cosponsor id="300073" joined="1987-07-10"/>
+    <cosponsor id="409562" joined="1988-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business and commerce"/>
+    <term name="Employee benefit plans"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Income tax"/>
+    <term name="Insurance"/>
+    <term name="Insurance premiums"/>
+    <term name="Labor and employment"/>
+    <term name="Medical economics"/>
+    <term name="Self-employed"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1987--Introduced.
+Amends the Internal Revenue Code to: (1) increase from 25 percent to 80 percent the income tax deduction for the health insurance costs of a self-employed individual; and (2) set a standard by which the health plan of a self-employed individual will be treated with respect to the nondiscrimination requirements applicable to certain employee benefit plans.</summary>
+</bill>

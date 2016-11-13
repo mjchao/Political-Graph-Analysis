@@ -1,0 +1,118 @@
+<bill session="100" type="h" number="3492" updated="2014-03-22T09:52:52-04:00">
+  <state datetime="1987-12-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-29"/>
+  </status>
+  <introduced datetime="1987-10-15"/>
+  <titles>
+    <title type="short" as="introduced">Rural Crisis Recovery Program Act of 1987</title>
+    <title type="short" as="enacted">Rural Crisis Recovery Program Act of 1987</title>
+    <title type="official" as="introduced">A bill entitled "The Rural Crisis Recovery Program of 1987".</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="402747" joined="1987-10-15"/>
+    <cosponsor id="403864" joined="1987-10-15"/>
+    <cosponsor id="403904" joined="1987-10-15"/>
+    <cosponsor id="404602" joined="1987-10-15"/>
+    <cosponsor id="404723" joined="1987-10-15"/>
+    <cosponsor id="404869" joined="1987-10-15"/>
+    <cosponsor id="300057" joined="1987-10-15"/>
+    <cosponsor id="406111" joined="1987-10-15"/>
+    <cosponsor id="406157" joined="1987-10-15"/>
+    <cosponsor id="407069" joined="1987-10-15"/>
+    <cosponsor id="407162" joined="1987-10-15"/>
+    <cosponsor id="407967" joined="1987-10-15"/>
+    <cosponsor id="409651" joined="1987-10-15"/>
+    <cosponsor id="410084" joined="1987-10-15"/>
+    <cosponsor id="410245" joined="1987-10-15"/>
+    <cosponsor id="410261" joined="1987-10-15"/>
+    <cosponsor id="400389" joined="1987-10-15"/>
+    <cosponsor id="410623" joined="1987-10-15"/>
+    <cosponsor id="410765" joined="1987-10-15"/>
+    <cosponsor id="411166" joined="1987-10-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-15" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Subcommittee on Conservation Credit and Rural Development Discharged.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-15" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-15">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Reported to House by House Committee on Agriculture.  Report No: 100-379.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Placed on Union Calendar No: 237.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-20">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-12-19">
+      <text>Senate Committee on Agriculture discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-19" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-29" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-219" type="public" datetime="1987-12-29">
+      <text>Became Public Law No: 100-219.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2398"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Adult education"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural extension work"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Dislocated workers"/>
+    <term name="Education"/>
+    <term name="Farmers"/>
+    <term name="Farms"/>
+    <term name="Grants-in-aid"/>
+    <term name="Labor and employment"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Rural economic development"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>10/15/1987--Introduced.
+Rural Crisis Recovery Program Act of 1987 - Amends the Rural Development Act of 1972 to direct the Secretary of Agriculture to provide grants for educational, retraining, and counseling assistance to farmers and rural families who have been adversely affected by the current rural economic crisis. Includes the following services among such assistance: (1) clinical outreach counseling and crisis management assistance; (2) financial planning; (3) vocational counseling and job search assistance; (4) literacy skills training; and (5) tuition and educational assistance. Encourages the Agricultural Extension Service to work with State, local, and nonprofit organizations to develop a comprehensive grant plan. Terminates grant authority on December 23, 1990.</summary>
+</bill>

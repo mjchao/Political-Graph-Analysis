@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="170" updated="2014-03-22T09:51:12-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to disallow the Secretary of the Interior from issuing oil and gas leases with respect to a geographical area located in the Pacific Ocean off the coastline of the State of California.</title>
+  </titles>
+  <sponsor id="406530"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="California"/>
+    <term name="Continental shelf"/>
+    <term name="Energy policy"/>
+    <term name="Licenses"/>
+    <term name="Marine parks and reserves"/>
+    <term name="National parks"/>
+    <term name="Ocean"/>
+    <term name="Oil and gas leases"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum in submerged lands"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Prohibits the Secretary of the Interior from issuing any new oil or gas lease after the date of the enactment of this Act on any submerged lands of the Outer Continental Shelf located within a specified geographical area off the coast of California and located within specified portions of the Channel Islands National Marine Sanctuary.</summary>
+</bill>

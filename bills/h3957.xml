@@ -1,0 +1,152 @@
+<bill session="100" type="h" number="3957" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-11-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-18"/>
+  </status>
+  <introduced datetime="1988-02-17"/>
+  <titles>
+    <title type="short" as="introduced">Delaware and Lehigh Navigation Canal National Heritage Corridor Act of 1988</title>
+    <title type="short" as="reported to house">Delaware and Lehigh Navigation Canal National Heritage Corridor Act of 1988</title>
+    <title type="short" as="passed house">Delaware and Lehigh Navigation Canal National Heritage Corridor Act of 1988</title>
+    <title type="short" as="passed senate" partial="1">Delaware and Lehigh Navigation Canal National Heritage Corridor Act of 1988</title>
+    <title type="short" as="passed senate" partial="1">Statehood Centennial Commemorative Coin Act of 1989</title>
+    <title type="short" as="enacted">Delaware and Lehigh Navigation Canal National Heritage Corridor Act of 1988</title>
+    <title type="official" as="introduced">A bill to establish the Delaware and Lehigh Navigation Canal National Heritage Corridor in the Commonwealth of Pennsylvania.</title>
+  </titles>
+  <sponsor id="406473"/>
+  <cosponsors>
+    <cosponsor id="404190" joined="1988-07-14"/>
+    <cosponsor id="404752" joined="1988-07-14"/>
+    <cosponsor id="409251" joined="1988-02-17"/>
+    <cosponsor id="400428" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-17" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-04-11">
+      <text>Field Hearings Held in Yardley, Pennsylvania.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Executive Comment Received From Justice.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-07" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-09">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-906.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Placed on Union Calendar No: 541.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-14">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <calendar datetime="1988-10-05" calendar="Senate Legislative" under="General Orders" number="1115">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1115.</text>
+    </calendar>
+    <action datetime="1988-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments 001, 002, 003, 004 by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>House Disagreed to Senate Amendment 005 by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Message on House action received in Senate and held at desk:. House disagrees to Senate amendment.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Senate receded from Senate amendment no. 5 by Voice Vote.</text>
+    </action>
+    <topresident datetime="1988-10-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-02">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-692" type="public" datetime="1988-11-18">
+      <text>Became Public Law No: 100-692.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Anniversaries"/>
+    <term name="Bicentennial of the Constitution"/>
+    <term name="Canals"/>
+    <term name="Coins and coinage"/>
+    <term name="Executive reorganization"/>
+    <term name="Exhibitions"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="Historic sites"/>
+    <term name="Idaho"/>
+    <term name="Montana"/>
+    <term name="North Dakota"/>
+    <term name="Pennsylvania"/>
+    <term name="Public debt"/>
+    <term name="South Dakota"/>
+    <term name="Statehood (American politics)"/>
+    <term name="Washington State"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3690"/>
+    <amendment number="s3691"/>
+    <amendment number="s3692"/>
+  </amendments>
+  <summary>10/14/1988--Passed Senate amended.
+(Measure passed Senate, amended) Title I: - Delaware and Lehigh Navigation Canal National Heritage Corridor Act of 1988 - Establishes the Delaware and Lehigh Navigation Canal National Heritage Corridor in the Commonwealth of Pennsylvania. Establishes the Delaware and Lehigh Navigation Canal National Heritage Corridor Commission to assist appropriate Federal, State, and local authorities in the development and implementation of an integrated resource management plan for the Corridor. Directs the Commission, within one year after it conducts its first meeting, to submit to the Secretary of the Interior a Cultural Heritage and Corridor Management Plan which: (1) provides an inventory of Corridor property to be preserved and restored because of its national historic or cultural significance; (2) develops a historic interpretive plan; and (3) recommends policies for resource management of the Corridor. Terminates the Commission in five years, with a possible five-year extension. Requires the Secretary to approve or disapprove the Commission's Plan within 60 days after its receipt. Directs the Secretary, following plan approval, to assist the Commission in producing interpretive materials. Requires any Federal entity conducting activities affecting Canal flows or Corridor natural resources to consult and cooperate with the Secretary and the Commission. Authorizes appropriations. Title II: Commemoration of Statehood Anniversaries - Statehood Centennial Commemorative Coin Act of 1989 - Directs the Secretary of the Treasury to mint and issue not more than a specified number of five dollar palladium coins in commemoration of the 100th anniversary of the statehood of Idaho, Montana, North Dakota, South Dakota, Washington, and Wyoming. Sets forth certain features of such coins and provides for their design, issuance, and sale. Terminates authority to mint coins under this Act after December 31, 1990. Requires a specified amount of all surcharges received from the sale of the coins to be provided to the "Documents West" exhibition program and administered by the Idaho Centennial Commission, to be used only for promoting the exhibition. Requires the Secretary to deposit in the Treasury all remaining surcharges received, to be used to reduce the national debt. Declares that: (1) no law governing procurement or public contracts shall be applicable to the procurement of goods and services for this Act, except laws relating to equal employment opportunity; and (2) no firm shall be considered a Federal contractor for purposes of specified Federal regulations as a result of participating as a U.S. Mint coin consignee. Requires U.S. coins to be redesigned, at the discretion of the Secretary of the Treasury, over the next six years. Requires the reverse side of the first coin redesigned to commemorate the bicentennial of the U.S. Constitution for a two-year period. Requires that any profits from the sale of uncirculated and proof sets of U.S. coins be deposited in the Treasury and used solely to reduce the national debt.</summary>
+</bill>

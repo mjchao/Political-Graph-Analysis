@@ -1,0 +1,85 @@
+<bill session="100" type="hc" number="366" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-16"/>
+  </status>
+  <introduced datetime="1988-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the Air Force should continue to utilize the weather reconnaissance aircraft, WC-130, in coordination with National Oceanic and Atmospheric Administration operated satellite technologies, for tracking hurricanes and collecting research data to enable scientists to predict and understand hurricane behavior.</title>
+  </titles>
+  <sponsor id="406790"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1988-09-16"/>
+    <cosponsor id="400567" joined="1988-09-16"/>
+    <cosponsor id="400975" joined="1988-10-04"/>
+    <cosponsor id="400012" joined="1988-09-16"/>
+    <cosponsor id="401363" joined="1988-09-16"/>
+    <cosponsor id="401383" joined="1988-09-26"/>
+    <cosponsor id="401417" joined="1988-10-06"/>
+    <cosponsor id="400028" joined="1988-10-04"/>
+    <cosponsor id="401526" joined="1988-10-12"/>
+    <cosponsor id="401560" joined="1988-09-16"/>
+    <cosponsor id="400500" joined="1988-09-16"/>
+    <cosponsor id="404002" joined="1988-09-16"/>
+    <cosponsor id="404068" joined="1988-09-16"/>
+    <cosponsor id="404163" joined="1988-10-04"/>
+    <cosponsor id="404520" joined="1988-09-16"/>
+    <cosponsor id="404733" joined="1988-09-16"/>
+    <cosponsor id="405855" joined="1988-09-16"/>
+    <cosponsor id="406554" joined="1988-09-26"/>
+    <cosponsor id="406730" joined="1988-09-16"/>
+    <cosponsor id="406863" joined="1988-09-16"/>
+    <cosponsor id="400562" joined="1988-09-16"/>
+    <cosponsor id="407051" joined="1988-09-16"/>
+    <cosponsor id="400596" joined="1988-10-19"/>
+    <cosponsor id="407673" joined="1988-09-16"/>
+    <cosponsor id="300078" joined="1988-09-16"/>
+    <cosponsor id="400302" joined="1988-09-26"/>
+    <cosponsor id="409052" joined="1988-09-16"/>
+    <cosponsor id="409353" joined="1988-09-26"/>
+    <cosponsor id="409400" joined="1988-09-16"/>
+    <cosponsor id="400369" joined="1988-09-16"/>
+    <cosponsor id="410066" joined="1988-09-16"/>
+    <cosponsor id="400397" joined="1988-09-16"/>
+    <cosponsor id="400439" joined="1988-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-16" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-09-21">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Referred to Subcommittee on Readiness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Armed forces and national security"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Hurricanes"/>
+    <term name="Meteorology"/>
+    <term name="Military aircraft"/>
+    <term name="Military aviation"/>
+    <term name="Weather"/>
+    <term name="Weather and Climate"/>
+    <term name="Weather forecasting"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1988--Introduced.
+Declares that the Air Force should continue to fly WC-130 aircraft for the purpose of collecting scientific data on hurricanes until satellites that can provide similar data are in place and functioning properly.</summary>
+</bill>

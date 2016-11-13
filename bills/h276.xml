@@ -1,0 +1,87 @@
+<bill session="100" type="h" number="276" updated="2014-03-22T09:51:16-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to waive, for 5 years, the 24-month waiting period for medicare eligibility on the basis of a disability in the case of individuals with acquired immune deficiency syndrome (AIDS), and for other purposes.</title>
+  </titles>
+  <sponsor id="411426"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-02-26"/>
+    <cosponsor id="400025" joined="1987-01-21"/>
+    <cosponsor id="300011" joined="1987-01-06"/>
+    <cosponsor id="402763" joined="1987-10-28"/>
+    <cosponsor id="400080" joined="1988-02-02"/>
+    <cosponsor id="403031" joined="1987-01-06"/>
+    <cosponsor id="403364" joined="1987-01-06"/>
+    <cosponsor id="400580" joined="1987-01-21"/>
+    <cosponsor id="403545" joined="1987-01-06"/>
+    <cosponsor id="404006" joined="1987-02-26"/>
+    <cosponsor id="404013" joined="1987-11-04"/>
+    <cosponsor id="404019" joined="1987-03-19"/>
+    <cosponsor id="404097" joined="1987-03-19"/>
+    <cosponsor id="404190" joined="1987-12-01"/>
+    <cosponsor id="400140" joined="1987-02-26"/>
+    <cosponsor id="404422" joined="1987-03-19"/>
+    <cosponsor id="404750" joined="1987-02-26"/>
+    <cosponsor id="404765" joined="1987-02-26"/>
+    <cosponsor id="405236" joined="1987-03-19"/>
+    <cosponsor id="405256" joined="1987-03-19"/>
+    <cosponsor id="400211" joined="1987-03-19"/>
+    <cosponsor id="406191" joined="1987-03-19"/>
+    <cosponsor id="406461" joined="1987-03-19"/>
+    <cosponsor id="400240" joined="1987-05-06"/>
+    <cosponsor id="406974" joined="1987-01-06"/>
+    <cosponsor id="400595" joined="1987-02-26"/>
+    <cosponsor id="400256" joined="1987-10-27"/>
+    <cosponsor id="408023" joined="1987-02-26"/>
+    <cosponsor id="400306" joined="1987-01-06"/>
+    <cosponsor id="400314" joined="1987-10-20"/>
+    <cosponsor id="408957" joined="1988-02-25"/>
+    <cosponsor id="400333" joined="1987-02-26"/>
+    <cosponsor id="409205" joined="1988-03-02"/>
+    <cosponsor id="300087" joined="1988-07-06"/>
+    <cosponsor id="410145" joined="1988-06-08"/>
+    <cosponsor id="410407" joined="1987-01-06"/>
+    <cosponsor id="400409" joined="1987-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Communicable diseases"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security eligibility"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to eliminate, for five years, in the case of individuals medically determined to have acquired immune deficiency syndrome (AIDS), the requirement that an individual be entitled to disability benefits for at least 24 consecutive months in order to qualify for hospital insurance benefits under part A (Hospital Insurance) of title XVIII (Medicare) of the Act. Provides Medicare coverage of experimental AIDS treatment which is in accord with recognized clinical protocol.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="3266" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-15"/>
+  </status>
+  <introduced datetime="1987-09-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to defer the tax consequences of the repayment of a Commodity Credit Corporation loan with a generic commodity certificate.</title>
+  </titles>
+  <sponsor id="404723"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-10-08"/>
+    <cosponsor id="401923" joined="1987-09-29"/>
+    <cosponsor id="402747" joined="1987-09-29"/>
+    <cosponsor id="403203" joined="1987-09-15"/>
+    <cosponsor id="300038" joined="1987-09-15"/>
+    <cosponsor id="406799" joined="1987-09-15"/>
+    <cosponsor id="407069" joined="1987-09-15"/>
+    <cosponsor id="407162" joined="1987-09-15"/>
+    <cosponsor id="407432" joined="1987-10-08"/>
+    <cosponsor id="407676" joined="1987-09-30"/>
+    <cosponsor id="300083" joined="1987-09-15"/>
+    <cosponsor id="409651" joined="1987-09-29"/>
+    <cosponsor id="410641" joined="1987-09-15"/>
+    <cosponsor id="411405" joined="1987-09-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-15" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1686"/>
+    <bill relation="identical" session="100" type="s" number="1686"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Government lending"/>
+    <term name="Income tax"/>
+    <term name="Payment-in-kind program"/>
+    <term name="Tax deferral"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/1987--Introduced.
+Amends the Internal Revenue Code with respect to income taxation of generic commodity certificates (PIK certificates) used to repay Commodity Credit Corporation (CCC) loans. Taxes the certificates based on the earlier of: (1) the date on which the commodity used as collateral for the loan is sold; or (2) the date nine months after the loan was originally received. Disallows this treatment if the taxpayer chose to consider the CCC loan as income for the taxable year in which it was received. Applies to loans made after 1985.</summary>
+</bill>

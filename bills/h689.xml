@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="689" updated="2014-03-22T09:51:31-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to include as creditable service for civil service retirement purposes service as an enrollee of the Civilian Conservation Corps, and for other purposes.</title>
+  </titles>
+  <sponsor id="409446"/>
+  <cosponsors>
+    <cosponsor id="407772" joined="1988-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service pensions"/>
+    <term name="Civil service retirement"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Includes as creditable service, for purposes of civil service retirement, service as an enrollee of the Civilian Conservation Corps.</summary>
+</bill>

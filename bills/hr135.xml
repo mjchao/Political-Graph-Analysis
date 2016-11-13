@@ -1,0 +1,39 @@
+<bill session="100" type="hr" number="135" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-03-31">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-03-31"/>
+  </status>
+  <introduced datetime="1987-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R.1320) to amend the Land and Water Conservation Fund Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor id="401310"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-31">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-35.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Placed on House Calendar No: 10.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 303 - 110 (Record Vote No: 42).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="1320"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Parks"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 1320 (land and water conservation fund programs).</summary>
+</bill>

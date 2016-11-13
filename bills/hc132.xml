@@ -1,0 +1,59 @@
+<bill session="100" type="hc" number="132" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the President and the Secretary of Commerce should commence negotiations with the Government of Japan to remove Japanese restrictions preventing construction firms in the United States from competitively bidding on public construction projects in Japan and, if such negotiations are unsuccessful, should consider imposing restrictions on the ability of Japanese firms to bid on public construction projects in the United States.</title>
+  </titles>
+  <sponsor id="401383"/>
+  <cosponsors>
+    <cosponsor id="400191" joined="1987-05-28"/>
+    <cosponsor id="409443" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>See H.R.2310.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2310"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="American investments"/>
+    <term name="Business and commerce"/>
+    <term name="Construction industries"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Japan"/>
+    <term name="Nontariff trade barriers"/>
+    <term name="Trade negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Expresses the sense of the Congress that the President and the Secretary of Commerce should: (1) commence negotiations with the Government of Japan to remove Japanese restrictions preventing U.S. construction firms from competitively bidding on public construction projects in Japan; and (2) if such negotiations are unsuccessful, consider imposing restrictions on bidding by Japanese firms on public construction projects in the United States.</summary>
+</bill>

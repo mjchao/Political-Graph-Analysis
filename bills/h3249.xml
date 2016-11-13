@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="3249" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-09"/>
+  </status>
+  <introduced datetime="1987-09-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Melissa Johnson and Barbara Johnson Lizzi.</title>
+  </titles>
+  <sponsor id="404097"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-09" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-15">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/1987--Introduced.
+Directs that sums to be determined be paid to two named individuals in full settlement of their claims against the United States arising out of the personal injuries and mental pain and suffering resulting from the sexual assault and molestation of one of these individuals by an employee of the U.S. Postal Service.</summary>
+</bill>

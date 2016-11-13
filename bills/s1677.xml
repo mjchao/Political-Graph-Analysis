@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="1677" updated="2014-03-22T09:55:23-04:00">
+  <state datetime="1987-09-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-11"/>
+  </status>
+  <introduced datetime="1987-09-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the Department of Defense from purchasing any product manufactured or assembled by Toshiba America, Incorporated, or Toshiba Corporation for the purpose of resale of such product in a military exchange store.</title>
+  </titles>
+  <sponsor id="300089"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-09-14">
+      <text>Referred to Subcommittee on Readiness, Sustainability, Support.</text>
+    </action>
+    <action datetime="1987-09-14">
+      <text>Committee on Armed Services requested executive comment from Defense Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAS04" subcommittee="Readiness, Sustainability and Support" name="Senate Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Japan"/>
+    <term name="Post exchanges"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Retail trade"/>
+  </subjects>
+  <amendments/>
+  <summary>9/11/1987--Introduced.
+Prohibits the Department of Defense from purchasing any product manufactured or assembled by Toshiba America, Incorporated, or Toshiba Corporation for the purpose of resale of such product in a military exchange store or in any other resale activity operated by the Department.</summary>
+</bill>

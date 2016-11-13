@@ -1,0 +1,60 @@
+<bill session="100" type="hc" number="172" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-04"/>
+  </status>
+  <introduced datetime="1987-08-04"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress with respect to human rights in Poland.</title>
+  </titles>
+  <sponsor id="401383"/>
+  <cosponsors>
+    <cosponsor id="400569" joined="1987-10-20"/>
+    <cosponsor id="401418" joined="1987-10-20"/>
+    <cosponsor id="402114" joined="1987-10-20"/>
+    <cosponsor id="400064" joined="1987-10-20"/>
+    <cosponsor id="400104" joined="1987-10-20"/>
+    <cosponsor id="403695" joined="1987-10-20"/>
+    <cosponsor id="403726" joined="1987-10-20"/>
+    <cosponsor id="404009" joined="1987-10-20"/>
+    <cosponsor id="404401" joined="1987-08-04"/>
+    <cosponsor id="404422" joined="1987-10-20"/>
+    <cosponsor id="406530" joined="1987-10-20"/>
+    <cosponsor id="400238" joined="1987-10-20"/>
+    <cosponsor id="406799" joined="1987-08-04"/>
+    <cosponsor id="400595" joined="1987-10-20"/>
+    <cosponsor id="407432" joined="1987-10-20"/>
+    <cosponsor id="408109" joined="1987-10-20"/>
+    <cosponsor id="400306" joined="1987-10-20"/>
+    <cosponsor id="400604" joined="1987-10-20"/>
+    <cosponsor id="410574" joined="1987-10-20"/>
+    <cosponsor id="411025" joined="1987-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-04" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-08-24">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-08-24">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Freedom of speech"/>
+    <term name="Human rights"/>
+    <term name="Poland"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>8/4/1987--Introduced.
+Expresses the sense of the Congress that: (1) the Government of Poland should comply with the basic human rights agreements of the Helsinki Accords; (2) the Government of Poland should comply with the pledges made to, and the social accords made with, the people of Poland; (3) the Government of Poland should initiate a genuine policy of national reconciliation; (4) continued improvement in the treatment of the people of Poland would improve relations between the United States and Poland; and (5) the President should raise with Soviet authorities the matter of suppression of independent speech and political activity in Poland.</summary>
+</bill>

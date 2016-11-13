@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3035" updated="2014-03-22T09:52:40-04:00">
+  <state datetime="1987-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-28"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the availability of funds for assistance for agricultural activities in Poland.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-28" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-08-11">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American agricultural assistance"/>
+    <term name="American economic assistance"/>
+    <term name="Appropriations"/>
+    <term name="Economics and public finance"/>
+    <term name="Poland"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1987--Introduced.
+Extends until September 30, 1989, the availability for obligation of appropriations for assistance for agricultural activities in Poland.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="sj" number="131" updated="2014-03-22T09:54:22-04:00">
+  <state datetime="1987-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution expressing the sense of the Congress regarding the establishment of a uniform national policy to preserve family unity in the implementation of the legalization program under the Immigration Reform and Control Act of 1986, and for other purposes.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="300056" joined="1987-06-30"/>
+    <cosponsor id="300060" joined="1987-05-19"/>
+    <cosponsor id="300064" joined="1987-05-19"/>
+    <cosponsor id="300073" joined="1987-05-19"/>
+    <cosponsor id="408597" joined="1987-06-30"/>
+    <cosponsor id="409917" joined="1987-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Deportation"/>
+    <term name="Domestic Relations and Families"/>
+    <term name="Families"/>
+    <term name="Family policy"/>
+    <term name="Illegal aliens"/>
+    <term name="Immigration policy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1987--Introduced.
+Expresses the sense of the Congress: (1) commending the Commissioner of the Immigration and Naturalization Service (INS) for efforts at district levels to implement the legalization program in ways that prevent the deportation of ineligible family members; and (2) that in order to ensure the success of such program and establish a uniform national policy, INS district directors should use their authority to provide relief from deportation, and authorize employment where appropriate, to assure family unity.</summary>
+</bill>

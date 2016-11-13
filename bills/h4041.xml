@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="4041" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-01"/>
+  </status>
+  <introduced datetime="1988-03-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Energy, when transporting certain radioactive materials, to use packages that the Nuclear Regulatory Commission has certified for that purpose.</title>
+  </titles>
+  <sponsor id="401986"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-03-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-01" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-01">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear fuels"/>
+    <term name="Packaging"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation of hazardous substances"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/1988--Introduced.
+Directs the Secretary of Energy to transport spent nuclear fuel and radioactive waste (including radionuclide concentrations exceeding limits established by the Nuclear Regulatory Commission) only in packages certified by the Commission for that purpose.</summary>
+</bill>

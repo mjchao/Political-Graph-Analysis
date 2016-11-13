@@ -1,0 +1,150 @@
+<bill session="100" type="h" number="4212" updated="2014-03-22T09:53:07-04:00">
+  <state datetime="1988-11-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-19"/>
+  </status>
+  <introduced datetime="1988-03-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Joint Resolution of April 27, 1962, to permit the Secretary of the Interior to establish the former home of Alexander Hamilton as a national memorial at its present location in New York, New York.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-06-09"/>
+    <cosponsor id="401418" joined="1988-03-29"/>
+    <cosponsor id="400035" joined="1988-04-26"/>
+    <cosponsor id="404006" joined="1988-03-29"/>
+    <cosponsor id="404013" joined="1988-03-29"/>
+    <cosponsor id="404097" joined="1988-04-26"/>
+    <cosponsor id="404139" joined="1988-03-29"/>
+    <cosponsor id="404376" joined="1988-03-29"/>
+    <cosponsor id="404422" joined="1988-03-29"/>
+    <cosponsor id="400536" joined="1988-06-09"/>
+    <cosponsor id="404723" joined="1988-04-11"/>
+    <cosponsor id="404765" joined="1988-05-04"/>
+    <cosponsor id="405114" joined="1988-04-11"/>
+    <cosponsor id="405646" joined="1988-03-29"/>
+    <cosponsor id="405775" joined="1988-04-13"/>
+    <cosponsor id="400243" joined="1988-03-29"/>
+    <cosponsor id="407141" joined="1988-04-26"/>
+    <cosponsor id="408023" joined="1988-04-11"/>
+    <cosponsor id="408244" joined="1988-04-26"/>
+    <cosponsor id="400306" joined="1988-03-29"/>
+    <cosponsor id="409353" joined="1988-03-29"/>
+    <cosponsor id="410145" joined="1988-04-26"/>
+    <cosponsor id="411426" joined="1988-03-29"/>
+    <cosponsor id="411901" joined="1988-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-21" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-08" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-14">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-699.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Placed on Union Calendar No: 420.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1988-09-06">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Favorable.</text>
+    </action>
+    <calendar datetime="1988-09-14">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment. With written report No. 100-536.</text>
+    </action>
+    <calendar datetime="1988-09-22" calendar="Senate Legislative" under="General Orders" number="971">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 971.</text>
+    </calendar>
+    <action datetime="1988-10-21">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-10">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-19" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-701" type="public" datetime="1988-11-19">
+      <text>Became Public Law No: 100-701.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1927"/>
+  </relatedbills>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="Deserts"/>
+    <term name="Easements"/>
+    <term name="Historic sites"/>
+    <term name="Land transfers"/>
+    <term name="National monuments"/>
+    <term name="National parks"/>
+    <term name="New York City"/>
+    <term name="Right-of-way"/>
+    <term name="Utah"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3761"/>
+    <amendment number="s3762"/>
+  </amendments>
+  <summary>10/21/1988--Passed Senate amended.
+(Measure passed Senate, amended) Establishes the Hamilton Grange National Memorial in the State of New York. Authorizes the Secretary of the Interior to: (1) acquire land, interests therein, and improvements thereon within the boundaries of the memorial by donation; (2) reimburse the owner of such property a specified amount for administrative costs for the transfer; and (3) acquire associated personal property. Directs the Secretary to: (1) administer the memorial as a unit of the National Park System; and (2) submit a general management plan to specified congressional committees within three complete fiscal years after enactment of this Act. Authorizes appropriations. Authorizes the Secretary to permit entry on desert lands which are part of a scenic easement area of the Dinosaur National Monument, Utah, to certain applicants who convey certain scenic easements to the United States.</summary>
+</bill>

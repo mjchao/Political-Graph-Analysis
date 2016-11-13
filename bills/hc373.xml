@@ -1,0 +1,40 @@
+<bill session="100" type="hc" number="373" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-09-30">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-09-30"/>
+  </status>
+  <introduced datetime="1988-09-26"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution correcting technical errors in the enrollment of the bill, H.R. 1467.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-26">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-30" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Environmental protection"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/1988--Introduced.
+Makes corrections of technical errors in the enrollment of H.R. 1467 (Endangered Species Act reauthorization).</summary>
+</bill>

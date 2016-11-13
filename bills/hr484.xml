@@ -1,0 +1,63 @@
+<bill session="100" type="hr" number="484" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-07-13">REPORTED</state>
+  <status>
+    <unknown datetime="1988-07-13"/>
+  </status>
+  <introduced datetime="1988-06-27"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to encourage the establishment of genuine democracy in Pakistan.</title>
+  </titles>
+  <sponsor id="410145"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-06-27"/>
+    <cosponsor id="401526" joined="1988-06-27"/>
+    <cosponsor id="403695" joined="1988-06-27"/>
+    <cosponsor id="400236" joined="1988-06-27"/>
+    <cosponsor id="410531" joined="1988-06-27"/>
+    <cosponsor id="300156" joined="1988-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-27" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hr" number="480"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Pakistan"/>
+  </subjects>
+  <amendments/>
+  <summary>8/8/1988--Passed House amended.
+(Measure passed House, amended) Calls upon President Zia of Pakistan, consistent with his pledge of May 29, 1988, to hold free and fair party-based elections no later than November 16, 1988. Urges the utilization of an independent electoral commission to supervise such elections. Declares that the United States, in determining future levels of assistance, should consider whether Pakistan has held such elections and continued its progress toward a full-fledged democracy.</summary>
+</bill>

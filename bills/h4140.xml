@@ -1,0 +1,114 @@
+<bill session="100" type="h" number="4140" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-10-05">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Investigations Improvement Act of 1988</title>
+    <title type="official" as="introduced">A bill to require an Office of Investigations within the Nuclear Regulatory Commission.</title>
+  </titles>
+  <sponsor id="409793"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-04-13"/>
+    <cosponsor id="401947" joined="1988-03-10"/>
+    <cosponsor id="403364" joined="1988-04-13"/>
+    <cosponsor id="404190" joined="1988-04-13"/>
+    <cosponsor id="404422" joined="1988-04-13"/>
+    <cosponsor id="400585" joined="1988-03-10"/>
+    <cosponsor id="404602" joined="1988-04-13"/>
+    <cosponsor id="404634" joined="1988-05-02"/>
+    <cosponsor id="405524" joined="1988-04-13"/>
+    <cosponsor id="405775" joined="1988-04-13"/>
+    <cosponsor id="406157" joined="1988-04-13"/>
+    <cosponsor id="400216" joined="1988-04-13"/>
+    <cosponsor id="408109" joined="1988-04-13"/>
+    <cosponsor id="408407" joined="1988-05-10"/>
+    <cosponsor id="409966" joined="1988-09-29"/>
+    <cosponsor id="410066" joined="1988-04-13"/>
+    <cosponsor id="400387" joined="1988-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-10" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-27" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-08-11">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-878 (Part I).</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Referred to House Committee on Energy and Commerce Sequentially, for a Period Ending not Later than Sep 9, 88.</text>
+    </action>
+    <action datetime="1988-08-26">
+      <text>House Committee on Energy and Commerce Granted an Extension for Further Consideration Ending not Later Than September 26, 1988.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>House Committee on Energy and Commerce Granted an Extension for Further Consideration Ending not Later Than September 29, 1988.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-27">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-29">
+      <text>Reported to House by House Committee on Energy and Commerce. Report No: 100-878 (Part II).</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Placed on Union Calendar No: 594.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-05" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2126"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Executive reorganization"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Nuclear Regulatory Commission"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear power plants"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1988--Introduced.
+Nuclear Investigations Improvement Act of 1988 - Amends the Energy Reorganization Act of 1974 to establish within the Nuclear Regulatory Commission the Office of Investigations, to be headed by a Director of Investigations who shall be appointed by, and report directly to, the Commission. Confers responsibility upon the Office to investigate violations within the Commission's jurisdiction where information indicates that such violations were either willfully caused or the result of careless disregard for regulatory requirements. Requires the Director to report violations of Federal criminal law to the Commission and to the Justice Department. Requires Commission employees to report to the Office information indicating that violations were either willfully caused or were the result of careless disregard for regulatory requirements.</summary>
+</bill>

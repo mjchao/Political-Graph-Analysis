@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="4088" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to terminate the exclusion from gross income of Americans working abroad, and for other purposes.</title>
+  </titles>
+  <sponsor id="406461"/>
+  <cosponsors>
+    <cosponsor id="401947" joined="1988-04-13"/>
+    <cosponsor id="402626" joined="1988-05-05"/>
+    <cosponsor id="403726" joined="1988-04-12"/>
+    <cosponsor id="404190" joined="1988-03-30"/>
+    <cosponsor id="404220" joined="1988-03-21"/>
+    <cosponsor id="405687" joined="1988-03-15"/>
+    <cosponsor id="300058" joined="1988-05-11"/>
+    <cosponsor id="406157" joined="1988-03-15"/>
+    <cosponsor id="400240" joined="1988-03-24"/>
+    <cosponsor id="406790" joined="1988-04-25"/>
+    <cosponsor id="400243" joined="1988-04-27"/>
+    <cosponsor id="400306" joined="1988-03-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-03" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2125"/>
+    <bill relation="identical" session="100" type="s" number="2125"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Americans employed in foreign countries"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Earnings"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing and community development"/>
+    <term name="Housing finance"/>
+    <term name="Income tax"/>
+    <term name="International affairs"/>
+    <term name="Tax exclusion"/>
+    <term name="Taxation of foreign income"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Amends the Internal Revenue Code to terminate, as of January 1, 1989, the permitted exclusion from the taxable gross income of U.S. citizens and residents working abroad of: (1) foreign earned income; and (2) eligible housing expenses.</summary>
+</bill>

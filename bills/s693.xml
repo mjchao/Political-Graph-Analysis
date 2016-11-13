@@ -1,0 +1,56 @@
+<bill session="100" type="s" number="693" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Great Smoky Mountains Wilderness Act</title>
+    <title type="official" as="introduced">A bill to designate certain lands in the Great Smoky Mountains National Park as wilderness; to provide for settlement of all claims of Swain County, North Carolina, against the United States under the agreement dated July 30, 1943, and for other purposes.</title>
+  </titles>
+  <sponsor id="409580"/>
+  <cosponsors>
+    <cosponsor id="404679" joined="1987-03-10"/>
+    <cosponsor id="409562" joined="1987-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed:  S.Hrg. 100-172.</text>
+    </action>
+    <action datetime="1988-02-25">
+      <text>Committee on Energy and Natural Resources. Ordered favorably reported H.R. 1495 in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1495"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Claims"/>
+    <term name="Government liability"/>
+    <term name="Highway construction and repair"/>
+    <term name="Highway engineering"/>
+    <term name="National parks"/>
+    <term name="North Carolina"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Roads and highways"/>
+    <term name="Tennessee"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Great Smoky Mountains Wilderness Act - Designates specified lands in the Great Smoky Mountains National Park in North Carolina and Tennessee as the Great Smoky Mountains Wilderness. Sets forth requirements with respect to the management of the wilderness area, including rights and easements. Provides for the settlement of all claims of Swain County, North Carolina, against the United States under the agreement of July 30, 1943, providing for construction of a road along the north shore of Fontana Reservoir. Authorizes appropriations.</summary>
+</bill>

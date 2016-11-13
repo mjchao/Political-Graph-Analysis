@@ -1,0 +1,109 @@
+<bill session="100" type="h" number="2741" updated="2014-03-22T09:52:29-04:00">
+  <state datetime="1987-10-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-10-28"/>
+  </status>
+  <introduced datetime="1987-06-23"/>
+  <titles>
+    <title type="short" as="introduced">1988 Olympic Commemorative Coin Act</title>
+    <title type="short" as="reported to senate">1988 Olympic Commemorative Coin Act</title>
+    <title type="short" as="passed senate">1988 Olympic Commemorative Coin Act</title>
+    <title type="short" as="enacted">1988 Olympic Commemorative Coin Act</title>
+    <title type="official" as="introduced">A bill to authorize the minting of commemorative coins to support the training of American athletes participating in the 1988 Olympic Games.</title>
+  </titles>
+  <sponsor id="400895"/>
+  <cosponsors>
+    <cosponsor id="400174" joined="1987-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-23" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Referred to Subcommittee on Consumer Affairs and Coinage.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-08-06" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-08-06">
+      <text>House Committee on Banking, Finance and Urban Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-07">
+      <text>Received in the Senate and read twice and referred to the Committee on Banking.</text>
+    </action>
+    <calendar datetime="1987-09-30">
+      <text>Committee on Banking. Ordered to be reported in lieu of S. 1587 with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-10-07">
+      <text>Committee on Banking. Reported to Senate by Senator Proxmire with an amendment. With written report No. 100-197.</text>
+    </action>
+    <calendar datetime="1987-10-07" calendar="Senate Legislative" under="General Orders" number="373">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 373.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-10-13" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-14" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-10-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-10-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-10-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-141" type="public" datetime="1987-10-28">
+      <text>Became Public Law No: 100-141.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSBA02" subcommittee="Consumer Affairs and Coinage" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1587"/>
+    <bill relation="identical" session="100" type="s" number="1587"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Athletes"/>
+    <term name="Coins and coinage"/>
+    <term name="Gold"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Olympic games"/>
+    <term name="Silver"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1987--Passed Senate amended.
+(Measure passed Senate, amended) 1988 Olympic Commemorative Coin Act - Directs the Secretary of the Treasury to issue a specified number of gold and silver coins emblematic of the participation of American athletes in the 1988 Olympic Games. Sets forth certain features of the coins and provides for their sale and issuance. Requires all sales to include specified surcharges. Requires all surcharges to be paid to the United States Olympic Committee. Terminates the minting of the coins on June 30, 1989.</summary>
+</bill>

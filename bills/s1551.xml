@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="1551" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-07-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-24"/>
+  </status>
+  <introduced datetime="1987-07-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to grant the consent of Congress to the Appalachian States Low-Level Radioactive Waste Compact.</title>
+  </titles>
+  <sponsor id="400565"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="1987-07-24"/>
+    <cosponsor id="300086" joined="1987-11-06"/>
+    <cosponsor id="300092" joined="1987-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Delaware"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Interstate compacts"/>
+    <term name="Maryland"/>
+    <term name="Nuclear energy"/>
+    <term name="Pennsylvania"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="States"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>7/24/1987--Introduced.
+Interstate Compact - Grants congressional approval to the Appalachian States Low-Level Radioactive Waste Compact, which provides for cooperation among the States of Pennsylvania, West Virginia, Maryland, and Delaware in the management of low-level radioactive waste.</summary>
+</bill>

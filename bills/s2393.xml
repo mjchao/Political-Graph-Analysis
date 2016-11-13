@@ -1,0 +1,122 @@
+<bill session="100" type="s" number="2393" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-10-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1988</title>
+    <title type="short" as="passed house">Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1988</title>
+    <title type="short" as="reported to senate">Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1988</title>
+    <title type="short" as="passed senate">Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1988</title>
+    <title type="short" as="enacted">Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Protection and Advocacy for Mentally Ill Individuals Act of 1986 to authorize such Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-05-13"/>
+    <cosponsor id="300023" joined="1988-05-27"/>
+    <cosponsor id="403515" joined="1988-06-28"/>
+    <cosponsor id="403669" joined="1988-07-28"/>
+    <cosponsor id="300052" joined="1988-05-13"/>
+    <cosponsor id="300059" joined="1988-05-13"/>
+    <cosponsor id="407663" joined="1988-05-13"/>
+    <cosponsor id="409917" joined="1988-05-13"/>
+    <cosponsor id="410242" joined="1988-05-13"/>
+    <cosponsor id="411421" joined="1988-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department, OMB, GAO, Labor Department.</text>
+    </action>
+    <calendar datetime="1988-06-22" state="REPORTED">
+      <text>Committee on Labor and Human Resources. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-08-05">
+      <text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy with amendments. With written report No. 100-454.</text>
+    </action>
+    <calendar datetime="1988-08-05" calendar="Senate Legislative" under="General Orders" number="870">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 870.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-20">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-20" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-20">
+      <text>House Incorporated H.R.5155 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-04" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendments with an amendment (SP 3402) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Senate disagreed to the amendment of the House to the title by Voice Vote.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-05" where="h" result="pass" state="PASSED:BILL">
+      <text>House Agreed to Senate Amendments to House Amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-05">
+      <text>House Receded From its Amendments.</text>
+    </action>
+    <topresident datetime="1988-10-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-509" type="public" datetime="1988-10-20">
+      <text>Became Public Law No: 100-509.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5155"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Authorization"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="Disabled"/>
+    <term name="Federal aid programs"/>
+    <term name="Health"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal services"/>
+    <term name="Medical records"/>
+    <term name="Mental health"/>
+    <term name="Mentally handicapped"/>
+    <term name="Mentally ill"/>
+    <term name="Patients' rights"/>
+    <term name="Prisoners"/>
+    <term name="Public defenders"/>
+    <term name="Rights of institutionalized persons"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3402"/>
+  </amendments>
+  <summary>10/4/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendments with an amendment) Protection and Advocacy for Mentally Ill Individuals Amendments Act of 1988 - Amends the Protection and Advocacy for Mentally Ill Individuals Act of 1986 to redefine the terms "abuse" and "neglect" to include acts which result in the death of a mentally ill individual. Includes within such Act's coverage persons who are in the process of being admitted to a facility for care or treatment (including during transport to the facility) or who are involuntarily confined in a municipal detention facility for reasons other than a criminal conviction. States that "neglect" includes the failure to maintain adequate numbers of appropriately trained staff. Requires that each system established in a State, under provisions of such Act, to protect and advocate the rights of mentally ill individuals have a governing authority. Sets forth requirements for the composition of certain State governing authorities. Makes an authority responsible for the planning, design, implementation, and functioning of the system and for developing, jointly with the system advisory council, the annual priorities of the system. Requires each system to include in its annual report to the Secretary of Health and Human Services a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system. Grants the system access to: (1) all records of any individual who has died or whose whereabouts are unknown; (2) reports prepared by any staff of a facility rendering care or treatment; (3) reports prepared by an agency charged with investigating reports of abuse, neglect, or injury; and (4) discharge planning records. Encourages systems to consider subcontracting with: (1) groups run by individuals who are receiving mental health services; and (2) family members of the mentally ill. Increases the percentage of funds which may be used by systems for training and technical assistance. Limits the percentage of appropriated funds which may be used by the Secretary to provide technical assistance for eligible systems. Requires each eligible system to: (1) provide the public with an annual opportunity to comment on the priorities and activities of the system; and (2) establish a grievance procedure for clients and prospective clients of the system. Requires that an application for an allotment for a protection and advocacy system, and the application's required assurances, remain in effect for three years. Revises the formula for determination of the amount of allotments. Authorizes appropriations for FY 1989 through 1991 for allotments under such Act.</summary>
+</bill>

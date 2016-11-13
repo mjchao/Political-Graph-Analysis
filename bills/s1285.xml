@@ -1,0 +1,50 @@
+<bill session="100" type="s" number="1285" updated="2016-06-29T08:45:48-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="short" as="introduced">Habeas Corpus Reform Act of 1987</title>
+    <title type="official" as="introduced">A bill to reform procedures for collateral review of criminal judgments, and for other purposes.</title>
+  </titles>
+  <sponsor id="300046"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1987-05-28"/>
+    <cosponsor id="408252" joined="1987-06-16"/>
+    <cosponsor id="300094" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-06-12">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Appellate courts"/>
+    <term name="Civil actions and liability"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Criminal procedure"/>
+    <term name="Habeas corpus"/>
+    <term name="Judicial review"/>
+    <term name="Jurisdiction"/>
+    <term name="Limitation of actions"/>
+    <term name="Prisoners"/>
+    <term name="Sentences (Criminal procedure)"/>
+    <term name="State courts"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Habeas Corpus Reform Act of 1987 - Amends the Federal judicial code to condition consideration of a habeas corpus claim by a State prisoner on a showing of actual prejudice resulting from the denial of a Federal right, and that: (1) State action precluded assertion of the right; (2) the Federal right asserted was newly recognized; or (3) the factual basis of the claim could not have been discovered through the exercise of reasonable diligence prior to the procedural default. Establishes a one-year statute of limitations for habeas corpus actions brought by State prisoners. Vests authority to issue certificates for probable cause for appeal of habeas corpus orders exclusively in the courts of appeals. Permits denial on the merits of habeas corpus writs notwithstanding the failure to exhaust State remedies. Prohibits the granting of a habeas corpus writ with respect to any claim which has been fully and fairly adjudicated in State proceedings.</summary>
+</bill>

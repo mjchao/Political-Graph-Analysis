@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="491" updated="2014-03-22T09:54:55-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the provision of the Tax Reform Act of 1986 which disallowed the treatment of certain technical personnel as self-employed individuals.</title>
+  </titles>
+  <sponsor id="403142"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="1987-02-05"/>
+    <cosponsor id="406190" joined="1987-06-04"/>
+    <cosponsor id="300079" joined="1987-03-10"/>
+    <cosponsor id="410588" joined="1987-03-25"/>
+    <cosponsor id="411421" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1240"/>
+    <bill relation="identical" session="100" type="h" number="1240"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Contractors"/>
+    <term name="Labor and employment"/>
+    <term name="Self-employed"/>
+    <term name="Skilled labor"/>
+    <term name="Social security taxes"/>
+    <term name="Unemployment insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Amends the Tax Reform Act of 1986 to repeal the provision which disallows the treatment of certain technical personnel as self-employed individuals for employment tax purposes. Specifies that the Internal Revenue Code shall be applied and administered as if such provision had not been enacted.</summary>
+</bill>

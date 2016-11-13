@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="2614" updated="2014-03-22T09:52:26-04:00">
+  <state datetime="1987-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-04"/>
+  </status>
+  <introduced datetime="1987-06-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to internships under the sea grant fellowship program.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-04" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Executive Comment Requested from Commerce.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Civil service employment"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government internships"/>
+    <term name="Marine education"/>
+    <term name="National Sea Grant Program"/>
+    <term name="Scholarships"/>
+    <term name="Ships and shipping"/>
+    <term name="Student aid"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/1987--Introduced.
+Amends the National Sea Grant College Program Act to authorize the Secretary of Commerce to award sea grant fellowships to support the placement of qualified individuals in positions with the executive and legislative branches of the Federal Government for periods not to exceed one year.</summary>
+</bill>

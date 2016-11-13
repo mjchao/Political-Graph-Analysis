@@ -1,0 +1,51 @@
+<bill session="100" type="hj" number="507" updated="2014-03-22T09:53:59-04:00">
+  <state datetime="1988-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-17"/>
+  </status>
+  <introduced datetime="1988-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to disapprove the proposed Agreement for Cooperation between the United States and Japan Concerning Peaceful Uses of Nuclear Energy.</title>
+  </titles>
+  <sponsor id="406765"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1988-03-22"/>
+    <cosponsor id="401585" joined="1988-03-17"/>
+    <cosponsor id="401986" joined="1988-04-26"/>
+    <cosponsor id="404006" joined="1988-04-26"/>
+    <cosponsor id="400191" joined="1988-03-17"/>
+    <cosponsor id="407721" joined="1988-03-17"/>
+    <cosponsor id="408109" joined="1988-04-26"/>
+    <cosponsor id="400380" joined="1988-03-17"/>
+    <cosponsor id="400387" joined="1988-03-22"/>
+    <cosponsor id="411834" joined="1988-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-17" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="241"/>
+    <bill relation="identical" session="100" type="sj" number="241"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="International control of nuclear power"/>
+    <term name="Japan"/>
+    <term name="Nuclear energy"/>
+    <term name="Trade agreements"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1988--Introduced.
+Disapproves the proposed U.S.-Japan cooperation agreement concerning peaceful uses of nuclear energy.</summary>
+</bill>

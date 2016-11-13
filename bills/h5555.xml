@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="5555" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1988-10-20">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-10-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Social Security Act to repeal the Medicare participating physician and Maximum Allowable Actual Charge (MAAC) programs, and to eliminate carrier actions to require physicians to refund amounts collected for services deemed not reasonable and necessary.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-20" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-11-15">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medical personnel"/>
+    <term name="Medicare"/>
+    <term name="Physicians"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1988--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to repeal Medicare participating physician and Maximum Allowable Actual Charge programs. Eliminates carrier actions to require physicians to refund amounts collected for services deemed not reasonable and necessary.</summary>
+</bill>

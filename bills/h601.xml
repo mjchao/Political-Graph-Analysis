@@ -1,0 +1,34 @@
+<bill session="100" type="h" number="601" updated="2014-03-22T09:51:28-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to provide that, in the case of the payment of more than one monthly benefit under such title to the same individual for the same month, the final rounding of benefits before payment shall apply to the total amount of the benefits so paid.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors>
+    <cosponsor id="410496" joined="1988-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to provide that when more than one monthly OASDI benefit is paid to an individual, the rounding of benefits before payment shall apply to the total amount of such benefits.</summary>
+</bill>

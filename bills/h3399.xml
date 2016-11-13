@@ -1,0 +1,132 @@
+<bill session="100" type="h" number="3399" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1987-12-14">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-12-14"/>
+  </status>
+  <introduced datetime="1987-10-01"/>
+  <titles>
+    <title type="short" as="introduced">Alternative Motor Fuels Act of 1987</title>
+    <title type="short" as="reported to house">Alternative Motor Fuels Act of 1987</title>
+    <title type="short" as="passed house">Alternative Motor Fuels Act of 1987</title>
+    <title type="official" as="introduced">A bill to develop a national alternative motor fuels policy and to coordinate efforts to implement such policy.</title>
+  </titles>
+  <sponsor id="409793"/>
+  <cosponsors>
+    <cosponsor id="401446" joined="1987-10-27"/>
+    <cosponsor id="400080" joined="1987-10-27"/>
+    <cosponsor id="403184" joined="1987-10-01"/>
+    <cosponsor id="400110" joined="1987-10-01"/>
+    <cosponsor id="403776" joined="1987-12-08"/>
+    <cosponsor id="404002" joined="1987-10-27"/>
+    <cosponsor id="404013" joined="1987-10-09"/>
+    <cosponsor id="404097" joined="1987-11-16"/>
+    <cosponsor id="400585" joined="1987-10-27"/>
+    <cosponsor id="404602" joined="1987-10-27"/>
+    <cosponsor id="405377" joined="1987-10-27"/>
+    <cosponsor id="406157" joined="1987-11-16"/>
+    <cosponsor id="406530" joined="1987-10-27"/>
+    <cosponsor id="406554" joined="1987-11-16"/>
+    <cosponsor id="400239" joined="1987-10-27"/>
+    <cosponsor id="407899" joined="1987-10-01"/>
+    <cosponsor id="408109" joined="1987-10-27"/>
+    <cosponsor id="408342" joined="1987-10-27"/>
+    <cosponsor id="408407" joined="1987-10-27"/>
+    <cosponsor id="400307" joined="1987-10-01"/>
+    <cosponsor id="408618" joined="1987-10-27"/>
+    <cosponsor id="400334" joined="1987-10-27"/>
+    <cosponsor id="409205" joined="1987-10-01"/>
+    <cosponsor id="410641" joined="1987-10-27"/>
+    <cosponsor id="400614" joined="1987-10-09"/>
+    <cosponsor id="300100" joined="1987-10-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-01" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-12-14">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-476.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Placed on Union Calendar No: 302.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="478" datetime="1987-12-14" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 327 - 29 (Record Vote No: 478).</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1595"/>
+    <bill relation="unknown" session="100" type="s" number="1518"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Advisory bodies"/>
+    <term name="Air pollution control"/>
+    <term name="Air quality"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Alternative energy sources"/>
+    <term name="Automobile fuel consumption"/>
+    <term name="Coal"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Fuel"/>
+    <term name="Gasoline"/>
+    <term name="Government procurement"/>
+    <term name="Grants-in-aid"/>
+    <term name="Liquefied petroleum gas"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Mass rapid transit"/>
+    <term name="Methanol"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor buses"/>
+    <term name="Motor vehicles"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Service stations"/>
+    <term name="Standards"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Transportation and Travel"/>
+    <term name="Trucks"/>
+    <term name="Urban affairs"/>
+    <term name="Urban transportation"/>
+    <term name="Warranties"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/1987--Passed House amended.
+(Measure passed House, amended, roll call #478 (327-29)) Alternative Motor Fuels Act of 1987 - Amends the Energy Policy and Conservation Act to direct the Secretary of Energy to ensure that beginning in FY 1990 the maximum practicable number of Federal passenger automobiles and light duty trucks be: (1) alcohol-powered vehicles; (2) dual energy vehicles; (3) natural gas-powered vehicles; or (4) natural gas dual energy vehicles. Directs the Secretary to conduct studies regarding such vehicles' performance, fuel economy, safety, and maintenance costs. Directs the Secretary to report to the Congress the results of a feasibility study concerning the selling of such alternative-fueled Federal vehicles to the public. Requires alcohol fuel to be made available to the public at locations where the Federal vehicles are fueled. States that appropriations for Federal vehicle acquisition shall apply only to that portion of the cost of alcohol-powered (or dual energy) vehicles which exceeds the cost of comparable conventional fueled vehicles. Provides that: (1) such vehicles shall not be counted in any average fuel economy calculation of the Federal passenger automobile fleet acquired in any fiscal year; and (2) the incremental cost of such vehicles over the cost of comparable conventional fueled vehicles shall not be applied to any calculation regarding the maximum cost of individual Federal vehicles. Authorizes appropriations for: (1) FY 1990 through 1993 for alcohol-powered and dual energy vehicles; and (2) FY 1990 for natural gas-powered vehicles and natural gas dual energy vehicles. Requires the Secretary to establish a demonstration program to study alcohol fuel use in heavy duty trucks. Requires alcohol fuel to be made available to the public at locations where such trucks are fueled. Authorizes appropriations for such program for FY 1989 through 1992. Directs the Secretary to: (1) assist in the acquisition of buses capable of operating on natural gas, alcohol, and LP-gas, beginning in FY 1989; and (2) test the emissions levels, durability, and fuel economy of such buses in an urban setting (in cooperation with Federal agencies regulating motor vehicles for safety and environmental purposes). Authorizes appropriations for such program for FY 1989 through 1992. Declares that any governmental entity which receives, after January 1, 1992, Federal financial assistance to acquire buses for mass transportation in a predominantly nonattainment area, shall acquire certain types of buses which shall operate exclusively on alcohol fuel, natural gas, or LP-gas. Directs the Secretary to provide supplemental grants for such bus acquisitions. Authorizes supplemental grants for the purchase and installation of facilities providing such alternative fuels. Cites circumstances under which this program will be suspended. Establishes the Interagency Commission on Methanol to develop and coordinate efforts to implement a national methanol energy policy. Requires the Commission chairperson to establish a private sector advisory panel to inform the Commission about methanol-related matters. Requires the Commission to submit interim reports to the Congress, and a final report no later than September 30, 1992. Terminates such Commission upon submission of its final report. Directs the Secretary to undertake a comparative study of methanol costs based upon natural gas, coal, and other resources, and to submit semiannual study reports. Authorizes appropriations for FY 1989. Precludes the voiding of any guaranty or warranty with respect to any federally acquired passenger automobile or light-duty truck after October 1, 1988, on the grounds that such vehicle is operated with nonstandard fuels. Sets forth fuel efficiency standards for: (1) alcohol-powered vehicles; (2) dual energy vehicles; (3) natural gas-powered vehicles; and (4) natural gas dual energy vehicles.</summary>
+</bill>

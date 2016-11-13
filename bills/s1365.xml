@@ -1,0 +1,50 @@
+<bill session="100" type="s" number="1365" updated="2014-03-22T09:55:18-04:00">
+  <state datetime="1987-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-16"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to establish presumptions of service connection for certain diseases of former prisoners of war.</title>
+  </titles>
+  <sponsor id="300046"/>
+  <cosponsors>
+    <cosponsor id="401709" joined="1987-09-23"/>
+    <cosponsor id="402990" joined="1987-06-16"/>
+    <cosponsor id="403346" joined="1987-06-16"/>
+    <cosponsor id="405310" joined="1987-07-23"/>
+    <cosponsor id="300053" joined="1987-08-04"/>
+    <cosponsor id="300064" joined="1987-09-24"/>
+    <cosponsor id="407268" joined="1987-06-16"/>
+    <cosponsor id="407786" joined="1987-06-16"/>
+    <cosponsor id="300150" joined="1987-06-16"/>
+    <cosponsor id="300084" joined="1987-06-16"/>
+    <cosponsor id="409562" joined="1987-06-19"/>
+    <cosponsor id="409923" joined="1987-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Digestive diseases"/>
+    <term name="Ex-prisoners of war"/>
+    <term name="Health"/>
+    <term name="Nervous system diseases"/>
+    <term name="Prisoners of war"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1987--Introduced.
+Amends Federal veterans' benefits provisions to establish a presumption of service connection, for disability compensation purposes, for the following diseases or illnesses suffered by former prisoners of war which become manifest within ten years after such veteran's detention or internment and recur on a continuous or regular basis: (1) peripheral neuropathy; (2) irritable bowel syndrome; or (3) peptic ulcer disease.</summary>
+</bill>

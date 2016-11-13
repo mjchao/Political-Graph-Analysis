@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="1218" updated="2014-03-22T09:51:44-04:00">
+  <state datetime="1987-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-24"/>
+  </status>
+  <introduced datetime="1987-02-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Agriculture to establish an advisory committee to study the economic impact of prohibiting the lease and transfer of Flue-cured tobacco acreage allotments and quotas for the 1987 and subsequent crops of Flue-cured tobacco.</title>
+  </titles>
+  <sponsor id="408109"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-24" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-27">
+      <text>Referred to Subcommittee on Tobacco and Peanuts.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG07" subcommittee="Tobacco and Peanuts" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural marketing regulation"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Economic impact statements"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Tobacco"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1987--Introduced.
+Requires the Secretary of Agriculture to establish an advisory committee to study the economic impact of prohibiting the lease and transfer of Flue-cured tobacco acreage allotments and quotas. Requires the committee to submit such study to the Secretary by September 1, 1987, or 90 days after enactment of this Act, whichever occurs later.</summary>
+</bill>

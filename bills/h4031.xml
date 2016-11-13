@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="4031" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-25"/>
+  </status>
+  <introduced datetime="1988-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations to carry out conservation programs on military reservations and public lands for fiscal years 1989 through 1993.</title>
+  </titles>
+  <sponsor id="410496"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1988-02-25"/>
+    <cosponsor id="406148" joined="1988-02-25"/>
+    <cosponsor id="400440" joined="1988-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-25" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-03-02">
+      <text>Executive Comment Requested from Interior, DOD.</text>
+    </action>
+    <action datetime="1988-03-02">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Favorable Executive Comment Received From Army.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>See H.R.4030.</text>
+    </action>
+    <action datetime="1988-05-20">
+      <text>Favorable Executive Comment Received From Interior.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Military bases"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1988--Introduced.
+Authorizes appropriations for FY 1989 through 1993 to: (1) the Secretary of Defense for natural resources and fish and wildlife management on military reservations; (2) the Secretary of the Interior for cooperative plans for enhancement of fish and wildlife habitat and development of public recreation facilities on military reservations; (3) the Secretary of the Interior for data collection and conservation programs on public lands; and (4) the Secretary of Agriculture for fish, wildlife, and plant conservation and rehabilitation programs.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="hr" number="309" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-11-17">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-11-17"/>
+  </status>
+  <introduced datetime="1987-11-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against the consideration of the conference report on the bill (H.R. 1748) to authorize appropriations for fiscal year 1988 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe personnel strengths for fiscal year 1988 for the Armed Forces, to authorize appropriations for fiscal year 1989 for certain specified activities of the Department of Defense, and for other purposes.</title>
+  </titles>
+  <sponsor id="400600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-17">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-447.</text>
+    </action>
+    <action datetime="1987-11-17">
+      <text>Placed on House Calendar No: 102.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 301 - 120 (Record Vote No: 439).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="1748"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>11/17/1987--Introduced.
+Waives points of order against the conference report on H.R. 1748 (armed forces funding) and against its consideration.</summary>
+</bill>

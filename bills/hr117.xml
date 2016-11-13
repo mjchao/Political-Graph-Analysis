@@ -1,0 +1,48 @@
+<bill session="100" type="hr" number="117" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that the Congress should repeal the price support for sugar beets and sugarcane and that the Federal Government should remove limitations imposed on the importation of sugar.</title>
+  </titles>
+  <sponsor id="400604"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Sugar and sugar trade"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Expresses the sense of the House of Representatives that the Congress should repeal sugar beet and sugarcane price supports and that limitations on imported sugar should be removed.</summary>
+</bill>

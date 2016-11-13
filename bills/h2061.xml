@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="2061" updated="2014-03-22T09:52:10-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Water Pollution Control Act relating to the construction and operation of certain treatment works which are subject to regulation under international treaties.</title>
+  </titles>
+  <sponsor id="400537"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Costs"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="International environmental cooperation"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Treaties"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Federal Water Pollution Control Act to direct the Administrator of the Environmental Protection Agency to reimburse a State or municipality for the increased costs of constructing or operating publicly owned treatment works attributable to pollution abatement requirements of an international treaty. Authorizes appropriations.</summary>
+</bill>

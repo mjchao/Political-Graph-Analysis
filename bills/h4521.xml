@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="4521" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-03"/>
+  </status>
+  <introduced datetime="1988-05-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Tube Forgings of America.</title>
+  </titles>
+  <sponsor id="400987"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-03" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>5/3/1988--Introduced.
+Directs the Secretary of the Treasury to reliquidate specified entries and refund additional marking duties that were collected.</summary>
+</bill>

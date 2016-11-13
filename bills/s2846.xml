@@ -1,0 +1,67 @@
+<bill session="100" type="s" number="2846" updated="2014-03-22T09:55:57-04:00">
+  <state datetime="1988-10-04">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-09-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the awarding of grants for the purchase of drugs used in the treatment of AIDS.</title>
+  </titles>
+  <sponsor id="411421"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1988-09-29"/>
+    <cosponsor id="403515" joined="1988-09-29"/>
+    <cosponsor id="300052" joined="1988-09-29"/>
+    <cosponsor id="300059" joined="1988-09-29"/>
+    <cosponsor id="300064" joined="1988-09-29"/>
+    <cosponsor id="411762" joined="1988-09-29"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-29" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Committee on Rules Granted a Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Rules Committee Resolution H.Res.559 Reported to House.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Rule Passed House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-30" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-03">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-04" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-471" type="public" datetime="1988-10-04">
+      <text>Became Public Law No: 100-471.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="559"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Communicable diseases"/>
+    <term name="Drugs"/>
+    <term name="Grants-in-aid"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1988--Introduced.
+Amends title III (General Powers and Duties of Public Health Service) of the Public Health Service Act to add provisions authorizing the Secretary of Health and Human Services to make grants to States to assist in the provision of drugs determined to prolong the lives of individuals with acquired immune deficiency syndrome (AIDS) and related conditions. Authorizes appropriations. Prohibits grants from being made after March 31, 1989. Declares that the provisions added by this Act shall cease to exist on March 31, 1989.</summary>
+</bill>

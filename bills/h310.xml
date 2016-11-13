@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="310" updated="2014-03-22T09:51:17-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide a limited antitrust exemption for independent natural gas producer cooperatives.</title>
+  </titles>
+  <sponsor id="401947"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-05"/>
+    <cosponsor id="402114" joined="1987-03-05"/>
+    <cosponsor id="402454" joined="1987-03-05"/>
+    <cosponsor id="402750" joined="1987-02-25"/>
+    <cosponsor id="400104" joined="1987-03-05"/>
+    <cosponsor id="403576" joined="1987-03-05"/>
+    <cosponsor id="403873" joined="1987-03-17"/>
+    <cosponsor id="400143" joined="1987-03-17"/>
+    <cosponsor id="300055" joined="1987-03-17"/>
+    <cosponsor id="400281" joined="1988-10-13"/>
+    <cosponsor id="409205" joined="1987-03-10"/>
+    <cosponsor id="411725" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Competition"/>
+    <term name="Cooperative societies"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy policy"/>
+    <term name="Federal preemption"/>
+    <term name="Gas companies"/>
+    <term name="Industrial organization"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Price regulation"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Provides a limited antitrust exemption from State and Federal laws for: (1) actions taken to develop independent natural gas producers' cooperative associations; or (2) actions taken by such associations to implement plans to market natural gas in interstate commerce. Conditions such exemption upon such actions': (1) being necessary to market natural gas; and (2) not being taken for the purpose of reducing competition.</summary>
+</bill>

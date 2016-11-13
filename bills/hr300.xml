@@ -1,0 +1,130 @@
+<bill session="100" type="hr" number="300" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-10-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-29"/>
+  </status>
+  <introduced datetime="1987-10-29"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the opposition of the House of Representatives to the continued control of the cathedral in Vilnius, Lithuania, by the Union of Soviet Socialist Republics.</title>
+  </titles>
+  <sponsor id="400542"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-02-08"/>
+    <cosponsor id="400895" joined="1988-02-09"/>
+    <cosponsor id="400567" joined="1988-02-16"/>
+    <cosponsor id="400551" joined="1988-02-08"/>
+    <cosponsor id="400569" joined="1988-02-02"/>
+    <cosponsor id="401383" joined="1988-02-08"/>
+    <cosponsor id="401418" joined="1988-02-03"/>
+    <cosponsor id="400571" joined="1988-02-17"/>
+    <cosponsor id="400527" joined="1988-02-22"/>
+    <cosponsor id="401628" joined="1988-02-02"/>
+    <cosponsor id="300011" joined="1988-02-08"/>
+    <cosponsor id="401947" joined="1988-02-22"/>
+    <cosponsor id="401986" joined="1988-02-25"/>
+    <cosponsor id="400064" joined="1988-02-03"/>
+    <cosponsor id="402926" joined="1987-12-08"/>
+    <cosponsor id="403242" joined="1987-12-21"/>
+    <cosponsor id="403314" joined="1988-02-09"/>
+    <cosponsor id="300033" joined="1988-02-08"/>
+    <cosponsor id="403529" joined="1988-02-03"/>
+    <cosponsor id="403545" joined="1988-02-02"/>
+    <cosponsor id="300038" joined="1988-02-03"/>
+    <cosponsor id="403689" joined="1988-02-08"/>
+    <cosponsor id="403726" joined="1988-10-04"/>
+    <cosponsor id="403776" joined="1988-02-09"/>
+    <cosponsor id="404009" joined="1988-02-08"/>
+    <cosponsor id="404019" joined="1988-02-03"/>
+    <cosponsor id="400140" joined="1988-02-08"/>
+    <cosponsor id="400143" joined="1988-02-03"/>
+    <cosponsor id="400544" joined="1988-10-04"/>
+    <cosponsor id="400536" joined="1988-02-16"/>
+    <cosponsor id="405409" joined="1988-02-16"/>
+    <cosponsor id="405524" joined="1988-02-02"/>
+    <cosponsor id="405646" joined="1988-02-08"/>
+    <cosponsor id="405687" joined="1988-02-16"/>
+    <cosponsor id="400189" joined="1988-02-08"/>
+    <cosponsor id="405775" joined="1988-02-17"/>
+    <cosponsor id="400192" joined="1988-02-02"/>
+    <cosponsor id="300055" joined="1988-02-17"/>
+    <cosponsor id="300057" joined="1988-02-02"/>
+    <cosponsor id="406157" joined="1988-02-08"/>
+    <cosponsor id="406463" joined="1988-02-03"/>
+    <cosponsor id="406530" joined="1988-02-02"/>
+    <cosponsor id="406554" joined="1988-02-16"/>
+    <cosponsor id="400231" joined="1988-02-08"/>
+    <cosponsor id="406729" joined="1988-02-22"/>
+    <cosponsor id="400243" joined="1987-12-08"/>
+    <cosponsor id="407215" joined="1988-02-08"/>
+    <cosponsor id="407899" joined="1988-02-02"/>
+    <cosponsor id="400524" joined="1988-02-09"/>
+    <cosponsor id="407960" joined="1988-02-22"/>
+    <cosponsor id="408023" joined="1988-02-08"/>
+    <cosponsor id="408313" joined="1988-02-16"/>
+    <cosponsor id="400306" joined="1988-02-02"/>
+    <cosponsor id="400314" joined="1988-03-03"/>
+    <cosponsor id="400604" joined="1988-02-02"/>
+    <cosponsor id="409251" joined="1988-02-16"/>
+    <cosponsor id="400365" joined="1988-02-25"/>
+    <cosponsor id="409901" joined="1988-02-04"/>
+    <cosponsor id="400380" joined="1988-02-16"/>
+    <cosponsor id="410066" joined="1988-02-16"/>
+    <cosponsor id="410147" joined="1988-02-22"/>
+    <cosponsor id="410531" joined="1988-02-02"/>
+    <cosponsor id="300156" joined="1988-02-08"/>
+    <cosponsor id="400409" joined="1988-02-16"/>
+    <cosponsor id="400612" joined="1988-03-03"/>
+    <cosponsor id="411405" joined="1988-02-02"/>
+    <cosponsor id="411426" joined="1988-02-04"/>
+    <cosponsor id="400428" joined="1988-02-02"/>
+    <cosponsor id="411901" joined="1988-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-29" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+    <action datetime="1988-04-07">
+      <text>Favorable Executive Comment Received From State.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sr" number="385"/>
+    <bill relation="identical" session="100" type="sr" number="385"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Baltic States"/>
+    <term name="Catholic Church"/>
+    <term name="Churches"/>
+    <term name="Human rights"/>
+    <term name="Lithuania"/>
+    <term name="Negotiations"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religion in communist countries"/>
+    <term name="Religious liberty"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/1987--Introduced.
+Expresses the opposition of the House of Representatives to the continued control of the cathedral in Vilnius, Lithuania, by the Soviet Union. Calls upon the President, the Secretary of State, and Members of Congress visiting the Soviet Union to raise the issue of the cathedral's return to the Roman Catholic Church in meetings with Soviet officials. Urges U.S. representatives to speak out forcefully for such a return at international human rights forums. Voices the House of Representatives' support to the Lithuanian people in their efforts to secure basic religious freedoms and the return of the cathedral. Urges the Soviet Government to allow Roman Catholics to worship at the cathedral and to return it to Roman Catholic Church control before the end of 1988.</summary>
+</bill>

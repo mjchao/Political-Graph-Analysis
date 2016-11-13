@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="2058" updated="2014-03-22T09:52:09-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend titles XI and XVIII of the Social Security Act with respect to provider appeals of adverse determinations by peer review organizations.</title>
+  </titles>
+  <sponsor id="405006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-13">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Appellate procedure"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Peer review organizations (Medicine)"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends title XVIII (Medicare) and part B (Peer Review) of title XI of the Social Security Act to entitle Medicare providers to a reconsideration by a peer review organization of that organization's denial of payment for services provided, and to further review where such reconsideration is adverse to the provider and certain jurisdictional criteria are satisfied.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="5091" updated="2014-03-22T09:53:32-04:00">
+  <state datetime="1988-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-26"/>
+  </status>
+  <introduced datetime="1988-07-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the procurement by the Secretary of the Army of additional trucks under the Heavy Expanded Mobility Tactical Trucks (HEMIT) program.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="1988-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-26" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Executive Comment Requested from Army.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense articles"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Military vehicles"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/1988--Introduced.
+Prohibits the Secretary of the Army from procuring trucks under the Heavy Expanded Mobility Tactical Trucks program in excess of the number under contract by the Secretary on the date of enactment of this Act.</summary>
+</bill>

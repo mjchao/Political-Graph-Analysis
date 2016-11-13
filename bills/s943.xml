@@ -1,0 +1,57 @@
+<bill session="100" type="s" number="943" updated="2014-03-22T09:55:11-04:00">
+  <state datetime="1987-04-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-07"/>
+  </status>
+  <introduced datetime="1987-04-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to ensure the fair treatment of airline employees in airline mergers and similar transactions.</title>
+  </titles>
+  <sponsor id="400692"/>
+  <cosponsors>
+    <cosponsor id="402495" joined="1987-05-28"/>
+    <cosponsor id="300026" joined="1987-05-28"/>
+    <cosponsor id="402990" joined="1987-05-07"/>
+    <cosponsor id="403142" joined="1987-06-16"/>
+    <cosponsor id="300031" joined="1987-05-12"/>
+    <cosponsor id="300034" joined="1987-05-20"/>
+    <cosponsor id="404219" joined="1987-04-07"/>
+    <cosponsor id="300059" joined="1987-08-07"/>
+    <cosponsor id="300060" joined="1987-04-07"/>
+    <cosponsor id="300064" joined="1987-05-13"/>
+    <cosponsor id="300066" joined="1987-05-12"/>
+    <cosponsor id="407622" joined="1987-05-01"/>
+    <cosponsor id="408420" joined="1987-04-07"/>
+    <cosponsor id="409225" joined="1987-04-07"/>
+    <cosponsor id="409917" joined="1987-05-06"/>
+    <cosponsor id="411421" joined="1987-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1101"/>
+    <bill relation="identical" session="100" type="h" number="1101"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airline employees"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Corporate mergers"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Dismissal of employees"/>
+    <term name="Employee rights"/>
+    <term name="Job security"/>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>4/7/1987--Introduced.
+Amends the Federal Aviation Act of 1958 with respect to air carrier mergers or acquisitions to require the Secretary of Transportation to impose, as a condition of approval of such transactions, labor protective conditions that are calculated to mitigate possible adverse effects upon air carrier employees' employment, wages, or working conditions.</summary>
+</bill>

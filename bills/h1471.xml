@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1471" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill imposing certain restrictions on the sale of main transcontinental rail lines.</title>
+  </titles>
+  <sponsor id="411677"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="1988-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Land transfers"/>
+    <term name="Mortgage loans"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Railroad finance"/>
+    <term name="Railroad land grants"/>
+    <term name="Railroads"/>
+    <term name="Right-of-way"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Prohibits any sale of certain main transcontinental rail lines which separates ownership of portions of rail lines from ownership of lands granted in association with such portions if: (1) such rail lines were constructed on lands granted by the United States specifically for rail line construction; and (2) a mortgage bond is outstanding which is secured by both the lands on which the rail line is constructed and other lands granted by the United States in association with such lands.</summary>
+</bill>

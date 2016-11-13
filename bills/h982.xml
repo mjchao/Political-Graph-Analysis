@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="982" updated="2014-03-22T09:51:38-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that the United States District Court for the Judicial District of New Jersey shall be held at Jersey City, New Jersey, in addition to those places currently provided by law.</title>
+  </titles>
+  <sponsor id="404856"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="District courts"/>
+    <term name="Judicial districts"/>
+    <term name="New Jersey"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Provides that the U.S. District Court for the District of New Jersey shall be held in Jersey City, New Jersey, in addition to those places currently provided by law.</summary>
+</bill>

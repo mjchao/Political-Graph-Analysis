@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="914" updated="2014-03-22T09:51:37-04:00">
+  <state datetime="1987-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-02"/>
+  </status>
+  <introduced datetime="1987-02-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide a transition period for the full implementation of the nonrecurring adoption expenses reimbursement program.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="410231" joined="1987-04-22"/>
+    <cosponsor id="411948" joined="1987-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-02" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="270"/>
+    <bill relation="identical" session="100" type="s" number="270"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Adoption"/>
+    <term name="Children and youth"/>
+    <term name="Income tax"/>
+    <term name="Social welfare"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1987--Introduced.
+Amends the Tax Reform Act of 1986 to provide that provisions relating to the repeal of the income tax deduction for adoption expenses shall not take effect until taxable years beginning after December 31 of the calendar year in which final regulations are issued to implement the reimbursement of nonrecurring adoption expenses under any adoption assistance agreement under subtitle E (Foster Care and Adoption Assistance) of title IV of the Social Security Act.</summary>
+</bill>

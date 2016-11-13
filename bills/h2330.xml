@@ -1,0 +1,96 @@
+<bill session="100" type="h" number="2330" updated="2014-03-22T09:52:19-04:00">
+  <state datetime="1987-06-03">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-06-03"/>
+  </status>
+  <introduced datetime="1987-05-07"/>
+  <titles>
+    <title type="short" as="introduced">National Science Foundation Authorization Act for Fiscal Year 1988</title>
+    <title type="short" as="reported to house">National Science Foundation Authorization Act for Fiscal Year 1988</title>
+    <title type="short" as="passed house">National Science Foundation Authorization Act for Fiscal Year 1988</title>
+    <title type="official" as="introduced">A bill to authorize appropriations to the National Science Foundation for the fiscal year 1988, and for other purposes.</title>
+  </titles>
+  <sponsor id="411224"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-07" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-05-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-05-28">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-110.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Placed on Union Calendar No: 76.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>The Clerk Reported Committee Amendments.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>House Agreed to Amendments Adopted by the Committee of the Whole.</text>
+    </action>
+    <vote how="roll" type="vote" roll="165" datetime="1987-06-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 408 - 3 (Record Vote No: 165).</text>
+    </vote>
+    <action datetime="1987-06-05">
+      <text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Committee on Labor and Human Resources requested executive comment from Labor Department, Education Department, Health and Human Services Department, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Arctic and polar regions"/>
+    <term name="Authorization"/>
+    <term name="Colleges"/>
+    <term name="Community colleges"/>
+    <term name="Computers in education"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Educational innovations"/>
+    <term name="Equipment and supplies"/>
+    <term name="Espionage"/>
+    <term name="Federal aid to education"/>
+    <term name="Federal aid to research"/>
+    <term name="Federal budgets"/>
+    <term name="Government operations and politics"/>
+    <term name="Higher education"/>
+    <term name="Laboratories"/>
+    <term name="National Science Foundation"/>
+    <term name="Public meetings"/>
+    <term name="Research"/>
+    <term name="Research centers"/>
+    <term name="Science and technology"/>
+    <term name="Scientific education"/>
+    <term name="Supercomputers"/>
+    <term name="Teacher education"/>
+    <term name="Teacher salaries"/>
+    <term name="Teachers"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments>
+    <amendment number="h184"/>
+  </amendments>
+  <summary>6/3/1987--Passed House amended.
+(Measure passed House, amended, roll call #165 (408-3)) National Science Foundation Authorization Act for Fiscal Year 1988 - Authorizes appropriations to the National Science Foundation (NSF) for FY 1988 for the following categories: (1) biological, behavioral, and social sciences; (2) computer and information science and engineering; (3) engineering; (4) geosciences; (5) mathematical and physical sciences; (6) scientific, technological, and international affairs; (7) program development and management; (8) science and engineering education; and (9) the U.S. Antarctic program. Earmarks funds for: (1) NSF supercomputer centers; (2) teacher preparation and enhancement activities; (3) materials development and informal science education; (4) the college science instrumentation program; and (5) manufacturing technologies at engineering research centers. Limits the amounts which may be used for consultation, representation, or other extraordinary expenses. Permits transfers of funds among categories so long as transfers do not exceed ten percent of authorized amounts. Permits transfers in excess of ten percent if specified congressional committees are given 30 days notice in writing. Requires the Director of NSF to report annually to specified congressional committees on NSF programs which support undergraduate science and engineering education, including geographic distribution and type of institution funded. Requires the funding of at least one science and technology center dedicated to the study of information technologies relevant to instruction in two-year and community colleges. Requires the Director to report to specified congressional committees by January 1, 1988, on the state of science, technology, and engineering programs in two-year and community colleges. Makes such colleges eligible to participate in NSF undergraduate science and engineering education programs. Requires the Director to report to specified congressional committees by November 1, 1988, on the impact of salary levels on the recruitment and retention of science and mathematics teachers at pre-college levels. Requires the Director to report to specified congressional committees by December 31, 1988, on Soviet efforts to penetrate, utilize, and compromise U.S. civilian science research programs. Permits the National Science Board to close to the public certain preliminary budget meetings.</summary>
+</bill>

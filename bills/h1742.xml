@@ -1,0 +1,84 @@
+<bill session="100" type="h" number="1742" updated="2014-03-22T09:51:57-04:00">
+  <state datetime="1987-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-19"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 39 of the United States Code to grant local governments the discretion to assign mailing addresses to sites within their jurisdiction.</title>
+  </titles>
+  <sponsor id="400359"/>
+  <cosponsors>
+    <cosponsor id="400569" joined="1987-04-28"/>
+    <cosponsor id="401383" joined="1987-06-09"/>
+    <cosponsor id="400023" joined="1987-11-09"/>
+    <cosponsor id="401874" joined="1987-11-17"/>
+    <cosponsor id="402159" joined="1987-08-07"/>
+    <cosponsor id="402454" joined="1987-06-11"/>
+    <cosponsor id="400080" joined="1987-06-16"/>
+    <cosponsor id="402928" joined="1987-03-19"/>
+    <cosponsor id="403203" joined="1987-06-04"/>
+    <cosponsor id="400104" joined="1987-06-01"/>
+    <cosponsor id="403545" joined="1987-04-28"/>
+    <cosponsor id="403689" joined="1987-06-15"/>
+    <cosponsor id="403769" joined="1987-07-13"/>
+    <cosponsor id="404097" joined="1987-05-05"/>
+    <cosponsor id="404401" joined="1987-03-19"/>
+    <cosponsor id="404422" joined="1987-06-10"/>
+    <cosponsor id="400536" joined="1987-06-25"/>
+    <cosponsor id="405524" joined="1987-12-15"/>
+    <cosponsor id="405646" joined="1987-03-19"/>
+    <cosponsor id="405687" joined="1987-11-09"/>
+    <cosponsor id="400189" joined="1988-02-02"/>
+    <cosponsor id="405775" joined="1987-03-31"/>
+    <cosponsor id="406461" joined="1987-04-29"/>
+    <cosponsor id="406530" joined="1987-04-29"/>
+    <cosponsor id="406554" joined="1987-11-16"/>
+    <cosponsor id="406740" joined="1987-03-19"/>
+    <cosponsor id="400239" joined="1987-06-03"/>
+    <cosponsor id="406995" joined="1987-12-02"/>
+    <cosponsor id="407215" joined="1987-06-30"/>
+    <cosponsor id="400595" joined="1987-05-21"/>
+    <cosponsor id="400524" joined="1987-09-09"/>
+    <cosponsor id="400299" joined="1987-11-17"/>
+    <cosponsor id="409344" joined="1987-12-02"/>
+    <cosponsor id="400533" joined="1987-03-19"/>
+    <cosponsor id="300155" joined="1987-11-16"/>
+    <cosponsor id="400380" joined="1987-03-19"/>
+    <cosponsor id="410407" joined="1987-06-22"/>
+    <cosponsor id="410455" joined="1987-12-03"/>
+    <cosponsor id="410531" joined="1987-12-02"/>
+    <cosponsor id="400409" joined="1987-06-15"/>
+    <cosponsor id="411585" joined="1987-05-05"/>
+    <cosponsor id="411901" joined="1987-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Executive Comment Requested from OMB, US Postal Service.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Postal Operations and Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO06" subcommittee="Postal Operations and Services" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1764"/>
+    <bill relation="identical" session="100" type="s" number="1764"/>
+  </relatedbills>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Federal-local relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Postal Services and Facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Authorizes county and municipal governments to designate mailing addresses.</summary>
+</bill>

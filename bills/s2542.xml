@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="2542" updated="2014-03-22T09:55:51-04:00">
+  <state datetime="1988-06-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-21"/>
+  </status>
+  <introduced datetime="1988-06-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the use of unobligated abandoned mine land funds by the State of Kentucky, and for other purposes.</title>
+  </titles>
+  <sponsor id="300072"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Referred to Subcommittee on Mineral Resources and Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG05" subcommittee="Mineral Resources Development and Production" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Kentucky"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Reclamation of land"/>
+    <term name="State finance"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/1988--Introduced.
+Directs the Office of Surface Mining Reclamation and Enforcement to make available to the State of Kentucky certain unobligated Abandoned Mine Land Funds for use by such State for Butler County water project activities.</summary>
+</bill>

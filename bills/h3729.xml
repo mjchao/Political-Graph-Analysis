@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="3729" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-09"/>
+  </status>
+  <introduced datetime="1987-12-09"/>
+  <titles>
+    <title type="short" as="introduced">Martin Luther King, Junior, National Historic Site and Preservation District Redevelopment Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish a temporary revolving loan fund to assist redevelopment in the Martin Luther King, Junior, National Historic Site and Preservation District in Atlanta, Georgia.</title>
+  </titles>
+  <sponsor id="400240"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-09" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-01-26">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Field Hearings Held in Atlanta, Georgia.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2471"/>
+    <bill relation="identical" session="100" type="s" number="2471"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Black history"/>
+    <term name="Black leadership"/>
+    <term name="Civil rights movements"/>
+    <term name="Community development"/>
+    <term name="Economics and public finance"/>
+    <term name="Georgia"/>
+    <term name="Government lending"/>
+    <term name="Government trust funds"/>
+    <term name="Historic sites"/>
+    <term name="Revolving funds"/>
+    <term name="Urban affairs"/>
+    <term name="Urban renewal"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/1987--Introduced.
+Martin Luther King, Junior, National Historic Site and Preservation District Redevelopment Act of 1987 - Establishes in the Treasury a revolving fund, the Martin Luther King, Junior, National Historic Site and Preservation District Redevelopment Fund, to make loans to assist in financing redevelopment in the Martin Luther King, Junior, National Historic Site and Preservation District in Atlanta, Georgia, by the Auburn Area Revitalization Committee, Inc. Sets forth Fund loan and termination procedures. Authorizes appropriations.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="100" type="hj" number="15" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States providing that no person may be elected to the House of Representatives more than three times, and providing that no person may be elected to the Senate more than once.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional terms of office"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Constitutional Amendment - Prohibits any person from being elected to the House of Representatives more than three times, or from being elected or appointed to the Senate more than once. Establishes limitations for Members holding appointive office.</summary>
+</bill>

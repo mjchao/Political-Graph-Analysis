@@ -1,0 +1,73 @@
+<bill session="100" type="s" number="1979" updated="2014-03-22T09:55:32-04:00">
+  <state datetime="1988-08-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-19"/>
+  </status>
+  <introduced datetime="1987-12-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the Grays Harbor National Wildlife Refuge.</title>
+  </titles>
+  <sponsor id="400692"/>
+  <cosponsors>
+    <cosponsor id="403920" joined="1987-12-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-02-25">
+      <text>Subcommittee on Environmental Protection. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-04-22" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-06-27">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick with amendments. With written report No. 100-403.</text>
+    </action>
+    <calendar datetime="1988-06-27" calendar="Senate Legislative" under="General Orders" number="765">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 765.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-08-08" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-08-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-08-10">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-08-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-19" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-406" type="public" datetime="1988-08-19">
+      <text>Became Public Law No: 100-406.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEV02" subcommittee="Environmental Protection" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Gifts"/>
+    <term name="Land transfers"/>
+    <term name="Planning"/>
+    <term name="Washington State"/>
+    <term name="Water pollution control"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/1988--Passed Senate amended.
+(Measure passed Senate, amended) Directs the Secretary of the Interior (the Secretary) to designate and acquire lands for the establishment of the Grays Harbor National Wildlife Refuge, Washington. Directs the Secretary, within three years after enactment of this Act, to acquire by transfer or purchase specified lands and waters owned by the Port of Grays Harbor within the Refuge. Authorizes the appropriate Federal agencies, in certain circumstances, to consider such transfer as compensation to satisfy, in whole or in part, obligations resulting from water-dependent activities by the Port of Grays Harbor under specified provisions of the Federal Water Pollution Control Act. Authorizes the Secretary to acquire certain lands and waters owned by the city of Hoquiam within the Refuge. Requires the Secretary to prepare a management plan which includes a visitor center and other facilities in the Refuge. Authorizes appropriations to the Department of the Interior for the acquisition of certain lands and waters for the Refuge and to carry out other provisions of this Act. Requires the Director of the Fish and Wildlife Service to request the National Fish and Wildlife Foundation to encourage, accept, and administer private gifts of property to further the purposes of this Act. Directs the Secretary, in preparing the management plan, to give special consideration to means of encouraging the participation and contributions of local public and private entities in developing and implementing such plan.</summary>
+</bill>

@@ -1,0 +1,130 @@
+<bill session="100" type="h" number="4362" updated="2014-03-22T09:53:10-04:00">
+  <state datetime="1988-11-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-10"/>
+  </status>
+  <introduced datetime="1988-04-12"/>
+  <titles>
+    <title type="short" as="introduced">Recreation and Public Purposes Amendment Act of 1988</title>
+    <title type="short" as="reported to house">Recreation and Public Purposes Amendment of 1988</title>
+    <title type="short" as="passed house">Recreation and Public Purposes Amendment Act of 1988</title>
+    <title type="short" as="passed senate">Recreation and Public Purposes Amendment Act of 1988</title>
+    <title type="short" as="enacted">Recreation and Public Purposes Amendment Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend section 3 of the Act of June 14, 1926, as amended (43 U.S.C. 869-2), to authorize the issuance of patents with a limited reverter provision of lands devoted to solid waste disposal, and for other purposes.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors>
+    <cosponsor id="300017" joined="1988-04-12"/>
+    <cosponsor id="402484" joined="1988-04-12"/>
+    <cosponsor id="402710" joined="1988-04-12"/>
+    <cosponsor id="300029" joined="1988-04-12"/>
+    <cosponsor id="400100" joined="1988-04-12"/>
+    <cosponsor id="400552" joined="1988-04-12"/>
+    <cosponsor id="400226" joined="1988-09-07"/>
+    <cosponsor id="406729" joined="1988-04-12"/>
+    <cosponsor id="407162" joined="1988-04-12"/>
+    <cosponsor id="407320" joined="1988-07-26"/>
+    <cosponsor id="408190" joined="1988-08-08"/>
+    <cosponsor id="408506" joined="1988-04-12"/>
+    <cosponsor id="409165" joined="1988-04-12"/>
+    <cosponsor id="409205" joined="1988-04-12"/>
+    <cosponsor id="400504" joined="1988-09-07"/>
+    <cosponsor id="411178" joined="1988-04-12"/>
+    <cosponsor id="400440" joined="1988-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-12" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-16">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-934.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Placed on Union Calendar No: 560.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <calendar datetime="1988-09-30" calendar="Senate Legislative" under="General Orders" number="1020">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1020.</text>
+    </calendar>
+    <action datetime="1988-10-21">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-02">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-648" type="public" datetime="1988-11-10">
+      <text>Became Public Law No: 100-648.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2202"/>
+    <bill relation="identical" session="100" type="s" number="2202"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental protection"/>
+    <term name="Hazardous waste disposal"/>
+    <term name="Land transfers"/>
+    <term name="Land use"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Refuse and refuse disposal"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3404"/>
+    <amendment number="s3763"/>
+    <amendment number="s3764"/>
+  </amendments>
+  <summary>10/21/1988--Passed Senate amended.
+(Measure passed Senate, amended) Recreation and Public Purposes Amendment Act of 1988 - Allows the Secretary of the Interior to convey lands which may be used by the applicant for the disposal of solid wastes or hazardous substances subject to the following conditions: (1) the Secretary determines that no hazardous substance is present on such land; (2) the applicant furnishes evidence that a copy of the application and information concerning the proposed use of such land has been provided to the Environmental Protection Agency and certain other State and Federal agencies; (3) the applicant gives a warranty that use of such land will be consistent with applicable State and Federal laws and that the applicant will hold the United States harmless from any liability; and (4) the applicant demonstrates that the land meets applicable State and local requirements and needs for solid waste or hazardous substance disposal. Provides that such lands shall revert to the United States unless the lands have been used for the purposes specified in the application or other authorized uses within five years after the date of conveyance. Requires any party who has transferred ownership of any conveyed lands not used for such specified purposes to pay to the Secretary fair market value for such lands. Provides that no lands covered by an issued patent shall revert to the United States if such lands have been used for the disposal of solid waste or hazardous substances. Authorizes the Secretary, with respect to lands conveyed prior to enactment of this Act, to renounce the United States' reversionary interests in such lands upon finding that such lands have been used for the disposal of solid waste or hazardous substances. Authorizes the Secretary, with respect to lands leased prior to enactment of this Act, to convey in fee such leased lands without any provision for reversion to the United States upon finding that such lands have been used for the disposal of solid waste or hazardous substances. Prohibits the Secretary from making any conveyance of land or renunciation of reversionary interests under this Act until: (1) 60 days after regulations implementing this Act have been submitted to specified House and Senate committees; and (2) 30 days after notice of intention to make such conveyance or renunciation has been submitted to specified House and Senate committees, during the first three years after enactment of this Act.</summary>
+</bill>

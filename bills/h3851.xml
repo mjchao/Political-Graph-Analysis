@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="3851" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-25"/>
+  </status>
+  <introduced datetime="1988-01-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Coal Mine Health and Safety Act of 1969 to establish a presumption of eligibility for disability benefits in the case of certain coal miners who filed claims under Part C of such Act between July 1, 1973, and April 1, 1980.</title>
+  </titles>
+  <sponsor id="400210"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-01-25" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Labor Standards.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED03" subcommittee="Labor Standards" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Black lung"/>
+    <term name="Coal"/>
+    <term name="Disability evaluation"/>
+    <term name="Health"/>
+    <term name="Lung diseases"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Workers' compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/1988--Introduced.
+Amends the Federal Coal Mine Health and Safety Act of 1969 to provide for a presumption of disability due to pneumoconiosis with respect to certain coal miners whose claims were filed during a specified period under the Black Lung Benefits Program.</summary>
+</bill>

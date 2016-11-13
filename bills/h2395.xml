@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="2395" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1987-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-13"/>
+  </status>
+  <introduced datetime="1987-05-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal P.L. 87-186 relating to the National Armed Forces Museum Advisory Board of the Smithsonian Institution.</title>
+  </titles>
+  <sponsor id="401568"/>
+  <cosponsors>
+    <cosponsor id="402833" joined="1987-05-13"/>
+    <cosponsor id="407772" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-13" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Referred to Subcommittee on Libraries and Memorials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA09" subcommittee="Libraries and Memorials" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Federal advisory bodies"/>
+    <term name="Advisory bodies"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Government operations and politics"/>
+    <term name="Museums"/>
+    <term name="Smithsonian Institution"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/1987--Introduced.
+Repeals the Act which established the National Armed Forces Museum Advisory Board of the Smithsonian Institution and which required the display of the contributions of the military toward a free America.</summary>
+</bill>

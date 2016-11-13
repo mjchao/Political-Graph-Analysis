@@ -1,0 +1,56 @@
+<bill session="100" type="s" number="275" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Wild and Scenic Rivers Act.</title>
+  </titles>
+  <sponsor id="411762"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Committee on Energy and Natural Resources requested executive comment from Agriculture Department, Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed:  S.Hrg. 100-61.</text>
+    </action>
+    <action datetime="1987-05-14">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Favorable.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Committee on Energy and Natural Resources received executive comment from Agriculture Department. Favorable.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Committee on Energy and Natural Resources. Ordered favorably reported H.R. 317 in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="317"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Rivers"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Wild rivers"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Wild and Scenic Rivers Act to designate the Merced River, California, as a wild and scenic river. Authorizes appropriations.</summary>
+</bill>

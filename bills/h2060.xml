@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="2060" updated="2014-03-22T09:52:10-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of the Interior to divest certain utility properties in the State of Arizona.</title>
+  </titles>
+  <sponsor id="400226"/>
+  <cosponsors>
+    <cosponsor id="300062" joined="1987-04-09"/>
+    <cosponsor id="409165" joined="1987-04-09"/>
+    <cosponsor id="400504" joined="1987-04-09"/>
+    <cosponsor id="411025" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-05-01">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Committee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Arizona"/>
+    <term name="Irrigation"/>
+    <term name="Privatization"/>
+    <term name="Public utilities"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Directs the Secretary of the Interior to contract for the sale, operation, maintenance, repairs, or relocation of Government-owned utilities and utility systems and appurtenances which are part of the San Carlos Irrigation Project in Arizona.</summary>
+</bill>

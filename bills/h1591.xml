@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="1591" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1987-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-12"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to deny the deduction of medical expenses incurred for certain abortions.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Abortion"/>
+    <term name="Abortion, Birth Control, and Family Planning"/>
+    <term name="Health"/>
+    <term name="Income tax"/>
+    <term name="Medical economics"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Amends the Internal Revenue Code to deny an income tax deduction for medical expenses incurred in connection with abortions, unless the life of the mother would be endangered by carrying the fetus to term.</summary>
+</bill>

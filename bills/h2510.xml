@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="2510" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1987-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-21"/>
+  </status>
+  <introduced datetime="1987-05-21"/>
+  <titles>
+    <title type="short" as="introduced">Better Use of Hospital Facilities Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act with respect to payment to hospitals for capital-related costs in a manner that encourages hospitals to close unneeded beds.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-09-16"/>
+    <cosponsor id="403529" joined="1987-05-21"/>
+    <cosponsor id="400211" joined="1987-07-01"/>
+    <cosponsor id="400595" joined="1987-07-01"/>
+    <cosponsor id="407282" joined="1987-07-01"/>
+    <cosponsor id="409632" joined="1987-07-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-21" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Depreciation and amortization"/>
+    <term name="Health facilities"/>
+    <term name="Hospital utilization"/>
+    <term name="Hospitals"/>
+    <term name="Medicare"/>
+    <term name="Prospective payment systems (Medical care)"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/1987--Introduced.
+Better Use of Hospital Facilities Act of 1987 - Amends title XVIII (Medicare) of the Social Security Act to provide that when a hospital's occupancy rate is less than specified target minimum occupancy rates established for hospitals with 50 or more beds, the amount otherwise payable to such hospital for the depreciation of its capital shall be reduced by the percentage by which the target minimum occupancy rate exceeds its occupancy rate. Directs the Secretary of Health and Human Services to provide for exceptions and adjustments to such reductions to take into account the special circumstances faced by certain hospitals, such as sole community hospitals. Provides that when a hospital agrees to retire beds from the provision of inpatient hospital services for a specified period of time, only a portion of such bed (the size of such portion diminishing as the length of the bed's retirement lengthens) shall be counted in determining the hospital's occupancy rate. Prevents the restoration of a retired bed from working to the detriment of a hospital in certain cases where there is an immediate medical need for beds in the region. Provides that hospitals which are subject to payment reductions by reason of this Act's amendments shall be temporarily exempted from State laws or regulations which restrict the class of inpatient services a hospital provides or prevent (other than for reasons of health or safety) a hospital from using a bed or beds for any particular services.</summary>
+</bill>

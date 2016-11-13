@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="3540" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-22"/>
+  </status>
+  <introduced datetime="1987-10-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the sale, lease, donation, or other transfer of Stinger antiaircraft missiles to any foreign government in the Persian Gulf region.</title>
+  </titles>
+  <sponsor id="406765"/>
+  <cosponsors>
+    <cosponsor id="410066" joined="1987-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-22" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-11-04">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1798"/>
+    <bill relation="identical" session="100" type="s" number="1798"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Antiaircraft missiles"/>
+    <term name="Arms sales"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Guided missiles"/>
+    <term name="Persian Gulf States"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/1987--Introduced.
+Prohibits the sale, lease, donation, or other transfer of Stinger antiaircraft missiles to foreign governments in the Persian Gulf region during FY 1988.</summary>
+</bill>

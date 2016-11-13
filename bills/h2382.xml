@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="2382" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1987-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-12"/>
+  </status>
+  <introduced datetime="1987-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the rights and interest of the United States of America under a conservation easement affecting certain land in Wood County, Texas.</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors>
+    <cosponsor id="402114" joined="1987-05-12"/>
+    <cosponsor id="402454" joined="1987-05-12"/>
+    <cosponsor id="411725" joined="1987-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-12" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Easements"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Public works"/>
+    <term name="Texas"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1987--Introduced.
+Relinquishes all U.S. interests under a conservation easement in specified lands in Wood County, Texas, whenever a water resource project that will affect such land is started on or by January 1, 2000.</summary>
+</bill>

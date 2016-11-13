@@ -1,0 +1,36 @@
+<bill session="100" type="s" number="1240" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-20"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide coverage for certain preventive care items and services under part B and to provide a discount in premiums under such part for certain individuals certified as maintaining healthy lifestyle.</title>
+  </titles>
+  <sponsor id="300046"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="1987-06-11"/>
+    <cosponsor id="409562" joined="1987-07-23" withdrawn="1987-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Drugs"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Physical examinations"/>
+    <term name="Preventive medicine"/>
+    <term name="Vaccination"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to give beneficiaries the option of receiving coverage for certain prescription medicines used in the treatment of chronic diseases. Increases by four dollars the monthly Medicare part B (Supplementary Medical Insurance) premium required of beneficiaries who elect such coverage. Levies a $100 annual deductible and five percent copayment on beneficiaries for the expenses incurred for such prescriptive medicines. Gives beneficiaries the option of being covered for annual routine physical checkups. Increases by three dollars the monthly Medicare part B premium required of beneficiaries who elect such coverage. Imposes no copayment on beneficiaries for such checkup. Covers immunizations furnished to individuals who are at high risk of contracting certain infectious diseases. Imposes no copayment on individuals for such immunizations. Provides beneficiaries who are certified annually by a physician as maintaining a healthy lifestyle with a one dollar discount in their monthly Medicare part B premium.</summary>
+</bill>

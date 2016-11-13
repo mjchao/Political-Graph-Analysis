@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="464" updated="2014-03-22T09:54:55-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Civil Rights Amendments Act of 1987</title>
+    <title type="official" as="introduced">A bill to prohibit discrimination on the basis of affectional or sexual orientation, and for other purposes.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-02-26"/>
+    <cosponsor id="402412" joined="1988-06-21"/>
+    <cosponsor id="300056" joined="1987-02-04"/>
+    <cosponsor id="300059" joined="1987-02-04"/>
+    <cosponsor id="300060" joined="1987-02-04"/>
+    <cosponsor id="300073" joined="1988-06-21"/>
+    <cosponsor id="400563" joined="1987-02-04"/>
+    <cosponsor id="409917" joined="1987-11-10"/>
+    <cosponsor id="411421" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-13">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="709"/>
+    <bill relation="identical" session="100" type="h" number="709"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Affirmative action programs"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Gay rights"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Civil Rights Amendments Act of 1987 - Amends the Civil Rights Act of 1964 to prohibit discrimination on the basis of affectional or sexual orientation. Provides that this Act shall not be construed to permit a finding of discrimination based on statistical differences or the fashioning of any remedy requiring a quota.</summary>
+</bill>

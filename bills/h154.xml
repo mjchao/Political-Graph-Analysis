@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="154" updated="2014-03-22T09:51:11-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the District of Columbia Self-Government and Governmental Reorganization Act to increase the amount authorized to be appropriated as the annual Federal payment to the District of Columbia.</title>
+  </titles>
+  <sponsor id="404006"/>
+  <cosponsors>
+    <cosponsor id="403364" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to Subcommittee on Fiscal Affairs and Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSDT01" subcommittee="Fiscal Affairs and Health" name="House District of Columbia"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Authorization"/>
+    <term name="District of Columbia"/>
+    <term name="Economics and public finance"/>
+    <term name="Municipal finance"/>
+    <term name="Payments in lieu of taxes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the District of Columbia Self-Government and Governmental Reorganization Act to increase from $444,500,000 to $462,300,000 the amount authorized to be appropriated as the annual Federal payment to the District of Columbia for FY 1988 and each fiscal year thereafter.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="100" type="s" number="1431" updated="2014-03-22T09:55:19-04:00">
+  <state datetime="1987-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Secretary of the Interior to construct, operate, and maintain the Lake Andes-Wagner Unit and the Marty II Unit, South Dakota Pumping Division, Pick-Sloan Missouri Basin Program, South Dakota.</title>
+  </titles>
+  <sponsor id="300031"/>
+  <cosponsors>
+    <cosponsor id="408898" joined="1987-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department.</text>
+    </action>
+    <action datetime="1987-12-03">
+      <text>Committee on Energy and Natural Resources requested executive comment from Agriculture Department.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Subcommittee on Water and Power. Hearings held. Hearings printed: S.Hrg. 100-626.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Indian lands"/>
+    <term name="Irrigation"/>
+    <term name="Missouri River development"/>
+    <term name="Native Americans"/>
+    <term name="South Dakota"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1248"/>
+  </amendments>
+  <summary>6/25/1987--Introduced.
+Authorizes the Secretary of the Interior to construct, operate, and maintain the Lake Andes-Wagner Unit and the Marty II Unit, South Dakota, as units of the South Dakota Pumping Division, Pick-Sloan Missouri Basin Program. Requires the Marty II Unit to serve Indian lands in the Yankton Sioux Indian Reservation and prohibits construction until completion of an environmental impact statement. Authorizes appropriations for such facilities.</summary>
+</bill>

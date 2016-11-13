@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="1587" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-08-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-03"/>
+  </status>
+  <introduced datetime="1987-08-03"/>
+  <titles>
+    <title type="short" as="introduced">1988 Olympic Commemorative Coin Act</title>
+    <title type="official" as="introduced">A bill to authorize the minting of commemorative coins to support the training of American athletes participating in the 1988 Olympic Games.</title>
+  </titles>
+  <sponsor id="403142"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1987-09-09"/>
+    <cosponsor id="402990" joined="1987-09-09"/>
+    <cosponsor id="300034" joined="1987-09-17"/>
+    <cosponsor id="404679" joined="1987-09-09"/>
+    <cosponsor id="407355" joined="1987-08-07"/>
+    <cosponsor id="408970" joined="1987-09-11"/>
+    <cosponsor id="409917" joined="1987-09-09"/>
+    <cosponsor id="410242" joined="1987-09-23"/>
+    <cosponsor id="410588" joined="1987-08-04"/>
+    <cosponsor id="411762" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Committee on Banking. Ordered favorably reported H.R. 2741 in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2741"/>
+    <bill relation="identical" session="100" type="h" number="2741"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Athletes"/>
+    <term name="Coins and coinage"/>
+    <term name="Gold"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Olympic games"/>
+    <term name="Silver"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1987--Introduced.
+1988 Olympic Commemorative Coin Act - Directs the Secretary of the Treasury to issue a specified number of gold and silver coins emblematic of the participation of American athletes in the 1988 Olympic Games. Sets forth certain features of the coins and provides for their sale and issuance. Requires all sales to include specified surcharges. Requires all surcharges to be paid to the United States Olympic Committee. Terminates the minting of the coins on December 31, 1988.</summary>
+</bill>

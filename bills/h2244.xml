@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="2244" updated="2016-06-29T08:43:01-04:00">
+  <state datetime="1987-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-30"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to permit American prisoners of war held by the Japanese after the Bataan death march to sue in the United States Claims Court.</title>
+  </titles>
+  <sponsor id="406992"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil actions and liability"/>
+    <term name="Claims"/>
+    <term name="Class actions (Civil procedure)"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Ex-prisoners of war"/>
+    <term name="Government liability"/>
+    <term name="Government liability (International law)"/>
+    <term name="International affairs"/>
+    <term name="Japan"/>
+    <term name="Philippines"/>
+    <term name="Prisoners of war"/>
+    <term name="Veterans' benefits"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Permits surviving American prisoners of war who were held by the Japanese during World War II and who took part in the Bataan death march in the Philippine Islands to bring a class action suit in the United States Claims Court against the Government of Japan or any Japanese business entity enriched by the forced labors of such prisoners.</summary>
+</bill>

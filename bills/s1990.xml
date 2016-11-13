@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1990" updated="2014-03-22T09:55:32-04:00">
+  <state datetime="1987-12-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-21"/>
+  </status>
+  <introduced datetime="1987-12-21"/>
+  <titles>
+    <title type="short" as="introduced">Global Environmental Protection Act of 1987</title>
+    <title type="short" as="introduced" partial="1">Atmosphere Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill entitled the "Global Environmental Protection Act of 1987."</title>
+  </titles>
+  <sponsor id="410242"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1987-12-21"/>
+    <cosponsor id="402412" joined="1987-12-21"/>
+    <cosponsor id="403669" joined="1987-12-21"/>
+    <cosponsor id="407786" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air pollution control"/>
+    <term name="Climate"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Weather and Climate"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/1987--Introduced.
+Global Environmental Protection Act of 1987 - Amends the National Environmental Policy Act of 1969 to add a new title III, the Atmosphere Protection Act of 1987, to require the Federal Government to make and implement policies and programs so as to minimize environmental contamination and modification of the atmosphere.</summary>
+</bill>

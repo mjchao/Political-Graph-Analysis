@@ -1,0 +1,33 @@
+<bill session="100" type="sc" number="85" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-11-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-11-03"/>
+  </status>
+  <introduced datetime="1987-11-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution correcting the enrollment of S.1158.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-11-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-11-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Federal aid to medical education"/>
+    <term name="Health"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+    <term name="Student loan funds"/>
+  </subjects>
+  <amendments/>
+  <summary>11/3/1987--Introduced.
+Makes corrections in the enrollment of S. 1158 (Public Health Service Amendments of 1987) as it relates to the period of obligated service under the National Health Service Corps Loan Repayment Program.</summary>
+</bill>

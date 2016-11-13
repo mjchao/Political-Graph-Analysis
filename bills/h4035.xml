@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="4035" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-02-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-29"/>
+  </status>
+  <introduced datetime="1988-02-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Motor Vehicle Information and Cost Savings Act to require a study of State motor vehicle safety inspection programs.</title>
+  </titles>
+  <sponsor id="406994"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-02-29"/>
+    <cosponsor id="400043" joined="1988-02-29"/>
+    <cosponsor id="401947" joined="1988-02-29"/>
+    <cosponsor id="404170" joined="1988-03-30"/>
+    <cosponsor id="411224" joined="1988-02-29"/>
+    <cosponsor id="300100" joined="1988-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-29" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Motor vehicles"/>
+    <term name="Automobile safety standards"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle safety"/>
+    <term name="Roads and highways"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Traffic accidents and safety"/>
+  </subjects>
+  <amendments/>
+  <summary>2/29/1988--Introduced.
+Amends the Motor Vehicle Information and Cost Savings Act to direct the Secretary of Transportation to arrange with the National Academy of Sciences to study the efficacy of State motor vehicle safety inspection programs regarding highway accidents and unsafe vehicles. Outlines the parameters of such study and the persons to be consulted. Requires the Academy to report the study results to specified congressional committees. Authorizes appropriations.</summary>
+</bill>

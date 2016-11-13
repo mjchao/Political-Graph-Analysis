@@ -1,0 +1,51 @@
+<bill session="100" type="hc" number="351" updated="2014-03-22T09:54:16-04:00">
+  <state datetime="1988-10-03">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-03"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to correct errors in the enrollment of the bill S. 328.</title>
+  </titles>
+  <sponsor id="401837"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-10">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Held at the desk by unanimous consent.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-23" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Resolution agreed to in Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="roll" type="vote" roll="381" datetime="1988-10-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Yea-Nay Vote: 399 - 0 (Record Vote No: 381).</text>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Government operations and politics"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3281"/>
+  </amendments>
+  <summary>9/23/1988--Passed Senate amended.
+(Measure passed Senate, amended) Makes corrections in the enrollment of S. 328 (Prompt Payment Act Amendments of 1987), which requires the Federal Government to pay interest on overdue payments.</summary>
+</bill>

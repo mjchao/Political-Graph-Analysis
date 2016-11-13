@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="2381" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for activities under the Federal Fire Prevention and Control Act of 1974.</title>
+  </titles>
+  <sponsor id="404679"/>
+  <cosponsors>
+    <cosponsor id="300064" joined="1988-08-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Subcommittee on Consumer. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSCM03" subcommittee="Consumer" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Fires"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Fire prevention"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Public safety"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1988--Introduced.
+Amends the Federal Fire Prevention and Control Act of 1974 to authorize appropriations for FY 1989 through 1991.</summary>
+</bill>

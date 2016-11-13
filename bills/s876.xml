@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="876" updated="2014-03-22T09:55:02-04:00">
+  <state datetime="1987-03-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-27"/>
+  </status>
+  <introduced datetime="1987-03-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958, relating to small community air service.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="403669" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee on Aviation. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSCM01" subcommittee="Aviation" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Aviation policy"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Sparsely populated areas"/>
+  </subjects>
+  <amendments/>
+  <summary>3/27/1987--Introduced.
+Amends the Federal Aviation Act of 1958 to authorize the Secretary of Transportation to enter into contracts with air carriers for the provision of essential air service to small communities. Prescribes guidelines for such contracts. Authorizes appropriations. States that this Act shall terminate upon the expiration of the ten-year period following the date of its enactment.</summary>
+</bill>

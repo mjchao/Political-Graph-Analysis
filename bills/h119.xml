@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="119" updated="2014-03-22T09:51:09-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the estate and gift taxes and the tax on generation-skipping transfers.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors>
+    <cosponsor id="400567" joined="1987-01-06"/>
+    <cosponsor id="401383" joined="1987-01-06"/>
+    <cosponsor id="403545" joined="1987-01-06"/>
+    <cosponsor id="406530" joined="1987-01-06"/>
+    <cosponsor id="300155" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Estate tax"/>
+    <term name="Gift tax"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Internal Revenue Code to repeal the estate tax, the gift tax, and the tax on generation-skipping transfers.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="100" type="hj" number="673" updated="2014-03-22T09:54:04-04:00">
+  <state datetime="1988-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution to provide for the direct popular election of the President and Vice President of the United States.</title>
+  </titles>
+  <sponsor id="404602"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-05" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="5"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Presidential elections"/>
+    <term name="Vice Presidential elections"/>
+    <term name="Vice Presidents"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Introduced.
+Constitutional Amendment - Provides that the people of the several States and the District of Columbia shall elect the President and Vice President. Requires the electors of President and Vice President in each State to have the qualifications requisite for congressional electors from that State, except that for electors of President and Vice President the legislature of any State may prescribe less restrictive residence qualifications and the Congress may establish uniform residence and age qualifications. Provides that the persons having the greatest number of votes for President and Vice President shall be elected, if such number be at least 40 percent of the whole number of votes cast. Provides that if no person has such number, a runoff election shall be held in which the choice of President and Vice President shall be made from the persons who received the two highest number of votes. Requires the days for such elections to be determined by the Congress. Requires the Congress to prescribe by law the time, place, and manner in which the results of such elections shall be ascertained and declared. Requires each elector to cast a single vote jointly applicable to President and Vice President. Allows the Congress to provide for the case of the death of any candidate for President or Vice President before the day on which the President-elect or Vice President-elect has been chosen, and for the case of a tie in any election.</summary>
+</bill>

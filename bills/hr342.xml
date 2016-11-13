@@ -1,0 +1,39 @@
+<bill session="100" type="hr" number="342" updated="2014-03-22T09:50:59-04:00">
+  <state datetime="1987-12-21">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-12-21"/>
+  </status>
+  <introduced datetime="1987-12-21"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of a resolution reported by the Committee on Rules providing for the consideration of the conference report on the joint resolution (H.J. Res. 395) making further continuing appropriations for fiscal year 1988, and for other purposes.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-21">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-493.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>Placed on House Calendar No: 123.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/1987--Introduced.
+Sets forth the rule for the consideration of a report from the Committee on Rules providing for the consideration of the conference report on H.J. Res. 395 (continuing appropriations).</summary>
+</bill>

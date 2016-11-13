@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4539" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-05"/>
+  </status>
+  <introduced datetime="1988-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Act of August 24, 1935, to require payment bonds for all contracts with the United States.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-05" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Defense contracts"/>
+    <term name="Department of Transportation"/>
+    <term name="Government contractors"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Public works"/>
+    <term name="Surety and fidelity"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1988--Introduced.
+Amends the Miller Act to require payment bonds for contracts and subcontracts with the United States which exceed $25,000 in amount. (Current provisions require payment bonds for such contracts for the construction, alteration, or repair of any public building or public work.) Sets forth the rights of subcontractors under payment bonds. Repeals the right of the armed forces and the Department of Transportation to waive payment bond requirements.</summary>
+</bill>

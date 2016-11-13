@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="707" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Department of the Interior and Related Agencies Appropriations Act, 1987 to assure the maintenance of learning opportunities at urban parks on a cost-free basis.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="300092" joined="1987-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Urban affairs"/>
+    <term name="Urban areas"/>
+    <term name="Urban life"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Amends the Department of the Interior and Related Agencies Appropriations Act, 1987 to require that no admission fee be charged for activities of significant educational or cultural value offered at urban parks.</summary>
+</bill>

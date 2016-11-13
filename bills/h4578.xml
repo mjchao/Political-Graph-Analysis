@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="4578" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-11"/>
+  </status>
+  <introduced datetime="1988-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Sodbuster Reform and Moratorium Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Food Security Act of 1985 to provide an additional exemption to program ineligibility for production on highly erodible land, and to provide a two-year moratorium on that program ineligibility while its effects are studied.</title>
+  </titles>
+  <sponsor id="408109"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="1988-06-01"/>
+    <cosponsor id="400076" joined="1988-06-01"/>
+    <cosponsor id="400409" joined="1988-06-07"/>
+    <cosponsor id="411065" joined="1988-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-11" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Social welfare"/>
+    <term name="Soil conservation"/>
+    <term name="Soil erosion"/>
+  </subjects>
+  <amendments>
+    <amendment number="h706"/>
+  </amendments>
+  <summary>5/11/1988--Introduced.
+Sodbuster Reform and Moratorium Act of 1988 - Amends the Food Security Act of 1985 to provide an exemption to agricultural program ineligibility for production on highly erodible land for land continuously owned by a person who was and still is an active agricultural producer, and who was at least 60 years old at the time of enactment of such Act. Extends for two years the current program ineligibility exemptions. Requires the Secretary of Agriculture to report to the Congress regarding the highly erodible land conservation program.</summary>
+</bill>

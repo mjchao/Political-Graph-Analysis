@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="1317" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Energy Reorganization Act of 1974, as amended, to clarify notification requirements for noncompliance, and for other purposes.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>For Further Action See H.R.2683.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2683"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear power plant accidents"/>
+    <term name="Nuclear power plants"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Safety measures"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Amends the Energy Reorganization Act of 1974 to require any firm constructing, owning, operating, or supplying the components of any facility or activity regulated under the Atomic Energy Act of 1954 (including any individual officer of such firm) to notify immediately the Nuclear Regulatory Commission of defective components which could create a substantial safety hazard. Authorizes the Commission to issue regulations to assure compliance with such notice requirements. Subjects firms which fail to provide such requisite notice to specified civil penalties.</summary>
+</bill>

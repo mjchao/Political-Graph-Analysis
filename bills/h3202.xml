@@ -1,0 +1,92 @@
+<bill session="100" type="h" number="3202" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Coastal Zone Management Act of 1972 regarding activities directly affecting the coastal zone.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1987-08-07"/>
+    <cosponsor id="401310" joined="1987-08-07"/>
+    <cosponsor id="401363" joined="1987-10-07"/>
+    <cosponsor id="400025" joined="1987-08-07"/>
+    <cosponsor id="401585" joined="1987-08-07"/>
+    <cosponsor id="300011" joined="1987-08-07"/>
+    <cosponsor id="300019" joined="1987-11-17"/>
+    <cosponsor id="403776" joined="1988-02-09"/>
+    <cosponsor id="404002" joined="1987-08-07"/>
+    <cosponsor id="404190" joined="1987-08-07"/>
+    <cosponsor id="404733" joined="1987-10-07"/>
+    <cosponsor id="405775" joined="1987-08-07"/>
+    <cosponsor id="405887" joined="1987-08-07"/>
+    <cosponsor id="400231" joined="1987-08-07"/>
+    <cosponsor id="406729" joined="1987-08-07"/>
+    <cosponsor id="406730" joined="1987-10-07"/>
+    <cosponsor id="406765" joined="1987-08-07"/>
+    <cosponsor id="406968" joined="1987-08-07"/>
+    <cosponsor id="406974" joined="1987-08-07"/>
+    <cosponsor id="407051" joined="1987-10-07"/>
+    <cosponsor id="400278" joined="1987-08-07"/>
+    <cosponsor id="407721" joined="1987-10-07"/>
+    <cosponsor id="407772" joined="1988-05-03"/>
+    <cosponsor id="407960" joined="1987-11-17"/>
+    <cosponsor id="300078" joined="1987-10-07"/>
+    <cosponsor id="400601" joined="1987-10-07"/>
+    <cosponsor id="400314" joined="1987-08-07"/>
+    <cosponsor id="408621" joined="1988-03-09"/>
+    <cosponsor id="400369" joined="1987-08-07"/>
+    <cosponsor id="410066" joined="1987-10-07"/>
+    <cosponsor id="400387" joined="1987-08-07"/>
+    <cosponsor id="410496" joined="1987-08-07"/>
+    <cosponsor id="400425" joined="1987-11-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-08-19">
+      <text>Executive Comment Requested from Interior, Commerce, Navy,, Army Corps of Engineers, DOT, DOD,, USDA, EPA, GSA.</text>
+    </action>
+    <action datetime="1987-08-19">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-01-15">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1988-02-09">
+      <text>Unfavorable Executive Comment Received From DOT.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3155"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Coastal zone"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Federal-state relations"/>
+    <term name="Ocean"/>
+    <term name="Seashores"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Amends the Coastal Zone Management Act of 1972 to prescribe the extent to which Federal agency activities directly affecting the coastal zones must be consistent with approved State management programs. Allows Federal activities to be inconsistent with State coastal zone management programs only if to be consistent would violate Federal law or if substantial unforeseen obstacles are encountered. Describes what is encompassed by "directly affecting activities."</summary>
+</bill>

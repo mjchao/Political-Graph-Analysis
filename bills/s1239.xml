@@ -1,0 +1,51 @@
+<bill session="100" type="s" number="1239" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-20"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 with respect to the treatment of certain short-term loans.</title>
+  </titles>
+  <sponsor id="400927"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-07-01"/>
+    <cosponsor id="403171" joined="1987-06-10"/>
+    <cosponsor id="300031" joined="1987-05-20"/>
+    <cosponsor id="403669" joined="1987-05-20"/>
+    <cosponsor id="403962" joined="1988-05-09"/>
+    <cosponsor id="300048" joined="1987-06-10"/>
+    <cosponsor id="406183" joined="1987-08-06"/>
+    <cosponsor id="300079" joined="1987-07-30"/>
+    <cosponsor id="408898" joined="1987-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee on Taxation and Debt Management. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFI06" subcommittee="Taxation and Debt Management" name="Senate Finance"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Bank loans"/>
+    <term name="Capital gains tax"/>
+    <term name="Debt"/>
+    <term name="Discount rate"/>
+    <term name="Finance and financial sector"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Tax deductions"/>
+    <term name="Tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/1987--Introduced.
+Amends the Internal Revenue Code to provide that certain short-term loans made in the ordinary course of business of a taxpayer bank or other financial institution that does not use an accrual method of accounting shall not be subject to requirements governing: (1) the current inclusion in gross income of the discount on such obligations; and (2) the deferral of the deduction for net direct interest expenses allocable to the accrued discount on such obligations. Applies these amendments to loans acquired after July 18, 1984. Amends the Tax Reform Act of 1986 (Act) to apply requirements relating to the accrual of interest payments on certain short-term obligations to obligations acquired after October 22, 1986 (thus removing the retroactivity of the Act, which made these requirements applicable to obligations acquired after September 27, 1985).</summary>
+</bill>

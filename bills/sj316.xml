@@ -1,0 +1,38 @@
+<bill session="100" type="sj" number="316" updated="2016-06-29T08:45:10-04:00">
+  <state datetime="1988-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating October 1, 1988, as "National Quality First Day".</title>
+  </titles>
+  <sponsor id="409580"/>
+  <cosponsors>
+    <cosponsor id="403142" joined="1988-06-15"/>
+    <cosponsor id="404679" joined="1988-05-12"/>
+    <cosponsor id="300056" joined="1988-06-29"/>
+    <cosponsor id="400563" joined="1988-06-29"/>
+    <cosponsor id="300089" joined="1988-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="365"/>
+    <bill relation="identical" session="100" type="hj" number="365"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Quality of products"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1988--Introduced.
+Designates October 1, 1988, as National Quality First Day.</summary>
+</bill>

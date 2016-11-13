@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="2814" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-26"/>
+  </status>
+  <introduced datetime="1987-06-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize certain elements of the Yakima River Basin Water Enhancement Project, and for other purposes.</title>
+  </titles>
+  <sponsor id="407967"/>
+  <cosponsors>
+    <cosponsor id="410567" joined="1987-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-26" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1435"/>
+    <bill relation="identical" session="100" type="s" number="1435"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Canals"/>
+    <term name="Dams"/>
+    <term name="Irrigation"/>
+    <term name="Reservoirs"/>
+    <term name="Washington State"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/1987--Introduced.
+Authorizes the Secretary of the Interior to design, construct, operate, and maintain the following features of the Yakima River Basin Water Enhancement Project: (1) modification of existing radial gates at Cle Elum Dam; (2) a Kachess Lake to Keechelus Lake pipeline; (3) a reregulating reservoir of the Roza Division; and (4) facilities to automate and otherwise improve canal operations of the Sunnyside Division and the Wapato Indian Project; (5) facilities to automate the headgate, wasteways, and trashrack of the Chandler Power Canal to maintain operating controls for the Kennewick Irrigation District; and (6) storage facilities at the Cabin Creek site pending a preliminary analysis, a specified report to the Congress, and secretarial approval. Directs the Secretary to develop and submit a plan to the Congress for water conservation measures by recipients of irrigation water from the Yakima Enhancement Project. Authorizes appropriations. Requires non-Federal interests to fund 35 percent of construction costs. Authorizes appropriations to the Secretary for a feasibility study of certain other potential elements of the Yakima Enhancement Project.</summary>
+</bill>

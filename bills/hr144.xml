@@ -1,0 +1,76 @@
+<bill session="100" type="hr" number="144" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that the United States should condemn nations which continue to flagrantly violate the United Nations arms embargo of South Africa.</title>
+  </titles>
+  <sponsor id="403695"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="1987-08-05"/>
+    <cosponsor id="402763" joined="1987-08-05"/>
+    <cosponsor id="400080" joined="1987-08-05"/>
+    <cosponsor id="403364" joined="1987-08-06"/>
+    <cosponsor id="403904" joined="1988-03-08"/>
+    <cosponsor id="404006" joined="1987-08-05"/>
+    <cosponsor id="404422" joined="1987-08-05"/>
+    <cosponsor id="404752" joined="1987-08-05"/>
+    <cosponsor id="405256" joined="1987-08-05"/>
+    <cosponsor id="400595" joined="1987-08-05"/>
+    <cosponsor id="407672" joined="1987-08-05"/>
+    <cosponsor id="407960" joined="1987-08-05"/>
+    <cosponsor id="400299" joined="1987-08-05"/>
+    <cosponsor id="400306" joined="1987-08-05"/>
+    <cosponsor id="400333" joined="1987-09-17"/>
+    <cosponsor id="409446" joined="1987-08-05"/>
+    <cosponsor id="409593" joined="1987-08-06"/>
+    <cosponsor id="400409" joined="1987-08-05"/>
+    <cosponsor id="411025" joined="1987-08-05"/>
+    <cosponsor id="411488" joined="1987-08-05"/>
+    <cosponsor id="400614" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Referred to Subcommittee on Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA08" subcommittee="Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Apartheid"/>
+    <term name="Arms sales"/>
+    <term name="Commercial blacklisting"/>
+    <term name="Embargo"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="France"/>
+    <term name="Great Britain"/>
+    <term name="Human rights"/>
+    <term name="Israel"/>
+    <term name="Italy"/>
+    <term name="Netherlands"/>
+    <term name="Sanctions (International law)"/>
+    <term name="Science and technology"/>
+    <term name="South Africa"/>
+    <term name="Switzerland"/>
+    <term name="Technology transfer"/>
+    <term name="United Nations"/>
+    <term name="West Germany"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Expresses the sense of the House of Representatives that the President should: (1) condemn France, Italy, Israel, West Germany, the United Kingdom, the Netherlands, and Switzerland for their continued violations of United Nations Resolution 418 (calling for an arms embargo against South Africa); (2) call upon such nations to halt any further sale of weapons or military-related equipment or transfer of military technology to South Africa; (3) commend any actions taken thus far by these governments to sever economic and military ties with South Africa; and (4) urge these nations to place pressure on the Government of South Africa to dismantle the system of apartheid.</summary>
+</bill>

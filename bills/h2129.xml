@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="2129" updated="2014-03-22T09:52:13-04:00">
+  <state datetime="1987-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-22"/>
+  </status>
+  <introduced datetime="1987-04-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to require the establishment of procedures to assure that benefit payments will not be made thereunder to deceased individuals.</title>
+  </titles>
+  <sponsor id="406746"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-22" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Census and Statistics"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Vital statistics"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to require the Secretary of Health and Human Services to take affirmative measures to assure that OASDI benefits are not paid to deceased individuals. Requires, if practicable, that such measures include having State or local officials who are responsible for issuing death certificates or recording deaths periodically provide the Secretary with the names of the deceased within their jurisdiction.</summary>
+</bill>

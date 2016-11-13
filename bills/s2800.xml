@@ -1,0 +1,77 @@
+<bill session="100" type="s" number="2800" updated="2014-03-22T09:55:55-04:00">
+  <state datetime="1988-10-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-18"/>
+  </status>
+  <introduced datetime="1988-09-16"/>
+  <titles>
+    <title type="official" as="introduced">An original bill to amend the Nuclear Waste Policy Act of 1982 with respect to the Office of Nuclear Waste Negotiator and the Monitored Retrievable Storage Commission.</title>
+  </titles>
+  <sponsor id="406084"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Committee on Energy and Natural Resources ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1988-09-16">
+      <text>Committee on Energy and Natural Resources. Original measure reported to Senate by Senator Johnston. With written report No. 100-517.</text>
+    </action>
+    <calendar datetime="1988-09-16" calendar="Senate Legislative" under="General Orders" number="950">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 950.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="411" datetime="1988-10-04" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Yea-Nay Vote: 419 - 0 (Record Vote No: 411).</text>
+    </vote>
+    <topresident datetime="1988-10-04">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-06">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-507" type="public" datetime="1988-10-18">
+      <text>Became Public Law No: 100-507.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4689"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Congressional oversight"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive reorganization"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Nuclear energy"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1988--Introduced.
+Amends the Nuclear Waste Policy Act of 1982 to establish the Office of the Nuclear Waste Negotiator as an independent establishment in the executive branch. (Currently such office is part of the Executive Office of the President.) Extends from June 1, 1989, to November 1, 1989, the deadline by which the Monitored Retrievable Storage Commission must report to the Congress regarding the need for a monitored retrievable storage facility as part of a national nuclear waste management system.</summary>
+</bill>

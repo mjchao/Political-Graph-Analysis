@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="716" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 with respect to the allocation of research and experimental expenditures.</title>
+  </titles>
+  <sponsor id="411271"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-03-11"/>
+    <cosponsor id="300005" joined="1987-03-11"/>
+    <cosponsor id="401604" joined="1987-03-11"/>
+    <cosponsor id="402412" joined="1987-03-11"/>
+    <cosponsor id="403171" joined="1987-03-11"/>
+    <cosponsor id="403669" joined="1987-03-11"/>
+    <cosponsor id="405321" joined="1987-03-11"/>
+    <cosponsor id="300064" joined="1987-03-17"/>
+    <cosponsor id="300071" joined="1987-03-17"/>
+    <cosponsor id="400563" joined="1987-03-11"/>
+    <cosponsor id="408939" joined="1987-03-11"/>
+    <cosponsor id="409225" joined="1987-03-11"/>
+    <cosponsor id="300084" joined="1987-03-11"/>
+    <cosponsor id="400565" joined="1987-03-11"/>
+    <cosponsor id="410588" joined="1987-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1987-04-03">
+      <text>Subcommittee on Taxation and Debt Management. Hearings held. Hearings printed:  S.Hrg. 100-156.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFI06" subcommittee="Taxation and Debt Management" name="Senate Finance"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Income tax"/>
+    <term name="Research and development"/>
+    <term name="Science and technology"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Amends the Internal Revenue Code to require deductions for research and experimental expenditures to be allocated to income from sources within the United States. Repeals a provision of the Tax Reform Act of 1986 which establishes a one-year requirement that 50 percent of such expenditures be allocated to U.S. income and the remainder on the basis of gross sales or gross income.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="784" updated="2014-03-22T09:51:33-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Supplementary Medical Insurance Improvements Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend part B of the Social Security Act to provide for two additional voluntary insurance options for medicare beneficiaries permitting coverage of certain gaps in medicare coverage and covering selected outpatient prescription drugs for the treatment of chronic illness.</title>
+  </titles>
+  <sponsor id="401585"/>
+  <cosponsors>
+    <cosponsor id="401418" joined="1987-04-08"/>
+    <cosponsor id="400211" joined="1987-04-08"/>
+    <cosponsor id="410531" joined="1987-04-08"/>
+    <cosponsor id="400409" joined="1987-04-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Catastrophic health insurance"/>
+    <term name="Drugs"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospital care"/>
+    <term name="Hospitals"/>
+    <term name="Medical economics"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Supplementary Medical Insurance Improvements Act of 1987 - Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to provide the following insurance options to an enrollee automatically, unless the enrollee specifically declines to be covered under this Act: (1) the elimination of the limitation on the number of days of inpatient hospital services provided under part A (Hospital Insurance) of title XVIII; (2) the elimination of coinsurance imposed for inpatient hospital services over 60 days under part A; and (3) payment for 100 percent, instead of 80 percent, of the reasonable charges for part B benefits. Directs the Secretary of Health and Human Services to annually determine the monthly actuarial rate for enrollees under the above provisions and sets the premium for the above benefits at that rate. Provides part B enrollees with automatic coverage, unless specifically denied, of medical expenses for prescription drugs for the treatment of chronic illness. Directs the Secretary to: (1) annually establish a prospective payment schedule which establishes the payment to be made for such expenses; (2) establish, by therapeutic category, a formulary of the drugs and biologicals necessary for treatment of a chronic disease; and (3) annually determine the monthly actuarial rate for the coverage of such expenses. Sets the premium at such actuarial rate. Directs the Secretary to report to the Congress on alternatives for reducing the cost-sharing burdens placed by Medicare on individuals entitled to its benefits.</summary>
+</bill>

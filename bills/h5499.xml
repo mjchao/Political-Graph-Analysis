@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="5499" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-11"/>
+  </status>
+  <introduced datetime="1988-10-11"/>
+  <titles>
+    <title type="short" as="introduced">AM Radio Improvement Act of 1988</title>
+    <title type="official" as="introduced">A bill to require the Federal Communications Commission to prescribe standards for AM stereo radio broadcasting.</title>
+  </titles>
+  <sponsor id="409237"/>
+  <cosponsors>
+    <cosponsor id="409251" joined="1988-10-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-11" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-11-01">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Radio"/>
+    <term name="Radio broadcasting"/>
+    <term name="Standards"/>
+    <term name="Stereophonic sound systems"/>
+  </subjects>
+  <amendments/>
+  <summary>10/11/1988--Introduced.
+AM Radio Improvement Act of 1988 - Directs the Federal Communications Commission, within 60 days after this Act's enactment, to initiate rulemaking to adopt a single AM radio stereophonic transmitting equipment standard (to be adopted within six months of this Act's enactment) that specifies the composition of the transmitted signal.</summary>
+</bill>

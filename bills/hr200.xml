@@ -1,0 +1,50 @@
+<bill session="100" type="hr" number="200" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-17"/>
+  </status>
+  <introduced datetime="1987-06-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution referring the bill (H.R. 2098) for the relief of Frederick Paul of Seattle, Washington, to the chief judge of the United States Claims Court.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-17" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-19">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-876.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Placed on Private Calendar No: 75.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Recommitted by House to House Committee on The Judiciary by Virtue of Objection Made on Call of Private Calendar.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Re-Commitment, Reporting"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/1987--Introduced.
+Refers H.R. 2098, a bill for the relief of a named individual, to the chief judge of the United States Claims Court.</summary>
+</bill>

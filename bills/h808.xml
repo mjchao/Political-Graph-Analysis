@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="808" updated="2014-03-22T09:51:34-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to make permanent the small community air service program.</title>
+  </titles>
+  <sponsor id="410097"/>
+  <cosponsors>
+    <cosponsor id="403203" joined="1987-05-18"/>
+    <cosponsor id="411166" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Unfavorable Executive Comment Received From DOT.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Aviation policy"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Sparsely populated areas"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Amends the Federal Aviation Act of 1958 to repeal the sunset provisions for the small community air service program (thereby making such program permanent).</summary>
+</bill>

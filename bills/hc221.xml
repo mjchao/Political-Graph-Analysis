@@ -1,0 +1,42 @@
+<bill session="100" type="hc" number="221" updated="2014-03-22T09:54:10-04:00">
+  <state datetime="1987-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-20"/>
+  </status>
+  <introduced datetime="1987-11-20"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing concern over the condition of human rights in the Socialist Federal Republic of Yugoslavia.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-20" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-12-23">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Human rights"/>
+    <term name="Political prisoners"/>
+    <term name="Treaties"/>
+    <term name="Yugoslavia"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/1987--Introduced.
+Expresses congressional concern over the human rights conditions in Yugoslavia, and over the failure of the Government of Yugoslavia to protect and represent its non-Socialist population. Urges the Government of Yugoslavia to abide by the statements of human rights contained in the United Nations Universal Declaration of Human Rights and other specified documents which that Government has signed. Calls upon the Government of Yugoslavia to review all current cases of political persecution, harassment, and incarceration for nonviolent expression of human rights.</summary>
+</bill>

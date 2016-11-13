@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="3967" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-03-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-03-29"/>
+  </status>
+  <introduced datetime="1988-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Department of Defense Authorization Act, 1985, to extend medical benefits for certain former spouses.</title>
+  </titles>
+  <sponsor id="402159"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-09">
+      <text>House Committee on Armed Services Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-03-09">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-09" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-14">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1988-03-16" calendar="Senate Legislative" under="General Orders" number="588">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 588.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-03-17" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-03-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-03-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-03-22">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-03-29" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-271" type="public" datetime="1988-03-29">
+      <text>Became Public Law No: 100-271.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Divorcees"/>
+    <term name="Health"/>
+    <term name="Military dependents"/>
+    <term name="Military medicine"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/1988--Introduced.
+Amends the Department of Defense Authorization Act, 1985 to extend until December 31, 1988, the date up to which a former spouse may receive a final decree of divorce and still be considered a dependent of a member of the armed forces and therefore still eligible for medical benefits as a military dependent.</summary>
+</bill>

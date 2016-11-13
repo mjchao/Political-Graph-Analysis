@@ -1,0 +1,55 @@
+<bill session="100" type="hc" number="393" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-10-20">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-10-20"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution in support of democracy in Hong Kong.</title>
+  </titles>
+  <sponsor id="400604"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-10-20"/>
+    <cosponsor id="401628" joined="1988-10-21"/>
+    <cosponsor id="403545" joined="1988-10-20"/>
+    <cosponsor id="400140" joined="1988-10-20"/>
+    <cosponsor id="404733" joined="1988-10-21"/>
+    <cosponsor id="300055" joined="1988-10-20"/>
+    <cosponsor id="406530" joined="1988-10-20"/>
+    <cosponsor id="400595" joined="1988-10-21"/>
+    <cosponsor id="409325" joined="1988-10-21"/>
+    <cosponsor id="409400" joined="1988-10-21"/>
+    <cosponsor id="400425" joined="1988-10-20"/>
+    <cosponsor id="411901" joined="1988-10-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-20" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-11-07">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-11-07">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Capitalism"/>
+    <term name="China"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Great Britain"/>
+    <term name="Hong Kong"/>
+    <term name="Legislative bodies"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1988--Introduced.
+Declares that it is in the U.S. national interest that there be freely elected democratic institutions established in Hong Kong before 1997. Urges the British Government to ensure that the 1991 elections to the Legislative Council involve all members of such Council or a higher proportion than the ten currently planned. Calls upon the President to communicate to the People's Republic of China and the British Government the importance to the United States of the promises made regarding democratic rights and the retention of Hong Kong's capitalist system.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="1562" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1987-03-12">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-03-12"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make permanent certain authority of the National Credit Union Administration Board.</title>
+  </titles>
+  <sponsor id="410231"/>
+  <cosponsors>
+    <cosponsor id="411929" joined="1987-03-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>House Committee on Banking, Finance and Urban Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-03-12" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-03-13">
+      <text>Received in the Senate and read twice and referred to the Committee on Banking.</text>
+    </action>
+    <action datetime="1987-03-23">
+      <text>Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSBA07" subcommittee="Financial Institutions Supervision, Regulation and Insurance" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank failures"/>
+    <term name="Bank mergers"/>
+    <term name="Credit unions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Amends the Garn-St Germain Depository Institutions Act of 1982 to repeal the termination date of the authority of the National Credit Union Administration Board to: (1) authorize the merger or consolidation of an insured credit union or institution with an insured credit union that is insolvent or in danger of insolvency; and (2) act as conservator for a troubled credit union.</summary>
+</bill>

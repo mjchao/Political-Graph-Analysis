@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="4460" updated="2014-03-22T09:53:17-04:00">
+  <state datetime="1988-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-26"/>
+  </status>
+  <introduced datetime="1988-04-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to remove unnecessary restrictions on the documentation of certain vessels, and for other purposes.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1988-04-26"/>
+    <cosponsor id="406746" joined="1988-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-26" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Coastwise shipping"/>
+    <term name="Licenses"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Vessel documentation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/1988--Introduced.
+Amends the Merchant Marine Act, 1920 to restrict to vessels of 100 gross tons or more provisions which prohibit vessels which once acquired, through specified means, the right to engage in the coastwise trade, and which were later sold foreign or placed under foreign registry, from reacquiring the right to engage in the coastwise trade.</summary>
+</bill>

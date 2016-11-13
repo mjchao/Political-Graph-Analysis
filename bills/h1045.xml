@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="1045" updated="2014-03-22T09:51:40-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Agricultural Disaster Assistance Program Act of 1987</title>
+    <title type="official" as="introduced">A bill to prohibit county committees under certain circumstances from reducing farm program payment yields for purposes of calculating deficiency payments.</title>
+  </titles>
+  <sponsor id="411585"/>
+  <cosponsors>
+    <cosponsor id="404602" joined="1987-02-05"/>
+    <cosponsor id="300083" joined="1987-02-05"/>
+    <cosponsor id="409966" joined="1987-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral, Hearings" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agricultural societies"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Cotton"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Feed grain program"/>
+    <term name="Rice"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Agricultural Disaster Assistance Program Act of 1987 - Amends the Agricultural Act of 1949, effective for the 1987 crops of wheat, feed grains, upland cotton, and rice, to prohibit county committees from reducing farm program payment yields in calculating deficiency payments if: (1) producers are eligible for certain emergency disaster assistance; and (2) such producers have used planting methods not ordinarily used as a result of the disaster.</summary>
+</bill>

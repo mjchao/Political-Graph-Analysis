@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="89" updated="2014-03-22T09:51:08-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that the recreation portions of the project for Cooper Lake and Channels, Texas, shall be constructed at full Federal expense.</title>
+  </titles>
+  <sponsor id="402454"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-04-17">
+      <text>Executive Comment Requested from OMB, Army.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Lakes"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="Texas"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Provides that the recreation portions of the project for Cooper Lake and Channels, Texas, shall be constructed at full Federal expense.</summary>
+</bill>

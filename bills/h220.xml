@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="220" updated="2014-03-22T09:51:13-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide reduced rates for nonprofit senior citizens organizations.</title>
+  </titles>
+  <sponsor id="408976"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Postal Operations and Services.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Executive Comment Requested from OMB, US Postal Service.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO06" subcommittee="Postal Operations and Services" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Old age assistance"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal rates and revenues"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Entitles a qualified nonprofit senior citizen organization to the reduced third-class postal rates in effect for other qualified nonprofit organizations.</summary>
+</bill>

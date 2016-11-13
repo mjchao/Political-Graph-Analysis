@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="354" updated="2014-03-22T09:51:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Contract Work Hours and Safety Standards Act and the Walsh-Healey Act to permit employees, to whom such Acts apply, to work any combination of hours in a forty-hour workweek.</title>
+  </titles>
+  <sponsor id="405006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Labor Standards.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED03" subcommittee="Labor Standards" name="House Education and Labor"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Construction industries"/>
+    <term name="Flexible work hours"/>
+    <term name="Government operations and politics"/>
+    <term name="Hours of labor"/>
+    <term name="Overtime"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Contract Work Hours and Safety Standards Act and the Walsh-Healey Act to permit employees covered by such Acts to work any combination of hours in a 40-hour workweek.</summary>
+</bill>

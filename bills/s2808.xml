@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="2808" updated="2014-03-22T09:55:55-04:00">
+  <state datetime="1988-09-19">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-19"/>
+  </status>
+  <introduced datetime="1988-09-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 3104 of title 38, United States Code, to permit service-connected disabled veterans who are retired members of the Armed Forces to receive compensation concurrently with retired pay after a reduction of 80 percent in either the amount of compensation or retired pay.</title>
+  </titles>
+  <sponsor id="407268"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-09-19"/>
+    <cosponsor id="402023" joined="1988-09-19"/>
+    <cosponsor id="300031" joined="1988-09-19"/>
+    <cosponsor id="405310" joined="1988-10-07"/>
+    <cosponsor id="300056" joined="1988-10-07"/>
+    <cosponsor id="407622" joined="1988-09-19"/>
+    <cosponsor id="400563" joined="1988-09-19"/>
+    <cosponsor id="408939" joined="1988-10-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Committee on Veterans requested executive comment from VA, OMB, Defense Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military pensions"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/19/1988--Introduced.
+Permits certain veterans with service-connected disabilities who are retired members of the uniformed services to receive compensation concurrently with retired pay, after a reduction of 80 percent in either the amount of compensation or the retired pay.</summary>
+</bill>

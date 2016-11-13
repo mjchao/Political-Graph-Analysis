@@ -1,0 +1,40 @@
+<bill session="100" type="hc" number="170" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-07-31">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-07-29"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution relative to adjournment to a date certain during the remainder of the 100th Congress.</title>
+  </titles>
+  <sponsor id="404193"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-29">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-07-31" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Introduced.
+Prescribes a procedure for an adjournment in excess of three days or for the sine die adjournment of the House of Representatives and the Senate for the remainder of the 100th Congress.</summary>
+</bill>

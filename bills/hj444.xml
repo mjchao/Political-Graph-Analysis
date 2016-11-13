@@ -1,0 +1,73 @@
+<bill session="100" type="hj" number="444" updated="2014-03-22T09:53:58-04:00">
+  <state datetime="1988-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-28"/>
+  </status>
+  <introduced datetime="1988-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution relating to Central America pursuant to H. J. Res. 395 of the 100th Congress.</title>
+  </titles>
+  <sponsor id="403769"/>
+  <cosponsors>
+    <cosponsor id="402435" joined="1988-01-28"/>
+    <cosponsor id="409060" joined="1988-01-28"/>
+    <cosponsor id="400377" joined="1988-01-28"/>
+    <cosponsor id="400389" joined="1988-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-28" state="REFERRED">
+      <text>Referred to House Committee on Intelligence (Permanent).</text>
+    </action>
+    <action datetime="1988-01-28">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-01-28">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-01-28">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>House Committee on Appropriations Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>House Committee on Armed Services Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>House Committee on Foreign Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>House Committee on Intelligence (Permanent) Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>Placed on Union Calendar No: 309.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>Considered by House Pursuant to Public Law 100-202.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>Failed of Passage in House by Yea-Nay Vote: 211 - 219 (Record Vote No: 7).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, Discharged"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, Discharged"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="243"/>
+    <bill relation="identical" session="100" type="sj" number="243"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Insurgency"/>
+    <term name="Nicaragua"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1988--Introduced.
+Approves the additional authority and assistance for the Nicaraguan resistance that the President requested pursuant to the Act making continuing appropriations for FY 1988.</summary>
+</bill>

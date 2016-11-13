@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2963" updated="2014-03-22T09:52:34-04:00">
+  <state datetime="1987-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-15"/>
+  </status>
+  <introduced datetime="1987-07-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that the basic pay of employees of the United States Army Corps of Engineers who are paid from Corps of Engineer Special Power Rate Schedules shall be consistent with the basic pay of certain other Federal employees.</title>
+  </titles>
+  <sponsor id="407967"/>
+  <cosponsors>
+    <cosponsor id="401155" joined="1987-09-15"/>
+    <cosponsor id="300029" joined="1987-07-15"/>
+    <cosponsor id="400100" joined="1987-10-14"/>
+    <cosponsor id="404193" joined="1987-07-15"/>
+    <cosponsor id="405006" joined="1987-11-04"/>
+    <cosponsor id="300100" joined="1987-10-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-15" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Army"/>
+    <term name="Civil engineering"/>
+    <term name="Civil service compensation"/>
+    <term name="Department of Defense"/>
+    <term name="Department of the Army"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/1987--Introduced.
+Requires the basic pay of employees of the United States Army Corps of Engineers who are paid from Corps of Engineer Special Power Rate Schedules to be adjusted annually to be consistent with the basic pay of employees of the Department of Energy and of the Department of the Interior who perform similar work in the corresponding area and whose basic pay rates are established in accordance with prevailing wage rates.</summary>
+</bill>

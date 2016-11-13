@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="1252" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-21"/>
+  </status>
+  <introduced datetime="1987-05-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to temporarily suspend the duty on certain chemicals.</title>
+  </titles>
+  <sponsor id="401709"/>
+  <cosponsors>
+    <cosponsor id="300064" joined="1987-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemicals"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/1987--Introduced.
+Amends the Tariff Schedules of the United States to suspend the duty on barbituric acid, 3-methyl-5-pyrazolone, and 3-methyl-1-(p-tolyl)-2-pyrazolin-5-one through December 31, 1990.</summary>
+</bill>

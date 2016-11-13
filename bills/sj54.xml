@@ -1,0 +1,43 @@
+<bill session="100" type="sj" number="54" updated="2014-03-22T09:54:19-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to provide for timely issuance of grants and loans by the Environmental Protection Agency under the Asbestos School Hazard Abatement Act of 1984 to ensure that eligible local educational agencies can complete asbestos abatement work in school buildings during the 1987 summer school recess.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-03-03"/>
+    <cosponsor id="403669" joined="1987-02-19"/>
+    <cosponsor id="404598" joined="1987-02-26"/>
+    <cosponsor id="300064" joined="1987-02-19"/>
+    <cosponsor id="400563" joined="1987-02-26"/>
+    <cosponsor id="410242" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="153"/>
+    <bill relation="identical" session="100" type="hj" number="153"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Asbestos"/>
+    <term name="Education"/>
+    <term name="Educational facilities"/>
+    <term name="Federal aid to education"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Directs the Administrator of the Environmental Protection Agency and other involved agencies to ensure that eligible local educational agencies receive financial assistance under the Asbestos School Hazard Abatement Act of 1984 in time to complete asbestos abatement work not later than the end of the 1987 summer school recess.</summary>
+</bill>

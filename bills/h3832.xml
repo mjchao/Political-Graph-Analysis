@@ -1,0 +1,71 @@
+<bill session="100" type="h" number="3832" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1987-12-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-21"/>
+  </status>
+  <introduced datetime="1987-12-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require that buses purchased with Federal funds be alcohol fueled, natural gas fueled, or LP-gas fueled, and for other purposes.</title>
+  </titles>
+  <sponsor id="400614"/>
+  <cosponsors>
+    <cosponsor id="403184" joined="1987-12-21"/>
+    <cosponsor id="407899" joined="1987-12-21"/>
+    <cosponsor id="409793" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-21" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-01-04">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1988-01-04">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1988-01-21">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-01-21">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Motor vehicles"/>
+    <term name="Air pollution control"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Gasoline"/>
+    <term name="Liquefied petroleum gas"/>
+    <term name="Mass rapid transit"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor bus lines"/>
+    <term name="Motor buses"/>
+    <term name="Motor vehicle pollution control"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Propane"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Transportation and Travel"/>
+    <term name="Trucks"/>
+    <term name="Urban affairs"/>
+    <term name="Urban transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/1987--Introduced.
+Mandates that any new bus acquired after October 1, 1991, for mass transportation operation predominantly in a nonattainment area (as defined under the Clean Air Act for ozone or any mobile-source pollutant) be operated exclusively on alcohol, natural gas, or LP gas. Directs the Secretary of Transportation to provide States with supplemental grants equal to 50 percent of the amount by which bus acquisition costs exceed the acquisition cost of a comparable diesel-fueled bus. Limits the number of buses covered by such grants to 1,000. Authorizes the Secretary to provide States with a supplemental grant for the purchase and installation of facilities to provide alcohol, natural gas, or LP-gas for such bus. Cites circumstances under which the Administrator of the Environmental Protection Agency may delay or suspend implementation of this Act. Authorizes appropriations for fiscal years after FY 1991.</summary>
+</bill>

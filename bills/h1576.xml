@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="1576" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1987-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to waive the time limitations relating to the award of the Congressional Medal of Honor to Tibor Rubin for distinguishing himself by acts of valor during the Korean war.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Unfavorable Executive Comment Received From Army.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Unfavorable Executive Comment Received From Army.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Military medals, decorations, etc."/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Waives time limitations relating to the award of a medal of honor to a named individual for distinguished service during the Korean War.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="3370" updated="2014-03-22T09:52:50-04:00">
+  <state datetime="1987-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-30"/>
+  </status>
+  <introduced datetime="1987-09-30"/>
+  <titles>
+    <title type="short" as="introduced">Iranian Trade Embargo Act</title>
+    <title type="official" as="introduced">A bill to require the President to prohibit the importation of all products of Iran so long as martial action by the Government of Iran poses an unacceptable threat to United States military personnel on duty in the Persian Gulf areas.</title>
+  </titles>
+  <sponsor id="300055"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-30" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="International affairs"/>
+    <term name="Iran"/>
+    <term name="Persian Gulf"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1987--Introduced.
+Iranian Trade Embargo Act - Requires the President to prohibit the importation of Iranian products if he considers that Iranian air or naval action or anticipated action poses an unacceptable threat to U.S. military personnel in the Persian Gulf. Requires the President to terminate such import restriction if he certifies to the Congress that: (1) Iran no longer engages in such action and is not likely to resume it; or (2) Iran did not, and is not likely to, engage in such anticipated action.</summary>
+</bill>

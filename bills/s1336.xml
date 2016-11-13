@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="1336" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-06-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-05"/>
+  </status>
+  <introduced datetime="1987-06-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the granting of diplomatic and consular privileges and immunities to offices of the Commission of the European Communities which are established in the United States.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-08-10">
+      <text>Committee on Foreign Relations requested executive comment from State Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1869"/>
+    <bill relation="identical" session="100" type="h" number="1869"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Diplomatic privileges and immunities"/>
+    <term name="Diplomats"/>
+    <term name="Europe"/>
+    <term name="International agencies"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/1987--Introduced.
+Authorizes the President to grant diplomatic and consular privileges and immunities to offices of the Commission of the European Communities which are established in the United States.</summary>
+</bill>

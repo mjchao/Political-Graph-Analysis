@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="2817" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-26"/>
+  </status>
+  <introduced datetime="1987-06-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to limit the promulgation of rules relating to impact aid payments pursuant to section 2 of Public Law 81-874.</title>
+  </titles>
+  <sponsor id="400359"/>
+  <cosponsors>
+    <cosponsor id="403726" joined="1987-06-26"/>
+    <cosponsor id="404009" joined="1987-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-26" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Administrative procedure"/>
+    <term name="Department of Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Impacted area programs"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/1987--Introduced.
+Prohibits the Secretary of Education, except as expressly provided by Act of Congress, from changing, amending, or modifying rules and regulations in effect on April 30, 1987, and issued pursuant to specified provisions of Federal law relating to impact aid payments.</summary>
+</bill>

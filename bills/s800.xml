@@ -1,0 +1,72 @@
+<bill session="100" type="s" number="800" updated="2014-03-22T09:55:01-04:00">
+  <state datetime="1987-06-04">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-04"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for fiscal year 1988 for certain maritime programs of the Department of Transportation and the Federal Maritime Commission.</title>
+  </titles>
+  <sponsor id="300012"/>
+  <cosponsors>
+    <cosponsor id="300094" joined="1987-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Subcommittee on Merchant Marine. Hearings held. Hearings printed: S.Hrg. 100-71.</text>
+    </action>
+    <calendar datetime="1987-06-04" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-10-06">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment. With written report No. 100-193.</text>
+    </action>
+    <calendar datetime="1987-10-06" calendar="Senate Legislative" under="General Orders" number="365">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 365.</text>
+    </calendar>
+    <action datetime="1987-11-03">
+      <text>Senate incorporated this measure in H.R. 953 as an amendment.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Senate passed companion measure H.R. 953 in lieu of this measure by Voice Vote.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Placed on Senate Legislative Calendar under Subjects on the Table.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSCM06" subcommittee="Merchant Marine" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="953"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Authorization"/>
+    <term name="Department of Transportation"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Federal Maritime Commission"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Government operations and politics"/>
+    <term name="Marine education"/>
+    <term name="Marine transportation"/>
+    <term name="Merchant marine"/>
+    <term name="Merchant ships"/>
+    <term name="New York State"/>
+    <term name="Ships and shipping"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Student aid"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1987--Reported to Senate amended.
+(Reported to Senate from the Committee on Commerce, Science, and Transportation, amended, S. Rept. 100-193) Authorizes appropriations for FY 1988 for the Maritime Administration and the Federal Maritime Commission. Amends the Merchant Marine Act, 1936 to revise the guidelines for student incentive payment agreements. Applies such revised guidelines to individuals who commence attendance after calendar year 1986 at a State maritime academy. Authorizes appropriations for the acquisition, conversion, and preconversion costs of a training vessel for the State University of New York Maritime College. States that funds appropriated for such vessel pursuant to the Second Supplemental Appropriations Act, 1984, shall be available in addition to the appropriations under this Act.</summary>
+</bill>

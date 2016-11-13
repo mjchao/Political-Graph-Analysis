@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="5295" updated="2014-03-22T09:53:36-04:00">
+  <state datetime="1988-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-14"/>
+  </status>
+  <introduced datetime="1988-09-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to retrocede to the Commonweath of Virginia concurrent power and jurisdiction of the United States to the lands known as the Lorton Reformatory Complex.</title>
+  </titles>
+  <sponsor id="408490"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-14" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Referred to Subcommittee on Judiciary and Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSDT03" subcommittee="Judiciary and Education" name="House District of Columbia"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Correctional institutions"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="District of Columbia"/>
+    <term name="Federal-state relations"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/1988--Introduced.
+Retrocedes from the United States to the Commonwealth of Virginia concurrent governmental, judicial, executive, and legislative power and jurisdiction over the lands known as the Lorton Reformatory Complex. Directs the Governor of Virginia and the Mayor of the District of Columbia, not later than six months after enactment of this Act, to enter into a cooperative agreement for the administration of the complex. Directs the Governor and Mayor to jointly submit the agreement to the Committee on the District of Columbia of the House of Representatives and the Committee on Governmental Affairs of the Senate.</summary>
+</bill>

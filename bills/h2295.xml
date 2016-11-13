@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="2295" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-06"/>
+  </status>
+  <introduced datetime="1987-05-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the 3-month holding period reqirement applicable to regulated investment companies.</title>
+  </titles>
+  <sponsor id="404163"/>
+  <cosponsors>
+    <cosponsor id="406284" joined="1987-05-06"/>
+    <cosponsor id="407457" joined="1987-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Income tax"/>
+    <term name="Investments"/>
+    <term name="Mutual funds"/>
+    <term name="Securities"/>
+    <term name="Stocks"/>
+    <term name="Tax administration"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/1987--Introduced.
+Repeals the Internal Revenue Code provision that precludes a corporation (mutual fund) from income tax treatment as a regulated investment company unless less than 30 percent of its gross income is derived from the sale or other disposition of stock or securities held for less than three months (thereby qualifying such companies for conduit treatment that taxes distributed income and gain at the shareholder level rather than at the corporate level).</summary>
+</bill>

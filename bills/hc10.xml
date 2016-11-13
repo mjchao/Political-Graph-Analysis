@@ -1,0 +1,52 @@
+<bill session="100" type="hc" number="10" updated="2014-03-22T09:54:04-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress with respect to Congressional action on the President's budget for fiscal year 1988 for activities related to the acquired immune deficiency.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-01-21"/>
+    <cosponsor id="401418" joined="1987-01-21"/>
+    <cosponsor id="400055" joined="1987-01-21"/>
+    <cosponsor id="300029" joined="1987-04-08"/>
+    <cosponsor id="403184" joined="1987-01-21"/>
+    <cosponsor id="404009" joined="1987-01-21"/>
+    <cosponsor id="404097" joined="1987-01-21"/>
+    <cosponsor id="406530" joined="1987-01-21"/>
+    <cosponsor id="406790" joined="1987-02-04"/>
+    <cosponsor id="400243" joined="1987-01-21"/>
+    <cosponsor id="407672" joined="1987-02-04"/>
+    <cosponsor id="400359" joined="1987-02-04"/>
+    <cosponsor id="410066" joined="1987-01-21"/>
+    <cosponsor id="400414" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Communicable diseases"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Medical research"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Expresses the sense of the Congress that the President's FY 1988 budget request for activities related to acquired immune deficiency syndrome should not be reduced.</summary>
+</bill>

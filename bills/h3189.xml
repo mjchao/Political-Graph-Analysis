@@ -1,0 +1,80 @@
+<bill session="100" type="h" number="3189" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-10-13">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-13"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="short" as="introduced">Health Services Research Extension Act of 1987</title>
+    <title type="short" as="reported to house">Health Services Research Extension Act of 1987</title>
+    <title type="short" as="passed house">Health Services Research Extension Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to revise and extend the program for the National Center for Health Services Research and Health Care Technology Assessment and the National Center for Health Statistics.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-09-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-09">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-364.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Placed on Union Calendar No: 224.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-15">
+      <text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-10-23">
+      <text>Committee on Labor and Human Resources requested executive comment from Department of Health and Human Services, OMB.</text>
+    </action>
+    <action datetime="1988-10-16">
+      <text>See H.R.1327.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1327"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Epidemiology"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to medical research"/>
+    <term name="Medical research"/>
+    <term name="Medical statistics"/>
+    <term name="Peer review organizations (Medicine)"/>
+    <term name="Rural public health"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1987--Passed House amended.
+(Measure passed House, amended) Health Services Research Extension Act of 1987 - Amends the Public Health Service Act to authorize appropriations for FY 1988 and 1989 for: (1) specified health service research, evaluation, and demonstration activities; and (2) specified health statistical and epidemiological activities. Sets forth requirements with respect to the use of funds for: (1) specified health care technology assessment activities provisions; and (2) the Council on Health Care Technology. Directs the Secretary, in carrying out provisions relating to research, evaluations, and demonstrations in health statistics, health services, and health care technology assessment, to undertake and support research, evaluation, and demonstration projects respecting the delivery of health care services in rural areas. Authorizes such projects to include, and requires them to be coordinated with, activities authorized by the Social Security Act and the Social Security Amendments of 1967. Revises the duties and composition of the National Advisory Council on Health Care Technology Assessment. Prohibits making certain health services, statistics, research, and demonstration grants and contracts unless they have been submitted to and recommended for approval by a peer review group. (Current law requires submission to a panel of experts.) Revises the amount of non-Federal contributions required for grants relating to the Council on Health Care Technology for FY 1988. Prohibits the Secretary, in carrying out provisions relating to the National Center for Health Services Research, from altering the administrative relationship between the Assistant Secretary for Health and the Director of the National Center for Health Services Research and Health Care Technology Assessment, as in effect during FY 1986.</summary>
+</bill>

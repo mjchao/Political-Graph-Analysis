@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="2082" updated="2016-06-29T08:42:58-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Federal Radioactive Waste Liability Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Price-Anderson provisions of the Atomic Energy Act of 1954 to establish liability and indemnification for nuclear incidents arising out of the storage, disposal, and transportation of radioactive waste to which the United States holds title.</title>
+  </titles>
+  <sponsor id="410567"/>
+  <cosponsors>
+    <cosponsor id="407967" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>See H.R.1414.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1414"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Evacuation of civilians"/>
+    <term name="Government contractors"/>
+    <term name="Government liability"/>
+    <term name="Government trust funds"/>
+    <term name="Liability for nuclear damages"/>
+    <term name="Nuclear energy"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation of hazardous substances"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Federal Radioactive Waste Liability Act of 1987 - Amends the Atomic Energy Act of 1954 to require the Secretary of Energy to enter into indemnification agreements with contractors regarding the transportation and disposal of radioactive waste to which the United States holds title. Requires such agreements to provide for the indemnification of persons to the full extent of the potential public liability for claims for nuclear incidents arising out of a contractual activity. Directs the Secretary to make certain indemnification payments out of the Nuclear Waste Fund. Provides for Federal indemnification for a precautionary evacuation undertaken as a result of a federally contracted radioactive waste disposal incident. Defines such a precautionary activity as an evacuation of the public within a specified area near a nuclear facility, or a nuclear transportation vehicle transporting waste to which the United States holds title, if the evacuation: (1) is the result of an event that poses imminent danger of injury or property damage from the radiological properties of such waste; and (2) is initiated by a public official authorized by State law to initiate such an evacuation. Applies the waiver of specified defenses to indemnity agreements entered into by the Nuclear Regulatory Commission regarding radioactive waste to which the United States holds title. States that: (1) radioactive waste to which the United States holds title may only be transported by a contractor of the Secretary of Energy; and (2) title to radioactive waste generated at a civilian facility shall transfer to the United States when such waste is removed from the site where it was generated.</summary>
+</bill>

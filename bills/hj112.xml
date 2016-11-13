@@ -1,0 +1,107 @@
+<bill session="100" type="hj" number="112" updated="2014-03-22T09:53:42-04:00">
+  <state datetime="1987-10-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-27"/>
+  </status>
+  <introduced datetime="1987-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to establish a United States Commission on Improving the Effectiveness of the United Nations.</title>
+  </titles>
+  <sponsor id="400236"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-10-14"/>
+    <cosponsor id="401231" joined="1987-08-07"/>
+    <cosponsor id="401310" joined="1987-09-25"/>
+    <cosponsor id="400025" joined="1987-10-13"/>
+    <cosponsor id="400572" joined="1987-04-22"/>
+    <cosponsor id="300019" joined="1987-10-01"/>
+    <cosponsor id="402600" joined="1987-04-22"/>
+    <cosponsor id="400080" joined="1987-09-10"/>
+    <cosponsor id="403364" joined="1987-09-25"/>
+    <cosponsor id="400109" joined="1987-09-10"/>
+    <cosponsor id="403545" joined="1987-04-22"/>
+    <cosponsor id="403695" joined="1987-10-15"/>
+    <cosponsor id="404019" joined="1987-05-27"/>
+    <cosponsor id="400585" joined="1987-07-01"/>
+    <cosponsor id="400536" joined="1987-10-13"/>
+    <cosponsor id="404996" joined="1987-09-25"/>
+    <cosponsor id="405646" joined="1987-03-18"/>
+    <cosponsor id="400192" joined="1987-10-07"/>
+    <cosponsor id="300057" joined="1987-03-18"/>
+    <cosponsor id="300058" joined="1987-09-10"/>
+    <cosponsor id="406473" joined="1987-10-01"/>
+    <cosponsor id="400537" joined="1987-03-18"/>
+    <cosponsor id="406765" joined="1987-09-10"/>
+    <cosponsor id="406974" joined="1987-09-25"/>
+    <cosponsor id="400595" joined="1987-09-25"/>
+    <cosponsor id="407471" joined="1987-10-07"/>
+    <cosponsor id="407853" joined="1987-07-14"/>
+    <cosponsor id="408457" joined="1987-10-07"/>
+    <cosponsor id="400314" joined="1987-10-07"/>
+    <cosponsor id="409644" joined="1987-09-10"/>
+    <cosponsor id="400378" joined="1987-03-18"/>
+    <cosponsor id="400380" joined="1987-09-10"/>
+    <cosponsor id="410066" joined="1987-09-25"/>
+    <cosponsor id="410496" joined="1987-09-10"/>
+    <cosponsor id="300156" joined="1987-10-01"/>
+    <cosponsor id="411025" joined="1987-09-10"/>
+    <cosponsor id="411426" joined="1987-10-07"/>
+    <cosponsor id="411834" joined="1987-10-01"/>
+    <cosponsor id="411948" joined="1987-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-27" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Subcommittee on International Operations Discharged.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Subcommittee on Human Rights and International Organizations Discharged.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee activity="Referral, Discharged" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="156"/>
+    <bill relation="identical" session="100" type="sj" number="156"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Advisory bodies"/>
+    <term name="Federal advisory bodies"/>
+    <term name="International agencies"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1987--Passed House amended.
+(Measure passed House, amended) Establishes the United States Commission on Improving the Effectiveness of the United Nations to examine and evaluate the strengths and weaknesses of the United Nations system and to submit to the President and the Congress recommendations on ways to improve its effectiveness and the role of the United States in such system. Sets forth specified items which the Commission should focus on in carrying out its duties. Requires the Commission to transmit to the President and the Congress a report containing a detailed statement of its findings, conclusions, and recommendations, including minority views. Authorizes the Commission to receive private contributions, subject to certain size limitations and disclosure requirements. Terminates the Commission 60 days after the submission of its report.</summary>
+</bill>

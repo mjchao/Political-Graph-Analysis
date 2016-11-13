@@ -1,0 +1,91 @@
+<bill session="100" type="h" number="5410" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-10-05">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-09-28"/>
+  <titles>
+    <title type="short" as="introduced">Foreign Ownership Disclosure Act of 1988</title>
+    <title type="official" as="introduced">A bill to provide for the registration of foreign interests in United States property, and for other purposes.</title>
+  </titles>
+  <sponsor id="401947"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-09-29"/>
+    <cosponsor id="400975" joined="1988-10-03"/>
+    <cosponsor id="401383" joined="1988-09-29"/>
+    <cosponsor id="400527" joined="1988-09-28"/>
+    <cosponsor id="300011" joined="1988-09-29"/>
+    <cosponsor id="402454" joined="1988-09-28"/>
+    <cosponsor id="402710" joined="1988-09-28"/>
+    <cosponsor id="402750" joined="1988-09-28"/>
+    <cosponsor id="402763" joined="1988-09-28"/>
+    <cosponsor id="300037" joined="1988-09-28"/>
+    <cosponsor id="300038" joined="1988-09-28"/>
+    <cosponsor id="403726" joined="1988-09-29"/>
+    <cosponsor id="403888" joined="1988-09-29"/>
+    <cosponsor id="400126" joined="1988-10-03"/>
+    <cosponsor id="400143" joined="1988-09-28"/>
+    <cosponsor id="404477" joined="1988-09-29"/>
+    <cosponsor id="404602" joined="1988-09-28"/>
+    <cosponsor id="300058" joined="1988-10-04"/>
+    <cosponsor id="406157" joined="1988-09-28"/>
+    <cosponsor id="400211" joined="1988-09-28"/>
+    <cosponsor id="400223" joined="1988-10-04"/>
+    <cosponsor id="400231" joined="1988-10-04"/>
+    <cosponsor id="406682" joined="1988-10-03"/>
+    <cosponsor id="406740" joined="1988-09-28"/>
+    <cosponsor id="400243" joined="1988-09-30"/>
+    <cosponsor id="406995" joined="1988-10-03"/>
+    <cosponsor id="407564" joined="1988-09-28"/>
+    <cosponsor id="410066" joined="1988-09-28"/>
+    <cosponsor id="410245" joined="1988-09-28"/>
+    <cosponsor id="410407" joined="1988-10-03"/>
+    <cosponsor id="400611" joined="1988-10-04"/>
+    <cosponsor id="400612" joined="1988-09-30"/>
+    <cosponsor id="411677" joined="1988-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-28" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Committee on Rules Granted a Modified Closed Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Rule Passed House.</text>
+    </action>
+    <vote how="roll" type="vote" roll="429" datetime="1988-10-05" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 250 - 170 (Record Vote No: 429).</text>
+    </vote>
+    <action datetime="1988-10-05">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign investments"/>
+    <term name="Foreign ownership of real property"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information disclosure (Securities law)"/>
+    <term name="Information services"/>
+    <term name="Securities and Investments"/>
+    <term name="Securities regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1988--Introduced.
+Foreign Ownership Disclosure Act of 1988 - Requires any foreign person who holds or acquires a significant interest in a United States property or a controlling interest in a U.S. business enterprise to register such interest with the Secretary of Commerce. Specifies the information required to be contained in such registration. Requires that any changes in such information be disclosed in an amended registration within a limited period of time. Sets forth penalties for the failure to comply with such registration requirements. Defines a "significant interest" in U.S. property as more than five percent of the total equity or ownership interests in assets or real property having a market value or gross sales in excess of specified amounts. Defines a "controlling interest" in a U.S. business enterprise as more than 25 percent of the total equity or ownership interests in a business enterprise having assets or gross sales in excess of specified amounts. Directs the Secretary to submit an annual report to the President and the Congress, concerning: (1) the extent and effects of foreign investment in the United States; and (2) the effectiveness and efficiency of the registration and reporting requirements of this Act. Directs the Secretary to compile a registry of foreign investments in the United States. Limits access to the information in such registry.</summary>
+</bill>

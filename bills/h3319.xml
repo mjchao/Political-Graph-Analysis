@@ -1,0 +1,84 @@
+<bill session="100" type="h" number="3319" updated="2014-03-22T09:52:49-04:00">
+  <state datetime="1987-12-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-22"/>
+  </status>
+  <introduced datetime="1987-09-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Susan A. Sampeck.</title>
+  </titles>
+  <sponsor id="408725"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-21" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-25">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-20" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-27">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-399.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Placed on Private Calendar No: 31.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-11-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-11-04">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-09" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-10">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-16">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-22" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-6" type="private" datetime="1987-12-22">
+      <text>Became Private Law No: 100-6.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>9/21/1987--Introduced.
+Authorizes an employee of the Internal Revenue Service who is stationed in a specified district to transfer, with the approval of the director of such district, accumulated annual and sick leave to a named Internal Revenue Service employee stationed in such district.</summary>
+</bill>

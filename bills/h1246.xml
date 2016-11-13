@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="1246" updated="2014-03-22T09:51:45-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Perishable Agricultural Commodities Act, 1930 to require commission merchants, dealers, and brokers to label perishable agricultural commodities with the name of the country of origin of such commodities.</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors>
+    <cosponsor id="407051" joined="1987-02-25"/>
+    <cosponsor id="410251" joined="1987-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-27">
+      <text>Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG05" subcommittee="Domestic Marketing, Consumer Relations, and Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="692"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Consumer protection"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Fruit and fruit trade"/>
+    <term name="Imports"/>
+    <term name="Labeling"/>
+    <term name="Vegetables and vegetable trade"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Amends the Perishable Agricultural Commodities Act, 1930 to require commission merchants, dealers, and brokers to label imported perishable commodities with the name of the country of origin.</summary>
+</bill>

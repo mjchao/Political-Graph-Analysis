@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="4322" updated="2014-03-22T09:53:09-04:00">
+  <state datetime="1988-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the administration of antidumping and countervailing duty orders applicable to pistachio nuts.</title>
+  </titles>
+  <sponsor id="400401"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-04-06">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Antidumping"/>
+    <term name="Countervailing duties"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Nuts"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Directs the Secretary of the Treasury to apply any antidumping or countervailing duty order issued under the trade relief provisions of the Tariff Act of 1930 with respect to foreign grown pistachio nuts (classified under the Tariff Schedules of the United States) regardless of whether: (1) such nuts are shelled or otherwise processed before importation into the United States; or (2) such processing results in the nuts being treated under the customs laws as a foreign product.</summary>
+</bill>

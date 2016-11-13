@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="2056" updated="2014-03-22T09:55:34-04:00">
+  <state datetime="1988-02-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-16"/>
+  </status>
+  <introduced datetime="1988-02-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Sascha Glade Weinzheimer, Jean Weinzheimer Jansen, Doris Alexa Weinzheimer, Walter Richard Weinzheimer, and the estate of Walter Weinzheimer.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>2/16/1988--Introduced.
+Authorizes and directs the Secretary of the Treasury to pay specified sums to four named individuals and a named estate in full satisfaction of all claims for physical loss or destruction of property in the Philippines and for detention benefits arising under the War Claims Act of 1948.</summary>
+</bill>

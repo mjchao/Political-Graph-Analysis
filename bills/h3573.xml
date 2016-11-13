@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="3573" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1987-10-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-28"/>
+  </status>
+  <introduced datetime="1987-10-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for coverage of screening mammography under the medicare program.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors>
+    <cosponsor id="400543" joined="1987-11-09"/>
+    <cosponsor id="400140" joined="1988-03-15"/>
+    <cosponsor id="406284" joined="1987-11-09"/>
+    <cosponsor id="400238" joined="1987-11-09"/>
+    <cosponsor id="407853" joined="1987-11-09"/>
+    <cosponsor id="400333" joined="1988-03-29"/>
+    <cosponsor id="409500" joined="1987-11-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-28" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-10-28">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-11-04">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Provisions of Measure Incorporated Into H.R.2470.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Breast cancer"/>
+    <term name="Cancer"/>
+    <term name="Health"/>
+    <term name="Medical screening"/>
+    <term name="Medicare"/>
+    <term name="Preventive medicine"/>
+    <term name="Standards"/>
+    <term name="Women's health"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>10/28/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to authorize payments, on an assignment-related basis, for screening mammography provided to a woman for the purpose of early detection of breast cancer. Directs the Secretary of Health and Human Services to establish standards for screening mammography programs. Authorizes the payment to be made for mammograms performed at specified intervals. Requires the director of the National Cancer Institute to develop guidelines, based on age and other factors, for the intervals. Authorizes the Secretary, based on the guidelines, to revise the intervals for which payment is authorized. Sets limits on the amount which may be paid for screening mammography.</summary>
+</bill>

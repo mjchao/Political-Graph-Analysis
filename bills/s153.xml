@@ -1,0 +1,36 @@
+<bill session="100" type="s" number="153" updated="2014-03-22T09:54:47-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to specify that health maintenance organizations may provide the services of clinical social workers.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="407268" joined="1987-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Health maintenance organizations"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Social work"/>
+    <term name="Social workers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Public Health Service Act to provide that health maintenance organizations may provide the services of clinical social workers.</summary>
+</bill>

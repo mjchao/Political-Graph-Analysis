@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4527" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-04"/>
+  </status>
+  <introduced datetime="1988-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for the United States Mint, for fiscal years 1989 and 1990, and for other purposes.</title>
+  </titles>
+  <sponsor id="400895"/>
+  <cosponsors>
+    <cosponsor id="405448" joined="1988-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-04" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Referred to Subcommittee on Consumer Affairs and Coinage.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA02" subcommittee="Consumer Affairs and Coinage" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Authorization"/>
+    <term name="Coins and coinage"/>
+    <term name="Department of the Treasury"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/1988--Introduced.
+Authorizes appropriations for FY 1989 and 1990 for the United States Mint to pay the costs of the mints and assay offices. Specifies that a certain amount of funds shall remain available until expended for research and development. Authorizes appropriations to the Department of the Treasury for increases in salary, pay, retirement, other benefits for Mint employees, and for other nondiscretionary costs.</summary>
+</bill>

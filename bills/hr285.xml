@@ -1,0 +1,40 @@
+<bill session="100" type="hr" number="285" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-10-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-14"/>
+  </status>
+  <introduced datetime="1987-10-14"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that the United States should encourage and support the Republic of Ireland in its development of an international world trade and financial center in Dublin, Ireland.</title>
+  </titles>
+  <sponsor id="400600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-14" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="International banking"/>
+    <term name="International trade"/>
+    <term name="Ireland"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/1987--Introduced.
+Expresses the sense of the House of Representatives that the United States should support the Republic of Ireland in its development of an international world trade and financial center in Dublin, Ireland.</summary>
+</bill>

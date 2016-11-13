@@ -1,0 +1,31 @@
+<bill session="100" type="s" number="1021" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-10"/>
+  </status>
+  <introduced datetime="1987-04-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill entitled the "Logan Relief Act".</title>
+  </titles>
+  <sponsor id="300092"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Federal aid to housing"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Pennsylvania"/>
+    <term name="Relocation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/1987--Introduced.
+Authorizes the purchase of homes and the payment of relocation assistance for homes of the Logan section of Philadelphia, Pennsylvania, deemed to be dangerous or uninhabitable. Authorizes appropriations.</summary>
+</bill>

@@ -1,0 +1,71 @@
+<bill session="100" type="hr" number="514" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-08-03">REPORTED</state>
+  <status>
+    <unknown datetime="1988-08-03"/>
+  </status>
+  <introduced datetime="1988-08-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution in support of a peaceful, negotiated settlement to the Cyprus dispute.</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-08-03"/>
+    <cosponsor id="400023" joined="1988-08-03"/>
+    <cosponsor id="400025" joined="1988-08-03"/>
+    <cosponsor id="401446" joined="1988-08-03"/>
+    <cosponsor id="401585" joined="1988-08-03"/>
+    <cosponsor id="401847" joined="1988-08-03"/>
+    <cosponsor id="404376" joined="1988-08-03"/>
+    <cosponsor id="400536" joined="1988-08-03"/>
+    <cosponsor id="404996" joined="1988-08-03"/>
+    <cosponsor id="406530" joined="1988-08-03"/>
+    <cosponsor id="400231" joined="1988-08-03"/>
+    <cosponsor id="400236" joined="1988-08-03"/>
+    <cosponsor id="407669" joined="1988-08-03"/>
+    <cosponsor id="407673" joined="1988-08-03"/>
+    <cosponsor id="407721" joined="1988-08-03"/>
+    <cosponsor id="400604" joined="1988-08-03"/>
+    <cosponsor id="400380" joined="1988-08-03"/>
+    <cosponsor id="410066" joined="1988-08-03"/>
+    <cosponsor id="300091" joined="1988-08-03"/>
+    <cosponsor id="410145" joined="1988-08-03"/>
+    <cosponsor id="410147" joined="1988-08-03"/>
+    <cosponsor id="411426" joined="1988-08-03"/>
+    <cosponsor id="411948" joined="1988-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-03" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sr" number="460"/>
+    <bill relation="identical" session="100" type="sr" number="460"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Cyprus"/>
+    <term name="Dispute settlement"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1988--Introduced.
+Commends President Vassiliou of Cyprus and Turkish Cypriot leader Denktash for agreeing to meet to resolve the Cyprus issue. Congratulates United Nations Secretary General Javier Perez de Cuellar for arranging the meeting and expresses support for continued U.N. mediation in Cyprus.</summary>
+</bill>

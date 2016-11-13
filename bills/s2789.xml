@@ -1,0 +1,65 @@
+<bill session="100" type="s" number="2789" updated="2014-03-22T09:55:54-04:00">
+  <state datetime="1988-10-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-03"/>
+  </status>
+  <introduced datetime="1988-09-14"/>
+  <titles>
+    <title type="short" as="introduced">Dwight David Eisenhower Commemorative Coin Act of 1988</title>
+    <title type="short" as="enacted">Dwight David Eisenhower Commemorative Coin Act of 1988</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Treasury to mint and issue one-dollar coins in commemoration of the 100th anniversary of the birth of Dwight David Eisenhower.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="405321" joined="1988-09-14"/>
+    <cosponsor id="406188" joined="1988-09-14"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-16" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-467" type="public" datetime="1988-10-03">
+      <text>Became Public Law No: 100-467.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3654"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Anniversaries"/>
+    <term name="Coins and coinage"/>
+    <term name="Commemorations"/>
+    <term name="Economics and public finance"/>
+    <term name="Ex-presidents"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Public debt"/>
+    <term name="Silver"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/1988--Introduced.
+Dwight David Eisenhower Commemorative Coin Act of 1988 - Directs the Secretary of the Treasury to mint and issue not more than a specified number of one dollar silver coins in commemoration of the 100th anniversary of the birth of Dwight David Eisenhower. Sets forth certain features of such coins and provides for their design, issuance, and sale. Terminates the minting of the coins after December 31, 1990. Requires the Secretary to deposit in the Treasury all surcharges received from the sale of the coins, to be used to reduce the national debt.</summary>
+</bill>

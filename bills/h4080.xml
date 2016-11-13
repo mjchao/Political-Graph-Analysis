@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="4080" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the legalization of certain aliens and to provide for units of assessment to determine the qualification of aliens for such benefit.</title>
+  </titles>
+  <sponsor id="403476"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-03" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-03-09">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Makes 100,000 permanent resident visas available annually for five years for aliens meeting specified conditions. Bases visa priority upon educational levels, work skills, and U.S. employment needs.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="5245" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Alice Koshian.</title>
+  </titles>
+  <sponsor id="400537"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum in full satisfaction of any claim of a named husband and wife against the United States arising out of their purchase of two certificates of deposit in the Postal Savings System.</summary>
+</bill>

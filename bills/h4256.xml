@@ -1,0 +1,79 @@
+<bill session="100" type="h" number="4256" updated="2014-03-22T09:53:08-04:00">
+  <state datetime="1988-03-30">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide temporary authority to certain employees of the Panama Canal Commission to purchase food and other goods at any commissary or exchange store located in Panama which is operated by any military department of the United States.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1988-03-24"/>
+    <cosponsor id="404068" joined="1988-03-24"/>
+    <cosponsor id="400397" joined="1988-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-24" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-24">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Executive Comment Requested from Panama Canal Comm., DOD.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Referred to Subcommittee on Panama Canal and Outer Continental Shelf.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Referred to Subcommittee on Readiness.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>House Committee on Armed Services Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>House Committee on Merchant Marine and Fisheries Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-30" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-30">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSMM05" subcommittee="Panama Canal and Outer Continental Shelf" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Americans employed in foreign countries"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Canals"/>
+    <term name="Government operations and politics"/>
+    <term name="International affairs"/>
+    <term name="Interoceanic canals"/>
+    <term name="Panama"/>
+    <term name="Panama Canal"/>
+    <term name="Panama Canal Commission"/>
+    <term name="Post exchanges"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/1988--Introduced.
+Authorizes employees of the Panama Canal Commission who are U.S. citizens to purchase food and other goods at any commissary or exchange store in Panama which is operated by any military department of the United States. Directs the President, if he finds that the Panamanian Defense Forces have ceased the harrassment of persons in the public areas of Panama and that food and goods are safely available to such employees so that operation of the Panama Canal is not jeopardized, to certify such finding to the Congress. Authorizes the President to terminate such commissary and exchange privileges 30 days after he has given such certification to the Congress.</summary>
+</bill>

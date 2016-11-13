@@ -1,0 +1,47 @@
+<bill session="100" type="hj" number="214" updated="2014-03-22T09:53:46-04:00">
+  <state datetime="1987-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-30"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to prohibit the death penalty.</title>
+  </titles>
+  <sponsor id="404634"/>
+  <cosponsors>
+    <cosponsor id="403364" joined="1987-05-05"/>
+    <cosponsor id="403695" joined="1987-04-30"/>
+    <cosponsor id="404006" joined="1987-04-30"/>
+    <cosponsor id="406740" joined="1987-05-12"/>
+    <cosponsor id="407960" joined="1987-05-05"/>
+    <cosponsor id="400299" joined="1987-05-12"/>
+    <cosponsor id="400333" joined="1987-06-17"/>
+    <cosponsor id="410245" joined="1987-04-30"/>
+    <cosponsor id="400409" joined="1987-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Capital punishment"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Criminal procedure"/>
+    <term name="Sentences (Criminal procedure)"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1987--Introduced.
+Constitutional Amendment - Prohibits the imposition of the death penalty.</summary>
+</bill>

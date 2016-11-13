@@ -1,0 +1,52 @@
+<bill session="100" type="h" number="4840" updated="2014-03-22T09:53:27-04:00">
+  <state datetime="1988-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-16"/>
+  </status>
+  <introduced datetime="1988-06-16"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Salary and Tax Act of 1988</title>
+    <title type="official" as="introduced">A bill to establish a pay system under which, within specified limits, Members of Congress would be permitted to designate their own salaries; to amend the Internal Revenue Code of 1986 to repeal the dollar limitation on the amount of living expenses of such Members away from home which are allowable as a deduction; and for other purposes.</title>
+  </titles>
+  <sponsor id="409422"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-16" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-07-08">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+    <action datetime="1988-07-15">
+      <text>Referred to Subcommittee on Personnel and Police.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA05" subcommittee="Personnel and Police" name="House Administration"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional employees"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="House of Representatives"/>
+    <term name="Income tax"/>
+    <term name="Members of Congress"/>
+    <term name="Senate"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1988--Introduced.
+Congressional Salary and Tax Act of 1988 - Title I: Congressional Pay, Honoraria, and Related Matters - Amends the Legislative Reorganization Act of 1946 to revise the pay system for Members of Congress. Allows Members to elect their rate of pay to be: (1) the rate payable on the date of enactment of this Act; (2) the rate recommended by the Commission on Executive, Legislative, and Judicial Salaries; or (3) a rate higher than the rate payable on the date of enactment of this Act, but lower than that recommended by the Commission. Amends the Federal Salary Act of 1967 to provide that the recommendations of the President with respect to Member salaries shall be of an advisory nature only. Amends the Federal Election Campaign Act of 1971 to prohibit a Member of Congress from accepting any honorarium for any appearance, speech, or article, excluding certain travel and subsistence expenses and agents' fees or commissions. Amends the Pay Comparability Act of 1970 and the Legislative Branch Appropriations Act, 1988 to provide for adjusting the pay of congressional personnel in accordance with the base rates payable to Members. Directs the Commission on Executive, Legislative, and Judicial Salaries appointed for FY 1989 to study and report to the Congress on the need for establishing a Senior Congressional Service, similar to the Senior Executive Service in the Executive branch. Title II: Tax Treatment of Member Expenses - Amends the Internal Revenue Code to repeal the current $3,000 limit on the deductibility of the living expenses incurred by Members while living away from their State or congressional district.</summary>
+</bill>

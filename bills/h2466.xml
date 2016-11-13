@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="2466" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1987-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate Morgan and Lawrence Counties in Alabama as a single metropolitan statistical area.</title>
+  </titles>
+  <sponsor id="404163"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-19" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Executive Comment Requested from OMB, Commerce.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Unfavorable Executive Comment Received From OMB.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1237"/>
+    <bill relation="identical" session="100" type="s" number="1237"/>
+    <bill relation="identical" session="100" type="s" number="1447"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Alabama"/>
+    <term name="Census and Statistics"/>
+    <term name="Metropolitan areas"/>
+    <term name="Population statistics"/>
+    <term name="Statistics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1987--Introduced.
+Requires the Director of the Office of Management and Budget to consider designation of Morgan and Lawrence Counties, Alabama, as a single metropolitan statistical area, without regard to the portion of the Bankhead National Forest in Lawrence County.</summary>
+</bill>

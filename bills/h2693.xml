@@ -1,0 +1,84 @@
+<bill session="100" type="h" number="2693" updated="2016-06-29T08:43:11-04:00">
+  <state datetime="1987-12-15">REPORTED</state>
+  <status>
+    <unknown datetime="1987-12-15"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="short" as="introduced">Asbestos Information Act of 1987</title>
+    <title type="short" as="reported to house">Asbestos Information Act of 1987</title>
+    <title type="official" as="introduced">A bill to require asbestos manufacturers to submit information on their asbestos products to the Environmental Protection Agency and to require owners of buildings containing asbestos to inspect the buildings and take samples of asbestos or asbestos-containing material before commencing civil actions relating to asbestos, and for other purposes.</title>
+  </titles>
+  <sponsor id="406994"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1987-06-16"/>
+    <cosponsor id="406746" joined="1987-06-16"/>
+    <cosponsor id="400331" joined="1987-06-16"/>
+    <cosponsor id="409205" joined="1987-06-16"/>
+    <cosponsor id="409251" joined="1987-06-16"/>
+    <cosponsor id="409901" joined="1987-06-16"/>
+    <cosponsor id="409966" joined="1987-07-07"/>
+    <cosponsor id="410245" joined="1987-06-16"/>
+    <cosponsor id="410589" joined="1987-06-16"/>
+    <cosponsor id="411585" joined="1987-06-16"/>
+    <cosponsor id="300100" joined="1987-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Hearings Held by the Subcommittee on Transportation, Tourism, and Hazardous Materials Prior to Referral (June 17, 87).</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-12-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-11">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-1074.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Placed on Union Calendar No: 632.</text>
+    </action>
+    <action datetime="1988-10-31">
+      <text>See H.R.5442.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5442"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Asbestos"/>
+    <term name="Building construction"/>
+    <term name="Building laws"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Evidence (Law)"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information services"/>
+    <term name="Laboratories"/>
+    <term name="Manufacturing industries"/>
+    <term name="Public safety"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>10/11/1988--Reported to House amended.
+(Reported to House from the Committee on Energy and Commerce with amendment, H. Rept. 100-1074) Asbestos Information Act of 1987 - Requires asbestos or asbestos-containing material manufacturers to report to the Administrator of the Environmental Protection Agency on the years of manufacture, the types or classes of product, and other identifying characteristics. Requires the Administrator to publish such information. Requires the owner of a building containing asbestos or asbestos-containing asbestos-material to attach information on the year the material was installed and its identifying characteristics, and the results of an analysis of such material performed by an accredited laboratory, to the complaint in a civil action pertaining to asbestos in the building. Directs the Secretary of Commerce to develop and publish protocols for such samples and to develop an accreditation program for laboratories providing such analyses.</summary>
+</bill>

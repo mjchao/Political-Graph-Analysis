@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="4653" updated="2014-03-22T09:53:22-04:00">
+  <state datetime="1988-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-19"/>
+  </status>
+  <introduced datetime="1988-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Decommissioning Reserve Fund Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend section 468A of the Internal Revenue Code of 1986 with respect to deductions for decommissioning costs of nuclear powerplants.</title>
+  </titles>
+  <sponsor id="409654"/>
+  <cosponsors>
+    <cosponsor id="400567" joined="1988-05-19"/>
+    <cosponsor id="404520" joined="1988-05-19"/>
+    <cosponsor id="404856" joined="1988-05-19"/>
+    <cosponsor id="407215" joined="1988-09-22"/>
+    <cosponsor id="400401" joined="1988-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-19" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Energy policy"/>
+    <term name="Income tax"/>
+    <term name="Investments"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear facilities"/>
+    <term name="Nuclear power plants"/>
+    <term name="Tax rates"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1988--Introduced.
+Nuclear Decommissioning Reserve Fund Act of 1988 - Amends the Internal Revenue Code to: (1) decrease from 34 percent to 15 percent the rate of the tax imposed on the income of any Nuclear Decommissioning Reserve Fund; and (2) remove restrictions on permitted investments of Fund monies.</summary>
+</bill>

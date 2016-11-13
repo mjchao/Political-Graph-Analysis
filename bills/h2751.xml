@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="2751" updated="2014-03-22T09:52:29-04:00">
+  <state datetime="1987-07-22">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-22"/>
+  </status>
+  <introduced datetime="1987-06-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide permanent authority to the Department of Energy to indemnify its civilian nuclear energy research and development contractors.</title>
+  </titles>
+  <sponsor id="406873"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-23" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Referred to Subcommittee on Energy Research and Development.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSY06" subcommittee="Energy Research and Development" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Government contractors"/>
+    <term name="Government liability"/>
+    <term name="Liability for nuclear damages"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear energy research"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/1987--Introduced.
+Amends Federal law to make permanent the authority of the Secretary of Energy to enter into indemnification agreements with civilian nuclear research contractors.</summary>
+</bill>

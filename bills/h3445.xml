@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="3445" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1987-10-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-07"/>
+  </status>
+  <introduced datetime="1987-10-07"/>
+  <titles>
+    <title type="short" as="introduced">Natural Gas Consumers Protection Act</title>
+    <title type="official" as="introduced">A bill to regulate interstate natural gas pipelines providing transportation service which bypasses local distribution companies and to encourage open access transportation by local distribution companies at cost-based rates.</title>
+  </titles>
+  <sponsor id="403576"/>
+  <cosponsors>
+    <cosponsor id="400527" joined="1988-04-27"/>
+    <cosponsor id="401947" joined="1987-10-07"/>
+    <cosponsor id="403266" joined="1987-11-03"/>
+    <cosponsor id="405256" joined="1988-04-28"/>
+    <cosponsor id="405377" joined="1987-12-11"/>
+    <cosponsor id="407069" joined="1987-12-11"/>
+    <cosponsor id="407676" joined="1988-04-27"/>
+    <cosponsor id="409237" joined="1987-11-03"/>
+    <cosponsor id="410567" joined="1987-10-07"/>
+    <cosponsor id="410641" joined="1988-04-27"/>
+    <cosponsor id="410926" joined="1987-11-03"/>
+    <cosponsor id="400414" joined="1987-12-11"/>
+    <cosponsor id="411119" joined="1987-11-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-10-26">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1998"/>
+    <bill relation="identical" session="100" type="s" number="1998"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Gas pipelines"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum pipelines"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/1987--Introduced.
+Natural Gas Consumers Protection Act - Authorizes a State governmental entity or local distribution company to petition the Federal Energy Regulatory Commission (FERC) to prohibit an interstate pipeline from transporting gas if such transportation displaces or bypasses the sales or transportation services offered by the petitioning distribution company. Authorizes FERC to grant such a petition even if it has previously certificated such transportation. Directs FERC to grant such a petition if it is demonstrated that the local distribution company is willing to transport such gas: (1) without discriminating on the basis of source, ownership, or destination; and (2) at a cost determined by its State commission.</summary>
+</bill>

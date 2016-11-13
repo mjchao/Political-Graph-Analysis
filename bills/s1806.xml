@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="1806" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-21"/>
+  </status>
+  <introduced datetime="1987-10-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow the costs of property designed specifically for handicapped and elderly individuals as a trade or business deduction.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1987-10-21"/>
+    <cosponsor id="407268" joined="1987-10-21"/>
+    <cosponsor id="409225" joined="1987-10-21"/>
+    <cosponsor id="409917" joined="1987-10-21"/>
+    <cosponsor id="411421" joined="1987-10-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Architecture and the disabled"/>
+    <term name="Disabled"/>
+    <term name="Employment of the handicapped"/>
+    <term name="Income tax"/>
+    <term name="Older workers"/>
+    <term name="Social welfare"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1987--Introduced.
+Amends the Internal Revenue Code to allow as an income tax deduction the cost of acquiring or modifying property which is used in a trade or business and is specifically designed to enhance the employability and productivity of handicapped and elderly individuals.</summary>
+</bill>

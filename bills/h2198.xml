@@ -1,0 +1,72 @@
+<bill session="100" type="h" number="2198" updated="2014-03-22T09:52:17-04:00">
+  <state datetime="1987-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-29"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Energy Security Tax Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1954 to impose a fee on the importation of crude oil or refined petroleum products and to repeal the windfall profit tax on domestic crude oil.</title>
+  </titles>
+  <sponsor id="400882"/>
+  <cosponsors>
+    <cosponsor id="400898" joined="1987-04-29"/>
+    <cosponsor id="401560" joined="1987-06-03"/>
+    <cosponsor id="401837" joined="1987-04-29"/>
+    <cosponsor id="401947" joined="1987-04-29"/>
+    <cosponsor id="402114" joined="1987-04-29"/>
+    <cosponsor id="402454" joined="1987-04-29"/>
+    <cosponsor id="402750" joined="1987-04-29"/>
+    <cosponsor id="403308" joined="1987-08-06"/>
+    <cosponsor id="403873" joined="1987-06-03"/>
+    <cosponsor id="400143" joined="1987-04-29"/>
+    <cosponsor id="400165" joined="1987-06-03"/>
+    <cosponsor id="405258" joined="1987-06-03"/>
+    <cosponsor id="405747" joined="1987-04-29"/>
+    <cosponsor id="406740" joined="1987-04-29"/>
+    <cosponsor id="407399" joined="1987-04-29"/>
+    <cosponsor id="400302" joined="1987-06-03"/>
+    <cosponsor id="408725" joined="1987-04-29"/>
+    <cosponsor id="409354" joined="1987-04-29"/>
+    <cosponsor id="400389" joined="1987-04-29"/>
+    <cosponsor id="400397" joined="1987-04-29"/>
+    <cosponsor id="400540" joined="1987-04-29"/>
+    <cosponsor id="411725" joined="1987-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-05-01">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="971"/>
+    <bill relation="identical" session="100" type="s" number="971"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Energy policy"/>
+    <term name="Excess profits tax"/>
+    <term name="Excise tax"/>
+    <term name="Feedstock"/>
+    <term name="Fees"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Imports"/>
+    <term name="Income tax"/>
+    <term name="Petrochemicals"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum industry"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1987--Introduced.
+Energy Security Tax Act of 1987 - Amends the Internal Revenue Code to impose an excise tax on the first sale within the United States of imports of: (1) crude oil; (2) refined petroleum products; and (3) petrochemical feedstocks or other derivatives. Sets the rate of such tax as the difference between $24 per barrel ($26.50 for petroleum and petrochemical products) and the most recently published average price of a barrel of internationally traded oil, as determined by the Secretary of the Treasury in accordance with a specified formula. Permits an income tax deduction for oil import tax payments. Repeals the windfall profit tax on domestic crude oil.</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="1921" updated="2014-03-22T09:55:29-04:00">
+  <state datetime="1987-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-04"/>
+  </status>
+  <introduced datetime="1987-12-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal building located at 600 West Madison, Chicago, Illinois, as the "Harold Washington Social Security Center".</title>
+  </titles>
+  <sponsor id="403483"/>
+  <cosponsors>
+    <cosponsor id="409917" joined="1987-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3700"/>
+    <bill relation="identical" session="100" type="h" number="3700"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal office buildings"/>
+    <term name="Illinois"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>12/4/1987--Introduced.
+Designates the Federal building known as the Great Lakes Program Service Center, located at 600 West Madison, Chicago, Illinois, as the Harold Washington Social Security Center.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="1937" updated="2014-03-22T09:55:31-04:00">
+  <state datetime="1987-12-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-12-09"/>
+  </status>
+  <introduced datetime="1987-12-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to continue disability benefits during an appeal.</title>
+  </titles>
+  <sponsor id="401391"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-12-09"/>
+    <cosponsor id="401611" joined="1987-12-09"/>
+    <cosponsor id="300016" joined="1987-12-09"/>
+    <cosponsor id="402727" joined="1987-12-09"/>
+    <cosponsor id="403346" joined="1987-12-09"/>
+    <cosponsor id="403515" joined="1987-12-09"/>
+    <cosponsor id="300036" joined="1987-12-09"/>
+    <cosponsor id="405321" joined="1987-12-09"/>
+    <cosponsor id="300060" joined="1987-12-09"/>
+    <cosponsor id="300066" joined="1987-12-09"/>
+    <cosponsor id="400563" joined="1987-12-09"/>
+    <cosponsor id="409225" joined="1987-12-09"/>
+    <cosponsor id="411762" joined="1987-12-09"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative remedies"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to extend for one year the operation of provisions continuing disability insurance benefit payments during administrative appeal of terminations of such benefits. (Currently, such payments are not to be made for months succeeding May 1988.)</summary>
+</bill>

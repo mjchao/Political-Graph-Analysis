@@ -1,0 +1,47 @@
+<bill session="100" type="hc" number="318" updated="2014-03-22T09:54:14-04:00">
+  <state datetime="1988-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-16"/>
+  </status>
+  <introduced datetime="1988-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution urging the implementation of the low yield disaster program to alleviate the economic emergency caused by the drought of 1988.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="402747" joined="1988-07-06"/>
+    <cosponsor id="404602" joined="1988-06-16"/>
+    <cosponsor id="300058" joined="1988-06-23"/>
+    <cosponsor id="407162" joined="1988-06-16"/>
+    <cosponsor id="410097" joined="1988-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-16" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Droughts"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1988--Introduced.
+Urges the Secretary of Agriculture to utilize the low yield disaster program to help alleviate the possible drop in deficiency payments caused by the 1988 drought.</summary>
+</bill>

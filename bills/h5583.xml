@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="5583" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1988-10-22">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-22"/>
+  </status>
+  <introduced datetime="1988-10-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Alcee L. Hastings.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-22" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-11-02">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Legal fees"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/1988--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual for legal expenses incurred in the investigation and proceedings conducted by the House of Representatives with respect to the impeachment of such individual and with respect to any trial in the Senate based on such impeachment.</summary>
+</bill>

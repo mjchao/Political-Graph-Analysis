@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="159" updated="2016-06-29T08:42:14-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to require skilled nursing facilities and intermediate care facilities that participate in the medicaid program to make available at least the average proportion of beds available in the State to medicaid patients.</title>
+  </titles>
+  <sponsor id="404401"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Extended care facilities"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Intermediate care facilities"/>
+    <term name="Medicaid"/>
+    <term name="Nursing homes"/>
+    <term name="Patients' rights"/>
+    <term name="Public assistance programs"/>
+    <term name="State courts"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act to prohibit a skilled nursing or intermediate care facility from discriminating against Medicaid patients in the admission of patients when the proportion of Medicaid patients in such a facility is less than the average proportion of Medicaid patients in similar facilities within the State. Authorizes Medicaid beneficiaries who are denied admission to such facilities in violation of this Act to bring an action in an appropriate State court.</summary>
+</bill>

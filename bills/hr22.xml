@@ -1,0 +1,38 @@
+<bill session="100" type="hr" number="22" updated="2014-03-22T09:50:54-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution authorizing the House Administration Committee to investigate, recount, and report on contested elections for the House of Representatives.</title>
+  </titles>
+  <sponsor id="410076"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1987-03-06">
+      <text>Referred to Subcommittee on Rules of the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSRU01" subcommittee="Rules of the House" name="House Rules"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Congressional elections"/>
+    <term name="Contested elections"/>
+    <term name="Election administration"/>
+    <term name="House of Representatives"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Requires the Committee on House Administration to investigate contested election results if a candidate deposits $5,000, with the Clerk of the House of Representatives, for expenses incurred in conducting a recount. Provides for a full refund of such amount if the committee determines that such recount alters the result of the election. Refunds any remaining amounts, after expenses, if a recount does not alter election results.</summary>
+</bill>

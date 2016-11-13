@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="4110" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-08"/>
+  </status>
+  <introduced datetime="1988-03-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Walter J. Shanahan.</title>
+  </titles>
+  <sponsor id="400537"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-08" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Unfavorable Executive Comment Received From Army.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Military medals, decorations, etc."/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/1988--Introduced.
+Makes inapplicable, with respect to the award of the Purple Heart to a named individual, any statute or regulation requiring records of medical treatment for injuries received in action or time limitations within which a military decoration may be recommended or awarded.</summary>
+</bill>

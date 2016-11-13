@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4545" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-05"/>
+  </status>
+  <introduced datetime="1988-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to determine the feasibility of protecting and preserving certain significant cultural, historic, and natural resources associated with the coal mining heritage of southern West Virginia, and for other purposes.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-05" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>For Further Action See H.R.3680.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3680"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Coal"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Historic sites"/>
+    <term name="Mines and mineral resources"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1988--Introduced.
+Directs the Secretary of the Interior to conduct a study to determine the feasibility of protecting and preserving certain cultural, historic, and natural resources associated with coal mining in specified counties of southern West Virginia. Requires the Secretary within one year after enactment of this Act to report his findings to the House Committee on Interior and Insular Affairs and the Senate Committee on Energy and Natural Resources. Authorizes appropriations.</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="3126" updated="2014-03-22T09:52:45-04:00">
+  <state datetime="1987-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-05"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, with respect to the maximum rate of basic pay payable to civilian faculty members at the United States Naval Academy.</title>
+  </titles>
+  <sponsor id="407564"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-05" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1674"/>
+    <bill relation="identical" session="100" type="s" number="1674"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil service compensation"/>
+    <term name="Civilian personnel positions"/>
+    <term name="Education"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Salaries"/>
+    <term name="Service academies"/>
+    <term name="Teachers"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Introduced.
+Exempts the civilian faculty at the United States Naval Academy from Federal employee pay limitations.</summary>
+</bill>

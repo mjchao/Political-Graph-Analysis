@@ -1,0 +1,47 @@
+<bill session="100" type="sr" number="104" updated="2014-03-22T09:54:35-04:00">
+  <state datetime="1987-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-17"/>
+  </status>
+  <introduced datetime="1987-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution calling on the Internal Revenue Service to revise Form W-4.</title>
+  </titles>
+  <sponsor id="408970"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-02-26"/>
+    <cosponsor id="401611" joined="1987-02-17"/>
+    <cosponsor id="403171" joined="1987-02-17"/>
+    <cosponsor id="300036" joined="1987-02-17"/>
+    <cosponsor id="403669" joined="1987-02-17"/>
+    <cosponsor id="405795" joined="1987-02-17"/>
+    <cosponsor id="406190" joined="1987-02-17"/>
+    <cosponsor id="300070" joined="1987-02-17"/>
+    <cosponsor id="300071" joined="1987-02-17"/>
+    <cosponsor id="300079" joined="1987-02-17"/>
+    <cosponsor id="400565" joined="1987-02-17"/>
+    <cosponsor id="410588" joined="1987-02-17"/>
+    <cosponsor id="410936" joined="1987-02-26"/>
+    <cosponsor id="300099" joined="1987-02-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-17" state="REFERRED">
+      <text>Referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Income tax"/>
+    <term name="Tax administration"/>
+    <term name="Withholding tax"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1987--Introduced.
+Expresses the sense of the Senate that the Internal Revenue Service should revise the income tax withholding form (W-4).</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="100" type="s" number="1623" updated="2014-03-22T09:55:23-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit rural telephone cooperatives to have qualified cash or deferred arrangements, and for other purposes.</title>
+  </titles>
+  <sponsor id="300031"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1987-11-19"/>
+    <cosponsor id="402023" joined="1987-09-18"/>
+    <cosponsor id="300026" joined="1987-08-07"/>
+    <cosponsor id="403669" joined="1987-09-25"/>
+    <cosponsor id="300048" joined="1987-09-29"/>
+    <cosponsor id="405310" joined="1987-11-03"/>
+    <cosponsor id="407622" joined="1987-11-03"/>
+    <cosponsor id="300089" joined="1987-11-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3045"/>
+    <bill relation="identical" session="100" type="h" number="3045"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Cooperative societies"/>
+    <term name="Employee benefit plans"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Pension funds"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Tax-deferred compensation plans"/>
+    <term name="Tax-exempt organizations"/>
+    <term name="Telephone"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Amends the Internal Revenue Code to accord income tax treatment as a qualified cash or deferred arrangement (401(k) plan) to a defined contribution plan established and maintained by a rural telephone cooperative. (Under current law, rural electric cooperatives, but not rural telephone cooperatives, are permitted to offer such plans to their employees.) Applies to such plans the same accounting rules as are currently applied to the plans of rural electric cooperatives.</summary>
+</bill>

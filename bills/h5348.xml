@@ -1,0 +1,71 @@
+<bill session="100" type="h" number="5348" updated="2014-03-22T09:53:22-04:00">
+  <state datetime="1988-10-04">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-09-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 11 of the United States Code with respect to the rejection of executory contracts licensing rights to intellectual property.</title>
+  </titles>
+  <sponsor id="403776"/>
+  <cosponsors>
+    <cosponsor id="404097" joined="1988-09-23"/>
+    <cosponsor id="405775" joined="1988-09-23"/>
+    <cosponsor id="400192" joined="1988-09-23"/>
+    <cosponsor id="407899" joined="1988-09-23"/>
+    <cosponsor id="410245" joined="1988-09-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-23" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>For Previous Action See H.R.4657.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-27" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-30">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-1012.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Placed on Union Calendar No: 600.</text>
+    </action>
+    <vote how="roll" type="vote" roll="393" datetime="1988-10-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 415 - 1 (Record Vote No: 393).</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>Laid on Table in House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Other Measure S.1626 Passed House in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4657"/>
+    <bill relation="unknown" session="100" type="s" number="1626"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Contracts"/>
+    <term name="Copyright"/>
+    <term name="Debtor and creditor"/>
+    <term name="Intellectual property"/>
+    <term name="Inventions"/>
+    <term name="Leases"/>
+    <term name="Patents"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Trademarks"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>9/23/1988--Introduced.
+Amends Federal bankruptcy provisions to provide that if the trustee in bankruptcy rejects an executory contract under which the debtor is a licensor of a right to intellectual property, the licensee may elect to: (1) treat such contract as terminated if such rejection amounts to such a breach as would entitle the licensee to treat such contract as terminated by virtue if its own terms, applicable nonbankruptcy law, or an agreement made by the licensee with another entity; or (2) retain its rights as such rights existed immediately before the case commenced for the duration of the contract and for any period for which such contract may be extended by the licensee as of right under applicable nonbankruptcy law. Provides that if a licensee elects to retain its rights under such contract, then: (1) the trustee shall allow the licensee to exercise such rights; (2) the licensee shall make all royalty payments due under such contract with respect to such rights; and (3) the licensee shall be deemed to waive any right of setoff and any allowable claim arising from the performance of such contract. Provides that on the written request of a licensee which elects to retain its rights, the trustee in bankruptcy shall: (1) provide to the licensee any intellectual property held by the trustee to the extent provided in such contract; and (2) refrain from interfering with any rights of the licensee including any right to obtain such intellectual property from another entity. Provides that unless and until the trustee rejects such contract, on the written request of the licensee the trustee shall: (1) perform such contract or provide to the licensee such intellectual property held by the trustee; and (2) refrain from interfering with the rights of the licensee as provided in such contract to such intellectual property, including any right to obtain such intellectual property from a third party. Defines intellectual property as: (1) trade secrets; (2) inventions, processes, designs, or plants protected under applicable patent laws; (3) patent applications; (4) plant varieties; (5) works of authorship protected under applicable copyright laws; or (6) mask works (semiconductor chip components) protected under applicable copyright laws.</summary>
+</bill>

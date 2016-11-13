@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="1857" updated="2014-03-22T09:52:04-04:00">
+  <state datetime="1987-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-30"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend titles XVIII and XIX of the Social Security Act to provide that clinical social worker services are covered under part B of Medicare and are a mandatory benefit under Medicaid, and for other purposes.</title>
+  </titles>
+  <sponsor id="408976"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-05-27"/>
+    <cosponsor id="401155" joined="1987-06-18"/>
+    <cosponsor id="400542" joined="1987-05-27"/>
+    <cosponsor id="400126" joined="1987-09-15"/>
+    <cosponsor id="404019" joined="1987-06-10"/>
+    <cosponsor id="404190" joined="1987-09-15"/>
+    <cosponsor id="400140" joined="1987-06-10"/>
+    <cosponsor id="405687" joined="1987-05-27"/>
+    <cosponsor id="405724" joined="1987-05-27"/>
+    <cosponsor id="400205" joined="1987-05-27"/>
+    <cosponsor id="400211" joined="1987-05-27"/>
+    <cosponsor id="406191" joined="1987-05-27"/>
+    <cosponsor id="400226" joined="1987-05-27"/>
+    <cosponsor id="406530" joined="1987-05-27"/>
+    <cosponsor id="407558" joined="1987-07-09"/>
+    <cosponsor id="400306" joined="1987-05-27"/>
+    <cosponsor id="410529" joined="1987-05-27"/>
+    <cosponsor id="400409" joined="1987-05-27"/>
+    <cosponsor id="400612" joined="1987-08-04"/>
+    <cosponsor id="411725" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public assistance programs"/>
+    <term name="Social work"/>
+    <term name="Social workers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1987--Introduced.
+Amends titles XVIII (Medicare) and XIX (Medicaid) of the Social Security Act to provide coverage for clinical social worker services under Medicaid and part B (Supplementary Medical Insurance) of Medicare.</summary>
+</bill>

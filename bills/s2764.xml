@@ -1,0 +1,51 @@
+<bill session="100" type="s" number="2764" updated="2014-03-22T09:55:54-04:00">
+  <state datetime="1988-09-08">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-09-08"/>
+  </status>
+  <introduced datetime="1988-09-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for a Health and Human Resources Center at Voorheers College in Denmark, South Carolina.</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="300053" joined="1988-09-08"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Referred to Subcommittee on Postsecondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED08" subcommittee="Postsecondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Black colleges"/>
+    <term name="Construction costs"/>
+    <term name="Educational facilities"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Health"/>
+    <term name="Health education"/>
+    <term name="Higher education"/>
+    <term name="Minorities"/>
+    <term name="Minority education"/>
+    <term name="Physical education and training"/>
+    <term name="South Carolina"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>9/8/1988--Introduced.
+Authorizes the Secretary of Education to provide financial assistance to Voorhees College in Denmark, South Carolina, to pay construction costs and related costs for a Health and Human Resources Center.</summary>
+</bill>

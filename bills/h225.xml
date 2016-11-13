@@ -1,0 +1,34 @@
+<bill session="100" type="h" number="225" updated="2014-03-22T09:51:13-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that an individual may deduct amounts paid for his higher education, or for the higher education of any of his dependents.</title>
+  </titles>
+  <sponsor id="408976"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="College costs"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Income tax"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Internal Revenue Code to allow a taxpayer an income tax deduction for expenses paid for the higher education of the taxpayer or a dependent. Limits the amount of such deduction to $1,000 for each dependent per taxable year.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="100" type="sc" number="17" updated="2014-03-22T09:54:40-04:00">
+  <state datetime="1987-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-17"/>
+  </status>
+  <introduced datetime="1987-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution regarding the promotion of democracy and security in the Republic of Korea, and for other purposes.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="1987-02-26"/>
+    <cosponsor id="300065" joined="1987-03-03"/>
+    <cosponsor id="300073" joined="1987-03-06"/>
+    <cosponsor id="300086" joined="1987-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Subcommittee on East Asian and Pacific Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFR02" subcommittee="East Asian and Pacific Affairs" name="Senate Foreign Relations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Democracy"/>
+    <term name="Due process of law"/>
+    <term name="Freedom of speech"/>
+    <term name="Freedom of the press"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="Law"/>
+    <term name="Political prisoners"/>
+    <term name="South Korea"/>
+    <term name="Torture"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1987--Introduced.
+Declares that the American people reaffirm our commitment to promote the development of democracy for all Korean people. Expresses the sense of the Congress that: (1) the U.S. interest in securing democracy and human rights in the Republic of Korea would be best served by the peaceful establishment of democratic institutions; (2) a necessary condition for achieving democracy is an electoral system that gives the Korean people confidence that the outcome of such elections will reflect their will; and (3) the necessary conditions of such elections are freedom of expression, freedom of the press, due process of law, an independent judiciary, an end to the use of torture, the release of all political prisoners, and the restoration of full political and civil rights.</summary>
+</bill>

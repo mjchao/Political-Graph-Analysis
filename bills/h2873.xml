@@ -1,0 +1,122 @@
+<bill session="100" type="h" number="2873" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1987-10-19">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-19"/>
+  </status>
+  <introduced datetime="1987-07-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the Secretary of Defense or Secretary of a military department to enter into any overseas contract that allows for the payment of severance pay greater than the typical rate of severance pay in the United States or that requires the Government to reimburse a contractor for overseas banking services for bad debt expenses.</title>
+  </titles>
+  <sponsor id="400590"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="1987-10-15"/>
+    <cosponsor id="400569" joined="1987-10-15"/>
+    <cosponsor id="401383" joined="1987-10-15"/>
+    <cosponsor id="401874" joined="1987-10-15"/>
+    <cosponsor id="401947" joined="1987-10-15"/>
+    <cosponsor id="402114" joined="1987-10-15"/>
+    <cosponsor id="402928" joined="1987-10-15"/>
+    <cosponsor id="403178" joined="1987-07-01"/>
+    <cosponsor id="403184" joined="1987-10-15"/>
+    <cosponsor id="403190" joined="1987-10-15"/>
+    <cosponsor id="403242" joined="1987-07-01"/>
+    <cosponsor id="300033" joined="1987-10-15"/>
+    <cosponsor id="403476" joined="1987-10-15"/>
+    <cosponsor id="403696" joined="1987-10-15"/>
+    <cosponsor id="403726" joined="1987-10-15"/>
+    <cosponsor id="403864" joined="1987-10-15"/>
+    <cosponsor id="404013" joined="1987-10-15"/>
+    <cosponsor id="404097" joined="1987-10-15"/>
+    <cosponsor id="400536" joined="1987-10-15"/>
+    <cosponsor id="400552" joined="1987-07-01"/>
+    <cosponsor id="405377" joined="1987-10-15"/>
+    <cosponsor id="405775" joined="1987-10-15"/>
+    <cosponsor id="405855" joined="1987-07-01"/>
+    <cosponsor id="405887" joined="1987-10-15"/>
+    <cosponsor id="300058" joined="1987-10-15"/>
+    <cosponsor id="400210" joined="1987-10-15"/>
+    <cosponsor id="400211" joined="1987-10-15"/>
+    <cosponsor id="406530" joined="1987-10-15"/>
+    <cosponsor id="406554" joined="1987-10-15"/>
+    <cosponsor id="407215" joined="1987-10-15"/>
+    <cosponsor id="407432" joined="1987-10-15"/>
+    <cosponsor id="400278" joined="1987-10-15"/>
+    <cosponsor id="408023" joined="1987-10-15"/>
+    <cosponsor id="408109" joined="1987-10-15"/>
+    <cosponsor id="408180" joined="1987-07-01"/>
+    <cosponsor id="400307" joined="1987-10-15"/>
+    <cosponsor id="409060" joined="1987-10-15"/>
+    <cosponsor id="409443" joined="1987-07-01"/>
+    <cosponsor id="409618" joined="1987-10-15"/>
+    <cosponsor id="409650" joined="1987-10-15"/>
+    <cosponsor id="410066" joined="1987-10-15"/>
+    <cosponsor id="410245" joined="1987-10-15"/>
+    <cosponsor id="410251" joined="1987-10-15"/>
+    <cosponsor id="400409" joined="1987-10-15"/>
+    <cosponsor id="411834" joined="1987-10-15"/>
+    <cosponsor id="411901" joined="1987-10-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-01" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-07-08">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-07-08">
+      <text>Referred to Subcommittee on Readiness.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-19">
+      <text>Reported to House by House Committee on Armed Services.  Report No: 100-380.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Placed on Union Calendar No: 240.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-20">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Collection of accounts"/>
+    <term name="Defense contracts"/>
+    <term name="Dismissal wage"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foreign banks and banking"/>
+    <term name="Government contractors"/>
+    <term name="Labor and employment"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Standards"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/1987--Introduced.
+Prohibits the Secretary of Defense or the Secretary of a military department (the Secretaries) from entering into an overseas contract if such contract contains any provision which allows for the payment of contractor employee severance pay greater than the prevailing severance pay in the United States. Prohibits the Secretaries from entering into an overseas contract for the provision of banking services if such contract contains any provision which allows the contractor to be reimbursed by the Secretary for: (1) losses arising from uncollectible checks and loans made by authorized bank employees; and (2) any reasonable costs incurred in the collection of delinquent loans and dishonored checks.</summary>
+</bill>

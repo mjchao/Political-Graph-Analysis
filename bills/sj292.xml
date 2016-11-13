@@ -1,0 +1,50 @@
+<bill session="100" type="sj" number="292" updated="2014-03-22T09:54:32-04:00">
+  <state datetime="1988-04-14">FAIL:ORIGINATING:SENATE</state>
+  <status>
+    <unknown datetime="1988-04-14"/>
+  </status>
+  <introduced datetime="1988-04-12"/>
+  <titles>
+    <title type="official" as="introduced">An original joint resolution disapproving the certification by the President under section 481(h) of the Foreign Assistance Act of 1961.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-04-12" state="REPORTED">
+      <text>Committee on Foreign Relations ordered to be reported an original measure in lieu of S.J.Res. 279.</text>
+    </calendar>
+    <action datetime="1988-04-12">
+      <text>Committee on Foreign Relations. Original measure reported to Senate by Senator Pell. Without written report.</text>
+    </action>
+    <calendar datetime="1988-04-12" calendar="Senate Legislative" under="General Orders" number="610">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 610.</text>
+    </calendar>
+    <action datetime="1988-04-14">
+      <text>Measure laid before Senate by motion.</text>
+    </action>
+    <vote how="roll" type="vote" roll="96" datetime="1988-04-14" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
+      <text>Failed of passage in Senate by Yea-Nay Vote. 40-53. Record Vote No: 96.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="491"/>
+    <bill relation="identical" session="100" type="hj" number="491"/>
+    <bill relation="unknown" session="100" type="sj" number="279"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Bahamas"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Narcotic traffic"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/1988--Introduced.
+Disapproves the President's certification for U.S. assistance to the Bahamas under provisions of the Foreign Assistance Act of 1961 relating to countries that fail to take adequate measures to prevent narcotic drugs and other controlled substances from being sold illegally within the jurisdiction of such country to U.S. Government personnel or from entering the United States unlawfully.</summary>
+</bill>

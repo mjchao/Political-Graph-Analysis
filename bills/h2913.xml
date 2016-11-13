@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="2913" updated="2014-03-22T09:52:33-04:00">
+  <state datetime="1987-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-09"/>
+  </status>
+  <introduced datetime="1987-07-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to enhance the rights of Farm Credit System borrowers.</title>
+  </titles>
+  <sponsor id="408618"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-09" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-07-16">
+      <text>Executive Comment Requested from FCA.</text>
+    </action>
+    <action datetime="1987-07-16">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>See H.R.3030.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Bank mergers"/>
+    <term name="Corporate mergers"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Farm lands"/>
+    <term name="Farms"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foreclosure"/>
+    <term name="Interest"/>
+    <term name="Interest rates"/>
+    <term name="Stockholders"/>
+    <term name="Stocks"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/1987--Introduced.
+Amends the Farm Credit Act of 1971 to provide for stockholder reconsideration, upon the request of at least five percent of the stockholders, of any decision by an association under the Farm Credit System (FCS) to voluntarily merge with another such association. Adds provisions with respect to Federal land bank association sales of inventory land to: (1) require purchasers of such real estate to buy capital stock and participation certificates in the Federal land bank from which the association receives loans; and (2) establish priorities for sales of such property. Requires FCS institutions to provide to borrowers specified information about their loans, including the procedures for restructuring a loan, interest rates, and offers to sell foreclosure property to the previous owner before sale to any other person.</summary>
+</bill>

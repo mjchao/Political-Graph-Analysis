@@ -1,0 +1,85 @@
+<bill session="100" type="hc" number="8" updated="2014-03-22T09:54:04-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress respecting the enactment by the States of certain laws relating to the acquired immune deficiency syndrome.</title>
+  </titles>
+  <sponsor id="403184"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-10"/>
+    <cosponsor id="401029" joined="1987-03-10"/>
+    <cosponsor id="400571" joined="1987-06-12"/>
+    <cosponsor id="400055" joined="1987-04-09"/>
+    <cosponsor id="300029" joined="1987-04-09"/>
+    <cosponsor id="400104" joined="1987-03-10"/>
+    <cosponsor id="403545" joined="1987-02-02"/>
+    <cosponsor id="404587" joined="1987-03-30"/>
+    <cosponsor id="300055" joined="1987-04-06"/>
+    <cosponsor id="400604" joined="1987-04-22"/>
+    <cosponsor id="300155" joined="1987-03-10"/>
+    <cosponsor id="400504" joined="1987-07-01"/>
+    <cosponsor id="410574" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Aliens"/>
+    <term name="Blood"/>
+    <term name="Blood transfusions"/>
+    <term name="Communicable diseases"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="Crime prevention"/>
+    <term name="Health education"/>
+    <term name="Hospitals"/>
+    <term name="Immigration"/>
+    <term name="Licenses"/>
+    <term name="Marriage"/>
+    <term name="Medical personnel"/>
+    <term name="Medical tests"/>
+    <term name="Nurses"/>
+    <term name="Prisoners"/>
+    <term name="Prostitution"/>
+    <term name="Sex crimes"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Expresses the sense of the Congress that States should enact legislation which: (1) requires that the blood tests required for couples seeking to be married include testing for acquired immune deficiency syndrome (AIDS), AIDS-related complex, and testing to determine if the individual is a carrier of the virus which causes AIDS; (2) requires the tracing and counseling of such individuals found to have AIDS or to be carriers of AIDS; (3) encourages designated hospitals to offer blood transfusions directly between the blood donor and recipient; (4) requires individuals seeking to be licensed as health care professionals to test negatively for AIDS, AIDS-related complex, and the AIDS virus; (5) permits nurses to wear protective garments when dealing with AIDS patients; (6) prohibits the operation of public baths; and (7) requires all persons who are seeking a marriage license who have been arrested for prostitution, who are imprisoned in a State, or who are seeking permanent residence in the United States to be tested for AIDS or the virus HTLV-III/LAV (providing that any individual found to be an AIDS carrier shall be notified of the test results and counseled about the risks of spreading AIDS).</summary>
+</bill>

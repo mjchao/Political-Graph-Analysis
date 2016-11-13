@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="26" updated="2014-03-22T09:54:44-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend authorization of the Federal Crime Insurance Program under the National Housing Act.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="1987-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Burglary"/>
+    <term name="Burglary insurance"/>
+    <term name="Business and commerce"/>
+    <term name="Crime prevention"/>
+    <term name="Insurance"/>
+    <term name="Robbery"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the National Housing Act to extend authority for the Federal crime insurance program through FY 1991.</summary>
+</bill>

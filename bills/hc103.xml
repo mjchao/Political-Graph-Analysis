@@ -1,0 +1,37 @@
+<bill session="100" type="hc" number="103" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-04-09">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment of the House from April 9 to April 21, 1987, and a conditional adjournment of the Senate from April 9, 10, or 11 to April 21, 1987.</title>
+  </titles>
+  <sponsor id="400527"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-09">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-04-09" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Received in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-04-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Provides for an adjournment of the House of Representatives from April 9 until April 21, 1987, and of the Senate from April 9, 10, or 11 until April 21, 1987.</summary>
+</bill>

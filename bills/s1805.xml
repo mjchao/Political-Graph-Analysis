@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="1805" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-21"/>
+  </status>
+  <introduced datetime="1987-10-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to protect certain pensions and other benefits of veterans and survivors of veterans who are entitled to damages in the case of "In re: 'Agent Orange' Product Liability Litigation".</title>
+  </titles>
+  <sponsor id="407786"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1988-07-06"/>
+    <cosponsor id="403346" joined="1988-06-22"/>
+    <cosponsor id="407268" joined="1988-06-22"/>
+    <cosponsor id="300084" joined="1988-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Committee on Veterans requested executive comment from VA, OMB, Defense Department.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Committee on Veterans received executive comment from VA.</text>
+    </action>
+    <action datetime="1988-05-28">
+      <text>Committee on Veterans received executive comment from Defense Department.</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4479"/>
+    <bill relation="identical" session="100" type="h" number="4479"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Agent Orange"/>
+    <term name="Damages"/>
+    <term name="Military pensions"/>
+    <term name="Products liability"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1987--Introduced.
+Prohibits the Administrator of Veterans Affairs from taking into consideration any payment to any person pursuant to the settlement in the case of In re: "Agent Orange" Product Liability Litigation in determining: (1) eligibility to receive a veterans' pension; (2) the amount of any such pension; or (3) the amount of such person's attributable income for purposes of eligibility for certain medical benefits.</summary>
+</bill>

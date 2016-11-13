@@ -1,0 +1,75 @@
+<bill session="100" type="h" number="1178" updated="2014-03-22T09:51:43-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to impose a 50 percent nondeductible excise tax on certain profits realized in connection with corporate takeover attempts, and for other purposes.</title>
+  </titles>
+  <sponsor id="407519"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-02-19"/>
+    <cosponsor id="400572" joined="1987-02-19"/>
+    <cosponsor id="402114" joined="1987-02-19"/>
+    <cosponsor id="402657" joined="1987-02-19"/>
+    <cosponsor id="403178" joined="1987-03-05"/>
+    <cosponsor id="300037" joined="1987-02-19"/>
+    <cosponsor id="403769" joined="1987-02-25"/>
+    <cosponsor id="400126" joined="1987-02-19"/>
+    <cosponsor id="404013" joined="1987-02-19"/>
+    <cosponsor id="404422" joined="1987-02-19"/>
+    <cosponsor id="400585" joined="1987-02-19"/>
+    <cosponsor id="404752" joined="1987-02-19"/>
+    <cosponsor id="405377" joined="1987-03-05"/>
+    <cosponsor id="400205" joined="1987-02-19"/>
+    <cosponsor id="400210" joined="1987-02-19"/>
+    <cosponsor id="406461" joined="1987-02-19"/>
+    <cosponsor id="400243" joined="1987-02-19"/>
+    <cosponsor id="400595" joined="1987-02-19"/>
+    <cosponsor id="400306" joined="1987-02-19"/>
+    <cosponsor id="408575" joined="1987-02-19"/>
+    <cosponsor id="400604" joined="1987-03-12"/>
+    <cosponsor id="409325" joined="1987-02-19"/>
+    <cosponsor id="409400" joined="1987-02-25"/>
+    <cosponsor id="409593" joined="1987-02-25"/>
+    <cosponsor id="409632" joined="1987-02-19"/>
+    <cosponsor id="410147" joined="1987-02-25"/>
+    <cosponsor id="410567" joined="1987-02-19"/>
+    <cosponsor id="411224" joined="1987-02-19"/>
+    <cosponsor id="411585" joined="1987-02-19"/>
+    <cosponsor id="411677" joined="1987-02-19"/>
+    <cosponsor id="401155" joined="1987-02-19" withdrawn="1987-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Corporate mergers"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Excise tax"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Stockholders"/>
+    <term name="Stocks"/>
+    <term name="Tax deductions"/>
+    <term name="Tender offers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Amends the Internal Revenue Code to impose a 50 percent excise tax on any "greenmail profits" paid to certain corporate stockholders. Defines "greenmail profits" as any gain realized by a four-percent shareholder of any stock in a corporation if: (1) the shareholder held such stock for a period of less than two years; and (2) during the two-year period ending on the date of the sale or exchange of such stock there was a public tender offer for such stock. Disallows an income tax deduction for any interest paid or accrued on indebtedness incurred to acquire stock in a corporation pursuant to a hostile offer.</summary>
+</bill>

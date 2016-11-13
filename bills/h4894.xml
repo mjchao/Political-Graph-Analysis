@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="4894" updated="2014-03-22T09:53:28-04:00">
+  <state datetime="1988-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-22"/>
+  </status>
+  <introduced datetime="1988-06-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a commission to be known as the National Thrift Institutions Commission.</title>
+  </titles>
+  <sponsor id="408490"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-07-07"/>
+    <cosponsor id="403769" joined="1988-09-07"/>
+    <cosponsor id="404723" joined="1988-08-11"/>
+    <cosponsor id="407320" joined="1988-08-02"/>
+    <cosponsor id="407564" joined="1988-07-06"/>
+    <cosponsor id="400533" joined="1988-08-02"/>
+    <cosponsor id="409534" joined="1988-06-28"/>
+    <cosponsor id="409654" joined="1988-08-03"/>
+    <cosponsor id="410010" joined="1988-06-27"/>
+    <cosponsor id="411901" joined="1988-07-26"/>
+    <cosponsor id="411929" joined="1988-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-22" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Referred to Subcommittee on General Oversight and Investigation.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA07" subcommittee="Financial Institutions Supervision, Regulation and Insurance" name="House Banking, Finance, and Urban Affairs"/>
+    <committee activity="Referral, Hearings" code="HSBA09" subcommittee="General Oversight and Investigations" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Advisory bodies"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Deposit insurance"/>
+    <term name="Federal Home Loan Bank Board"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government corporations"/>
+    <term name="Government operations and politics"/>
+    <term name="Savings and loan associations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/1988--Introduced.
+Establishes the National Thrift Institutions Commission. Requires the Commission to conduct a continuing study, investigation, and review of: (1) the stability of the Federal Savings and Loan Insurance Corporation (FSLIC); (2) the recapitalization plan of the FSLIC as enacted by the Competitive Equality Banking Act of 1987; and (3) the stability of the thrift industry as a separately regulated industry. Requires the Commission to make specific recommendations regarding: (1) methods to improve the stability of the FSLIC; and (2) methods to enhance the capital adequacy and overall stability of the thrift industry. Requires the Commission to submit a final report to the President and the Congress on April 1, 1989. Authorizes the President to extend the date for the submission of such report to May 1, 1989. Limits the total expenses of the Commission. Terminates the Commission 30 days after submission of its final report.</summary>
+</bill>

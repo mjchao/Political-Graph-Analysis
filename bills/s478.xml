@@ -1,0 +1,51 @@
+<bill session="100" type="s" number="478" updated="2016-06-29T08:45:31-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal section 1631 of the Department of Defense Authorization Act, 1985, relating to the liability of Government contractors for injuries or losses of property arising out of atomic weapons testing programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="409917"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1987-02-04"/>
+    <cosponsor id="403346" joined="1987-02-04"/>
+    <cosponsor id="300099" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Manpower and Personnel (Arm Serv).</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Committee on Armed Services requested executive comment from Defense Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAS05" subcommittee="Manpower and Personnel" name="Senate Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Administrative remedies"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Defense articles"/>
+    <term name="Government contractors"/>
+    <term name="Government liability"/>
+    <term name="Liability for nuclear damages"/>
+    <term name="Limitation of actions"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear weapons"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Radiation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Repeals provisions of the Department of Defense Authorization Act, 1985 which: (1) provide a remedy against the United States for loss of property, personal injury, or death due to exposure to radiation based on acts or omissions by a contractor conducting atomic weapons tests under a contract with the United States; and (2) preclude any other civil action by individuals against a contractor for the purpose of determining civil liability from acts or omissions of such contractor. Makes the period during which such provision was in effect inapplicable for purposes of the tolling of any statute of limitations for claims. Adjusts the statute of limitations for any actions brought under such provisions.</summary>
+</bill>

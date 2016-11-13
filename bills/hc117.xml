@@ -1,0 +1,50 @@
+<bill session="100" type="hc" number="117" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-06"/>
+  </status>
+  <introduced datetime="1987-05-06"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that if the Soviet Union agrees to mutual, verifiable, significant, and stabilizing reductions in offensive nuclear weapons, the United States should agree to accept mutual, verifiable, and significant restrictions on the testing and development of strategic defensive systems.</title>
+  </titles>
+  <sponsor id="410145"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-06" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Antimissile missiles"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Arms control negotiations"/>
+    <term name="Ballistic missile defenses"/>
+    <term name="Ballistic missiles"/>
+    <term name="Defense articles"/>
+    <term name="Military research"/>
+    <term name="Missile warheads"/>
+    <term name="Nuclear weapons"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space warfare"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/1987--Introduced.
+Expresses the sense of the Congress that if the Soviet Union agrees to mutual verifiable reductions in the overall number of strategic, offensive nuclear weapon launchers and warheads, the United States should agree to mutual and verifiable restrictions (consistent with the 1972 Treaty on the Limitation of Anti-Ballistic Missile System as traditionally interpreted) on the development and testing of strategic defensive systems.</summary>
+</bill>

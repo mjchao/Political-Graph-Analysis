@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="1263" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-21"/>
+  </status>
+  <introduced datetime="1987-05-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to treat church self-funded benefit plans as life insurance contracts.</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3147"/>
+    <bill relation="identical" session="100" type="h" number="3147"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business and commerce"/>
+    <term name="Churches"/>
+    <term name="Clergy"/>
+    <term name="Employee benefit plans"/>
+    <term name="Income tax"/>
+    <term name="Insurance"/>
+    <term name="Labor and employment"/>
+    <term name="Life insurance"/>
+    <term name="Religion and Clergy"/>
+    <term name="Survivors' benefits"/>
+    <term name="Tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/1987--Introduced.
+Amends the Internal Revenue Code to treat as life insurance policies certain self-funded death benefit plans maintained by churches for their employees, thus excluding the benefits provided through such plans from gross income for income tax purposes.</summary>
+</bill>

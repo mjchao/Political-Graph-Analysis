@@ -1,0 +1,62 @@
+<bill session="100" type="s" number="1939" updated="2014-03-22T09:55:31-04:00">
+  <state datetime="1987-12-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-10"/>
+  </status>
+  <introduced datetime="1987-12-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to grant a Federal charter to the Challenger Center, and for other purposes.</title>
+  </titles>
+  <sponsor id="404444"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-12-10"/>
+    <cosponsor id="402495" joined="1987-12-10"/>
+    <cosponsor id="403171" joined="1987-12-10"/>
+    <cosponsor id="300034" joined="1987-12-10"/>
+    <cosponsor id="403515" joined="1987-12-10"/>
+    <cosponsor id="404598" joined="1987-12-10"/>
+    <cosponsor id="300046" joined="1987-12-10"/>
+    <cosponsor id="300052" joined="1987-12-10"/>
+    <cosponsor id="405310" joined="1987-12-10"/>
+    <cosponsor id="300053" joined="1987-12-10"/>
+    <cosponsor id="300056" joined="1987-12-10"/>
+    <cosponsor id="300073" joined="1987-12-10"/>
+    <cosponsor id="300150" joined="1987-12-10"/>
+    <cosponsor id="408252" joined="1987-12-16"/>
+    <cosponsor id="408898" joined="1987-12-10"/>
+    <cosponsor id="409225" joined="1987-12-10"/>
+    <cosponsor id="410242" joined="1987-12-10"/>
+    <cosponsor id="410315" joined="1987-12-10"/>
+    <cosponsor id="410588" joined="1987-12-10"/>
+    <cosponsor id="410936" joined="1987-12-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3737"/>
+    <bill relation="identical" session="100" type="h" number="3737"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Astronautics"/>
+    <term name="Astronauts"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Educational facilities"/>
+    <term name="Federal incorporation"/>
+    <term name="Research and development"/>
+    <term name="Science and technology"/>
+    <term name="Scientific education"/>
+    <term name="Space"/>
+    <term name="Space sciences"/>
+    <term name="Space shuttles"/>
+  </subjects>
+  <amendments/>
+  <summary>12/10/1987--Introduced.
+Grants a Federal charter to the Challenger Center, a space science education organization.</summary>
+</bill>

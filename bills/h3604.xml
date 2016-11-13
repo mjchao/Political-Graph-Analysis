@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="3604" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1987-11-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-03"/>
+  </status>
+  <introduced datetime="1987-11-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Great American Flag Association to establish a monument in honor of the American Flag at Oxon Cove Park in the District of Columbia where the largest American Flag in the world will be permanently displayed.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-03" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-01-26">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="District of Columbia"/>
+    <term name="Flags"/>
+    <term name="National emblems"/>
+  </subjects>
+  <amendments/>
+  <summary>11/3/1987--Introduced.
+Authorizes the Great American Flag Association to establish a monument at Oxon Cove Park, District of Columbia, to display and honor the largest American flag in the world. Directs the Association to submit design plans for approval to the Secretary of the Interior, the Commission of Fine Arts, and the National Capital Planning Commission. Directs the Secretary to select and administer the site. Prohibits the use of Federal funds for establishment. Terminates the authority to establish the monument if construction is not commenced within ten years of enactment.</summary>
+</bill>

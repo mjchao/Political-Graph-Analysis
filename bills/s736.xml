@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="736" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-12"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the performance of certain functions at arsenals and manufacturing facilities of the Department of Defense from being converted to performance by private contractors.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="402004" joined="1987-06-11"/>
+    <cosponsor id="408939" joined="1987-05-13"/>
+    <cosponsor id="409917" joined="1987-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to Subcommittee on Readiness, Sustainability, Support.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to Subcommittee on Manpower and Personnel (Arm Serv).</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Committee on Armed Services requested executive comment from Defense Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAS04" subcommittee="Readiness, Sustainability and Support" name="Senate Armed Services"/>
+    <committee activity="Referral" code="SSAS05" subcommittee="Manpower and Personnel" name="Senate Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Defense contracts"/>
+    <term name="Military bases"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Prohibits the conversion to performance by private contractors of any functions at arsenals and manufacturing facilities of the Department of Defense that are currently performed by civilian personnel of the Department or by military personnel. Provides an exception to such prohibition for contracts and renewals entered into before the enactment of this Act.</summary>
+</bill>

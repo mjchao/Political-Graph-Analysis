@@ -1,0 +1,35 @@
+<bill session="100" type="hj" number="187" updated="2014-03-22T09:53:45-04:00">
+  <state datetime="1987-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to repeal the twenty-fifth amendment to that Constitution.</title>
+  </titles>
+  <sponsor id="404634"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Presidential succession"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Constitutional Amendment - Repeals the 25th amendment to the Constitution (concerning presidential succession).</summary>
+</bill>

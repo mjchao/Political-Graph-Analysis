@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="5138" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-02"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to qualify the Beta Lyra for United States Charter Service.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-02" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Measure Incorporated in H.R.3105.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3105"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Ships"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Authorizes the Secretary of the department in which the Coast Guard is operating to issue a certificate of documentation for a named vessel.</summary>
+</bill>

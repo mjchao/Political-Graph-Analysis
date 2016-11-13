@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="305" updated="2014-03-22T09:51:17-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide permanent duty-free entry for certain mixtures of hot red peppers and salt.</title>
+  </titles>
+  <sponsor id="401560"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-03-23">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Customs administration"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+    <term name="Vegetables and vegetable trade"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Tariff Schedules of the United States to grant permanent duty-free treatment of mixtures of mashed or macerated hot red peppers and salt. Repeals a specified provision of the Schedules granting temporary duty-free treatment of such articles. Authorizes a refund of duties paid on such articles prior to the effective date of this Act.</summary>
+</bill>

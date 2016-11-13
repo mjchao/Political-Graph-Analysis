@@ -1,0 +1,43 @@
+<bill session="100" type="hr" number="574" updated="2014-03-22T09:51:03-04:00">
+  <state datetime="1988-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to commemorate the successful return to flight by the Space Shuttle Discovery.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors>
+    <cosponsor id="406992" joined="1988-10-05"/>
+    <cosponsor id="300078" joined="1988-10-05"/>
+    <cosponsor id="411247" joined="1988-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-05" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 395 - 0 (Record Vote No: 445).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Astronauts"/>
+    <term name="Commemorations"/>
+    <term name="Federal employees"/>
+    <term name="Government contractors"/>
+    <term name="Space programs"/>
+    <term name="Space shuttles"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Introduced.
+Congratulates the National Aeronautics and Space Administration, the STS-26 flight crew, other NASA astronauts, the contractors and subcontractors, and the workers who contributed to the successful return of the Space Shuttle Discovery to safe operations in outer space.</summary>
+</bill>

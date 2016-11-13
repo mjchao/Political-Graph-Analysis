@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="2696" updated="2014-03-22T09:52:28-04:00">
+  <state datetime="1987-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-16"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="short" as="introduced">Universal Health Insurance Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Social Security Act to make health insurance widely available to individuals, based on income and assets, under a competitive system.</title>
+  </titles>
+  <sponsor id="408575"/>
+  <cosponsors>
+    <cosponsor id="401418" joined="1987-07-08"/>
+    <cosponsor id="400409" joined="1987-07-08"/>
+    <cosponsor id="411725" joined="1987-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Business and commerce"/>
+    <term name="Cigarettes"/>
+    <term name="Excise tax"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+    <term name="National health insurance"/>
+    <term name="Taxation"/>
+    <term name="Tobacco"/>
+    <term name="Tobacco tax"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1987--Introduced.
+Universal Health Insurance Act of 1987 - Adds a new title XXI to the Social Security Act entitled "Basic Health Insurance." Provides, under title XXI, for: (1) the establishment of one or more service areas within each State to deliver health care services; (2) the establishment of benefit standards; and (3) the selection of carriers through competitive bidding. Directs the Secretary of Health and Human Services in establishing the benefit standards to include the types of coverage normally provided by health insurance plans, including maternity and postnatal care and catastrophic protection. Provides that every U.S. national and lawfully admitted alien shall be eligible to enroll with a participating carrier. Provides that the annual premium for such insurance shall be equal to six percent of the sum of: (1) the amount of an individual's verified income; and (2) the amount of the individual's net assets. Provides that coverage under a title XXI plan shall: (1) be secondary in payment to any other insurance or benefit plan; and (2) not require any evidence of medical insurability from any individual. Provides a premium discount to enrollees who make little or no use of such insurance. Authorizes appropriations to carry out new title XXI in an amount equal to: (1) 100 percent of the cigarette excise tax; and (2) such additional amounts as may be required. Requires such funds to be used for making payments to to health insurance carriers for health insurance coverage contracted for by the Secretary under title XXI. Amends the Internal Revenue Code to impose an additional tax on cigarettes.</summary>
+</bill>

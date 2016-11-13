@@ -1,0 +1,46 @@
+<bill session="100" type="hr" number="56" updated="2014-03-22T09:50:55-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A resolution concerning observance by the Government of Romania of the human rights of Hungarians in Transylvania, especially the right of self-determination.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1987-01-28"/>
+    <cosponsor id="400085" joined="1987-01-28"/>
+    <cosponsor id="407457" joined="1987-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-04-08">
+      <text>Unfavorable Executive Comment Received From State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1777"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Human rights"/>
+    <term name="Romania"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Declares that the House of Representatives deplores the denial of the rights of Hungarians and people of other nationalities in Transylvania by the Romanian Government. Requests the President and the Secretary of State to discuss the human rights of the Hungarians in Transylvania with the Government of Romania.</summary>
+</bill>

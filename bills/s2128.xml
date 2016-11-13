@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="2128" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit tax-free sales of diesel fuel for use by fishery vessels.</title>
+  </titles>
+  <sponsor id="300099"/>
+  <cosponsors>
+    <cosponsor id="402412" joined="1988-03-03"/>
+    <cosponsor id="402727" joined="1988-03-03"/>
+    <cosponsor id="300073" joined="1988-03-31"/>
+    <cosponsor id="407786" joined="1988-03-03"/>
+    <cosponsor id="300150" joined="1988-03-03"/>
+    <cosponsor id="408597" joined="1988-03-03"/>
+    <cosponsor id="409562" joined="1988-03-14"/>
+    <cosponsor id="300089" joined="1988-03-14"/>
+    <cosponsor id="300094" joined="1988-03-03"/>
+    <cosponsor id="410936" joined="1988-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Diesel motor"/>
+    <term name="Excise tax"/>
+    <term name="Fish processing ships"/>
+    <term name="Fisheries"/>
+    <term name="Fishing boats"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Tax exemption"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Amends the Internal Revenue Code to prohibit the imposition of excise tax on the sale of diesel fuel to any purchaser (or purchaser for resale) for use by a fishery vessel.</summary>
+</bill>

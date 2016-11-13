@@ -1,0 +1,36 @@
+<bill session="100" type="sj" number="228" updated="2016-06-29T08:45:08-04:00">
+  <state datetime="1987-12-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-04"/>
+  </status>
+  <introduced datetime="1987-12-04"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution commemorating the bicentennial of the December 12, 1787, ratification of the Constitution of the United States of America by the Commonwealth of Pennsylvania and congratulating the citizens of the Commonwealth of Pennsylvania on the occasion of such bicentennial.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="300092" joined="1987-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="406"/>
+    <bill relation="identical" session="100" type="hj" number="406"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Bicentennial of the Constitution"/>
+    <term name="Congressional tributes"/>
+    <term name="Pennsylvania"/>
+  </subjects>
+  <amendments/>
+  <summary>12/4/1987--Introduced.
+Commemorates the bicentennial of the ratification of the U.S. Constitution by the Commonwealth of Pennsylvania.</summary>
+</bill>

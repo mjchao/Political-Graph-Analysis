@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4862" updated="2014-03-22T09:53:28-04:00">
+  <state datetime="1988-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-20"/>
+  </status>
+  <introduced datetime="1988-06-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit variable contracts to be invested in government securities.</title>
+  </titles>
+  <sponsor id="403203"/>
+  <cosponsors>
+    <cosponsor id="403529" joined="1988-09-07"/>
+    <cosponsor id="406284" joined="1988-06-23"/>
+    <cosponsor id="407457" joined="1988-07-13"/>
+    <cosponsor id="411119" joined="1988-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-20" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Business and commerce"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Government securities"/>
+    <term name="Income tax"/>
+    <term name="Insurance"/>
+    <term name="Insurance companies"/>
+    <term name="Investments"/>
+    <term name="Life insurance"/>
+    <term name="Securities and Investments"/>
+    <term name="Tax-exempt securities"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/1988--Introduced.
+Amends the Internal Revenue Code to provide that, in cases of securities issued or guaranteed by the U.S. Government, each independent agency shall be treated as a separate issuer for purposes of the diversification test applied in connection with variable contracts based on segregated asset accounts of life insurance companies.</summary>
+</bill>

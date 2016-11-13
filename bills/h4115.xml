@@ -1,0 +1,111 @@
+<bill session="100" type="h" number="4115" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-09"/>
+  </status>
+  <introduced datetime="1988-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to prohibit the reissuance of an airman certificate to an airman whose certificate has been revoked for a drug-related offense.</title>
+  </titles>
+  <sponsor id="403203"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-06-01"/>
+    <cosponsor id="400012" joined="1988-05-12"/>
+    <cosponsor id="401383" joined="1988-03-23"/>
+    <cosponsor id="400023" joined="1988-05-12"/>
+    <cosponsor id="401446" joined="1988-05-24"/>
+    <cosponsor id="401526" joined="1988-06-01"/>
+    <cosponsor id="400527" joined="1988-05-12"/>
+    <cosponsor id="401628" joined="1988-05-24"/>
+    <cosponsor id="300011" joined="1988-05-12"/>
+    <cosponsor id="400055" joined="1988-06-23"/>
+    <cosponsor id="402454" joined="1988-05-24"/>
+    <cosponsor id="402763" joined="1988-05-12"/>
+    <cosponsor id="403031" joined="1988-06-01"/>
+    <cosponsor id="403308" joined="1988-05-12"/>
+    <cosponsor id="300033" joined="1988-06-01"/>
+    <cosponsor id="403545" joined="1988-06-01"/>
+    <cosponsor id="403726" joined="1988-05-24"/>
+    <cosponsor id="403864" joined="1988-05-12"/>
+    <cosponsor id="404006" joined="1988-05-12"/>
+    <cosponsor id="404009" joined="1988-05-12"/>
+    <cosponsor id="404013" joined="1988-06-01"/>
+    <cosponsor id="404097" joined="1988-06-01"/>
+    <cosponsor id="400586" joined="1988-06-23"/>
+    <cosponsor id="404750" joined="1988-05-12"/>
+    <cosponsor id="400176" joined="1988-07-28"/>
+    <cosponsor id="405626" joined="1988-06-23"/>
+    <cosponsor id="405646" joined="1988-05-12"/>
+    <cosponsor id="405775" joined="1988-05-24"/>
+    <cosponsor id="400191" joined="1988-03-23"/>
+    <cosponsor id="300055" joined="1988-03-23"/>
+    <cosponsor id="400590" joined="1988-03-23"/>
+    <cosponsor id="406284" joined="1988-06-01"/>
+    <cosponsor id="400226" joined="1988-05-12"/>
+    <cosponsor id="406530" joined="1988-03-23"/>
+    <cosponsor id="406554" joined="1988-05-12"/>
+    <cosponsor id="406790" joined="1988-07-12"/>
+    <cosponsor id="400243" joined="1988-05-24"/>
+    <cosponsor id="407141" joined="1988-05-12"/>
+    <cosponsor id="400595" joined="1988-03-30"/>
+    <cosponsor id="407399" joined="1988-05-24"/>
+    <cosponsor id="407669" joined="1988-04-13"/>
+    <cosponsor id="407673" joined="1988-06-01"/>
+    <cosponsor id="407967" joined="1988-05-24"/>
+    <cosponsor id="400307" joined="1988-05-12"/>
+    <cosponsor id="400601" joined="1988-04-20"/>
+    <cosponsor id="408490" joined="1988-05-24"/>
+    <cosponsor id="400333" joined="1988-03-30"/>
+    <cosponsor id="409165" joined="1988-06-23"/>
+    <cosponsor id="409237" joined="1988-05-12"/>
+    <cosponsor id="409353" joined="1988-05-12"/>
+    <cosponsor id="409443" joined="1988-06-01"/>
+    <cosponsor id="400359" joined="1988-05-12"/>
+    <cosponsor id="400369" joined="1988-03-23"/>
+    <cosponsor id="409887" joined="1988-03-23"/>
+    <cosponsor id="400377" joined="1988-05-12"/>
+    <cosponsor id="410066" joined="1988-03-30"/>
+    <cosponsor id="410147" joined="1988-03-23"/>
+    <cosponsor id="400387" joined="1988-05-12"/>
+    <cosponsor id="410574" joined="1988-06-23"/>
+    <cosponsor id="410765" joined="1988-04-20"/>
+    <cosponsor id="400435" joined="1988-03-23"/>
+    <cosponsor id="300100" joined="1988-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-09" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>See H.R.5210.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5210"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aircraft"/>
+    <term name="Aircraft pilots"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and employment"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Licenses"/>
+    <term name="Public safety"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1988--Introduced.
+Amends the Federal Aviation Act of 1958 to prohibit the issuance of an airman's certificate to any person whose certificate has been revoked for activities relating to controlled substances. (Current law limits such prohibition to a five-year period beginning on the date of revocation.)</summary>
+</bill>

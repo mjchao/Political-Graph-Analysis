@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="55" updated="2014-03-22T09:54:45-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Lyman Jones and West River rural water development projects.</title>
+  </titles>
+  <sponsor id="408898"/>
+  <cosponsors>
+    <cosponsor id="300031" joined="1987-01-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Public works"/>
+    <term name="Rural affairs legislation"/>
+    <term name="South Dakota"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Authorizes appropriations to the Secretary of the Interior for the planning and construction of the West River and Lyman Jones County Rural Water Development Projects, South Dakota.</summary>
+</bill>

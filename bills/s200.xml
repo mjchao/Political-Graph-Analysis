@@ -1,0 +1,49 @@
+<bill session="100" type="s" number="200" updated="2014-03-22T09:54:47-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1954 to repeal the windfall profit tax on crude oil.</title>
+  </titles>
+  <sponsor id="300079"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-01-12"/>
+    <cosponsor id="402004" joined="1987-01-06"/>
+    <cosponsor id="300023" joined="1987-01-28"/>
+    <cosponsor id="403515" joined="1987-01-06"/>
+    <cosponsor id="300036" joined="1987-01-06"/>
+    <cosponsor id="300159" joined="1987-01-06"/>
+    <cosponsor id="405305" joined="1987-01-06"/>
+    <cosponsor id="300150" joined="1987-01-28"/>
+    <cosponsor id="409923" joined="1987-02-17"/>
+    <cosponsor id="300094" joined="1987-02-03"/>
+    <cosponsor id="410588" joined="1987-01-06"/>
+    <cosponsor id="411271" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1987-06-05">
+      <text>Subcommittee on Energy and Agricultural Taxation. Hearings held. Hearings printed:  S.Hrg. 100-143.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFI07" subcommittee="Energy and Agricultural Taxation" name="Senate Finance"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Energy policy"/>
+    <term name="Excess profits tax"/>
+    <term name="Excise tax"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum industry"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Internal Revenue Code to repeal the windfall profit tax on domestic crude oil.</summary>
+</bill>

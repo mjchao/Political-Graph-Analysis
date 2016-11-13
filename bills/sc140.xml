@@ -1,0 +1,71 @@
+<bill session="100" type="sc" number="140" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-01"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution calling for the restoration of democracy in Panama and pledging economic assistance.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="403142" joined="1988-08-11"/>
+    <cosponsor id="403669" joined="1988-08-11"/>
+    <cosponsor id="300046" joined="1988-09-30"/>
+    <cosponsor id="405321" joined="1988-09-30"/>
+    <cosponsor id="300060" joined="1988-08-11"/>
+    <cosponsor id="300065" joined="1988-09-30"/>
+    <cosponsor id="300071" joined="1988-10-01"/>
+    <cosponsor id="409562" joined="1988-09-30"/>
+    <cosponsor id="411421" joined="1988-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1988-09-27" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-27">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-09-27" calendar="Senate Legislative" under="General Orders" number="1003">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1003.</text>
+    </calendar>
+    <action datetime="1988-10-01">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-01" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate with an amendment and an amended preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Arms sales"/>
+    <term name="Democracy"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Free enterprise"/>
+    <term name="Freedom of the press"/>
+    <term name="Government operations and politics"/>
+    <term name="Housing and community development"/>
+    <term name="Human rights"/>
+    <term name="Panama"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3352"/>
+    <amendment number="s3353"/>
+  </amendments>
+  <summary>10/1/1988--Passed Senate amended.
+(Measure passed Senate, amended) Expresses the sense of the Congress that the United States should: (1) work with President DelValle, democratic forces in Panama, and other governments in the region to achieve the early departure of General Noriega from office and from Panama, to restore civilian constitutional rule, freedom of the press, political freedom, and free and fair elections in Panama, and to vigorously promote free enterprise and effective constitutional guarantees thereof, including the right to buy, own, and dispose of private property; (2) work with the people of Panama to revive their economy if democracy is restored to Panama; and (3) consider providing financial and economic support, emergency food assistance, development assistance, housing guarantees, and foreign military sales credits to Panama.</summary>
+</bill>

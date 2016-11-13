@@ -1,0 +1,36 @@
+<bill session="100" type="hj" number="31" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States relating to the compensation of Senators and Representatives, providing that no increase in compensation shall take effect earlier than the following Congress.</title>
+  </titles>
+  <sponsor id="406530"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Constitutional Amendment - Prohibits a law increasing the compensation of Members of Congress from taking effect until after an election of Representatives.</summary>
+</bill>

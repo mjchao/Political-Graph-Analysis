@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1657" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to make permanent the new GI bill educational assistance programs established by chapter 30 of such title, and for other purposes.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="400536" joined="1987-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Education"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Amends Federal veterans' benefits provisions to make permanent the following GI bill educational assistance programs, each of which are currently scheduled to terminate on June 30, 1988: (1) the active-duty program; (2) the active-duty and Selected Reserve program; and (3) the Selected Reserve program. Amends the Department of Defense Authorization Act, 1985 to rename title VII of such Act the Montgomery GI Bill Act of 1984.</summary>
+</bill>

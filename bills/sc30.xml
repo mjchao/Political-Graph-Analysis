@@ -1,0 +1,45 @@
+<bill session="100" type="sc" number="30" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-12"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to endorse the national certification of teachers in elementary and secondary education in the United States.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-04-21"/>
+    <cosponsor id="300026" joined="1987-03-24"/>
+    <cosponsor id="300056" joined="1987-03-24"/>
+    <cosponsor id="300065" joined="1987-07-08"/>
+    <cosponsor id="407786" joined="1987-04-02"/>
+    <cosponsor id="300082" joined="1987-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Education, Arts, Humanities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR01" subcommittee="Education, Arts and Humanities" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary education"/>
+    <term name="Licenses"/>
+    <term name="Rating of teachers"/>
+    <term name="Secondary education"/>
+    <term name="Standards"/>
+    <term name="Teacher education"/>
+    <term name="Teachers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Expresses the sense of the Congress that: (1) an independent, professionally controlled, nonprofit National Board for Professional Teaching Standards should be established for teacher certification in elementary and secondary education; (2) the certification process and assessments associated with it should meet specified recommended standards; and (3) the States should decide whether to require certification for teaching licensure purposes. Encourages the States to: (1) recognize such certification process through teacher incentives; (2) consider the incorporation of Board standards in the teacher licensure process; and (3) broaden the scope of the certification process to include other education professionals.</summary>
+</bill>

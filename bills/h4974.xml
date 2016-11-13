@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="4974" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-30"/>
+  </status>
+  <introduced datetime="1988-06-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Water Pollution Control Act to establish a grant program for operation and maintenance of certain treatment works.</title>
+  </titles>
+  <sponsor id="407282"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="1988-06-30"/>
+    <cosponsor id="400253" joined="1988-07-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-30" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Executive Comment Requested from EPA, OMB.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Municipal services"/>
+    <term name="Sewage treatment plants"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1988--Introduced.
+Amends the Federal Water Pollution Control Act to authorize the Administrator of the Environmental Protection Agency to make grants to pay the Federal share of the cost of operating and maintaining publicly owned treatment works which are located in States which limited by law on June 1, 1988, the amount of revenues which may be raised through property taxes. Requires that such grants cover 75 percent of such costs in excess of revenues which may be raised through property taxes. Authorizes appropriations for such grant program.</summary>
+</bill>

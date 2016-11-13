@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="3046" updated="2014-03-22T09:52:42-04:00">
+  <state datetime="1987-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-29"/>
+  </status>
+  <introduced datetime="1987-07-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require hospitals, skilled nursing facilities, and intermediate care facilities to provide free innoculation of workers against hepatitis B virus.</title>
+  </titles>
+  <sponsor id="400231"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-29" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Extended care facilities"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hepatitis"/>
+    <term name="Hospitals"/>
+    <term name="Informed consent (Medical law)"/>
+    <term name="Intermediate care facilities"/>
+    <term name="Labor and employment"/>
+    <term name="Liver diseases"/>
+    <term name="Medicaid"/>
+    <term name="Medical personnel"/>
+    <term name="Medicare"/>
+    <term name="Nurses"/>
+    <term name="Nursing homes"/>
+    <term name="Occupational health and safety"/>
+    <term name="Physicians"/>
+    <term name="Preventive medicine"/>
+    <term name="Public assistance programs"/>
+    <term name="Vaccination"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Introduced.
+Requires that hospitals and skilled nursing and intermediate care facilities participating under title XVIII (Medicare) or XIX (Medicaid) of the Social Security Act offer their employees who are at an occupational risk of exposure to blood borne viruses inoculation against hepatitis B virus without charge. Reduces, by ten percent, Medicare and Medicaid payments to hospitals and facilities which fail to make such inoculations available. Requires that such funds withheld from noncompliant hospitals and facilities be used to make grants to hospitals and facilities to fund hepatitis B vaccine purchases. Allows hospital and facility employees to exercise an informed choice not to receive such a vaccination.</summary>
+</bill>

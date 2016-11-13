@@ -1,0 +1,50 @@
+<bill session="100" type="hr" number="362" updated="2014-03-22T09:50:59-04:00">
+  <state datetime="1988-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-04"/>
+  </status>
+  <introduced datetime="1988-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing amounts from the contingent fund of the House for expenses of investigations and studies by the Committee on Education and Labor and the Pension Reform Activities of its Subcommittee.</title>
+  </titles>
+  <sponsor id="405236"/>
+  <cosponsors>
+    <cosponsor id="402626" joined="1988-02-04"/>
+    <cosponsor id="300057" joined="1988-02-04"/>
+    <cosponsor id="400533" joined="1988-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-04" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-02-09">
+      <text>Referred to Subcommittee on Accounts.</text>
+    </action>
+    <action datetime="1988-02-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>For Further Action See H.Res.388.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSHA01" subcommittee="Accounts" name="House Administration"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hr" number="388"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committee staffing"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Government consultants"/>
+    <term name="House of Representatives"/>
+    <term name="Labor and employment"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1988--Introduced.
+Authorizes expenditures for investigations and studies of the House Committee on Education and Labor and for investigations of welfare and pension plans by its subcommittee on Labor-Management Relations for the second session of the 100th Congress. Authorizes expenditures for the procurement of consultant services and assistance for specialized training for professional staff.</summary>
+</bill>

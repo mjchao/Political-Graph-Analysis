@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="1595" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1988-05-19">REPORTED</state>
+  <status>
+    <unknown datetime="1988-05-19"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employees Leave Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to provide for the establishment of a voluntary leave transfer program for Federal employees, and for other purposes.</title>
+  </titles>
+  <sponsor id="300036"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-12-02"/>
+    <cosponsor id="300073" joined="1988-02-17"/>
+    <cosponsor id="300084" joined="1988-05-16"/>
+    <cosponsor id="410936" joined="1987-09-18"/>
+    <cosponsor id="411421" joined="1987-11-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1988-03-18">
+      <text>Subcommittee on Federal Services, Post Office. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-05-19" state="REPORTED">
+      <text>Committee on Governmental Affairs. Provisions of measure incorporated into measure S. 2140 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSGA05" subcommittee="Federal Services, Post Office, and Civil Service" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2487"/>
+    <bill relation="identical" session="100" type="h" number="2487"/>
+    <bill relation="unknown" session="100" type="s" number="2140"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service employment"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Leave of absence"/>
+    <term name="Personnel management"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal employees"/>
+    <term name="Rating of employees"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Introduced.
+Federal Employees Leave Act of 1987 - Directs the Office of Personnel Management to establish a program under which the annual leave of a Federal employee may be transferred to the annual leave of any other Federal employee if such other employee requires additional leave because of a personal emergency. Describes the requirements for receiving and using transferred leave and for donating annual leave. Requires agencies to establish procedures to ensure that a leave recipient is not permitted to use or receive transferred leave after the personal emergency ceases to exist. Provides for restoring unused transferred leave to leave donors on a prorated basis. Prohibits an employee from being coerced into donating, receiving, or using annual leave under the voluntary leave transfer program. Makes postal employees eligible to participate in such program. Authorizes the exclusion from such program of employees working under negotiated contracts and agencies for which such program would cause substantial disruption. Requires such program to terminate five years after its commencement. Requires the Office of Personnel Management to report to the President and the Congress on the program not later than six months before its termination. Authorizes the Office to establish general guidelines for agencies to conduct experimental programs to determine the desirability and feasibility of providing additional leave as a means of recognizing outstanding performance or other achievements by Federal employees. Terminates such experimental programs five years after the date of enactment of this Act. Requires the Office to report to the President and the Congress on such programs not later than six months after their termination.</summary>
+</bill>

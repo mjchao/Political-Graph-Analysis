@@ -1,0 +1,63 @@
+<bill session="100" type="s" number="2022" updated="2014-03-22T09:55:33-04:00">
+  <state datetime="1988-02-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-02-29"/>
+  </status>
+  <introduced datetime="1988-02-01"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Home Loan Program Emergency Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize reduction under certain circumstances in the downpayments required for loans made by the Veterans' Administration to finance the sales of properties acquired by the Veterans' Administration as the result of foreclosures and to clarify the calculation of available guaranty entitlement and make other technical and conforming amendments.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1988-02-01"/>
+    <cosponsor id="402023" joined="1988-02-22"/>
+    <cosponsor id="300159" joined="1988-02-01"/>
+    <cosponsor id="300150" joined="1988-02-01"/>
+    <cosponsor id="411801" joined="1988-02-18"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-02-01" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-02-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-02-17">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-02-17" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-02-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-02-18">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-02-18">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-02-29" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-253" type="public" datetime="1988-02-29">
+      <text>Became Public Law No: 100-253.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Foreclosure"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing and community development"/>
+    <term name="Housing finance"/>
+    <term name="Mortgage loans"/>
+    <term name="Veterans' loans"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/1988--Introduced.
+Veterans' Home Loan Program Emergency Amendments of 1988 - Authorizes the Veterans Administration (VA) to require down payments of less than five percent of property value to finance the sales of properties acquired as the result of foreclosures of VA-guaranteed loans, if necessary to market such properties competitively.</summary>
+</bill>

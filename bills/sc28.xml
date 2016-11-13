@@ -1,0 +1,49 @@
+<bill session="100" type="sc" number="28" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to reaffirm that deposits, up to the statutorily prescribed amount, in federally insured depository institutions are backed by the full faith and credit of the United States.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-03-17"/>
+    <cosponsor id="400927" joined="1987-03-11"/>
+    <cosponsor id="300023" joined="1987-03-23"/>
+    <cosponsor id="403142" joined="1987-03-11"/>
+    <cosponsor id="403346" joined="1987-03-23"/>
+    <cosponsor id="403483" joined="1987-03-11"/>
+    <cosponsor id="300034" joined="1987-03-11"/>
+    <cosponsor id="403920" joined="1987-03-23"/>
+    <cosponsor id="404444" joined="1987-03-11"/>
+    <cosponsor id="300046" joined="1987-03-20"/>
+    <cosponsor id="406190" joined="1987-03-20"/>
+    <cosponsor id="300065" joined="1987-03-27"/>
+    <cosponsor id="409225" joined="1987-03-20"/>
+    <cosponsor id="409562" joined="1987-03-11"/>
+    <cosponsor id="300086" joined="1987-03-11"/>
+    <cosponsor id="410315" joined="1987-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="80"/>
+    <bill relation="identical" session="100" type="hc" number="80"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank deposits"/>
+    <term name="Deposit insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Reaffirms that deposits in federally insured depository institutions, up to the statutorily prescribed amount, are backed by the full faith and credit of the United States.</summary>
+</bill>

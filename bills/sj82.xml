@@ -1,0 +1,100 @@
+<bill session="100" type="sj" number="82" updated="2016-06-29T08:45:02-04:00">
+  <state datetime="1987-06-25">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the President to issue a proclamation calling upon the people of the United States to observe the bicentennial of the Northwest Ordinance of 1787.</title>
+  </titles>
+  <sponsor id="404598"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-06-18"/>
+    <cosponsor id="401604" joined="1987-06-18"/>
+    <cosponsor id="401611" joined="1987-03-10"/>
+    <cosponsor id="402004" joined="1987-06-18"/>
+    <cosponsor id="402023" joined="1987-05-01"/>
+    <cosponsor id="402495" joined="1987-05-01"/>
+    <cosponsor id="402990" joined="1987-06-18"/>
+    <cosponsor id="403142" joined="1987-06-18"/>
+    <cosponsor id="403171" joined="1987-06-18"/>
+    <cosponsor id="403346" joined="1987-05-01"/>
+    <cosponsor id="403483" joined="1987-05-01"/>
+    <cosponsor id="300034" joined="1987-06-18"/>
+    <cosponsor id="403515" joined="1987-06-18"/>
+    <cosponsor id="403669" joined="1987-03-10"/>
+    <cosponsor id="403962" joined="1987-06-18"/>
+    <cosponsor id="404444" joined="1987-05-01"/>
+    <cosponsor id="404679" joined="1987-06-18"/>
+    <cosponsor id="300046" joined="1987-06-18"/>
+    <cosponsor id="300052" joined="1987-06-18"/>
+    <cosponsor id="405321" joined="1987-05-01"/>
+    <cosponsor id="405795" joined="1987-06-18"/>
+    <cosponsor id="300056" joined="1987-05-01"/>
+    <cosponsor id="406084" joined="1987-06-18"/>
+    <cosponsor id="406188" joined="1987-06-18"/>
+    <cosponsor id="406190" joined="1987-06-18"/>
+    <cosponsor id="300059" joined="1987-06-18"/>
+    <cosponsor id="300060" joined="1987-06-18"/>
+    <cosponsor id="300064" joined="1987-06-18"/>
+    <cosponsor id="300066" joined="1987-05-01"/>
+    <cosponsor id="300070" joined="1987-03-10"/>
+    <cosponsor id="407268" joined="1987-05-01"/>
+    <cosponsor id="300071" joined="1987-06-18"/>
+    <cosponsor id="407663" joined="1987-03-10"/>
+    <cosponsor id="407786" joined="1987-06-18"/>
+    <cosponsor id="400563" joined="1987-06-18"/>
+    <cosponsor id="300150" joined="1987-06-18"/>
+    <cosponsor id="408597" joined="1987-05-01"/>
+    <cosponsor id="408937" joined="1987-03-10"/>
+    <cosponsor id="408939" joined="1987-05-01"/>
+    <cosponsor id="408970" joined="1987-05-01"/>
+    <cosponsor id="300082" joined="1987-06-18"/>
+    <cosponsor id="409225" joined="1987-05-01"/>
+    <cosponsor id="409562" joined="1987-06-18"/>
+    <cosponsor id="300086" joined="1987-06-18"/>
+    <cosponsor id="409917" joined="1987-03-10"/>
+    <cosponsor id="410315" joined="1987-05-01"/>
+    <cosponsor id="300094" joined="1987-06-18"/>
+    <cosponsor id="410588" joined="1987-06-18"/>
+    <cosponsor id="300157" joined="1987-05-01"/>
+    <cosponsor id="300099" joined="1987-06-18"/>
+    <cosponsor id="411762" joined="1987-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1987-06-23" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-06-23">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1987-06-23" calendar="Senate Legislative" under="General Orders" number="184">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 184.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-25" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-26">
+      <text>Senate vitiated previous passage.</text>
+    </action>
+    <action datetime="1987-06-26">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="History"/>
+    <term name="Statehood (American politics)"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Authorizes and requests the President to issue a proclamation calling upon the people of the United States to observe the bicentennial of the Northwest Ordinance of 1787.</summary>
+</bill>

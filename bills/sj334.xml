@@ -1,0 +1,99 @@
+<bill session="100" type="sj" number="334" updated="2016-06-29T08:45:10-04:00">
+  <state datetime="1988-06-23">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-06-23"/>
+  </status>
+  <introduced datetime="1988-06-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate July 20, 1988, as "Space Exploration Day".</title>
+  </titles>
+  <sponsor id="404444"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-06-07"/>
+    <cosponsor id="400927" joined="1988-06-07"/>
+    <cosponsor id="401391" joined="1988-06-07"/>
+    <cosponsor id="401604" joined="1988-06-07"/>
+    <cosponsor id="401611" joined="1988-06-07"/>
+    <cosponsor id="401709" joined="1988-06-07"/>
+    <cosponsor id="402495" joined="1988-06-07"/>
+    <cosponsor id="300023" joined="1988-06-07"/>
+    <cosponsor id="300026" joined="1988-06-07"/>
+    <cosponsor id="403171" joined="1988-06-07"/>
+    <cosponsor id="403346" joined="1988-06-07"/>
+    <cosponsor id="300034" joined="1988-06-07"/>
+    <cosponsor id="403515" joined="1988-06-07"/>
+    <cosponsor id="403669" joined="1988-06-07"/>
+    <cosponsor id="404277" joined="1988-06-07"/>
+    <cosponsor id="404679" joined="1988-06-07"/>
+    <cosponsor id="300046" joined="1988-06-07"/>
+    <cosponsor id="300159" joined="1988-06-07"/>
+    <cosponsor id="300048" joined="1988-06-07"/>
+    <cosponsor id="300052" joined="1988-06-07"/>
+    <cosponsor id="405305" joined="1988-06-07"/>
+    <cosponsor id="405310" joined="1988-06-07"/>
+    <cosponsor id="300154" joined="1988-06-07"/>
+    <cosponsor id="300053" joined="1988-06-07"/>
+    <cosponsor id="405795" joined="1988-06-07"/>
+    <cosponsor id="300056" joined="1988-06-07"/>
+    <cosponsor id="406084" joined="1988-06-07"/>
+    <cosponsor id="406183" joined="1988-06-07"/>
+    <cosponsor id="300060" joined="1988-06-07"/>
+    <cosponsor id="300064" joined="1988-06-07"/>
+    <cosponsor id="300066" joined="1988-06-07"/>
+    <cosponsor id="300070" joined="1988-06-07"/>
+    <cosponsor id="407268" joined="1988-06-07"/>
+    <cosponsor id="407355" joined="1988-06-07"/>
+    <cosponsor id="300073" joined="1988-06-07"/>
+    <cosponsor id="407786" joined="1988-06-07"/>
+    <cosponsor id="400563" joined="1988-06-07"/>
+    <cosponsor id="300150" joined="1988-06-07"/>
+    <cosponsor id="300079" joined="1988-06-07"/>
+    <cosponsor id="408597" joined="1988-06-07"/>
+    <cosponsor id="408937" joined="1988-06-07"/>
+    <cosponsor id="408970" joined="1988-06-07"/>
+    <cosponsor id="409225" joined="1988-06-07"/>
+    <cosponsor id="300089" joined="1988-06-07"/>
+    <cosponsor id="409917" joined="1988-06-07"/>
+    <cosponsor id="409923" joined="1988-06-07"/>
+    <cosponsor id="410242" joined="1988-06-07"/>
+    <cosponsor id="410315" joined="1988-06-07"/>
+    <cosponsor id="300094" joined="1988-06-07"/>
+    <cosponsor id="410588" joined="1988-06-07"/>
+    <cosponsor id="411271" joined="1988-06-07"/>
+    <cosponsor id="411801" joined="1988-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-23" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-07-08">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Space exploration"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>6/7/1988--Introduced.
+Designates July 20, 1988, as Space Exploration Day.</summary>
+</bill>

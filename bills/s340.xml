@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="340" updated="2014-03-22T09:54:51-04:00">
+  <state datetime="1987-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-20"/>
+  </status>
+  <introduced datetime="1987-01-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the tariff suspension applicable to certain imported cantaloupes.</title>
+  </titles>
+  <sponsor id="401391"/>
+  <cosponsors>
+    <cosponsor id="300159" joined="1987-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Fruit and fruit trade"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/1987--Introduced.
+Amends the Tariff Schedules of the United States to extend, through December 31, 1990, the suspension of duty on imported cantaloupes.</summary>
+</bill>

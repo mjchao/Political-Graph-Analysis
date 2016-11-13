@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="4349" updated="2014-03-22T09:53:10-04:00">
+  <state datetime="1988-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-31"/>
+  </status>
+  <introduced datetime="1988-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to limit the period of detention of excluable aliens pending removal in the same manner as such detention is limited for deportable aliens pending deportation.</title>
+  </titles>
+  <sponsor id="410574"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-31" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-04-07">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Executive Comment Requested from Justice.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Clean Bill H.R.5200 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5200"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Deportation"/>
+    <term name="Detention of persons"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1988--Introduced.
+Amends the Immigration and Nationality Act to limit the period of detention of excludable aliens pending removal in the same manner as such detention is limited for deportable aliens pending deportation.</summary>
+</bill>

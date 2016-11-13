@@ -1,0 +1,98 @@
+<bill session="100" type="h" number="3933" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-03-30">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-02-09"/>
+  <titles>
+    <title type="short" as="introduced">National Historical Publications and Records Commission Amendments of 1988</title>
+    <title type="short" as="reported to house">National Historical Publications and Records Commission Amendments of 1988</title>
+    <title type="short" as="passed house">National Historical Publications and Records Commission Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend and extend the authorization for the National Historical Publications and Records Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="401837"/>
+  <cosponsors>
+    <cosponsor id="403873" joined="1988-02-09"/>
+    <cosponsor id="405646" joined="1988-02-09"/>
+    <cosponsor id="407320" joined="1988-02-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-09" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Government Information, Justice, and Agriculture.</text>
+    </action>
+    <action datetime="1988-02-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-03-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-03-25">
+      <text>Reported to House (Amended) by House Committee on Government Operations.  Report No: 100-533.</text>
+    </action>
+    <action datetime="1988-03-25">
+      <text>Placed on Union Calendar No: 328.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Rules Committee Resolution H.Res.416 Reported to House.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Committee Amendment in the Nature of a Substitute Considered as an Original Bill for the Purpose of Amendment.</text>
+    </action>
+    <vote how="roll" type="vote" roll="47" datetime="1988-03-30" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 370 - 42 (Record Vote No: 47).</text>
+    </vote>
+    <action datetime="1988-03-31">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSGO02" subcommittee="Government Information, Justice, and Agriculture" name="House Government Operations"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="416"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Archives"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Government paperwork"/>
+    <term name="Government publications"/>
+    <term name="Government records, documents, and information"/>
+    <term name="History"/>
+    <term name="Information services"/>
+    <term name="National Archives and Records Administration"/>
+    <term name="Presidential appointments"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Records management"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel costs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Passed House amended.
+(Measure passed House, amended, roll call #47 (370-42)) National Historical Publications and Records Commission Amendments of 1988 - Reduces from 17 to 15 the number of members of the National Historical Publications and Records Commission. Provides for staggering the terms of certain appointees to the Commission. Entitles all Commission members to travel expenses (including per diem in lieu of subsistence). Requires the chairman of the Commission to transmit to the President and the Congress from time to time, and at least biennially, the plans, estimates, and recommendations developed and approved by it. Authorizes the Commission to conduct institutes, training, and educational programs and to sponsor fellowships related to its activities. Authorizes the Commission to disseminate information about documentary sources through guides, directories, and other technical publications. Authorizes the Commission to recommend the expenditure of appropriated or donated funds for the collecting, describing, preserving, compiling, and publishing of significant documentary sources. Authorizes the Archivist of the United States to make grants to State and local agencies and nonprofit entities and individuals after considering the advice and recommendations of the Commission. Authorizes appropriations to the Commission for FY 1989 through 1993.</summary>
+</bill>

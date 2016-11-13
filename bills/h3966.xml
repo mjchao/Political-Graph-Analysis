@@ -1,0 +1,114 @@
+<bill session="100" type="h" number="3966" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-11-05">VETOED:POCKET</state>
+  <status>
+    <unknown datetime="1988-11-05"/>
+  </status>
+  <introduced datetime="1988-02-18"/>
+  <titles>
+    <title type="short" as="introduced">Children's Television Practices Act of 1988</title>
+    <title type="short" as="reported to house">Children's Television Act of 1988</title>
+    <title type="short" as="passed house">Children's Television Act of 1988</title>
+    <title type="official" as="introduced">A bill to require the Federal Communications Commission to reinstate restrictions on advertising during children's television, to enforce the obligation of broadcasters to meet the educational and informational needs of the child audience, and for other purposes.</title>
+  </titles>
+  <sponsor id="401947"/>
+  <cosponsors>
+    <cosponsor id="401923" joined="1988-02-18"/>
+    <cosponsor id="402710" joined="1988-02-18"/>
+    <cosponsor id="402763" joined="1988-02-18"/>
+    <cosponsor id="400081" joined="1988-02-18"/>
+    <cosponsor id="403726" joined="1988-02-18"/>
+    <cosponsor id="406740" joined="1988-02-18"/>
+    <cosponsor id="400253" joined="1988-02-18"/>
+    <cosponsor id="400425" joined="1988-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-04">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-26" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-07">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-675.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Placed on Union Calendar No: 399.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="172" datetime="1988-06-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 328 - 78 (Record Vote No: 172).</text>
+    </vote>
+    <action datetime="1988-06-09">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Held at the desk by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-19" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-22">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <vetoed datetime="1988-11-05" state="VETOED:POCKET" pocket="1">
+      <text>Pocket Vetoed by President.</text>
+    </vetoed>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Advertising and Marketing"/>
+    <term name="Broadcasting"/>
+    <term name="Children and youth"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Educational television"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Licenses"/>
+    <term name="Standards"/>
+    <term name="Television"/>
+    <term name="Television advertising"/>
+    <term name="Television and children"/>
+    <term name="Television broadcasting"/>
+    <term name="Television programs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/1988--Passed House amended.
+(Measure passed House, amended, roll call #172 (328-78)) Children's Television Act of 1988 - Requires the Federal Communications Commission to prescribe standards for commercial television broadcast licensees that limit the duration of advertising in programs for children to a specified number of minutes per hour. Instructs the FCC to initiate appropriate rulemaking proceedings within 30 days of this Act's enactment and to promulgate the final standards within 150 days of enactment. Authorizes modifications of the standards after January 1, 1993, if FCC review and public comments demonstrate that the public interest would be served by the changes. Directs the FCC, when reviewing any application for a television broadcast license renewal, to consider compliance with these advertising standards, as well as the licensee's programming in connection with the educational and information needs of children.</summary>
+</bill>

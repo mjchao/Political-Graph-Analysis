@@ -1,0 +1,49 @@
+<bill session="100" type="s" number="2272" updated="2014-03-22T09:55:40-04:00">
+  <state datetime="1988-04-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-12"/>
+  </status>
+  <introduced datetime="1988-04-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations to carry out the Fish and Wildlife Conservation Act of 1980 for fiscal years 1989 and 1990.</title>
+  </titles>
+  <sponsor id="407786"/>
+  <cosponsors>
+    <cosponsor id="402412" joined="1988-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Subcommittee on Environmental Protection. Hearings held. Hearings printed:  S.Hrg. 100-639.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Subcommittee on Environmental Protection. Approved for full committee consideration with an amendment favorably.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+    <committee activity="Hearings, Markup, Reporting" code="SSEV02" subcommittee="Environmental Protection" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Authorization"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal-state relations"/>
+    <term name="Fisheries"/>
+    <term name="Fishery management"/>
+    <term name="Fishes"/>
+    <term name="Planning"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/1988--Introduced.
+Amends the Fish and Wildlife Conservation Act of 1980 to extend through FY 1990 the authorization of appropriations for: (1) reimbursements to States for development and implementation of conservation plans; and (2) administration of such Act.</summary>
+</bill>

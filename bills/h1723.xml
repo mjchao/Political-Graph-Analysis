@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="1723" updated="2016-06-29T08:42:49-04:00">
+  <state datetime="1987-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-19"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="short" as="introduced">Legal Services Corporation Amendments Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Legal Services Corporation Act to ensure that the provision with respect to the payment of attorneys fees is strengthened, and for other purposes.</title>
+  </titles>
+  <sponsor id="402159"/>
+  <cosponsors>
+    <cosponsor id="400569" joined="1987-04-09"/>
+    <cosponsor id="403696" joined="1987-04-09"/>
+    <cosponsor id="400586" joined="1987-06-23"/>
+    <cosponsor id="409052" joined="1988-03-23"/>
+    <cosponsor id="409968" joined="1987-03-31"/>
+    <cosponsor id="411065" joined="1987-04-23"/>
+    <cosponsor id="411725" joined="1987-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="682"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Government corporations"/>
+    <term name="Government operations and politics"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal Services Corporation"/>
+    <term name="Legal fees"/>
+    <term name="Legal services"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Legal Services Corporation Amendments Act of 1987 - Amends the Legal Services Corporation Act to allow a court to award reasonable costs and legal fees to a prevailing defendant (in an action commenced by the Legal Services Corporation or a recipient of Corporation assistance) where: (1) the action was frivolous, unreasonable, or without foundation; (2) the action was pursued to harass the defendant; or (3) the Corporation or recipient maliciously abused legal process. Provides that any such costs and fees shall be paid by the Corporation, by the recipient, or by the attorney, as determined by the Court. (Current law provides for: (1) the awarding of such costs and fees only where the action was pursued to harass the defendant or where the Corporation or recipient abused legal process; and (2) the payment of such costs and fees by the Corporation.)</summary>
+</bill>

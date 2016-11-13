@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="2694" updated="2014-03-22T09:55:53-04:00">
+  <state datetime="1988-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-05"/>
+  </status>
+  <introduced datetime="1988-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that contracts for residential construction which are completed in less than 12 months shall be exempt from the requirement to use the percentage completion method.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors>
+    <cosponsor id="407622" joined="1988-09-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="5151"/>
+    <bill relation="identical" session="100" type="h" number="5151"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Business and commerce"/>
+    <term name="Construction industries"/>
+    <term name="Contracts"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing and community development"/>
+    <term name="Income tax"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1988--Introduced.
+Amends accounting provisions of the Internal Revenue Code to provide that the percentage completion method shall not be required in the case of any residential construction contract that the taxpayer expects to be completed within one year.</summary>
+</bill>

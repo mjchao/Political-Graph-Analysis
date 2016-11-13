@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2483" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1987-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-20"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for three years duty free treatment of certain power-driven weaving machines and parts thereof.</title>
+  </titles>
+  <sponsor id="409423"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-20" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-05-22">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Provisions of Measure Incorporated Into H.R.4848.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4848"/>
+    <bill relation="identical" session="100" type="s" number="1224"/>
+    <bill relation="identical" session="100" type="s" number="1224"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Machinery"/>
+    <term name="Tariff"/>
+    <term name="Textile industry and fabrics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/1987--Introduced.
+Amends the Tariff Schedules of the United States to suspend the duty on power-driven weaving machines for weaving fabrics more than 16 feet in width, and their parts, through December 31, 1990.</summary>
+</bill>

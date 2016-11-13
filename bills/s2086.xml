@@ -1,0 +1,62 @@
+<bill session="100" type="s" number="2086" updated="2016-06-29T08:46:04-04:00">
+  <state datetime="1988-06-22">REPORTED</state>
+  <status>
+    <unknown datetime="1988-06-22"/>
+  </status>
+  <introduced datetime="1988-02-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a trust fund using civil penalties collected under the Occupational Health and Safety Act of 1970 to compensate victims of the collapse of the L'Ambiance Plaza in Bridgeport, Connecticut.</title>
+  </titles>
+  <sponsor id="411421"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="1988-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1988-03-04">
+      <text>Committee on Labor and Human Resources requested executive comment from Labor Department.</text>
+    </action>
+    <calendar datetime="1988-06-22" state="REPORTED">
+      <text>Committee on Labor and Human Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-26">
+      <text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy without amendment. With written report No. 100-551. Additional views filed.</text>
+    </action>
+    <calendar datetime="1988-09-26" calendar="Senate Legislative" under="General Orders" number="998">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 998.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4687"/>
+    <bill relation="identical" session="100" type="h" number="4687"/>
+  </relatedbills>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Accidents"/>
+    <term name="Apartment houses"/>
+    <term name="Building construction"/>
+    <term name="Civil actions and liability"/>
+    <term name="Claims"/>
+    <term name="Compensation (Law)"/>
+    <term name="Connecticut"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Economics and public finance"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government trust funds"/>
+    <term name="Labor and employment"/>
+    <term name="Occupational health and safety"/>
+    <term name="Public safety"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1988--Introduced.
+Establishes a trust fund using civil penalties collected under the Occupational Safety and Health Act of 1970 to compensate victims of the collapse of the L'Ambiance Plaza in Bridgeport, Connecticut.</summary>
+</bill>

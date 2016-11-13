@@ -1,0 +1,115 @@
+<bill session="100" type="h" number="1366" updated="2014-03-22T09:51:48-04:00">
+  <state datetime="1987-11-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-11-09"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the transfer of certain lands in the State of Arizona, and for other purposes.</title>
+  </titles>
+  <sponsor id="300062"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-06-25">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-188.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Placed on Union Calendar No: 110.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-29" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Committee on Energy and Natural Resources requested executive comment from Agriculture Department, OMB.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1987-08-31">
+      <text>Committee on Energy and Natural Resources received executive comment from Agriculture Department. Unfavorable.</text>
+    </action>
+    <calendar datetime="1987-09-23">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-10-07">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-196.</text>
+    </action>
+    <calendar datetime="1987-10-07" calendar="Senate Legislative" under="General Orders" number="372">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 372.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-10-22" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-10-22">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-10-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-10-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-11-09" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-157" type="public" datetime="1987-11-09">
+      <text>Became Public Law No: 100-157.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="648"/>
+    <bill relation="identical" session="100" type="s" number="648"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arizona"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Public schools"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1987--Passed House amended.
+(Measure passed House, amended) Directs the Secretary of Agriculture to convey to a school district in Payson, Arizona, specified lands known as the Payson School Site in Gila County, Arizona, for use as a public school. Requires the conveyance to take place, upon request of the school district, within 30 years for fair market value and administrative costs, reduced by amounts already paid by the school district for use of such property. Permits the school district to continue to use and occupy the property for an annual fee before the conveyance is completed. Retains a right of reversion to the United States if the school district attempts to transfer title or use the property for other than a public school.</summary>
+</bill>

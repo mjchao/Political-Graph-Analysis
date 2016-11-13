@@ -1,0 +1,60 @@
+<bill session="100" type="sj" number="356" updated="2014-03-22T09:54:34-04:00">
+  <state datetime="1988-08-04">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-04"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to provide for the extension of a temporary prohibition of strikes or lockout with respect to the Chicago and Northwestern Transportation company labor-management dispute.</title>
+  </titles>
+  <sponsor id="409917"/>
+  <cosponsors>
+    <cosponsor id="403483" joined="1988-08-02"/>
+    <cosponsor id="403669" joined="1988-08-02"/>
+    <cosponsor id="300048" joined="1988-08-02"/>
+    <cosponsor id="300051" joined="1988-08-02"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-02" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-08-04" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-04">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-08-04">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1988-08-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-04" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-380" type="public" datetime="1988-08-04">
+      <text>Became Public Law No: 100-380.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="624"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Labor disputes"/>
+    <term name="Lockouts"/>
+    <term name="Railroad employees"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Extends a temporary prohibition of strikes or lockouts, under specified provisions of the Railway Labor Act, with respect to the Chicago and Northwestern Transportation Company labor-management dispute referred to in a specified Executive Order.</summary>
+</bill>

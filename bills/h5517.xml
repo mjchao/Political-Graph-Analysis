@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="5517" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-12"/>
+  </status>
+  <introduced datetime="1988-10-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to require nursing facilities participating in the medicaid program to pay nursing personnel at a rate at least equal to the mean rate paid nursing personnel employed outside nursing facilities.</title>
+  </titles>
+  <sponsor id="411224"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-12" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-11-15">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Extended care facilities"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Labor and employment"/>
+    <term name="Medicaid"/>
+    <term name="Medical personnel"/>
+    <term name="Nurses"/>
+    <term name="Nursing homes"/>
+    <term name="Public assistance programs"/>
+    <term name="Salaries"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act to require nursing facilities to pay nursing personnel at a rate at least equal to the mean rate paid nursing personnel employed outside such facilities.</summary>
+</bill>

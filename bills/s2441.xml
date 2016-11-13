@@ -1,0 +1,34 @@
+<bill session="100" type="s" number="2441" updated="2014-03-22T09:55:49-04:00">
+  <state datetime="1988-05-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-26"/>
+  </status>
+  <introduced datetime="1988-05-26"/>
+  <titles>
+    <title type="official" as="introduced">To require the Secretary of Health and Human Services to provide annual personal earnings and benefit statements to workers covered by Social Security.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Subcommittee on Social Security and Family Policy. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFI02" subcommittee="Social Security and Family Policy" name="Senate Finance"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information services"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/26/1988--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to require the Secretary of Health and Human Services to provide personal earnings and benefit statements to everyone covered by the OASDI program.</summary>
+</bill>

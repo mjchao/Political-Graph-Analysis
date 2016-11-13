@@ -1,0 +1,46 @@
+<bill session="100" type="s" number="1218" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-15"/>
+  </status>
+  <introduced datetime="1987-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Imported Food Labeling Act of 1987</title>
+    <title type="official" as="introduced">A bill to require that any imported food be labeled to specify the country of origin.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-06-17"/>
+    <cosponsor id="300051" joined="1987-06-09"/>
+    <cosponsor id="300056" joined="1987-05-28"/>
+    <cosponsor id="300082" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-07-16">
+      <text>Referred to Subcommittee on Domestic and Foreign Marketing.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAF02" subcommittee="Domestic and Foreign Marketing and Product Promotion" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Consumer protection"/>
+    <term name="Food adulteration and inspection"/>
+    <term name="Food and Food Industry"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Imports"/>
+    <term name="Labeling"/>
+    <term name="Meat"/>
+    <term name="Poultry"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/1987--Introduced.
+Imported Food Labeling Act of 1987 - Amends the Federal Food, Drug, and Cosmetic Act, the Federal Meat Inspection Act, and the Poultry Products Inspection Act to require imported food, meat, and poultry to be labeled with the country of origin.</summary>
+</bill>

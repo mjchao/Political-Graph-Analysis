@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="4472" updated="2014-03-22T09:53:18-04:00">
+  <state datetime="1988-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-27"/>
+  </status>
+  <introduced datetime="1988-04-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal certain provisions of law requiring the installation of transponders in all aircraft.</title>
+  </titles>
+  <sponsor id="300029"/>
+  <cosponsors>
+    <cosponsor id="401874" joined="1988-06-15"/>
+    <cosponsor id="400055" joined="1988-08-04"/>
+    <cosponsor id="402454" joined="1988-06-15"/>
+    <cosponsor id="403864" joined="1988-06-15"/>
+    <cosponsor id="403904" joined="1988-06-28"/>
+    <cosponsor id="404325" joined="1988-10-06"/>
+    <cosponsor id="300049" joined="1988-06-15"/>
+    <cosponsor id="404869" joined="1988-06-15"/>
+    <cosponsor id="405524" joined="1988-06-28"/>
+    <cosponsor id="405646" joined="1988-06-30"/>
+    <cosponsor id="400191" joined="1988-04-27"/>
+    <cosponsor id="406530" joined="1988-06-15"/>
+    <cosponsor id="300069" joined="1988-06-28"/>
+    <cosponsor id="407162" joined="1988-06-15"/>
+    <cosponsor id="407432" joined="1988-04-27"/>
+    <cosponsor id="407967" joined="1988-06-15"/>
+    <cosponsor id="410147" joined="1988-06-15"/>
+    <cosponsor id="410251" joined="1988-06-15"/>
+    <cosponsor id="410623" joined="1988-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-27" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-05-09">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1988-05-09">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2317"/>
+    <bill relation="identical" session="100" type="s" number="2317"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Air traffic"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Avionics"/>
+    <term name="Public safety"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/1988--Introduced.
+Amends the Department of Transportation and Related Agencies Appropriations Act, 1988 to repeal the requirement that the Federal Aviation Administration (FAA) adopt regulations requiring the installation of operating automatic altitude reporting equipment for all aircraft operating in terminal airspace where air traffic control radar service is provided and in all controlled airspace above a minimum altitude to be determined by the FAA. Amends the Airport and Airway Safety and Capacity Expansion Act of 1987 to repeal the requirement that the FAA Administrator promulgate a final rule requiring the installation of operating transponders with automatic altitude reporting capability for aircraft operating in designated terminal airspace where radar service is provided for separation of aircraft.</summary>
+</bill>

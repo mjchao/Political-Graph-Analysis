@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2064" updated="2014-03-22T09:52:10-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to increase the amount of benefits payable with respect to the death of public safety officers.</title>
+  </titles>
+  <sponsor id="400307"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-15">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>See H.R.4758.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4758"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil service compensation"/>
+    <term name="Federal employees and officials"/>
+    <term name="Fire fighters"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Government operations and politics"/>
+    <term name="Law enforcement officers"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local officials and employees"/>
+    <term name="State officials and employees"/>
+    <term name="States"/>
+    <term name="Survivors' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Omnibus Crime Control and Safe Streets Act of 1968 to increase from $50,000 to $100,000 the benefits paid to survivors of public safety officers (law enforcement officers and fire fighters) who die as a result of injury sustained in the line of duty. Allows such benefits to be paid to a designated beneficiary if there is no surviving spouse, child, or parent.</summary>
+</bill>

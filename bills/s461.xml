@@ -1,0 +1,62 @@
+<bill session="100" type="s" number="461" updated="2014-03-22T09:54:55-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Food Irradiation Safety and Labeling Requirement Act of 1987</title>
+    <title type="official" as="introduced">A bill to prohibit the implementation of certain regulations of the Secretary of Health and Human Services and the Secretary of Agriculture respecting irradiated foods, to amend the Federal Food, Drug, and Cosmetic Act to prescribe labels for irradiated food, and for other purposes.</title>
+  </titles>
+  <sponsor id="407786"/>
+  <cosponsors>
+    <cosponsor id="401709" joined="1987-05-12"/>
+    <cosponsor id="402412" joined="1987-03-25"/>
+    <cosponsor id="402990" joined="1987-04-22"/>
+    <cosponsor id="300064" joined="1987-03-25"/>
+    <cosponsor id="407663" joined="1987-05-12"/>
+    <cosponsor id="300073" joined="1987-03-25"/>
+    <cosponsor id="300082" joined="1987-04-22"/>
+    <cosponsor id="409917" joined="1987-09-16"/>
+    <cosponsor id="410242" joined="1987-03-25"/>
+    <cosponsor id="411801" joined="1987-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Referred to Subcommittee on Agricultural Research, Gen. Leg.</text>
+    </action>
+    <action datetime="1987-05-14">
+      <text>Referred to Subcommittee on Agricultural Research, Gen. Leg.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAF04" subcommittee="Agricultural Research and General Legislation" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="956"/>
+    <bill relation="identical" session="100" type="h" number="956"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Consumer protection"/>
+    <term name="Food additives"/>
+    <term name="Food adulteration and inspection"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food industry"/>
+    <term name="Food irradiation"/>
+    <term name="Health"/>
+    <term name="Labeling"/>
+    <term name="Meat"/>
+    <term name="Pork"/>
+    <term name="Public safety"/>
+    <term name="Radiation"/>
+    <term name="Radiation safety"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Food Irradiation Safety and Labeling Requirement Act of 1987 - Prohibits the Secretary of Agriculture from implementing pork irradiation regulations and the Secretary of Health and Human Services from implementing other food irradiation regulations. Requires the Secretary of Health and Human Services to arrange for and report within two years on a study of the risks to human health and the environment presented by food irradiation. Amends the Federal Food, Drug, and Cosmetic Act to require that food for domestic use or export which has been irradiated be labeled in a prescribed fashion. Requires restaurant menus to indicate when foods have been irradiated. Requires persons irradiating food to report semiannually to the Secretary.</summary>
+</bill>

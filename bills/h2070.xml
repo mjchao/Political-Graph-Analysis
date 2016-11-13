@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="2070" updated="2014-03-22T09:52:11-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act with respect to provision of home health services on a daily basis and to continuation of such services for the safety and maintenance of the individual.</title>
+  </titles>
+  <sponsor id="400533"/>
+  <cosponsors>
+    <cosponsor id="401446" joined="1987-05-19"/>
+    <cosponsor id="400035" joined="1987-04-30"/>
+    <cosponsor id="400527" joined="1987-05-07"/>
+    <cosponsor id="402657" joined="1987-05-07"/>
+    <cosponsor id="404097" joined="1987-05-19"/>
+    <cosponsor id="404422" joined="1987-06-18"/>
+    <cosponsor id="405209" joined="1987-04-30"/>
+    <cosponsor id="405646" joined="1987-04-22"/>
+    <cosponsor id="400211" joined="1987-04-30"/>
+    <cosponsor id="406530" joined="1987-04-22"/>
+    <cosponsor id="406554" joined="1987-06-04"/>
+    <cosponsor id="400240" joined="1987-05-19"/>
+    <cosponsor id="407519" joined="1987-05-07"/>
+    <cosponsor id="408023" joined="1987-04-22"/>
+    <cosponsor id="400380" joined="1987-04-22"/>
+    <cosponsor id="300091" joined="1987-04-30"/>
+    <cosponsor id="411901" joined="1987-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-15">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Home care services"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to provide that nursing care and home health aide services may be provided on a daily basis as home health services for up to 60 days with monthly physician certification of the need for such services, and after the 60-day period on a physician certification of exceptional circumstances. Covers the nursing care and home health aide services (for up to 30 home health service visits) that are reasonable and necessary for the safety and maintenance of an individual in the home after such individual's need for home health services in the form of skilled nursing or speech or physical therapy ends.</summary>
+</bill>

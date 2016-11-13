@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1011" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-04-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Congressional Budget Act of 1974 to provide that any concurrent resolution on the budget that contains reconciliation directives shall include a directive with respect to the statutory limit on the public debt, and for other purposes.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-10">
+      <text>Read twice and referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions that when one committee reports the other has 30 days of continuous session in which to report or be discharged.</text>
+    </action>
+    <action datetime="1987-05-19" state="REFERRED">
+      <text>Referred to Subcommittee on Federal Spending, Budget, Account.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, In Committee"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA02" subcommittee="Federal Spending, Budget, and Accounting" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Congressional budget process"/>
+    <term name="Federal budgets"/>
+    <term name="Legislation"/>
+    <term name="Legislative resolutions"/>
+    <term name="Public debt"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/1987--Introduced.
+Amends the Congressional Budget Act of 1974 to require any concurrent budget resolution that contains reconciliation directives to include a directive with respect to increases in the statutory limit on the public debt. Declares that it shall not be in order in the Senate to consider legislation that increases the statutory limit on the public debt during a fiscal year above the level set forth for such fiscal year in the concurrent budget resolution agreed to for that year. Excepts from such point of order any reconciliation bill or resolution that increases the statutory limit on the public debt effective on or after the first day of the following fiscal year.</summary>
+</bill>

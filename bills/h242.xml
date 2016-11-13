@@ -1,0 +1,102 @@
+<bill session="100" type="h" number="242" updated="2014-03-22T09:51:14-04:00">
+  <state datetime="1987-10-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-10-15"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the conveyance of certain public lands in Oconto and Marinette Counties, Wisconsin.</title>
+  </titles>
+  <sponsor id="409423"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-03-04" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-03-05">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-15.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Placed on Union Calendar No: 11.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="25" datetime="1987-03-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 407 - 0 (Record Vote No: 25).</text>
+    </vote>
+    <action datetime="1987-03-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <calendar datetime="1987-09-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-09-25">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-178.</text>
+    </action>
+    <calendar datetime="1987-09-25" calendar="Senate Legislative" under="General Orders" number="341">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 341.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-10-01" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-10-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-10-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-10-15" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-130" type="public" datetime="1987-10-15">
+      <text>Became Public Law No: 100-130.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Authorizes the Secretary of the Interior to convey any portion of specified lands in Oconto and Marinette Counties, Wisconsin, to any citizen of the United States who claims and demonstrates possession of such portion of land.</summary>
+</bill>

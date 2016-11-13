@@ -1,0 +1,40 @@
+<bill session="100" type="hr" number="195" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-16">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-06-16"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H. R. 2342) to authorize appropriations for the Coast Guard for fiscal year 1988, and for other purposes.</title>
+  </titles>
+  <sponsor id="400143"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-16">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-156.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Placed on House Calendar No: 45.</text>
+    </action>
+    <action datetime="1987-07-08">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="2342"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Authorization"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Government operations and politics"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 2342 (Coast Guard funding).</summary>
+</bill>

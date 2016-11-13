@@ -1,0 +1,46 @@
+<bill session="100" type="hr" number="338" updated="2014-03-22T09:50:59-04:00">
+  <state datetime="1987-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-12-18"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that the inmates involved in the uprisings at the United States Penitentiary in Atlanta, Georgia, and the Federal Detention Center in Oakdale, Louisiana, should pay for or repair the property damage done during the uprisings.</title>
+  </titles>
+  <sponsor id="400906"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="1988-02-02"/>
+    <cosponsor id="403545" joined="1988-01-27"/>
+    <cosponsor id="403769" joined="1988-07-14"/>
+    <cosponsor id="403888" joined="1988-01-27"/>
+    <cosponsor id="408190" joined="1988-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Correctional institutions"/>
+    <term name="Corrections"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="Damages"/>
+    <term name="Georgia"/>
+    <term name="Government property"/>
+    <term name="Louisiana"/>
+    <term name="Prisoners"/>
+    <term name="Prisons"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Introduced.
+Expresses the sense of the House of Representatives that the Attorney General should require all inmates involved in the uprisings at the U.S. Penitentiary in Atlanta, Georgia, and at the Federal Detention Center in Oakdale, Louisiana, to pay for or repair the property damage done to the facilities during the uprising.</summary>
+</bill>

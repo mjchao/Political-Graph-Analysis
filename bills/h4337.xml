@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4337" updated="2014-03-22T09:53:10-04:00">
+  <state datetime="1988-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-31"/>
+  </status>
+  <introduced datetime="1988-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to temporarily suspend the duty on high resolution cathode-ray tubes.</title>
+  </titles>
+  <sponsor id="404325"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-31" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-04-07">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2232"/>
+    <bill relation="identical" session="100" type="s" number="2232"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+    <term name="Video display terminals"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1988--Introduced.
+Amends the Tariff Schedules of the United States to suspend the duty on high resolution cathode-ray tubes through December 31, 1991.</summary>
+</bill>

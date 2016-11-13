@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="4886" updated="2014-03-22T09:53:28-04:00">
+  <state datetime="1988-06-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-21"/>
+  </status>
+  <introduced datetime="1988-06-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Jenny K. Johnson, Ph. D.</title>
+  </titles>
+  <sponsor id="404006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-21" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/1988--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full settlement of all claims against the United States arising from the negligence of the Department of State for occasioning delay in arranging medical evacuation from Nigeria following an accident.</summary>
+</bill>

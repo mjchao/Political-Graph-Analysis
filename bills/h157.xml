@@ -1,0 +1,121 @@
+<bill session="100" type="h" number="157" updated="2016-06-29T08:42:14-04:00">
+  <state datetime="1987-04-22">REPORTED</state>
+  <status>
+    <unknown datetime="1987-04-22"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate September 17, 1987, the bicentennial of the signing of the Constitution of the United States, as "Constitution Day", and to make such day a legal public holiday.</title>
+  </titles>
+  <sponsor id="404190"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="1987-03-31"/>
+    <cosponsor id="401155" joined="1987-03-31"/>
+    <cosponsor id="401418" joined="1987-03-31"/>
+    <cosponsor id="401560" joined="1987-01-06"/>
+    <cosponsor id="401755" joined="1987-03-31"/>
+    <cosponsor id="402833" joined="1987-03-31"/>
+    <cosponsor id="300029" joined="1987-03-31"/>
+    <cosponsor id="400085" joined="1987-01-06"/>
+    <cosponsor id="403184" joined="1987-03-31"/>
+    <cosponsor id="403308" joined="1987-03-31"/>
+    <cosponsor id="300037" joined="1987-03-31"/>
+    <cosponsor id="404013" joined="1987-03-31"/>
+    <cosponsor id="400143" joined="1987-03-31"/>
+    <cosponsor id="404376" joined="1987-03-31"/>
+    <cosponsor id="404750" joined="1987-03-31"/>
+    <cosponsor id="405256" joined="1987-03-31"/>
+    <cosponsor id="405646" joined="1987-03-31"/>
+    <cosponsor id="405747" joined="1987-03-31"/>
+    <cosponsor id="405775" joined="1987-03-31"/>
+    <cosponsor id="400205" joined="1987-03-31"/>
+    <cosponsor id="400211" joined="1987-03-31"/>
+    <cosponsor id="406473" joined="1987-03-31"/>
+    <cosponsor id="400537" joined="1987-03-31"/>
+    <cosponsor id="406530" joined="1987-03-31"/>
+    <cosponsor id="400231" joined="1987-03-31"/>
+    <cosponsor id="406730" joined="1987-03-31"/>
+    <cosponsor id="406863" joined="1987-03-31"/>
+    <cosponsor id="407069" joined="1987-03-31"/>
+    <cosponsor id="400595" joined="1987-03-31"/>
+    <cosponsor id="407457" joined="1987-03-31"/>
+    <cosponsor id="400306" joined="1987-03-31"/>
+    <cosponsor id="400604" joined="1987-03-31"/>
+    <cosponsor id="400359" joined="1987-03-31"/>
+    <cosponsor id="409632" joined="1987-03-31"/>
+    <cosponsor id="410066" joined="1987-03-31"/>
+    <cosponsor id="410145" joined="1987-03-31"/>
+    <cosponsor id="400409" joined="1987-03-31"/>
+    <cosponsor id="411426" joined="1987-03-31"/>
+    <cosponsor id="411948" joined="1987-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Unfavorable Executive Comment Received From OMB.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-05-04">
+      <text>Reported to House (Amended) by House Committee on Post Office and Civil Service.  Report No: 100-79.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Placed on Union Calendar No: 59.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Rules Committee Resolution H.Res.186 Reported to House.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="186"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Bicentennial of the Constitution"/>
+    <term name="Holidays"/>
+    <term name="Law"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments>
+    <amendment number="h364"/>
+  </amendments>
+  <summary>5/4/1987--Reported to House amended.
+(Reported to House from the Committee on Post Office and Civil Service with amendment, H. Rept. 100-79) Designates September 17, 1987, as Constitution Day. Requires such day to be treated as a legal public holiday.</summary>
+</bill>

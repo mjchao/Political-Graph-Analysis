@@ -1,0 +1,49 @@
+<bill session="100" type="s" number="357" updated="2014-03-22T09:54:52-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide clarification of limitations on controls of firearms, and to prohibit the use of Federal funds to political subdivisions which implement certain gun control ordinances.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="300154" joined="1987-07-08"/>
+    <cosponsor id="407355" joined="1987-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Ammunition"/>
+    <term name="Correctional institutions"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="Criminal justice information"/>
+    <term name="Department of Justice"/>
+    <term name="Department of the Treasury"/>
+    <term name="Explosives"/>
+    <term name="Federal Bureau of Investigation (FBI)"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Federal-local relations"/>
+    <term name="Firearms"/>
+    <term name="Firearms control"/>
+    <term name="Government operations and politics"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Municipal ordinances"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Amends the Federal criminal code to provide that political subdivisions of States which enact laws, regulations, or ordinances that prohibit the ownership or possession of firearms or ammunition (unless such law, regulation, or ordinance is specifically enacted by Federal or State law) shall be ineligible to: (1) use Federal detention facilities; (2) receive training from or enter into contracts with the Federal Bureau of Investigation; (3) receive assistance from or participate in programs of the Office of Justice Programs; or (4) have access to Department of the Treasury records or training programs.</summary>
+</bill>

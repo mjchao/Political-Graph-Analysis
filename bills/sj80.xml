@@ -1,0 +1,42 @@
+<bill session="100" type="sj" number="80" updated="2016-06-29T08:45:02-04:00">
+  <state datetime="1987-03-10">REPORTED</state>
+  <status>
+    <unknown datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">An original joint resolution designating April 3, 1987, as "Interstate Commerce Commission Day".</title>
+  </titles>
+  <sponsor id="300053"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1987-03-10" state="REPORTED">
+      <text>Committee on Commerce ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1987-03-10">
+      <text>Committee on Commerce. Original measure reported to Senate by Senator Hollings with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1987-03-10" calendar="Senate Legislative" under="General Orders" number="30">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 30.</text>
+    </calendar>
+    <action datetime="1987-03-12">
+      <text>Referred to the Committee on Judiciary by unanimous consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Origin, Reporting, Markup"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="96"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Interstate commerce"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Designates April 3, 1987, as Interstate Commerce Commission Day.</summary>
+</bill>

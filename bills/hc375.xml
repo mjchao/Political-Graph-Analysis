@@ -1,0 +1,50 @@
+<bill session="100" type="hc" number="375" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to condemn the export of hazardous waste by the United States to foreign nations.</title>
+  </titles>
+  <sponsor id="404170"/>
+  <cosponsors>
+    <cosponsor id="400080" joined="1988-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-27" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Developing countries"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Hazardous waste disposal"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Introduced.
+Condemns the export of hazardous waste by the United States to developing countries without an environmental regulatory framework to protect health and the environment.</summary>
+</bill>

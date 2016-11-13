@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="400" updated="2014-03-22T09:51:19-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Health and Human Services to conduct a clinical trial to determine the efficiency and economic feasibility of providing medicare coverage for personal emergency response systems.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Emergency communication systems"/>
+    <term name="Emergency medical services"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Telephone"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Directs the Secretary of Health and Human Services to conduct a clinical trial in order to determine the efficiency and economic feasibility of providing Medicare (title XVIII of the Social Security Act) coverage for personal emergency response systems. Requires each personal emergency response system to include, for purposes of the clinical trial: (1) communication equipment located in the home which transmits signals for emergency medical assistance over the telephone; (2) a local response center to monitor such signals; and (3) medical personnel or other persons to provide emergency medical assistance. Authorizes appropriations. Directs the Secretary to transmit to the Congress a report containing the findings and conclusions of the clinical trial, along with any legislative recommendations.</summary>
+</bill>

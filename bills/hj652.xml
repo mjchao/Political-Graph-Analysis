@@ -1,0 +1,72 @@
+<bill session="100" type="hj" number="652" updated="2014-03-22T09:54:04-04:00">
+  <state datetime="1988-09-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-13"/>
+  </status>
+  <introduced datetime="1988-09-13"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to prohibit the proposed export to the People's Republic of China of commercial communications satellites (transmittal number MC-48-88).</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors>
+    <cosponsor id="400144" joined="1988-09-23"/>
+    <cosponsor id="400174" joined="1988-09-23"/>
+    <cosponsor id="400191" joined="1988-09-23"/>
+    <cosponsor id="400192" joined="1988-09-23"/>
+    <cosponsor id="406255" joined="1988-09-23"/>
+    <cosponsor id="400239" joined="1988-09-23"/>
+    <cosponsor id="406992" joined="1988-09-23"/>
+    <cosponsor id="409650" joined="1988-09-23"/>
+    <cosponsor id="409954" joined="1988-09-23"/>
+    <cosponsor id="410010" joined="1988-09-23"/>
+    <cosponsor id="411247" joined="1988-09-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-13" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral, Hearings" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee activity="Referral, Hearings" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms sales"/>
+    <term name="China"/>
+    <term name="Communication satellites"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Export controls"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Space"/>
+    <term name="Technology transfer"/>
+  </subjects>
+  <amendments/>
+  <summary>9/13/1988--Introduced.
+Prohibits the proposed export of Hughes Aircraft Model HS-601 Spacecraft (commercial communications satellites) together with related defense articles and technical assistance to the People's Republic of China.</summary>
+</bill>

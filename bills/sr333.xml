@@ -1,0 +1,33 @@
+<bill session="100" type="sr" number="333" updated="2014-03-22T09:54:37-04:00">
+  <state datetime="1987-12-01">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1987-12-01"/>
+  </status>
+  <introduced datetime="1987-12-01"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to authorize testimony of a Senate employee and representation by the Senate Legal Counsel in the case of "United States v. Andrian, et al.".</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1987-12-01"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-01" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional employees"/>
+    <term name="Congressional legal counsel"/>
+    <term name="Congressional privileges and immunities"/>
+    <term name="Members of Congress"/>
+    <term name="Members of Congress (Senate)"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>12/1/1987--Introduced.
+Authorizes Kevin Elliot, an employee of Senator Pete Wilson, to testify in the case of United States v. Andrian, et al., except concerning privileged matters. Directs the Senate Legal Counsel to represent Senator Wilson and members of his staff in such case.</summary>
+</bill>

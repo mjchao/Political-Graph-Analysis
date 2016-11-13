@@ -1,0 +1,44 @@
+<bill session="100" type="hr" number="21" updated="2014-03-22T09:50:54-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives regarding the agreement between the United States and the European Community on citrus and pasta, and for other purposes.</title>
+  </titles>
+  <sponsor id="405887"/>
+  <cosponsors>
+    <cosponsor id="406790" joined="1987-01-06"/>
+    <cosponsor id="400596" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Citrus fruits"/>
+    <term name="EEC countries"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Fruit and fruit trade"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+    <term name="Trade agreements"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Expresses the sense of the House of Representatives that: (1) the tariff and trade concessions of the United States that are set forth in the agreement between the United States and the European Community regarding citrus, pasta, and other products should not be approved; and (2) the U.S. Trade Representative, in negotiating trade agreements, should not agree to the waiver by the United States of its right to challenge or make claims with respect to practices by other foreign countries that affect international trade.</summary>
+</bill>

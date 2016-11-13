@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="498" updated="2014-03-22T09:51:22-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal Section 306(c) of the Water Quality Renewal Act of 1987.</title>
+  </titles>
+  <sponsor id="406863"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-02-06">
+      <text>See H.R.1.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Licenses"/>
+    <term name="Phosphates"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Repeals the provision of the Water Quality Act of 1987 concerning the issuing of permits for certain facilities which exempt such facilities from phosphate fertilizer effluent limitations.</summary>
+</bill>

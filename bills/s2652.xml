@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="2652" updated="2014-03-22T09:55:53-04:00">
+  <state datetime="1988-07-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-25"/>
+  </status>
+  <introduced datetime="1988-07-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the treatment of certain State plans under section 72(e) of the Internal Revenue Code of 1986.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4197"/>
+    <bill relation="identical" session="100" type="h" number="4197"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Annuities"/>
+    <term name="Employee benefit plans"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Life insurance"/>
+    <term name="Pension funds"/>
+    <term name="State officials and employees"/>
+    <term name="States"/>
+    <term name="Tax-deferred compensation plans"/>
+  </subjects>
+  <amendments/>
+  <summary>7/25/1988--Introduced.
+Amends the Tax Reform Act of 1986 to create a special rule for the income tax treatment of amounts received, but not as an annuity, under an annuity, endowment, or life insurance contract in connection with certain State plans permitting employee withdrawals of their contributions.</summary>
+</bill>

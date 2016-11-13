@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="1621" updated="2014-03-22T09:51:54-04:00">
+  <state datetime="1987-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-16"/>
+  </status>
+  <introduced datetime="1987-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Highway Research and Development Act of 1987</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Transportation, in consultation with the National Research Council, National Academy of Sciences, and National Academy of Engineers, to carry out certain highway research.</title>
+  </titles>
+  <sponsor id="404602"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-05-19"/>
+    <cosponsor id="401310" joined="1987-04-02"/>
+    <cosponsor id="403308" joined="1987-04-02"/>
+    <cosponsor id="404422" joined="1987-04-21"/>
+    <cosponsor id="400240" joined="1987-04-21"/>
+    <cosponsor id="406790" joined="1987-05-19"/>
+    <cosponsor id="400281" joined="1987-04-02"/>
+    <cosponsor id="400306" joined="1987-05-19"/>
+    <cosponsor id="410066" joined="1987-04-21"/>
+    <cosponsor id="410145" joined="1987-04-21"/>
+    <cosponsor id="410641" joined="1987-04-07"/>
+    <cosponsor id="411224" joined="1987-04-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-16" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Referred to Subcommittee on Transportation, Aviation and Materials.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>See H.R.2.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY07" subcommittee="Transportation, Aviation and Materials" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Asphalt"/>
+    <term name="Bridges"/>
+    <term name="Concrete"/>
+    <term name="Highway construction and repair"/>
+    <term name="Highway maintenance"/>
+    <term name="Highway research"/>
+    <term name="Highway snow and ice control"/>
+    <term name="Roads and highways"/>
+    <term name="Streets"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/1987--Introduced.
+Highway Research and Development Act of 1987 - Directs the Secretary of Transportation to implement: (1) a study of asphaltic materials to determine their relationship to the durability and effectiveness of pavement surfaces; (2) a study to determine the long-term performance of various pavement surfaces under various load and environmental conditions; (3) a research project to develop improved procedures for administering and controlling highway maintenance programs; (4) a research project to determine new methods to reduce deterioration of existing chloride-contaminated bridge decks; (5) a research project to determine methods of improving the quality and durability of concrete; (6) a research project to determine methods of reducing the use of salt in snow and ice control on highways; and (7) the use of specified advanced materials in highway structural applications. Requires the Secretary to report annually to the Congress on such studies and research. Authorizes appropriations for FY 1988 through 1990.</summary>
+</bill>

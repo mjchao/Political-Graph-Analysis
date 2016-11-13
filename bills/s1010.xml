@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="1010" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-10"/>
+  </status>
+  <introduced datetime="1987-04-10"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Community Nursing and Ambulatory Care Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for community nursing and ambulatory care to medicare beneficiaries on a prepaid, capitated basis.</title>
+  </titles>
+  <sponsor id="402412"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-04-21"/>
+    <cosponsor id="403669" joined="1987-04-21"/>
+    <cosponsor id="300051" joined="1987-04-10"/>
+    <cosponsor id="300056" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1161"/>
+    <bill relation="identical" session="100" type="s" number="1003"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Ambulatory care"/>
+    <term name="Community health services"/>
+    <term name="Health"/>
+    <term name="Health maintenance organizations"/>
+    <term name="Medicare"/>
+    <term name="Nursing"/>
+    <term name="Prospective payment systems (Medical care)"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/1987--Introduced.
+Medicare Community Nursing and Ambulatory Care Act of 1987 - Amends title XVIII (Medicare) of the Social Security Act to permit Medicare beneficiaries (other than those with end-stage renal disease) to enroll with eligible organizations with which the Secretary of Health and Human Services enters a contract for the provision of community nursing and ambulatory care on a prepaid, capitated basis. Lists the services and supplies which comprise community nursing and ambulatory care. Defines an "eligible organization" as a public or private entity which: (1) primarily engages in the provision of community nursing and ambulatory care; (2) provides such care through or under the supervision of a registered nurse; (3) maintains clinical records on all patients; and (4) maintains procedures for referring cases to or consulting with other health care providers. Requires the Secretary to annually publish a per capita rate of payment for each class of enrollees equal to 95 percent of the adjusted average per capita cost for such class. Directs the Secretary to make monthly prepayments to such organizations in accordance with such rates. Authorizes retroactive payment adjustments to account for differences between the actual number of enrollees and the number of enrollees estimated for the purpose of determining the advance payment. Prohibits enrollee charges from exceeding charges for which they would be liable in the absence of their enrollment. Authorizes eligible organizations to provide enrollees with optional additional care. Requires the provision of additional care where the average of the per capita rates of payment to an organization exceeds the adjusted community rate for community nursing and ambulatory care, unless the organization elects to have such payments reduced or withheld. Makes certain Medicare provisions which are applicable to health maintenance organizations and competitive medical plans applicable to organizations providing care pursuant to this Act, including provisions regarding: (1) enrollment periods; (2) enrollee grievance procedures; (3) health care quality assurance programs; and (4) the organization's status as a secondary payor.</summary>
+</bill>

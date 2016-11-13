@@ -1,0 +1,74 @@
+<bill session="100" type="h" number="3085" updated="2014-03-22T09:52:44-04:00">
+  <state datetime="1987-08-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-08-20"/>
+  </status>
+  <introduced datetime="1987-08-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Water Resources Development Act of 1986 relating to the level of flood protection provided by the flood control project for Lock Haven, Pennsylvania.</title>
+  </titles>
+  <sponsor id="402657"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-04">
+      <text>Placed on Union Calendar No: 169.</text>
+    </action>
+    <action datetime="1987-08-04" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-08-04" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-08-04">
+      <text>Reported to House by House Committee on Public Works and Transportation.  Report No: 100-272.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-06">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-08-07" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-08-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-08-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-08-12">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-08-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-08-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-109" type="public" datetime="1987-08-20">
+      <text>Became Public Law No: 100-109.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Flood control"/>
+    <term name="Pennsylvania"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments>
+    <amendment number="h384"/>
+  </amendments>
+  <summary>8/6/1987--Passed House amended.
+(Measure passed House, amended) Amends the Water Resources Development Act of 1986 to modify the flood control project at Lock Haven, Pennsylvania, as provided in the report of the District Engineer dated May 1987.</summary>
+</bill>

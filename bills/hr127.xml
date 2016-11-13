@@ -1,0 +1,61 @@
+<bill session="100" type="hr" number="127" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-03-25">REPORTED</state>
+  <status>
+    <unknown datetime="1987-03-25"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A resolution relating to the semiconductor antidumping enforcement agreement.</title>
+  </titles>
+  <sponsor id="400256"/>
+  <cosponsors>
+    <cosponsor id="400146" joined="1987-03-19"/>
+    <cosponsor id="408725" joined="1987-03-19"/>
+    <cosponsor id="409251" joined="1987-03-19"/>
+    <cosponsor id="409644" joined="1987-03-19"/>
+    <cosponsor id="410251" joined="1987-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <calendar datetime="1987-03-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-03-25">
+      <text>House Committee on Ways and Means Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sr" number="164"/>
+    <bill relation="identical" session="100" type="sr" number="164"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Computers"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import relief"/>
+    <term name="Imports"/>
+    <term name="Japan"/>
+    <term name="Science and technology"/>
+    <term name="Science, technology, communications"/>
+    <term name="Semiconductors"/>
+    <term name="Trade agreements"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments>
+    <amendment number="h25"/>
+  </amendments>
+  <summary>3/25/1987--Passed House amended.
+(Measure passed House, amended) Expresses the sense of the House of Representatives that: (1) the President should take appropriate actions under the Trade Act of 1974 to remedy and prevent further violation of the U.S.-Japan agreement on semiconductors by Japan, to induce compliance, to compensate the United States for the harm suffered because of non-compliance by Japan, and to prevent further injury to the United States; (2) such actions should serve to increase international semiconductor trade and help enforce commitments and achieve the objectives of the agreement; (3) such actions should penalize those who have acted inconsistently with the agreement; and (4) such actions may be directed at products which contain semiconductors. Declares that the President should immediately take all appropriate actions to communicate with the Government of Japan to insure that the commitment made by Japan under the terms of the Market Opening Sector Specific telecommunications negotiations for up to 33 percent equity participation by foreign firms in any consortium formed to compete with Kokusai Denshin Denwa be fulfilled.</summary>
+</bill>

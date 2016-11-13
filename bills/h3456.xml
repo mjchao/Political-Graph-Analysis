@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="3456" updated="2014-03-22T09:52:52-04:00">
+  <state datetime="1987-10-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-08"/>
+  </status>
+  <introduced datetime="1987-10-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the lease, sale, and other disposition of lands owned in fee simple by the Mississippi Band of Choctaw Indians.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-08" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Favorable Executive Comment Received From Interior.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands"/>
+    <term name="Mississippi"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/1987--Introduced.
+Authorizes the Tribal Council of the Mississippi Band of Choctaw Indians to lease, sell, or otherwise dispose of land it owns in fee simple without creating liability for the United States.</summary>
+</bill>

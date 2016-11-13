@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="5219" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the temporary suspension of duty on certain television picture tubes.</title>
+  </titles>
+  <sponsor id="400188"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2862"/>
+    <bill relation="identical" session="100" type="s" number="2862"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Equipment and supplies"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+    <term name="Television"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Amends the Tariff Schedules of the United States to extend, through September 30, 1989, the suspension of duty on certain television picture tubes.</summary>
+</bill>

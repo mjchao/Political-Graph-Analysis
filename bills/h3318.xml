@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="3318" updated="2014-03-22T09:52:49-04:00">
+  <state datetime="1987-09-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-21"/>
+  </status>
+  <introduced datetime="1987-09-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Manuel, Felix, and William Marrero.</title>
+  </titles>
+  <sponsor id="404376"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-21" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-25">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>9/21/1987--Introduced.
+Declares that three named sons of a Secret Service agent who was killed while on duty shall be considered to be children residing with a parent employed by the United States and thus be eligible to receive free public education under specified Federal law.</summary>
+</bill>

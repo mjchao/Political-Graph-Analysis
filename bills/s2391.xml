@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="2391" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-13"/>
+  </status>
+  <introduced datetime="1988-05-13"/>
+  <titles>
+    <title type="official" as="introduced">To amend the Federal-Aid Highway Act of 1987 to establish a priority project.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="407355" joined="1988-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4607"/>
+    <bill relation="identical" session="100" type="h" number="4607"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Federal aid highway program"/>
+    <term name="Highway construction and repair"/>
+    <term name="Highway engineering"/>
+    <term name="Idaho"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/1988--Introduced.
+Amends the Federal-Aid Highway Act of 1987 to authorize the Secretary of Transportation to carry out work on U.S. Route 95 from Eastport, Idaho, to Homedale, Idaho.</summary>
+</bill>

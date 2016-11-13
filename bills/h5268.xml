@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="5268" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-09-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-08"/>
+  </status>
+  <introduced datetime="1988-09-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of James C. Pope.</title>
+  </titles>
+  <sponsor id="411119"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>9/8/1988--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual representing salary not received after his dismissal from the Office of General Aviation of the Federal Aviation Administration for whistle-blowing activities. Provides for the calculation of his retirement annuities.</summary>
+</bill>

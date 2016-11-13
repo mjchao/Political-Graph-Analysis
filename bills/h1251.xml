@@ -1,0 +1,31 @@
+<bill session="100" type="h" number="1251" updated="2014-03-22T09:51:45-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 3104 of title 38, United States Code, to permit certain service-connected disabled veterans who are retired members of the Armed Forces to receive compensation concurrently with retired pay, without deduction from either.</title>
+  </titles>
+  <sponsor id="404750"/>
+  <cosponsors>
+    <cosponsor id="400552" joined="1987-12-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military pensions"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Permits certain veterans with service-connected disabilities who are retired members of the uniformed services to receive compensation concurrently with retired pay, without deduction from either.</summary>
+</bill>

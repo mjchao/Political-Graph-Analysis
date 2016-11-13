@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1416" updated="2014-03-22T09:51:49-04:00">
+  <state datetime="1987-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-04"/>
+  </status>
+  <introduced datetime="1987-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to restrict oil exports to noncontiguous countries.</title>
+  </titles>
+  <sponsor id="411834"/>
+  <cosponsors>
+    <cosponsor id="407519" joined="1987-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-04" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Provisions of Measure Incorporated Into H.R.3.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Export controls"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1987--Introduced.
+Amends the Export Administration Act of 1979 to prohibit the export of domestically produced crude oil and refined or partially refined petroleum products produced by an export refinery, except when such exports would be in the national interest or under other specified conditions. (Present law prohibits the export of only Alaskan oil.) Defines an "export refinery" as any crude oil refinery which would export more than 33 percent of the petroleum products produced by the refinery during a specified period of time. Exempts from such restrictions crude oil and refined or partially refined petroleum products exported to a country adjacent to the United States, if specified conditions are met.</summary>
+</bill>

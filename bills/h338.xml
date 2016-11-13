@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="338" updated="2014-03-22T09:51:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make it a Federal offense for certain persons to intentionally donate blood, semen, or an organ.</title>
+  </titles>
+  <sponsor id="403184"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-10"/>
+    <cosponsor id="401029" joined="1987-03-10"/>
+    <cosponsor id="400055" joined="1987-04-09"/>
+    <cosponsor id="400104" joined="1987-03-10"/>
+    <cosponsor id="403545" joined="1987-02-02"/>
+    <cosponsor id="404587" joined="1987-03-30"/>
+    <cosponsor id="405855" joined="1987-09-30"/>
+    <cosponsor id="300055" joined="1987-04-06"/>
+    <cosponsor id="407162" joined="1988-09-16"/>
+    <cosponsor id="400596" joined="1987-04-06"/>
+    <cosponsor id="408190" joined="1987-07-21"/>
+    <cosponsor id="300155" joined="1987-03-10"/>
+    <cosponsor id="400389" joined="1987-02-02"/>
+    <cosponsor id="410574" joined="1987-05-28"/>
+    <cosponsor id="411405" joined="1987-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Blood"/>
+    <term name="Blood donors"/>
+    <term name="Communicable diseases"/>
+    <term name="Donation of organs, tissues, etc."/>
+    <term name="Health"/>
+    <term name="Hemophilia"/>
+    <term name="Prostitution"/>
+    <term name="Transplantation of organs, tissues, etc."/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Makes it a Federal offense, punishable by imprisonment for not more than ten years, for any person to intentionally donate blood, semen, or an organ if such person knows he: (1) has acquired immune deficiency syndrome (AIDS); (2) has had sexual relations with a male since 1977; (3) is an intravenous drug user; (4) has received a blood transfusion within the past year; (5) is a hemophiliac who has used a clotting factor; or (6) has engaged in prostitution since 1977.</summary>
+</bill>

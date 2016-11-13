@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="3031" updated="2014-03-22T09:52:37-04:00">
+  <state datetime="1987-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-28"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XII of the Social Security Act with respect to the repayment of advances made to certain States under such title, and to place a certain limitation on the reduction in credits for the tax imposed under the Federal Unemployment Tax Act.</title>
+  </titles>
+  <sponsor id="406863"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-28" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Tax credits"/>
+    <term name="Taxation"/>
+    <term name="Unemployment insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1987--Introduced.
+Amends title XII (Advances to State Unemployment Funds) of the Social Security Act to provide that a State with long-term unemployment problems and an insolvent unemployment compensation program shall not be charged with interest attributable to periods during FY 1987 unless such State fails to meet specified requirements. Requires such a State during each of FY 1988 through 1991 to: (1) carry out its unemployment compensation system without increasing its balance of advances at the end of each such year; and (2) repay advances so that it has no balance of advances remaining at the end of FY 1991. Amends the Federal Unemployment Tax Act, in the case of any such State which meets the above requirements, to state that the reduction in specified credits otherwise applicable to taxpayers subject to the unemployment compensation law of such State for any taxable year beginning with taxable year 1988 shall not exceed the reduction which was in effect with respect to such State for taxable year 1987.</summary>
+</bill>

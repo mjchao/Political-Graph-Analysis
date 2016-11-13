@@ -1,0 +1,41 @@
+<bill session="100" type="hc" number="150" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-07-01">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1987-07-01"/>
+  </status>
+  <introduced datetime="1987-06-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to correct technical errors in the enrollment of the bill H.R. 558.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-30">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-07-01" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Agriculture and food"/>
+    <term name="Food stamps"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1987--Introduced.
+Makes corrections in the enrollment of H.R. 558 (Stewart B. McKinney Homeless Assistance Act) as it concerns food stamp program household determinations and annual standard deduction adjustments.</summary>
+</bill>

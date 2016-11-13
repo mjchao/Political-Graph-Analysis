@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="3476" updated="2014-03-22T09:52:52-04:00">
+  <state datetime="1987-10-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-13"/>
+  </status>
+  <introduced datetime="1987-10-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to restrict transfers of STINGER missiles to foreign military or paramilitary forces.</title>
+  </titles>
+  <sponsor id="406765"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-13" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-11-04">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Antiaircraft missiles"/>
+    <term name="Arms sales"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Guided missiles"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1987--Introduced.
+Prohibits the transfer of any Stinger air defense guided missile (or any other man-portable ground-to-air missile with comparable advanced technology) to any foreign military or paramilitary force. Excepts from such prohibition transfers of such missiles to: (1) the North Atlantic Treaty Organization (NATO) or the armed forces of a member nation; (2) the armed forces of a country designated as a major non-NATO ally under the National Defense Authorization Act of Fiscal Year 1987; and (3) any other nation as specifically authorized by the Congress.</summary>
+</bill>

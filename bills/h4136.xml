@@ -1,0 +1,144 @@
+<bill session="100" type="h" number="4136" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-10"/>
+  </status>
+  <introduced datetime="1988-03-10"/>
+  <titles>
+    <title type="short" as="introduced">AIDS Health Care Financing Act of 1988</title>
+    <title type="official" as="introduced">A bill to promote the provision of, and provide financing for, appropriate patient care for individuals with acquired immune deficiency syndrome (AIDS).</title>
+  </titles>
+  <sponsor id="400314"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-06-08"/>
+    <cosponsor id="400844" joined="1988-05-19"/>
+    <cosponsor id="400975" joined="1988-03-10"/>
+    <cosponsor id="401231" joined="1988-03-28"/>
+    <cosponsor id="401310" joined="1988-03-10"/>
+    <cosponsor id="400025" joined="1988-03-16"/>
+    <cosponsor id="401418" joined="1988-03-28"/>
+    <cosponsor id="401612" joined="1988-05-19"/>
+    <cosponsor id="300011" joined="1988-03-10"/>
+    <cosponsor id="400572" joined="1988-04-19"/>
+    <cosponsor id="402114" joined="1988-05-03"/>
+    <cosponsor id="400064" joined="1988-03-10"/>
+    <cosponsor id="402626" joined="1988-03-10"/>
+    <cosponsor id="402710" joined="1988-03-10"/>
+    <cosponsor id="402763" joined="1988-04-19"/>
+    <cosponsor id="400543" joined="1988-03-10"/>
+    <cosponsor id="403031" joined="1988-03-10"/>
+    <cosponsor id="403314" joined="1988-05-03"/>
+    <cosponsor id="400100" joined="1988-03-10"/>
+    <cosponsor id="403364" joined="1988-03-10"/>
+    <cosponsor id="400110" joined="1988-03-28"/>
+    <cosponsor id="400580" joined="1988-03-16"/>
+    <cosponsor id="403581" joined="1988-03-10"/>
+    <cosponsor id="403695" joined="1988-03-10"/>
+    <cosponsor id="403776" joined="1988-03-10"/>
+    <cosponsor id="404006" joined="1988-03-10"/>
+    <cosponsor id="404013" joined="1988-03-10"/>
+    <cosponsor id="404139" joined="1988-09-07"/>
+    <cosponsor id="404190" joined="1988-03-10"/>
+    <cosponsor id="400140" joined="1988-03-10"/>
+    <cosponsor id="404376" joined="1988-03-28"/>
+    <cosponsor id="404422" joined="1988-03-16"/>
+    <cosponsor id="400585" joined="1988-03-10"/>
+    <cosponsor id="404765" joined="1988-03-10"/>
+    <cosponsor id="405236" joined="1988-03-10"/>
+    <cosponsor id="405256" joined="1988-03-28"/>
+    <cosponsor id="400189" joined="1988-03-10"/>
+    <cosponsor id="406191" joined="1988-03-10"/>
+    <cosponsor id="406277" joined="1988-03-10"/>
+    <cosponsor id="400231" joined="1988-03-28"/>
+    <cosponsor id="406729" joined="1988-05-19"/>
+    <cosponsor id="406740" joined="1988-03-10"/>
+    <cosponsor id="406765" joined="1988-05-19"/>
+    <cosponsor id="400240" joined="1988-03-10"/>
+    <cosponsor id="406974" joined="1988-03-10"/>
+    <cosponsor id="400595" joined="1988-05-19"/>
+    <cosponsor id="400256" joined="1988-03-10"/>
+    <cosponsor id="407672" joined="1988-03-16"/>
+    <cosponsor id="400278" joined="1988-03-10"/>
+    <cosponsor id="407772" joined="1988-06-28"/>
+    <cosponsor id="407960" joined="1988-09-07"/>
+    <cosponsor id="400306" joined="1988-03-10"/>
+    <cosponsor id="408457" joined="1988-05-19"/>
+    <cosponsor id="400333" joined="1988-03-10"/>
+    <cosponsor id="409446" joined="1988-05-19"/>
+    <cosponsor id="409650" joined="1988-03-10"/>
+    <cosponsor id="400370" joined="1988-03-10"/>
+    <cosponsor id="409901" joined="1988-05-26"/>
+    <cosponsor id="410145" joined="1988-03-10"/>
+    <cosponsor id="400387" joined="1988-03-10"/>
+    <cosponsor id="410407" joined="1988-03-10"/>
+    <cosponsor id="410496" joined="1988-03-10"/>
+    <cosponsor id="410889" joined="1988-03-10"/>
+    <cosponsor id="400409" joined="1988-03-10"/>
+    <cosponsor id="400425" joined="1988-03-10"/>
+    <cosponsor id="411426" joined="1988-03-10"/>
+    <cosponsor id="411834" joined="1988-05-03"/>
+    <cosponsor id="300100" joined="1988-05-26"/>
+    <cosponsor id="411947" joined="1988-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-10" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-03-10">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-10">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+    <action datetime="1988-04-06">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2823"/>
+    <bill relation="identical" session="100" type="s" number="2823"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Business and commerce"/>
+    <term name="Coinsurance"/>
+    <term name="Communicable diseases"/>
+    <term name="Community health services"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Employee benefit plans"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Grants-in-aid"/>
+    <term name="Group insurance"/>
+    <term name="Health facilities"/>
+    <term name="Health insurance"/>
+    <term name="Home care services"/>
+    <term name="Insurance"/>
+    <term name="Insurance premiums"/>
+    <term name="Labor and employment"/>
+    <term name="Medicaid"/>
+    <term name="Medical centers"/>
+    <term name="Mental health"/>
+    <term name="Mental health services"/>
+    <term name="Public assistance programs"/>
+    <term name="Public health"/>
+    <term name="Social welfare"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Treatment and rehabilitation of narcotic addicts"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1988--Introduced.
+AIDS Health Care Financing Act of 1988 - Amends the Internal Revenue Code, the Employee Retirement Income Security Act of 1974 (ERISA), and the Public Health Service Act to extend the maximum required period of continuation coverage of group health plans from 18 months to 29 months for an individual determined, under title II (Old Age, Survivors and Disability Insurance) or title XVI (Supplemental Security Income) of the Social Security Act, to have been disabled at the time of termination or reduction in hours. Increases the premium which plans are permitted to require for continuation coverage from 102 percent to 152 percent of the applicable premium for the period for any month after the 18th month of continuation coverage after terminations, reduced hours, or multiple qualifying events. Amends title XIX (Medicaid) of the Social Security Act to permit States to pay expenses of an individual eligible for benefits under its plan for premiums, deductibles, coinsurance, or similar costs for health coverage offered by the individual's employer, including continuation coverage. Directs the Secretary of Health and Human Services to provide for a three-year program of grants to States to assist in paying premiums, deductibles, coinsurance, and similar costs for continuation coverage for individuals who were disabled at the time of termination of employment. Sets forth reporting requirements. Authorizes appropriations for FY 1989 through 1991. Provides that when the Secretary allows a State Medicaid plan to provide for payment for individuals with acquired immune deficiency syndrome (AIDS) or an AIDS-related condition, for home or community-based services such as home health care, personal care services, case management services, outpatient mental health treatment, and outpatient substance abuse treatment, the Federal medical assistance percentage shall not be less than 75 percent. Declares that nothing in title XIX of the Social Security Act shall be construed as preventing a State from establishing differential payment rates for providers to reflect the additional costs of providing services to patients with AIDS or an AIDS-related condition. Directs the Secretary to provide for up to four Regional AIDS Treatment Demonstration Projects for individuals with AIDS and AIDS-related conditions in areas which do not have a disproportionate number of such individuals. Requires the projects to incorporate innovative approaches to the delivery of necessary services, particularly focusing on community-based services. Requires each project to provide for case management services and community-based services. Sets forth considerations in selection of projects. Authorizes appropriations for FY 1989 through 1991. Sets forth reporting requirements. Directs the Secretary to establish up to six Demonstration HIV Monitoring and Treatment Centers for individuals diagnosed as infected with a virus related to the development of AIDS but who have not developed AIDS. Sets forth terms and conditions relating to the imposition of charges for services, the development of model clinical treatment plans, and confidentiality of records. Sets forth reporting requirements. Authorizes appropriations for FY 1989 through 1991. Directs the Secretary to provide financial assistance to up to four local projects which have established AIDS prevention and treatment services to permit the projects to assist entities in developing and establishing similar local projects in other areas. Allows the assistance to be used for staff, overhead, and the preparation and reproduction of educational materials. Prohibits use of the assistance for AIDS prevention and treatment services. Authorizes appropriations for FY 1989 through 1991. Directs the Secretary to provide financial assistance to local governments which demonstrate a disproportionate share of: (1) residents with AIDS or an AIDS-related condition; or (2) expenditures from local funds for treatment of such syndrome or condition. Sets forth reporting requirements. Authorizes appropriations for FY 1989 through 1991.</summary>
+</bill>

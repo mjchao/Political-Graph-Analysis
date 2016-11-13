@@ -1,0 +1,106 @@
+<bill session="100" type="h" number="4443" updated="2014-03-22T09:53:17-04:00">
+  <state datetime="1988-09-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Martin Luther King, Jr., Federal Holiday Commission Extension Act</title>
+    <title type="short" as="reported to house">Martin Luther King, Jr., Federal Holiday Commission Extension Act</title>
+    <title type="short" as="passed house">Martin Luther King, Jr., Federal Holiday Commission Extension Act</title>
+    <title type="official" as="introduced">A bill to make permanent the Martin Luther King, Jr. Federal Holiday Commission.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="401560" joined="1988-04-21"/>
+    <cosponsor id="300011" joined="1988-04-21"/>
+    <cosponsor id="401947" joined="1988-04-21"/>
+    <cosponsor id="402763" joined="1988-04-21"/>
+    <cosponsor id="402928" joined="1988-04-21"/>
+    <cosponsor id="403031" joined="1988-04-21"/>
+    <cosponsor id="403364" joined="1988-04-21"/>
+    <cosponsor id="403695" joined="1988-04-21"/>
+    <cosponsor id="400126" joined="1988-04-21"/>
+    <cosponsor id="404006" joined="1988-04-21"/>
+    <cosponsor id="404013" joined="1988-04-21"/>
+    <cosponsor id="404139" joined="1988-04-21"/>
+    <cosponsor id="404376" joined="1988-04-21"/>
+    <cosponsor id="404422" joined="1988-04-21"/>
+    <cosponsor id="404752" joined="1988-04-21"/>
+    <cosponsor id="405236" joined="1988-04-21"/>
+    <cosponsor id="405256" joined="1988-04-21"/>
+    <cosponsor id="405646" joined="1988-04-21"/>
+    <cosponsor id="405775" joined="1988-04-21"/>
+    <cosponsor id="400211" joined="1988-04-21"/>
+    <cosponsor id="400238" joined="1988-04-21"/>
+    <cosponsor id="400240" joined="1988-04-21"/>
+    <cosponsor id="400562" joined="1988-04-21"/>
+    <cosponsor id="407306" joined="1988-04-21"/>
+    <cosponsor id="407672" joined="1988-04-21"/>
+    <cosponsor id="400306" joined="1988-04-21"/>
+    <cosponsor id="400314" joined="1988-04-21"/>
+    <cosponsor id="408621" joined="1988-04-21"/>
+    <cosponsor id="409353" joined="1988-04-21"/>
+    <cosponsor id="400354" joined="1988-04-21"/>
+    <cosponsor id="400611" joined="1988-04-21"/>
+    <cosponsor id="411426" joined="1988-04-21"/>
+    <cosponsor id="411488" joined="1988-04-21"/>
+    <cosponsor id="411834" joined="1988-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-21" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Executive Comment Requested from OMB,, Martin Luther King JR Fed Holiday Comm.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-15">
+      <text>Reported to House (Amended) by House Committee on Post Office and Civil Service.  Report No: 100-919.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Placed on Union Calendar No: 553.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advisory bodies"/>
+    <term name="Authorization"/>
+    <term name="Commemorations"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Holidays"/>
+    <term name="Martin Luther King Day"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Passed House amended.
+(Measure passed House, amended) Martin Luther King, Jr., Federal Holiday Commission Extension Act - Makes permanent the Martin Luther King, Jr. Federal Holiday Commission. (Current law terminates the Commission on April 20, 1989.) Makes the term of Commission members one year, except for Coretta Scott King (life term) and members of the family surviving Martin Luther King, Jr. (at the discretion of the family). Replaces provisions requiring all expenditures of the Commission to be from donated funds with provisions authorizing appropriations for each fiscal year. Makes payment of expenses for Commission members and staff salary subject to the availability of funds.</summary>
+</bill>

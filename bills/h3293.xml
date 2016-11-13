@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3293" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-16"/>
+  </status>
+  <introduced datetime="1987-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act.</title>
+  </titles>
+  <sponsor id="409344"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-16" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-04-20">
+      <text>See H.R.1119.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1119"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Deportation"/>
+    <term name="Freedom of speech"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1987--Introduced.
+Amends the Immigration and Nationality Act with respect to specified (ideological) grounds for exclusion and deportation of aliens. Amends Federal law to repeal the provision requiring the Secretary of State to admit an alien excluded from nonimmigrant entry because of proscribed organization affiliation, but otherwise admissible, unless such person is a security risk.</summary>
+</bill>

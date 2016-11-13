@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="1474" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Oscar H. McCormack.</title>
+  </titles>
+  <sponsor id="403864"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-870.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Placed on Private Calendar No: 69.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Recommitted by House to House Committee on The Judiciary by Virtue of Objection Made on Call of Private Calendar.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Re-Commitment, Reporting"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Relieves a named individual of liability for repayment to the United States of an unspecified sum representing salary overpayments to such individual which occurred while he was an employee of the Department of Agriculture. Directs the Secretary of the Treasury to pay to such individual any amount paid by him or withheld from accounts otherwise due to him with respect to such indebtedness to the United States.</summary>
+</bill>

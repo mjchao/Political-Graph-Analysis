@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="2123" updated="2014-03-22T09:52:13-04:00">
+  <state datetime="1987-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-22"/>
+  </status>
+  <introduced datetime="1987-04-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the provisions of the Tax Reform Act of 1986 which require partnerships, S corporations, and personal service corporations to adopt certain taxable years.</title>
+  </titles>
+  <sponsor id="403696"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-22" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Business and commerce"/>
+    <term name="Close corporations"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Income tax"/>
+    <term name="Partnerships"/>
+    <term name="Small business"/>
+    <term name="Tax administration"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/1987--Introduced.
+Repeals specified provisions of the Tax Reform Act of 1986 that require partnerships, S corporations, and personal service corporations to adopt certain taxable years. Provides that the Internal Revenue Code shall be applied and administered as if such provisions had not been enacted.</summary>
+</bill>

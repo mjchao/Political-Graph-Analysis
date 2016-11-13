@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="4995" updated="2014-03-22T09:53:30-04:00">
+  <state datetime="1988-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-07"/>
+  </status>
+  <introduced datetime="1988-07-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to remove the authority of the Secretary of Agriculture to reduce the level of price support applicable to milk.</title>
+  </titles>
+  <sponsor id="407432"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-07" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-07-11">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Dairy products"/>
+    <term name="Milk"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/1988--Introduced.
+Amends the Agricultural Act of 1949 to repeal authority for certain milk price support reductions in 1989 and 1990. Increases the amount of estimated purchases necessary to trigger such price reductions for 1988.</summary>
+</bill>

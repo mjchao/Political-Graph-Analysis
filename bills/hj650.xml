@@ -1,0 +1,87 @@
+<bill session="100" type="hj" number="650" updated="2016-06-29T08:44:50-04:00">
+  <state datetime="1988-11-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-18"/>
+  </status>
+  <introduced datetime="1988-09-13"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating April 1989 as "Actors' Fund of America Appreciation Month".</title>
+  </titles>
+  <sponsor id="402710"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-09-13"/>
+    <cosponsor id="400025" joined="1988-09-13"/>
+    <cosponsor id="401417" joined="1988-09-13"/>
+    <cosponsor id="401446" joined="1988-09-13"/>
+    <cosponsor id="400542" joined="1988-09-13"/>
+    <cosponsor id="300011" joined="1988-09-13"/>
+    <cosponsor id="402325" joined="1988-09-13"/>
+    <cosponsor id="400080" joined="1988-09-13"/>
+    <cosponsor id="403308" joined="1988-09-13"/>
+    <cosponsor id="403314" joined="1988-09-13"/>
+    <cosponsor id="403545" joined="1988-09-13"/>
+    <cosponsor id="404376" joined="1988-09-13"/>
+    <cosponsor id="404422" joined="1988-09-13"/>
+    <cosponsor id="400155" joined="1988-09-13"/>
+    <cosponsor id="405209" joined="1988-09-13"/>
+    <cosponsor id="406740" joined="1988-09-16"/>
+    <cosponsor id="400238" joined="1988-09-16"/>
+    <cosponsor id="406765" joined="1988-09-16"/>
+    <cosponsor id="400253" joined="1988-09-13"/>
+    <cosponsor id="408621" joined="1988-09-13"/>
+    <cosponsor id="409632" joined="1988-09-13"/>
+    <cosponsor id="410066" joined="1988-09-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-13" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-16" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-19">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-10">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-686" type="public" datetime="1988-11-18">
+      <text>Became Public Law No: 100-686.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Charities"/>
+    <term name="Entertainers"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>9/13/1988--Introduced.
+Designates the month of April 1989 as Actors' Fund of America Appreciation Month.</summary>
+</bill>

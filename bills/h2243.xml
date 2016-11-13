@@ -1,0 +1,110 @@
+<bill session="100" type="h" number="2243" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-06-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-06-29"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building located at 10 Causeway Street, Boston, Massachusetts, as the "Thomas P. O'Neill, Jr. Federal Building".</title>
+  </titles>
+  <sponsor id="406277"/>
+  <cosponsors>
+    <cosponsor id="400895" joined="1987-04-30"/>
+    <cosponsor id="400975" joined="1987-04-30"/>
+    <cosponsor id="401568" joined="1987-04-30"/>
+    <cosponsor id="400527" joined="1987-04-30"/>
+    <cosponsor id="401837" joined="1987-04-30"/>
+    <cosponsor id="402710" joined="1987-04-30"/>
+    <cosponsor id="402833" joined="1987-04-30"/>
+    <cosponsor id="403308" joined="1987-04-30"/>
+    <cosponsor id="400580" joined="1987-04-30"/>
+    <cosponsor id="403529" joined="1987-04-30"/>
+    <cosponsor id="403709" joined="1987-04-30"/>
+    <cosponsor id="404002" joined="1987-04-30"/>
+    <cosponsor id="404193" joined="1987-04-30"/>
+    <cosponsor id="404220" joined="1987-04-30"/>
+    <cosponsor id="404752" joined="1987-04-30"/>
+    <cosponsor id="405236" joined="1987-04-30"/>
+    <cosponsor id="405687" joined="1987-05-13"/>
+    <cosponsor id="406148" joined="1987-04-30"/>
+    <cosponsor id="400537" joined="1987-04-30"/>
+    <cosponsor id="400253" joined="1987-04-30"/>
+    <cosponsor id="407282" joined="1987-04-30"/>
+    <cosponsor id="407676" joined="1987-04-30"/>
+    <cosponsor id="407772" joined="1987-04-30"/>
+    <cosponsor id="400600" joined="1987-04-30"/>
+    <cosponsor id="407838" joined="1987-04-30"/>
+    <cosponsor id="409344" joined="1987-04-30"/>
+    <cosponsor id="409353" joined="1987-04-30"/>
+    <cosponsor id="410231" joined="1987-04-30"/>
+    <cosponsor id="410496" joined="1987-04-30"/>
+    <cosponsor id="411587" joined="1987-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Subcommittee on Public Buildings and Grounds Discharged.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-03" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-04">
+      <text>Reported to House by House Committee on Public Works and Transportation.  Report No: 100-127.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Placed on House Calendar No: 35.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1987-06-09" calendar="Senate Legislative" under="General Orders" number="161">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 161.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-06-18" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-06-18">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-06-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-06-24">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-06-29" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-59" type="public" datetime="1987-06-29">
+      <text>Became Public Law No: 100-59.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal office buildings"/>
+    <term name="Massachusetts"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Designates the Federal building located on Causeway Street, Boston, Massachusetts, as the Thomas P. O'Neill, Jr., Federal Building.</summary>
+</bill>

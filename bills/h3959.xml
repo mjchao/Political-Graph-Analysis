@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="3959" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-17"/>
+  </status>
+  <introduced datetime="1988-02-17"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Line Item Impoundment Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Impoundment Control Act of 1974 to provide that a rescission of budget authority proposed by the President take effect unless Congress specifically adopts a joint resolution disapproving the proposed rescission.</title>
+  </titles>
+  <sponsor id="408407"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-17" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-02-17">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1988-02-26">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Executive impoundment of appropriated funds"/>
+    <term name="Federal budgets"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1988--Introduced.
+Emergency Line Item Impoundment Act of 1988 - Amends the Impoundment Control Act of 1974 to require the President to transmit a special rescission of budget authority message to the Congress within three days after the date of enactment of the law providing such budget authority. States that amounts proposed to be rescinded in such message shall not be made available for obligation unless, within a 45-day period, the Congress has disapproved of such rescission. Provides that funds made available after the congressional disapproval of a rescission may not be proposed for rescission again.</summary>
+</bill>

@@ -1,0 +1,101 @@
+<bill session="100" type="h" number="17" updated="2014-03-22T09:51:06-04:00">
+  <state datetime="1987-10-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-27"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Olmsted Heritage Landscapes Act of 1987</title>
+    <title type="short" as="reported to house">Olmsted Heritage Landscapes Act of 1987</title>
+    <title type="short" as="passed house">Olmsted Heritage Landscapes Act of 1987</title>
+    <title type="official" as="introduced">A bill to identify, commemorate, and preserve the legacy of historic landscapes of Frederick Law Olmsted, and for other purposes.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="1987-05-28"/>
+    <cosponsor id="402114" joined="1987-07-22"/>
+    <cosponsor id="402600" joined="1987-02-03"/>
+    <cosponsor id="404006" joined="1987-04-09"/>
+    <cosponsor id="404009" joined="1987-04-30"/>
+    <cosponsor id="400585" joined="1987-07-22"/>
+    <cosponsor id="405855" joined="1987-06-11"/>
+    <cosponsor id="406191" joined="1987-07-23"/>
+    <cosponsor id="400236" joined="1987-03-17"/>
+    <cosponsor id="400240" joined="1987-05-28"/>
+    <cosponsor id="406799" joined="1987-05-28"/>
+    <cosponsor id="407141" joined="1987-07-13"/>
+    <cosponsor id="407306" joined="1987-06-11"/>
+    <cosponsor id="407853" joined="1987-10-06"/>
+    <cosponsor id="407960" joined="1987-06-29"/>
+    <cosponsor id="400604" joined="1987-04-23"/>
+    <cosponsor id="409205" joined="1987-07-13"/>
+    <cosponsor id="409443" joined="1987-07-23"/>
+    <cosponsor id="409644" joined="1987-07-23"/>
+    <cosponsor id="410496" joined="1987-07-13"/>
+    <cosponsor id="400425" joined="1987-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-08">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-26">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-392.</text>
+    </action>
+    <action datetime="1987-10-26">
+      <text>Placed on Union Calendar No: 252.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2931"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Historic sites"/>
+    <term name="Landscape architecture"/>
+    <term name="Massachusetts"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1987--Passed House amended.
+(Measure passed House, amended) Olmsted Heritage Landscapes Act of 1987 - Directs the Secretary of the Interior, acting through the Director of the National Park Service, to encourage States to identify and nominate historic landscapes in general and Olmsted heritage landscapes in particular for inclusion on the National Register. Requires the Secretary to determine a site's eligibility and to keep research records of historic landscapes on a State-by-State basis. Requires the Secretary to make information and assistance available to States and the interested public. Directs the Secretary to study and report to the Congress within five years a thematic study of historical landscapes which would qualify as national historic landmarks. Requires the Secretary to encourage the use of the Frederick Law Olmsted National Historic Site in Brookline, Massachusetts, for research and related activities and to encouarge maximum public participation in all facets of this Act. Establishes an advisory commission to advise the Secretary on the preservation of the Historic Site and of other historic landscapes. Directs the Secretary, in consultation with the Librarian of Congress, the Secretary of the Smithsonian Institution, the Advisory Council on Historic Preservation, and other interested persons and organizations, to coordinate appropriate activities during 1987 through 1995 to commemorate the Olmsted achievement and influence. Authorizes appropriations.</summary>
+</bill>

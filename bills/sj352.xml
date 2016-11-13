@@ -1,0 +1,122 @@
+<bill session="100" type="sj" number="352" updated="2016-06-29T08:45:11-04:00">
+  <state datetime="1988-11-17">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-17"/>
+  </status>
+  <introduced datetime="1988-07-26"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating September 24, 1989, as "United States Marshals Bicentennial Day".</title>
+  </titles>
+  <sponsor id="300099"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-09-09"/>
+    <cosponsor id="401391" joined="1988-07-26"/>
+    <cosponsor id="401604" joined="1988-09-09"/>
+    <cosponsor id="300012" joined="1988-07-26"/>
+    <cosponsor id="402004" joined="1988-07-26"/>
+    <cosponsor id="402023" joined="1988-07-26"/>
+    <cosponsor id="300016" joined="1988-07-26"/>
+    <cosponsor id="402495" joined="1988-07-26"/>
+    <cosponsor id="300023" joined="1988-07-26"/>
+    <cosponsor id="403142" joined="1988-07-26"/>
+    <cosponsor id="403171" joined="1988-07-26"/>
+    <cosponsor id="300031" joined="1988-07-26"/>
+    <cosponsor id="403346" joined="1988-07-26"/>
+    <cosponsor id="403483" joined="1988-09-09"/>
+    <cosponsor id="403515" joined="1988-07-26"/>
+    <cosponsor id="300036" joined="1988-09-09"/>
+    <cosponsor id="403669" joined="1988-07-26"/>
+    <cosponsor id="403920" joined="1988-07-26"/>
+    <cosponsor id="404444" joined="1988-07-26"/>
+    <cosponsor id="404679" joined="1988-09-09"/>
+    <cosponsor id="300046" joined="1988-09-09"/>
+    <cosponsor id="300159" joined="1988-07-26"/>
+    <cosponsor id="300048" joined="1988-09-09"/>
+    <cosponsor id="300052" joined="1988-07-26"/>
+    <cosponsor id="405310" joined="1988-09-09"/>
+    <cosponsor id="300154" joined="1988-07-26"/>
+    <cosponsor id="300053" joined="1988-07-26"/>
+    <cosponsor id="300056" joined="1988-07-26"/>
+    <cosponsor id="406084" joined="1988-07-26"/>
+    <cosponsor id="300065" joined="1988-10-06"/>
+    <cosponsor id="300070" joined="1988-07-26"/>
+    <cosponsor id="407355" joined="1988-07-26"/>
+    <cosponsor id="300073" joined="1988-07-26"/>
+    <cosponsor id="400563" joined="1988-07-26"/>
+    <cosponsor id="300079" joined="1988-07-26"/>
+    <cosponsor id="408252" joined="1988-07-26"/>
+    <cosponsor id="408597" joined="1988-09-09"/>
+    <cosponsor id="408898" joined="1988-07-26"/>
+    <cosponsor id="408939" joined="1988-07-26"/>
+    <cosponsor id="408970" joined="1988-07-26"/>
+    <cosponsor id="300084" joined="1988-07-26"/>
+    <cosponsor id="300089" joined="1988-07-26"/>
+    <cosponsor id="409917" joined="1988-09-09"/>
+    <cosponsor id="409923" joined="1988-07-26"/>
+    <cosponsor id="410242" joined="1988-09-09"/>
+    <cosponsor id="410588" joined="1988-07-26"/>
+    <cosponsor id="300157" joined="1988-07-26"/>
+    <cosponsor id="410936" joined="1988-07-26"/>
+    <cosponsor id="411271" joined="1988-09-09"/>
+    <cosponsor id="411421" joined="1988-07-26"/>
+    <cosponsor id="411762" joined="1988-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1988-10-05" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-10-05">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-10-05" calendar="Senate Legislative" under="General Orders" number="1085">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1085.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-08">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-08">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-17" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-683" type="public" datetime="1988-11-17">
+      <text>Became Public Law No: 100-683.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="647"/>
+    <bill relation="identical" session="100" type="hj" number="647"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Judicial officers"/>
+    <term name="Law enforcement officers"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/1988--Introduced.
+Designates September 24, 1989, as United States Marshals Bicentennial Day.</summary>
+</bill>

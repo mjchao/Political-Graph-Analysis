@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="1506" updated="2014-03-22T09:55:21-04:00">
+  <state datetime="1987-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-07-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize the Administrator to provide national recreational activities for the rehabilitation of disabled veterans and to authorize other organizations to support and participate in such activities under certain circumstances.</title>
+  </titles>
+  <sponsor id="300150"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1987-07-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <calendar datetime="1987-07-31" state="REPORTED">
+      <text>Committee on Veterans. Provisions of measure incorporated into measure S. 9 ordered to be reported.</text>
+    </calendar>
+    <action datetime="1987-12-17">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="9"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Advertising"/>
+    <term name="Advertising and Marketing"/>
+    <term name="Business and commerce"/>
+    <term name="Endorsements in advertising"/>
+    <term name="Gifts"/>
+    <term name="Public service advertising"/>
+    <term name="Recreation"/>
+    <term name="Sales promotion"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/17/1987--Introduced.
+Amends Federal provisions relating to veterans' medical care to authorize the Administrator of Veterans Affairs to assist in providing recreational activities which would further the rehabilitation of disabled veterans if: (1) such activities are available to disabled veterans on a national basis; and (2) a significant percentage of participating individuals are eligible for veterans' rehabilitative services. Authorizes the Administrator to accept contributions from organizations for the support of such national recreational activities, and to allow such supporting organizations to advertise the activity or their participation therein if: (1) the Administrator has approved such advertisement; and (2) such advertisement makes it clear that any product or commercial line of such organization has not been endorsed by the Veterans Administration.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="100" type="hc" number="179" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress with respect to the long-range energy planning of the United States.</title>
+  </titles>
+  <sponsor id="406765"/>
+  <cosponsors>
+    <cosponsor id="400987" joined="1987-08-07"/>
+    <cosponsor id="401363" joined="1987-08-07"/>
+    <cosponsor id="401585" joined="1987-08-07"/>
+    <cosponsor id="300011" joined="1987-08-07"/>
+    <cosponsor id="404002" joined="1987-08-07"/>
+    <cosponsor id="405887" joined="1987-08-07"/>
+    <cosponsor id="400231" joined="1987-08-07"/>
+    <cosponsor id="406974" joined="1987-08-07"/>
+    <cosponsor id="408457" joined="1987-08-07"/>
+    <cosponsor id="409644" joined="1987-08-07"/>
+    <cosponsor id="410496" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy development"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Expresses the sense of the Congress that: (1) the Congress and the administration must take certain steps to ensure the continuing availability of energy and prevent further degradation of the environment; (2) the Congress must encourage the development of a national energy plan; (3) the development of all energy sources should be consistent with a national energy plan; and (4) none of the energy sources should bear the sole burden of meeting the Nation's long-term energy needs.</summary>
+</bill>

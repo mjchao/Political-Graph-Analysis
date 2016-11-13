@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="3847" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-25"/>
+  </status>
+  <introduced datetime="1988-01-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend chapter 13 of title 31, United States Code, to provide for an automatic continuing resolution for the United States Government.</title>
+  </titles>
+  <sponsor id="400544"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-01-25"/>
+    <cosponsor id="401986" joined="1988-04-26"/>
+    <cosponsor id="403242" joined="1988-02-08"/>
+    <cosponsor id="404009" joined="1988-02-08"/>
+    <cosponsor id="408190" joined="1988-01-25"/>
+    <cosponsor id="408490" joined="1988-01-25"/>
+    <cosponsor id="408618" joined="1988-01-25"/>
+    <cosponsor id="400604" joined="1988-01-25"/>
+    <cosponsor id="411585" joined="1988-02-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-25" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-01-25">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/1988--Introduced.
+Provides for automatic continuing appropriations if, by the beginning of a fiscal year, any regular appropriation bill does not become law.</summary>
+</bill>

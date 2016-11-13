@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="256" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-09"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Line-Item Rescission Act of 1985</title>
+    <title type="official" as="introduced">A bill to amend the Congressional Budget and Impoundment Control Act of 1974 to require expeditious consideration by the Congress of a proposal by the President to rescind all or part of any item of budget authority if the proposal is transmitted to the Congress on the same day on which the President approves the bill or joint resolution providing such budget authority.</title>
+  </titles>
+  <sponsor id="403483"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06">
+      <text>Read twice and referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, with instructions that if one committee reports, the other committee has thirty days of continuous session to report or be discharged.</text>
+    </action>
+    <action datetime="1987-02-09" state="REFERRED">
+      <text>Referred to Subcommittee on Federal Spending, Budget, Account.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, In Committee"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA02" subcommittee="Federal Spending, Budget, and Accounting" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3129"/>
+    <bill relation="identical" session="100" type="h" number="3129"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Executive impoundment of appropriated funds"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Line-Item Rescission Act of 1985 - Amends the Congressional Budget and Impoundment Control Act of 1974 to allow the President to transmit to both Houses of the Congress, for expedited consideration, one or more special messages proposing to rescind all or part of any item of budget authority provided in an appropriation bill. Sets forth required contents of such special message. Requires that such special message be transmitted on the same calendar day the President approves the appropriation bill and be accompanied by a draft bill or joint resolution that would, if enacted, rescind the budget authority proposed to be rescinded. Sets forth House and Senate procedures for the expedited consideration of such a proposal. Requires the item of budget authority proposed to be rescinded to be made available for obligation unless both Houses adopt the bill rescinding such item within 60 days.</summary>
+</bill>

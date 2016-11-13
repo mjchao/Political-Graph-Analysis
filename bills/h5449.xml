@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="5449" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-10-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Flood Control Act of 1954 to authorize the Secretary of the Armey to carry out bank erosion measures along the White, Black, and Little Red Rivers, Arkansas.</title>
+  </titles>
+  <sponsor id="400761"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-04" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-10-17">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Arkansas"/>
+    <term name="Beach erosion"/>
+    <term name="Flood control"/>
+    <term name="Rivers"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Introduced.
+Amends the Flood Control Act of 1954 to authorize the Secretary of the Army to take measures to alleviate bank erosion and related problems which constitute a threat to life and property along the White, Black, and Little Red Rivers, Arkansas.</summary>
+</bill>

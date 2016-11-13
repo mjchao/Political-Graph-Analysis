@@ -1,0 +1,92 @@
+<bill session="100" type="h" number="1436" updated="2014-03-22T09:51:49-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to limit the quantity of milk protein products that may be imported into the United States.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="400967" joined="1987-04-22"/>
+    <cosponsor id="400035" joined="1987-03-24"/>
+    <cosponsor id="300017" joined="1987-03-31"/>
+    <cosponsor id="402325" joined="1987-04-09"/>
+    <cosponsor id="402454" joined="1987-03-05"/>
+    <cosponsor id="402710" joined="1987-04-22"/>
+    <cosponsor id="403266" joined="1987-03-24"/>
+    <cosponsor id="403696" joined="1987-03-31"/>
+    <cosponsor id="403726" joined="1987-03-05"/>
+    <cosponsor id="400126" joined="1987-04-09"/>
+    <cosponsor id="404869" joined="1987-03-05"/>
+    <cosponsor id="405256" joined="1987-03-31"/>
+    <cosponsor id="300057" joined="1987-03-05"/>
+    <cosponsor id="300058" joined="1987-03-05"/>
+    <cosponsor id="406191" joined="1987-03-05"/>
+    <cosponsor id="400216" joined="1987-03-24"/>
+    <cosponsor id="406790" joined="1987-03-24"/>
+    <cosponsor id="407196" joined="1987-03-31"/>
+    <cosponsor id="407400" joined="1987-03-31"/>
+    <cosponsor id="407432" joined="1987-03-31"/>
+    <cosponsor id="407457" joined="1987-03-24"/>
+    <cosponsor id="407853" joined="1987-03-05"/>
+    <cosponsor id="400299" joined="1987-03-24"/>
+    <cosponsor id="400300" joined="1987-03-05"/>
+    <cosponsor id="400318" joined="1987-05-19"/>
+    <cosponsor id="408976" joined="1987-03-24"/>
+    <cosponsor id="409205" joined="1988-04-29"/>
+    <cosponsor id="409219" joined="1987-03-24"/>
+    <cosponsor id="409325" joined="1987-03-31"/>
+    <cosponsor id="409400" joined="1987-03-05"/>
+    <cosponsor id="409423" joined="1987-03-24"/>
+    <cosponsor id="409651" joined="1987-03-31"/>
+    <cosponsor id="409901" joined="1987-03-31"/>
+    <cosponsor id="400378" joined="1987-03-24"/>
+    <cosponsor id="410066" joined="1987-03-31"/>
+    <cosponsor id="410567" joined="1987-03-05"/>
+    <cosponsor id="410765" joined="1987-03-24"/>
+    <cosponsor id="400611" joined="1987-03-24"/>
+    <cosponsor id="410926" joined="1987-03-24"/>
+    <cosponsor id="411166" joined="1987-03-05"/>
+    <cosponsor id="411405" joined="1987-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-03-23">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, USDA, ITC, USTR.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="686"/>
+    <bill relation="identical" session="100" type="s" number="686"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Dairy products"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Licenses"/>
+    <term name="Milk"/>
+    <term name="Proteins"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Amends the Agricultural Act of 1949 to limit annual imports of milk protein products (casein) to 50 percent of the average annual amount imported during the period 1981 through 1985. Directs the Secretary of Agriculture to establish a preferential import licensing system for such products based on the availability of domestic substitutes.</summary>
+</bill>

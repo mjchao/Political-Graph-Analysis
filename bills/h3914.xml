@@ -1,0 +1,132 @@
+<bill session="100" type="h" number="3914" updated="2014-03-22T09:53:00-04:00">
+  <state datetime="1988-10-04">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Commission on Racially Motivated Violence Act of 1988</title>
+    <title type="short" as="passed house">Commission on Racially Motivated Violence Act of 1988</title>
+    <title type="official" as="introduced">A bill to establish a commission to investigate racially motivated violence.</title>
+  </titles>
+  <sponsor id="409344"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-02-16"/>
+    <cosponsor id="300001" joined="1988-02-29"/>
+    <cosponsor id="401418" joined="1988-02-24"/>
+    <cosponsor id="401526" joined="1988-02-24"/>
+    <cosponsor id="401560" joined="1988-02-17"/>
+    <cosponsor id="400527" joined="1988-06-07"/>
+    <cosponsor id="400542" joined="1988-06-07"/>
+    <cosponsor id="300011" joined="1988-02-29"/>
+    <cosponsor id="402114" joined="1988-03-22"/>
+    <cosponsor id="402626" joined="1988-06-01"/>
+    <cosponsor id="402763" joined="1988-03-10"/>
+    <cosponsor id="403314" joined="1988-02-17"/>
+    <cosponsor id="400100" joined="1988-02-24"/>
+    <cosponsor id="403364" joined="1988-02-29"/>
+    <cosponsor id="400580" joined="1988-02-17"/>
+    <cosponsor id="403695" joined="1988-02-16"/>
+    <cosponsor id="403904" joined="1988-04-12"/>
+    <cosponsor id="400126" joined="1988-02-29"/>
+    <cosponsor id="404002" joined="1988-02-24"/>
+    <cosponsor id="404006" joined="1988-02-17"/>
+    <cosponsor id="404013" joined="1988-04-12"/>
+    <cosponsor id="404097" joined="1988-02-04"/>
+    <cosponsor id="404139" joined="1988-06-07"/>
+    <cosponsor id="404190" joined="1988-03-22"/>
+    <cosponsor id="400140" joined="1988-06-07"/>
+    <cosponsor id="400143" joined="1988-02-29"/>
+    <cosponsor id="404422" joined="1988-02-29"/>
+    <cosponsor id="400585" joined="1988-04-20"/>
+    <cosponsor id="400536" joined="1988-02-16"/>
+    <cosponsor id="404765" joined="1988-02-17"/>
+    <cosponsor id="404856" joined="1988-09-28"/>
+    <cosponsor id="405236" joined="1988-02-29"/>
+    <cosponsor id="405687" joined="1988-02-16"/>
+    <cosponsor id="400189" joined="1988-02-17"/>
+    <cosponsor id="405775" joined="1988-07-07"/>
+    <cosponsor id="400211" joined="1988-02-24"/>
+    <cosponsor id="406530" joined="1988-02-17"/>
+    <cosponsor id="406740" joined="1988-03-22"/>
+    <cosponsor id="400240" joined="1988-02-17"/>
+    <cosponsor id="407141" joined="1988-03-22"/>
+    <cosponsor id="400261" joined="1988-09-28"/>
+    <cosponsor id="400278" joined="1988-02-16"/>
+    <cosponsor id="400524" joined="1988-06-07"/>
+    <cosponsor id="400306" joined="1988-03-15"/>
+    <cosponsor id="408407" joined="1988-02-29"/>
+    <cosponsor id="400354" joined="1988-02-16"/>
+    <cosponsor id="409644" joined="1988-04-20"/>
+    <cosponsor id="400609" joined="1988-02-16"/>
+    <cosponsor id="410066" joined="1988-02-16"/>
+    <cosponsor id="410455" joined="1988-02-24"/>
+    <cosponsor id="400409" joined="1988-07-07"/>
+    <cosponsor id="411426" joined="1988-02-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-04" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1988-05-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-28">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-999.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Placed on Union Calendar No: 592.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="390" datetime="1988-10-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 408 - 6 (Record Vote No: 390).</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Advisory bodies"/>
+    <term name="Crime prevention"/>
+    <term name="Crimes against minorities"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Minorities"/>
+    <term name="Minorities and crime"/>
+    <term name="Racial violence"/>
+    <term name="Racism"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Passed House amended.
+(Measure passed House, amended, roll call #390 (408-6)) Commission on Racially Motivated Violence Act of 1988 - Establishes the Commission on Racially Motivated Violence to: (1) investigate racially motivated violence; (2) make recommendations regarding issues related to such violence; (3) consult with representatives of groups interested in protecting minority rights; and (4) collect and analyze information concerning such acts of violence. Directs the Commission to prepare a report: (1) specifying the results of such investigation; and (2) containing recommendations to reduce such violence. Requires the Commission to transmit the report to the President, the Speaker of the House of Representatives, and the President pro tempore of the Senate not later than one year after the first Commission meeting. Terminates the Commission 60 days after submission of such report. Authorizes appropriations for each fiscal year in which the Commission is in existence.</summary>
+</bill>

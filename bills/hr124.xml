@@ -1,0 +1,43 @@
+<bill session="100" type="hr" number="124" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-03-17">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving points of order against the conference report on the bill (H.R. 2) to authorize funds for construction of highways, for highway safety programs, and for mass transportation programs, to expand and improve the relocation assistance program, and for other purposes, and against the consideration of such conference report, and providing for the consideration of the concurrent resolution (H.Con.Res. 77) to make a correction, relating to the maximum speed limit, in the enrollment of the bill H.R. 2.</title>
+  </titles>
+  <sponsor id="400600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-17">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-26.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Placed on House Calendar No: 9.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="hc" number="77"/>
+    <bill relation="ruled-by" session="100" type="h" number="2"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Waives points of order against the conference report on H.R. 2 (surface transportation assistance) and against its consideration.</summary>
+</bill>

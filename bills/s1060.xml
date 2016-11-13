@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1060" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-21"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit taxpayers to elect to deduct either State and local sales taxes or State income taxes.</title>
+  </titles>
+  <sponsor id="409580"/>
+  <cosponsors>
+    <cosponsor id="404679" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="819"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local taxation"/>
+    <term name="Sales tax"/>
+    <term name="State taxation"/>
+    <term name="States"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Repeals specified provisions of the Tax Reform Act of 1986 that eliminated the income tax deduction for State and local sales taxes. Provides that the Internal Revenue Code of 1986 shall be applied and administered as if such provisions had not been enacted. Amends the Internal Revenue Code to permit a taxpayer to select an income tax deduction for either: (1) State and local income taxes; or (2) State and local sales taxes.</summary>
+</bill>

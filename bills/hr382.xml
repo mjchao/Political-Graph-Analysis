@@ -1,0 +1,46 @@
+<bill session="100" type="hr" number="382" updated="2014-03-22T09:50:59-04:00">
+  <state datetime="1988-02-22">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-22"/>
+  </status>
+  <introduced datetime="1988-02-22"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives that the Secretary of State should designate a special envoy to negotiate the release of Americans held hostage in Lebanon.</title>
+  </titles>
+  <sponsor id="400378"/>
+  <cosponsors>
+    <cosponsor id="402763" joined="1988-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-22" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-03-07">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+    <action datetime="1988-03-07">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sr" number="345"/>
+    <bill relation="identical" session="100" type="sr" number="345"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Crime prevention"/>
+    <term name="Diplomats"/>
+    <term name="Hostages"/>
+    <term name="Lebanon"/>
+    <term name="Negotiations"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>2/22/1988--Introduced.
+Expresses the sense of the House of Representatives that the Secretary of State should designate a special envoy to negotiate the release of American and all other hostages in Lebanon, and appeals to their captors to free them.</summary>
+</bill>

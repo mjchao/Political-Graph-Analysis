@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="1779" updated="2014-03-22T09:51:58-04:00">
+  <state datetime="1987-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-25"/>
+  </status>
+  <introduced datetime="1987-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Residential Lot Interest Expense Conforming Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1954 to conform the treatment of residential lot interest expense to current law treatment of second home interest expense.</title>
+  </titles>
+  <sponsor id="403641"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1987-06-02"/>
+    <cosponsor id="401874" joined="1987-06-02"/>
+    <cosponsor id="400085" joined="1987-09-22"/>
+    <cosponsor id="403203" joined="1988-02-16"/>
+    <cosponsor id="300049" joined="1988-02-16"/>
+    <cosponsor id="405985" joined="1987-09-22"/>
+    <cosponsor id="400256" joined="1987-09-22"/>
+    <cosponsor id="407457" joined="1987-06-02"/>
+    <cosponsor id="408976" joined="1987-06-02"/>
+    <cosponsor id="400610" joined="1987-09-22"/>
+    <cosponsor id="410623" joined="1987-09-22"/>
+    <cosponsor id="411119" joined="1987-06-02"/>
+    <cosponsor id="411585" joined="1987-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-25" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1187"/>
+    <bill relation="identical" session="100" type="s" number="1187"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Bank deposits"/>
+    <term name="Finance and financial sector"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing finance"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Mortgage loans"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/1987--Introduced.
+Residential Lot Interest Expense Conforming Act of 1987 - Amends the Internal Revenue Code to treat a residential lot as a qualified residence for the purpose of the mortgage interest income tax deductions when the taxpayer has purchased such lot for the purpose of building a dwelling unit. Provides for recapture if the lot is used in a trade or business or held for investment.</summary>
+</bill>

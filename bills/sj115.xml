@@ -1,0 +1,54 @@
+<bill session="100" type="sj" number="115" updated="2014-03-22T09:54:21-04:00">
+  <state datetime="1987-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-10"/>
+  </status>
+  <introduced datetime="1987-04-10"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution making an urgent supplemental appropriation for emergency assistance to the Polish independent trade union organization NSZZ "Solidarnosc" for the fiscal year ending September 30, 1987, and for other purposes.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="401709" joined="1987-04-10"/>
+    <cosponsor id="403142" joined="1987-04-10"/>
+    <cosponsor id="403483" joined="1987-04-10"/>
+    <cosponsor id="300034" joined="1987-04-10"/>
+    <cosponsor id="403669" joined="1987-04-30"/>
+    <cosponsor id="300048" joined="1987-04-10"/>
+    <cosponsor id="300052" joined="1987-04-23"/>
+    <cosponsor id="405305" joined="1987-04-10"/>
+    <cosponsor id="405795" joined="1987-04-10"/>
+    <cosponsor id="406190" joined="1987-04-27"/>
+    <cosponsor id="300066" joined="1987-04-21"/>
+    <cosponsor id="407355" joined="1987-04-21"/>
+    <cosponsor id="400563" joined="1987-04-10"/>
+    <cosponsor id="300150" joined="1987-05-08"/>
+    <cosponsor id="408597" joined="1987-04-23"/>
+    <cosponsor id="409225" joined="1987-04-10"/>
+    <cosponsor id="409917" joined="1987-04-10"/>
+    <cosponsor id="411271" joined="1987-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="263"/>
+    <bill relation="identical" session="100" type="hj" number="263"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Appropriations"/>
+    <term name="Economics and public finance"/>
+    <term name="Labor unions"/>
+    <term name="Poland"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/1987--Introduced.
+Makes appropriations for FY 1987 for assistance to the Polish independent trade union organization NSZZ "Solidarnosc."</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="3681" updated="2014-03-22T09:52:56-04:00">
+  <state datetime="1987-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-02"/>
+  </status>
+  <introduced datetime="1987-12-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Public Law 87-77, to authorize transportation of passengers on foreign flag vessels between certain ports in Alaska and certain ports in the United States outside Alaska.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-02" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Unfavorable Executive Comment Received From DOT.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Alaska"/>
+    <term name="Marine transportation"/>
+    <term name="Passenger ships"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/1987--Introduced.
+Amends Federal law relating to marine transportation of passengers to authorize passenger transportation on foreign-flag vessels among ports in southeastern and south central Alaska, and between points in the United States outside Alaska and points in southeastern Alaska.</summary>
+</bill>

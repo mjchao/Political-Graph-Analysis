@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="2257" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-30"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the temporary suspension of the duty on mixtures of 5-chloro-2-methyl-4-isothiazolin-3-one, 2-methyl-4-isothiazolin-3-one, magnesium chloride, stabilizers and application adjuvants.</title>
+  </titles>
+  <sponsor id="409654"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1987-07-02">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemicals"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Amends the Tariff Schedules of the United States to suspend, through December 31, 1990, the duty on mixtures of 5-chloro-2-methyl-4-isothiazolin-3-one, 2-methyl-4-isothiazolin-3-one, magnesium chloride, stabilizers, and application adjuvants.</summary>
+</bill>

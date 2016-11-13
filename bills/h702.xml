@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="702" updated="2014-03-22T09:51:32-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Social Security Act to prevent disinvestment of the Social Security trust funds.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="Health"/>
+    <term name="Investment of public funds"/>
+    <term name="Medicare"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security finance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Amends titles II (Old Age, Survivors and Disability Insurance) and XVIII (Medicare) of the Social Security Act to prohibit the expenditure of amounts from the Federal Old-Age and Survivors Insurance Trust Fund, Federal Disability Insurance Trust Fund, Federal Hospital Insurance Trust Fund, or Federal Supplementary Medical Insurance Trust Fund for purposes other than those specified in titles II or XVIII of the Act.</summary>
+</bill>

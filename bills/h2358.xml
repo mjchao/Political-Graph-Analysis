@@ -1,0 +1,77 @@
+<bill session="100" type="h" number="2358" updated="2014-03-22T09:52:20-04:00">
+  <state datetime="1987-09-29">REPORTED</state>
+  <status>
+    <unknown datetime="1987-09-29"/>
+  </status>
+  <introduced datetime="1987-05-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Samuel O. Johnson.</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-14">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-09-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-19">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-381.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Placed on Private Calendar No: 29.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1987-11-17">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-11-17">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Recommitted by House to House Committee on The Judiciary by Virtue of Objection Made on Call of Private Calendar.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Re-Commitment, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/1987--Introduced.
+Authorizes the naturalization of a named individual who lost U.S. citizenship under specified provisions of the Immigration and Nationality Act.</summary>
+</bill>

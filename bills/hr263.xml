@@ -1,0 +1,36 @@
+<bill session="100" type="hr" number="263" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-09-16">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-09-16"/>
+  </status>
+  <introduced datetime="1987-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 442) to implement the recommendations of the Commission on Wartime Relocation and Internment of Civilians.</title>
+  </titles>
+  <sponsor id="400527"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-16">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-301.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Placed on House Calendar No: 76.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="442"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 442 (wartime relocation and internment of civilians).</summary>
+</bill>

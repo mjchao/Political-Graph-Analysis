@@ -1,0 +1,134 @@
+<bill session="100" type="h" number="2629" updated="2014-03-22T09:52:26-04:00">
+  <state datetime="1988-08-16">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-16"/>
+  </status>
+  <introduced datetime="1987-06-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Alaska National Interest Lands Conservation Act of 1980 to clarify the conveyance and ownership of submerged lands by Alaska Natives, Native Corporations and the State of Alaska.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-08" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Favorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-29" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-08-03">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-262 (Part I).</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Subcommittee on Fisheries and Wildlife Conservation and the Environment Discharged.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to House Committee on Merchant Marine and Fisheries Sequentially, for a Period Ending not Later than Aug 3, 87.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>House Committee on Merchant Marine and Fisheries Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Placed on Union Calendar No: 166.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-04">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-03-02">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-03-18">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-302. Minority views filed.</text>
+    </action>
+    <calendar datetime="1988-03-18" calendar="Senate Legislative" under="General Orders" number="589">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 589.</text>
+    </calendar>
+    <action datetime="1988-07-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-07-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-07-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1988-08-02">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-08-04">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-08-05">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-16" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-395" type="public" datetime="1988-08-16">
+      <text>Became Public Law No: 100-395.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Discharged"/>
+    <committee activity="Referral, Discharged" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3008"/>
+    <bill relation="identical" session="100" type="s" number="576"/>
+    <bill relation="identical" session="100" type="s" number="576"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Alaska"/>
+    <term name="Alaskan natives"/>
+    <term name="Congressional oversight"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Federal-state relations"/>
+    <term name="Indian lands"/>
+    <term name="Lakes"/>
+    <term name="Land transfers"/>
+    <term name="Native Americans"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Rivers"/>
+    <term name="Submerged lands"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Waterways"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2643"/>
+  </amendments>
+  <summary>7/14/1988--Passed Senate amended.
+(Measure passed Senate, amended) Title I: Submerged Lands - Amends the Alaska National Interest Lands Conservation Act to require lakes, rivers, and streams to be meandered in accordance with specified principles whenever the Secretary of the Interior surveys land selected by an Alaska Native, a Native corporation, or the State of Alaska pursuant to such Act, the Alaska Statehood Act, or this Act. Prohibits certain size lakes, rivers, and streams from being meandered if title to lands beneath such navigable waters did not vest in the State under the Submerged Lands Act. Provides that when the Secretary conveys land to an Alaska Native, a Native corporation, or the State which abuts or surrounds a lake, river, or stream which is required to be meandered, then any U.S. interest in the land under such lake, river, or stream shall vest in and not be charged against the acreage entitlement of such Native, Native corporation, or State. Incorporates and ratifies the Memorandum of Agreement between the Department of the Interior and the State of Alaska dated March 28, 1984. Provides that nothing in this Act shall alter any land exchange agreement between the United States and a Native corporation. Title II: Approval of Conveyance in ANWR - Provides that the Secretary does not have authority to convey lands or interest in lands within the coastal plain of the Arctic National Wildlife Refuge (other than land validly selected prior to July 28, 1987), without prior approval by the Congress. Title III: Approval of Public Land Order - Includes specified lands comprising 325,000 acres described in Public Land Order 6607 in the Arctic National Wildlife Refuge to be administered in accordance with the Alaska National Interest Lands Conservation Act. Directs the Secretary to prepare a report which assesses the effects of the implementation of this Act on Conservation System Units (CSUs) as defined by the Alaska National Interest Lands Conservation Act and makes recommendations for appropriate action. Requires that such report: (1) identify and estimate the acreage of all lands currently patented to or selected by a Native, Native Corporation, or the State pursuant to specified Acts that are within the boundaries of CSUs; (2) establish priorities for the acquisition of such lands; and (3) make recommendations as to administrative or congressional action deemed appropriate to reduce any adverse effects of this Act on the management of lands or resources within CSUs. Directs the Secretary to submit such report within one year of the date of enactment of this Act to specified congressional committees.</summary>
+</bill>

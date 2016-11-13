@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="2130" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that the Consumer Product Safety Commission amend its regulations regarding lawn darts.</title>
+  </titles>
+  <sponsor id="411762"/>
+  <cosponsors>
+    <cosponsor id="403346" joined="1988-05-12"/>
+    <cosponsor id="404679" joined="1988-03-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="5552"/>
+    <bill relation="identical" session="100" type="h" number="5552"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Accident prevention"/>
+    <term name="Administrative procedure"/>
+    <term name="Child safety"/>
+    <term name="Children and youth"/>
+    <term name="Consumer Product Safety Commission"/>
+    <term name="Consumer protection"/>
+    <term name="Government operations and politics"/>
+    <term name="Product safety"/>
+    <term name="Public safety"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Toys"/>
+    <term name="Wounds"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Directs the Consumer Product Safety Commission to revoke the exemption from classification as a banned toy for use by children granted for lawn darts and other similar sharp-pointed toys, unless the Commission finds that such products do not have the potential for causing puncture wound injury.</summary>
+</bill>

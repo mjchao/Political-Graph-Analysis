@@ -1,0 +1,90 @@
+<bill session="100" type="hc" number="74" updated="2014-03-22T09:54:07-04:00">
+  <state datetime="1987-06-02">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-02"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the appreciation of the Congress to President Virgillo Barco and the people of Columbia for their efforts to combat drug trafficking and drug abuse, and for other purposes.</title>
+  </titles>
+  <sponsor id="400536"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="1987-05-20"/>
+    <cosponsor id="400975" joined="1987-05-20"/>
+    <cosponsor id="402926" joined="1987-05-20"/>
+    <cosponsor id="403476" joined="1987-05-20"/>
+    <cosponsor id="403545" joined="1987-03-12"/>
+    <cosponsor id="404006" joined="1987-05-20"/>
+    <cosponsor id="404376" joined="1987-05-20"/>
+    <cosponsor id="404856" joined="1987-05-20"/>
+    <cosponsor id="400191" joined="1987-05-20"/>
+    <cosponsor id="406530" joined="1987-05-20"/>
+    <cosponsor id="406765" joined="1987-05-20"/>
+    <cosponsor id="406790" joined="1987-05-20"/>
+    <cosponsor id="400256" joined="1987-05-20"/>
+    <cosponsor id="400302" joined="1987-05-20"/>
+    <cosponsor id="400307" joined="1987-05-20"/>
+    <cosponsor id="408490" joined="1987-05-20"/>
+    <cosponsor id="400333" joined="1987-03-12"/>
+    <cosponsor id="409632" joined="1987-05-20"/>
+    <cosponsor id="400365" joined="1987-05-20"/>
+    <cosponsor id="400369" joined="1987-05-20"/>
+    <cosponsor id="400409" joined="1987-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-23">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-02" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-06-15">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Colombia"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Extradition"/>
+    <term name="Extradition agreements"/>
+    <term name="Narcotic traffic"/>
+    <term name="Narcotics and crime"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/1987--Passed House amended.
+(Measure passed House, amended) Declares that the Congress: (1) extends its appreciation to President Virgilio Barco and the Colombian people for their courage in apprehending Carlos Lehder and extraditing him to the United States; (2) commends President Barco for his courage; (3) urges the Colombian Government to continue its efforts to extinguish the illicit production and trafficking of drugs in that nation; and (4) reaffirms its intention to work with the Colombian Government in combating drug trafficking and drug abuse in both countries.</summary>
+</bill>

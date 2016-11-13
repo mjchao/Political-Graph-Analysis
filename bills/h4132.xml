@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="4132" updated="2016-06-29T08:43:44-04:00">
+  <state datetime="1988-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-10"/>
+  </status>
+  <introduced datetime="1988-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 1977 of the Revised Statutes of the United States to require equal treatment of males and females.</title>
+  </titles>
+  <sponsor id="400223"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-04-20"/>
+    <cosponsor id="400975" joined="1988-06-20"/>
+    <cosponsor id="300011" joined="1988-04-20"/>
+    <cosponsor id="402763" joined="1988-04-20"/>
+    <cosponsor id="403031" joined="1988-06-20"/>
+    <cosponsor id="403314" joined="1988-05-10"/>
+    <cosponsor id="400100" joined="1988-04-20"/>
+    <cosponsor id="403581" joined="1988-06-20"/>
+    <cosponsor id="404006" joined="1988-04-20"/>
+    <cosponsor id="404013" joined="1988-04-20"/>
+    <cosponsor id="404190" joined="1988-04-20"/>
+    <cosponsor id="404220" joined="1988-06-20"/>
+    <cosponsor id="400140" joined="1988-04-20"/>
+    <cosponsor id="400143" joined="1988-05-10"/>
+    <cosponsor id="404376" joined="1988-06-20"/>
+    <cosponsor id="404422" joined="1988-04-20"/>
+    <cosponsor id="404634" joined="1988-04-20"/>
+    <cosponsor id="405236" joined="1988-03-10"/>
+    <cosponsor id="400537" joined="1988-04-20"/>
+    <cosponsor id="400240" joined="1988-04-20"/>
+    <cosponsor id="407672" joined="1988-05-10"/>
+    <cosponsor id="407960" joined="1988-04-20"/>
+    <cosponsor id="400314" joined="1988-03-10"/>
+    <cosponsor id="400333" joined="1988-05-10"/>
+    <cosponsor id="409644" joined="1988-04-20"/>
+    <cosponsor id="409650" joined="1988-03-10"/>
+    <cosponsor id="400387" joined="1988-05-10"/>
+    <cosponsor id="411025" joined="1988-04-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-10" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Sex discrimination"/>
+    <term name="Sex discrimination against women"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1988--Introduced.
+Amends the Civil Rights Act of 1866 to prohibit sex discrimination against women. (Thereby allowing legal proceedings to be brought for sexual discrimination against women.)</summary>
+</bill>

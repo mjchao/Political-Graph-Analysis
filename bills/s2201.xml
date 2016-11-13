@@ -1,0 +1,97 @@
+<bill session="100" type="s" number="2201" updated="2014-12-10T13:16:05-05:00">
+  <state datetime="1988-11-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-05"/>
+  </status>
+  <introduced datetime="1988-03-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make certain record rental provisions in title 17, United States Code, the Copyright Act, permanent.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="1988-03-21"/>
+    <cosponsor id="300052" joined="1988-03-21"/>
+    <cosponsor id="405310" joined="1988-03-21"/>
+    <cosponsor id="300059" joined="1988-04-12"/>
+    <cosponsor id="300065" joined="1988-03-21"/>
+    <cosponsor id="409923" joined="1988-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-03-28">
+      <text>Referred to Subcommittee on Patents, Copyrights and Trademarks.</text>
+    </action>
+    <action datetime="1988-04-13">
+      <text>Subcommittee on Patents, Copyrights and Trademarks. Approved for full committee consideration without amendment favorably.</text>
+    </action>
+    <calendar datetime="1988-04-14" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-05-25">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden without amendment. With written report No. 100-361.</text>
+    </action>
+    <calendar datetime="1988-05-25" calendar="Senate Legislative" under="General Orders" number="692">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 692.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-26" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-27">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-21" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-617" type="public" datetime="1988-11-05">
+      <text>Became Public Law No: 100-617.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="SSJU06" subcommittee="Patents, Copyrights and Trademarks" name="Senate Judiciary"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Copyright"/>
+    <term name="Lease and rental services"/>
+    <term name="Music"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Phonorecords"/>
+    <term name="Sound recording and reproducing"/>
+  </subjects>
+  <amendments>
+    <amendment number="h930"/>
+  </amendments>
+  <summary>9/26/1988--Passed House amended.
+(Measure passed House, amended) Amends the Record Rental Amendment of 1984 to extend for an additional eight years the proscription against the rental, leasing, or lending of phonorecords for profit-making purposes.</summary>
+</bill>

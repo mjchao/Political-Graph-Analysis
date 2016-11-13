@@ -1,0 +1,113 @@
+<bill session="100" type="s" number="721" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1988-10-19">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-19"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Indian Development Finance Corporation Act</title>
+    <title type="short" as="passed house">Omnibus Insular Areas Act of 1988</title>
+    <title type="short" as="reported to senate">Indian Development Finance Corporation Act</title>
+    <title type="short" as="passed senate">Indian Development Finance Corporation Act</title>
+    <title type="official" as="introduced">A bill to provide for and promote the economic development of Indian tribes by furnishing the necessary capital, financial services, and technical assistance to Indian owned business enterprises and to stimulate the development of the private sector of Indian tribal economies.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-06-11"/>
+    <cosponsor id="402023" joined="1987-06-04"/>
+    <cosponsor id="300031" joined="1987-06-04"/>
+    <cosponsor id="403346" joined="1987-06-04"/>
+    <cosponsor id="403920" joined="1987-06-04"/>
+    <cosponsor id="407268" joined="1987-06-04"/>
+    <cosponsor id="300071" joined="1987-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="1987-04-30">
+      <text>Committee on Indian Affairs. Hearings held.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Committee on Indian Affairs. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-03-03" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-03-22">
+      <text>Committee on Indian Affairs. Reported to Senate by Senator Inouye with an amendment in the nature of a substitute. With written report No. 100-306.</text>
+    </action>
+    <calendar datetime="1988-03-22" calendar="Senate Legislative" under="General Orders" number="596">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 596.</text>
+    </calendar>
+    <action datetime="1988-04-20">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-19" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-20">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2455"/>
+    <bill relation="identical" session="100" type="h" number="2455"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Administration of justice"/>
+    <term name="Business and commerce"/>
+    <term name="Colleges"/>
+    <term name="Corporations and Stocks"/>
+    <term name="District courts"/>
+    <term name="Docks"/>
+    <term name="Drugs"/>
+    <term name="Economic development"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to Indians"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Government and business"/>
+    <term name="Government corporations"/>
+    <term name="Government lending"/>
+    <term name="Government publications"/>
+    <term name="Government securities"/>
+    <term name="Guam"/>
+    <term name="Harbors"/>
+    <term name="Hydroelectric power"/>
+    <term name="Judges"/>
+    <term name="Judicial districts"/>
+    <term name="Judicial officers"/>
+    <term name="Law"/>
+    <term name="Marshall Islands"/>
+    <term name="Micronesia"/>
+    <term name="Minorities"/>
+    <term name="Minority business enterprises"/>
+    <term name="Narcotic traffic"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Palau Islands"/>
+    <term name="Virgin Islands"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1959"/>
+    <amendment number="s1972"/>
+  </amendments>
+  <summary>10/19/1988--Passed House amended.
+(Measure passed House, amended) Omnibus Insular Areas Act of 1988 - Authorizes the Ninth Judicial Circuit of the United States to provide assistance to the courts of the freely associated States (Micronesia, the Marshall Islands, and Palau). Permits the Chief Justice of the United States or the chief judge of the Ninth Judicial Circuit to authorize any circuit judge of, or district judge within, the Ninth Circuit to serve temporarily as a judge of any court of a freely associated State. Authorizes the President to negotiate agreements which provide that: (1) the United States will regulate the distribution of controlled substances in the freely associated States; and (2) the freely associated States will be treated as foreign countries for the purposes of such distribution if they agree to international conventions on distribution. Designates the Northern Marianas College as a depository to receive Government publications and directs the Superintendent of Documents to supply to the College one copy of each such publication. Waives the requirement for local matching funds in order to have a Federal program or project apply to, or take place in, the Insular Areas. Amends the Revised Organic Act of the Virgin Islands to repeal the requirements that the District Court of the Virgin Islands for the Division of Saint Croix be held in Christiansted and for the Division of Saint Thomas and Saint John at Charlotte Amalie. Increases to 50 percent (currently, 30 percent) the amount Guam may use for port development and not pay to the Federal Government. Authorizes such sums as may be necessary for the design and construction of the Nanpil River hydropower diversion project in the Federated States of Micronesia.</summary>
+</bill>

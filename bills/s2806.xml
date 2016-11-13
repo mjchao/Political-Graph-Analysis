@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="2806" updated="2014-03-22T09:55:55-04:00">
+  <state datetime="1988-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-16"/>
+  </status>
+  <introduced datetime="1988-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the transfer of the decommissioned Coast Guard cutter "Glacier" to the State of Oregon for use as a maritime museum and display.</title>
+  </titles>
+  <sponsor id="405212"/>
+  <cosponsors>
+    <cosponsor id="408420" joined="1988-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="5264"/>
+    <bill relation="identical" session="100" type="h" number="5264"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Coast guard"/>
+    <term name="Historic sites"/>
+    <term name="Museums"/>
+    <term name="Oregon"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1988--Introduced.
+Directs the Secretary of Transportation to transfer the decommissioned Coast Guard cutter "Glacier" to the State of Oregon for use as a maritime museum and display.</summary>
+</bill>

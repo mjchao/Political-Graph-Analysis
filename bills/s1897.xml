@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="1897" updated="2014-03-22T09:55:28-04:00">
+  <state datetime="1987-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-20"/>
+  </status>
+  <introduced datetime="1987-11-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to recognize the organization known as the National Association of State Directors of Veterans' Affairs, Incorporated.</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-09-27"/>
+    <cosponsor id="401611" joined="1987-12-18"/>
+    <cosponsor id="402004" joined="1988-06-09"/>
+    <cosponsor id="402727" joined="1988-09-08"/>
+    <cosponsor id="403346" joined="1987-11-20"/>
+    <cosponsor id="403515" joined="1988-06-13"/>
+    <cosponsor id="405310" joined="1988-03-28"/>
+    <cosponsor id="405321" joined="1988-09-27"/>
+    <cosponsor id="300056" joined="1988-04-29"/>
+    <cosponsor id="300071" joined="1988-05-26"/>
+    <cosponsor id="407663" joined="1988-09-27"/>
+    <cosponsor id="408597" joined="1988-09-07"/>
+    <cosponsor id="409580" joined="1988-08-02"/>
+    <cosponsor id="300089" joined="1988-04-18"/>
+    <cosponsor id="300099" joined="1988-02-16"/>
+    <cosponsor id="411762" joined="1988-06-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Federal incorporation"/>
+    <term name="Veterans' organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/1987--Introduced.
+Grants a Federal charter to the National Association of State Directors of Veterans Affairs, Incorporated.</summary>
+</bill>

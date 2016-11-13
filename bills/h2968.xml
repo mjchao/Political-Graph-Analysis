@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="2968" updated="2014-03-22T09:52:35-04:00">
+  <state datetime="1987-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-15"/>
+  </status>
+  <introduced datetime="1987-07-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Norman Brookens.</title>
+  </titles>
+  <sponsor id="400374"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-15" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-24">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Federal employees"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/1987--Introduced.
+Deems a named individual, by reason of his detention and internment by enemy forces in Southeast Asia from 1968 until 1973 while he was employed by the Agency for International Development, to be a veteran who is a former prisoner of war for purposes of eligibility for medical care provided by the Veterans Administration under specified provisions of Federal law.</summary>
+</bill>

@@ -1,0 +1,31 @@
+<bill session="100" type="sc" number="158" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-07"/>
+  </status>
+  <introduced datetime="1988-10-07"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to authorize a correction in the enrollment of H.R. 4585.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Education"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/1988--Introduced.
+Makes corrections in the enrollment of H.R. 4585 (extension of authorization of appropriations for the Taft Institute).</summary>
+</bill>

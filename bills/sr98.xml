@@ -1,0 +1,72 @@
+<bill session="100" type="sr" number="98" updated="2014-03-22T09:54:35-04:00">
+  <state datetime="1987-03-11">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate that the Government of the Soviet Union should allow Igor V. Ogurtsov to be released from exile and allowed to emigrate to the West without renouncing his views, and for other purposes.</title>
+  </titles>
+  <sponsor id="409225"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-02-03"/>
+    <cosponsor id="401604" joined="1987-02-03"/>
+    <cosponsor id="401709" joined="1987-02-03"/>
+    <cosponsor id="402023" joined="1987-02-03"/>
+    <cosponsor id="403171" joined="1987-02-03"/>
+    <cosponsor id="403346" joined="1987-02-03"/>
+    <cosponsor id="403962" joined="1987-02-03"/>
+    <cosponsor id="404679" joined="1987-02-03"/>
+    <cosponsor id="405321" joined="1987-02-03"/>
+    <cosponsor id="300060" joined="1987-02-03"/>
+    <cosponsor id="300064" joined="1987-02-17"/>
+    <cosponsor id="300066" joined="1987-02-03"/>
+    <cosponsor id="300070" joined="1987-02-03"/>
+    <cosponsor id="407268" joined="1987-02-03"/>
+    <cosponsor id="300071" joined="1987-02-03"/>
+    <cosponsor id="407663" joined="1987-02-03"/>
+    <cosponsor id="300073" joined="1987-02-03"/>
+    <cosponsor id="407786" joined="1987-02-03"/>
+    <cosponsor id="400563" joined="1987-02-03"/>
+    <cosponsor id="300079" joined="1987-02-03"/>
+    <cosponsor id="408970" joined="1987-02-03"/>
+    <cosponsor id="300082" joined="1987-02-03"/>
+    <cosponsor id="300084" joined="1987-02-03"/>
+    <cosponsor id="409562" joined="1987-02-03"/>
+    <cosponsor id="300086" joined="1987-02-03"/>
+    <cosponsor id="409917" joined="1987-02-03"/>
+    <cosponsor id="300092" joined="1987-02-03"/>
+    <cosponsor id="411762" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1987-03-10" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-03-10">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1987-03-10" calendar="Senate Legislative" under="General Orders" number="28">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 28.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-03-11" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Emigration"/>
+    <term name="Human rights"/>
+    <term name="Political prisoners"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Expresses the sense of the Senate that the President, through the Secretary of State, should: (1) continue to express U.S. opposition to the internal exile of Igor Ogurtsov; and (2) urge the Soviet Union to release him before February 9, 1987, accept his application for an exit visa, and allow him to emigrate without forcing him to renounce his views. Requests that a copy of this resolution be transmitted to the Soviet Ambassador to the United States and to the General Secretary, Mikhail Gorbachev.</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="2845" updated="2014-03-22T09:55:57-04:00">
+  <state datetime="1988-09-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-29"/>
+  </status>
+  <introduced datetime="1988-09-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the transfer of a certain parcel of land located in Clark County, Nevada.</title>
+  </titles>
+  <sponsor id="405305"/>
+  <cosponsors>
+    <cosponsor id="300082" joined="1988-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Industrial parks"/>
+    <term name="Judicial review of administrative acts"/>
+    <term name="Land transfers"/>
+    <term name="Nevada"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1988--Introduced.
+Requires the Secretary of the Interior to transfer certain Nevada lands to Clark County, Nevada, for the purpose of establishing a heavy industry use area. Withdraws all public lands within such area from entry and appropriation under the public land laws. Exempts any conveyance executed pursuant to this Act from judicial review with respect to complaints alleging a failure by the Secretary to comply with any law other than this Act.</summary>
+</bill>

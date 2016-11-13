@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="102" updated="2014-03-22T09:51:08-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Antitrust Law Labor Amendments of 1985</title>
+    <title type="official" as="introduced">A bill to remove statutory limitations upon the application of the Sherman Act to labor organizations and their activities, and for other purposes.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Antitrust law"/>
+    <term name="Boycott"/>
+    <term name="Collective bargaining"/>
+    <term name="Collective bargaining agreements"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Labor and employment"/>
+    <term name="Labor unions"/>
+    <term name="Restrictive trade practices"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Antitrust Law Labor Amendments of 1985 - Amends the Clayton Act and the Norris-La Guardia Act to eliminate limitations on the application of the Sherman Act to labor organizations and their activities. Amends the Sherman Act to declare illegal any agreement between a labor organization and an employer under which the employer calls for a boycott of any product. Sets forth penalties to be imposed against any person who enters or attempts to enter such a contract.</summary>
+</bill>

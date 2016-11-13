@@ -1,0 +1,97 @@
+<bill session="100" type="h" number="1490" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1988-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-03"/>
+  </status>
+  <introduced datetime="1987-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Jean DeYoung.</title>
+  </titles>
+  <sponsor id="404009"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-09" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-08-07" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-08-07">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-290.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Placed on Private Calendar No: 16.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Passed House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration with an amendment favorably.</text>
+    </action>
+    <calendar datetime="1988-08-10">
+      <text>Committee on Judiciary. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-12">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden with an amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-09-12" calendar="Senate Legislative" under="General Orders" number="927">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 927.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-15" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1988-10-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-33" type="private" datetime="1988-11-03">
+      <text>Became Private Law No: 100-33.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1987--Introduced.
+Relieves a named individual of liability to the United States for a specified sum representing overpayment to that individual resulting from administrative error. Directs the Secretary of the Treasury to pay to that individual any sum withheld from, or paid by, that individual with respect to the overpayment.</summary>
+</bill>

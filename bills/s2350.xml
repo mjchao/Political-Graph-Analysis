@@ -1,0 +1,90 @@
+<bill session="100" type="s" number="2350" updated="2014-03-22T09:55:47-04:00">
+  <state datetime="1988-08-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-08-09"/>
+  </status>
+  <introduced datetime="1988-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clarify the investigatory powers of the United States Senate.</title>
+    <title type="official" as="amended by senate">An Act to clarify the investigatory powers of the United States Congress.</title>
+  </titles>
+  <sponsor id="409456"/>
+  <cosponsors>
+    <cosponsor id="404598" joined="1988-08-11"/>
+    <cosponsor id="300056" joined="1988-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1988-06-27" state="REPORTED">
+      <text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-07-06">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-07-06" calendar="Senate Legislative" under="General Orders" number="783">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 783.</text>
+    </calendar>
+    <action datetime="1988-08-09">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-11">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-30">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-03">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-1040.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Placed on House Calendar No: 235.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Failed to Receive 2/3's Vote to Suspend and Pass by Yea-Nay Vote: 245 - 172 (Record Vote No: 440).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Civil service employment"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional hearings"/>
+    <term name="Congressional-Presidential relations"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Executive privilege"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Self-incrimination"/>
+    <term name="Senate"/>
+    <term name="Subpoena"/>
+    <term name="Witnesses"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2829"/>
+  </amendments>
+  <summary>10/3/1988--Reported to House amended.
+(Reported to House from the Committee on the Judiciary with amendment, H. Rept. 100-1040) Provides that a Federal officer or employee acting within official capacity is subject to a Senate subpoena unless the head of the department or agency employing the officer or employee, with the approval of the Attorney General, has directed that officer or employee not to comply with the subpoena and has provided the issuer of the subpoena with a written statement setting forth the reasons for refusal to comply. Provides that immunity of witness orders apply to proceedings ancillary to congressional proceedings.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="sc" number="66" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-22"/>
+  </status>
+  <introduced datetime="1987-07-22"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the United Nations should offer to place the United Nations flag on nonbelligerent ships in the Persian Gulf, and to authorize United Nations peacekeeping vessels to escort those ships, as part of broader United Nations efforts to bring about a peaceful resolution of the Iran-Iraq war.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors>
+    <cosponsor id="405212" joined="1987-07-22"/>
+    <cosponsor id="406188" joined="1987-07-22"/>
+    <cosponsor id="300060" joined="1987-07-22"/>
+    <cosponsor id="408597" joined="1987-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-22" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="168"/>
+    <bill relation="identical" session="100" type="hc" number="168"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Flags of convenience"/>
+    <term name="International military forces"/>
+    <term name="Marine transportation"/>
+    <term name="Middle East"/>
+    <term name="Persian Gulf"/>
+    <term name="Ships and shipping"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/1987--Introduced.
+Expresses the sense of the Congress that the President should instruct the Permanent Representative of the United States to the United Nations to urge the Secretary General and Security Council to: (1) permit nonbelligerent ships in the Persian Gulf to fly the United Nations flag if such ships submit to inspection by United Nations observers to guarantee that no war material is being carried; (2) authorize United Nations peacekeeping vessels to escort such ships; and (3) determine what enforcement action should be taken in the event of an attack on ships under the United Nations flag. States that any such escort vessels and their crews should be provided by countries other than the Soviet Union and the United States.</summary>
+</bill>

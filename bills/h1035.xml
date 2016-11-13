@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="1035" updated="2016-06-29T08:42:30-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill designating the week of February 7, 1988, through February 13, 1988, as "National Crime Prevention Week" in honor of those individuals in the United States involved in the fight against crime.</title>
+  </titles>
+  <sponsor id="404856"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="142"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Citizen participation in crime prevention"/>
+    <term name="Crime prevention"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Designates the week of February 7 through February 13, 1988, as National Crime Prevention Week.</summary>
+</bill>

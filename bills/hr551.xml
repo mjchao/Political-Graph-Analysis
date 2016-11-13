@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="551" updated="2014-03-22T09:51:03-04:00">
+  <state datetime="1988-09-28">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-09-28"/>
+  </status>
+  <introduced datetime="1988-09-28"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against the conference report on the bill (H. R. 4481) to provide for the closing and realigning of certain military installations during a certain period, and against consideration of such conference report.</title>
+  </titles>
+  <sponsor id="411488"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-28">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-987.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Placed on House Calendar No: 220.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="4481"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1988--Introduced.
+Waives points of order against the conference report on H.R. 4481 (military installation closures and realignments) and against its consideration.</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="1539" updated="2014-03-22T09:51:52-04:00">
+  <state datetime="1987-08-07">REPORTED</state>
+  <status>
+    <unknown datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Meals on Wheels of the Monterey Peninsula, Incorporated.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-08-07" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-08-07">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-289.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Placed on Private Calendar No: 15.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Passed House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Received in the Senate and read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Social welfare"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Relieves a named organization and all those employed by it after 1975 and before 1983 of all liability to the United States for payment of unpaid employment taxes with respect to services performed. Treats such services as employment for purposes of entitlement to social security benefits.</summary>
+</bill>

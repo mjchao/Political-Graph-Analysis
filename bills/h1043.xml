@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="1043" updated="2014-03-22T09:51:40-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Conservation Reserve Program Equity Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title XII, Conservation, of the Food Security Act of 1985.</title>
+  </titles>
+  <sponsor id="410261"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Corn"/>
+    <term name="Environmental protection"/>
+    <term name="Feed grain program"/>
+    <term name="Soil conservation"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Conservation Reserve Program Equity Act of 1987 - Amends the Food Security Act of 1985 to provide a one-time bonus for certain corn and wheat producers who agree to participate in the conservation reserve program.</summary>
+</bill>

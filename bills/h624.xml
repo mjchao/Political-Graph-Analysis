@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="624" updated="2014-03-22T09:51:30-04:00">
+  <state datetime="1987-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-20"/>
+  </status>
+  <introduced datetime="1987-01-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Anne Brusselmans.</title>
+  </titles>
+  <sponsor id="401418"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-20" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/1987--Introduced.
+Declares a named individual to have satisfied certain requirements of the Immigration and Nationality Act relating to eligibility for naturalization.</summary>
+</bill>

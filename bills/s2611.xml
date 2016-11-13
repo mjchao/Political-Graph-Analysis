@@ -1,0 +1,56 @@
+<bill session="100" type="s" number="2611" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-03-17">REPORTED</state>
+  <status>
+    <unknown datetime="1988-03-17"/>
+  </status>
+  <introduced datetime="1988-07-06"/>
+  <titles>
+    <title type="official" as="introduced">An original bill to amend the Internal Revenue Code of 1986 to provide for the disclosure of income information to the Veterans' Administration for purposes of verifying information provided about their incomes by beneficiaries of programs under which income is relevant to eligibility; and to amend title 38, United States Code, to protect against the misuse of such information, and for other purposes.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-03-17" state="REPORTED">
+      <text>Committee on Veterans ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1988-07-06">
+      <text>Committee on Veterans. Original measure reported to Senate by Senator Cranston. With written report No. 100-412.</text>
+    </action>
+    <calendar datetime="1988-07-06" calendar="Senate Legislative" under="General Orders" number="781">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 781.</text>
+    </calendar>
+    <action datetime="1988-07-07">
+      <text>Referred to the Committee on Finance by unanimous consent.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Committee on Finance. Ordered favorably reported S. 2238 in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Origin, Reporting, Markup"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2238"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative procedure"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Income"/>
+    <term name="Income tax"/>
+    <term name="Military pensions"/>
+    <term name="Right of privacy"/>
+    <term name="Social security taxes"/>
+    <term name="Survivors' benefits"/>
+    <term name="Tax returns"/>
+    <term name="Taxation"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/6/1988--Introduced.
+Amends the Internal Revenue Code to permit disclosure to the Veterans Administration (VA) of income-related tax return information for the purpose of determining eligibility for specified veterans' pension and benefit programs. Amends Federal law to prohibit the Administrator of the VA from using this tax return information to terminate, deny, suspend, or reduce a person's benefits or services without first: (1) taking appropriate steps to verify independently the amount and accessibility of the income in question, and (2) providing the affected individual with notice and an opportunity to respond to the findings. Restricts the Administrator's right to verify or act upon information relating to disability compensation. Directs the Administrator to notify applicants for and recipients of VA benefits that income information they provide may be compared with tax return data.</summary>
+</bill>

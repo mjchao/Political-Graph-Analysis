@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="2139" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-04"/>
+  </status>
+  <introduced datetime="1988-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Natural Gas Policy Act of 1978 to protect consumers who use natural gas fuel for agricultural irrigation pumps from certain price increases.</title>
+  </titles>
+  <sponsor id="401604"/>
+  <cosponsors>
+    <cosponsor id="406188" joined="1988-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4044"/>
+    <bill relation="identical" session="100" type="h" number="4044"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Contracts"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy policy"/>
+    <term name="Energy prices"/>
+    <term name="Equipment and supplies"/>
+    <term name="Irrigation"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Price regulation"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1988--Introduced.
+Amends the Natural Gas Policy Act of 1978 to provide that intrastate contracts in effect before December 1, 1986, which stipulated the purchase price for the first sale at the wellhead of natural gas for use in fueling agricultural irrigation pumps shall govern the maximum lawful price of gas under such contracts.</summary>
+</bill>

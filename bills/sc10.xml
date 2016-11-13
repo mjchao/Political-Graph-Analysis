@@ -1,0 +1,35 @@
+<bill session="100" type="sc" number="10" updated="2014-03-22T09:54:40-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to make a correction, relating to phosphate fertilizer effluent limitation, in the enrollment of the bill H.R. 1.</title>
+  </titles>
+  <sponsor id="300012"/>
+  <cosponsors>
+    <cosponsor id="406084" joined="1987-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="24"/>
+    <bill relation="identical" session="100" type="hc" number="24"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Environmental protection"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Makes corrections in the enrollment of H.R. 1 (the Water Quality Act of 1987) as it concerns phosphate fertilizer effluent limitations.</summary>
+</bill>

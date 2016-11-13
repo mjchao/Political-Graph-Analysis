@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3109" updated="2014-03-22T09:52:44-04:00">
+  <state datetime="1987-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-05"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit certain health care facilities from withholding from patients of such facilities food, water, nourishment, and hydration, if such withholding would cause the death of patients.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="411405" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-05" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Euthanasia"/>
+    <term name="Extended care facilities"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Right to die"/>
+    <term name="Terminal care facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Introduced.
+Prohibits health care facilities receiving Federal financial assistance from withholding from any patient food, water, nourishment, and hydration if such withholding would cause the death of the patient.</summary>
+</bill>

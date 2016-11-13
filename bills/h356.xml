@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="356" updated="2014-03-22T09:51:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to recognize the Cabinet status of the Administrator of the Small Business Administration.</title>
+  </titles>
+  <sponsor id="405887"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Small Business.</text>
+    </action>
+    <action datetime="1987-02-26">
+      <text>Referred to Subcommittee on SBA, and the General Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSM02" subcommittee="SBA, and the General Economy" name="House Small Business"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Cabinet officers"/>
+    <term name="Executive compensation"/>
+    <term name="Position classification"/>
+    <term name="Small Business Administration"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Expresses the sense of the Congress that the Administrator of the Small Business Administration should be designated by the President as a member of the Cabinet and as the principal advisor on small business matters. Upgrades such position to level I of the Executive Schedule.</summary>
+</bill>

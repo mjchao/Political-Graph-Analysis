@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4475" updated="2014-03-22T09:53:18-04:00">
+  <state datetime="1988-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-27"/>
+  </status>
+  <introduced datetime="1988-04-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to terminate the provision permitting the sale of tax benefits by Alaska Native Corporations.</title>
+  </titles>
+  <sponsor id="409422"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-27" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Alaska"/>
+    <term name="Alaskan natives"/>
+    <term name="Business losses"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Income"/>
+    <term name="Income tax"/>
+    <term name="Native Americans"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/1988--Introduced.
+Disallows the use of Alaska Native Corporation losses or credits arising after April 26, 1988, to offset income or tax of any other corporation that is not an Alaska Native Corporation.</summary>
+</bill>

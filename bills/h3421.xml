@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="3421" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1987-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-05"/>
+  </status>
+  <introduced datetime="1987-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to permit a hospital to exempt a prolonged respiratory care unit that is a distinct unit of the hospital from the prospective payment system.</title>
+  </titles>
+  <sponsor id="400612"/>
+  <cosponsors>
+    <cosponsor id="404325" joined="1987-10-05"/>
+    <cosponsor id="408618" joined="1987-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-05" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-10-08">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Lung diseases"/>
+    <term name="Medicare"/>
+    <term name="Prospective payment systems (Medical care)"/>
+    <term name="Respiratory diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to permit a hospital to exempt from the prospective payment system a prolonged respiratory care unit that is a distinct unit of the hospital.</summary>
+</bill>

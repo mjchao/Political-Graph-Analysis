@@ -1,0 +1,60 @@
+<bill session="100" type="h" number="2833" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1987-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-29"/>
+  </status>
+  <introduced datetime="1987-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to assist medicare beneficiaries in understanding their enrollment in health maintenance organizations and competitive medical plans.</title>
+  </titles>
+  <sponsor id="400359"/>
+  <cosponsors>
+    <cosponsor id="401418" joined="1987-09-22"/>
+    <cosponsor id="400080" joined="1987-09-30"/>
+    <cosponsor id="404190" joined="1987-09-30"/>
+    <cosponsor id="400140" joined="1987-10-13"/>
+    <cosponsor id="404401" joined="1987-09-15"/>
+    <cosponsor id="405687" joined="1987-09-14"/>
+    <cosponsor id="400192" joined="1987-09-17"/>
+    <cosponsor id="400211" joined="1987-09-23"/>
+    <cosponsor id="406530" joined="1987-09-14"/>
+    <cosponsor id="400617" joined="1988-07-26"/>
+    <cosponsor id="407672" joined="1987-09-09"/>
+    <cosponsor id="408023" joined="1987-10-15"/>
+    <cosponsor id="400306" joined="1987-09-25"/>
+    <cosponsor id="409887" joined="1987-09-17"/>
+    <cosponsor id="400380" joined="1987-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-29" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-07-02">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Health"/>
+    <term name="Health maintenance organizations"/>
+    <term name="Information services"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to direct the Secretary of Health and Human Services to prepare a brochure that describes clearly what enrollment in a health maintenance organization (HMO) or competitive medical plan (CMP) entails. Requires HMOs and CMPs to distribute copies of such brochures to their enrollees. Directs HMOs and CMPs to give their enrollees at least 60 days advance notice of any change in the premium charged for enrollment. Provides that if there is a cancellation of the contract between an HMO or CMP and a hospital or clinic through which such organization provides services, or an interruption in such services during contract negotiations the organization shall notify its enrollees of such cancellation or interruption within the period prescribed by State law for providing notice to physicians or, in the absence of such law, within seven days after such cancellation or interruption. Requires that such notice include an explanation of alternative hospitals or clinics through which enrollees will receive covered services.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="2207" updated="2014-03-22T09:52:17-04:00">
+  <state datetime="1987-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-29"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for improved mail service.</title>
+  </titles>
+  <sponsor id="404765"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Executive Comment Requested from OMB, US Postal Service, GAO.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Referred to Subcommittee on Postal Operations and Services.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Executive Comment Received From GAO.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO06" subcommittee="Postal Operations and Services" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Privatization"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1987--Introduced.
+Permits the private carriage of mail in areas where mail service substantially fails to meet applicable standards.</summary>
+</bill>

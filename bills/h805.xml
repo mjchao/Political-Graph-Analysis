@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="805" updated="2014-03-22T09:51:34-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="short" as="introduced" partial="1">Biennial Budgeting Act of 1987</title>
+    <title type="short" as="introduced" partial="1">Pay-As-You-Go Budget Act</title>
+    <title type="official" as="introduced">A bill to amend the congressional budget process to provide for a pay-as-you-go budget for the United States, to provide for a biennial budget for the United States, and to provide line item veto authority for the President, and for other purposes.</title>
+  </titles>
+  <sponsor id="408618"/>
+  <cosponsors>
+    <cosponsor id="403242" joined="1987-02-05"/>
+    <cosponsor id="300037" joined="1987-01-28"/>
+    <cosponsor id="403888" joined="1987-03-23"/>
+    <cosponsor id="404325" joined="1987-01-28"/>
+    <cosponsor id="405747" joined="1987-03-02"/>
+    <cosponsor id="406992" joined="1987-01-28"/>
+    <cosponsor id="407721" joined="1987-02-05"/>
+    <cosponsor id="408190" joined="1987-03-18"/>
+    <cosponsor id="409205" joined="1987-07-15"/>
+    <cosponsor id="400365" joined="1987-02-05"/>
+    <cosponsor id="400610" joined="1987-01-28"/>
+    <cosponsor id="410251" joined="1987-01-28"/>
+    <cosponsor id="400389" joined="1987-04-21"/>
+    <cosponsor id="411725" joined="1987-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Balanced budgets"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional budget"/>
+    <term name="Congressional budget process"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal budget process"/>
+    <term name="Federal budgets"/>
+    <term name="Item veto"/>
+    <term name="Legislation"/>
+    <term name="Legislative resolutions"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Sunset legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Title I: Pay-As-You-Go-Budget - Pay-As-You-Go Budget Act - Prohibits the Federal budget for a fiscal year, as proposed by the President or as adopted by the Congress in a concurrent resolution on the budget, from: (1) providing for total budget outlays exceeding the total outlays for the preceding fiscal year, unless it provides at least equal increases in revenues and identifies the source of such revenues; or (2) providing for a reduction in revenues from the preceding fiscal year, unless it provides at least equal reductions in outlays and identifies the programs or activities for which outlays will be reduced. Authorizes the Congress, by a two-thirds vote of each House, to waive such prohibition concerning the budget adopted under a concurrent resolution. Prohibits either House from considering a concurrent resolution on the budget for a fiscal year under which revenues exceed outlays, unless the purposes for which such excess revenues are to be allocated are specified. Title II: Biennial Budget - Biennial Budgeting Act of 1987 - Amends the Congressional Budget Act of 1974 to revise the Federal and congressional budget process by: (1) establishing a two-year budgeting cycle beginning in the 101st Congress; and (2) providing for the separate consideration of authorizations, appropriations, the concurrent resolution on the budget, and the reconciliation bill or resolution. Requires each standing committee of the Congress to review the laws and programs under its jurisdiction in every odd-numbered year to determine whether such programs should be continued, curtailed, or eliminated and whether new legislation is necessary to comply with congressional intent. Title III: Line Item Veto - Permits the President, for two years after enactment of this Act, to disapprove any item of appropriation in any Act or joint resolution, except any item for the legislative or judicial branch of the Government. Requires the President to return with his objections any disapproved item of appropriation to the House in which the bill originated. Subjects such bills to the same proceedings as other bills disapproved by the President.</summary>
+</bill>

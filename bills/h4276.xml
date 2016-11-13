@@ -1,0 +1,72 @@
+<bill session="100" type="h" number="4276" updated="2014-03-22T09:53:09-04:00">
+  <state datetime="1988-10-14">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-14"/>
+  </status>
+  <introduced datetime="1988-03-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the United States Post Office Building located at 1105 Moss Street in Lafayette, Louisiana, as the "James Domengeaux Post Office Building".</title>
+  </titles>
+  <sponsor id="405258"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-29" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-08" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-06-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-04" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-04">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-06">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-14" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-491" type="public" datetime="1988-10-14">
+      <text>Became Public Law No: 100-491.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2228"/>
+    <bill relation="identical" session="100" type="s" number="2228"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal installations"/>
+    <term name="Louisiana"/>
+    <term name="Names"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>3/29/1988--Introduced.
+Designates the United States Post Office building at 1105 Moss Street, Lafayette, Louisiana, as the James Domengeaux Post Office Building.</summary>
+</bill>

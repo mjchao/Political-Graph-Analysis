@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="2234" updated="2014-03-22T09:55:38-04:00">
+  <state datetime="1988-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide special rules for health insurance costs of self-employed individuals.</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="1988-04-12"/>
+    <cosponsor id="300048" joined="1988-03-30"/>
+    <cosponsor id="405310" joined="1988-03-30"/>
+    <cosponsor id="300094" joined="1988-05-09"/>
+    <cosponsor id="410588" joined="1988-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business and commerce"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Income tax"/>
+    <term name="Insurance"/>
+    <term name="Insurance premiums"/>
+    <term name="Medical economics"/>
+    <term name="Self-employed"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Amends the Internal Revenue Code to increase from 25 percent to 100 percent the income tax deduction for the health insurance costs of a self-employed individual.</summary>
+</bill>

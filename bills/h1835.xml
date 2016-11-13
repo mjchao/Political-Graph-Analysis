@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1835" updated="2014-03-22T09:52:00-04:00">
+  <state datetime="1987-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-26"/>
+  </status>
+  <introduced datetime="1987-03-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to remove military department ceilings on the number of Reserve Officers' Training Corps scholarships.</title>
+  </titles>
+  <sponsor id="405626"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-26" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-11-02">
+      <text>Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Education"/>
+    <term name="Military education"/>
+    <term name="Military personnel"/>
+    <term name="Officer personnel"/>
+    <term name="Scholarships"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/1987--Introduced.
+Amends Federal armed forces provisions to remove the individual military department ceilings on the number of Reserve Officers' Training Corps (ROTC) scholarships to be awarded at any one time, imposing instead a maximum number of scholarships for cadets and midshipmen in all military departments.</summary>
+</bill>

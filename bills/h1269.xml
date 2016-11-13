@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1269" updated="2014-03-22T09:51:46-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to authorize members of the Armed Forces to wear certain items of religious apparel while in uniform.</title>
+  </titles>
+  <sponsor id="410145"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Military personnel"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Amends Federal armed forces provisions to permit military members to wear items of religious apparel while wearing the uniform of the member's armed force. Authorizes the Secretary of the military department concerned to prohibit the wearing of such an item: (1) if it is found to interfere with the performance of duty; or (2) if it is not neat and conservative. Directs the Secretary concerned, within 120 days after the enactment of this Act, to prescribe regulations concerning the wearing of such apparel.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="1139" updated="2014-03-22T09:51:42-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to deny beneficiary developing country designations under the Generalized System of Preference to countries that aid other countries to circumvent certain trade obligations to the United States.</title>
+  </titles>
+  <sponsor id="400906"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Developing countries"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import quotas"/>
+    <term name="Imports"/>
+    <term name="Tariff preferences"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Amends the Trade Act of 1974 to deny treatment as a beneficiary developing country under the Generalized System of Preferences to any country that helps any other country to circumvent any U.S. import quota.</summary>
+</bill>

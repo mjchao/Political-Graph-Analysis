@@ -1,0 +1,126 @@
+<bill session="100" type="s" number="945" updated="2014-12-10T13:15:47-05:00">
+  <state datetime="1988-10-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-18"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="short" as="introduced">Abandoned Infants Assistance Act of 1987</title>
+    <title type="short" as="passed house">Abandoned Infants Assistance Act of 1988</title>
+    <title type="short" as="reported to senate">Abandoned Infants Assistance Act of 1987</title>
+    <title type="short" as="passed senate">Abandoned Infants Assistance Act of 1987</title>
+    <title type="short" as="enacted">Abandoned Infants Assistance Act of 1988</title>
+    <title type="official" as="introduced">A bill to require the Secretary of Health and Human Services to make grants to local governments for demonstration projects to provide respite home and other assistance for infants abandoned in hospitals, and for other purposes.</title>
+  </titles>
+  <sponsor id="407663"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="1987-08-04"/>
+    <cosponsor id="300052" joined="1987-08-04"/>
+    <cosponsor id="300059" joined="1987-08-04"/>
+    <cosponsor id="300064" joined="1987-04-08"/>
+    <cosponsor id="300071" joined="1987-08-05"/>
+    <cosponsor id="408970" joined="1987-08-04"/>
+    <cosponsor id="409917" joined="1987-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department, OMB.</text>
+    </action>
+    <calendar datetime="1987-07-08" state="REPORTED">
+      <text>Committee on Labor and Human Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-08-04">
+      <text>Committee on Labor and Human Resources. Reported to Senate by Senator Metzenbaum for Senator Kennedy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="1987-08-04" calendar="Senate Legislative" under="General Orders" number="291">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 291.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-08-18">
+      <text>Referred to Subcommittee on Select Education.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-13" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-14">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-04" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-04">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-505" type="public" datetime="1988-10-18">
+      <text>Became Public Law No: 100-505.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and Labor"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Abandonment of family"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Communicable diseases"/>
+    <term name="Counseling"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse counseling"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Drugs and youth"/>
+    <term name="Families"/>
+    <term name="Federal aid to child health services"/>
+    <term name="Foster home care"/>
+    <term name="Hospitals"/>
+    <term name="Information services"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Maternal health services"/>
+    <term name="Medicaid"/>
+    <term name="Medical economics"/>
+    <term name="Pregnant women"/>
+    <term name="Public assistance programs"/>
+    <term name="Respite care"/>
+    <term name="Women's health"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>9/13/1988--Passed House amended.
+(Measure passed House, amended) Abandoned Infants Assistance Act of 1988 - Title I: Foster Care and Residential Care of Infants and Young Children Abandoned in Hospitals - Authorizes the Secretary of Health and Human Services (the Secretary) to make grants to public and nonprofit private entities for demonstration projects to: (1) prevent the abandonment of infants and young children; (2) identify and address the needs of abandoned infants and young children, particularly those with acquired immune deficiency syndrome (AIDS); (3) assist them, particularly those with AIDS, to reside with their natural families or in foster families, as appropriate; (4) recruit, train, and retain foster families; (5) carry out residential care progams; (6) carry out respite care programs for families and foster families of infants and children with AIDS; and (7) recruit and train health and social services personnel to work with such families and residential programs. Requires, when grant funds are expended for foster care, that a case plan and a case review system be included for each infant or child. Sets forth grant agreement and application requirements. Provides for technical assistance for grantees and applicants. Directs the Secretary, directly or through contracts, to provide for evaluations of such projects and dissemination of information developed as a result of such projects. Directs the Secretary to conduct a study to determine an estimate of: (1) the number of infants and young children abandoned in hospitals in the United States and the number of such infants who have AIDS; and (2) the annual costs incurred by Federal, State, and local governments in providing housing and care for such infants and young children. Directs the Secretary, within 12 months after enactment of this Act, to complete such study and report the findings to the Congress. Directs the Secretary to conduct a study to determine the most effective methods for responding to the needs of abandoned infants and young children. Directs the Secretary, by April 1, 1991, to complete such study and report the findings to the Congress. Authorizes appropriations for FY 1989 through 1991 for grants under this title. Prohibits making any such grant after September 30, 1991. Title II: Medical Costs of Treatment with Respect to Acquired Immune Deficiency Syndrome - Directs the Secretary to conduct a study to determine: (1) cost-effective methods for providing assistance to individuals for the medical costs of treatment of conditions arising from infection with the etiologic agent for AIDS, including a determination of the feasibility of risk-pool health insurance for individuals at risk of such infection; (2) the extent to which Federal Medicaid payments under title XIX (Medicaid) of the Social Security Act are being expended for such medical costs; and (3) an estimate of the extent to which such Federal payments will be expended for such medical costs during the five-year period beginning on the date of enactment of this Act. Directs the Secretary, within 12 months after such enactment date, to complete the study of such cost-effective methods and report the findings to specified congressional committees. Title III: General Provisions - Sets forth definitions for purposes of this Act.</summary>
+</bill>

@@ -1,0 +1,103 @@
+<bill session="100" type="h" number="1171" updated="2014-03-22T09:51:43-04:00">
+  <state datetime="1987-09-29">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-09-29"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="short" as="introduced">National Oceans Policy Commission Act of 1987</title>
+    <title type="short" as="reported to house">National Oceans Policy Commission Act of 1987</title>
+    <title type="short" as="passed house">National Oceans Policy Commission Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish the National Oceans Policy Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors>
+    <cosponsor id="400844" joined="1987-06-26"/>
+    <cosponsor id="401612" joined="1987-06-26"/>
+    <cosponsor id="300019" joined="1987-06-26"/>
+    <cosponsor id="403266" joined="1987-02-19"/>
+    <cosponsor id="404002" joined="1987-02-19"/>
+    <cosponsor id="405409" joined="1987-06-26"/>
+    <cosponsor id="405775" joined="1987-06-26"/>
+    <cosponsor id="405855" joined="1987-06-26"/>
+    <cosponsor id="406746" joined="1987-02-19"/>
+    <cosponsor id="400243" joined="1987-02-19"/>
+    <cosponsor id="407141" joined="1987-02-19"/>
+    <cosponsor id="400603" joined="1987-02-19"/>
+    <cosponsor id="409644" joined="1987-06-26"/>
+    <cosponsor id="410231" joined="1987-09-09"/>
+    <cosponsor id="410496" joined="1987-02-19"/>
+    <cosponsor id="411901" joined="1987-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-09">
+      <text>Subcommittee on National Ocean Policy Study. Hearings held.</text>
+    </action>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Executive Comment Requested from DOD, EPA, GSA, Commerce, Justice, Interior, State, Marine Mammal Comm.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Executive Comment Received From GSA.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Executive Comment Requested from State, EPA, USNA, Interior, DOT, DOD.</text>
+    </action>
+    <action datetime="1987-07-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-09" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-08-28">
+      <text>Unfavorable Executive Comment Received From DOT.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Unfavorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-09-14">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-300 (Part I).</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="336" datetime="1987-09-29" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 311 - 93 (Record Vote No: 336).</text>
+    </vote>
+    <action datetime="1987-09-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSCM07" subcommittee="National Ocean Policy Study" name="Senate Commerce, Science, and Transportation"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Advisory bodies"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Ocean"/>
+    <term name="Ocean policy"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1987--Passed House amended.
+(Measure passed House, amended, roll call #336 (311-93)) National Oceans Policy Commission Act of 1987 - Establishes the National Oceans Policy Commission (the Commission), composed of 17 members to be appointed by the President, including at least two marine scientists. Requires the Commission to have eight congressional advisors to advise the Commission in the formulation of findings and recommendations. Requires the Chairman of the Joint Chiefs of Staff to also advise the Commission. Directs the Commission to propose to the President and the Congress a comprehensive national oceans policy to carry out the purposes set forth in this Act, including promoting the conservation of marine resources and the peaceful use of the oceans. Directs the Commission to develop recommendations on the international and domestic ocean policies, laws, regulations, and activities of the United States that will define and implement the comprehensive policy. Outlines further considerations concerning the development of such recommendations, including surveys of Federal ocean-related activities and reviews of marine facilities. Outlines powers of the Commission and other administrative provisions. Directs the Commission, no later than two years after it first meets, to submit simultaneously to the President and to each House of the Congress a final report on the comprehensive oceans policy and the recommendations developed under this Act. Terminates the Commission 30 days after such report is submitted. Authorizes appropriations.</summary>
+</bill>

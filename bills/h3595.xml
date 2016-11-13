@@ -1,0 +1,81 @@
+<bill session="100" type="h" number="3595" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1987-11-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-03"/>
+  </status>
+  <introduced datetime="1987-11-03"/>
+  <titles>
+    <title type="short" as="introduced">Shore Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to require vessels to manifest the transport of municipal or other nonhazardous commercial wastes transported offshore to ensure that these wastes are not illegally disposed of at sea.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="404401" joined="1987-12-08"/>
+    <cosponsor id="404856" joined="1987-11-09"/>
+    <cosponsor id="400533" joined="1987-12-08"/>
+    <cosponsor id="400359" joined="1987-11-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-03" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Executive Comment Requested from Commerce, Interior, Justice, DOT, EPA, OMB.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-12-20">
+      <text>Executive Comment Requested from EPA, DOT, Commerce, Interior, Army Corps of Engineers.</text>
+    </action>
+    <action datetime="1987-12-20">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1987-12-20">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-12-20">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>See S.2030.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1751"/>
+    <bill relation="identical" session="100" type="s" number="1751"/>
+    <bill relation="unknown" session="100" type="s" number="2030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative fees"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Licenses"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Marine transportation"/>
+    <term name="Municipal services"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>11/3/1987--Introduced.
+Shore Protection Act of 1987 - Title I: Vessel Identification - Requires vessels carrying municipal or commercial waste within U.S. waters to obtain a vessel identification number (permit) from the Environmental Protection Agency (EPA). Sets the permit term at a renewable five years and authorizes EPA to collect administrative costs from a vessel owner/operator. Title II: Waste Tracking System - Requires that a manifest be completed for municipal or commercial wastes transported by vessel and a copy returned to the EPA regional office. Title III: Waste Handling Practices - Requires that owners/operators of waste source facilities make sure that waste material is properly loaded, secured, and offloaded. Title IV: Enforcement - Requires other Federal agencies to assist in the administration of this Act. Establishes civil penalties for violations, authorizing doubling for second violations. Authorizes the Administrator of EPA to revoke vessel identification numbers for egregious or multiple violations. Establishes criminal penalties for the willful and knowing violation of this Act. Title V: EPA Responsibilities - Requires the Administrator to make manifest and vessel identification number forms available and to establish a recordkeeping system for such applications. Title VI: Tracking Study - Directs the Administrator to study the effectiveness of additional tracking systems for vessels to ensure that nonhazardous municipal and commercial waste is not disposed of at sea or in coastal waters. Directs the Secretary of the department in which the Coast Guard is operating to study the effectiveness and costs of tracking systems that might be applicable to vessels carrying nonhazardous municipal or commercial waste. Title VII: Coast Guard Responsibilities - Directs the Secretary to make periodic checks for vessel permits and compliance with the applicable Federal environmental laws, including the installation of tracking devices if required. Title VIII: Relation to Other Laws - States that other Federal and State laws remain unaffected by this Act. Title IX: Authorization - Authorizes appropriations. Title X: Savings Clause - Authorizes actions by other than Federal entities for violations of this Act.</summary>
+</bill>

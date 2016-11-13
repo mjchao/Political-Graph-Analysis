@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="3744" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-10"/>
+  </status>
+  <introduced datetime="1987-12-10"/>
+  <titles>
+    <title type="short" as="introduced">Panama Canal Revolving Fund Act</title>
+    <title type="official" as="introduced">A bill to amend the Panama Canal Act of 1979 to establish a Panama Canal Revolving Fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="400397"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-10" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>Referred to Subcommittee on Panama Canal and Outer Continental Shelf.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM05" subcommittee="Panama Canal and Outer Continental Shelf" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Canals"/>
+    <term name="Economics and public finance"/>
+    <term name="Fees"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Insurance"/>
+    <term name="Interoceanic canals"/>
+    <term name="Navigation"/>
+    <term name="Panama Canal"/>
+    <term name="Panama Canal Commission"/>
+    <term name="Revolving funds"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>12/10/1987--Introduced.
+Panama Canal Revolving Fund Act - Amends the Panama Canal Act of 1979 to terminate the present Panama Canal Commission Fund and Panama Canal Emergency Fund and establish in the Treasury a Panama Canal Revolving Fund (Fund). Makes amounts in such Fund available to carry out the authorized purposes, functions, and powers of the Panama Canal Commission (Commission). Provides that such Fund shall consist of the balance of the Panama Canal Commission Fund, the balance of unexpended appropriations to the Commission, the balance of the Panama Canal Emergency Fund, toll receipts, and all other receipts of the Commission. Allows the Commission to withdraw funds from the Fund to defray emergency and operating expenses if authorizing legislation has not been enacted for a fiscal year, subject to specified conditions and a reporting requirement. Authorizes the Commission to borrow up to a specified amount from the Treasury. Provides for the calculation and payment of interest to the Fund. Adds working capital requirements to the list of expenditures of the Commission. Authorizes using tolls from the Panama Canal to pay for working capital requirements.</summary>
+</bill>

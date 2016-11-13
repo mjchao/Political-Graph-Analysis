@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="29" updated="2014-03-22T09:54:44-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Satellite Communications Security Act of 1987</title>
+    <title type="official" as="introduced">A bill to authorize the procurement and installations of cryptographic equipment at satellite communications facilities within the United States, and for other purposes.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Committee on Armed Services requested executive comment from Department of Defense.</text>
+    </action>
+    <action datetime="1987-01-30">
+      <text>Referred to Subcommittee on Strategic Forces and Nuclear.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAS01" subcommittee="Strategic Forces and Nuclear Deterrence" name="Senate Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Communication satellites"/>
+    <term name="Cryptography"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Satellite Communications Security Act of 1987 - Authorizes the Secretary of Defense to procure and install cryptographic equipment at satellite communications facilities within the United States. Requires any private enterprise owning a satellite communications facility at which such equipment is installed to be reimbursed by the Secretary for the operation and maintenance costs of such equipment. Authorizes appropriations for use by the National Security Agency to carry out this Act.</summary>
+</bill>

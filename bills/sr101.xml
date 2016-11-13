@@ -1,0 +1,39 @@
+<bill session="100" type="sr" number="101" updated="2014-03-22T09:54:35-04:00">
+  <state datetime="1987-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to express the sense of the Senate that the President should appoint a Commission to study the Federal budget process.</title>
+  </titles>
+  <sponsor id="300023"/>
+  <cosponsors>
+    <cosponsor id="403171" joined="1987-02-19"/>
+    <cosponsor id="300056" joined="1987-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04">
+      <text>Referred jointly to the Committees on Budget; Governmental Affairs pursuant to the order of August 4, 1977, requiring that if one Committee reports, the other Committee has thirty days of continuous session to report or be discharged.</text>
+    </action>
+    <action datetime="1987-05-19" state="REFERRED">
+      <text>Referred to Subcommittee on Federal Spending, Budget, Account.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, In Committee"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA02" subcommittee="Federal Spending, Budget, and Accounting" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Advisory bodies"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal budget process"/>
+    <term name="Federal budgets"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Expresses the sense of the Senate that the President should appoint a commission to study and report to the President on reforming the Federal budget process.</summary>
+</bill>

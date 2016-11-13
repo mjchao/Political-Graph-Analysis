@@ -1,0 +1,65 @@
+<bill session="100" type="h" number="2695" updated="2014-03-22T09:52:28-04:00">
+  <state datetime="1987-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-16"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Food Security Act of 1985 to prevent foreigners from receiving production adjustment payments and price support payments and loans.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors>
+    <cosponsor id="402454" joined="1987-12-21"/>
+    <cosponsor id="300058" joined="1988-01-25"/>
+    <cosponsor id="408618" joined="1987-12-21"/>
+    <cosponsor id="409237" joined="1987-12-21"/>
+    <cosponsor id="410529" joined="1987-12-21"/>
+    <cosponsor id="411834" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Referred to Subcommittee on Tobacco and Peanuts.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG07" subcommittee="Tobacco and Peanuts" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Aliens"/>
+    <term name="Farm corporations"/>
+    <term name="Farm ownership"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign corporations"/>
+    <term name="Foreign investments"/>
+    <term name="Foreign ownership of real property"/>
+    <term name="Foreign trade and international finance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1987--Introduced.
+Amends the Food Security Act of 1985 to make the following ineligible to receive production adjustment payments or price support program loans, payments, or benefits with respect to any commodity produced on a U.S. farm: (1) foreign nationals owning or operating such a farm; and (2) corporations at least ten percent of whose beneficial ownership is held by foreign nationals.</summary>
+</bill>

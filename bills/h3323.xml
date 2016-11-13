@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="3323" updated="2014-03-22T09:52:49-04:00">
+  <state datetime="1987-09-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-22"/>
+  </status>
+  <introduced datetime="1987-09-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that certain disclaimers shall not be treated as transfers for purposes of Federal estate and gift taxation.</title>
+  </titles>
+  <sponsor id="403641"/>
+  <cosponsors>
+    <cosponsor id="404325" joined="1988-02-16"/>
+    <cosponsor id="406284" joined="1988-02-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-22" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Estate tax"/>
+    <term name="Gift tax"/>
+    <term name="Probate law and practice"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/1987--Introduced.
+Prohibits certain disclaimers of property interests created by a gift, devise, or bequest from being treated as transfers (and thus taxable) for estate and gift tax purposes. Applies to written disclaimers made before December 9, 1980, with respect to interests created before November 15, 1958.</summary>
+</bill>

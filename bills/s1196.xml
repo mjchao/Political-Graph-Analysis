@@ -1,0 +1,121 @@
+<bill session="100" type="s" number="1196" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-08-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-08-05"/>
+  </status>
+  <introduced datetime="1987-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Marine Science, Technology, and Resource Development Act of 1987</title>
+    <title type="short" as="reported to senate">Marine Science, Technology, and Resource Development Act of 1987</title>
+    <title type="short" as="passed senate">Marine Science, Technology, and Resource Development Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for the enhanced understanding and wise use of ocean, coastal, and Great Lakes resources by strengthening the National Sea Grant College and by initiating a Strategic Coastal Research Program, and for other purposes.</title>
+  </titles>
+  <sponsor id="300053"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-05-13"/>
+    <cosponsor id="401391" joined="1987-05-13"/>
+    <cosponsor id="300008" joined="1987-05-13"/>
+    <cosponsor id="300012" joined="1987-05-13"/>
+    <cosponsor id="402412" joined="1987-06-24"/>
+    <cosponsor id="300023" joined="1987-06-05"/>
+    <cosponsor id="300034" joined="1987-07-17"/>
+    <cosponsor id="403920" joined="1987-06-05"/>
+    <cosponsor id="404598" joined="1987-05-13"/>
+    <cosponsor id="405310" joined="1987-06-05"/>
+    <cosponsor id="300056" joined="1987-05-13"/>
+    <cosponsor id="406190" joined="1987-05-13"/>
+    <cosponsor id="300059" joined="1987-06-30"/>
+    <cosponsor id="300060" joined="1987-05-13"/>
+    <cosponsor id="300066" joined="1987-06-30"/>
+    <cosponsor id="407268" joined="1987-05-13"/>
+    <cosponsor id="300073" joined="1987-05-13"/>
+    <cosponsor id="407786" joined="1987-05-13"/>
+    <cosponsor id="300150" joined="1987-05-13"/>
+    <cosponsor id="408597" joined="1987-05-13"/>
+    <cosponsor id="409225" joined="1987-06-30"/>
+    <cosponsor id="400565" joined="1987-05-13"/>
+    <cosponsor id="409562" joined="1987-07-31"/>
+    <cosponsor id="300086" joined="1987-05-13"/>
+    <cosponsor id="300089" joined="1987-07-17"/>
+    <cosponsor id="410315" joined="1987-05-13"/>
+    <cosponsor id="300094" joined="1987-05-13"/>
+    <cosponsor id="300157" joined="1987-05-13"/>
+    <cosponsor id="410936" joined="1987-06-05"/>
+    <cosponsor id="411421" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-13">
+      <text>Read twice and referred jointly to the Committees on Commerce; Labor and Human Resources pursuant to the order of May 12, 1987.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Committee on Commerce. Hearings held in conjunction with the National Ocean Policy Study.</text>
+    </action>
+    <action datetime="1987-05-26">
+      <text>Committee on Labor and Human Resources requested executive comment from Education Department, GAO, OMB.</text>
+    </action>
+    <action datetime="1987-05-26" state="REFERRED">
+      <text>Referred to Subcommittee on Education, Arts, Humanities.</text>
+    </action>
+    <calendar datetime="1987-06-16" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <calendar datetime="1987-07-08">
+      <text>Committee on Labor and Human Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-07-31">
+      <text>Committee on Commerce. Jointly reported to Senate by Senator Hollings with an amendment. With written report No. 100-135.</text>
+    </action>
+    <action datetime="1987-07-31">
+      <text>Committee on Labor and Human Resources. Jointly reported to Senate by Senator Hollings with an amendment. With written report No. 100-135.</text>
+    </action>
+    <calendar datetime="1987-07-31" calendar="Senate Legislative" under="General Orders" number="278">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 278.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSHR01" subcommittee="Education, Arts and Humanities" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Advisory bodies"/>
+    <term name="Authorization"/>
+    <term name="Coastal zone"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Fisheries"/>
+    <term name="Graduate education"/>
+    <term name="Great Lakes"/>
+    <term name="Higher education"/>
+    <term name="International cooperation"/>
+    <term name="Lakes"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="Marine education"/>
+    <term name="National Sea Grant Program"/>
+    <term name="Ocean"/>
+    <term name="Ocean policy"/>
+    <term name="Oceanographic research"/>
+    <term name="Planning"/>
+    <term name="Research and development"/>
+    <term name="Research centers"/>
+    <term name="Research grants"/>
+    <term name="Scholarships"/>
+    <term name="Ships and shipping"/>
+    <term name="Student aid"/>
+    <term name="Technology transfer"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Passed Senate amended.
+(Measure passed Senate, amended) Marine Science, Technology, and Resource Development Act of 1987 - Amends the National Sea Grant College Program Act to declare the need for a national ocean policy and to revise definitions under such Act. Expands coverage of such Act to include Great Lakes resources. (Current law covers ocean and coastal resources.) Requires the Administrator of the National Oceanic and Atmospheric Administration (Administrator) to develop and publish every three years the Sea Grant Strategic Research Plan (Plan) identifying and describing a limited number of priority areas for strategic marine research. Requires the Plan to be submitted to specified congressional committees. Describes the priority area on which the Plan shall concentrate, including: (1) critical resource and environmental areas of national or global scope where adequate funding is otherwise precluded under other provisions of the National Sea Grant College Program Act; and (2) areas where sustained programmatic research and technology transfer can be utilized. Authorizes the Secretary of Commerce (Secretary) to make grants to carry out such strategic marine research to sea grant colleges, programs, regional consortia, and individuals meeting certain criteria. Authorizes appropriations for such purposes for FY 1988 through 1992. Describes the academic, congressional, Federal, and postdoctoral fellowships which may be awarded. Adds to the duties of the sea grant review panel the responsibility of giving advice with respect to applications, proposals, performance, grants, and contracts awarded under the Sea Grant Strategic Research Plan. Authorizes appropriations for the National Sea Grant College Program for FY 1988 through 1992. Amends provisions of the Sea Grant Program Improvement Act of 1976 relating to the purposes of the Sea Grant International program to authorize grants and contracts to enhance international research, promote marine activities with foreign universities, encourage technology transfer, and promote foreign data exchanges. Authorizes appropriations for such purposes for FY 1988 through 1992. Allows additional funding to be provided through other Federal program elements with a marine science or technology transfer component, or both.</summary>
+</bill>

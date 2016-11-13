@@ -1,0 +1,37 @@
+<bill session="100" type="hc" number="332" updated="2014-03-22T09:54:15-04:00">
+  <state datetime="1988-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-12"/>
+  </status>
+  <introduced datetime="1988-07-12"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the number of students in each classroom in an elementary or secondary school in the United States should be decreased.</title>
+  </titles>
+  <sponsor id="405409"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-12" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-08-12">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Educational policy"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="Elementary school students"/>
+    <term name="Secondary education"/>
+    <term name="Secondary school students"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/1988--Introduced.
+Expresses the sense of the Congress that the number of students in each classroom in an elementary or secondary school in the United States should be decreased to not more than 26 students.</summary>
+</bill>

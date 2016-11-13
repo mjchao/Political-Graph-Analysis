@@ -1,0 +1,70 @@
+<bill session="100" type="h" number="4731" updated="2014-03-22T09:53:24-04:00">
+  <state datetime="1988-07-11">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-07-11"/>
+  </status>
+  <introduced datetime="1988-06-02"/>
+  <titles>
+    <title type="short" as="introduced">WIN Demonstration Program Extension Act of 1988</title>
+    <title type="short" as="enacted">WIN Demonstration Program Extension Act of 1988</title>
+    <title type="official" as="introduced">A bill to extend the authority for the Work Incentive Demonstration Program.</title>
+  </titles>
+  <sponsor id="405236"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-02" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-14">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1988-06-20" calendar="Senate Legislative" under="General Orders" number="739">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 739.</text>
+    </calendar>
+    <action datetime="1988-06-27">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="211" datetime="1988-06-28" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 97-0. Record Vote No: 211.</text>
+    </vote>
+    <action datetime="1988-06-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1988-06-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-07-06">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-07-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-07-11" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-364" type="public" datetime="1988-07-11">
+      <text>Became Public Law No: 100-364.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Employment and training programs"/>
+    <term name="Labor and employment"/>
+    <term name="Manpower training programs"/>
+    <term name="Public assistance programs"/>
+    <term name="Work incentive programs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/1988--Introduced.
+WIN Demonstration Program Extension Act of 1988 - Amends part C (Work Incentive Program) of title IV of the Social Security Act to extend from June 30, 1987, to September 30, 1989, the date by which States may apply to the Secretary of Health and Human Services for their operation of a Work Incentive (WIN) program. Extends the latest termination date for such programs from June 30, 1988, to September 30, 1990.</summary>
+</bill>

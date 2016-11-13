@@ -1,0 +1,40 @@
+<bill session="100" type="sc" number="163" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-14">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-14"/>
+  </status>
+  <introduced datetime="1988-10-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to make a change in the enrollment of the bill H.R. 4174.</title>
+  </titles>
+  <sponsor id="402004"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Information services"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+    <term name="Small business"/>
+    <term name="South Africa"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/1988--Introduced.
+Changes the enrollment of H.R. 4174, (Small Business Administration Reauthorization and Amendment Act of 1988), deleting provisions that render small businesses doing business with South Africa ineligible for certain programs and activities.</summary>
+</bill>

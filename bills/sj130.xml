@@ -1,0 +1,40 @@
+<bill session="100" type="sj" number="130" updated="2014-03-22T09:54:22-04:00">
+  <state datetime="1987-05-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-15"/>
+  </status>
+  <introduced datetime="1987-05-15"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States relative to limiting campaign expenditures.</title>
+  </titles>
+  <sponsor id="400565"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>5/15/1987--Introduced.
+Constitutional Amendment - Authorizes the Congress to establish reasonable limitations on expenditures for elections to Federal offices. Authorizes States to establish reasonable limitations on expenditures for elections within their jurisdictions.</summary>
+</bill>

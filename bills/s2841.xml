@@ -1,0 +1,51 @@
+<bill session="100" type="s" number="2841" updated="2014-03-22T09:55:57-04:00">
+  <state datetime="1988-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that the Secretary of Transportation may not issue regulations reclassifying anhydrous ammonia under the Hazardous Materials Transportation Act.</title>
+  </titles>
+  <sponsor id="406183"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="1988-09-27"/>
+    <cosponsor id="401611" joined="1988-09-28"/>
+    <cosponsor id="300023" joined="1988-09-27"/>
+    <cosponsor id="300031" joined="1988-10-12"/>
+    <cosponsor id="403483" joined="1988-09-27"/>
+    <cosponsor id="403515" joined="1988-09-27"/>
+    <cosponsor id="300159" joined="1988-09-27"/>
+    <cosponsor id="300051" joined="1988-09-27"/>
+    <cosponsor id="300154" joined="1988-09-27"/>
+    <cosponsor id="407355" joined="1988-09-28"/>
+    <cosponsor id="300079" joined="1988-09-27"/>
+    <cosponsor id="409917" joined="1988-09-27"/>
+    <cosponsor id="411271" joined="1988-10-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="5376"/>
+    <bill relation="identical" session="100" type="h" number="5376"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Ammonia"/>
+    <term name="Department of Transportation"/>
+    <term name="Environmental protection"/>
+    <term name="Gases"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation of hazardous substances"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Introduced.
+Prohibits the Secretary of Transportation from issuing regulations under the Hazardous Materials Transportation Act that characterize anhydrous ammonia as a poisonous gas.</summary>
+</bill>

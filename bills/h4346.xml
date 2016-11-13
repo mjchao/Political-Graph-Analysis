@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="4346" updated="2014-03-22T09:53:10-04:00">
+  <state datetime="1988-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-31"/>
+  </status>
+  <introduced datetime="1988-03-31"/>
+  <titles>
+    <title type="short" as="introduced">Federal Aviation Administration Independent Establishment Act of 1988</title>
+    <title type="official" as="introduced">A bill to enhance the safety of air travel through a more effective Federal Aviation Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="409237"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-31" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1600"/>
+    <bill relation="identical" session="100" type="s" number="1600"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air traffic"/>
+    <term name="Aviation"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal Aviation Administration"/>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1988--Introduced.
+Federal Aviation Administration Independent Establishment Act of 1988 - Establishes the Federal Aviation Administration as an independent Federal agency to succeed the Federal Aviation Administration of the Department of Transportation. Transfers to such independent agency all functions vested in the Federal Aviation Administration currently in the Department of Transportation, and all functions vested in such Department which are administered through the Federal Aviation Administration or are related to it. Authorizes appropriations.</summary>
+</bill>

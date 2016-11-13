@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="3780" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1987-12-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-17"/>
+  </status>
+  <introduced datetime="1987-12-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 and the Social Security Act to provide that individuals who process fish or shellfish are not treated as employees for Federal tax purposes.</title>
+  </titles>
+  <sponsor id="400397"/>
+  <cosponsors>
+    <cosponsor id="404163" joined="1987-12-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-17" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-01-04">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Fish processing ships"/>
+    <term name="Fisheries"/>
+    <term name="Labor and employment"/>
+    <term name="Seafood"/>
+    <term name="Seafood industries"/>
+    <term name="Self-employed"/>
+    <term name="Social security taxes"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/1987--Introduced.
+Amends employment tax provisions of the Internal Revenue Code and the Social Security Act to grant independent contractor status to any individual fish or shellfish processor whose compensation is based on the quantity of fish or shellfish peeled, shucked, filleted, or otherwise processed.</summary>
+</bill>

@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="1017" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 39, United States Code, to permit municipal governmental bodies to qualify for special bulk third-class mail rates.</title>
+  </titles>
+  <sponsor id="410926"/>
+  <cosponsors>
+    <cosponsor id="400987" joined="1987-03-24"/>
+    <cosponsor id="401418" joined="1987-03-24"/>
+    <cosponsor id="400527" joined="1987-03-24"/>
+    <cosponsor id="402657" joined="1987-07-13"/>
+    <cosponsor id="403031" joined="1987-03-24"/>
+    <cosponsor id="403190" joined="1987-03-24"/>
+    <cosponsor id="403266" joined="1987-03-24"/>
+    <cosponsor id="403308" joined="1987-03-24"/>
+    <cosponsor id="403314" joined="1987-03-24"/>
+    <cosponsor id="403689" joined="1987-03-24"/>
+    <cosponsor id="403696" joined="1988-02-16"/>
+    <cosponsor id="404019" joined="1987-04-22"/>
+    <cosponsor id="404422" joined="1987-04-22"/>
+    <cosponsor id="404750" joined="1987-03-24"/>
+    <cosponsor id="405256" joined="1987-03-24"/>
+    <cosponsor id="400243" joined="1987-03-24"/>
+    <cosponsor id="407141" joined="1987-03-24"/>
+    <cosponsor id="409353" joined="1987-03-24"/>
+    <cosponsor id="410076" joined="1987-03-24"/>
+    <cosponsor id="410407" joined="1987-03-24"/>
+    <cosponsor id="411587" joined="1987-03-24"/>
+    <cosponsor id="411901" joined="1987-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to Subcommittee on Postal Operations and Services.</text>
+    </action>
+    <action datetime="1987-02-20">
+      <text>Executive Comment Requested from OMB, US Postal Service.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO06" subcommittee="Postal Operations and Services" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Federal-local relations"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Municipal politics and government"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal rates and revenues"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Permits municipal governmental bodies to qualify for bulk third-class mail rates.</summary>
+</bill>

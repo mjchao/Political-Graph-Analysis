@@ -1,0 +1,33 @@
+<bill session="100" type="hr" number="32" updated="2014-03-22T09:50:54-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A resolution permitting printing of political cartoons in the extensions of remarks section of the Congressional Record.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional Record"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Permits printing of political cartoons in the extensions of remarks section of the Congressional Record.</summary>
+</bill>

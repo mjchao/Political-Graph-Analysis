@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="1456" updated="2014-03-22T09:55:20-04:00">
+  <state datetime="1988-10-05">REPORTED</state>
+  <status>
+    <unknown datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1987-06-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Paulette Mendes-Silva.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration without amendment favorably.</text>
+    </action>
+    <calendar datetime="1988-10-05" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-10-05">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-10-05" calendar="Senate Legislative" under="General Orders" number="1069">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1069.</text>
+    </calendar>
+    <action datetime="1988-10-18">
+      <text>H.R. 3911 passed in Senate relating to this measure.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3911"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1987--Introduced.
+Confers jurisdiction upon the U.S. District Court for the District of Columbia to hear, determine, and render judgment on any claim of a named individual against the United States for personal injuries allegedly resulting from the administration of an inoculation.</summary>
+</bill>

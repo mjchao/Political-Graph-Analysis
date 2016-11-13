@@ -1,0 +1,86 @@
+<bill session="100" type="h" number="4748" updated="2016-06-29T08:43:59-04:00">
+  <state datetime="1988-09-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-20"/>
+  </status>
+  <introduced datetime="1988-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Railroad Drug Abuse Prevention Act of 1988</title>
+    <title type="short" as="reported to house">Railroad Drug Abuse Prevention Act of 1988</title>
+    <title type="short" as="passed house">Railroad Drug Abuse Prevention Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Federal Railroad Safety Act of 1970 to provide for drug and alcohol testing for railroad employees.</title>
+  </titles>
+  <sponsor id="406994"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-06-21"/>
+    <cosponsor id="400370" joined="1988-07-07"/>
+    <cosponsor id="411585" joined="1988-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-03" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-09" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-20">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-940.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Placed on Union Calendar No: 563.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1988-09-26" calendar="Senate Legislative" under="General Orders" number="999">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 999.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcoholism"/>
+    <term name="Civil actions and liability"/>
+    <term name="Dismissal of employees"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse counseling"/>
+    <term name="Drug testing"/>
+    <term name="Drugs and employment"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Employee assistance programs"/>
+    <term name="Employee rights"/>
+    <term name="Employment tests"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Labor and employment"/>
+    <term name="Public safety"/>
+    <term name="Railroad employees"/>
+    <term name="Railroad safety"/>
+    <term name="Railroads"/>
+    <term name="Treatment and rehabilitation of alcoholics"/>
+    <term name="Treatment and rehabilitation of narcotic addicts"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/1988--Passed House amended.
+(Measure passed House, amended) Railroad Drug Abuse Prevention Act of 1988 - Amends the Federal Railroad Safety Act of 1970 to direct the Secretary of Transportation to issue regulations within 90 days after the enactment of this Act to establish a program requiring each rail carrier to conduct at its own expense: (1) an employee and job applicant testing program for the use of alcohol or controlled substances; and (2) a substance abuse rehabilitation program. Mandates the immediate testing of employees whose job performance is reasonably suspected by the employer to be alcohol- or drug-impaired. Sets forth drug testing guidelines which conform to those promulgated by the Alcohol, Drug Abuse and Mental Health Administration. Mandates that an employee whose test results confirm unlawful use of alcohol or controlled substances be suspended from duty without pay and referred to such rehabilitation program. Subjects such employees to employment discharge if they fail to complete the program successfully or test positive following successful completion of such program. Establishes civil and criminal penalties for violations of this Act, including employee protection provisions. Authorizes aggrieved railroad employees or job applicants to institute a civil action in any Federal district court for violation of their rights under this Act. Directs the Secretary of Transportation to require each rail carrier performing testing under the Federal Railroad Safety Act of 1970 to report annually to the Secretary regarding the drug and alcohol testing programs. Prescribes report contents. Requires the Secretary to submit an annual report to the Congress compiling and analyzing such information.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="2591" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-29"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to provide drought relief to agricultural producers by requiring that deficiency payments paid to producers for the 1988 crop year in counties declared disaster areas be based on 92 percent of the projected payment rate, and for other purposes.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Agricultural Production.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAF01" subcommittee="Agricultural Production and Stabilization of Prices" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Cotton"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Droughts"/>
+    <term name="Feed grain program"/>
+    <term name="Rice"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Introduced.
+Amends the Agricultural Act of 1949 to provide producers of the 1988 crops of wheat, feed grains, upland cotton, and rice in disaster-designated counties with 92 percent of the deficiency payments projected at the beginning of the crop year.</summary>
+</bill>

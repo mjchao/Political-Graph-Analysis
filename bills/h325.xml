@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="325" updated="2014-03-22T09:51:17-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Handgun Registration Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for the mandatory registration of handguns.</title>
+  </titles>
+  <sponsor id="402763"/>
+  <cosponsors>
+    <cosponsor id="400542" joined="1987-02-04"/>
+    <cosponsor id="404006" joined="1987-03-03"/>
+    <cosponsor id="405236" joined="1987-03-03"/>
+    <cosponsor id="405256" joined="1987-02-04"/>
+    <cosponsor id="407672" joined="1987-03-03"/>
+    <cosponsor id="409632" joined="1987-02-04"/>
+    <cosponsor id="410145" joined="1987-02-04"/>
+    <cosponsor id="400409" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Firearms"/>
+    <term name="Firearms control"/>
+    <term name="Licenses"/>
+    <term name="State finance"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Handgun Registration Act of 1987 - Requires each State, within two years of enactment of this Act, to establish a handgun registration system. Imposes penalties (including mandatory imprisonment for not less than 15 years) for any person possessing handguns in violation of the requirement of registration. Requires the Attorney General to establish a Federal handgun registration system to be utilized until such State plans are implemented. Terminates certain Federal assistance under the Omnibus Crime Control and Safe Streets Act of 1968 to States which do not comply with this Act by establishing registration systems.</summary>
+</bill>

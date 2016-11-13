@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="4029" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-25"/>
+  </status>
+  <introduced datetime="1988-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations to carry out the Fish and Wildlife Conservation Act of 1980 for fiscal years 1989 and 1990.</title>
+  </titles>
+  <sponsor id="410496"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1988-02-25"/>
+    <cosponsor id="406148" joined="1988-02-25"/>
+    <cosponsor id="400440" joined="1988-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-25" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-03-02">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-03-02">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-05-20">
+      <text>Unfavorable Executive Comment Received From Interior.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Authorization"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Fisheries"/>
+    <term name="Fishery management"/>
+    <term name="Fishes"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1988--Introduced.
+Amends the Fish and Wildlife Conservation Act of 1980 to extend the Department of the Interior's authorization of appropriations for such Act through FY 1990.</summary>
+</bill>

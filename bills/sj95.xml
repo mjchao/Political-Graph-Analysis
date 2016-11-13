@@ -1,0 +1,47 @@
+<bill session="100" type="sj" number="95" updated="2014-03-22T09:54:21-04:00">
+  <state datetime="1987-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution disapproving the certification by the President under section 802(b) of the Trade Act of 1974.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="403142" joined="1987-03-17"/>
+    <cosponsor id="300154" joined="1987-03-17"/>
+    <cosponsor id="300072" joined="1987-03-17"/>
+    <cosponsor id="411762" joined="1987-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="209"/>
+    <bill relation="identical" session="100" type="hj" number="209"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="International affairs"/>
+    <term name="International cooperation"/>
+    <term name="Narcotic traffic"/>
+    <term name="Panama"/>
+    <term name="Sanctions (International law)"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Disapproves the President's certification of the narcotics cooperation of Panama under provisions of the Trade Act of 1974 which would deny trade benefits to uncooperative countries.</summary>
+</bill>

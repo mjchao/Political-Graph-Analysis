@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="2063" updated="2014-03-22T09:55:34-04:00">
+  <state datetime="1988-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-17"/>
+  </status>
+  <introduced datetime="1988-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that income of a child on investments attributable to the child's earned income shall not be taxed at the parents' rate of tax.</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors>
+    <cosponsor id="406190" joined="1988-07-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4571"/>
+    <bill relation="identical" session="100" type="h" number="4571"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Children and youth"/>
+    <term name="Earnings"/>
+    <term name="Families"/>
+    <term name="Income"/>
+    <term name="Income tax"/>
+    <term name="Investments"/>
+    <term name="Tax rates"/>
+    <term name="Youth"/>
+    <term name="Youth employment"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1988--Introduced.
+Amends Internal Revenue Code provisions governing situations in which unearned income of a child under age 14 is taxed as if it were parental income. Excludes from income subject to the parental tax rate any earnings attributable to investments of the child's earned income.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="1389" updated="2014-03-22T09:51:48-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of William J. Ault.</title>
+  </titles>
+  <sponsor id="404705"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-06">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Authorizes an employee of the Internal Revenue Service who is stationed in a specified district to transfer, with the approval of the director of such district, accumulated annual and sick leave to a named Internal Revenue Service employee stationed in such district.</summary>
+</bill>

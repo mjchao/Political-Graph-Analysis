@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="819" updated="2014-03-22T09:51:34-04:00">
+  <state datetime="1987-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-29"/>
+  </status>
+  <introduced datetime="1987-01-29"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Claimants Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend titles II and XVI of the Social Security Act to prohibit, in hearings relating to benefits thereunder, the adversarial involvement of any representative of the Department of Health and Human Services, the Social Security Administration, any other agency of such Department, or any State agency involved.</title>
+  </titles>
+  <sponsor id="400043"/>
+  <cosponsors>
+    <cosponsor id="401310" joined="1987-02-25"/>
+    <cosponsor id="403403" joined="1987-01-29"/>
+    <cosponsor id="404013" joined="1987-01-29"/>
+    <cosponsor id="400140" joined="1987-01-29"/>
+    <cosponsor id="405236" joined="1987-02-25"/>
+    <cosponsor id="406765" joined="1987-02-25"/>
+    <cosponsor id="400595" joined="1987-01-29"/>
+    <cosponsor id="407672" joined="1987-01-29"/>
+    <cosponsor id="408976" joined="1987-01-29"/>
+    <cosponsor id="409446" joined="1987-01-29"/>
+    <cosponsor id="410623" joined="1987-01-29"/>
+    <cosponsor id="400425" joined="1987-01-29"/>
+    <cosponsor id="400614" joined="1987-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-29" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative procedure"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Supplemental security income program"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/1987--Introduced.
+Social Security Claimants Protection Act of 1987 - Amends titles II (Old Age, Survivors and Disability Insurance) and XVI (Supplemental Security Income) of the Social Security Act to exclude any representative of the Department of Health and Human Services, the Social Security Administration, any other agency of such department, or an involved State agency from appearing as a party at a benefit hearing or participating in the development of the record of such hearing, unless, in the latter case, the presiding officer requests such participation.</summary>
+</bill>

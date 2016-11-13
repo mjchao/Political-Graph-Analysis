@@ -1,0 +1,61 @@
+<bill session="100" type="hc" number="330" updated="2014-03-22T09:54:14-04:00">
+  <state datetime="1988-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-07"/>
+  </status>
+  <introduced datetime="1988-07-07"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing that the United States should not undertake negotiations to compensate Iran in connection with the shooting down of Iran Air Flight 655 until the Government of Iran undertakes negotiations to compensate for attacks by Iranian military forces on civilian shipping and United States Armed Forces in the Persian Gulf.</title>
+  </titles>
+  <sponsor id="300156"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="1988-07-14"/>
+    <cosponsor id="400544" joined="1988-07-14"/>
+    <cosponsor id="405580" joined="1988-07-28"/>
+    <cosponsor id="400223" joined="1988-08-11"/>
+    <cosponsor id="406463" joined="1988-07-27"/>
+    <cosponsor id="400601" joined="1988-07-27"/>
+    <cosponsor id="400359" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-07" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-07-18">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-07-18">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1988-07-22">
+      <text>Executive Comment Requested from State, DOD, Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aircraft"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation"/>
+    <term name="Claims"/>
+    <term name="Compensation (Law)"/>
+    <term name="Government liability"/>
+    <term name="Government liability (International law)"/>
+    <term name="Iran"/>
+    <term name="Liability for aircraft accidents"/>
+    <term name="Marine transportation"/>
+    <term name="Negotiations"/>
+    <term name="Persian Gulf"/>
+    <term name="Reparations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/1988--Introduced.
+States that the United States should not negotiate compensation or reparation payments to Iran or any party in Iran in connection with the shooting down of Iran Air Flight 655 unless and until the Government of Iran negotiates compensation or reparation payments for attacks by Iranian military forces on civilian shipping and U.S. armed forces in the Persian Gulf.</summary>
+</bill>

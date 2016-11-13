@@ -1,0 +1,47 @@
+<bill session="100" type="hr" number="317" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-19"/>
+  </status>
+  <introduced datetime="1987-11-19"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives with respect to Brazil's informatics policies and supporting the President's action to impose import sanctions against certain products of Brazil in response to such policies.</title>
+  </titles>
+  <sponsor id="402435"/>
+  <cosponsors>
+    <cosponsor id="401585" joined="1987-11-19"/>
+    <cosponsor id="400109" joined="1987-11-19"/>
+    <cosponsor id="406974" joined="1987-11-19"/>
+    <cosponsor id="407721" joined="1987-11-19"/>
+    <cosponsor id="407967" joined="1987-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-19" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-11-23">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="American investments"/>
+    <term name="Brazil"/>
+    <term name="Computer software"/>
+    <term name="Computers"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Nontariff trade barriers"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/1987--Introduced.
+Expresses the sense of the House of Representatives that the current policies of the Government of Brazil toward the informatics industry impose an unreasonable burden on United States commerce and have become more burdensome since the initiation of an investigation of such policies under the Trade Act of 1974. Supports the action announced by the President to impose sanctions against certain Brazilian products in response to such policies.</summary>
+</bill>

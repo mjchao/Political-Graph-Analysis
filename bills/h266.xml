@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="266" updated="2014-03-22T09:51:16-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to suspend the site selection process under the Nuclear Waste Policy Act of 1982, and for other purposes.</title>
+  </titles>
+  <sponsor id="411178"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Nuclear energy"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Repeals Federal guidelines in the Nuclear Waste Policy Act regarding nuclear waste repository site recommendations and site characterizations. Prohibits the Secretary of Energy from expending any funds for any site selection or characterization activities before new congressional guidelines are issued for such site selection under this Act. Requires the appropriate congressional committees to: (1) hold hearings on the Secretary's decision to indefinitely postpone the selection of a second repository site; and (2) issue revised guidelines for repository site selection.</summary>
+</bill>

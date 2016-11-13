@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="5173" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-10-04">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-08-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Ray F. Seuga.</title>
+  </titles>
+  <sponsor id="401029"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-04" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-1016.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Placed on Private Calendar No: 78.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>8/4/1988--Introduced.
+Waives the statute of limitations on the claim of a named individual against the United States for personal injuries sustained as a result of allegedly negligent failure of U.S. Navy medical personnel to diagnose his meningitis.</summary>
+</bill>

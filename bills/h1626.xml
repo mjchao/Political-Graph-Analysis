@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1626" updated="2014-03-22T09:51:54-04:00">
+  <state datetime="1987-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-16"/>
+  </status>
+  <introduced datetime="1987-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Older American Home Health Services Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Older Americans Act of 1965 to establish a program to make grants to States to provide home health services to older individuals.</title>
+  </titles>
+  <sponsor id="409237"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="1987-04-30"/>
+    <cosponsor id="406530" joined="1987-05-12"/>
+    <cosponsor id="406873" joined="1987-05-12"/>
+    <cosponsor id="409534" joined="1987-05-12"/>
+    <cosponsor id="411901" joined="1987-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-16" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED07" subcommittee="Human Resources" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Grants-in-aid"/>
+    <term name="Health"/>
+    <term name="Home care services"/>
+    <term name="Old age assistance"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/1987--Introduced.
+Older Americans Home Health Services Act of 1987 - Amends the Older Americans Act of 1965 to establish a program providing grants to States for projects providing home health services to individuals aged 60 or older and to their spouses. Authorizes appropriations for FY 1988 through 1990. Requires each State project to permit recipients of home health service grants or contracts to solicit voluntary contributions for such services. Prohibits the provision of home health services to individuals who: (1) receive substantially similar services under titles XVIII (Medicare) or XIX (Medicaid) of the Social Security Act or under certain other Federally funded programs; or (2) would require less costly care in an institution.</summary>
+</bill>

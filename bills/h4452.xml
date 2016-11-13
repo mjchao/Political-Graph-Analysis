@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4452" updated="2014-03-22T09:53:17-04:00">
+  <state datetime="1988-04-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-25"/>
+  </status>
+  <introduced datetime="1988-04-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 28, United States Code, with respect to the configuration of the Middle and Southern Districts of Florida.</title>
+  </titles>
+  <sponsor id="406790"/>
+  <cosponsors>
+    <cosponsor id="400562" joined="1988-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-25" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2340"/>
+    <bill relation="identical" session="100" type="s" number="2340"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="District courts"/>
+    <term name="Florida"/>
+    <term name="Judicial districts"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/1988--Introduced.
+Amends the judicial code to move Collier, Glades, and Hendry Counties from the Southern District of Florida to the Middle District of Florida.</summary>
+</bill>

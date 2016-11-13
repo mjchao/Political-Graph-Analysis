@@ -1,0 +1,90 @@
+<bill session="100" type="h" number="1596" updated="2014-03-22T09:51:54-04:00">
+  <state datetime="1988-10-14">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-14"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 28, United States Code, to create two divisions in the Judicial District of Maryland.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-03-12"/>
+    <cosponsor id="402159" joined="1987-03-12"/>
+    <cosponsor id="400064" joined="1988-09-23"/>
+    <cosponsor id="403696" joined="1987-03-12"/>
+    <cosponsor id="407564" joined="1987-03-30"/>
+    <cosponsor id="400524" joined="1987-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Subcommittee on Courts, Civil Liberties, and the Administration of Justice Discharged.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-22" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-23">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-973.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Placed on Union Calendar No: 583.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-28">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-30" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1988-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-05">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-14" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-487" type="public" datetime="1988-10-14">
+      <text>Became Public Law No: 100-487.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="District courts"/>
+    <term name="Judicial districts"/>
+    <term name="Maryland"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Amends the Federal judicial code to create two divisions in the judicial District of Maryland. Lists the counties which comprise the Northern Division. States that court for the Northern Division shall be held at Baltimore, Cumberland, and Denton. Lists the counties which comprise the Southern division. States that court for the Southern Division shall be held in Montgomery County or Prince George's County.</summary>
+</bill>

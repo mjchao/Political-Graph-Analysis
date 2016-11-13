@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="4051" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-01"/>
+  </status>
+  <introduced datetime="1988-03-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Labor to permit North Carolina to continue to employ 17-year old school bus drivers under certain conditions until June 15, 1988.</title>
+  </titles>
+  <sponsor id="409400"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="1988-03-01"/>
+    <cosponsor id="402600" joined="1988-03-01"/>
+    <cosponsor id="400076" joined="1988-03-01"/>
+    <cosponsor id="405313" joined="1988-03-01"/>
+    <cosponsor id="406148" joined="1988-03-01"/>
+    <cosponsor id="406554" joined="1988-03-01"/>
+    <cosponsor id="407558" joined="1988-03-01"/>
+    <cosponsor id="408109" joined="1988-03-01"/>
+    <cosponsor id="400326" joined="1988-03-01"/>
+    <cosponsor id="411065" joined="1988-03-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-01" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Referred to Subcommittee on Labor Standards.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED03" subcommittee="Labor Standards" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Child labor"/>
+    <term name="Children and youth"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Hours of labor"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="North Carolina"/>
+    <term name="School buses"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/1988--Introduced.
+Directs the Secretary of Labor to permit North Carolina to continue to employ 17-year-old school bus drivers until June 15, 1988, under certain conditions and notwithstanding specified provisions of the Fair Labor Standards Act of 1938.</summary>
+</bill>

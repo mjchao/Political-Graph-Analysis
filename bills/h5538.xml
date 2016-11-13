@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="5538" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-19">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-19"/>
+  </status>
+  <introduced datetime="1988-10-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish an emergency forest fire fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-19" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Economics and public finance"/>
+    <term name="Fire prevention"/>
+    <term name="Forest fires"/>
+    <term name="Forest management"/>
+    <term name="Forests and forest products"/>
+    <term name="Forests and forestry"/>
+    <term name="Government trust funds"/>
+    <term name="National forests"/>
+    <term name="Reforestation"/>
+    <term name="Timber sales"/>
+    <term name="Trails"/>
+  </subjects>
+  <amendments/>
+  <summary>10/19/1988--Introduced.
+Establishes the Emergency Forest Fire Fund to provide for emergency resource protection and rehabilitation of National Forests System lands damaged by wildfire. Deposits into the Fund receipts received in the National Forest Fund and other specified unused excess trust fund collections. Allows Fund amounts to be available without further appropriation for emergency firefighting purposes and rehabilitation for fish and wildlife habitat, recreation, and the timber resources damaged by wildfire. Provides, after the first year, for the deposit of unexpended Fund amounts into miscellaneous receipts in the Treasury. Requires the Secretary of Agriculture to retain 20 percent of unexpended Fund yearly deposits to be used for expenses of National Forest System programs, including trail construction, habitat management, reforestation, timber sales, and other programs.</summary>
+</bill>

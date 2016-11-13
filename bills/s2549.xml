@@ -1,0 +1,78 @@
+<bill session="100" type="s" number="2549" updated="2014-03-22T09:55:51-04:00">
+  <state datetime="1988-09-20">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-20"/>
+  </status>
+  <introduced datetime="1988-06-21"/>
+  <titles>
+    <title type="short" as="introduced">Drunk Driving Prevention Act of 1988</title>
+    <title type="short" as="reported to senate">Drunk Driving Prevention Act of 1988</title>
+    <title type="official" as="introduced">A bill to promote highway traffic safety encouraging the States to establish measures for more effective enforcement of laws to prevent drunk driving, and for other purposes.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1988-06-21"/>
+    <cosponsor id="401611" joined="1988-07-13"/>
+    <cosponsor id="402412" joined="1988-06-21"/>
+    <cosponsor id="403171" joined="1988-06-21"/>
+    <cosponsor id="300034" joined="1988-09-12"/>
+    <cosponsor id="404598" joined="1988-07-07"/>
+    <cosponsor id="404679" joined="1988-06-21"/>
+    <cosponsor id="300046" joined="1988-06-21"/>
+    <cosponsor id="300051" joined="1988-10-06"/>
+    <cosponsor id="405321" joined="1988-06-21"/>
+    <cosponsor id="300066" joined="1988-08-10"/>
+    <cosponsor id="300070" joined="1988-06-21"/>
+    <cosponsor id="300071" joined="1988-08-02"/>
+    <cosponsor id="407663" joined="1988-08-05"/>
+    <cosponsor id="300073" joined="1988-06-21"/>
+    <cosponsor id="300150" joined="1988-06-21"/>
+    <cosponsor id="408597" joined="1988-06-21"/>
+    <cosponsor id="408937" joined="1988-08-05"/>
+    <cosponsor id="409917" joined="1988-07-07"/>
+    <cosponsor id="411421" joined="1988-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee on Consumer. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-09-20" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-10-07">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings with amendments. With written report No. 100-594.</text>
+    </action>
+    <calendar datetime="1988-10-07" calendar="Senate Legislative" under="General Orders" number="1129">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1129.</text>
+    </calendar>
+    <action datetime="1988-10-22">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSCM03" subcommittee="Consumer" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4723"/>
+    <bill relation="identical" session="100" type="h" number="4723"/>
+    <bill relation="identical" session="100" type="s" number="2367"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Alcohol and youth"/>
+    <term name="Driver licenses"/>
+    <term name="Drunk driving"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle registration"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/1988--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate) Drunk Driving Prevention Act of 1988 - Authorizes the Secretary of Transportation to make basic and supplemental grants to States which adopt and implement certain drunk driving prevention programs. Requires States, in order to receive basic grants under this Act, to provide: (1) an expedited driver's license suspension or revocation system; and (2) a self-sustaining drunk driving enforcement program. Sets forth additional requirements for the receipt of supplemental grants, which include: (1) providing for mandatory blood alcohol content testing whenever a law enforcement officer has probable cause to believe that a driver involved in a collision that results in a death or serious bodily injury has committed an alcohol-related traffic offense; (2) providing for an effective system for preventing drivers under the age of 21 from obtaining alcoholic beverages; or (3) providing for suspension of the registration of, and the return to the State of the license plates for, any motor vehicle owned by an individual convicted of more than one alcohol-related traffic offense or of driving with a license suspended or revoked because of an alcohol-related offense. Provides that no State may receive grants for more than three fiscal years. Sets forth the Federal share payable for such grants for each of the three fiscal years. Authorizes appropriations for FY 1989 through 1991. Requires the Secretary to: (1) conduct a study to determine the blood alcohol concentration level at or above which an individual is deemed to be driving while under the influence; and (2) issue and publish proposed and final regulations to implement this Act.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="3653" updated="2014-03-22T09:52:55-04:00">
+  <state datetime="1987-11-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-18"/>
+  </status>
+  <introduced datetime="1987-11-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, with respect to comparability adjustments under the provisions relating to grade and pay retention for Federal employees.</title>
+  </titles>
+  <sponsor id="400586"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-18" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-12-04">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+    <action datetime="1987-12-04">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service compensation"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Layoffs"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/1987--Introduced.
+Revises the method of adjusting the pay of Federal employees who were subject to reduction-in-force procedures after the retained-pay status of such employees has expired.</summary>
+</bill>

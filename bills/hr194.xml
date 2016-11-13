@@ -1,0 +1,59 @@
+<bill session="100" type="hr" number="194" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-11"/>
+  </status>
+  <introduced datetime="1987-06-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution urging the President to seek a meeting of the United Nations Security Council for the purpose of protecting nonbelligerent shipping in the Persian Gulf.</title>
+  </titles>
+  <sponsor id="403581"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-06-23"/>
+    <cosponsor id="401363" joined="1987-07-21"/>
+    <cosponsor id="400025" joined="1987-06-23"/>
+    <cosponsor id="300011" joined="1987-06-23"/>
+    <cosponsor id="400140" joined="1987-06-23"/>
+    <cosponsor id="405377" joined="1987-07-21"/>
+    <cosponsor id="400236" joined="1987-06-11"/>
+    <cosponsor id="400595" joined="1987-06-23"/>
+    <cosponsor id="408618" joined="1987-06-23"/>
+    <cosponsor id="410496" joined="1987-06-11"/>
+    <cosponsor id="411834" joined="1987-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-11" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="International military forces"/>
+    <term name="Iran"/>
+    <term name="Iran-Iraq War"/>
+    <term name="Iraq"/>
+    <term name="Marine transportation"/>
+    <term name="Middle East"/>
+    <term name="Peace"/>
+    <term name="Persian Gulf"/>
+    <term name="Ships and shipping"/>
+    <term name="Treaties"/>
+    <term name="United Nations"/>
+    <term name="War"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/1987--Introduced.
+Urges the President to seek: (1) a meeting of the United Nations Security Council to establish a United Nations peacekeeping naval force for the purpose of protecting shipping in the Persian Gulf; and (2) an end to Iran-Iraq War. Urges the members of the North Atlantic Treaty Organization and all members of the Security Council to support the establishment of such a naval force.</summary>
+</bill>

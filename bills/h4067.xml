@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="4067" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-02"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit certain railroad employees from leaving their post in the event of a train accident.</title>
+  </titles>
+  <sponsor id="400428"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-03-22"/>
+    <cosponsor id="402454" joined="1988-03-16"/>
+    <cosponsor id="404009" joined="1988-03-22"/>
+    <cosponsor id="409654" joined="1988-03-16"/>
+    <cosponsor id="411585" joined="1988-03-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Department of Transportation"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Public safety"/>
+    <term name="Railroad employees"/>
+    <term name="Railroad safety"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1988--Introduced.
+Amends the Federal Railroad Safety Act of 1970 to direct the Secretary of Transportation to promulgate regulations prohibiting any railroad employee from leaving either the scene of a railroad accident or such employee's appropriate place of duty (unless warranted because of injury or other urgent circumstances) if the employee: (1) caused or contributed to the accident; or (2) has specified responsibilities regarding the accident's aftermath. Sets forth criminal penalties for knowing or willful violation of regulations promulgated under this Act.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="4918" updated="2014-03-22T09:53:28-04:00">
+  <state datetime="1988-06-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-27"/>
+  </status>
+  <introduced datetime="1988-06-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Election Campaign Act of 1971 to prohibit any member of or candidate for the Congress from making contributions to any other member of or candidate for the Congress and to prohibit members of the Congress from soliciting and accepting contributions with respect to elections for Congressional leadership officers within a political party.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors>
+    <cosponsor id="401310" joined="1988-07-14"/>
+    <cosponsor id="400023" joined="1988-07-14"/>
+    <cosponsor id="401986" joined="1988-08-03"/>
+    <cosponsor id="400064" joined="1988-07-14"/>
+    <cosponsor id="403031" joined="1988-07-14"/>
+    <cosponsor id="408190" joined="1988-07-07"/>
+    <cosponsor id="409060" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-27" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Congressional elections"/>
+    <term name="Congressional leadership"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Senate"/>
+    <term name="Senate leadership"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>6/27/1988--Introduced.
+Amends the Federal Election Campaign Act of 1971 to prohibit any Member of Congress or congressional candidate from making contributions to any other Member or congressional candidate. Prohibits Members from soliciting and accepting contributions with respect to any election of congressional leadership officers.</summary>
+</bill>

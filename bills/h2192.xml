@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="2192" updated="2014-03-22T09:52:16-04:00">
+  <state datetime="1987-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-28"/>
+  </status>
+  <introduced datetime="1987-04-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to encourage and promote the export trade of the United States through development and the use of vessels as mobile trade fairs.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1987-04-28"/>
+    <cosponsor id="406148" joined="1987-04-28"/>
+    <cosponsor id="406746" joined="1987-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-28" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Executive Comment Requested from DOT, Commerce.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Aircraft"/>
+    <term name="Authorization"/>
+    <term name="Aviation"/>
+    <term name="Cargo preference"/>
+    <term name="Department of Commerce"/>
+    <term name="Department of Transportation"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive reorganization"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade promotion"/>
+    <term name="Marine transportation"/>
+    <term name="Ships and shipping"/>
+    <term name="Trade fairs"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1987--Introduced.
+Amends the Merchant Marine Act, 1936 to transfer from the Secretary of Commerce to the Secretary of Transportation the responsibility to: (1) encourage, promote, give technical assistance and support, and give financial assistance to certain mobile foreign trade fairs which use U.S. vessels and aircraft in the transportation of their exhibits; and (2) submit an annual report to the Congress on such activities. Authorizes appropriations for FY 1988 through 1993.</summary>
+</bill>

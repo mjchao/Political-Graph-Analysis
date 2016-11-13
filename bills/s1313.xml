@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="1313" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-03"/>
+  </status>
+  <introduced datetime="1987-06-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to continue for a 3-year period the suspension of the duties on dicyclomine hydrochloride, mepenzolate bromide, desipramine hydrochloride, rifampin, terfenadine, clomiphene citrate, and lactulose.</title>
+  </titles>
+  <sponsor id="409225"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2389"/>
+    <bill relation="identical" session="100" type="h" number="2389"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemicals"/>
+    <term name="Drugs"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/1987--Introduced.
+Amends the Tariff Schedules of the United States to continue through December 31, 1990, the suspension of duties on dicyclomine hydrochloride, mepenzolate bromide, desipramine hydrochloride, rifampin, terfenadine, clomiphene citrate, and lactulose.</summary>
+</bill>

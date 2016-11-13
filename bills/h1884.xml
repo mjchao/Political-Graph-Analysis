@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="1884" updated="2014-03-22T09:52:05-04:00">
+  <state datetime="1987-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-31"/>
+  </status>
+  <introduced datetime="1987-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the establishment of a national cemetery in Maricopa County, Arizona.</title>
+  </titles>
+  <sponsor id="400504"/>
+  <cosponsors>
+    <cosponsor id="400226" joined="1987-03-31"/>
+    <cosponsor id="300062" joined="1987-03-31"/>
+    <cosponsor id="409165" joined="1987-03-31"/>
+    <cosponsor id="411025" joined="1987-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-31" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Executive Comment Requested from VA.</text>
+    </action>
+    <action datetime="1987-07-15">
+      <text>Executive Comment Received From VA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Arizona"/>
+    <term name="Cemeteries and funerals"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1987--Introduced.
+Directs the Administrator of Veterans Affairs to establish a national cemetery in Maricopa County, Arizona, on the site of and coextensive with the Veterans Memorial Cemetery of Arizona. Authorizes appropriations.</summary>
+</bill>

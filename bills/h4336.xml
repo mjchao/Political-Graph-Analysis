@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4336" updated="2014-03-22T09:53:10-04:00">
+  <state datetime="1988-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-31"/>
+  </status>
+  <introduced datetime="1988-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the Secretary of Agriculture from extending financial assistance under the Consolidated Farm and Rural Development Act to persons who have defaulted on a loan made or insured under such Act or whose loans are restructured and remain outstanding, to prevent delinquent borrowers from repurchasing farm property at a discount, and to provide for the termination of certain restructured loans that are 180 days delinquent.</title>
+  </titles>
+  <sponsor id="403476"/>
+  <cosponsors>
+    <cosponsor id="400844" joined="1988-05-17"/>
+    <cosponsor id="400551" joined="1988-05-17"/>
+    <cosponsor id="401231" joined="1988-05-17"/>
+    <cosponsor id="404009" joined="1988-05-17"/>
+    <cosponsor id="400188" joined="1988-05-17"/>
+    <cosponsor id="406995" joined="1988-05-17"/>
+    <cosponsor id="410574" joined="1988-05-17"/>
+    <cosponsor id="400435" joined="1988-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-31" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-04-07">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1988--Introduced.
+Amends the Consolidated Farm and Rural Development Act to prohibit the Secretary of Agriculture from providing new or extending existing financial assistance to persons who have defaulted on loans made under such Act, or whose loans have been restructured and remain outstanding.</summary>
+</bill>

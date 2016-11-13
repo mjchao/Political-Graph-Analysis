@@ -1,0 +1,49 @@
+<bill session="100" type="s" number="1621" updated="2014-03-22T09:55:23-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Davis-Bacon Act to modify the provisions of such Act prescribing the minimum wages to be paid laborers, mechanics, and helpers employed on public construction projects, and for other purposes.</title>
+  </titles>
+  <sponsor id="405795"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-08-07"/>
+    <cosponsor id="300159" joined="1987-08-07"/>
+    <cosponsor id="405305" joined="1987-08-07"/>
+    <cosponsor id="300154" joined="1987-08-07"/>
+    <cosponsor id="300079" joined="1987-08-07"/>
+    <cosponsor id="300157" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-09-14">
+      <text>Referred to Subcommittee on Labor.</text>
+    </action>
+    <action datetime="1987-09-14">
+      <text>Committee on Labor and Human Resources requested executive comment from Labor Department, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR03" subcommittee="Labor" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Business and commerce"/>
+    <term name="Construction industries"/>
+    <term name="Construction workers"/>
+    <term name="Government operations and politics"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Public works"/>
+    <term name="Standards"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Amends the Davis-Bacon Act to direct the Secretary of Labor to base the determination of the wages prevailing for the corresponding classes of laborers, mechanics, and helpers on: (1) the wage paid to 50 percent or more of the corresponding classes of laborers, mechanics, and helpers employed on similar private industry projects in the urban or rural civil subdivision of the State (or the District of Columbia) in which the work is to be performed; or (2) if the same wage is not being paid to 50 percent or more of such workers, the weighted average of the wages paid to such workers. Increases the threshold amount of a Federal contract covered by such Act from $2,000 to $100,000 or, in the case of Department of Defense contracts, $1,000,000. Provides that helpers of a class of laborers or mechanics shall be considered as a separate class, with their prevailing wages to be determined on the basis of the corresponding class of helpers. Authorizes the Secretary, in making a wage determination, to limit the use of helpers employed at a particular site.</summary>
+</bill>

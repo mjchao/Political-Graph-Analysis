@@ -1,0 +1,35 @@
+<bill session="100" type="sr" number="230" updated="2014-03-22T09:54:36-04:00">
+  <state datetime="1987-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to call upon the Federal Aviation Administration to immediately implement the priority 1, urgent recommendation of the National Transportation Safety Board in connection with our air traffic control system.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="300016" joined="1987-06-10"/>
+    <cosponsor id="402990" joined="1987-06-19"/>
+    <cosponsor id="300034" joined="1987-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air traffic"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Public safety"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Expresses the sense of the Senate that the Federal Aviation Administration should take immediate measures to implement the National Transportation Safety Board recommendation to limit peak air travel levels at certain air traffic control facilities in order to avoid overloading the understaffed air traffic control system.</summary>
+</bill>

@@ -1,0 +1,97 @@
+<bill session="100" type="sj" number="175" updated="2014-03-22T09:54:23-04:00">
+  <state datetime="1987-08-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-08-20"/>
+  </status>
+  <introduced datetime="1987-07-21"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to recognize the efforts of the United States Soccer Federation in bringing the World Cup to the United States in 1994.</title>
+  </titles>
+  <sponsor id="410936"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-07-21"/>
+    <cosponsor id="401611" joined="1987-07-31"/>
+    <cosponsor id="300012" joined="1987-07-31"/>
+    <cosponsor id="300023" joined="1987-07-31"/>
+    <cosponsor id="403142" joined="1987-08-05"/>
+    <cosponsor id="403171" joined="1987-08-04"/>
+    <cosponsor id="403483" joined="1987-08-04"/>
+    <cosponsor id="403515" joined="1987-08-05"/>
+    <cosponsor id="403962" joined="1987-08-04"/>
+    <cosponsor id="300052" joined="1987-08-04"/>
+    <cosponsor id="405305" joined="1987-07-31"/>
+    <cosponsor id="405321" joined="1987-08-05"/>
+    <cosponsor id="406190" joined="1987-07-31"/>
+    <cosponsor id="300070" joined="1987-07-31"/>
+    <cosponsor id="300071" joined="1987-07-21"/>
+    <cosponsor id="408252" joined="1987-07-31"/>
+    <cosponsor id="300089" joined="1987-08-04"/>
+    <cosponsor id="300092" joined="1987-08-04"/>
+    <cosponsor id="410242" joined="1987-08-04"/>
+    <cosponsor id="411271" joined="1987-07-31"/>
+    <cosponsor id="300099" joined="1987-07-31"/>
+    <cosponsor id="411762" joined="1987-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Senate Committee on Commerce discharged by Unanimous Consent.</text>
+    </action>
+    <calendar datetime="1987-08-04" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="294">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 294.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-06">
+      <text>House Committee on Energy and Commerce Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-08-06" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-08-06">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-08-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-08-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-08-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-112" type="public" datetime="1987-08-20">
+      <text>Became Public Law No: 100-112.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="343"/>
+  </relatedbills>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Department of Commerce"/>
+    <term name="Federal officials"/>
+    <term name="International cooperation"/>
+    <term name="Professional sports"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/1987--Introduced.
+Recognizes the efforts of the United States Soccer Federation to bring the World Cup to the United States in 1994. Authorizes the President to designate the Secretary of Commerce as the official U.S. representative in any discussions with the Federation Internationale de Football Association.</summary>
+</bill>

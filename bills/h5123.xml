@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="5123" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-02"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to modify the project for Wynoochee Lake, Wynoochee River, Washington, to authorize the Secretary of the Army to permit the city of Aberdeen, Washington, to operate, maintain, repair, and rehabilitate the project for Wynoochee Lake, and for other purposes.</title>
+  </titles>
+  <sponsor id="400109"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-02" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-08-15">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>See S.2100.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Flood control"/>
+    <term name="Lakes"/>
+    <term name="Rivers"/>
+    <term name="Washington State"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Modifies the project for Wynoochee Lake, Wynoochee River, Washington, authorized under the Flood Control Act of 1962 to authorize the Secretary of the Army, acting through the Chief of Engineers, to permit the city of Aberdeen, Washington, to operate, maintain, repair, and rehabilitate such project after September 30, 1988. Sets forth terms and conditions and other administrative provisions applicable if the Secretary grants the city permission to proceed.</summary>
+</bill>

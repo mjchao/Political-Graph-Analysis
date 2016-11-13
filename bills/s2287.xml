@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="2287" updated="2014-03-22T09:55:41-04:00">
+  <state datetime="1988-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-14"/>
+  </status>
+  <introduced datetime="1988-04-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to provide that a monthly insurance benefit thereunder shall be paid for the month in which the recipient dies and that such benefit shall be payable for such month only to the extent proportionate to the number of days in such month preceding the date of the recipient's death.</title>
+  </titles>
+  <sponsor id="405305"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="551"/>
+    <bill relation="identical" session="100" type="h" number="551"/>
+    <bill relation="identical" session="100" type="h" number="1166"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/1988--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to provide that a beneficiary shall be entitled to a prorated benefit for the month in which he or she dies.</summary>
+</bill>

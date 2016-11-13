@@ -1,0 +1,73 @@
+<bill session="100" type="h" number="5226" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require that the National League of Families POW/MIA flag be displayed at each United States diplomatic or consular post.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors>
+    <cosponsor id="400527" joined="1988-10-03"/>
+    <cosponsor id="400055" joined="1988-09-22"/>
+    <cosponsor id="402114" joined="1988-10-20"/>
+    <cosponsor id="400076" joined="1988-09-22"/>
+    <cosponsor id="403203" joined="1988-09-22"/>
+    <cosponsor id="404013" joined="1988-10-03"/>
+    <cosponsor id="400536" joined="1988-09-22"/>
+    <cosponsor id="404750" joined="1988-09-22"/>
+    <cosponsor id="405646" joined="1988-09-22"/>
+    <cosponsor id="300057" joined="1988-09-22"/>
+    <cosponsor id="406157" joined="1988-10-03"/>
+    <cosponsor id="400211" joined="1988-10-03"/>
+    <cosponsor id="406530" joined="1988-10-03"/>
+    <cosponsor id="400240" joined="1988-09-22"/>
+    <cosponsor id="400243" joined="1988-10-03"/>
+    <cosponsor id="400595" joined="1988-10-03"/>
+    <cosponsor id="407772" joined="1988-09-22"/>
+    <cosponsor id="300087" joined="1988-10-20"/>
+    <cosponsor id="400611" joined="1988-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+    <action datetime="1988-10-15">
+      <text>Unfavorable Executive Comment Received From State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Department of State"/>
+    <term name="Embassies"/>
+    <term name="Federal installations"/>
+    <term name="Flags"/>
+    <term name="Foreign service"/>
+    <term name="International affairs"/>
+    <term name="Missing in action"/>
+    <term name="National emblems"/>
+    <term name="Prisoners of war"/>
+    <term name="Southeast Asia"/>
+    <term name="Vietnamese Conflict"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Requires the display of the National League of Families POW/MIA flag at each U.S. diplomatic or consular post until the President determines that there has been the fullest possible accounting of the Americans who are imprisoned, missing, or unaccounted for as a result of the conflict in Southeast Asia.</summary>
+</bill>

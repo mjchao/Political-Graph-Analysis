@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="3108" updated="2014-03-22T09:52:44-04:00">
+  <state datetime="1987-11-03">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-11-03"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Insecticide, Fungicide, and Rodenticide Act to extend for one year the term of the Scientific Advisory Panel under that Act.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-05" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-09-03">
+      <text>Executive Comment Requested from EPA.</text>
+    </action>
+    <action datetime="1987-09-03">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-09-30" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-11-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-11-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-11-04">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Pest control"/>
+    <term name="Pesticide regulation"/>
+    <term name="Pesticides"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Introduced.
+Amends the Federal Insecticide, Fungicide, and Rodenticide Act to extend the term of the pesticide advisory panel through FY 1988.</summary>
+</bill>

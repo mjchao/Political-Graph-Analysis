@@ -1,0 +1,93 @@
+<bill session="100" type="h" number="4503" updated="2014-03-22T09:53:18-04:00">
+  <state datetime="1988-06-28">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1988-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Community and Migrant Health Centers Amendments of 1988</title>
+    <title type="short" as="reported to house">Community and Migrant Health Centers Amendments of 1988</title>
+    <title type="short" as="passed house">Community and Migrant Health Centers Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to revise and extend the programs establishing migrant health centers and community health centers.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="1988-05-11"/>
+    <cosponsor id="407306" joined="1988-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-29" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-05-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-05-09">
+      <text>Hearings Held in Subcommittee on Health and the Environment Prior to Referral (May 6, 88).</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-22">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-719.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Placed on Union Calendar No: 435.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-28" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1988-07-06" calendar="Senate Legislative" under="General Orders" number="780">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 780.</text>
+    </calendar>
+    <action datetime="1988-07-12">
+      <text>House Incorporated this Measure in S.2385 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1326"/>
+    <bill relation="unknown" session="100" type="s" number="2385"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Authorization"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Community health services"/>
+    <term name="Construction costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Federal aid to maternal health services"/>
+    <term name="Health facilities"/>
+    <term name="Infant mortality"/>
+    <term name="Labor and employment"/>
+    <term name="Medical centers"/>
+    <term name="Medical fees"/>
+    <term name="Migrant labor"/>
+    <term name="Pregnant women"/>
+    <term name="Women's health"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/1988--Passed House amended.
+(Measure passed House, amended) Community and Migrant Health Centers Amendments of 1988 - Amends title III (General Powers and Duties of Public Health Service) of the Public Health Service Act to: (1) add patient case management services to the list of services provided by migrant health centers; and (2) add to the list of services included in the term "supplemental health services" other services appropriate to meet the health needs of the population served by the migrant health center involved. Requires notice and an opportunity to offer information before the Secretary of Health and Human Services may alter a determination that an area is a high impact area. Requires that the schedule of fees or payments used by migrant health centers receiving grants under specified provisions be consistent with locally prevailing rates or charges. Allows grants for migrant health centers under specified provisions to be used for expansion as well as for acquisition and modernization of existing buildings. Authorizes appropriations for grants under specified provisions for migrant health centers for FY 1989 through 1991. Authorizes the Secretary to make grants to assist centers in providing services for the reduction of infant mortality and developing and coordinating referrals regarding the health management of infants and pregnant women. Adds, with regard to community health centers, to the list of services included in the term "supplemental health services" other services appropriate to meet the health needs of the medically underserved population served by the community health center involved. Requires notice and an opportunity to comment before the Secretary may modify the criteria for determining the specific shortages of personal health services of an area or population group. Requires that the schedule of fees or payments used by community health centers receiving grants under specified provisions be consistent with locally prevailing rates or charges. Allows grants for community health centers under specified provisions to be used for expansion as well as for acquisition and modernization of existing buildings. Authorizes appropriations for grants under specified provisions for community health centers for FY 1989 through 1991. Authorizes the Secretary to make grants to community health centers to assist centers in providing services for the reduction of infant mortality and developing and coordinating referrals regarding the health management of infants and pregnant women. Directs the Secretary, in making grants to community health centers, to give special consideration to the unique needs of frontier areas.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="1768" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-07"/>
+  </status>
+  <introduced datetime="1987-10-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to ensure that medicare-dependent, small rural hospitals receive for a three-year period at least their reasonable costs for inpatient hospital services furnished under the medicare program.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="403171" joined="1987-10-07"/>
+    <cosponsor id="403669" joined="1987-10-07"/>
+    <cosponsor id="300048" joined="1988-06-22"/>
+    <cosponsor id="300056" joined="1987-10-07"/>
+    <cosponsor id="406188" joined="1987-10-07"/>
+    <cosponsor id="300071" joined="1987-10-07"/>
+    <cosponsor id="300084" joined="1987-10-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Medicare"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Rural public health"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to ensure that rural hospitals which have no more than 50 beds and provide at least 70 percent of their inpatient hospital services to Medicare patients receive, for a three-year period, Medicare coverage of at least the reasonable costs of providing such services.</summary>
+</bill>

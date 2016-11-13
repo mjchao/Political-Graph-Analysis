@@ -1,0 +1,35 @@
+<bill session="100" type="hj" number="70" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States allowing the States to propose amendments to the Constitution when the legislatures of two-thirds of the States have approved substantially identical proposals for an amendment.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Ratification of constitutional amendments"/>
+    <term name="State legislatures"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Constitutional Amendment - Permits States to propose constitutional amendments if the President establishes that two-thirds of the States have approved proposals for substantially identical amendments. Makes such proposed constitutional amendment part of the U.S. Constitution when ratified by the legislatures of three-fourths of the States.</summary>
+</bill>

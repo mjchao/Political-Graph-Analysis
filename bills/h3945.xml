@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="3945" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-02-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-16"/>
+  </status>
+  <introduced datetime="1988-02-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to limit the rate of increase of the part B medicare premium to the rate of increase in Social Security benefits.</title>
+  </titles>
+  <sponsor id="407306"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-16" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-02-22">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-03-04">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/16/1988--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to limit the rate of increase of the part B premium to the rate of increase of part B benefits.</summary>
+</bill>

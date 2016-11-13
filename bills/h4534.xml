@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="4534" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-04"/>
+  </status>
+  <introduced datetime="1988-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to permit taxpayers to elect to pay tax shown on return in installments and to authorize the Secretary to enter into installment agreements.</title>
+  </titles>
+  <sponsor id="406799"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-05-26"/>
+    <cosponsor id="402454" joined="1988-05-26"/>
+    <cosponsor id="402763" joined="1988-05-13"/>
+    <cosponsor id="403545" joined="1988-05-13"/>
+    <cosponsor id="405646" joined="1988-05-13"/>
+    <cosponsor id="406530" joined="1988-05-13"/>
+    <cosponsor id="406790" joined="1988-05-13"/>
+    <cosponsor id="400300" joined="1988-05-13"/>
+    <cosponsor id="400601" joined="1988-08-03"/>
+    <cosponsor id="409165" joined="1988-05-13"/>
+    <cosponsor id="411178" joined="1988-05-13"/>
+    <cosponsor id="411405" joined="1988-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-04" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2099"/>
+    <bill relation="identical" session="100" type="s" number="2099"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Collection of accounts"/>
+    <term name="Consumer credit"/>
+    <term name="Income tax"/>
+    <term name="Tax administration"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/1988--Introduced.
+Amends the Internal Revenue Code to permit an individual taxpayer who files a timely return to elect to pay part or all of his or her income tax liability in three equal installments. Makes the entire amount of unpaid tax due and payable upon the notice and demand of the Secretary of the Treasury when an installment is not timely paid. Authorizes the Secretary to enter into a written agreement with a taxpayer under which the taxpayer may pay any tax liability in installments when the Secretary determines that such an agreement will facilitate the collection of the tax. Invalidates any agreement based on inaccurate or incomplete taxpayer information. Permits the Secretary, after proper notice to the taxpayer, to modify or annul an agreement upon the finding that the financial condition of the affected taxpayer has significantly changed. Permits the modification or termination of an agreement if the taxpayer fails to comply with its terms or fails to pay any tax liability when due.</summary>
+</bill>

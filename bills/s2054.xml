@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="2054" updated="2014-03-22T09:55:34-04:00">
+  <state datetime="1988-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-04"/>
+  </status>
+  <introduced datetime="1988-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Peace Corps Act to authorize appropriations for fiscal year 1989.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="403346" joined="1988-02-04"/>
+    <cosponsor id="300034" joined="1988-02-04"/>
+    <cosponsor id="300056" joined="1988-02-04"/>
+    <cosponsor id="408597" joined="1988-02-04"/>
+    <cosponsor id="300084" joined="1988-02-04"/>
+    <cosponsor id="409562" joined="1988-02-18"/>
+    <cosponsor id="411421" joined="1988-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="National service"/>
+    <term name="Peace Corps"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1988--Introduced.
+Amends the Peace Corps Act to authorize appropriations for FY 1988 and 1989 to carry out such Act.</summary>
+</bill>

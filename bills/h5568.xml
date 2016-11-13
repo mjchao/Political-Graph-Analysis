@@ -1,0 +1,78 @@
+<bill session="100" type="h" number="5568" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1988-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-10-21"/>
+  <titles>
+    <title type="short" as="introduced">Federal Credit Reform Act of 1988</title>
+    <title type="official" as="introduced">A bill to ensure the proper budgetary treatment of credit transactions of Federal agencies and to improve management of Federal credit programs.</title>
+  </titles>
+  <sponsor id="404705"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1988-10-21"/>
+    <cosponsor id="401310" joined="1988-10-21"/>
+    <cosponsor id="404765" joined="1988-10-21"/>
+    <cosponsor id="400188" joined="1988-10-21"/>
+    <cosponsor id="400205" joined="1988-10-21"/>
+    <cosponsor id="408457" joined="1988-10-21"/>
+    <cosponsor id="400334" joined="1988-10-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-21" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-11-15">
+      <text>Referred to Subcommittee on Economic Stabilization.</text>
+    </action>
+    <action datetime="1988-11-15">
+      <text>Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA05" subcommittee="Economic Stabilization" name="House Banking, Finance, and Urban Affairs"/>
+    <committee activity="Referral" code="HSBA07" subcommittee="Financial Institutions Supervision, Regulation and Insurance" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2785"/>
+    <bill relation="identical" session="100" type="s" number="2785"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Bank deposits"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Deposit insurance"/>
+    <term name="Federal Deposit Insurance Corporation"/>
+    <term name="Federal Home Loan Bank Board"/>
+    <term name="Federal budgets"/>
+    <term name="Federal preemption"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government corporations"/>
+    <term name="Government lending"/>
+    <term name="Government operations and politics"/>
+    <term name="Government securities"/>
+    <term name="Government trust funds"/>
+    <term name="National Credit Union Administration"/>
+    <term name="Revolving funds"/>
+    <term name="Securities and Exchange Commission"/>
+    <term name="Securities and Investments"/>
+    <term name="Subsidies"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1988--Introduced.
+Federal Credit Reform Act of 1988 - Establishes procedures for the budgetary treatment and financing of Federal direct loan and loan guarantee programs. Defines "subsidy" as: the difference in cost to the borrower between the direct loan or guaranteed loan and alternative private financing potentially available to the borrower for the same or similar purpose. Makes any direct loan obligation of a Federal agency an obligation of the Direct Loan Fund. Requires each agency to include in its budget proposal for a fiscal year: (1) the planned level of new direct loan obligations and new loan guarantee commitments; and (2) the estimated subsidies associated with each. Prohibits an agency from making a direct loan obligation or loan guarantee commitment unless: (1) funds have been appropriated or are available on a permanent indefinite basis for the subsidy; or (2) the use of funds otherwise available to the agency for the subsidy has been limited. Provides that the loan subsidy amount shall constitute the obligation of the agency and the difference between such amount and the face value of the loan shall constitute the obligation of the Direct Loan Fund. Requires the subsidy to be paid as the loan is disbursed. Makes any loan guarantee commitment of a Federal agency a commitment of the Guaranteed Loan Fund. Requires the relevant subsidy to be paid to the Guaranteed Loan Fund when the underlying loan agreement is executed. Establishes within the Department of the Treasury a Federal Credit Direct Loan Fund and a Federal Credit Guaranteed Loan Fund to serve as central revolving funds and financing mechanisms for all new Federal direct loans and loan guarantees respectively. Directs the Secretary of the Treasury to receive into the respective Funds as appropriate: (1) subsidy payments from Federal agencies; (2) payments due the Government for direct loans; (3) proceeds from the sale of direct loans and from the sale of any collateral received as the result of defaults on direct or guaranteed loans; and (4) fees due the Government for loan guarantees. Sets forth the Secretary's duties in managing the Funds. Requires the head of each agency authorized to make or guarantee loans to: (1) request annual appropriations for the subsidized portions of agency loans; (2) conduct loan programs within specified limitations; and (3) pay to the Funds all relevant loan collections. Provides for the budgetary treatment of direct loan and loan guarantee subsidies as agency obligations and of financing requirements of credit programs exceeding agency subsidies as obligations of the relevant Fund. Authorizes the Secretary to use the proceeds of the sale of any securities issued under the Second Liberty Bond Act to: (1) finance direct loans to the extent not covered by agency subsidy payments and direct loan sales; and (2) pay claims, resulting from federally-guaranteed loans, in excess of Guaranteed Loan Fund reserves. Authorizes the appropriation of funds necessary to liquidate debt incurred by the Funds due to operating losses. Authorizes appropriations to agencies for subsidies associated with proposed direct loan obligations and proposed loan guarantee commitments, including current indefinite budget authority for subsidies associated with entitlements. Includes as "deposit insurance agencies" the Federal Deposit Insurance Corporation, the Federal Savings and Loan Insurance Corporation, the National Credit Union Administration, the Pension Benefit Guaranty Corporation, and the Securities and Exchange Commission. Provides that: (1) obligations of deposit insurance agencies to make direct loans to the public or to assume loan assets shall remain obligations of such agencies; and (2) commitments to guarantee loans shall remain commitments of such agencies. Requires each deposit insurance agency to include in its budget proposal the estimated subsidy costs associated with proposed direct loan obligations and loan guarantee commitments. Makes technical and conforming amendments. Preempts previous law governing the same subject matter to the extent the law is inconsistent with this Act.</summary>
+</bill>

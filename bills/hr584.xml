@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="584" updated="2014-03-22T09:51:03-04:00">
+  <state datetime="1988-10-12">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-10-12"/>
+  </status>
+  <introduced datetime="1988-10-12"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving all points of order against the conference report on the bill (H.R. 515) to provide for more detailed and uniform disclosure by credit and charge card issuers with respect to information relating to interest rates and other fees which may be incurred by consumers through the use of any credit or charge card, and against the consideration of such conference report.</title>
+  </titles>
+  <sponsor id="400538"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-12">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-1080.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Placed on House Calendar No: 240.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="515"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Consumer protection"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Introduced.
+Waives points of order against the conference report on H.R. 515 (credit and charge card information disclosure) and against its consideration.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="2816" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-26"/>
+  </status>
+  <introduced datetime="1987-06-26"/>
+  <titles>
+    <title type="short" as="introduced">Domestic Gold Coinage Control Act</title>
+    <title type="official" as="introduced">A bill to protect the integrity of the Nation's coinage through domestic control of the coinage process by requiring that the United States Mint use only gold refined in the United States for United States gold coins.</title>
+  </titles>
+  <sponsor id="410231"/>
+  <cosponsors>
+    <cosponsor id="400895" joined="1987-06-26"/>
+    <cosponsor id="400140" joined="1987-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-26" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Referred to Subcommittee on Consumer Affairs and Coinage.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA02" subcommittee="Consumer Affairs and Coinage" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Buy American"/>
+    <term name="Coins and coinage"/>
+    <term name="Gold"/>
+    <term name="Government procurement"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/1987--Introduced.
+Domestic Gold Coinage Control Act - Requires that gold acquired by the Secretary of the Treasury for minting of U.S. coins be refined in the United States. (Present law requires only that such gold be mined in the United States.</summary>
+</bill>

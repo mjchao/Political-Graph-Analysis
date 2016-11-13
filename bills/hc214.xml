@@ -1,0 +1,50 @@
+<bill session="100" type="hc" number="214" updated="2014-03-22T09:54:10-04:00">
+  <state datetime="1987-11-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-09"/>
+  </status>
+  <introduced datetime="1987-11-09"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that any freeze or reduction in budget levels which may be imposed by or pursuant to law should not apply to the Panama Canal Commission.</title>
+  </titles>
+  <sponsor id="404068"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1987-11-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-09" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Executive Comment Requested from Panama Canal Comm.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Panama Canal and Outer Continental Shelf.</text>
+    </action>
+    <action datetime="1987-12-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM05" subcommittee="Panama Canal and Outer Continental Shelf" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Canals"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Government operations and politics"/>
+    <term name="Government spending reductions"/>
+    <term name="Interoceanic canals"/>
+    <term name="Navigation"/>
+    <term name="Panama Canal"/>
+    <term name="Panama Canal Commission"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>11/9/1987--Introduced.
+Expresses the sense of the Congress that any freeze or reduction in Government budget levels for FY 1987 should not apply to the Panama Canal Commission.</summary>
+</bill>

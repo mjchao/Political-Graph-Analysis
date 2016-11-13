@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4597" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to transfer a parcel of land located in Riverside County, California.</title>
+  </titles>
+  <sponsor id="407320"/>
+  <cosponsors>
+    <cosponsor id="407162" joined="1988-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-12" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Biology"/>
+    <term name="California"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Veterinary medicine"/>
+    <term name="Wildlife"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1988--Introduced.
+Directs the Secretary of the Interior to transfer to the Bighorn Institute of Palm Desert, California, a parcel of land currently leased to the Institute under the Recreation and Public Purposes Act. Allows the Secretary to exempt from such transfer a certain segment of such land which is subject to a controversy relating to trespass until such controversy is resolved. Reserves mineral rights to the United States. Provides for the reversion of lands to the United States if used for any purpose other than wildlife biology and veterinary medicine.</summary>
+</bill>

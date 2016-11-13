@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="1821" updated="2014-03-22T09:52:00-04:00">
+  <state datetime="1987-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-25"/>
+  </status>
+  <introduced datetime="1987-03-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Salt-Gila aqueduct of the Central Arizona project as the "Fannin-McFarland Aqueduct".</title>
+  </titles>
+  <sponsor id="400504"/>
+  <cosponsors>
+    <cosponsor id="400567" joined="1987-03-25"/>
+    <cosponsor id="401446" joined="1987-03-25"/>
+    <cosponsor id="300017" joined="1987-04-09"/>
+    <cosponsor id="403308" joined="1987-03-25"/>
+    <cosponsor id="400143" joined="1987-03-25"/>
+    <cosponsor id="400226" joined="1987-03-25"/>
+    <cosponsor id="300062" joined="1987-03-25"/>
+    <cosponsor id="406530" joined="1987-03-25"/>
+    <cosponsor id="400595" joined="1987-05-07"/>
+    <cosponsor id="407838" joined="1987-03-25"/>
+    <cosponsor id="408180" joined="1987-03-25"/>
+    <cosponsor id="408407" joined="1987-03-25"/>
+    <cosponsor id="408520" joined="1987-03-25"/>
+    <cosponsor id="409165" joined="1987-03-25"/>
+    <cosponsor id="409353" joined="1987-03-25"/>
+    <cosponsor id="411025" joined="1987-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-25" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>For Further Action See S.640.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="526"/>
+    <bill relation="identical" session="100" type="s" number="526"/>
+    <bill relation="unknown" session="100" type="s" number="640"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Arizona"/>
+    <term name="Canals"/>
+    <term name="Irrigation"/>
+    <term name="Names"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/1987--Introduced.
+Designates the Salt-Gila aqueduct of the Central Arizona Project as the Fannin-McFarland Aqueduct.</summary>
+</bill>

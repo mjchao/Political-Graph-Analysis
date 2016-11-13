@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="1688" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-18"/>
+  </status>
+  <introduced datetime="1987-03-18"/>
+  <titles>
+    <title type="short" as="introduced">Panama Canal Interest Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Panama Canal Act of 1979 to increase the investment of the United States by the amount of interest deposited in the Panama Canal Commission Fund and to transfer that amount to the miscellaneous receipts of the Treasury.</title>
+  </titles>
+  <sponsor id="404068"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-18" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Executive Comment Requested from State, Commerce, Panama Canal Comm.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Panama Canal and Outer Continental Shelf.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM05" subcommittee="Panama Canal and Outer Continental Shelf" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Canals"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Interest"/>
+    <term name="Interoceanic canals"/>
+    <term name="Investment of public funds"/>
+    <term name="Navigation"/>
+    <term name="Panama Canal"/>
+    <term name="Panama Canal Commission"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1987--Introduced.
+Panama Canal Interest Act of 1987 - Amends the Panama Canal Act of 1979 to increase the U.S. investment in the Panama Canal by the amount of interest on such investment that is deposited in the Panama Canal Commission Fund as of December 31, 1985.</summary>
+</bill>

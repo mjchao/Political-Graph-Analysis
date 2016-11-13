@@ -1,0 +1,78 @@
+<bill session="100" type="h" number="1479" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-09"/>
+  </status>
+  <introduced datetime="1987-03-09"/>
+  <titles>
+    <title type="short" as="introduced">National Service Act</title>
+    <title type="official" as="introduced">A bill to establish a voluntary national service.</title>
+  </titles>
+  <sponsor id="407399"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-03-31"/>
+    <cosponsor id="402114" joined="1987-03-09"/>
+    <cosponsor id="404422" joined="1987-06-02"/>
+    <cosponsor id="400211" joined="1987-03-31"/>
+    <cosponsor id="407282" joined="1987-03-31"/>
+    <cosponsor id="400377" joined="1987-03-09"/>
+    <cosponsor id="410531" joined="1987-03-31"/>
+    <cosponsor id="300156" joined="1987-03-09"/>
+    <cosponsor id="400409" joined="1987-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-09" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-03-13">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-03-13">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Select Education.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Employment Opportunities.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-06">
+      <text>Executive Comment Requested from HHS.</text>
+    </action>
+    <action datetime="1987-08-12">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and Labor"/>
+    <committee activity="Referral, Hearings" code="HSED06" subcommittee="Employment Opportunities" name="House Education and Labor"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Armed forces and national security"/>
+    <term name="Education"/>
+    <term name="Employment and training programs"/>
+    <term name="Military personnel"/>
+    <term name="National service"/>
+    <term name="Public service employment"/>
+    <term name="Student aid"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1987--Introduced.
+National Service Act - Directs the President to establish a program of voluntary national service under which participants provide civilian or military service and become eligible for educational assistance upon completion of such service. Requires the President to designate an agency to be responsible for administering this Act. Requires participants in the national service program to be at least 17 and not more than 26 years of age. Authorizes the waiver of maximum age requirements to allow for individual circumstances. Entitles participants who complete the national service program to educational assistance benefits in the same manner as veterans. Authorizes the President to adjust the benefit rates as considered appropriate for the purposes of this Act. Declares the benefit rate of participants in the program through civilian service to be 60 percent of the rates otherwise applicable. Provides for the phasing out of existing educational assistance programs after the end of the two-year period beginning on the date of enactment of this Act. Requires participants who elect to perform civilian service to perform one year of service for which there is a national, regional, or local need, as determined by regulations prescribed by the President. Requires employment of participants, to the maximum extent practicable, to be through entities outside the Federal Government. Requires the Government to reimburse such entities for the costs of pay and benefits. Requires participants who elect to perform military service to enlist in the armed forces for a period of 24 months. Provides that such individuals: (1) shall receive basic pay at 50 percent of the rate otherwise applicable; (2) shall not be eligible for basic quarters and subsistence allowances; and (3) shall not have the length of their service count toward military retirement.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="100" type="sj" number="112" updated="2014-03-22T09:54:21-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States which requires (except during time of war and subject to suspension by the Congress) that the total amount of money expended by the United States during any fiscal year not exceed the amount of certain revenue received by the United States during such fiscal year and not exceed 20 per centum of the gross national product of the United States during the previous calendar year.</title>
+  </titles>
+  <sponsor id="300089"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal budgets"/>
+    <term name="Gross national product"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Constitutional Amendment - Prohibits the total amount of money expended by the United States in any fiscal year from exceeding the total amount of revenue received by the United States during such year, except revenue received from the issuance of bonds, notes, or other obligations. Prohibits the total amount of money expended by the United States in any fiscal year from exceeding the amount equal to 20 percent of the gross national product during the last calendar year ending before the beginning of such fiscal year. Permits the suspension of such prohibitions during any fiscal year during any part of which the United States is at war as declared by the Congress.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="100" type="hr" number="470" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-10"/>
+  </status>
+  <introduced datetime="1988-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution approving the continuing dialogue between the governments of Angola, Cuba, South Africa, and the United States, intended to promote agreement on the withdrawal of all foreign forces from Angola and the independence of Namibia.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-10" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA08" subcommittee="Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sr" number="440"/>
+    <bill relation="identical" session="100" type="sr" number="440"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Angola"/>
+    <term name="Democracy"/>
+    <term name="Human rights"/>
+    <term name="Law"/>
+    <term name="Military intervention"/>
+    <term name="Namibia"/>
+    <term name="Peace negotiations"/>
+    <term name="Sovereignty"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1988--Introduced.
+Expresses the sense of the House of Representatives that the President should: (1) continue to pursue multilateral initiatives aimed at removing all foreign troops and military advisors from Angola; and (2) assist the achievement of national reconciliation and independence in Namibia by urging all parties expected to take part in elections to meet and approve a Constitution which embodies a Bill of Rights and guarantees democratic principles in a multiparty system.</summary>
+</bill>

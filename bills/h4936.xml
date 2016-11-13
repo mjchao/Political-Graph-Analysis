@@ -1,0 +1,104 @@
+<bill session="100" type="h" number="4936" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-10-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-06-28"/>
+  <titles>
+    <title type="short" as="introduced">Wildfire Protection Assistance Act of 1988</title>
+    <title type="short" as="reported to house" partial="1">National Commission on Natural Resources Disasters Act of 1988</title>
+    <title type="short" as="reported to house" partial="1">Wildfire Protection Assistance Act of 1988</title>
+    <title type="short" as="passed house">Wildfire Suppression Assistance Act</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Agriculture and other agency heads to enter into agreements with foreign fire organizations for assistance in wildfire protection.</title>
+  </titles>
+  <sponsor id="411166"/>
+  <cosponsors>
+    <cosponsor id="400100" joined="1988-06-28"/>
+    <cosponsor id="400176" joined="1988-06-28"/>
+    <cosponsor id="406157" joined="1988-06-28"/>
+    <cosponsor id="406729" joined="1988-06-28"/>
+    <cosponsor id="407967" joined="1988-06-28"/>
+    <cosponsor id="409651" joined="1988-06-28"/>
+    <cosponsor id="410084" joined="1988-06-28"/>
+    <cosponsor id="400612" joined="1988-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-28" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-12" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-29">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Reported to House (Amended) by House Committee on Agriculture. Report No: 100-1079 (Part I).</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3630"/>
+    <bill relation="unknown" session="100" type="h" number="4647"/>
+    <bill relation="identical" session="100" type="s" number="2641"/>
+    <bill relation="identical" session="100" type="s" number="2641"/>
+  </relatedbills>
+  <subjects>
+    <term name="Fires"/>
+    <term name="Canada"/>
+    <term name="Community development"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Fire departments"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Forest fires"/>
+    <term name="Forest management"/>
+    <term name="Forests and forest products"/>
+    <term name="International cooperation"/>
+    <term name="National forests"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1988--Passed House amended.
+(Measure passed House, amended) Wildfire Suppression Assistance Act - Amends the Temporary Emergency Wildfire Suppression Act to make permanent the authority of the Secretary of Agriculture or the Secretary of the Interior to enter into reciprocal agreements with foreign fire organizations for wildfire protection and, in the absence of such an agreement, to accept emergency wildfire protection from a foreign fire organization or provide it to a foreign nation when to do so is in our best interest. Continues, on a permanent basis, the reimbursement of Canada or Canadian fire organizations for U.S. wildfire protection furnished pursuant to specified agreements.</summary>
+</bill>

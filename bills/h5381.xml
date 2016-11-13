@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="5381" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-26"/>
+  </status>
+  <introduced datetime="1988-09-26"/>
+  <titles>
+    <title type="short" as="introduced">Federal Prison Industries Fair Competition Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to establish fair competition between the private sector and Federal Prison Industries.</title>
+  </titles>
+  <sponsor id="400076"/>
+  <cosponsors>
+    <cosponsor id="408109" joined="1988-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-26" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Corrections"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="Government procurement"/>
+    <term name="Prison labor"/>
+    <term name="Prisoners"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/1988--Introduced.
+Federal Prison Industries Fair Competition Act of 1988 - Amends the Federal criminal code to authorize (current law requires) Federal departments and agencies and Government institutions to purchase prison-made products. Declares that no such purchase shall involve a product which does not meet the same quality standards applied by the General Services Administrator to a comparable product purchased from a private sector source.</summary>
+</bill>

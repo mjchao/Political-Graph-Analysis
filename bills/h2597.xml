@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="2597" updated="2014-03-22T09:52:25-04:00">
+  <state datetime="1987-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-03"/>
+  </status>
+  <introduced datetime="1987-06-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Mrs. Anne Gabriel Janney.</title>
+  </titles>
+  <sponsor id="400524"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-03" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/1987--Introduced.
+Deems a named individual to be a former spouse within the meaning of a certain provision of the Central Intelligence Agency Retirement Act of 1964.</summary>
+</bill>

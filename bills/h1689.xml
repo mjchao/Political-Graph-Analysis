@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="1689" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-18"/>
+  </status>
+  <introduced datetime="1987-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 9 of the United States Code regarding arbitral awards.</title>
+  </titles>
+  <sponsor id="404097"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-11-16">
+      <text>See S.2204.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2204"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil procedure"/>
+    <term name="Claims"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Government liability"/>
+    <term name="Government liability (International law)"/>
+    <term name="Immunities of foreign states"/>
+    <term name="International affairs"/>
+    <term name="International arbitration"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1987--Introduced.
+Requires an agreement to arbitrate to be deemed to constitute consent to proceedings to recognize, confirm, or enforce any arbitral award made pursuant to such agreement. Declares that neither the Federal act of State doctrine nor the doctrine of sovereign immunity shall constitute grounds for refusal or deferral of recognition, confirmation, or enforcement of any such arbitral award against a foreign state or an agency of a foreign state.</summary>
+</bill>

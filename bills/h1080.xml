@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="1080" updated="2014-03-22T09:51:41-04:00">
+  <state datetime="1987-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-10"/>
+  </status>
+  <introduced datetime="1987-02-10"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Agricultural Assistance Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide emergency assistance to certain agricultural producers.</title>
+  </titles>
+  <sponsor id="411166"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-10" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral, Hearings, Markup" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Droughts"/>
+    <term name="Floods"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/1987--Introduced.
+Emergency Agricultural Assistance Act of 1987 - Amends Federal law to provide emergency agricultural assistance to producers who suffered crop quality reductions caused by drought, floods, hail or excessive moisture in 1986. (Current law only applies to quantity reductions.) Permits application or reapplication for such assistance under this Act prior to March 10, 1987. Requires the Secretary of Agriculture to make emergency agricultural assistance available within 45 days of application, or by March 15, 1987, whichever is later. (Current law requires assistance to be made within 45 days of application.)</summary>
+</bill>

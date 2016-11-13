@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="2601" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-29"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">a bill to amend section 371 of title 28, United States Code, to allow a Federal judge who is at least 60 years of age and has completed 20 years of service to retire from regular active service.</title>
+  </titles>
+  <sponsor id="405310"/>
+  <cosponsors>
+    <cosponsor id="403346" joined="1988-06-29"/>
+    <cosponsor id="404277" joined="1988-09-26"/>
+    <cosponsor id="300046" joined="1988-09-29"/>
+    <cosponsor id="300059" joined="1988-06-29"/>
+    <cosponsor id="408252" joined="1988-09-28"/>
+    <cosponsor id="300092" joined="1988-06-29"/>
+    <cosponsor id="411762" joined="1988-09-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil service retirement"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Federal employees and officials"/>
+    <term name="Judges"/>
+    <term name="Judicial compensation"/>
+    <term name="Judicial tenure"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Introduced.
+Amends the Federal judicial code to allow Federal judges to retire from regular active service at an earlier age (as early as 60 years of age if they have 20 years of service).</summary>
+</bill>

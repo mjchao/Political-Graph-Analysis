@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="2211" updated="2014-03-22T09:55:38-04:00">
+  <state datetime="1988-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-24"/>
+  </status>
+  <introduced datetime="1988-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Deficit Disclosure Act</title>
+    <title type="official" as="introduced">A bill to amend the Congressional Budget and Impoundment Control Act of 1974 to revise the method of calculation of the federal deficit by removing the surpluses attributable to the Social Security Trust Funds from revenues by fiscal year 1991.</title>
+  </titles>
+  <sponsor id="409562"/>
+  <cosponsors>
+    <cosponsor id="405305" joined="1988-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Budget pursuant to the order of of August 4, 1977.</text>
+    </action>
+    <action datetime="1988-03-24">
+      <text>Read twice and referred to the Committee on Governmental Affairs pursuant to the order of of August 4, 1977.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, In Committee"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Budget deficits"/>
+    <term name="Federal budgets"/>
+    <term name="Government spending reductions"/>
+    <term name="Government trust funds"/>
+    <term name="Off-budget expenditures"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security finance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/1988--Introduced.
+Deficit Disclosure Act - Amends the Congressional Budget and Impoundment Control Act of 1974, beginning with FY 1990, to exclude receipts and outlays for the Federal Old-Age and Survivors Insurance Trust Fund and the Federal Disability Insurance Trust Fund in the Federal deficit determinations for purposes of the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act). Modifies the maximum deficit amounts for FY 1985 through 1992 to reflect such treatments of fund surpluses.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="100" type="hj" number="147" updated="2014-03-22T09:53:44-04:00">
+  <state datetime="1987-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-11"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution authorizing establishment of a memorial in the District of Columbia.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-11" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Libraries and Memorials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA09" subcommittee="Libraries and Memorials" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="District of Columbia"/>
+    <term name="Merchant marine"/>
+    <term name="Merchant seamen"/>
+    <term name="Ships and shipping"/>
+    <term name="War casualties"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1987--Introduced.
+Authorizes the establishment of a memorial on Federal land in the District of Columbia honoring American seamen who died while serving on U.S.-flag merchant vessels in conflict zones during hostilities in which the United States was actively engaged. Prohibits the use of Federal funds for expenses unrelated to the maintenance of the memorial. Terminates the authority conferred by this Act if construction of the memorial does not begin within five years of this Act's enactment with funds sufficient to ensure its completion.</summary>
+</bill>

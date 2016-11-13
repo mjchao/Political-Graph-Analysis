@@ -1,0 +1,94 @@
+<bill session="100" type="h" number="4419" updated="2014-03-22T09:53:14-04:00">
+  <state datetime="1988-10-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1988-04-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for activities under the Federal Fire Prevention and Control Act of 1974.</title>
+  </titles>
+  <sponsor id="411224"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-20" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-21" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-04-27">
+      <text>Reported to House by House Committee on Science, Space, and Technology.  Report No: 100-589.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Placed on Union Calendar No: 352.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-24" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-05-25">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Subcommittee on Consumer. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-06-28">
+      <text>Committee on Commerce. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-07-27">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment. With written report No. 100-435.</text>
+    </action>
+    <calendar datetime="1988-07-27" calendar="Senate Legislative" under="General Orders" number="846">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 846.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-08-10" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-26">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-30">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-06" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-476" type="public" datetime="1988-10-06">
+      <text>Became Public Law No: 100-476.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSCM03" subcommittee="Consumer" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Fires"/>
+    <term name="Authorization"/>
+    <term name="Deaf"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency management"/>
+    <term name="Fire prevention"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Hearing disorders"/>
+    <term name="Public safety"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/1988--Passed Senate amended.
+(Measure passed Senate, amended) Amends the Federal Fire Prevention and Control Act of 1974 to authorize appropriations for FY 1989 through 1991. Sets a limit on the authorization of such appropriations for National Emergency Training Center site administration. Requires the Administrator of the United States Fire Administration to study and report to the Congress by January 1, 1989, concerning the quality, availability, and degree of use of fire prevention systems for the hearing impaired.</summary>
+</bill>

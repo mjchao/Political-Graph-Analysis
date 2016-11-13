@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="2034" updated="2014-03-22T09:52:09-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 507 of the Tariff Act of 1930 to provide an allowance for detectable moisture and impurities in determining tare on imports of crude oil and petroleum products.</title>
+  </titles>
+  <sponsor id="400567"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-15">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Provisions of Measure Incorporated Into H.R.4848.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4848"/>
+    <bill relation="identical" session="100" type="s" number="955"/>
+    <bill relation="identical" session="100" type="s" number="955"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Energy policy"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Tariff Act of 1930 to make allowance for detectable moisture and impurities within imported crude oil or petroleum products when ascertaining tare on such imports. Applies this Act to articles entered or withdrawn from warehouse for consumption after October 1, 1987.</summary>
+</bill>

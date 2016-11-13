@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2651" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Tanker Anti-Reflagging Act</title>
+    <title type="official" as="introduced">A bill prohibiting the documentation under the laws of the United States of any vessel beneficially owned by a sovereign nation adjacent to the Persian Gulf.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Executive Comment Requested from DOD, DOT, State.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Flags of convenience"/>
+    <term name="International affairs"/>
+    <term name="Licenses"/>
+    <term name="Military agreements"/>
+    <term name="Persian Gulf States"/>
+    <term name="Shipping agreements"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Tankers"/>
+    <term name="Treaties"/>
+    <term name="Vessel documentation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Tanker Anti-Reflagging Act - Prohibits the Secretary of the department in which the Coast Guard is operating from issuing a certificate of documentation for a vessel which is beneficially owned by a sovereign nation adjacent to the Persian Gulf.</summary>
+</bill>

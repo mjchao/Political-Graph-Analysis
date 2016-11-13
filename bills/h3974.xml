@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="3974" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-02-18">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-18"/>
+  </status>
+  <introduced datetime="1988-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to prohibit the manufacture, importation, sale, possession, transfer, receipt, shipment, or delivery of not readily detectable firearms.</title>
+  </titles>
+  <sponsor id="408023"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="1988-03-02"/>
+    <cosponsor id="404019" joined="1988-02-18"/>
+    <cosponsor id="404765" joined="1988-02-18"/>
+    <cosponsor id="407721" joined="1988-02-18"/>
+    <cosponsor id="400533" joined="1988-02-18"/>
+    <cosponsor id="409644" joined="1988-02-18"/>
+    <cosponsor id="300087" joined="1988-03-02"/>
+    <cosponsor id="410066" joined="1988-02-18"/>
+    <cosponsor id="411426" joined="1988-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-23">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>See H.R.2845.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2845"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Airports"/>
+    <term name="Aviation"/>
+    <term name="Firearms"/>
+    <term name="Firearms control"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Security measures"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/1988--Introduced.
+Amends the Federal criminal code to make it unlawful for any person to manufacture, import, sell, possess, transfer, receive, ship, or deliver firearms which are not detectable by airport security metal detectors and airport security x-ray systems. Prohibits the Secretary of the Treasury from authorizing the importation of such weapons. Directs the Administrator of the Federal Aviation Administration to study ways to improve the effectiveness of airport security metal detectors and airport security x-ray systems with respect to the detection of such weapons. Bars prosecution for offenses involving the sale, possession, transfer, shipment, receipt, or delivery of a firearm in violation of this Act if that firearm was manufactured before the date of enactment of this Act.</summary>
+</bill>

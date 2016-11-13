@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3087" updated="2014-03-22T09:52:44-04:00">
+  <state datetime="1987-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-04"/>
+  </status>
+  <introduced datetime="1987-08-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Agriculture to provide facilities and equipment for additional storage space and laboratories at the National Seed Storage Laboratory at Fort Collins, Colorado.</title>
+  </titles>
+  <sponsor id="401874"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-04" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural research"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Authorization"/>
+    <term name="Colorado"/>
+    <term name="Department of Agriculture"/>
+    <term name="Economics and public finance"/>
+    <term name="Laboratories"/>
+    <term name="Research and development"/>
+    <term name="Research centers"/>
+  </subjects>
+  <amendments/>
+  <summary>8/4/1987--Introduced.
+Authorizes appropriations, not subject to fiscal year limitation, for the following improvements to be made by the Secretary of Agriculture, through the Agricultural Research Service, at the National Seed Storage Laboratory at Fort Collins, Colorado: (1) planning, construction, acquisition, alteration, and repair of buildings and equipment to provide additional storage space; and (2) renovation of existing facilities to provide laboratories.</summary>
+</bill>

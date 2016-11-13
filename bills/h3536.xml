@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3536" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-22"/>
+  </status>
+  <introduced datetime="1987-10-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 39, United States Code, to authorize the United States Postal Service to approve advertisements to which U.S. postage stamps are affixed.</title>
+  </titles>
+  <sponsor id="406740"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-22" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-10-25">
+      <text>Executive Comment Requested from OMB, US Postal Service.</text>
+    </action>
+    <action datetime="1987-10-25">
+      <text>Referred to Subcommittee on Postal Operations and Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO06" subcommittee="Postal Operations and Services" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Advertising"/>
+    <term name="Advertising and Marketing"/>
+    <term name="Business and commerce"/>
+    <term name="Postage stamps"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Sales promotion"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/1987--Introduced.
+Authorizes the United States Postal Service to approve the attachment of postage stamps to advertisements which promote the products or services of private business. Describes such advertisements as those to which a postage stamp is permanently attached and whose dimensions are such that the advertisement can be affixed to an envelope or other wrapper and transmitted through the mails in the same manner as mailable items to which only stamps are affixed.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="5379" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-26"/>
+  </status>
+  <introduced datetime="1988-09-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of Transportation to submit to Congress reports on whether or not improved brake systems and speed control devices enhance safe operation of commercial motor vehicles.</title>
+  </titles>
+  <sponsor id="400844"/>
+  <cosponsors>
+    <cosponsor id="405006" joined="1988-09-26"/>
+    <cosponsor id="400374" joined="1988-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-26" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>See H.R.5210.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5210"/>
+  </relatedbills>
+  <subjects>
+    <term name="Motor vehicles"/>
+    <term name="Common carriers"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle safety"/>
+    <term name="Public safety"/>
+    <term name="Traffic accidents and safety"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/1988--Introduced.
+Directs the Secretary of Transportation to report to the Congress by a specified deadline: (1) whether commercial motor vehicles operating on any Federal-aid highway system should be equipped with improved brakes and brake systems; (2) the results of a study to determine whether speed control devices enhance the safe operation of such vehicles; and (3) the Secretary's recommendations regarding the mandatory use of speed control devices for such vehicles.</summary>
+</bill>

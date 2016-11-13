@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="4596" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the Mississippi River National Park in the State of Mississippi.</title>
+  </titles>
+  <sponsor id="300069"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-12" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>For Further Action See H.R.4457.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4457"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Advisory bodies"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Mississippi"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Rivers"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1988--Introduced.
+Establishes the Mississippi River National Park in Mississippi. Provides for the administration of the Park. Establishes the Mississippi River National Park Advisory Commission. Authorizes appropriations.</summary>
+</bill>

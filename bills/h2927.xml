@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="2927" updated="2014-03-22T09:52:34-04:00">
+  <state datetime="1987-12-18">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-07-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal courthouse being constructed at 129 Market Street, Youngstown, Ohio, as the "Thomas D. Lambros Federal Courthouse".</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-13" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-12-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-12-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-12-15">
+      <text>Reported to House (Amended) by House Committee on Public Works and Transportation.  Report No: 100-479.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Placed on House Calendar No: 113.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-18" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-19">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Courthouses"/>
+    <term name="Federal office buildings"/>
+    <term name="Names"/>
+    <term name="Ohio"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Passed House amended.
+(Measure passed House, amended) Designates the Federal courthouse being constructed at the intersection of Front and Market Streets, Youngstown, Ohio, as the Thomas D. Lambros United States Courthouse.</summary>
+</bill>

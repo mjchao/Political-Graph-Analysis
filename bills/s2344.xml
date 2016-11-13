@@ -1,0 +1,119 @@
+<bill session="100" type="s" number="2344" updated="2014-03-22T09:55:47-04:00">
+  <state datetime="1988-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-03"/>
+  </status>
+  <introduced datetime="1988-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Office of Government Ethics Reauthorization Act of 1988</title>
+    <title type="short" as="reported to senate">Office of Government Ethics Reauthorization Act of 1988</title>
+    <title type="short" as="passed senate">Office of Government Ethics Reauthorization Act of 1988</title>
+    <title type="official" as="introduced">A bill to provide for the reauthorization of appropriations for the Office of Government Ethics, and for other purposes.</title>
+  </titles>
+  <sponsor id="300066"/>
+  <cosponsors>
+    <cosponsor id="402727" joined="1988-04-28"/>
+    <cosponsor id="405321" joined="1988-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1988-05-19" state="REPORTED">
+      <text>Committee on Governmental Affairs. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-06-21">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with amendments. With written report No. 100-392. Additional views filed.</text>
+    </action>
+    <calendar datetime="1988-06-21" calendar="Senate Legislative" under="General Orders" number="750">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 750.</text>
+    </calendar>
+    <action datetime="1988-06-28">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-07-13">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-07-15">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-07-15">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-04" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>House Incorporated H.R.4712 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-20" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendment with an amendment and agreed to the title amendment by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-20" where="h" result="pass" state="PASSED:BILL">
+      <text>House Agreed to Senate Amendments to House Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-598" type="public" datetime="1988-11-03">
+      <text>Became Public Law No: 100-598.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral"/>
+    <committee activity="Referral" code="HSPO04" subcommittee="Human Resources" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4712"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Authorization"/>
+    <term name="Conflict of interests"/>
+    <term name="Crime prevention"/>
+    <term name="Economics and public finance"/>
+    <term name="Ethics"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Financial disclosure"/>
+    <term name="Misconduct in office"/>
+    <term name="Office of Personnel Management"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2488"/>
+    <amendment number="s2489"/>
+    <amendment number="s3746"/>
+  </amendments>
+  <summary>10/20/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendments with an amendment) Amends the Ethics in Government Act of 1978 to authorize appropriations for the Office of Government Ethics for FY 1989 and the five fiscal years thereafter. Establishes the Office of Government Ethics as an independent agency within the executive branch. (The Office is currently under the jurisdiction of the Office of Personnel Management.) Requires the Director of the Office to report to the Congress on its activities no later than March 31 of each year in which the second session of a Congress begins. Requires the Director to ensure that each executive agency has established procedures on how the agency is to collect, review, evaluate, and make public financial disclosure statements filed by its officers or employees. Requires the Director to prescribe regulations under which each executive agency shall be required to report to the Office on a description and evaluation of the agency's ethics program. Requires each agency to notify the Director regarding ethics matters that refer to officials outside the agency. Authorizes the Director to order specific corrective action for agencies based on failure to establish an ethics program or to modify such program. Authorizes the Director to recommend corrective action for any officer or employee found to have violated any law, rule, regulation, or Executive Order relating to conflicts of interest, standards of conduct, or financial disclosure. Increases the pay of the Director.</summary>
+</bill>

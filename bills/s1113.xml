@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="1113" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-06-17">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-17"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building located at 10 Causeway Street in Boston, Massachusetts, as the "Thomas P. O'Neill Jr. Federal Building".</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="300060" joined="1987-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="1987-06-17" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal office buildings"/>
+    <term name="Massachusetts"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Designates the Federal building located on Causeway Street, Boston, Massachusetts, as the Thomas P. O'Neill, Jr., Federal Building.</summary>
+</bill>

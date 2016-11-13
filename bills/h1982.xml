@@ -1,0 +1,80 @@
+<bill session="100" type="h" number="1982" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1988-07-26">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-07-26"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the establishment of the Lewis and Clark National Historic Site in the State of Montana.</title>
+  </titles>
+  <sponsor id="407162"/>
+  <cosponsors>
+    <cosponsor id="411677" joined="1987-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Unfavorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-26">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-788.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Placed on Union Calendar No: 479.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-02">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-10-28">
+      <text>For Further Action See S.1704.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1704"/>
+    <bill relation="identical" session="100" type="s" number="1704"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Historic sites"/>
+    <term name="Montana"/>
+    <term name="Trails"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/1988--Passed House amended.
+(Measure passed House, amended) Authorizes the Secretary of Agriculture to establish the Lewis and Clark National Historic Trail Interpretive Center. Specifies lands to be donated by the State of Montana for the establishment of such center. Provides that such lands shall revert to the State of Montana if the Secretary uses such lands for any purpose other than those authorized under this Act. Requires the Secretary to administer the Center in a manner that will best provide for the interpretation of the accomplishments of the Lewis and Clark Expedition along the Lewis and Clark National Historic Trail in Montana. Directs the Secretary, within two years after the establishment of the Center, to submit to specified House and Senate committees a plan for development and interpretation of the Center. Authorizes the Secretary to enter into: (1) cooperative agreements with the State of Montana for rescue, firefighting, and law enforcement services with respect to the Center; and (2) cooperative agreements with Federal, State, or local public agencies for the development and operation of facilities and services in furtherance of this Act. Encourages the Secretary, with Montana, to develop a cooperative management plan for the entire Giant Springs Park. Authorizes and directs the Secretary to enter into an agreement with the Portage Route chapter of the Lewis and Clark Heritage Foundation or a similarly affiliated organization to provide educational materials to the public that highlight the travels of Lewis and Clark or other historical features of the area. Authorizes appropriations, including specified sums for the construction of the Center. Requires the Secretary of the Interior to act through the Bureau of Land Management (the National Park Service under current law) to construct and operate a visitor facility in or near Fort Benton under the Missouri River area management plan.</summary>
+</bill>

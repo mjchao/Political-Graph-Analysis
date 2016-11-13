@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="5198" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-10"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="short" as="introduced">Ethics in Patient Referrals Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide civil money penalties and other remedies for certain improper referral arrangements for services provided under the medicare program.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors>
+    <cosponsor id="403529" joined="1988-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-10" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-08-24">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Conflict of interests"/>
+    <term name="Health"/>
+    <term name="Medical personnel"/>
+    <term name="Medicare"/>
+    <term name="Physicians"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/1988--Introduced.
+Ethics in Patient Referrals Act of 1988 - Amends title XVIII (Medicare) of the Social Security Act to prohibit an entity from furnishing a Medicare-covered service to an individual if the individual's referring physician has a financial interest in, or receives compensation from, such entity. Sets forth exceptions to such prohibition. Imposes sanctions against persons who present claims for the delivery of services prohibited by this Act.</summary>
+</bill>

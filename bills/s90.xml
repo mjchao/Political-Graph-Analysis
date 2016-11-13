@@ -1,0 +1,135 @@
+<bill session="100" type="s" number="90" updated="2014-03-22T09:54:46-04:00">
+  <state datetime="1988-04-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-04-29"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Big Cypress National Preserve Addition Act</title>
+    <title type="short" as="passed house">Big Cypress National Preserve Addition Act</title>
+    <title type="short" as="reported to senate">Big Cypress National Preserve Addition Act</title>
+    <title type="short" as="passed senate">Big Cypress National Preserve Addition Act</title>
+    <title type="short" as="enacted">Big Cypress National Preserve Addition Act</title>
+    <title type="official" as="introduced">A bill to establish the Big Cypress National Preserve Addition in the State of Florida, and for other purposes.</title>
+  </titles>
+  <sponsor id="402495"/>
+  <cosponsors>
+    <cosponsor id="300046" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed:  S.Hrg. 100-8.</text>
+    </action>
+    <calendar datetime="1987-04-08" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-04-21">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment. With written report No. 100-45.</text>
+    </action>
+    <calendar datetime="1987-04-21" calendar="Senate Legislative" under="General Orders" number="99">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 99.</text>
+    </calendar>
+    <action datetime="1987-12-12">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-02-01">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-02-19">
+      <text>Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1988-02-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-02-24">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-03-01">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-03-01" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-03">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-03-31" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendments with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-12">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-12">
+      <text>House Agreed to Senate Amendments to House Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1988-04-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-04-19">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-04-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-04-29" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-301" type="public" datetime="1988-04-29">
+      <text>Became Public Law No: 100-301.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="184"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Executive reorganization"/>
+    <term name="Florida"/>
+    <term name="National parks"/>
+    <term name="Oil and gas leases"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Prospecting"/>
+    <term name="Right-of-way"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1357"/>
+    <amendment number="s1925"/>
+  </amendments>
+  <summary>3/31/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendments with an amendment) Big Cypress National Preserve Addition Act - Establishes the Big Cypress National Preserve Addition out of specified lands in Florida. Requires the Secretary of the Interior to review the Addition for suitability for designation as a wilderness area. Sets forth land acquisition procedures. Requires intergovernmental cooperation in establishing access points and roads for traditional recreational opportunities, hunting and fishing, and other purposes. Requires the Secretary to report to the Congress within two years on the existing Preserve and the Addition concerning the status of land acquisition and management, including the adequacy and use of access points. Authorizes appropriations for the acquisition of land and for development within the Addition. Directs the Secretary to promulgate regulations concerning the exploration and production of non-Federal interests in oil and gas reserves within the Preserve and Addition, including necessary access rights. Authorizes the establishment of a Minerals Management Office within the Office of the Superintendent of the Preserve to consider and take final action on applications for the exploration and production of such oil and gas rights within the Preserve and the Addition. Authorizes appropriations to carry out the provisions of this Act relating to oil and gas exploration and production.</summary>
+</bill>

@@ -1,0 +1,99 @@
+<bill session="100" type="hj" number="277" updated="2014-03-22T09:53:47-04:00">
+  <state datetime="1987-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-13"/>
+  </status>
+  <introduced datetime="1987-05-13"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to prohibit the proposed sale of F-5E/F aircraft to Honduras.</title>
+  </titles>
+  <sponsor id="400585"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="1987-06-02"/>
+    <cosponsor id="400987" joined="1987-06-02"/>
+    <cosponsor id="401231" joined="1987-06-02"/>
+    <cosponsor id="401310" joined="1987-06-03"/>
+    <cosponsor id="400025" joined="1987-06-02"/>
+    <cosponsor id="400527" joined="1987-06-03"/>
+    <cosponsor id="300011" joined="1987-06-03"/>
+    <cosponsor id="401755" joined="1987-06-10"/>
+    <cosponsor id="401947" joined="1987-06-02"/>
+    <cosponsor id="400064" joined="1987-06-03"/>
+    <cosponsor id="400080" joined="1987-06-03"/>
+    <cosponsor id="400081" joined="1987-06-03"/>
+    <cosponsor id="403031" joined="1987-06-03"/>
+    <cosponsor id="400100" joined="1987-06-02"/>
+    <cosponsor id="403364" joined="1987-06-02"/>
+    <cosponsor id="300037" joined="1987-06-03"/>
+    <cosponsor id="403581" joined="1987-06-10"/>
+    <cosponsor id="403695" joined="1987-06-03"/>
+    <cosponsor id="403776" joined="1987-06-02"/>
+    <cosponsor id="404006" joined="1987-06-03"/>
+    <cosponsor id="404019" joined="1987-06-03"/>
+    <cosponsor id="404170" joined="1987-06-03"/>
+    <cosponsor id="404190" joined="1987-06-03"/>
+    <cosponsor id="404220" joined="1987-06-10"/>
+    <cosponsor id="400140" joined="1987-06-02"/>
+    <cosponsor id="404422" joined="1987-06-03"/>
+    <cosponsor id="400538" joined="1987-06-03"/>
+    <cosponsor id="405256" joined="1987-06-03"/>
+    <cosponsor id="300057" joined="1987-06-03"/>
+    <cosponsor id="406191" joined="1987-06-02"/>
+    <cosponsor id="400223" joined="1987-06-03"/>
+    <cosponsor id="406461" joined="1987-06-03"/>
+    <cosponsor id="406765" joined="1987-06-02"/>
+    <cosponsor id="406974" joined="1987-06-10"/>
+    <cosponsor id="400253" joined="1987-06-03"/>
+    <cosponsor id="400595" joined="1987-06-10"/>
+    <cosponsor id="400278" joined="1987-06-02"/>
+    <cosponsor id="407853" joined="1987-06-02"/>
+    <cosponsor id="407960" joined="1987-06-02"/>
+    <cosponsor id="408109" joined="1987-06-10"/>
+    <cosponsor id="400299" joined="1987-06-03"/>
+    <cosponsor id="400306" joined="1987-06-03"/>
+    <cosponsor id="409344" joined="1987-06-03"/>
+    <cosponsor id="300087" joined="1987-06-10"/>
+    <cosponsor id="409901" joined="1987-06-10"/>
+    <cosponsor id="409966" joined="1987-06-03"/>
+    <cosponsor id="410889" joined="1987-06-10"/>
+    <cosponsor id="410926" joined="1987-06-02"/>
+    <cosponsor id="411025" joined="1987-06-10"/>
+    <cosponsor id="400612" joined="1987-06-03"/>
+    <cosponsor id="411426" joined="1987-06-03"/>
+    <cosponsor id="411677" joined="1987-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-13" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-14">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-05-14">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Tabled by Subcommittee.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral, Markup" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms sales"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Honduras"/>
+    <term name="Military aircraft"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/1987--Introduced.
+Prohibits the proposed sale to Honduras of F-5 E/F aircraft and related defense articles and defense services.</summary>
+</bill>

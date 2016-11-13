@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="1562" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-29"/>
+  </status>
+  <introduced datetime="1987-07-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to implement the provisions of Annex V to the International Convention for the Prevention of Pollution from Ships.</title>
+  </titles>
+  <sponsor id="300094"/>
+  <cosponsors>
+    <cosponsor id="300012" joined="1987-09-15"/>
+    <cosponsor id="300060" joined="1987-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3261"/>
+    <bill relation="identical" session="100" type="h" number="3261"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="International environmental cooperation"/>
+    <term name="Marine transportation"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Treaties"/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Introduced.
+Implements the provisions of Annex V to the International Convention for the Prevention of Pollution from Ships, relating to the prevention of pollution by garbage from ships. Directs the Secretary of Transportation to prescribe regulations accordingly.</summary>
+</bill>

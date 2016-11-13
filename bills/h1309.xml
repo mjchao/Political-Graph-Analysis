@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="1309" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Trade Commission Act to provide an immunity for Federal credit unions subject to the Federal Credit Union Act.</title>
+  </titles>
+  <sponsor id="409237"/>
+  <cosponsors>
+    <cosponsor id="401155" joined="1987-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Credit unions"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal Trade Commission"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="National Credit Union Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Removes Federal credit unions from the regulatory authority of the Federal Trade Commission. Provides for the exercise of such authority by the National Credit Union Administration Board.</summary>
+</bill>

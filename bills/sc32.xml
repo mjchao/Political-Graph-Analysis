@@ -1,0 +1,56 @@
+<bill session="100" type="sc" number="32" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the sense of Congress that volunteer work should be taken into account by employers in the consideration of applicants for employment and that provision should be made for a listing and description of volunteer work on employment application forms.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="402495" joined="1987-07-24"/>
+    <cosponsor id="300023" joined="1987-07-24"/>
+    <cosponsor id="403346" joined="1987-03-17"/>
+    <cosponsor id="300034" joined="1987-07-17"/>
+    <cosponsor id="403515" joined="1988-02-16"/>
+    <cosponsor id="403669" joined="1987-04-28"/>
+    <cosponsor id="403920" joined="1987-06-23"/>
+    <cosponsor id="403962" joined="1987-06-23"/>
+    <cosponsor id="300052" joined="1987-09-17"/>
+    <cosponsor id="405795" joined="1987-08-07"/>
+    <cosponsor id="406188" joined="1987-09-16"/>
+    <cosponsor id="300059" joined="1987-07-24"/>
+    <cosponsor id="300065" joined="1987-07-31"/>
+    <cosponsor id="300066" joined="1988-07-27"/>
+    <cosponsor id="407268" joined="1988-02-16"/>
+    <cosponsor id="409225" joined="1987-07-17"/>
+    <cosponsor id="409562" joined="1987-09-10"/>
+    <cosponsor id="409917" joined="1987-11-17"/>
+    <cosponsor id="410242" joined="1987-06-23"/>
+    <cosponsor id="300094" joined="1988-08-09"/>
+    <cosponsor id="410588" joined="1987-10-06"/>
+    <cosponsor id="411762" joined="1987-06-04"/>
+    <cosponsor id="411801" joined="1988-02-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-03-23">
+      <text>Referred to Subcommittee on Employment and Productivity.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR04" subcommittee="Employment and Productivity" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Expresses the sense of the Congress that volunteer work should be listed on employment application forms and taken into account by employers when hiring.</summary>
+</bill>

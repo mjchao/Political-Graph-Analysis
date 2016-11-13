@@ -1,0 +1,107 @@
+<bill session="100" type="h" number="5115" updated="2014-03-22T09:53:33-04:00">
+  <state datetime="1988-11-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-15"/>
+  </status>
+  <introduced datetime="1988-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Legal Immigration Amendments of 1988</title>
+    <title type="short" as="reported to house">Immigration Amendments of 1988</title>
+    <title type="short" as="passed house">Immigration Amendments of 1988</title>
+    <title type="short" as="enacted">Immigration Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to revise the numerical limitation and preference system for admission of independent immigrants, and for other purposes.</title>
+  </titles>
+  <sponsor id="409344"/>
+  <cosponsors>
+    <cosponsor id="405775" joined="1988-10-03"/>
+    <cosponsor id="407306" joined="1988-07-28"/>
+    <cosponsor id="400524" joined="1988-10-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-09-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-03">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-1038.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Placed on Union Calendar No: 610.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-05" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-02">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-15" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-658" type="public" datetime="1988-11-15">
+      <text>Became Public Law No: 100-658.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5427"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative procedure"/>
+    <term name="Advisory bodies"/>
+    <term name="Alien labor"/>
+    <term name="Aliens"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Nurses"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Passed House amended.
+(Measure passed House, amended) Immigration Amendments of 1988 - Amends the Immigration Reform and Control Act of 1986 to extend and provide for 15,000 additional visas in each of FY 1989 and 1990 for nationals of countries adversely affected by Public Law 89-236 (1965 immigration amendments). Directs the Secretary of State to use the existing list of qualified immigrants established under such Act. Provides an additional 10,000 visas in each of FY 1990 and 1991 to immigrants from underrepresented countries. Defines "underrepresented country" as one whose natives have received less than 25 percent of the maximum immigrant visas available to it in FY 1988 (excluding admissions under the Public Law 89-236 program). Waives labor certification requirements for such immigrants. Directs the Attorney General to extend through December 31, 1989, the H-1 visa status of certain registered nurses who have held such status for at least five years and whose status expires in 1988 or 1989, or expired in 1987 but is under request for administrative extension.</summary>
+</bill>

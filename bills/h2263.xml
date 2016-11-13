@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="2263" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-04"/>
+  </status>
+  <introduced datetime="1987-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Army to transfer to the State of Illinois title to certain Federal lands in South Shores State Park, Illinois.</title>
+  </titles>
+  <sponsor id="404750"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-04" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Executive Comment Requested from Army, OMB.</text>
+    </action>
+    <action datetime="1988-02-09">
+      <text>Unfavorable Executive Comment Received From GSA.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Unfavorable Executive Comment Received From Army.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Flood control"/>
+    <term name="Illinois"/>
+    <term name="Lakes"/>
+    <term name="Land transfers"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="State parks"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/1987--Introduced.
+Directs the Secretary of the Army, acting through the Chief of Engineers, to transfer specified lands in South Shores State Park, Lake Carlyle, Illinois, to Illinois for the development of recreational opportunities. Requires that such development not interfere with the Lake Carlyle flood control project.</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="5230" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to restrict the payment of any funds appropriated for compensation to Iran for the downing of Iran Air Flight 655 on July 3, 1988.</title>
+  </titles>
+  <sponsor id="410261"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="1988-09-28"/>
+    <cosponsor id="403696" joined="1988-09-28"/>
+    <cosponsor id="404869" joined="1988-09-08"/>
+    <cosponsor id="406463" joined="1988-09-28"/>
+    <cosponsor id="406530" joined="1988-09-08"/>
+    <cosponsor id="406799" joined="1988-09-08"/>
+    <cosponsor id="407700" joined="1988-10-05"/>
+    <cosponsor id="411405" joined="1988-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aircraft"/>
+    <term name="Aviation"/>
+    <term name="Claims"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Government liability"/>
+    <term name="Government liability (International law)"/>
+    <term name="Hostages"/>
+    <term name="Iran"/>
+    <term name="Iran Hostage Crisis"/>
+    <term name="Iran-Iraq War"/>
+    <term name="Lebanon"/>
+    <term name="Liability for aircraft accidents"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Prohibits the obligation or expenditure of Federal funds to pay compensation to Iran for the downing of Iran Air Flight 655 until the President certifies to the Congress that: (1) the Iranian Government is not a military or terrorist threat to the United States; (2) no American hostages are being held in Lebanon; (3) the Iranian Government has paid compensation to the families of American citizens killed in truck-bombings in Lebanon during 1983 and 1984; (4) the Iranian Government has issued a formal apology to the United States for holding certain Americans as hostages from 1979 to 1981; and (5) the Iranian Government has made a good-faith effort to end the Iran-Iraq war.</summary>
+</bill>

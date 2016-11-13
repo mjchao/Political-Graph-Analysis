@@ -1,0 +1,60 @@
+<bill session="100" type="h" number="3730" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-09"/>
+  </status>
+  <introduced datetime="1987-12-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to clarify the medical expense deduction available for expenses connected with the acquisition, training, and maintenance of service dogs for handicapped individuals.</title>
+  </titles>
+  <sponsor id="408520"/>
+  <cosponsors>
+    <cosponsor id="401155" joined="1988-02-24"/>
+    <cosponsor id="401383" joined="1988-02-24"/>
+    <cosponsor id="402763" joined="1988-02-24"/>
+    <cosponsor id="402928" joined="1988-05-10"/>
+    <cosponsor id="403314" joined="1988-02-24"/>
+    <cosponsor id="403529" joined="1988-02-24"/>
+    <cosponsor id="404013" joined="1987-12-09"/>
+    <cosponsor id="405524" joined="1987-12-09"/>
+    <cosponsor id="405939" joined="1988-02-24"/>
+    <cosponsor id="400226" joined="1988-02-24"/>
+    <cosponsor id="400537" joined="1988-02-24"/>
+    <cosponsor id="406554" joined="1988-02-24"/>
+    <cosponsor id="400278" joined="1987-12-09"/>
+    <cosponsor id="408109" joined="1987-12-09"/>
+    <cosponsor id="400306" joined="1988-02-24"/>
+    <cosponsor id="409353" joined="1987-12-09"/>
+    <cosponsor id="400409" joined="1988-02-24"/>
+    <cosponsor id="411834" joined="1987-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-09" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Animals"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Disabled"/>
+    <term name="Health"/>
+    <term name="Income tax"/>
+    <term name="Medical economics"/>
+    <term name="Pets"/>
+    <term name="Physically handicapped"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/1987--Introduced.
+Requires that, for the purpose of the income tax deduction for medical expenses, expenditures for the acquisition, training, and maintenance of a service animal used to assist a handicapped individual be treated in the same manner as corresponding expenditures in connection with guide dogs for the blind. (Under Internal Revenue Service revenue rulings, these latter expenditures are treated as deductible.)</summary>
+</bill>

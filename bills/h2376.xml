@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="2376" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1987-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-12"/>
+  </status>
+  <introduced datetime="1987-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to remove the special treatment accorded tobacco and tobacco products under the Consumer Product Safety Act.</title>
+  </titles>
+  <sponsor id="401231"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-09-09"/>
+    <cosponsor id="400975" joined="1987-09-09"/>
+    <cosponsor id="402763" joined="1987-05-12"/>
+    <cosponsor id="400080" joined="1987-07-09"/>
+    <cosponsor id="404006" joined="1987-07-09"/>
+    <cosponsor id="404097" joined="1987-10-27"/>
+    <cosponsor id="400552" joined="1987-07-09"/>
+    <cosponsor id="405939" joined="1987-05-12"/>
+    <cosponsor id="400238" joined="1987-09-09"/>
+    <cosponsor id="400253" joined="1987-07-09"/>
+    <cosponsor id="408023" joined="1987-09-09"/>
+    <cosponsor id="400299" joined="1987-07-09"/>
+    <cosponsor id="409632" joined="1987-05-12"/>
+    <cosponsor id="409901" joined="1987-07-09"/>
+    <cosponsor id="410589" joined="1987-05-12"/>
+    <cosponsor id="300156" joined="1987-09-09"/>
+    <cosponsor id="411585" joined="1987-05-12"/>
+    <cosponsor id="300100" joined="1987-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-12" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Consumer protection"/>
+    <term name="Product safety"/>
+    <term name="Tobacco"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1987--Introduced.
+Amends the Consumer Product Safety Act with regard to the definition of the term "consumer product" to remove the exception excluding tobacco and tobacco products.</summary>
+</bill>

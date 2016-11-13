@@ -1,0 +1,46 @@
+<bill session="100" type="hc" number="182" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the sense of the Congress concerning wheat gluten export subsidies of the European Economic Community.</title>
+  </titles>
+  <sponsor id="409966"/>
+  <cosponsors>
+    <cosponsor id="404325" joined="1987-08-07"/>
+    <cosponsor id="404602" joined="1987-08-07"/>
+    <cosponsor id="407676" joined="1987-08-07"/>
+    <cosponsor id="300083" joined="1987-08-07"/>
+    <cosponsor id="411585" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="EEC countries"/>
+    <term name="Export subsidies"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import relief"/>
+    <term name="Imports"/>
+    <term name="Trade negotiations"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Declares that: (1) provisions of the Trade Act of 1974 provide the President authority to respond to European Economic Community (EEC) subsidization of wheat gluten exports to the United States by the imposition of additional duties or quotas; (2) such subsidization of agricultural products to the United States has been found to violate the General Agreement on Tariffs and Trade; (3) the U.S. Trade Representative (USTR) should institute import relief proceedings to respond to such practices; and (4) if consultation with the EEC fails to eliminate such practices, the USTR should recommend to the President and the President should impose relief to offset such subsidies.</summary>
+</bill>

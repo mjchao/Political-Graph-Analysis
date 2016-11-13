@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="3379" updated="2014-03-22T09:52:50-04:00">
+  <state datetime="1987-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-30"/>
+  </status>
+  <introduced datetime="1987-09-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the import into the United States of all products of Iran.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-30" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Iran"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1987--Introduced.
+Prohibits the importation of all products from Iran. Authorizes the President to delay the implementation of such prohibition for up to 180 days if he determines that it is not in the national interest of the United States. Requires the President, if he delays implementation of the prohibition, to submit to the Congress a report explaining the reasons for the decision, including how the national interest would be jeopardized by implementing the prohibition. Permits the Congress to extend such 180-day period by joint resolution.</summary>
+</bill>

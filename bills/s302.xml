@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="302" updated="2014-03-22T09:54:51-04:00">
+  <state datetime="1987-01-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-12"/>
+  </status>
+  <introduced datetime="1987-01-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to impose a tax on the importation of crude oil and refined petroleum products.</title>
+  </titles>
+  <sponsor id="401604"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-01-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1987-01-30">
+      <text>Subcommittee on Energy and Agricultural Taxation. Hearings held. Hearings printed:  S.Hrg. 100-31.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFI07" subcommittee="Energy and Agricultural Taxation" name="Senate Finance"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Energy policy"/>
+    <term name="Excise tax"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+  </subjects>
+  <amendments/>
+  <summary>1/12/1987--Introduced.
+Amends the Internal Revenue Code to impose an import fee on: (1) the first sale within the United States of any crude oil or any refined petroleum product imported into the United States; and (2) the use within the United States of any crude oil or any refined petroleum product imported into the United States if no such tax has been imposed prior to such use. Exempts from such tax crude oil or refined petroleum products purchased for export. Specifies that such fee shall be imposed only at a time when the average international price of crude oil for any four-week period is less than $18 per barrel. Sets the rate of such tax as the difference between $18 per barrel and the average international price of crude oil for the preceding four-week period.</summary>
+</bill>

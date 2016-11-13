@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="4467" updated="2014-03-22T09:53:17-04:00">
+  <state datetime="1988-04-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-26"/>
+  </status>
+  <introduced datetime="1988-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Drug-Free Workplace Act of 1988</title>
+    <title type="official" as="introduced">A bill to make ineligible for Federal financial assistance and Government contracts any entity that does not maintain a drug free workplace.</title>
+  </titles>
+  <sponsor id="411247"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="1988-04-27"/>
+    <cosponsor id="400018" joined="1988-04-27"/>
+    <cosponsor id="401383" joined="1988-05-17"/>
+    <cosponsor id="401628" joined="1988-05-17"/>
+    <cosponsor id="400055" joined="1988-04-27"/>
+    <cosponsor id="403476" joined="1988-04-27"/>
+    <cosponsor id="403769" joined="1988-04-27"/>
+    <cosponsor id="404587" joined="1988-04-27"/>
+    <cosponsor id="400176" joined="1988-04-27"/>
+    <cosponsor id="400307" joined="1988-05-17"/>
+    <cosponsor id="409654" joined="1988-05-17"/>
+    <cosponsor id="300155" joined="1988-04-27"/>
+    <cosponsor id="411405" joined="1988-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-26" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-05-02">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1988-05-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Drugs"/>
+    <term name="Construction industries"/>
+    <term name="Debarment of government contractors"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and employment"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Federal aid programs"/>
+    <term name="Government contractors"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>4/26/1988--Introduced.
+Drug-Free Workplace Act of 1988 - Prohibits any executive agency from making Federal financial assistance available to, or entering into a contract with, any entity (including any educational institution) that fails to maintain drug-free workplaces. Makes such prohibition inapplicable if the executive agency head determines that: (1) the entity in question implemented measures sufficient to maintain drug-free workplaces; or (2) withholding such assistance, or failing to enter into such a contract, would severely disrupt the entity's operation to the detriment of the Federal Government or the general public.</summary>
+</bill>

@@ -1,0 +1,71 @@
+<bill session="100" type="h" number="3391" updated="2014-03-22T09:52:50-04:00">
+  <state datetime="1987-10-06">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-06"/>
+  </status>
+  <introduced datetime="1987-10-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the importation into the United States of all products of Iran, and for other purposes.</title>
+  </titles>
+  <sponsor id="409422"/>
+  <cosponsors>
+    <cosponsor id="403203" joined="1987-10-01"/>
+    <cosponsor id="300037" joined="1987-10-05"/>
+    <cosponsor id="403641" joined="1987-10-01"/>
+    <cosponsor id="404520" joined="1987-10-01"/>
+    <cosponsor id="300055" joined="1987-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-01" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-01" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-05">
+      <text>Reported to House (Amended) by House Committee on Ways and Means. Report No: 100-345.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Placed on Union Calendar No: 216.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="349" datetime="1987-10-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 407 - 5 (Record Vote No: 349).</text>
+    </vote>
+    <action datetime="1987-10-08">
+      <text>Received in the Senate and read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Customs administration"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Iran"/>
+    <term name="Japan"/>
+    <term name="Maritime law"/>
+    <term name="Most favored nation principle"/>
+    <term name="NATO countries"/>
+    <term name="Persian Gulf"/>
+    <term name="Persian Gulf States"/>
+    <term name="Tariff"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1987--Passed House amended.
+(Measure passed House, amended, roll call #349 (407-5)) Prohibits the importation of products from Iran. Denies most-favored-nation treatment to such products. Requires the Commissioner of Customs to take actions to implement: (1) such import prohibition, including actions to prevent its circumvention through indirect shipment; and (2) the denial of most-favored-nation treatment. Permits the President, for up to 180 days, to delay the imposition of the import prohibition and to suspend the denial of most-favored-nation treatment if he decides that it is in the national interest. Requires the President to submit a report explaining the reasons for any such delay and specifying how the national interest would be jeopardized if such import prohibition and any denial of most-favored-nation treatment were implemented to the Committee on Ways and Means and the Committee on Foreign Affairs of the House of Representatives and the Committee on Finance and the Committee on Foreign Relations of the Senate. Permits the Congress to extend such delay and suspension by joint resolution. Permits the President to terminate the import prohibition and the denial of most-favored-nation treatment if he determines and reports to the Congress that Iran: (1) has ceased belligerent activities in the Persian Gulf against nonbelligerent parties; and (2) has implemented United Nations Security Council Resolution 598. Permits the President to reinstate the terminated measures if he determines that Iran has failed to comply with such conditions. Urges the President to negotiate with nations of the North Atlantic Treaty Organization and the Gulf Cooperation Council, Japan, and other nations concerning a multilateral agreement to prohibit the importation of, and to deny most-favored-nation treatment to, Iranian products.</summary>
+</bill>

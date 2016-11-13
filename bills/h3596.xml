@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="3596" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1987-11-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-03"/>
+  </status>
+  <introduced datetime="1987-11-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building located at 1801 Gulf Breeze Parkway, Gulf Breeze, Florida, as the "Bob Sikes Visitor Center".</title>
+  </titles>
+  <sponsor id="405855"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-03" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>House Committee on Public Works and Transportation Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-17">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1736"/>
+    <bill relation="identical" session="100" type="s" number="1736"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal office buildings"/>
+    <term name="Florida"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>11/3/1987--Introduced.
+Designates the Federal building at 1801 Gulf Breeze Parkway, Gulf Breeze, Florida, as the Bob Sikes Visitor Center.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="100" type="h" number="3686" updated="2014-03-22T09:52:56-04:00">
+  <state datetime="1987-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-02"/>
+  </status>
+  <introduced datetime="1987-12-02"/>
+  <titles>
+    <title type="short" as="introduced">Older Americans Long-Term Care Insurance Act of 1987</title>
+    <title type="short" as="introduced" partial="1">Federal National Long-Term Care Reinsurance Corporation Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to encourage the coverage of older Americans by private long-term care insurance.</title>
+  </titles>
+  <sponsor id="405006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-02" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-12-02">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-28">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3501"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Business and commerce"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Employee benefit plans"/>
+    <term name="Federal incorporation"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Income tax"/>
+    <term name="Individual retirement accounts"/>
+    <term name="Insurance"/>
+    <term name="Insurance companies"/>
+    <term name="Insurance premiums"/>
+    <term name="Labor and employment"/>
+    <term name="Life insurance"/>
+    <term name="Long-term care"/>
+    <term name="Reinsurance"/>
+    <term name="Tax administration"/>
+    <term name="Tax exclusion"/>
+    <term name="Tax-deferred compensation plans"/>
+    <term name="Tax-exempt organizations"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/1987--Introduced.
+Older Americans Long-Term Care Insurance Act of 1987 - Title I: Tax Provisions Related to Long-Term Care Insurance - Amends the Internal Revenue Code to treat certain long-term care insurance which the Secretary certifies is providing coverage to each covered person for at least one year for diagnostic, preventive, therapeutic, rehabilitation, maintenance, or personal care services provided in a setting other than the acute care unit of a hospital as noncancellable accident or health insurance when taxing issuers of such insurance (here after referred to as qualified long-term care insurance). Requires such policies which are issued after 1989 to be reinsured by the Federal National Long-Term Care Reinsurance Corporation if the Corporation is incorporated when such policy is issued. Directs the Secretary of Health and Human Services to submit a study on long-term care insurance policies to the Congress by 1989 and report annually to the Congress regarding the certification of qualified long-term care insurance. Provides that for the purpose of determining whether a tax exclusion applies to employer contributions to, or an employee's receipt of benefits from qualified long-term care insurance such contributions and benefits shall be considered to be for personal injury or sickness, and medical care. Excludes from taxation: (1) distributions or payments from individual retirement plans which are used during the year to pay the premiums for qualified long-term care coverage of individuals who are age 59 1/2 or older on the date of distribution or payment; and (2) amounts received, when an individual surrenders, cancels, or exchanges a life insurance contract, and used during such year to pay the premiums for qualified long-term care insurance. Title II: Federal National Long-Term Care Reinsurance Corporation - Federal National Long-Term Care Reinsurance Corporation Act - Authorizes the Secretary to provide for the incorporation of the Federal National Long-Term Care Reinsurance Corporation (Corporation), which shall not be an agency or establishment of the U.S. Government. Requires the Corporation to confine its activities to reinsuring insurance companies for extraordinary loss in the issuance or payment of qualified long-term care insurance benefits. Sets forth organizing and administrative provisions with respect to the Corporation. Exempts the Corporation from State regulation and taxation. Directs the Corporation to report annually to the President and the Congress regarding its activities.</summary>
+</bill>

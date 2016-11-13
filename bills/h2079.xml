@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="2079" updated="2014-03-22T09:52:11-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Community Mental Health Coordination Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Older Americans Act of 1965 to require area agencies on aging to coordinate with community health centers certain programs relating to mental health services for older individuals, and for other purposes.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-05-18"/>
+    <cosponsor id="401418" joined="1987-04-09"/>
+    <cosponsor id="403864" joined="1987-05-12"/>
+    <cosponsor id="400143" joined="1987-05-12"/>
+    <cosponsor id="404869" joined="1987-05-12"/>
+    <cosponsor id="405646" joined="1987-05-12"/>
+    <cosponsor id="400211" joined="1987-05-12"/>
+    <cosponsor id="400595" joined="1987-05-12"/>
+    <cosponsor id="410261" joined="1987-05-12"/>
+    <cosponsor id="400414" joined="1987-05-18"/>
+    <cosponsor id="411725" joined="1987-05-12"/>
+    <cosponsor id="411901" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED07" subcommittee="Human Resources" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Community health services"/>
+    <term name="Geriatrics"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Health services administration"/>
+    <term name="Mental care facilities"/>
+    <term name="Mental health"/>
+    <term name="Mental health services"/>
+    <term name="Old age assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Community Mental Health Coordination Act of 1987 - Amends the Older Americans Act of 1965 to require area agencies on aging to coordinate their outreach and mental health services with the outreach and mental health services provided by community mental health centers and other public agencies and nonprofit private organizations.</summary>
+</bill>

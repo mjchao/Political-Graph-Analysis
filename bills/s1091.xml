@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="1091" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-04-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-24"/>
+  </status>
+  <introduced datetime="1987-04-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Tariff Schedule of the United States by adding a new item on kitchenware of transparent, nonglazed glass ceramics.</title>
+  </titles>
+  <sponsor id="300084"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2281"/>
+    <bill relation="identical" session="100" type="h" number="2281"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Ceramics"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Glass and glass industry"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>4/24/1987--Introduced.
+Amends the Tariff Schedules of the United States to suspend the duty on kitchenware of transparent, nonglazed glass ceramics through December 31, 1989.</summary>
+</bill>

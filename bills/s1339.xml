@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="1339" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-09"/>
+  </status>
+  <introduced datetime="1987-06-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Social Security Act to increase the existing dollar limitation on the total amount of the Federal payments which may be made to Puerto Rico in any fiscal year under the medicaid program.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1486"/>
+    <bill relation="identical" session="100" type="h" number="1486"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Public assistance programs"/>
+    <term name="Puerto Rico"/>
+    <term name="Territories (U.S.)"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/1987--Introduced.
+Amends part A (General Provisions) of title XI of the Social Security Act to increase the total amount of Federal payments which may be made to Puerto Rico under title XIX (Medicaid) of the Act.</summary>
+</bill>

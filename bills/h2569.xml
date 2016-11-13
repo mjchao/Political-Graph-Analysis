@@ -1,0 +1,79 @@
+<bill session="100" type="h" number="2569" updated="2014-03-22T09:52:24-04:00">
+  <state datetime="1987-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-02"/>
+  </status>
+  <introduced datetime="1987-06-02"/>
+  <titles>
+    <title type="short" as="introduced">Pesticide Price Competition Act</title>
+    <title type="official" as="introduced">A bill to amend the Federal Insecticide, Fungicide, and Rodenticide Act to permit applicants to file abbreviated applications for registration of pesticides or new uses of pesticides under certain circumstances, and for other purposes.</title>
+  </titles>
+  <sponsor id="405209"/>
+  <cosponsors>
+    <cosponsor id="400898" joined="1987-09-29"/>
+    <cosponsor id="401155" joined="1987-07-01"/>
+    <cosponsor id="401418" joined="1987-07-22"/>
+    <cosponsor id="401446" joined="1987-07-01"/>
+    <cosponsor id="400081" joined="1988-04-21"/>
+    <cosponsor id="300029" joined="1987-07-01"/>
+    <cosponsor id="403190" joined="1987-07-01"/>
+    <cosponsor id="403545" joined="1987-07-01"/>
+    <cosponsor id="400115" joined="1987-07-01"/>
+    <cosponsor id="400140" joined="1987-09-29"/>
+    <cosponsor id="404325" joined="1987-07-22"/>
+    <cosponsor id="405646" joined="1987-09-29"/>
+    <cosponsor id="406530" joined="1987-09-29"/>
+    <cosponsor id="406554" joined="1987-07-22"/>
+    <cosponsor id="400240" joined="1987-07-01"/>
+    <cosponsor id="407162" joined="1987-07-01"/>
+    <cosponsor id="400595" joined="1987-07-01"/>
+    <cosponsor id="407282" joined="1988-04-21"/>
+    <cosponsor id="408190" joined="1987-07-22"/>
+    <cosponsor id="400306" joined="1987-09-29"/>
+    <cosponsor id="409060" joined="1987-06-02"/>
+    <cosponsor id="410407" joined="1987-07-01"/>
+    <cosponsor id="400504" joined="1987-07-22"/>
+    <cosponsor id="410553" joined="1987-07-22"/>
+    <cosponsor id="410574" joined="1987-07-22"/>
+    <cosponsor id="400409" joined="1987-07-22"/>
+    <cosponsor id="411065" joined="1987-09-29"/>
+    <cosponsor id="400612" joined="1987-09-29"/>
+    <cosponsor id="411901" joined="1987-07-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-02" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Executive Comment Requested from EPA.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="746"/>
+    <bill relation="identical" session="100" type="s" number="746"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Licenses"/>
+    <term name="Pest control"/>
+    <term name="Pesticide regulation"/>
+    <term name="Pesticides"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/1987--Introduced.
+Pesticide Price Competition Act - Amends the Federal Insecticide, Fungicide, and Rodenticide Act to permit applicants to file abbreviated applications for registration of pesticides and new uses of pesticides if the pesticide is identical or substantially similar chemically to a previously registered pesticide, and if labeling requirements and other conditions are met.</summary>
+</bill>

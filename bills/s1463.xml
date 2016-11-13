@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="1463" updated="2014-03-22T09:55:20-04:00">
+  <state datetime="1987-07-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-01"/>
+  </status>
+  <introduced datetime="1987-07-01"/>
+  <titles>
+    <title type="short" as="introduced">New Zealand Military Preference Elimination Act</title>
+    <title type="official" as="introduced">A bill to eliminate security assistance and arms export preferences for New Zealand, and for other purposes.</title>
+  </titles>
+  <sponsor id="410936"/>
+  <cosponsors>
+    <cosponsor id="402727" joined="1987-07-01"/>
+    <cosponsor id="403515" joined="1987-07-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-08-10">
+      <text>Committee on Foreign Relations requested executive comment from State Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="85"/>
+    <bill relation="identical" session="100" type="h" number="85"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Arms sales"/>
+    <term name="Export controls"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="New Zealand"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/1987--Introduced.
+New Zealand Military Preference Elimination Act - Amends the Foreign Assistance Act of 1961 and the Arms Export Control Act to eliminate certain security assistance and arms export preferences for New Zealand.</summary>
+</bill>

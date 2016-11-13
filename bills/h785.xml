@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="785" updated="2014-03-22T09:51:33-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Automated Teller Machine Crime Prevention Act of 1987</title>
+    <title type="official" as="introduced">A bill to prevent crimes committed in connection with the operation or use of automated teller machines.</title>
+  </titles>
+  <sponsor id="401418"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-03-05"/>
+    <cosponsor id="403689" joined="1987-03-05"/>
+    <cosponsor id="403904" joined="1987-04-21"/>
+    <cosponsor id="404422" joined="1987-04-21"/>
+    <cosponsor id="405256" joined="1987-04-21"/>
+    <cosponsor id="405687" joined="1987-04-21"/>
+    <cosponsor id="400595" joined="1987-05-18"/>
+    <cosponsor id="400333" joined="1987-04-21"/>
+    <cosponsor id="410066" joined="1987-03-05"/>
+    <cosponsor id="410145" joined="1987-04-21"/>
+    <cosponsor id="400409" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to Subcommittee on Consumer Affairs and Coinage.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA02" subcommittee="Consumer Affairs and Coinage" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Automated teller machines"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information"/>
+    <term name="Electronic funds transfers"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Savings and loan associations"/>
+    <term name="Security measures"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Automated Teller Machine Crime Prevention Act of 1987 - Amends the Bank Protection Act of 1968 to require each Federal supervisory agency to prescribe minimum security standards for the protection of customers using automated teller machines owned or operated by banks or savings and loan associations. Directs each agency to consider the need for emergency alarms, surveillance cameras and video transaction recorders, and secure enclosures at such machines and the need for a program to educate machine customers about how to protect themselves. Requires such standards to be voluntary for three years and mandatory thereafter. Requires each agency, within three years after enactment of this Act, to report to the Congress on compliance with such standards. Directs the Attorney General to acquire and include in the uniform crime reports information on crimes committed in connection with the use of automated teller machines. Increases criminal penalties for violations of the Electronic Fund Transfer Act.</summary>
+</bill>

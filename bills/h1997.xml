@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="1997" updated="2014-03-22T09:52:08-04:00">
+  <state datetime="1987-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act as to liberalize the conditions governing eligibility of blind persons to receive disability insurance benefits thereunder.</title>
+  </titles>
+  <sponsor id="406730"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Blind"/>
+    <term name="Disabled"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security eligibility"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to include within the definition of the term "fully insured individual," in the case of an individual who has died and was entitled to a disability benefit for the month before the month of death, any individual who had not less than six quarters of coverage. Requires a blind person to have at least six quarters of coverage in order to be eligible for disability benefits. Sets forth the method of computing the average indexed monthly earnings of a blind individual for purposes of determining such individual's primary insurance amount. Provides that the benefits of a blind person shall not be reduced because of such person's refusal to accept State-approved rehabilitative services under the Vocational Rehabilitation Act. Requires recomputation of the disability insurance benefit of a blind individual who applies for a recomputation if such recomputation would result in a higher primary insurance amount.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="100" type="sj" number="133" updated="2014-03-22T09:54:22-04:00">
+  <state datetime="1987-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-20"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution prohibiting the sale to Saudi Arabia of 12 F-15 aircraft.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1987-05-20"/>
+    <cosponsor id="403142" joined="1987-05-27"/>
+    <cosponsor id="403483" joined="1987-05-27"/>
+    <cosponsor id="403669" joined="1987-05-20"/>
+    <cosponsor id="300064" joined="1987-05-20"/>
+    <cosponsor id="411421" joined="1987-06-04"/>
+    <cosponsor id="411762" joined="1987-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Arms sales"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Military aircraft"/>
+    <term name="Saudi Arabia"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/1987--Introduced.
+Prohibits the proposed sale to Saudi Arabia of 12 F-15 aircraft with related defense articles and defense services.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="100" type="s" number="2351" updated="2014-03-22T09:55:47-04:00">
+  <state datetime="1988-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-29"/>
+  </status>
+  <introduced datetime="1988-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the capitalization rules for freelance writers, artists, and photographers.</title>
+  </titles>
+  <sponsor id="300036"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1988-04-29"/>
+    <cosponsor id="402023" joined="1988-05-19"/>
+    <cosponsor id="300023" joined="1988-06-10"/>
+    <cosponsor id="405310" joined="1988-07-06"/>
+    <cosponsor id="300060" joined="1988-05-18"/>
+    <cosponsor id="407622" joined="1988-06-14"/>
+    <cosponsor id="400563" joined="1988-07-29"/>
+    <cosponsor id="300094" joined="1988-06-09"/>
+    <cosponsor id="411271" joined="1988-05-19"/>
+    <cosponsor id="411762" joined="1988-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Art"/>
+    <term name="Artists"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Authors and authorship"/>
+    <term name="Books"/>
+    <term name="Depreciation and amortization"/>
+    <term name="Income tax"/>
+    <term name="Motion pictures"/>
+    <term name="Music"/>
+    <term name="Photographers"/>
+    <term name="Poetry"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1988--Introduced.
+Amends the Internal Revenue Code to provide that the income tax rules requiring cost capitalization shall not apply to the qualified artistic work expenses of freelance writers, artists, and photographers. Excludes from qualified expenses those related to printing, photographic plates, motion picture films, video tapes, and similar items.</summary>
+</bill>

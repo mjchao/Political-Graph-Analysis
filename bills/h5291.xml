@@ -1,0 +1,70 @@
+<bill session="100" type="h" number="5291" updated="2014-03-22T09:53:36-04:00">
+  <state datetime="1988-10-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-18"/>
+  </status>
+  <introduced datetime="1988-09-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide the Secretary of the Air Force with authority to convey certain land.</title>
+  </titles>
+  <sponsor id="405855"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-14" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Referred to Subcommittee on Military Installations and Facilities.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="384" datetime="1988-10-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 398 - 1 (Record Vote No: 384).</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-05" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-501" type="public" datetime="1988-10-18">
+      <text>Became Public Law No: 100-501.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS04" subcommittee="Military Installations and Facilities" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Air bases"/>
+    <term name="Florida"/>
+    <term name="Land transfers"/>
+    <term name="National seashores"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Recreation areas"/>
+    <term name="Seashores"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/1988--Introduced.
+Authorizes the Secretary of the Air Force to convey certain lands in Okaloosa County, Florida, to the State of Florida in exchange for certain real property adjacent to the Eglin Air Force Base, including any land within the tract which may have been created by natural accretion or dumping of dredge spoil. Authorizes the Secretary to: (1) ensure that public access for recreational purposes to the property adjacent to the Eglin Air Force Base continues to be permitted; and (2) except from any conveyances any existing easements for roads and public utilities. Requires the Secretary to require any lands conveyed to Florida that are not being used for educational purposes by ten years after such conveyance to revert to the United States. Requires any lands conveyed to the United States that the Secretary determines are not needed by the Department of Defense to be transferred to the National Park Service for incorporation into the Gulf Islands National Seashore.</summary>
+</bill>

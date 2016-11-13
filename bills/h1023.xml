@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="1023" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill For the relief of the descendents and assignees of Marcus P. Norton or their heirs.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Patents"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified amount to the descendants and assignees (or their heirs) of a named individual as full and final settlement of claims arising from use by the U.S. Postal Service of the individual's patented postage cancellation stamp.</summary>
+</bill>

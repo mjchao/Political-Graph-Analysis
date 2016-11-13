@@ -1,0 +1,147 @@
+<bill session="100" type="h" number="2945" updated="2014-03-22T09:52:34-04:00">
+  <state datetime="1987-12-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-31"/>
+  </status>
+  <introduced datetime="1987-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Compensation Amendments of 1987</title>
+    <title type="short" as="reported to house">Veterans' Compensation Amendments of 1987</title>
+    <title type="short" as="passed house">Veterans' Compensation Amendments of 1987</title>
+    <title type="short" as="passed senate">Veterans' Compensation Cost-of-Living Adjustment Act of 1987</title>
+    <title type="short" as="enacted">Veterans' Compensation Cost-of-Living Adjustment Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to provide a 4.1 percent increase in the rates of compensation and of dependency and indemnity compensation (DIC) paid by the Veterans' Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="400906"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="1987-07-15"/>
+    <cosponsor id="401947" joined="1987-07-23"/>
+    <cosponsor id="400055" joined="1987-07-23"/>
+    <cosponsor id="403242" joined="1987-07-23"/>
+    <cosponsor id="403545" joined="1987-07-23"/>
+    <cosponsor id="403576" joined="1987-07-23"/>
+    <cosponsor id="403776" joined="1987-07-23"/>
+    <cosponsor id="400126" joined="1987-07-15"/>
+    <cosponsor id="404170" joined="1987-07-23"/>
+    <cosponsor id="404750" joined="1987-07-23"/>
+    <cosponsor id="405006" joined="1987-07-23"/>
+    <cosponsor id="405114" joined="1987-07-23"/>
+    <cosponsor id="405313" joined="1987-07-23"/>
+    <cosponsor id="405985" joined="1987-07-23"/>
+    <cosponsor id="300058" joined="1987-07-15"/>
+    <cosponsor id="406157" joined="1987-07-23"/>
+    <cosponsor id="400210" joined="1987-07-23"/>
+    <cosponsor id="400211" joined="1987-07-23"/>
+    <cosponsor id="406277" joined="1987-07-23"/>
+    <cosponsor id="400216" joined="1987-07-22"/>
+    <cosponsor id="406682" joined="1987-07-23"/>
+    <cosponsor id="407432" joined="1987-07-15"/>
+    <cosponsor id="407673" joined="1987-07-15"/>
+    <cosponsor id="407838" joined="1987-07-15"/>
+    <cosponsor id="408520" joined="1987-07-23"/>
+    <cosponsor id="408618" joined="1987-07-15"/>
+    <cosponsor id="409205" joined="1987-07-23"/>
+    <cosponsor id="409219" joined="1987-07-23"/>
+    <cosponsor id="409325" joined="1987-07-15"/>
+    <cosponsor id="409442" joined="1987-07-23"/>
+    <cosponsor id="409443" joined="1987-07-23"/>
+    <cosponsor id="400378" joined="1987-07-23"/>
+    <cosponsor id="300155" joined="1987-07-15"/>
+    <cosponsor id="400380" joined="1987-07-23"/>
+    <cosponsor id="410147" joined="1987-07-15"/>
+    <cosponsor id="410245" joined="1987-07-23"/>
+    <cosponsor id="400389" joined="1987-07-23"/>
+    <cosponsor id="400504" joined="1987-07-23"/>
+    <cosponsor id="411929" joined="1987-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-15" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-07-23">
+      <text>Reported to House (Amended) by House Committee on Veterans' Affairs.  Report No: 100-236.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Placed on Union Calendar No: 145.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-28" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1987-07-29" calendar="Senate Legislative" under="General Orders" number="274">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 274.</text>
+    </calendar>
+    <action datetime="1987-12-17">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-17" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1987-12-18">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-22">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-22">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-31" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-227" type="public" datetime="1987-12-31">
+      <text>Became Public Law No: 100-227.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Bridges"/>
+    <term name="Business and commerce"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Dental care"/>
+    <term name="Economics and public finance"/>
+    <term name="Employment and training programs"/>
+    <term name="Evaluation"/>
+    <term name="Ex-prisoners of war"/>
+    <term name="Federal installations"/>
+    <term name="Government life insurance"/>
+    <term name="Health"/>
+    <term name="Inflation"/>
+    <term name="Insurance"/>
+    <term name="Labor and employment"/>
+    <term name="Manpower training programs"/>
+    <term name="Minnesota"/>
+    <term name="Monuments and memorials"/>
+    <term name="Ohio"/>
+    <term name="Pennsylvania"/>
+    <term name="Roads and highways"/>
+    <term name="Survivors' benefits"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' employment"/>
+    <term name="Veterans' medical care"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1366"/>
+  </amendments>
+  <summary>12/17/1987--Passed Senate amended.
+(Measure passed Senate, amended) Veterans' Compensation Cost-of-Living Adjustments Act of 1987 - Title I: Compensation Rate Increases - Increases the rates (due to a 4.2 percent cost-of-living adjustment) of veterans' disability compensation, additional compensation for dependents, and the clothing allowance for certain disabled veterans. Increases (by the same 4.2 percent COLA) the rates of dependency and indemnity compensation for surviving spouses and children of veterans who have died as a result of service-connected disabilities, as well as the rates of supplemental dependency and indemnity compensation for certain surviving children. Title II: Veterans' Employment Training Extensions - Amends the Veterans' Job Training Act to extend through June 30, 1988, the deadline for veterans to apply for training under such Act. Increases from 2,500 to 3,500 the maximum number of vocational training evaluations which, during the 12-month period beginning February 1 of each year, the Veterans Administration may provide to veterans under age 50 who receive new awards of non-service-connected disability pensions.</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="1316" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Atomic Energy Act of 1954 to make it a federal crime to carry or otherwise introduce or cause to be introduced any dangerous weapon or other dangerous instrumentality onto sites regulated by the Nuclear Regulatory Commission.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>For Further Action See H.R.2683.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2683"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative procedure"/>
+    <term name="Crime prevention"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Nuclear Regulatory Commission"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear power plants"/>
+    <term name="Nuclear security measures"/>
+    <term name="Weapons"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Amends the Atomic Energy Act of 1954 to authorize the Nuclear Regulatory Commission to issue regulations with respect to dangerous weapons or instruments or trespassing on installations subject to its licensing authority.</summary>
+</bill>

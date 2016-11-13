@@ -1,0 +1,36 @@
+<bill session="100" type="hc" number="38" updated="2014-03-22T09:54:06-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the new Form W-4 should be recalled.</title>
+  </titles>
+  <sponsor id="400543"/>
+  <cosponsors>
+    <cosponsor id="404163" joined="1987-02-04"/>
+    <cosponsor id="405985" joined="1987-02-04"/>
+    <cosponsor id="408575" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Income tax"/>
+    <term name="Tax administration"/>
+    <term name="Withholding tax"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Expresses the sense of the Congress that the tax withholding form (W-4) should be recalled and a new tax withholding form should be issued.</summary>
+</bill>

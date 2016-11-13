@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="4109" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-08"/>
+  </status>
+  <introduced datetime="1988-03-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 118(a) of title 28, United States Code, to require that district court shall be held at Pottsville, Pennsylvania.</title>
+  </titles>
+  <sponsor id="411948"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-03-10">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="District courts"/>
+    <term name="Judicial districts"/>
+    <term name="Pennsylvania"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/1988--Introduced.
+Provides that the U.S. District Court for the Eastern District of Pennsylvania shall be held in Pottsville, Pennsylvania, in addition to those places currently provided by law.</summary>
+</bill>

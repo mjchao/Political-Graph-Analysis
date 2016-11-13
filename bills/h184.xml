@@ -1,0 +1,95 @@
+<bill session="100" type="h" number="184" updated="2014-03-22T09:51:12-04:00">
+  <state datetime="1987-03-31">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-03-31"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Big Cypress National Preserve Addition Act</title>
+    <title type="official" as="introduced">A bill to establish the Big Cypress National Preserve Addition in the State of Florida, and for other purposes.</title>
+  </titles>
+  <sponsor id="406790"/>
+  <cosponsors>
+    <cosponsor id="401363" joined="1987-01-06"/>
+    <cosponsor id="400028" joined="1987-01-06"/>
+    <cosponsor id="402463" joined="1987-01-06"/>
+    <cosponsor id="404002" joined="1987-01-06"/>
+    <cosponsor id="404520" joined="1987-01-06"/>
+    <cosponsor id="404733" joined="1987-01-06"/>
+    <cosponsor id="405855" joined="1987-01-06"/>
+    <cosponsor id="405887" joined="1987-01-06"/>
+    <cosponsor id="406730" joined="1987-01-06"/>
+    <cosponsor id="400562" joined="1987-01-06"/>
+    <cosponsor id="407051" joined="1987-01-06"/>
+    <cosponsor id="400596" joined="1987-01-06"/>
+    <cosponsor id="407673" joined="1987-01-06"/>
+    <cosponsor id="300078" joined="1987-01-06"/>
+    <cosponsor id="408621" joined="1987-01-06"/>
+    <cosponsor id="400369" joined="1987-01-06"/>
+    <cosponsor id="410066" joined="1987-01-06"/>
+    <cosponsor id="400439" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-03-18" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-03-27">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-30.</text>
+    </action>
+    <action datetime="1987-03-27">
+      <text>Placed on Union Calendar No: 22.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-03-31" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-04-01">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-02-24">
+      <text>For Further Action See S.90.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="90"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Florida"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Big Cypress National Preserve Addition Act - Establishes the Big Cypress National Preserve Addition out of specified lands in Florida. Requires the Secretary of the Interior to review the Addition for suitability for designation as a wilderness area. Sets forth land acquisition procedures. Requires the Secretary to report to the Congress within three years on the existing Preserve and the Addition concerning the status of land acquisition and management. Authorizes appropriations.</summary>
+</bill>

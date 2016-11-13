@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="1136" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to limit the types of proposed disciplinary actions in which disciplinary boards function, to allow for the delegation of authority of the Chief Medical Director in certain situations and for related purposes.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <calendar datetime="1987-07-31" state="REPORTED">
+      <text>Committee on Veterans. Provisions of measure incorporated into measure S. 9 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2009"/>
+    <bill relation="identical" session="100" type="h" number="2009"/>
+    <bill relation="unknown" session="100" type="s" number="9"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil service employment"/>
+    <term name="Disciplining of employees"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1987--Introduced.
+Amends Federal veterans' benefits provisions to allow a designee of the Chief Medical Director of the Department of Medicine and Surgery of the Veterans Administration to appoint and act upon the recommendations of disciplinary boards for employees. (Currently, only the Chief Medical Director can take such actions.) Limits the types of action which shall be appropriate for such disciplinary boards to those actions which propose the removal, suspension for more than 14 days, or demotion involving loss of grade or pay.</summary>
+</bill>

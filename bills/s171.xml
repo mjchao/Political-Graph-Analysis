@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="171" updated="2014-03-22T09:54:47-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to extend the benefits of the delayed retirement credit to surviving spouses and surviving divorced spouses who work and whose widow's or widower's insurance benefits are higher than their old-age insurance benefits.</title>
+  </titles>
+  <sponsor id="409225"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="172"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Widowers"/>
+    <term name="Widows"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to extend the increase which applies to old-age insurance benefits on account of delayed retirement to widow's and widower's insurance benefits in the case of surviving spouses and surviving divorced spouses who work and whose widow's or widower's insurance benefits are higher than their old-age insurance benefits.</summary>
+</bill>

@@ -1,0 +1,82 @@
+<bill session="100" type="h" number="3592" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1988-06-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-06-20"/>
+  </status>
+  <introduced datetime="1987-10-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 39, United States Code, to limit the rate of pay at which the Postal Service may compensate experts and consultants.</title>
+  </titles>
+  <sponsor id="406740"/>
+  <cosponsors>
+    <cosponsor id="405646" joined="1987-10-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-30" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-11-12">
+      <text>Executive Comment Requested from OMB, US Postal Service.</text>
+    </action>
+    <action datetime="1987-11-12">
+      <text>Referred to Subcommittee on Postal Personnel and Modernization.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Referred to Subcommittee on Postal Operations and Services.</text>
+    </action>
+    <action datetime="1988-05-09">
+      <text>Unfavorable Executive Comment Received From US Postal Service.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Subcommittee on Postal Personnel and Modernization Discharged.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-08" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-20">
+      <text>Reported to House (Amended) by House Committee on Post Office and Civil Service.  Report No: 100-712.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Placed on Union Calendar No: 432.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Referred to House Committee on Energy and Commerce Sequentially, for a Period Ending not Later than Sep 30, 88.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPO05" subcommittee="Postal Personnel and Modernization" name="House Post Office and Civil Service"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPO06" subcommittee="Postal Operations and Services" name="House Post Office and Civil Service"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Government consultants"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal employees"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/1988--Passed House amended.
+(Measure passed House, amended) Limits the rate of pay at which the United States Postal Service may compensate experts and consultants to the rate payable for grade GS-18 of the General Schedule.</summary>
+</bill>

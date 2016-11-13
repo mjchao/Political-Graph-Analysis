@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="5038" updated="2014-03-22T09:53:31-04:00">
+  <state datetime="1988-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-13"/>
+  </status>
+  <introduced datetime="1988-07-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill providing emergency advances to the Black Lung Disability Trust Fund and for Trade Adjustment Assistance for the fiscal year ending September 30, 1988.</title>
+  </titles>
+  <sponsor id="400281"/>
+  <cosponsors>
+    <cosponsor id="400331" joined="1988-07-13"/>
+    <cosponsor id="410245" joined="1988-07-13"/>
+    <cosponsor id="400614" joined="1988-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-13" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-07-18">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+    <action datetime="1988-07-18">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Black lung"/>
+    <term name="Business and commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government and business"/>
+    <term name="Government trust funds"/>
+    <term name="Imports"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Occupational health and safety"/>
+    <term name="Revolving funds"/>
+    <term name="Trade adjustment assistance"/>
+    <term name="Unemployment"/>
+    <term name="Unemployment insurance"/>
+    <term name="Workers' compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/1988--Introduced.
+Provides for emergency advances to the Black Lung Disability Trust Fund and for Trade Adjustment Assistance for FY 1988 from balances in the revolving fund of the Employment Security Administration Account in the Unemployment Trust Fund.</summary>
+</bill>

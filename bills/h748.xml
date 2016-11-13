@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="748" updated="2014-03-22T09:51:32-04:00">
+  <state datetime="1987-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-27"/>
+  </status>
+  <introduced datetime="1987-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to suspend for a nine month period the duty of certain mixtures of cross-linked sodium polyacrylate polymers.</title>
+  </titles>
+  <sponsor id="404325"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-27" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemicals"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1987--Introduced.
+Amends the Tariff Schedules of the United States to suspend, through October 31, 1987, the duty on mixtures of two or more organic compounds containing one or more cross-linked sodium polyacrylate polymers.</summary>
+</bill>

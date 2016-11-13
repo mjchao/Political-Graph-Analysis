@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="1714" updated="2014-03-22T09:55:25-04:00">
+  <state datetime="1987-09-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-23"/>
+  </status>
+  <introduced datetime="1987-09-23"/>
+  <titles>
+    <title type="short" as="introduced">New York Bight Restoration Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title I of the Marine Protection, Research, and Sanctuaries Act of 1972, to provide for the restoration of the New York Bight, and for other purposes.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="401709" joined="1987-09-23"/>
+    <cosponsor id="403142" joined="1987-09-23"/>
+    <cosponsor id="400563" joined="1987-09-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2791"/>
+    <bill relation="identical" session="100" type="h" number="2791"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="New York State"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Sewage disposal"/>
+    <term name="Standards"/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>9/23/1987--Introduced.
+New York Bight Restoration Act of 1987 - Amends the Marine Protection, Research, and Sanctuaries Act of 1972 to direct the Administrator of the Environmental Protection Agency to report to the Congress, within three years, a New York Bight Restoration Plan to identify and control pollutant inputs affecting the Bight. Requires the Administrator to submit to the Congress a detailed schedule for completing such plan and a report on the technological and economic feasibility of establishing and implementing quality standards for the disposal of municipal sludge through ocean or land-based methods. Requires such standards to include permissible concentrations of specified pollutants. Authorizes appropriations for FY 1987 and 1988.</summary>
+</bill>

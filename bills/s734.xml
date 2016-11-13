@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="734" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-12"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend trade adjustment assistance to workers and firms in the oil and gas industry whose services or products are not directly competitive with imports.</title>
+  </titles>
+  <sponsor id="406084"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-03-12"/>
+    <cosponsor id="401604" joined="1987-03-12"/>
+    <cosponsor id="300012" joined="1987-04-02"/>
+    <cosponsor id="404679" joined="1987-04-30"/>
+    <cosponsor id="300150" joined="1987-03-12"/>
+    <cosponsor id="300079" joined="1987-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Committee on Finance. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Government and business"/>
+    <term name="Imports"/>
+    <term name="Labor and employment"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum industry"/>
+    <term name="Trade adjustment assistance"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Amends the Trade Act of 1974 to grant eligibility for trade adjustment assistance to firms (and workers in firms) which: (1) explore for, produce, or process oil or natural gas; or (2) provide essential parts or services to other firms that engage in such activities.</summary>
+</bill>

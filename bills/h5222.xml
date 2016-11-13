@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="5222" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 324 of title 32, United States Code, to permit the Secretary of the Army and the Secretary of the Air Force to defer the discharge of an officer of the National Guard when such officer becomes 64 years of age.</title>
+  </titles>
+  <sponsor id="407320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Department of Defense"/>
+    <term name="Department of the Air Force"/>
+    <term name="Department of the Army"/>
+    <term name="Federal officials"/>
+    <term name="Military discharges"/>
+    <term name="National Guard"/>
+    <term name="Officer personnel"/>
+    <term name="Retirement"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Authorizes the Secretary of the Army or the Secretary of the Air Force to defer the required discharge of an officer at 64 years of age when such deferment is in the interest of the National Guard.</summary>
+</bill>

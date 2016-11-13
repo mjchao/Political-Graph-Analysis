@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="2356" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-09"/>
+  </status>
+  <introduced datetime="1988-05-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to extend the prohibition against a requirement of cross compliance for crops of extra long staple cotton.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1988-05-09"/>
+    <cosponsor id="300009" joined="1988-05-09"/>
+    <cosponsor id="300023" joined="1988-05-09"/>
+    <cosponsor id="300036" joined="1988-05-09"/>
+    <cosponsor id="300159" joined="1988-05-09"/>
+    <cosponsor id="405310" joined="1988-05-09"/>
+    <cosponsor id="300071" joined="1988-05-09"/>
+    <cosponsor id="408939" joined="1988-05-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4556"/>
+    <bill relation="identical" session="100" type="h" number="4556"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Cotton"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/1988--Introduced.
+Amends the Agricultural Act of 1949 to extend the prohibition on an extra long staple cotton cross compliance requirement through the 1990 crop year.</summary>
+</bill>

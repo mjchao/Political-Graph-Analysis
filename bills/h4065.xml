@@ -1,0 +1,93 @@
+<bill session="100" type="h" number="4065" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-06-28">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="short" as="introduced">Federal Energy Management Improvement Act</title>
+    <title type="short" as="passed house">Federal Energy Management Improvement Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the National Energy Conservation Policy Act with respect to the energy policy of the United States.</title>
+  </titles>
+  <sponsor id="409793"/>
+  <cosponsors>
+    <cosponsor id="401923" joined="1988-03-02"/>
+    <cosponsor id="401947" joined="1988-03-02"/>
+    <cosponsor id="406746" joined="1988-03-02"/>
+    <cosponsor id="400253" joined="1988-03-02"/>
+    <cosponsor id="407899" joined="1988-03-02"/>
+    <cosponsor id="409205" joined="1988-03-02"/>
+    <cosponsor id="409966" joined="1988-05-17"/>
+    <cosponsor id="411224" joined="1988-03-02"/>
+    <cosponsor id="300100" joined="1988-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-18" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-06-10">
+      <text>Reported to House by House Committee on Energy and Commerce. Report No: 100-684.</text>
+    </action>
+    <action datetime="1988-06-10">
+      <text>Placed on Union Calendar No: 406.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-28" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-29">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>House Incorporated this Measure in S.1382 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1382"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Advisory bodies"/>
+    <term name="Building construction"/>
+    <term name="Energy conservation"/>
+    <term name="Energy policy"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal installations"/>
+    <term name="Federal office buildings"/>
+    <term name="Government operations and politics"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information services"/>
+    <term name="Planning"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/1988--Passed House amended.
+(Measure passed House, amended) Federal Energy Management Improvement Act of 1988 - Amends the National Energy Conservation Policy Act to revise the policies governing Federal energy management. Requires agencies to improve construction designs for Federal buildings so that the energy consumption per gross square foot in use during FY 1995 is at least ten percent less than that of FY 1985. Sets forth implementation steps to meet such goal. Exempts from such requirement buildings in which energy intensive activities are implemented. Redescribes procedures involved in the establishment and use of life cycle cost methods for Federal buildings. Requires the establishment by each agency of an incentives program using internal resources to encourage energy conservation and efficiency by allowing the retention of a portion of the dollar savings resulting from the agency's energy conservation measures. Directs the Secretary of Energy to establish an Interagency Energy Management Task Force to coordinate Federal energy savings and disseminate information on energy efficiency. Requires each agency to report at least annually to the Secretary regarding its energy conservation activities and related contracts. Requires the Secretary to report annually to the Congress regarding energy conservation progress and contracts relating to Federal buildings. Requires the Secretary to carry out an energy survey to: (1) determine the potential maximum cost effective energy peak demand savings achievable in a limited representative sample of federally-owned or leased buildings; and (2) recommend cost effective energy efficiency and renewable energy improvements in such buildings. Prescribes implementation procedures. Directs the Secretary to report to the Congress and the affected agencies regarding the survey findings and conclusions. Authorizes appropriations.</summary>
+</bill>

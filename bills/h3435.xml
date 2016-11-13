@@ -1,0 +1,117 @@
+<bill session="100" type="h" number="3435" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1988-01-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-01-05"/>
+  </status>
+  <introduced datetime="1987-10-06"/>
+  <titles>
+    <title type="short" as="reported to house">Charitable Assistance and Food Bank Act of 1987</title>
+    <title type="short" as="passed house">Charitable Assistance and Food Bank Act of 1987</title>
+    <title type="short" as="passed senate">Charitable Assistance and Food Bank Act of 1987</title>
+    <title type="short" as="enacted">Charitable Assistance and Food Bank Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide that certain charitable donations, and payments for blood contributed, shall be excluded from income for purposes of the food stamp program and the AFDC program.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors>
+    <cosponsor id="403864" joined="1987-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-06" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-10-08">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-10-08">
+      <text>Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-12-09" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-12-14">
+      <text>Reported to House (Amended) by House Committee on Agriculture. Report No: 100-478 (Part I).</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-14" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-12-19">
+      <text>Senate Committee on Agriculture discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-12-19">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-19" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-29">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-01-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-232" type="public" datetime="1988-01-05">
+      <text>Became Public Law No: 100-232.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSAG05" subcommittee="Domestic Marketing, Consumer Relations, and Nutrition" name="House Agriculture"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Agricultural surpluses"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Aid to dependent children"/>
+    <term name="Blood"/>
+    <term name="Blood donors"/>
+    <term name="Charitable contributions"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Food stamps"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Health"/>
+    <term name="Hunger"/>
+    <term name="Poverty"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public assistance programs"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1374"/>
+  </amendments>
+  <summary>12/19/1987--Passed Senate amended.
+(Measure passed Senate, amended) Charitable Assistance and Food Bank Act of 1987 - Amends the Food Stamp Act of 1977 to exclude from income certain charitable cash donations for purposes of the food stamp program. Directs the Secretary of Agriculture to carry out at least one demonstration project to provide and redistribute agricultural commodities and products to needy individuals and families through community food banks. Sets forth recordkeeping and monitoring requirements. Terminates the authority for such project on December 31, 1990. Requires annual reports to the Congress beginning July 1, 1988, with a final report due on July 1, 1990.</summary>
+</bill>

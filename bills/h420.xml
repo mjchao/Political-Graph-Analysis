@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="420" updated="2014-03-22T09:51:20-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to provide that the combined earnings of a husband and wife during the period of their marriage shall be divided equally and shared between them for benefit purposes, so as to recognize the economic contribution of each spouse to the marriage and assure that each spouse will have social security protection in his or her own right.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Income"/>
+    <term name="Married people"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security eligibility"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to provide that the combined earnings of a married couple which are attributable to the period of their marriage shall be shared equally between them for purposes of determining the eligibility for and amount of OASDI benefits to which each spouse is or may become separately entitled. Credits the survivor of the marriage with 100 percent of the combined total wages for the period of the marriage. Declares that this Act shall not apply in specified cases where it would result in a reduction of OASDI benefits.</summary>
+</bill>

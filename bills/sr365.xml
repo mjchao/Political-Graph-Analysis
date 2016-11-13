@@ -1,0 +1,43 @@
+<bill session="100" type="sr" number="365" updated="2014-03-22T09:54:38-04:00">
+  <state datetime="1988-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-28"/>
+  </status>
+  <introduced datetime="1988-01-28"/>
+  <titles>
+    <title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Veterans' Affairs.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-01-28">
+      <text>Committee on Veterans. Original measure reported to Senate by Senator Cranston. Without written report.</text>
+    </action>
+    <action datetime="1988-01-28" state="REFERRED">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Committee on Rules. Hearings held.</text>
+    </action>
+    <action datetime="1988-02-17">
+      <text>Committee on Rules. Ordered favorably reported an original resolution (S.Res. 381) in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Origin, Reporting"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Hearings, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="sr" number="381"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committee staffing"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (Senate)"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1988--Introduced.
+Authorizes the Senate Committee on Veterans' Affairs, from March 1, 1988, through February 28, 1989, to: (1) make expenditures from the contingent fund; (2) employ personnel; and (3) utilize, on a reimbursable basis, the services of department or agency personnel.</summary>
+</bill>

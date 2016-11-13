@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="2065" updated="2014-03-22T09:55:34-04:00">
+  <state datetime="1988-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-17"/>
+  </status>
+  <introduced datetime="1988-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to recognize the organization known as "Veterans of the Vietnam War, Inc.".</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1988-03-14"/>
+    <cosponsor id="403515" joined="1988-03-14"/>
+    <cosponsor id="300154" joined="1988-02-19"/>
+    <cosponsor id="300092" joined="1988-02-17"/>
+    <cosponsor id="300094" joined="1988-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Federal incorporation"/>
+    <term name="Veterans' organizations"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1988--Introduced.
+Grants a Federal charter to the Veterans of the Vietnam War, Inc.</summary>
+</bill>

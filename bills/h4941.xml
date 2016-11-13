@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="4941" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-29"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that certain regulations not be used in administering the trade adjustment assistance program.</title>
+  </titles>
+  <sponsor id="406461"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="1988-07-28"/>
+    <cosponsor id="400210" joined="1988-07-28"/>
+    <cosponsor id="408052" joined="1988-07-28"/>
+    <cosponsor id="408621" joined="1988-07-28"/>
+    <cosponsor id="400409" joined="1988-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-29" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-07-05">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Government and business"/>
+    <term name="Imports"/>
+    <term name="Labor and employment"/>
+    <term name="Trade adjustment assistance"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Introduced.
+Prohibits specified provisions of the Code of Federal Regulations relating to eligibility for worker trade adjustment assistance from being used in the administration of such assistance under the Trade Act of 1974.</summary>
+</bill>

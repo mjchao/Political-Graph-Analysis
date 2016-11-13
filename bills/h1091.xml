@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="1091" updated="2014-03-22T09:51:41-04:00">
+  <state datetime="1987-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Department of Defense Supplemental Military Construction Authorization Act, 1987</title>
+    <title type="official" as="introduced">A bill to authorize additional construction at certain military installations for fiscal year 1987, and for other purposes.</title>
+  </titles>
+  <sponsor id="403364"/>
+  <cosponsors>
+    <cosponsor id="407196" joined="1987-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-11" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Military Installations and Facilities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS04" subcommittee="Military Installations and Facilities" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Department of Defense"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Military construction operations"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1987--Introduced.
+Department of Defense Supplemental Military Construction Authorization Act, 1987 - Title I: Army - Authorizes additional appropriations for FY 1987 to permit the Secretary of the Army to make expenditures to improve existing family housing units. Title II: Navy - Authorizes additional appropriations for FY 1987 to permit the Secretary of the Navy to make expenditures to improve existing family housing units. Authorizes the Secretary to acquire real property and carry out certain military construction projects. Title III: Air Force - Authorizes additional appropriations for FY 1987 to permit the Secretary of the Air Force to acquire real property and carry out certain military construction projects. Title IV: Defense Agencies - Authorizes additional appropriations for FY 1987 to permit the Secretary of Defense to acquire real property and carry out a certain military construction project.</summary>
+</bill>

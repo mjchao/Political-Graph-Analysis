@@ -1,0 +1,70 @@
+<bill session="100" type="h" number="2698" updated="2014-03-22T09:52:28-04:00">
+  <state datetime="1987-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-16"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit, for a 5-year period, any goods produced by the Toshiba Corporation of Japan, the Kongsberg Vappenfabrik Company of Norway, or their subsidiaries, from entering, or being withdrawn from warehouse for consumption, into the customs territory of the United States.</title>
+  </titles>
+  <sponsor id="411725"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-07-08"/>
+    <cosponsor id="401363" joined="1987-07-08"/>
+    <cosponsor id="401383" joined="1987-11-17"/>
+    <cosponsor id="400023" joined="1987-06-30"/>
+    <cosponsor id="300011" joined="1987-07-08"/>
+    <cosponsor id="401947" joined="1987-06-30"/>
+    <cosponsor id="402325" joined="1987-06-30"/>
+    <cosponsor id="403190" joined="1987-06-30"/>
+    <cosponsor id="300033" joined="1987-11-17"/>
+    <cosponsor id="403545" joined="1987-06-30"/>
+    <cosponsor id="400191" joined="1987-06-30"/>
+    <cosponsor id="406461" joined="1987-07-08"/>
+    <cosponsor id="400231" joined="1987-06-30"/>
+    <cosponsor id="406682" joined="1987-06-30"/>
+    <cosponsor id="406765" joined="1987-06-30"/>
+    <cosponsor id="406790" joined="1987-07-29"/>
+    <cosponsor id="406863" joined="1987-06-30"/>
+    <cosponsor id="400595" joined="1987-06-30"/>
+    <cosponsor id="400596" joined="1987-06-30"/>
+    <cosponsor id="407432" joined="1987-07-08"/>
+    <cosponsor id="407457" joined="1987-06-30"/>
+    <cosponsor id="407838" joined="1987-07-08"/>
+    <cosponsor id="408052" joined="1987-06-30"/>
+    <cosponsor id="400286" joined="1987-06-30"/>
+    <cosponsor id="408180" joined="1987-06-30"/>
+    <cosponsor id="400604" joined="1987-06-30"/>
+    <cosponsor id="409325" joined="1987-06-30"/>
+    <cosponsor id="409443" joined="1987-06-30"/>
+    <cosponsor id="300155" joined="1987-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign corporations"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Japan"/>
+    <term name="Norway"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1987--Introduced.
+Prohibits the importation or withdrawal from warehouse for consumption of any goods produced by the Toshiba Corporation or the Kongsberg Vaapenfabrik Company of Norway for five years.</summary>
+</bill>

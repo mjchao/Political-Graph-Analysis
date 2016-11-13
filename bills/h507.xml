@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="507" updated="2014-03-22T09:51:22-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill requiring the President to take retaliatory action against foreign barriers and restrictions that unfairly limit United States trade.</title>
+  </titles>
+  <sponsor id="408109"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Nontariff trade barriers"/>
+    <term name="Restrictive trade practices"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Requires the President, if a foreign nation is applying a tariff or non-tariff barrier that is unduly burdening and restricting U.S. foreign trade, to: (1) apply a barrier similar in kind to that applied by the foreign nation and applicable to a similar product or service; and (2) take equivalent retaliatory action that affects goods or services, or both, of the foreign country.</summary>
+</bill>

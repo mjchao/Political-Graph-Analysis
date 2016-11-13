@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="1796" updated="2014-03-22T09:51:59-04:00">
+  <state datetime="1987-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-25"/>
+  </status>
+  <introduced datetime="1987-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Fuel Use Act Repeal Bill of 1987</title>
+    <title type="official" as="introduced">A bill to eliminate certain restrictions on the use of natural gas and petroleum, and for other purposes.</title>
+  </titles>
+  <sponsor id="405006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-25" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Electric power production"/>
+    <term name="Energy facilities"/>
+    <term name="Energy policy"/>
+    <term name="Fuel"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/1987--Introduced.
+Fuel Use Act Repeal Bill of 1987 - Title I: Repeal of Certain Restrictions on the Use of Natural Gas and Petroleum - Amends the Powerplant and Industrial Fuel Use Act of 1978 to repeal prohibitions against the use of natural gas or petroleum as a primary energy source in new and existing electric powerplants and major fuel-burning installations. Title II: Separability - Declares that if any part of this Act is invalid, the remainder shall not be affected.</summary>
+</bill>

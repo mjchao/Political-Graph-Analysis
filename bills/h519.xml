@@ -1,0 +1,113 @@
+<bill session="100" type="h" number="519" updated="2014-03-22T09:51:23-04:00">
+  <state datetime="1987-12-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-29"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Federal Energy Regulatory Commission to issue an order with respect to Docket No. EL-85-38-000.</title>
+  </titles>
+  <sponsor id="410251"/>
+  <cosponsors>
+    <cosponsor id="300029" joined="1987-01-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-26">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-06" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-11-04">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-418.</text>
+    </action>
+    <action datetime="1987-11-04">
+      <text>Placed on Union Calendar No: 271.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="421" datetime="1987-11-09" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 393 - 0 (Record Vote No: 421).</text>
+    </vote>
+    <action datetime="1987-11-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1987-11-12" calendar="Senate Legislative" under="General Orders" number="434">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 434.</text>
+    </calendar>
+    <action datetime="1987-12-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-18" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1987-12-18">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-29" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-216" type="public" datetime="1987-12-29">
+      <text>Became Public Law No: 100-216.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="214"/>
+    <bill relation="identical" session="100" type="s" number="214"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Administrative procedure"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Energy"/>
+    <term name="Electric utilities"/>
+    <term name="Energy facilities"/>
+    <term name="Energy policy"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Federal Energy Regulatory Commission"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Government operations and politics"/>
+    <term name="Idaho"/>
+    <term name="Licenses"/>
+    <term name="Native Americans"/>
+    <term name="Public utilities"/>
+    <term name="Wildlife conservation"/>
+    <term name="Wildlife management"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1368"/>
+  </amendments>
+  <summary>12/18/1987--Passed Senate amended.
+(Measure passed Senate, amended) Directs the Federal Energy Regulatory Commission to issue an order that, in proceedings before the Commission taking place during the remaining license terms of certain Idaho Power Company projects, a specified Agreement (Swan Falls Agreement) regarding such projects shall not be considered by the Commission to be: (1) inconsistent with license provisions concerning project property retention; or (2) imprudent for certain purposes of the Federal Power Act. Authorizes the Commission to consider at any time whether the settlement agreement and the licensee are in full compliance with: (1) license provisions relating to fish and wildlife protection; and (2) Federal environmental law. Directs the Commission to accept and adopt as part of its order the Offers of Settlement pending on enactment of this Act between the licensee, the State of Idaho, the Secretary of the Interior, the National Marine Fisheries Service and others. Requires the signatories to the Offers of Settlement (Federal and licensee parties) to enter into a joint agreement to conduct and finance joint studies regarding certain environmental and wildlife resources, and to make such study results public. States that this Act does not grant the Commission any authority to take any action based upon such study results or recommendations. Grants the State of Idaho the option to participate in such study negotiations. Provides for Federal funding of such study costs, and for Federal consultation with Indian tribes affected by the Agreement. Requires the Commission, the Secretary of the Interior, and the Administrator of the National Oceanic and Atmospheric Administration to keep certain congressional committees fully informed of the status of all actions required by this Act.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="4195" updated="2014-03-22T09:53:07-04:00">
+  <state datetime="1988-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-17"/>
+  </status>
+  <introduced datetime="1988-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend part A of title IV of the Social Security Act to deny Federal payment of administrative costs under the AFDC program to States providing for State or local taxation of social security benefits.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors>
+    <cosponsor id="405939" joined="1988-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-17" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-03-18">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Aid to dependent children"/>
+    <term name="Income tax"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local taxation"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Public assistance programs"/>
+    <term name="State taxation"/>
+    <term name="States"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1988--Introduced.
+Amends part A (Aid to Families with Dependent Children) (AFDC) of title IV of the Social Security Act to deny Federal payments for AFDC program administrative costs to States in which State or local taxes are imposed on benefits under title II (Old Age, Survivors and Disability Insurance) of the Act.</summary>
+</bill>

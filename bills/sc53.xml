@@ -1,0 +1,77 @@
+<bill session="100" type="sc" number="53" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-05-12">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-05-12"/>
+  </status>
+  <introduced datetime="1987-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to authorize the reprinting of Senate Report 100-9, 100th Congress, 1st Session.</title>
+  </titles>
+  <sponsor id="407622"/>
+  <cosponsors>
+    <cosponsor id="405321" joined="1987-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-23" state="REFERRED">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+    <calendar datetime="1987-05-07" state="REPORTED">
+      <text>Committee on Rules. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-05-08">
+      <text>Committee on Rules. Reported to Senate by Senator Ford without amendment. With written report No. 100-55.</text>
+    </action>
+    <calendar datetime="1987-05-08" calendar="Senate Legislative" under="General Orders" number="117">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 117.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-05-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-05-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-05-14">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-24">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-30">
+      <text>House Committee on House Administration Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting"/>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional publications"/>
+    <term name="Printing"/>
+    <term name="Senate"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/1987--Introduced.
+Authorizes the reprinting of the report entitled "Developments in Aging" as a Senate document, including additional copies for the use of the Special Committee on Aging.</summary>
+</bill>

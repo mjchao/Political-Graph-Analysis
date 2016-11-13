@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1761" updated="2014-03-22T09:51:58-04:00">
+  <state datetime="1987-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-23"/>
+  </status>
+  <introduced datetime="1987-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Low-Income Elderly and Disabled Medicaid Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to permit States to provide for payment of medicare premiums, deductibles, and cost-sharing for medicare beneficiaries with incomes at or below 150 percent of the poverty level.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors>
+    <cosponsor id="400256" joined="1987-04-06"/>
+    <cosponsor id="400387" joined="1987-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-23" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>See H.R.2470.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Public assistance programs"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/1987--Introduced.
+Low-Income Elderly and Disabled Medicaid Amendments of 1987 - Amends title XIX (Medicaid) of the Social Security Act to authorize States to provide Medicaid coverage of Medicare (title XVIII of the Act) premiums, deductibles, and coinsurance payments for which an individual whose income does not exceed 150 percent of the Federal proverty level would otherwise be accountable. (Currently, States may provide such coverage for individuals whose income does not exceed the Federal poverty level.) Permits States which provide such Medicaid coverage to impose a Medicaid premium on Medicare beneficiaries whose income exceeds the Federal poverty level. Requires that such premium be set at either one-third of the Medicare part B (Supplementary Medical Insurance) premium, or a percentage (not to exceed five percent) of the individual's income which exceeds the Federal proverty level, but never in excess of the value of the Medicaid assistance provided to such individual.</summary>
+</bill>

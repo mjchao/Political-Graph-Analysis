@@ -1,0 +1,65 @@
+<bill session="100" type="s" number="1177" updated="2014-03-22T09:55:15-04:00">
+  <state datetime="1987-05-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-05-22"/>
+  </status>
+  <introduced datetime="1987-05-08"/>
+  <titles>
+    <title type="short" as="introduced">Thrift Savings Fund Investment Act of 1987</title>
+    <title type="short" as="enacted">Thrift Savings Fund Investment Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to provide for procedures for the investment and payment of interest of funds in the Thrift Savings Fund when restrictions on such investments and payments are caused by the statutory public debt limit.</title>
+  </titles>
+  <sponsor id="408939"/>
+  <cosponsors>
+    <cosponsor id="300094" joined="1987-05-08"/>
+  </cosponsors>
+  <actions>
+    <calendar datetime="1987-05-08" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="121">
+      <text>Introduced in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 121.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-05-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-05-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-05-13" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-05-13">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-05-14">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-05-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-05-22" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-43" type="public" datetime="1987-05-22">
+      <text>Became Public Law No: 100-43.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service retirement"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government securities"/>
+    <term name="Government trust funds"/>
+    <term name="Investment of public funds"/>
+    <term name="Public debt"/>
+    <term name="Saving and investment"/>
+    <term name="Securities and Investments"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/1987--Introduced.
+Thrift Savings Fund Investment Act of 1987 - Authorizes the Secretary of the Treasury to suspend the issuance of additional obligations of the United States, for purchase by the Thrift Savings Fund for the Government Securities Investment Fund (Fund), if such issuances could not be made without causing the public debt to exceed the public debt limit. Requires, upon expiration of the debt issuance suspension, the issuance of obligations that bear such interest rates and maturity dates as ensure the replication of obligations that would be held by the Fund if such suspension period had not occurred. Requires the Secretary to pay to the Fund the excess of the net amount of interest that would have been earned during the suspension period. Requires the Executive Director of the Federal Retirement Thrift Investment Board, on each business day during the debt issuance suspension period, to notify the Secretary of the amounts, by maturity, that would have been invested or redeemed each day had the suspension period not occurred. Sets forth reporting requirements for the Secretary regarding the operation and status of the Thrift Savings Fund.</summary>
+</bill>

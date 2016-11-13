@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="5529" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-13"/>
+  </status>
+  <introduced datetime="1988-10-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide that payments for inpatient hospital discharges under part A of such title shall be based upon the diagnosis-related group applicable at the time of admission or a diagnosis-related group determined subsequent to admission, whichever would result in the greater payment.</title>
+  </titles>
+  <sponsor id="409966"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-13" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Case mix (Medical care)"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1988--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to base payments for inpatient hospital discharges under part A (Hospital Insurance) of the Medicare program upon the diagnosis-related group (DRG) into which the patient was placed upon admission or the DRG into which the patient was placed after a subsequent diagnosis, whichever would result in the greater payment.</summary>
+</bill>

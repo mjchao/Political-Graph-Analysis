@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="3643" updated="2014-03-22T09:52:55-04:00">
+  <state datetime="1987-11-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-16"/>
+  </status>
+  <introduced datetime="1987-11-16"/>
+  <titles>
+    <title type="short" as="introduced">Insurance Data Collection Act of 1987</title>
+    <title type="official" as="introduced">A bill to facilitate the availability and affordability of insurance to American manufacturers, businesses, local units of government, and others by providing for the collection and analysis of certain insurance data, and for other purposes.</title>
+  </titles>
+  <sponsor id="410567"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-16" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-12-08">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business and commerce"/>
+    <term name="Business records"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Insurance"/>
+    <term name="Insurance companies"/>
+    <term name="Liability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>11/16/1987--Introduced.
+Insurance Data Collection Act of 1987 - Requires all insurers writing specified categories of liability insurance to submit annual reports to the Secretary of Commerce containing data on premiums, investment income, claims incurred, expenses, and economic losses and gains. Exempts certain small insurance companies from such requirements. Establishes civil penalties for violations of this Act. Requires the Secretary to submit annual reports to the President and to State insurance commissioners analyzing the data reported by the insurance companies.</summary>
+</bill>

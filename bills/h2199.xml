@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="2199" updated="2014-03-22T09:52:17-04:00">
+  <state datetime="1987-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-29"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Agriculture to make a grant to a member of the land grant university system which completed construction of a biomedical research center in May, 1986, and which has an established trust fund for receipt of operating and construction funds, to conduct human nutrition research.</title>
+  </titles>
+  <sponsor id="400012"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-05-01">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-05-01">
+      <text>Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG05" subcommittee="Domestic Marketing, Consumer Relations, and Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural colleges"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Education"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Food and Food Industry"/>
+    <term name="Higher education"/>
+    <term name="Nutrition"/>
+    <term name="Nutrition policy"/>
+    <term name="Research"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1987--Introduced.
+Requires the Secretary of Agriculture to make a grant under the National Agricultural Research, Extension, and Teaching Policy Act of 1977 to a specified member of the land grant university system to conduct human nutrition research. Authorizes appropriations effective October 1, 1987.</summary>
+</bill>

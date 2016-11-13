@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="718" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Mental Illness Non-Discrimination Act</title>
+    <title type="official" as="introduced">A bill to eliminate discrimination with regard to mental illness under Medicare.</title>
+  </titles>
+  <sponsor id="407268"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-04-21"/>
+    <cosponsor id="300056" joined="1987-03-31"/>
+    <cosponsor id="407622" joined="1987-03-11"/>
+    <cosponsor id="400563" joined="1987-05-19"/>
+    <cosponsor id="300084" joined="1987-03-11"/>
+    <cosponsor id="411801" joined="1987-04-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+    <term name="Mental health services"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Medicare Mental Illness Non-Discrimination Act - Amends title XVIII (Medicare) of the Social Security Act to eliminate restrictions with respect to inpatient psychiatric care and the treatment of mental, psychoneurotic, and personality disorders of an individual who is not an inpatient.</summary>
+</bill>

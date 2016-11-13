@@ -1,0 +1,56 @@
+<bill session="100" type="s" number="1994" updated="2014-03-22T09:55:32-04:00">
+  <state datetime="1987-12-21">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-12-21"/>
+  </status>
+  <introduced datetime="1987-12-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prevent fraud and abuse in housing and urban development programs.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="403142" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-12-30">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+    <action datetime="1988-01-04">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Federal aid to housing"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Income"/>
+    <term name="Labor and employment"/>
+    <term name="Public assistance programs"/>
+    <term name="Unemployment insurance"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/1987--Introduced.
+Authorizes the Secretary of Housing and Urban Development to require Department of Housing and Urban Development (HUD) program applicants or participants to: (1) disclose their social security or employer identification numbers; and (2) consent to wage information verification. Amends the Social Security Act to provide HUD with access to State employment records. Requires Federal, State, local, or public housing administering agencies to independently verify such information before terminating or reducing any housing benefits. Establishes criminal and civil penalties for misuse of such information.</summary>
+</bill>

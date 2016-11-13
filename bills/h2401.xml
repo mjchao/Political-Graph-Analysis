@@ -1,0 +1,114 @@
+<bill session="100" type="h" number="2401" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1988-01-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-01-05"/>
+  </status>
+  <introduced datetime="1987-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Renewable Resources Extension Act Amendments of 1987</title>
+    <title type="short" as="reported to house">Renewable Resources Extension Act Amendments of 1987</title>
+    <title type="short" as="passed house">Renewable Resources Extension Act Amendments of 1987</title>
+    <title type="short" as="passed senate">Renewable Resources Extension Act Amendments of 1987</title>
+    <title type="short" as="enacted">Renewable Resources Extension Act Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to extend the authorization of the Renewable Resources Extension Act of 1978, and for other purposes.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="402710" joined="1987-05-20"/>
+    <cosponsor id="405209" joined="1987-05-20"/>
+    <cosponsor id="300057" joined="1987-05-13"/>
+    <cosponsor id="407069" joined="1987-05-13"/>
+    <cosponsor id="407967" joined="1987-05-13"/>
+    <cosponsor id="409651" joined="1987-07-13"/>
+    <cosponsor id="410084" joined="1987-05-20"/>
+    <cosponsor id="411166" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-13" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-07-27">
+      <text>Reported to House (Amended) by House Committee on Agriculture. Report No: 100-239.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Placed on Union Calendar No: 147.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-12-19">
+      <text>Senate Committee on Agriculture discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-12-19">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-19" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-29">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-01-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-231" type="public" datetime="1988-01-05">
+      <text>Became Public Law No: 100-231.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Authorization"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1369"/>
+  </amendments>
+  <summary>12/19/1987--Passed Senate amended.
+(Measure passed Senate, amended) Renewable Resources Extension Act Amendments of 1987 - Amends the Renewable Resources Extension Act of 1978 to extend the authorization of appropriations through FY 2000 at current levels. Requires the Program to include a review and evaluation of activities undertaken in response to the preceding five-year plan on a State-by-State and national basis.</summary>
+</bill>

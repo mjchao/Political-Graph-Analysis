@@ -1,0 +1,60 @@
+<bill session="100" type="hc" number="199" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-10-14">REPORTED</state>
+  <status>
+    <unknown datetime="1987-10-14"/>
+  </status>
+  <introduced datetime="1987-10-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution with regard to Soviet missile firings near Hawaii.</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors>
+    <cosponsor id="300001" joined="1987-10-14"/>
+    <cosponsor id="401526" joined="1987-10-19"/>
+    <cosponsor id="401847" joined="1987-10-14"/>
+    <cosponsor id="409534" joined="1987-10-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-14" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 406 - 0 (Record Vote No: 360).</text>
+    </action>
+    <action datetime="1987-10-21">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hc" number="193"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aircraft"/>
+    <term name="Arms control"/>
+    <term name="Ballistic missiles"/>
+    <term name="Hawaii"/>
+    <term name="Inspection (Arms control)"/>
+    <term name="Nuclear weapons"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/1987--Introduced.
+Expresses the sense of the Congress that the actions of the Soviet Union in testing ballistic missiles near Hawaii and irradiating U.S. monitoring aircraft are provocative, unnecessary, and inconsistent with behavior designed to reduce the risk of nuclear war. Declares that the U.S. Government should officially protest such actions and should seek Soviet assurances that such missile testing near U.S. territory and irradiation of U.S. aircraft will not occur in the future. States that the President should report to the Congress concerning the details of such tests, the Soviet explanations offered, and steps that will be taken to ensure that such activities will not happen in the future.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="5405" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Omnibus Trade and Competitiveness Act of 1988 to repeal certain requirements for the implementation of the metric system of measurements.</title>
+  </titles>
+  <sponsor id="411166"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-27" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Business and commerce"/>
+    <term name="Government and business"/>
+    <term name="Metric system"/>
+    <term name="Science and technology"/>
+    <term name="Weights and measures"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Introduced.
+Amends the Omnibus Trade and Competitiveness Act of 1988 to repeal certain requirements relating to conversion to the metric system.</summary>
+</bill>

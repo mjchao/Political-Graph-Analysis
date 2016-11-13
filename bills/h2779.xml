@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="2779" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-24"/>
+  </status>
+  <introduced datetime="1987-06-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to revise and extend the program of grants for the prevention and control of sexually transmitted diseases.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors>
+    <cosponsor id="409446" joined="1987-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-24" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Clean Bill H.R.4915 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Markup" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4915"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Authorization"/>
+    <term name="Communicable diseases"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to medical research"/>
+    <term name="Health education"/>
+    <term name="Medical research"/>
+    <term name="Sexually transmitted diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/1987--Introduced.
+Revises provisions of the Public Health Service Act relating to grants concerning acquired immune deficiency syndrome and concerning sexually transmitted diseases. Authorizes appropriations for sexually transmitted disease projects and programs for FY 1988 through 1990.</summary>
+</bill>

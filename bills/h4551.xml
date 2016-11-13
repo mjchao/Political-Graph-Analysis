@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="4551" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-10"/>
+  </status>
+  <introduced datetime="1988-05-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to conduct a study of existing Revolutionary War fortifications and to prepare and publish a study of the life and career of Thaddeus Kosciuszko.</title>
+  </titles>
+  <sponsor id="400542"/>
+  <cosponsors>
+    <cosponsor id="404170" joined="1988-10-04"/>
+    <cosponsor id="405448" joined="1988-10-04"/>
+    <cosponsor id="400210" joined="1988-10-04"/>
+    <cosponsor id="400223" joined="1988-10-04"/>
+    <cosponsor id="406473" joined="1988-05-10"/>
+    <cosponsor id="400359" joined="1988-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-10" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="American Revolution"/>
+    <term name="Historic sites"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Introduced.
+Directs the Secretary of the Interior to: (1) conduct and report to the President and specified congressional committees on a study of existing Revolutionary War fortifications; and (2) prepare and publish a study of the life and career of Thaddeus Kosciuszko, a Revolutionary War hero. Authorizes appropriations.</summary>
+</bill>

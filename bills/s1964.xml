@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="1964" updated="2014-03-22T09:55:31-04:00">
+  <state datetime="1987-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-12-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Nebraska Aluminum Castings, Inc., of Hastings, Nebraska.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-01-25">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named Nebraska corporation in full satisfaction of any claim against the United States arising out of the preparation of a proposal in response to a U.S. Army procurement solicitation.</summary>
+</bill>

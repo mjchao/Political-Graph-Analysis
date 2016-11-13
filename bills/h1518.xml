@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="1518" updated="2014-03-22T09:51:52-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the payment of impact aid to certain school districts.</title>
+  </titles>
+  <sponsor id="408976"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Impacted area programs"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Entitles a local educational agency to receive impact aid payments when: (1) the population of the school district is below 22,000; and (2) the United States owns Federal property aggregating 40 percent or more of the total assessed value of the district's real property.</summary>
+</bill>

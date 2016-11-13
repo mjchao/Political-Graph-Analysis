@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="4801" updated="2014-03-22T09:53:25-04:00">
+  <state datetime="1988-06-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-14"/>
+  </status>
+  <introduced datetime="1988-06-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act to provide for the testing of motor vehicles at high altitudes.</title>
+  </titles>
+  <sponsor id="401874"/>
+  <cosponsors>
+    <cosponsor id="409618" joined="1988-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-14" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air pollution control"/>
+    <term name="Motor vehicle pollution control"/>
+    <term name="Standards"/>
+    <term name="Test facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/1988--Introduced.
+Amends the Clean Air Act to require the Administrator of the Environmental Protection Agency to establish, within 180 days of this Act's enactment, at least one high altitude site for testing motor vehicles and engines for conformity with emission and fuel standards.</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="683" updated="2014-03-22T09:51:31-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill pertaining to the requirements for appointing the Librarian of Congress.</title>
+  </titles>
+  <sponsor id="400306"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1987-03-05"/>
+    <cosponsor id="404006" joined="1987-03-05"/>
+    <cosponsor id="405256" joined="1987-04-22"/>
+    <cosponsor id="405775" joined="1987-04-22"/>
+    <cosponsor id="407672" joined="1987-03-05"/>
+    <cosponsor id="400333" joined="1987-04-22"/>
+    <cosponsor id="410145" joined="1987-03-05"/>
+    <cosponsor id="400409" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to Subcommittee on Libraries and Memorials.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSHA09" subcommittee="Libraries and Memorials" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Libraries"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional agencies"/>
+    <term name="Librarians"/>
+    <term name="Library of Congress"/>
+    <term name="Presidential appointments"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Requires that the Librarian of Congress be appointed from among individuals who have specialized training or significant experience in the field of library and information science.</summary>
+</bill>

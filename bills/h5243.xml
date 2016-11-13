@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="5243" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the treatment of a certain project for purposes of the energy tax credit.</title>
+  </titles>
+  <sponsor id="410251"/>
+  <cosponsors>
+    <cosponsor id="402484" joined="1988-08-11"/>
+    <cosponsor id="408407" joined="1988-08-11"/>
+    <cosponsor id="411677" joined="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Dams"/>
+    <term name="Energy"/>
+    <term name="Energy facilities"/>
+    <term name="Energy policy"/>
+    <term name="Energy tax credits"/>
+    <term name="Hydroelectric power"/>
+    <term name="Idaho"/>
+    <term name="Income tax"/>
+    <term name="Investment tax credit"/>
+    <term name="Tax credits"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Extends from December 31, 1988, to December 31, 1990, the 11 percent energy percentage used pursuant to the Internal Revenue Code to determine the investment tax credit with respect to energy property associated with the Island Park Dam hydropower project in Idaho.</summary>
+</bill>

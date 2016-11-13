@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3301" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-17"/>
+  </status>
+  <introduced datetime="1987-09-17"/>
+  <titles>
+    <title type="short" as="introduced">Parent Drug Awareness Act</title>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to require that the labeling of drugs which are derived from materials from a human fetus shall include notice of the source of such materials and the labeling shall be made available to the consumer and the parent or guardian of the consumer.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="400191" joined="1988-02-24"/>
+    <cosponsor id="410574" joined="1988-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-17" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Drugs"/>
+    <term name="Consumer protection"/>
+    <term name="Drug safety and regulation"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Fetus"/>
+    <term name="Labeling"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/1987--Introduced.
+Parent Drug Awareness Act - Amends the Federal Food, Drug, and Cosmetic Act to require that drugs derived from a human fetus be labeled accordingly.</summary>
+</bill>

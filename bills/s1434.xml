@@ -1,0 +1,34 @@
+<bill session="100" type="s" number="1434" updated="2014-03-22T09:55:19-04:00">
+  <state datetime="1987-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-26"/>
+  </status>
+  <introduced datetime="1987-06-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Rolen-Rolen-Roberts International of Knoxville, Tennessee.</title>
+  </titles>
+  <sponsor id="404679"/>
+  <cosponsors>
+    <cosponsor id="409580" joined="1987-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named corporation in full satisfaction of its claims against the United States arising out of its preparation of a proposal in response to a Department of Commerce solicitation, later cancelled, for management services for an exhibition in Beijing, People's Republic of China.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="3684" updated="2014-03-22T09:52:56-04:00">
+  <state datetime="1987-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-02"/>
+  </status>
+  <introduced datetime="1987-12-02"/>
+  <titles>
+    <title type="short" as="introduced">Buy American Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Buy American Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-02" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-12-02">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-04">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1987-12-08">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Buy American"/>
+    <term name="Commercial arbitration"/>
+    <term name="Competition"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Dispute settlement"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government procurement"/>
+    <term name="International competitiveness"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Restrictive trade practices"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/1987--Introduced.
+Buy American Act of 1987 - Amends the Buy American Act to prohibit a Federal agency from awarding a contract for the procurement of goods produced or manufactured in, or a service provided by, a foreign country whose government discriminates in awarding such contracts against U.S. products or services. Provides that such prohibition shall not apply in the case of a country which is a least developed country. Allows the President or the head of a Federal agency to award a contract for the procurement of goods produced or manufactured in, or a service provided by, a foreign country to which such prohibition applies if the President or the head of an agency: (1) determines that such action is necessary in the public interest or to avoid unreasonable cost or the restriction of competition; and (2) notifies the Congress of such determination. Prohibits the denial of the award of a contract when such denial would limit the procurement of goods or would establish preference for the product of a single U.S. manufacturer. Amends the Trade Agreements Act of 1979 to require the President, by no later than December 31, 1988, and annually thereafter, to submit to the Congress a report on compliance with the Agreement on Government Procurement by countries designated as eligible for waiver of discriminatory purchasing requirements under the Act. Requires the President, in such report, to take into account the relative impact of noncompliance with the Agreement on U.S. commerce. Requires that the report include an analysis of the impact on Government procurement costs that may occur as a consequence of any waiver revocations or other actions that may be required under this Act. Directs the President to initiate consultations in accordance with the Agreement's dispute settlement procedures to correct problems with those signatories to the Agreement that are identified as not meeting their obligations. Provides for the revocation of the waiver of discriminatory purchasing requirements for those countries considered not in good standing with the Agreement where a dispute settlement procedure is not concluded within one year. Directs the President to instruct the United States Trade Representative, in conducting renegotiations of the Agreement, to seek improvements in the Agreement that will secure full and open competition in the award of procurement contracts. Requires the President to submit to the Congress a report on actions taken with respect to the annual report and dispute settlement procedures under this Act.</summary>
+</bill>

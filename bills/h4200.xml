@@ -1,0 +1,140 @@
+<bill session="100" type="h" number="4200" updated="2014-03-22T09:53:07-04:00">
+  <state datetime="1988-08-10">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-08-10"/>
+  </status>
+  <introduced datetime="1988-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for fiscal year 1989 for certain maritime programs of the Department of Transportation and the Federal Maritime Commission.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors>
+    <cosponsor id="400844" joined="1988-03-17"/>
+    <cosponsor id="400569" joined="1988-06-02"/>
+    <cosponsor id="401363" joined="1988-05-10"/>
+    <cosponsor id="401383" joined="1988-05-10"/>
+    <cosponsor id="401418" joined="1988-03-17"/>
+    <cosponsor id="401585" joined="1988-05-10"/>
+    <cosponsor id="401612" joined="1988-05-10"/>
+    <cosponsor id="401755" joined="1988-05-10"/>
+    <cosponsor id="300019" joined="1988-05-10"/>
+    <cosponsor id="400548" joined="1988-06-02"/>
+    <cosponsor id="403266" joined="1988-03-17"/>
+    <cosponsor id="403696" joined="1988-06-02"/>
+    <cosponsor id="404190" joined="1988-05-10"/>
+    <cosponsor id="405524" joined="1988-05-10"/>
+    <cosponsor id="405775" joined="1988-06-02"/>
+    <cosponsor id="405855" joined="1988-05-10"/>
+    <cosponsor id="406746" joined="1988-03-17"/>
+    <cosponsor id="400243" joined="1988-06-02"/>
+    <cosponsor id="406974" joined="1988-06-02"/>
+    <cosponsor id="407141" joined="1988-05-10"/>
+    <cosponsor id="407721" joined="1988-06-02"/>
+    <cosponsor id="400302" joined="1988-05-10"/>
+    <cosponsor id="400603" joined="1988-06-02"/>
+    <cosponsor id="409534" joined="1988-06-02"/>
+    <cosponsor id="400359" joined="1988-06-02"/>
+    <cosponsor id="410496" joined="1988-05-10"/>
+    <cosponsor id="410623" joined="1988-05-10"/>
+    <cosponsor id="400440" joined="1988-05-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-17" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-03-18">
+      <text>Executive Comment Requested from DOT, Fed Maritime Comm.</text>
+    </action>
+    <action datetime="1988-03-18">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-04-13">
+      <text>Favorable Executive Comment Received From Fed Maritime Comm.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Unfavorable Executive Comment Received From DOT.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-28">
+      <text>Reported to House by House Committee on Merchant Marine and Fisheries.  Report No: 100-738.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Placed on Union Calendar No: 449.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Rules Committee Resolution H.Res.503 Reported to House.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="503"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Authorization"/>
+    <term name="Business and commerce"/>
+    <term name="Coastwise shipping"/>
+    <term name="Collection of accounts"/>
+    <term name="Consumer credit"/>
+    <term name="Department of Transportation"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Federal Maritime Commission"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Gas in submerged lands"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Inland water transportation"/>
+    <term name="Insurance"/>
+    <term name="Marine education"/>
+    <term name="Marine insurance"/>
+    <term name="Marine transportation"/>
+    <term name="Merchant marine"/>
+    <term name="Merchant ships"/>
+    <term name="Shipbuilding subsidies"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Student aid"/>
+    <term name="Submarine oil well drilling"/>
+  </subjects>
+  <amendments>
+    <amendment number="h861"/>
+  </amendments>
+  <summary>8/10/1988--Passed House amended.
+(Measure passed House, amended) Authorizes appropriations for the Maritime Administration for FY 1989 for: (1) payment of operating-differential subsidy obligations; (2) research and development activities; (3) operations and training activities; and (4) national security support capabilities, including for the National Defense Reserve Fleet and the Ready Reserve Force. Authorizes appropriations for the Federal Maritime Commission for FY 1989. Amends the Merchant Marine Act, 1936 to revise Federal provisions relating to the making of student incentive payments to individuals enrolled in State maritime academies. Excludes, until October 1, 1990, certain classes of vessels intended for offshore oil and gas exploration or development or for operation of inland waterways from coverage under Federal ship mortgage insurance provisions of the Merchant Marine Act, 1936. Directs the Secretary of Transportation to submit to the Congress a feasibility study on providing training ships to the State maritime academies as authorized by provisions of the Merchant Marine Act, 1936. Amends the Intercoastal Shipping Act, 1933 to remove, for ships not carrying passengers, the requirement that terms and conditions of the transportation be framed under glass and posted on board the vessel. Requires the Maritime Administration to disclose to credit reporting agencies debts of more than a specified amount that arise out of loan activities of the Maritime Administration authorized by this Act and that are delinquent more than 90 days.</summary>
+</bill>

@@ -1,0 +1,36 @@
+<bill session="100" type="hc" number="33" updated="2014-03-22T09:54:05-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution calling upon the President to grant asylum to those individuals who asylum in the United States rather than serve in the South African Armed Forces in support of apartheid.</title>
+  </titles>
+  <sponsor id="400306"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Apartheid"/>
+    <term name="Armed forces and national security"/>
+    <term name="International affairs"/>
+    <term name="Right of asylum"/>
+    <term name="South Africa"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Calls upon the President to grant asylum in the United States to individuals who do not want to serve in the armed forces of South Africa because of the policy of apartheid.</summary>
+</bill>

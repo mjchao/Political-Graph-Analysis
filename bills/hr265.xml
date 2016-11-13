@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="265" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-09-17">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-09-17"/>
+  </status>
+  <introduced datetime="1987-09-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H. R. 3030) to provide credit assistance to farmers, to strengthen the Farm Credit System, and for other purposes.</title>
+  </titles>
+  <sponsor id="400527"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-17">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-307.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Placed on House Calendar No: 77.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 304 - 56 (Record Vote No: 322).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="3030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Agriculture and food"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 3030 (agricultural credit).</summary>
+</bill>

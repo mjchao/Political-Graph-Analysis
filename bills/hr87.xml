@@ -1,0 +1,45 @@
+<bill session="100" type="hr" number="87" updated="2014-03-22T09:50:55-04:00">
+  <state datetime="1987-02-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-18"/>
+  </status>
+  <introduced datetime="1987-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing amounts from the contingent fund of the House for expenses of investigations and studies by the Committee on Government Operations in the first session of the One Hundredth Congress.</title>
+  </titles>
+  <sponsor id="401837"/>
+  <cosponsors>
+    <cosponsor id="405646" joined="1987-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-18" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to Subcommittee on Accounts.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>For Further Action See H.Res.108.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSHA01" subcommittee="Accounts" name="House Administration"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hr" number="108"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committee staffing"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/1987--Introduced.
+Authorizes expenditures by the House Committee on Government Operations for the first session of the 100th Congress, including assistance for specialized training for its professional staff.</summary>
+</bill>

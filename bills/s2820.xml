@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="2820" updated="2014-03-22T09:55:55-04:00">
+  <state datetime="1988-09-22">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1988-09-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit a State from imposing an income tax on the pension income of individuals who are not residents or domiciliaries of that State.</title>
+  </titles>
+  <sponsor id="405305"/>
+  <cosponsors>
+    <cosponsor id="300082" joined="1988-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="5276"/>
+    <bill relation="identical" session="100" type="h" number="5276"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employee benefit plans"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Retirement income"/>
+    <term name="Social welfare"/>
+    <term name="State taxation"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/1988--Introduced.
+Amends Federal law to prohibit any State from imposing an income tax on the pension income of any individual who is not a resident or domiciliary of such State.</summary>
+</bill>

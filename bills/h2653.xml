@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="2653" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a foreign currency fluctuation account within the American Battle Monuments Commission.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="410147" joined="1987-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Referred to Subcommittee on Housing and Memorial Affairs.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>For Further Action See H.R.2616.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR04" subcommittee="Housing and Memorial Affairs" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2616"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="American Battle Monuments Commission"/>
+    <term name="Economics and public finance"/>
+    <term name="Foreign exchange"/>
+    <term name="Government trust funds"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Monuments and memorials"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Establishes in the Treasury the Foreign Currency Fluctuations, American Battle Monuments Commission, Account. States that funds from the Account shall be used by the American Battle Monuments Commission to eliminate losses due to fluctuations in currency exchange rates of foreign countries which occur after a budget request for the Commission is submitted to the Congress. Requires any limits applicable to Commission obligations to be adjusted to account for any such foreign currency fluctuations. Authorizes funds originally transferred from the Account to be transferred back to the Account if foreign currency fluctuations permit such action. Allows unobligated balances of funds appropriated to the Commission and provided for a fiscal year to be transferred into the Account within a specified time, to be merged with and available for the same period and purposes as the Account. Directs the Secretary of the Treasury to report to the Congress annually on funds made available under this provision. Authorizes appropriations to the Account.</summary>
+</bill>

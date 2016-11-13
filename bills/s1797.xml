@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="1797" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-20"/>
+  </status>
+  <introduced datetime="1987-10-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that service performed for an elementary or secondary school operated primarily for religious purposes is exempt from the Federal unemployment tax.</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1988-05-09"/>
+    <cosponsor id="300048" joined="1988-09-20"/>
+    <cosponsor id="405212" joined="1988-03-15"/>
+    <cosponsor id="405321" joined="1987-12-04"/>
+    <cosponsor id="300154" joined="1987-12-04"/>
+    <cosponsor id="406183" joined="1988-06-16"/>
+    <cosponsor id="408898" joined="1988-07-26"/>
+    <cosponsor id="410588" joined="1987-12-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4531"/>
+    <bill relation="identical" session="100" type="h" number="4531"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Church schools"/>
+    <term name="Churches"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="Intergovernmental tax relations"/>
+    <term name="Labor and employment"/>
+    <term name="Payments in lieu of taxes"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious education"/>
+    <term name="School personnel"/>
+    <term name="Secondary education"/>
+    <term name="Tax exemption"/>
+    <term name="Teachers"/>
+    <term name="Unemployment insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1987--Introduced.
+Amends the Federal Unemployment Tax Act to exempt from State unemployment tax law coverage (providing for payments in lieu of unemployment fund contributions) any service performed in the employ of a tax-exempt private elementary or secondary school that is operated primarily for religious purposes. Applies this exemption retroactively to services performed after 1977.</summary>
+</bill>

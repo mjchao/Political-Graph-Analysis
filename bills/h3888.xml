@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="3888" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-02-01">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-01"/>
+  </status>
+  <introduced datetime="1988-02-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to deny certain tax benefits in the case of buildings constructed with Japanese services.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors>
+    <cosponsor id="300058" joined="1988-02-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-01" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Architects"/>
+    <term name="Building construction"/>
+    <term name="Business and commerce"/>
+    <term name="Construction industries"/>
+    <term name="Depreciation and amortization"/>
+    <term name="Engineers"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign corporations"/>
+    <term name="Foreign investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government securities"/>
+    <term name="Income tax"/>
+    <term name="Japan"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Securities and Investments"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Tax deductions"/>
+    <term name="Tax-exempt securities"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/1988--Introduced.
+Amends the Internal Revenue Code to disallow a depreciation income tax deduction in connection with a building if one percent or more of its cost is attributable to services performed by Japanese persons (defined as Japanese citizens, instrumentalities, or corporations, or any corporation owned or controlled by at least one such individual or entity). Disallows tax-exempt bond status with respect to any bond issued as part of an issue one percent or more of whose proceeds is used for a facility if services performed by Japanese persons account for one percent or more of the facility's cost.</summary>
+</bill>

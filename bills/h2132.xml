@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2132" updated="2014-03-22T09:52:13-04:00">
+  <state datetime="1987-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-22"/>
+  </status>
+  <introduced datetime="1987-04-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide the death penalty for civilian espionage.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-05-21"/>
+    <cosponsor id="401526" joined="1987-04-30"/>
+    <cosponsor id="400571" joined="1987-05-07"/>
+    <cosponsor id="400055" joined="1987-05-07"/>
+    <cosponsor id="402928" joined="1987-05-21"/>
+    <cosponsor id="403545" joined="1987-05-07"/>
+    <cosponsor id="400143" joined="1987-04-30"/>
+    <cosponsor id="400176" joined="1987-07-15"/>
+    <cosponsor id="406530" joined="1987-04-30"/>
+    <cosponsor id="406863" joined="1987-05-07"/>
+    <cosponsor id="400601" joined="1987-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-22" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Capital punishment"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Criminal procedure"/>
+    <term name="Espionage"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="National security crimes"/>
+    <term name="Sentences (Criminal procedure)"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/1987--Introduced.
+Amends the Federal criminal code to provide the death penalty for civilian espionage that directly concerns specified weaponry or communication systems or information. States that no person may be sentenced to death under this Act unless the jury (or judge if the accused waives a jury) finds (in a separate sentencing proceeding): (1) at least one aggravating factor to exist; and (2) that any extenuating or mitigating circumstances are substantially outweighed by aggravating circumstances. Sets forth the aggravating factors to be considered, including the knowing endangerment of national security.</summary>
+</bill>

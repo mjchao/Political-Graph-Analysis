@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="2250" updated="2014-03-22T09:55:39-04:00">
+  <state datetime="1988-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-31"/>
+  </status>
+  <introduced datetime="1988-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to ensure that Federal lands are managed in a manner that does not impair the exercise of traditional American Indian religion.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="403346" joined="1988-03-31"/>
+    <cosponsor id="300056" joined="1988-03-31"/>
+    <cosponsor id="407268" joined="1988-05-12"/>
+    <cosponsor id="300073" joined="1988-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-31" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Committee on Indian Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Land use"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Religion"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1988--Introduced.
+Prohibits Federal lands that historically have been indispensable to a traditional American Indian religion from being managed in a manner that would seriously impair the exercise of such religion, except in cases involving compelling governmental interests.</summary>
+</bill>

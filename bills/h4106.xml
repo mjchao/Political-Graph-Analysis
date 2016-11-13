@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="4106" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-08"/>
+  </status>
+  <introduced datetime="1988-03-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate Jackson, Perry, and Randolph Counties in Illinois as a single metropolitan statistical area.</title>
+  </titles>
+  <sponsor id="404750"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-08" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-03-11">
+      <text>Executive Comment Requested from OMB, Commerce.</text>
+    </action>
+    <action datetime="1988-03-11">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Census and Statistics"/>
+    <term name="Illinois"/>
+    <term name="Metropolitan areas"/>
+    <term name="Population statistics"/>
+    <term name="Statistics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/1988--Introduced.
+Directs that the Illinois counties of Jackson, Perry, and Randolph be designated a single metropolitan statistical area by the Director of the Office of Management and Budget.</summary>
+</bill>

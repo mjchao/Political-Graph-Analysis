@@ -1,0 +1,56 @@
+<bill session="100" type="sc" number="102" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-03-04">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-03-04"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the sense of the Congress regarding the contributions of John Foster Dulles in international affairs.</title>
+  </titles>
+  <sponsor id="403171"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="1988-03-03"/>
+    <cosponsor id="408597" joined="1988-03-03"/>
+    <cosponsor id="300086" joined="1988-03-03"/>
+  </cosponsors>
+  <actions>
+    <calendar datetime="1988-03-03" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="577">
+      <text>Submitted in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 577.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-14">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Diplomacy"/>
+    <term name="History"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Expresses the sense of the Congress that, on the centennial of the birth of statesman John Foster Dulles, Americans should examine his contributions in international affairs and study history to gain insight to meet challenges similar to those faced by him.</summary>
+</bill>

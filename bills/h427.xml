@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="427" updated="2014-03-22T09:51:21-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for the enforcement of standards relating to the rights of patients in certain medical facilities.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Extended care facilities"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospital patients"/>
+    <term name="Medicare"/>
+    <term name="Nursing homes"/>
+    <term name="Patients' rights"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to require the governing boards of hospitals and skilled nursing facilities having an average duration of stay of more than 30 days to establish written policies guaranteeing specified rights of patients, including: (1) information on services and charges; (2) information on and participation in medical treatment; (3) conditions of transfer or discharge; (4) grievances; (5) management of personal financial affairs; (6) freedom from abuse and restraints; (7) confidentiality of records; and (8) freedom of association. Directs the Secretary of Health and Human Services to establish civil penalties for the violation of such rights. Sets forth provisions concerning the processing and investigation of complaints arising from such violations.</summary>
+</bill>

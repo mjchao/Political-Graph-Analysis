@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="3713" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-08"/>
+  </status>
+  <introduced datetime="1987-12-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to permit the President to regulate or prohibit transactions incident to travel to and from a country with respect to which passports are designated as restricted for travel.</title>
+  </titles>
+  <sponsor id="400025"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-08" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Finance and financial sector"/>
+    <term name="International banking"/>
+    <term name="Right to travel"/>
+    <term name="Visas and passports"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/1987--Introduced.
+Permits the President to regulate or prohibit the following transactions incident to travel to and from a country for which passports are designated as restricted for travel: (1) any transactions ordinarily incident to travel to and from a country, including the importation into that country or the United States of accompanied baggage for personal use only; (2) any transactions ordinarily incident to travel and maintenance within that country, including the payment of living expenses and the acquisition of goods for personal consumptions; and (3) normal banking transactions involving foreign currency drafts, traveler's checks, or other instruments negotiated incident to travel to and from that country.</summary>
+</bill>

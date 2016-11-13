@@ -1,0 +1,38 @@
+<bill session="100" type="sr" number="345" updated="2014-03-22T09:54:37-04:00">
+  <state datetime="1987-12-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-16"/>
+  </status>
+  <introduced datetime="1987-12-16"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate that the Secretary of State should designate a special envoy to negotiate the release of Americans held hostage in Lebanon.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors>
+    <cosponsor id="408597" joined="1987-12-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-16" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="382"/>
+    <bill relation="identical" session="100" type="hr" number="382"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Crime prevention"/>
+    <term name="Diplomats"/>
+    <term name="Hostages"/>
+    <term name="Lebanon"/>
+    <term name="Negotiations"/>
+    <term name="Terrorism"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/1987--Introduced.
+Expresses the sense of the Senate that the Secretary of State should designate a special envoy to negotiate the release of American and all other hostages in Lebanon, and appeals to their captors to free them.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="3158" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Air Travelers' Bill of Rights</title>
+    <title type="official" as="introduced">A bill to make available to consumers certain information on the performance records of air carriers operating in the United States.</title>
+  </titles>
+  <sponsor id="407162"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-09-15"/>
+    <cosponsor id="400140" joined="1987-09-14"/>
+    <cosponsor id="400586" joined="1987-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-08-20">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-08-20">
+      <text>See H.R.3051.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3051"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Air Travelers' Bill of Rights - Directs the Secretary of Transportation to require commercial air carriers engaged in the transportation of passengers in the United States (including foreign air and commuter air carriers) to report to the Secretary on a monthly basis specified information regarding flight delays, cancellations, reroutings, luggage status performance, and "bumped" passengers. Requires the Secretary to make such information available to the public at all public airports in a timely fashion. Directs the Secretary to require that each such air carrier disclose to each passenger at the time of ticket purchase specified information regarding flight cancellations, overbookings, delays, liability for luggage, and to provide a complaints and comments form regarding carrier service. Prohibits any air carrier from cancelling a flight for economic reasons unless reasonable efforts are made to notify each passenger and to make similar service available within a reasonable time. Directs the Secretary to require that air carriers provide passengers with: (1) a written explanation whenever a flight has been delayed by more than three hours; and (2) accommodations for carry-on hanging baggage on each aircraft with seating for 15 or more passengers. Establishes a civil penalty for violations of regulations under this Act.</summary>
+</bill>

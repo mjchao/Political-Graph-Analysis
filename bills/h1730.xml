@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="1730" updated="2014-03-22T09:51:57-04:00">
+  <state datetime="1987-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-19"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the establishment of a Joint Committee on Intelligence.</title>
+  </titles>
+  <sponsor id="400590"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1987-04-27">
+      <text>Referred to Subcommittee on Rules of the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSRU01" subcommittee="Rules of the House" name="House Rules"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Congressional joint committees"/>
+    <term name="House of Representatives"/>
+    <term name="Security classification (Government documents)"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Establishes the Joint Committee on Intelligence. Declares that such committee has exclusive legislative jurisdiction with respect to any intelligence activity of the Federal Government and authorizations for appropriations for specified agencies and intelligence-related activities. Directs the joint committee to classify its information and records and to establish guidelines for their maintenance, use, and availability. Sets forth procedures for the disclosure of such information. Directs the joint committee to establish and carry out rules and procedures necessary to prevent the unauthorized disclosure of information. Makes conforming amendments to the National Security Act of 1947 and the Rules of the House of Representatives, including abolishing the Permanent Select Committee on Intelligence.</summary>
+</bill>

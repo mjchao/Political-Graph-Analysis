@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="2205" updated="2014-03-22T09:52:17-04:00">
+  <state datetime="1987-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-29"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Value Engineering Council Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish the Value Engineering Council.</title>
+  </titles>
+  <sponsor id="400115"/>
+  <cosponsors>
+    <cosponsor id="403203" joined="1987-05-27"/>
+    <cosponsor id="403545" joined="1987-05-27"/>
+    <cosponsor id="406461" joined="1987-06-24"/>
+    <cosponsor id="406530" joined="1987-05-27"/>
+    <cosponsor id="400243" joined="1987-05-27"/>
+    <cosponsor id="406995" joined="1987-05-27"/>
+    <cosponsor id="400595" joined="1987-05-27"/>
+    <cosponsor id="408190" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-04-29">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-04-30">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1987-05-01">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Cost effectiveness"/>
+    <term name="Costs"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Government procurement"/>
+    <term name="Office of Management and Budget"/>
+    <term name="Production engineering"/>
+    <term name="Productivity in government"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Research"/>
+    <term name="Research and development"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1987--Introduced.
+Value Engineering Council Act of 1987 - Defines "value engineering" as any scientific method used to analyze and redesign programs, products, and services to maximize productivity and minimize costs. Establishes the Value Engineering Council in the Office of Management and Budget. Directs the Council to: (1) conduct research to determine programs, products, or services of or acquisitions by executive agencies where cost reduction and increased productivity would result from the application of value engineering, particularly with regard to defense procurement matters; (2) advise executive agencies and private industries concerning the feasibility and cost benefits of value engineering; (3) provide study materials and technical assistance regarding value engineering to educational institutions; and (4) promote the use of incentives to encourage value engineering and the formulation of awards for value engineers who either propose accepted value engineering change proposals or effectively administer value engineering programs. Requires the Council to report annually to the Director of the Office of Management and Budget and the Congress. Terminates the Council three years after it is first established unless the Director renews the Council. Authorizes appropriations for FY 1987.</summary>
+</bill>

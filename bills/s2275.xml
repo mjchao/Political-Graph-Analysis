@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="2275" updated="2014-03-22T09:55:40-04:00">
+  <state datetime="1988-04-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-12"/>
+  </status>
+  <introduced datetime="1988-04-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the payment of Federal benefits to illegal aliens.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors>
+    <cosponsor id="410588" joined="1988-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Subcommittee on Immigration and Refugee Affairs. Hearings held.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Alien labor"/>
+    <term name="Aliens"/>
+    <term name="Illegal aliens"/>
+    <term name="Labor and employment"/>
+    <term name="Public assistance programs"/>
+    <term name="Unemployment insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/1988--Introduced.
+Prohibits the payment of: (1) direct Federal financial or social insurance benefits to illegal aliens; or (2) unemployment benefits to aliens without employment authorization.</summary>
+</bill>

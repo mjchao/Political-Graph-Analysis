@@ -1,0 +1,46 @@
+<bill session="100" type="s" number="443" updated="2016-06-29T08:45:31-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Clayton Act Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Clayton Act regarding damage liability and coverage.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors>
+    <cosponsor id="409923" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-13">
+      <text>Referred to Subcommittee on Antitrust, Monopolies and Business.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Subcommittee on Antitrust, Monopolies and Business. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU01" subcommittee="Antitrust, Monopolies and Business Rights" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Antitrust actions"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Injunctions"/>
+    <term name="Railroads"/>
+    <term name="Railroads and state"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Clayton Act Amendments of 1987 - Amends the Clayton Act to provide that rail common carriers shall not be immune from private suits for damages or injunctive relief under the antitrust laws.</summary>
+</bill>

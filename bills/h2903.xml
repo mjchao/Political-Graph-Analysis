@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="2903" updated="2014-03-22T09:52:33-04:00">
+  <state datetime="1987-07-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-08"/>
+  </status>
+  <introduced datetime="1987-07-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Shelton Anthony Smith.</title>
+  </titles>
+  <sponsor id="400524"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/1987--Introduced.
+Authorizes the classification of a named individual as a child within the meaning of the Immigration and Nationality Act. Directs the Attorney General to adjust that individual's status to that of an alien lawfully admitted for permanent residence.</summary>
+</bill>

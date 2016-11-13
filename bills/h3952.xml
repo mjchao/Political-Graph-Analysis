@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="3952" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-17"/>
+  </status>
+  <introduced datetime="1988-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to increase the amount authorized to be appropriated for construction of the closed basin division of the San Luis Valley project in the State of Colorado.</title>
+  </titles>
+  <sponsor id="300017"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-17" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>For Further Action See H.R.2772.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2772"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Authorization"/>
+    <term name="Colorado"/>
+    <term name="Economics and public finance"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1988--Introduced.
+Amends the Reclamation Project Authorization Act of 1972 to increase the authorization of appropriations for construction and for operation and maintenance of the Closed Basin Division, San Luis Valley Project, Colorado.</summary>
+</bill>

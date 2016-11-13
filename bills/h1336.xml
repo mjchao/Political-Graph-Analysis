@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="1336" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-02"/>
+  </status>
+  <introduced datetime="1987-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to correct the tariff rate inversion on certain iron and steel pipe and tube products.</title>
+  </titles>
+  <sponsor id="409500"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-05-13"/>
+    <cosponsor id="401155" joined="1987-05-13"/>
+    <cosponsor id="400542" joined="1987-05-13"/>
+    <cosponsor id="403190" joined="1988-02-25"/>
+    <cosponsor id="404170" joined="1987-04-01"/>
+    <cosponsor id="404190" joined="1987-05-13"/>
+    <cosponsor id="404477" joined="1987-07-15"/>
+    <cosponsor id="404752" joined="1987-07-15"/>
+    <cosponsor id="405256" joined="1987-07-15"/>
+    <cosponsor id="405887" joined="1987-07-15"/>
+    <cosponsor id="406461" joined="1987-08-07"/>
+    <cosponsor id="400243" joined="1987-04-01"/>
+    <cosponsor id="400286" joined="1987-04-01"/>
+    <cosponsor id="408575" joined="1987-07-15"/>
+    <cosponsor id="408621" joined="1987-07-15"/>
+    <cosponsor id="409219" joined="1987-07-15"/>
+    <cosponsor id="400611" joined="1987-05-13"/>
+    <cosponsor id="400417" joined="1987-08-07"/>
+    <cosponsor id="400428" joined="1987-07-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-02" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-06">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, Interior, ITC, USTR.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Executive Comment Received From Commerce.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Iron and steel industry"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1987--Introduced.
+Amends the Tariff Schedules of the United States to increase the duty on certain alloyed iron and steel pipes. Imposes a duty on non-alloyed iron and steel pipes. Increases the duty on non-alloyed steel pipes that meet certain oil well casing requirements. Increases the duty on certain finished steel conduits.</summary>
+</bill>

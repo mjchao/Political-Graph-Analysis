@@ -1,0 +1,98 @@
+<bill session="100" type="s" number="2752" updated="2014-03-22T09:55:54-04:00">
+  <state datetime="1988-11-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-08"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to declare that certain lands be held in trust for the Quinault Indian Nation, and for other purposes.</title>
+  </titles>
+  <sponsor id="403920"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-10-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="1988-09-29" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-09-30">
+      <text>Committee on Indian Affairs. Reported to Senate by Senator Inouye with an amendment in the nature of a substitute. With written report No. 100-582.</text>
+    </action>
+    <calendar datetime="1988-09-30" calendar="Senate Legislative" under="General Orders" number="1048">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1048.</text>
+    </calendar>
+    <action datetime="1988-10-07">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Rules Committee Resolution H.Res.587 Reported to House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="450" datetime="1988-10-19" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 234 - 130 (Record Vote No: 450).</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-08" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-638" type="public" datetime="1988-11-08">
+      <text>Became Public Law No: 100-638.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="587"/>
+    <bill relation="identical" session="100" type="h" number="5203"/>
+    <bill relation="identical" session="100" type="h" number="5203"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Export controls"/>
+    <term name="Exports"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Forests and forest products"/>
+    <term name="Government trust funds"/>
+    <term name="Indian lands"/>
+    <term name="Lumber trade"/>
+    <term name="National forests"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Right-of-way"/>
+    <term name="Timber sales"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3631"/>
+  </amendments>
+  <summary>10/7/1988--Passed Senate amended.
+(Measure passed Senate, amended) Expands the Quinault Indian Reservation to include specified lands within the Olympic National Forest. Directs the United States to hold those lands in trust for the Quinault Nation. Directs the Secretary of Agriculture to manage those Federal lands within the Olympic National Forest generally depicted on the map entitled "Quinault Special Management Area." Specifies that transfer of receipts to the Quinault Indian Nation from National Forest lands does not create a trust or other fiduciary responsibility on the Secretary beyond that which may currently exist. Grants the Secretary up to ten percent of the gross proceeds from the sale of forest products from lands within the Quinault Special Management Area for preparation and administration of timber sales from such lands. Provides that 45 percent of all monies received during any fiscal year from such lands shall be paid to the State of Washington and 45 percent shall be deposited into an account established by the Secretary of the Interior for the Quinault Indians. Prohibits the Secretary of the Interior from approving the sale for export of unprocessed timber from such lands, unless he determines that such timber is surplus to domestic needs. Requires the Secretary to limit the sale of timber from such lands. Requires timber and forest products from such lands to be administered in the same manner as lands subject to restrictions of the Grays Harbor sustained yield unit administered by the Secretary of Agriculture. Directs the Secretary of the Interior to grant rights-of-way through the lands to assure access to National Forest land. Directs the Secretary of Agriculture to allow rights-of-way through National Forest System lands to provide access to the reservation. Directs the Secretary of the Interior to establish a separate account for timber receipts from the lands. Provides that these funds can be used by the Quinault Nation only for paying costs incurred in preparing and administering timber sales, mitigating adverse environmental impacts from timber harvest activities, reforesting timber lands, and to purchase land that is within reservation boundaries. Provides that the Forest timber receipts of adjacent counties shall not be affected. Continues to recognize any valid rights-of-way, leases, or permits which may exist in the lands. Provides that existing property rights within the exterior boundaries of the reservation shall not be affected.</summary>
+</bill>

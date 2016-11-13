@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="4171" updated="2014-03-22T09:53:06-04:00">
+  <state datetime="1988-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-16"/>
+  </status>
+  <introduced datetime="1988-03-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the deadline for completion of the chemical weapons demilitarization program and to require that destruction of chemical weapons under that program be carried out on the site where such weapons are stored.</title>
+  </titles>
+  <sponsor id="400552"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-16" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Chemical warfare"/>
+    <term name="Defense articles"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/1988--Introduced.
+Amends the Department of Defense Authorization Act, 1986 to extend through FY 1997 the deadline under such Act for the destruction of chemical weapons under the chemical weapons demilitarization program. Extends the date by which notice of a deferral of such deadline must be given to the Congress by the Secretary of Defense. Requires that the destruction of such chemical agents and munitions be carried out on the site where such weapons are stored.</summary>
+</bill>

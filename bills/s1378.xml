@@ -1,0 +1,97 @@
+<bill session="100" type="s" number="1378" updated="2016-06-29T08:45:50-04:00">
+  <state datetime="1988-05-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-05-05"/>
+  </status>
+  <introduced datetime="1987-06-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for setting aside the first Thursday in May as the date on which the National Day of Prayer is celebrated.</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1988-02-23"/>
+    <cosponsor id="401611" joined="1988-04-11"/>
+    <cosponsor id="300023" joined="1988-03-15"/>
+    <cosponsor id="403515" joined="1988-04-11"/>
+    <cosponsor id="403669" joined="1988-04-18"/>
+    <cosponsor id="403962" joined="1988-04-22"/>
+    <cosponsor id="300048" joined="1987-12-02"/>
+    <cosponsor id="405305" joined="1988-02-29"/>
+    <cosponsor id="405310" joined="1987-11-17"/>
+    <cosponsor id="300154" joined="1988-03-24"/>
+    <cosponsor id="300053" joined="1988-03-24"/>
+    <cosponsor id="300070" joined="1988-02-29"/>
+    <cosponsor id="300072" joined="1988-03-02"/>
+    <cosponsor id="408970" joined="1988-03-15"/>
+    <cosponsor id="400565" joined="1988-06-08"/>
+    <cosponsor id="409923" joined="1988-03-24"/>
+    <cosponsor id="300094" joined="1988-03-15"/>
+    <cosponsor id="410588" joined="1988-02-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1988-04-14" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-04-20">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-04-20" calendar="Senate Legislative" under="General Orders" number="617">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 617.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-22" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-27">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-05-02">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-05-02">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-05-02" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-05-02">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-05-03">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-05-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-05-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-307" type="public" datetime="1988-05-05">
+      <text>Became Public Law No: 100-307.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Religion"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/1987--Introduced.
+Amends Federal law to direct the President to set aside and proclaim the first Thursday in May in each year as a National Day of Prayer. (Current law directs the President to set aside and proclaim a suitable day each year, other than a Sunday, for such purpose.)</summary>
+</bill>

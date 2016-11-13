@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="773" updated="2014-03-22T09:51:33-04:00">
+  <state datetime="1987-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-27"/>
+  </status>
+  <introduced datetime="1987-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the Secretary of the Interior from the charging a fee for admission to National Historical Parks, and for other purposes.</title>
+  </titles>
+  <sponsor id="404190"/>
+  <cosponsors>
+    <cosponsor id="402926" joined="1987-01-27"/>
+    <cosponsor id="406473" joined="1987-01-27"/>
+    <cosponsor id="408052" joined="1987-01-27"/>
+    <cosponsor id="409654" joined="1987-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-27" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Fees"/>
+    <term name="Historic sites"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1987--Introduced.
+Prohibits the Secretary of the Interior from charging admission fees at any National Historical Park. Requires the Secretary to report to the Congress on admission fees charged at National Park System units.</summary>
+</bill>

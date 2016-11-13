@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="2657" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Administrator of the Environmental Protection Agency to make grants for providing alternative water supplies to replace contaminated ground water, and for other purposes.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors>
+    <cosponsor id="401526" joined="1987-07-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Grants-in-aid"/>
+    <term name="Groundwater"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Municipal services"/>
+    <term name="Potable water"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Authorizes the Administrator of the Environmental Protection Agency to make grants to provide alternative water supplies on a temporary basis and provide permanent remedies for water supply problems resulting from groundwater contamination. Limits the Federal share to 50 percent. Requires the Administrator to report annually to the Congress on grants made. Authorizes appropriations for FY 1988 through 1990.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1652" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the President to enter into negotiations with foreign governments on the discipline of defense and commercial offsets.</title>
+  </titles>
+  <sponsor id="406284"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Arms sales"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Directs the President to enter into negotiations with appropriate foreign governments for the purposes of disciplining direct and indirect offsets as a condition for the sale of commercial and defense-related goods and services. Specifies that in the conduct of such negotiations the President shall utilize the services of the United States Trade Representative, the Secretary of Commerce, the Secretary of the Treasury, and the Secretary of Defense.</summary>
+</bill>

@@ -1,0 +1,71 @@
+<bill session="100" type="sr" number="167" updated="2014-03-22T09:54:36-04:00">
+  <state datetime="1987-05-19">REPORTED</state>
+  <status>
+    <unknown datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="short" as="introduced">ABM Treaty Interpretation Resolution</title>
+    <title type="short" as="reported to senate">ABM Treaty Interpretation Resolution</title>
+    <title type="official" as="introduced">A resolution concerning constitutional principles pertinent to the making of treaties, and further concerning the interpretation of the Treaty Between the United States of America and the Union of Soviet Socialist Republics on the Limitation of Anti-Ballistic Missile Systems.</title>
+  </titles>
+  <sponsor id="300008"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-04-10"/>
+    <cosponsor id="300009" joined="1987-04-10"/>
+    <cosponsor id="402004" joined="1987-04-10"/>
+    <cosponsor id="402990" joined="1987-03-13"/>
+    <cosponsor id="300031" joined="1987-04-10"/>
+    <cosponsor id="404598" joined="1987-04-10"/>
+    <cosponsor id="300051" joined="1987-04-10"/>
+    <cosponsor id="300059" joined="1987-03-13"/>
+    <cosponsor id="300060" joined="1987-03-13"/>
+    <cosponsor id="300065" joined="1987-04-10"/>
+    <cosponsor id="300066" joined="1987-03-13"/>
+    <cosponsor id="407786" joined="1987-04-10"/>
+    <cosponsor id="400563" joined="1987-05-05"/>
+    <cosponsor id="408597" joined="1987-03-13"/>
+    <cosponsor id="408937" joined="1987-04-10"/>
+    <cosponsor id="409225" joined="1987-04-10"/>
+    <cosponsor id="409562" joined="1987-04-10"/>
+    <cosponsor id="300086" joined="1987-05-05"/>
+    <cosponsor id="409917" joined="1987-03-13"/>
+    <cosponsor id="411801" joined="1987-04-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1987-05-19" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-09-22">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Biden with an amendment. With written report No. 100-164. Additional views filed.</text>
+    </action>
+    <calendar datetime="1987-09-22" calendar="Senate Legislative" under="General Orders" number="321">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 321.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Antimissile missiles"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Defense articles"/>
+    <term name="Law"/>
+    <term name="Nuclear weapons"/>
+    <term name="Treaties"/>
+    <term name="Treaty-making power"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/1987--Reported to Senate amended.
+(Reported to Senate from the Committee on Foreign Relations with amendment, S. Rept. 100-164) ABM Treaty Interpretation Resolution - Declares the policy of the Senate with respect to the Constitution and as it applies in interpreting the Anti-Ballistic Missile (ABM) Treaty between the United States and the Soviet Union. States that the development, testing, or deployment of specified ABM systems is inconsistent with the Treaty and therefore requires an amendment to be agreed to by both countries and approved by the Senate.</summary>
+</bill>

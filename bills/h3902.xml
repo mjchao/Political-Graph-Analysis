@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="3902" updated="2016-06-29T08:43:40-04:00">
+  <state datetime="1988-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-03"/>
+  </status>
+  <introduced datetime="1988-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to specify the burden of proof in certain Federal civil suits relating to conditions in State penal facilities.</title>
+  </titles>
+  <sponsor id="409325"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-03" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-08">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Civil actions and liability"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Correctional institutions"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Evidence (Law)"/>
+    <term name="Government liability"/>
+    <term name="Rights of institutionalized persons"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1988--Introduced.
+States that the burden of proof in Federal civil suits regarding overcrowding in State penal facilities in violation of the eighth amendment shall be by clear and convincing evidence.</summary>
+</bill>

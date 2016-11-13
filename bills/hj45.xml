@@ -1,0 +1,38 @@
+<bill session="100" type="hj" number="45" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States pertaining to prayer.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Education"/>
+    <term name="Prayer in the public schools"/>
+    <term name="Religion"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religion in the public schools"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Constitutional Amendment - Declares that nothing in the Constitution shall be construed to prohibit individual or group prayer in public schools or other public institutions. States that no person shall be required by the United States or by any State to participate in prayer.</summary>
+</bill>

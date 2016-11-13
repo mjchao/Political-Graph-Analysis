@@ -1,0 +1,119 @@
+<bill session="100" type="sj" number="234" updated="2016-06-29T08:45:08-04:00">
+  <state datetime="1988-04-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-04-18"/>
+  </status>
+  <introduced datetime="1987-12-16"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating the week of April 17, 1988, as "Crime Victims Week".</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1988-02-23"/>
+    <cosponsor id="401604" joined="1988-02-23"/>
+    <cosponsor id="401611" joined="1988-01-26"/>
+    <cosponsor id="402004" joined="1988-02-23"/>
+    <cosponsor id="300023" joined="1988-02-23"/>
+    <cosponsor id="403346" joined="1988-02-26"/>
+    <cosponsor id="403483" joined="1988-02-23"/>
+    <cosponsor id="403515" joined="1988-02-23"/>
+    <cosponsor id="403962" joined="1988-02-26"/>
+    <cosponsor id="404277" joined="1988-02-23"/>
+    <cosponsor id="404679" joined="1988-01-26"/>
+    <cosponsor id="300159" joined="1988-02-23"/>
+    <cosponsor id="300048" joined="1988-02-02"/>
+    <cosponsor id="405310" joined="1988-02-02"/>
+    <cosponsor id="300154" joined="1988-02-23"/>
+    <cosponsor id="300053" joined="1988-02-23"/>
+    <cosponsor id="405795" joined="1988-02-23"/>
+    <cosponsor id="406188" joined="1988-02-23"/>
+    <cosponsor id="300070" joined="1988-02-23"/>
+    <cosponsor id="300071" joined="1988-02-23"/>
+    <cosponsor id="407355" joined="1988-01-26"/>
+    <cosponsor id="300072" joined="1988-02-23"/>
+    <cosponsor id="300073" joined="1988-03-24"/>
+    <cosponsor id="407786" joined="1988-02-23"/>
+    <cosponsor id="300079" joined="1988-02-23"/>
+    <cosponsor id="408252" joined="1988-02-23"/>
+    <cosponsor id="408420" joined="1988-03-02"/>
+    <cosponsor id="408939" joined="1988-01-26"/>
+    <cosponsor id="408970" joined="1988-03-15"/>
+    <cosponsor id="409580" joined="1988-01-26"/>
+    <cosponsor id="300089" joined="1988-02-23"/>
+    <cosponsor id="409917" joined="1988-02-23"/>
+    <cosponsor id="409923" joined="1988-02-23"/>
+    <cosponsor id="300092" joined="1988-02-23"/>
+    <cosponsor id="410315" joined="1988-02-23"/>
+    <cosponsor id="410936" joined="1988-02-23"/>
+    <cosponsor id="411421" joined="1988-02-23"/>
+    <cosponsor id="411762" joined="1988-01-26"/>
+    <cosponsor id="411801" joined="1988-02-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1988-02-23" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-02-24">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-02-24" calendar="Senate Legislative" under="General Orders" number="547">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 547.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-02-26" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-03-01">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-03-07">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1988-04-12">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-12">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-04-12" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-04-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-04-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-04-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-04-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-291" type="public" datetime="1988-04-18">
+      <text>Became Public Law No: 100-291.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="420"/>
+    <bill relation="identical" session="100" type="hj" number="420"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Special weeks"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/1987--Introduced.
+Designates the week of April 17, 1988, as Crime Victims Week.</summary>
+</bill>

@@ -1,0 +1,62 @@
+<bill session="100" type="s" number="698" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Syndicated Television Music Copyright Reform Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 17, United States Code, to prohibit the conveyance of the right to perform publicly syndicated television programs without conveying the right to perform accompanying music.</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="300012" joined="1987-04-10"/>
+    <cosponsor id="402004" joined="1987-03-27"/>
+    <cosponsor id="300159" joined="1987-03-27"/>
+    <cosponsor id="405305" joined="1988-03-28"/>
+    <cosponsor id="300154" joined="1987-07-01"/>
+    <cosponsor id="406084" joined="1987-03-10"/>
+    <cosponsor id="407355" joined="1988-03-29"/>
+    <cosponsor id="407622" joined="1988-02-16"/>
+    <cosponsor id="300150" joined="1987-05-20"/>
+    <cosponsor id="300079" joined="1987-03-17"/>
+    <cosponsor id="409923" joined="1987-03-25"/>
+    <cosponsor id="410588" joined="1988-04-11"/>
+    <cosponsor id="300159" joined="1987-03-10" withdrawn="1987-03-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-03-13">
+      <text>Referred to Subcommittee on Patents, Copyrights and Trademarks.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Star Print ordered S. 698.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Subcommittee on Patents, Copyrights and Trademarks. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU06" subcommittee="Patents, Copyrights and Trademarks" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1195"/>
+    <bill relation="identical" session="100" type="h" number="1195"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Copyright"/>
+    <term name="Music"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Television"/>
+    <term name="Television broadcasting"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Syndicated Television Music Copyright Reform Act of 1987 - Amends the copyright law to require that any conveyance of performance rights in an audiovisual work to nonnetwork commercial television include the right to perform in synchronization any accompanying copyrighted music. Entitles the music copyright holder to an interest in any compensation received for the audiovisual work performance rights.</summary>
+</bill>

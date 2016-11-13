@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="2250" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-30"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill directing the Secretary of Defense to prescribe regulations giving the commanding officer of each military installation authority over contracting out for commercial activities performed on the military installation.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Referred to Subcommittee on Readiness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense contracts"/>
+    <term name="Military bases"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Directs the Secretary of Defense to prescribe regulations giving the commanding officer of each military installation the authority to contract out for commercial activities performed on such installation. Outlines the authority given to each such commanding officer to designate, and solicit contracts for, commercial activities.</summary>
+</bill>

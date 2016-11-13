@@ -1,0 +1,40 @@
+<bill session="100" type="sj" number="166" updated="2014-03-22T09:54:22-04:00">
+  <state datetime="1987-06-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-19"/>
+  </status>
+  <introduced datetime="1987-06-19"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States relative to contributions and expenditures intended to affect congressional, Presidential, and State elections.</title>
+  </titles>
+  <sponsor id="300072"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>6/19/1987--Introduced.
+Constitutional Amendment - Declares that the Congress may enact laws regulating the amounts of expenditures a candidate may make from personal funds or the personal funds of the candidate's immediate family or may incur with personal loans. Declares that the Congress may enact laws regulating the amounts of independent expenditures by any person, other than by a political committee of a political party, which can be made to expressly advocate the election or defeat of a clearly identified candidate for Federal office. Declares that the States may enact such laws with respect to State and local offices.</summary>
+</bill>

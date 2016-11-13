@@ -1,0 +1,37 @@
+<bill session="100" type="sj" number="30" updated="2014-03-22T09:54:19-04:00">
+  <state datetime="1987-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-22"/>
+  </status>
+  <introduced datetime="1987-01-22"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to disapprove the proposed pay raise for Members of Congress.</title>
+  </titles>
+  <sponsor id="411762"/>
+  <cosponsors>
+    <cosponsor id="402412" joined="1987-01-29"/>
+    <cosponsor id="300159" joined="1987-01-22"/>
+    <cosponsor id="409923" joined="1987-01-22"/>
+    <cosponsor id="300099" joined="1987-01-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Congressional veto"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/1987--Introduced.
+Disapproves the recommendations of the President relating to pay rates of Members of Congress, as included in the budget transmitted to the Congress for FY 1988.</summary>
+</bill>

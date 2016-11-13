@@ -1,0 +1,45 @@
+<bill session="100" type="hc" number="388" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-10-14">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-10-14"/>
+  </status>
+  <introduced datetime="1988-10-12"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to correct technical errors in the enrollment of the bill H.R. 3757.</title>
+  </titles>
+  <sponsor id="404220"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-12">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-12" state="REFERRED">
+      <text>Received in the Senate and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-14" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Federal employees"/>
+    <term name="House of Representatives"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Introduced.
+Makes technical corrections in the enrollment of H.R. 3757 (Federal Employee Leave Sharing Act of 1988).</summary>
+</bill>

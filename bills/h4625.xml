@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4625" updated="2014-03-22T09:53:21-04:00">
+  <state datetime="1988-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-17"/>
+  </status>
+  <introduced datetime="1988-05-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to issue a fisheries license for the operation of the vessel MV OCEAN CYCLONE.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-17" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-06-01">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1988-06-01">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Executive Comment Received From DOT.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Ships"/>
+  </subjects>
+  <amendments/>
+  <summary>5/17/1988--Introduced.
+Authorizes the Secretary of Transportation to allow, and the Secretary of the department in which the Coast Guard is operating to issue, a fisheries license for the operation of a named vessel.</summary>
+</bill>

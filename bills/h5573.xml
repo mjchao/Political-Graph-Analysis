@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="5573" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1988-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-10-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the President to submit a report to Congress under the War Powers Resolution whenever members of the Armed Forces are paid hostile fire pay in an area declared a hostile fire zone by the Secretary of Defense.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-21" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-11-07">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional-Presidential relations"/>
+    <term name="International affairs"/>
+    <term name="Military pay"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="War"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1988--Introduced.
+Requires the President to submit a report to the Congress under the War Powers Resolution whenever members of the armed forces are paid hostile fire pay in an area declared a hostile zone by the Secretary of Defense.</summary>
+</bill>

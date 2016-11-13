@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="2589" updated="2014-03-22T09:52:24-04:00">
+  <state datetime="1987-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-03"/>
+  </status>
+  <introduced datetime="1987-06-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the creditability of certain service in determining the order of retention for competing employees in a reduction in force affecting the Federal Grain Inspection Service.</title>
+  </titles>
+  <sponsor id="406863"/>
+  <cosponsors>
+    <cosponsor id="401560" joined="1987-06-23"/>
+    <cosponsor id="400397" joined="1988-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-03" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Referred to Subcommittee on Civil Service.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO03" subcommittee="Civil Service" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service employment"/>
+    <term name="Civil service system"/>
+    <term name="Department of Agriculture"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Grain inspection"/>
+    <term name="Layoffs"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/1987--Introduced.
+Provides, with respect to any reduction in force in the Federal Grain Inspection Service, for the creditability of certain inspection services performed by inspection personnel before being hired by the Administrator of such Service without regard to laws governing appointments to the competitive service.</summary>
+</bill>

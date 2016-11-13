@@ -1,0 +1,88 @@
+<bill session="100" type="h" number="2543" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the seizure of any vessel that makes a call on any port in the United States within six months after making a call on any port in Cuba, and for other purposes.</title>
+  </titles>
+  <sponsor id="400055"/>
+  <cosponsors>
+    <cosponsor id="410066" joined="1987-05-28" withdrawn="1987-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Africa.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA08" subcommittee="Africa" name="House Foreign Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2528"/>
+    <bill relation="identical" session="100" type="s" number="1228"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Angola"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Credit"/>
+    <term name="Crime prevention"/>
+    <term name="Cuba"/>
+    <term name="Export controls"/>
+    <term name="Exports"/>
+    <term name="Finance and financial sector"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign loans"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Income tax"/>
+    <term name="Military intervention"/>
+    <term name="Recognition (International law)"/>
+    <term name="Sanctions (International law)"/>
+    <term name="Seizure of vessels and cargoes"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Sugar and sugar trade"/>
+    <term name="Tax exclusion"/>
+    <term name="Taxation of foreign income"/>
+    <term name="Terrorism"/>
+    <term name="Trade negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Prohibits any vessel which has made a call on any port in Cuba to make a call on any port in the United States within six months of that call in Cuba. Makes subject to seizure and forfeiture any vessel which violates such prohibition. Requires the President to withhold from foreign assistance funds allocated to a country an amount equal to the value of Cuban sugar imported by that country. Requires the United States Trade Representative (USTR) to initiate negotiations with U.S. trading partners with regard to the elimination or restriction of trade with all those foreign countries: (1) the governments of which are not recognized by the United States; (2) which do not have diplomatic relations with the United States; or (3) which are terrorist nations. Amends the Internal Revenue Code to provide that income from sources within certain countries shall not be eligible for the tax exclusion allowed for foreign earned income. Specifies such countries as: (1) those with which the United States does not have diplomatic relations; or (2) those which, as determined by the Secretary of State, engage in or support international terrorism. Prohibits imports from Angola and exports to Angola for the benefit of the Popular Movement for the Liberation of Angola. Ends such restrictions if the President makes specified determinations including a determination that all troops from Cuba, the Soviet Union, and any other Communist country have withdrawn from Angola. Directs the President to prescribe regulations requiring the accelerated repayment of all U.S. loans by any country determined to be extending new loans to Cuba on a subsidized basis.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="1850" updated="2014-03-22T09:52:03-04:00">
+  <state datetime="1987-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-30"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish deployment objectives for components of the Strategic Defense Initiative Program.</title>
+  </titles>
+  <sponsor id="402928"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on Research and Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS01" subcommittee="Research and Development" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense articles"/>
+    <term name="Military policy"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space warfare"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1987--Introduced.
+Directs the Secretary of Defense, during FY 1988, to take all necessary action to enable certain systems and components of the Strategic Defense Initiative program to achieve certain specified deployment objectives. Directs the Secretary, no later than February 1 of each year, to make progress reports to the Congress on the deployment of such systems, as well as information on Soviet countermeasures to such system.</summary>
+</bill>

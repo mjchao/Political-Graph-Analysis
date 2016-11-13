@@ -1,0 +1,71 @@
+<bill session="100" type="hj" number="160" updated="2016-06-29T08:44:24-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating the week of April 26, 1987, through May 2, 1987, as "Youth's Commitment to Ending Hunger Week".</title>
+  </titles>
+  <sponsor id="400542"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-03-18"/>
+    <cosponsor id="400975" joined="1987-03-18"/>
+    <cosponsor id="400527" joined="1987-03-18"/>
+    <cosponsor id="401755" joined="1987-04-22"/>
+    <cosponsor id="402114" joined="1987-03-18"/>
+    <cosponsor id="402435" joined="1987-03-18"/>
+    <cosponsor id="402833" joined="1987-04-07"/>
+    <cosponsor id="403031" joined="1987-04-07"/>
+    <cosponsor id="400109" joined="1987-03-04"/>
+    <cosponsor id="300037" joined="1987-03-04"/>
+    <cosponsor id="403689" joined="1987-03-18"/>
+    <cosponsor id="403904" joined="1987-03-18"/>
+    <cosponsor id="404422" joined="1987-04-07"/>
+    <cosponsor id="404750" joined="1987-03-04"/>
+    <cosponsor id="404765" joined="1987-03-04"/>
+    <cosponsor id="405646" joined="1987-03-04"/>
+    <cosponsor id="406473" joined="1987-03-04"/>
+    <cosponsor id="406740" joined="1987-03-04"/>
+    <cosponsor id="400238" joined="1987-03-04"/>
+    <cosponsor id="400240" joined="1987-03-18"/>
+    <cosponsor id="400243" joined="1987-03-18"/>
+    <cosponsor id="400595" joined="1987-04-22"/>
+    <cosponsor id="407432" joined="1987-03-04"/>
+    <cosponsor id="407672" joined="1987-03-18"/>
+    <cosponsor id="407700" joined="1987-03-04"/>
+    <cosponsor id="407960" joined="1987-03-04"/>
+    <cosponsor id="408313" joined="1987-03-18"/>
+    <cosponsor id="408621" joined="1987-03-18"/>
+    <cosponsor id="409325" joined="1987-03-04"/>
+    <cosponsor id="409593" joined="1987-03-18"/>
+    <cosponsor id="400380" joined="1987-04-07"/>
+    <cosponsor id="400409" joined="1987-03-18"/>
+    <cosponsor id="410926" joined="1987-03-04"/>
+    <cosponsor id="411426" joined="1987-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="73"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Food relief"/>
+    <term name="Hunger"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Designates the week of April 26 through May 2, 1987, as Youth's Commitment to Ending Hunger Week.</summary>
+</bill>

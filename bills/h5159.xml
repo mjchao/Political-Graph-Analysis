@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="5159" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-04"/>
+  </status>
+  <introduced datetime="1988-08-04"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Notch Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to provide for an improved benefit computation formula for workers who attain age 65 in or after 1982 and to whom applies the 15-year period of transition to the changes in benefit computation rules enacted in the Social Security Amendments of 1977 (and related beneficiaries) and to provide prospectively for increases in their benefits accordingly.</title>
+  </titles>
+  <sponsor id="400548"/>
+  <cosponsors>
+    <cosponsor id="405724" joined="1988-09-16"/>
+    <cosponsor id="406873" joined="1988-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-04" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>8/4/1988--Introduced.
+Social Security Notch Act of 1988 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to alter the formula for computing the primary insurance amount of individuals who attain age 65 in or after 1982 and are subject to the benefit computation rules of the Social Security Amendments of 1977.</summary>
+</bill>

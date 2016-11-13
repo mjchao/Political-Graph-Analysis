@@ -1,0 +1,68 @@
+<bill session="100" type="hj" number="541" updated="2014-03-22T09:54:01-04:00">
+  <state datetime="1988-05-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-05-06"/>
+  </status>
+  <introduced datetime="1988-04-18"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution commending the State of Israel and its people on the occasion of the fortieth anniversary of the reestablishment of the independent State of Israel.</title>
+  </titles>
+  <sponsor id="404193"/>
+  <cosponsors>
+    <cosponsor id="401847" joined="1988-04-18"/>
+    <cosponsor id="404002" joined="1988-04-18"/>
+    <cosponsor id="400231" joined="1988-04-18"/>
+    <cosponsor id="300069" joined="1988-04-18"/>
+    <cosponsor id="407676" joined="1988-04-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-18" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>House Committee on Foreign Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-04-22" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-04-22">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-04-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-04-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-05-06" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-311" type="public" datetime="1988-05-06">
+      <text>Became Public Law No: 100-311.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Israel"/>
+    <term name="Sovereignty"/>
+  </subjects>
+  <amendments/>
+  <summary>4/18/1988--Introduced.
+Commends Israel and its people on the 40th anniversary of the reestablishment of the independent State of Israel.</summary>
+</bill>

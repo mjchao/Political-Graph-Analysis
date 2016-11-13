@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="2946" updated="2014-03-22T09:52:34-04:00">
+  <state datetime="1987-07-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-15"/>
+  </status>
+  <introduced datetime="1987-07-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVI of the Social Security Act to eliminate the one-third benefit reduction presently applicable to individuals receiving support and maintenance in kind from families with whom they are living.</title>
+  </titles>
+  <sponsor id="401418"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-15" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-07-20">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Public assistance programs"/>
+    <term name="Supplemental security income program"/>
+  </subjects>
+  <amendments/>
+  <summary>7/15/1987--Introduced.
+Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act to eliminate the one-third SSI benefit reduction applicable to individuals receiving support and maintenance in kind from families with whom they reside.</summary>
+</bill>

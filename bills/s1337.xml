@@ -1,0 +1,51 @@
+<bill session="100" type="s" number="1337" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-06-17">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-17"/>
+  </status>
+  <introduced datetime="1987-06-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building and United States Courthouse at 316 North Robert Street, Saint Paul, Minnesota, as the "Warren E. Burger Federal Building and United States Courthouse".</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors>
+    <cosponsor id="410242" joined="1987-06-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="1987-06-17" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-06-30">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1987-06-30" calendar="Senate Legislative" under="General Orders" number="217">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 217.</text>
+    </calendar>
+    <action datetime="1987-07-01">
+      <text>Senate passed companion measure H.R. 436 in lieu of this measure by Voice Vote.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="436"/>
+    <bill relation="identical" session="100" type="h" number="436"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Courthouses"/>
+    <term name="Federal office buildings"/>
+    <term name="Minnesota"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>6/5/1987--Introduced.
+Designates the Federal building and United States Courthouse located on North Robert Street, St. Paul, Minnesota, as the Warren E. Burger Federal Building and United States Courthouse.</summary>
+</bill>

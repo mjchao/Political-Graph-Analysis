@@ -1,0 +1,39 @@
+<bill session="100" type="sj" number="25" updated="2014-03-22T09:54:19-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution relating to Federal budget procedures.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal budgets"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Constitutional Amendment - Requires, before each fiscal year: (1) the President to submit to the Congress a proposed statement of revenues and appropriations for the upcoming fiscal year and measures necessary to assure that appropriations will not exceed revenues; and (2) the Congress to approve such a statement and adopt measures to assure that appropriations do not exceed revenues for that year. Prohibits any bill which causes appropriations to exceed revenues for a fiscal year from becoming law unless passed by two-thirds of the Senate and the House of Representatives. Authorizes the Congress to waive this Article in a national emergency.</summary>
+</bill>

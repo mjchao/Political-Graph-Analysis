@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="1037" updated="2014-03-22T09:51:40-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require that departments and agencies of the United States obtain suitable vessels owned by and available from the Maritime Administration or any other department or agency before acquisition or construction of any new noncombatant vessel.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="401363" joined="1987-07-13"/>
+    <cosponsor id="401383" joined="1987-07-13"/>
+    <cosponsor id="401418" joined="1987-02-05"/>
+    <cosponsor id="400542" joined="1987-07-13"/>
+    <cosponsor id="403266" joined="1987-02-05"/>
+    <cosponsor id="403476" joined="1987-07-13"/>
+    <cosponsor id="405524" joined="1987-07-13"/>
+    <cosponsor id="405775" joined="1987-07-13"/>
+    <cosponsor id="405855" joined="1987-07-13"/>
+    <cosponsor id="400211" joined="1987-07-13"/>
+    <cosponsor id="406746" joined="1987-02-05"/>
+    <cosponsor id="400243" joined="1987-07-13"/>
+    <cosponsor id="407141" joined="1987-07-13"/>
+    <cosponsor id="407721" joined="1987-07-13"/>
+    <cosponsor id="400440" joined="1987-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Executive Comment Requested from DOT, DOD, Treasury, Panama Canal Comm.</text>
+    </action>
+    <action datetime="1987-02-12">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-16">
+      <text>Unfavorable Executive Comment Received From Navy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Transportation"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Marine transportation"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Shipbuilding"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Prohibits any U.S. department or agency from acquiring or constructing a noncombatant vessel until the procuring entity certifies to the General Accounting Office that no suitable vessel is obtainable from the Maritime Administration or any other U.S. department or agency.</summary>
+</bill>

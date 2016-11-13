@@ -1,0 +1,85 @@
+<bill session="100" type="h" number="1073" updated="2014-03-22T09:51:41-04:00">
+  <state datetime="1987-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-10"/>
+  </status>
+  <introduced datetime="1987-02-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit deployment of any system developed under the Strategic Defense Initiative unless the deployment specifically authorized by law.</title>
+  </titles>
+  <sponsor id="405409"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-02-18"/>
+    <cosponsor id="400975" joined="1987-02-18"/>
+    <cosponsor id="400527" joined="1987-03-24"/>
+    <cosponsor id="300011" joined="1987-02-25"/>
+    <cosponsor id="401755" joined="1987-02-18"/>
+    <cosponsor id="400572" joined="1987-03-24"/>
+    <cosponsor id="402114" joined="1987-02-25"/>
+    <cosponsor id="402626" joined="1987-02-25"/>
+    <cosponsor id="402763" joined="1987-02-18"/>
+    <cosponsor id="400100" joined="1987-03-11"/>
+    <cosponsor id="403364" joined="1987-03-04"/>
+    <cosponsor id="300038" joined="1987-05-06"/>
+    <cosponsor id="403689" joined="1987-03-11"/>
+    <cosponsor id="403776" joined="1987-03-11"/>
+    <cosponsor id="404019" joined="1987-06-10"/>
+    <cosponsor id="404190" joined="1987-02-10"/>
+    <cosponsor id="400140" joined="1987-02-18"/>
+    <cosponsor id="404750" joined="1987-02-18"/>
+    <cosponsor id="404752" joined="1987-03-11"/>
+    <cosponsor id="405236" joined="1987-04-22"/>
+    <cosponsor id="400216" joined="1987-03-24"/>
+    <cosponsor id="406461" joined="1987-04-08"/>
+    <cosponsor id="400231" joined="1987-02-25"/>
+    <cosponsor id="406974" joined="1987-04-08"/>
+    <cosponsor id="400595" joined="1987-02-25"/>
+    <cosponsor id="407282" joined="1987-02-10"/>
+    <cosponsor id="407351" joined="1987-02-10"/>
+    <cosponsor id="407772" joined="1987-03-24"/>
+    <cosponsor id="400600" joined="1987-02-18"/>
+    <cosponsor id="407960" joined="1987-03-04"/>
+    <cosponsor id="408023" joined="1987-02-18"/>
+    <cosponsor id="408407" joined="1987-09-30"/>
+    <cosponsor id="408575" joined="1987-03-24"/>
+    <cosponsor id="408618" joined="1987-03-04"/>
+    <cosponsor id="400539" joined="1987-03-24"/>
+    <cosponsor id="409632" joined="1987-02-18"/>
+    <cosponsor id="400378" joined="1987-05-06"/>
+    <cosponsor id="410066" joined="1987-03-11"/>
+    <cosponsor id="410889" joined="1987-03-11"/>
+    <cosponsor id="400409" joined="1987-02-18"/>
+    <cosponsor id="410926" joined="1987-03-24"/>
+    <cosponsor id="411224" joined="1987-03-04"/>
+    <cosponsor id="411834" joined="1987-04-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-10" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Research and Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS01" subcommittee="Research and Development" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense articles"/>
+    <term name="Military policy"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space warfare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/1987--Introduced.
+Prohibits the Secretary of Defense from deploying any system developed under the Strategic Defense Initiative unless such deployment is specifically authorized by law.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="151" updated="2014-03-22T09:51:11-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the District of Columbia Traffic Act, 1925.</title>
+  </titles>
+  <sponsor id="404006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to Subcommittee on Fiscal Affairs and Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSDT01" subcommittee="Fiscal Affairs and Health" name="House District of Columbia"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional officers"/>
+    <term name="Congressional privileges and immunities"/>
+    <term name="District of Columbia"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Parking facilities"/>
+    <term name="Roads and highways"/>
+    <term name="Streets"/>
+    <term name="Traffic regulations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Directs the Mayor of the District of Columbia to issue congressional tags to Members of Congress and certain congressional officers giving such individuals specified parking rights while on official business within the District of Columbia.</summary>
+</bill>

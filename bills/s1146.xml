@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="1146" updated="2014-03-22T09:55:14-04:00">
+  <state datetime="1987-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-06"/>
+  </status>
+  <introduced datetime="1987-05-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to transfer functions of the Temporary Emergency Court of Appeals and to abolish such court.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="403346" joined="1987-05-06"/>
+    <cosponsor id="300048" joined="1987-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Appellate courts"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Courts of special jurisdiction"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/1987--Introduced.
+Abolishes the Temporary Emergency Court of Appeals, effective September 30, 1988. Amends the Economic Stabilization Act of 1970, the Natural Gas Policy Act of 1978, and the Federal judicial code to transfer the functions of such court to the U.S. Court of Appeals for the Federal Circuit.</summary>
+</bill>

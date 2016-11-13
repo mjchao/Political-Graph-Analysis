@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="2924" updated="2014-03-22T09:52:34-04:00">
+  <state datetime="1987-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-13"/>
+  </status>
+  <introduced datetime="1987-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Flight Service Station Operation Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Airport and Airway Improvement Act of 1982 relating to operation of flight service stations.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="1987-10-21"/>
+    <cosponsor id="401418" joined="1987-07-22"/>
+    <cosponsor id="400043" joined="1987-07-29"/>
+    <cosponsor id="403203" joined="1987-09-09"/>
+    <cosponsor id="403696" joined="1987-07-29"/>
+    <cosponsor id="403726" joined="1987-10-21"/>
+    <cosponsor id="404634" joined="1987-07-29"/>
+    <cosponsor id="300069" joined="1987-07-22"/>
+    <cosponsor id="407141" joined="1987-10-21"/>
+    <cosponsor id="407196" joined="1987-07-13"/>
+    <cosponsor id="407838" joined="1987-07-29"/>
+    <cosponsor id="408190" joined="1987-09-09"/>
+    <cosponsor id="408976" joined="1987-07-22"/>
+    <cosponsor id="409325" joined="1987-07-22"/>
+    <cosponsor id="400340" joined="1987-09-09"/>
+    <cosponsor id="410084" joined="1987-07-22"/>
+    <cosponsor id="410097" joined="1987-07-22"/>
+    <cosponsor id="410455" joined="1987-07-13"/>
+    <cosponsor id="400409" joined="1987-07-29"/>
+    <cosponsor id="411065" joined="1987-07-29"/>
+    <cosponsor id="411178" joined="1987-07-29"/>
+    <cosponsor id="400440" joined="1987-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-13" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>See H.R.2310.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2310"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airports"/>
+    <term name="Aviation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/1987--Introduced.
+Flight Service Station Operation Act of 1987 - Amends the Airport and Airway Improvement Act of 1982 to prohibit the Secretary of Transportation from closing or reducing flight service station operation hours unless substitute service will be provided by an automated flight service station with specified equipment. Requires the Secretary to reopen flight service stations that were closed during a specified time period.</summary>
+</bill>

@@ -1,0 +1,100 @@
+<bill session="100" type="s" number="649" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-12-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Reclamation Authorization Act of 1976 (90 Stat. 1324, 1327).</title>
+  </titles>
+  <sponsor id="403920"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Favorable.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Subcommittee on Water and Power. Hearings held.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <calendar datetime="1987-10-01" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="359">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 359.</text>
+    </calendar>
+    <action datetime="1987-10-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1987-12-08">
+      <text>House Committee on Interior and Insular Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-12-08">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-08" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-10">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-196" type="public" datetime="1987-12-18">
+      <text>Became Public Law No: 100-196.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+    <committee activity="Referral, Hearings" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Authorization"/>
+    <term name="Construction costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Irrigation"/>
+    <term name="Washington State"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments>
+    <amendment number="s944"/>
+  </amendments>
+  <summary>10/8/1987--Passed Senate amended.
+(Measure passed Senate, amended) Amends the Reclamation Authorization Act of 1976 to increase authorized appropriations for construction at the Oroville-Tonasket Unit, Washington, irrigation project. Specifies the amount of such increase which may be adjusted, plus or minus, as may be required by reason of changes in the cost of construction work as shown by engineering cost indexes.</summary>
+</bill>

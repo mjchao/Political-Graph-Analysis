@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="1134" updated="2014-03-22T09:51:42-04:00">
+  <state datetime="1987-07-08">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-07-08"/>
+  </status>
+  <introduced datetime="1987-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Whiteworth Incorporated of Gardena, California.</title>
+  </titles>
+  <sponsor id="403695"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-05-18" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-11">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-149.</text>
+    </action>
+    <action datetime="1987-07-08">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-09">
+      <text>Received in the Senate and read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/1987--Introduced.
+Treats as timely filed a claim for a drawback of alcohol taxes by a named corporation.</summary>
+</bill>

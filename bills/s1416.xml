@@ -1,0 +1,55 @@
+<bill session="100" type="s" number="1416" updated="2014-03-22T09:55:18-04:00">
+  <state datetime="1987-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-24"/>
+  </status>
+  <introduced datetime="1987-06-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Lyman-Jones, West River and Oglala Sioux Rural Water Development Projects.</title>
+  </titles>
+  <sponsor id="300031"/>
+  <cosponsors>
+    <cosponsor id="408898" joined="1987-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Subcommittee on Water and Power. Hearings held. Hearings printed: S.Hrg. 100-626.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Committee on Energy and Natural Resources. Ordered favorably reported H.R. 2772 in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2772"/>
+    <bill relation="identical" session="100" type="h" number="2772"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Environmental protection"/>
+    <term name="Indian lands"/>
+    <term name="Native Americans"/>
+    <term name="Rural affairs legislation"/>
+    <term name="South Dakota"/>
+    <term name="Waste water treatment"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/1987--Introduced.
+Authorizes the Secretary of the Interior to direct the planning and construction of a municipal, rural, and industrial water treatment and distribution system in Haakon, Jackson, Jones, Lyman, Mellette, Pennington, and Stanley Counties, South Dakota, as described in engineering reports for the West River Rural Water System and the Lyman-Jones Rural Water System. Authorizes the Secretary to direct planning and construction of a municipal, rural, and industrial water treatment and distribution system for the Oglala Sioux Tribe to meet the economic, public health, and environmental needs of the Pine Ridge Indian Reservation. Refers to such system as the Oglala Sioux Rural Water System. Authorizes appropriations.</summary>
+</bill>

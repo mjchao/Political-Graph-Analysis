@@ -1,0 +1,119 @@
+<bill session="100" type="s" number="1667" updated="2014-03-22T09:55:23-04:00">
+  <state datetime="1987-11-20">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="1987-11-20"/>
+  </status>
+  <introduced datetime="1987-08-12"/>
+  <titles>
+    <title type="short" as="introduced">National Oceanic and Atmospheric Administration Atmospheric and Satellite Program Authorization Act of 1987</title>
+    <title type="official" as="introduced">An original bill to authorize certain atmospheric and satellite programs and functions of the National Oceanic and Atmospheric Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="300053"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1987-07-14" state="REPORTED">
+      <text>Committee on Commerce ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1987-08-12">
+      <text>Committee on Commerce. Original measure reported to Senate by Senator Hollings. With written report No. 100-151.</text>
+    </action>
+    <calendar datetime="1987-08-12" calendar="Senate Legislative" under="General Orders" number="304">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 304.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-09-10" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-09-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-09-15">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-15">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-27">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-406.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Placed on Union Calendar No: 262.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Rules Committee Resolution H.Res.307 Reported to House.</text>
+    </action>
+    <action datetime="1987-11-20">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-11-20">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-11-20">
+      <text>Committee Amendment in the Nature of a Substitute Considered as an Original Bill for the Purpose of Amendment.</text>
+    </action>
+    <action datetime="1987-11-20">
+      <text>House Agreed to Amendments Adopted by the Committee of the Whole.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="446" datetime="1987-11-20" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 341 - 65 (Record Vote No: 446).</text>
+    </vote>
+    <action datetime="1987-11-30">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Origin, Reporting, Markup"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hr" number="307"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Acid precipitation (Meteorology)"/>
+    <term name="Air pollution control"/>
+    <term name="Air quality"/>
+    <term name="Artificial satellites"/>
+    <term name="Astronautics in meteorology"/>
+    <term name="Atmospheric research"/>
+    <term name="Authorization"/>
+    <term name="Climate"/>
+    <term name="Department of Commerce"/>
+    <term name="Earth resources satellites"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Geophysical prediction"/>
+    <term name="Government operations and politics"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Hydrological forecasting"/>
+    <term name="Information services"/>
+    <term name="Meteorological research"/>
+    <term name="Meteorological satellites"/>
+    <term name="Ocean"/>
+    <term name="Oceanographic research"/>
+    <term name="Ozone"/>
+    <term name="Remote sensing"/>
+    <term name="Research and development"/>
+    <term name="Space"/>
+    <term name="Stratosphere"/>
+    <term name="User charges"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Weather and Climate"/>
+    <term name="Weather forecasting"/>
+  </subjects>
+  <amendments>
+    <amendment number="h521"/>
+  </amendments>
+  <summary>11/20/1987--Passed House amended.
+(Measure passed House, amended, roll call #446 (341-65)) Title I: National Weather Service - Authorizes appropriations for FY 1988 and 1989 to the Department of Commerce (DOC) to enable the National Oceanic and Atmospheric Administration (NOAA) to carry out the operations and research duties of the National Weather Service under specified Federal laws. Includes among such duties meteorological, hydrological, and oceanographic public warnings and forecasts, as well as applied research in support of such warnings and forecasts. Authorizes appropriations for FY 1988 and 1989 to the DOC to enable NOAA to carry out its public warning and forecast systems duties under specified Federal laws. Includes among such duties the development, acquisition, and implementation of major public warning and forecast systems. Authorizes the Secretary of Commerce, in procuring information processing and telecommunications services of the NOAA for the Advanced Weather Interactive Processing System, to provide in contracts for such services for the payment of any contingent liability of the Federal Government which may accrue in the event that the Government decides to terminate the contract before the expiration of the contract period. Requires such contracts to limit the payments which the Federal Government is allowed to make to amounts provided in advance in appropriation Acts. Directs the National Weather Service to issue weekly reports describing the acid content in precipitation in the United States. Title II: Weather Services Modernization - Directs the Secretary of Commerce (the Secretary) to prepare and submit to the Congress: (1) within 90 days after the enactment of this Act, a ten-year strategic plan for the comprehensive modernization of the National Weather Service; (2) by the beginning of the fiscal year following the submission of such strategic plan, a National Implementation Plan for Modernization of the National Weather Service; and (3) at the beginning of each successive fiscal year, a revised National Implementation Plan. Prohibits the Secretary from closing, consolidating, automating, or relocating any Weather Service Office or Weather Service Forecast Office unless the Secretary has certified to specified congressional committees that such action will not result in any degradation of weather services provided to the affected area. Directs the Secretary, in reviewing and revising the National Implementation Plan, to consult with other Federal and public agencies responsible for providing or utilizing weather services. Title III: Atmospheric Research - Authorizes appropriations for FY 1988 and 1989 to the DOC to enable NOAA to carry out its climate and air quality research duties under specified Federal laws. Includes among such duties interannual and seasonal climate research, long-term climate and air quality research, and the national climate program. Sets aside a specified portion of such funds for activities under the National Climate Program Act. Amends the National Climate Program Act to require studies on policy options for reducing the impact of human activity on global climate change. Directs the Secretary to submit to the President and specified congressional committees, by January 30, 1990, and every five years thereafter, a climate change report, including specified analyses. Directs the Secretary of Commerce, in consultation with the Secretary of State, the Administrator of the National Aeronautics and Space Administration, and appropriate non-Federal organizations, to submit to specified congressional committees by July 1, 1988, a plan to construct and operate a worldwide system of ground-based remote sensors to monitor the stratospheric levels of chemicals which can affect the level of ozone in the stratosphere and to use these results to improve our understanding of the possible changes in stratospheric ozone due to human activities. Authorizes appropriations for FY 1988 and 1989 to the DOC to enable NOAA to carry out its atmospheric research duties under specified Federal laws. Includes among such duties research for developing improved prediction capabilities for atmospheric processes, as well as solar-terrestrial services and research. Title IV: National Environmental Satellite, Data, and Information Service - Authorizes appropriations for FY 1988 and 1989 to the DOC to enable NOAA to carry out its satellite observing systems duties under specified Federal laws. Includes among such duties spacecraft procurement, launch, and associated ground station system changes involving polar orbiting and geostationary environmental satellites and land remote-sensing satellites, as well as the operation of such satellites. Provides that such funds shall be in addition to moneys authorized under the Land Remote-Sensing Commercialization Act of 1984 for carrying out such duties relating to satellite observing systems. Authorizes appropriations for FY 1988 and 1989 to the DOC to enable NOAA to carry out its data and information services duties under specified Federal laws. Includes among such duties climate data services, ocean data services, geophysical data services, and environmental assessment and information services. Authorizes the Secretary to assess fees, based on fair market value, for access to environmental data archived by the National Environmental Satellite, Data, and Information Service of NOAA. Directs the Secretary to provide such data to Federal, State, and local government agencies, to universities, and to other nonprofit institutions, at the cost of reproduction and transmission, if such data is to be used for research and not for commercial purposes. Directs the Secretary to waive the assessment of such fees as necessary to continue to provide data to foreign governments and international organizations on a data exchange basis or as otherwise provided by international agreement. Directs the Secretary to publish in the Federal Register a schedule of such fees before September 1, 1988, before each subsequent amendment to the schedule, and at least annually thereafter. Sets forth a three-year phase-in period for such fees, beginning October 1, 1988. Provides that such fees shall be available to the National Environmental Satellite, Data, and Information Service for expenses incurred in the operation of its data archive centers. Directs the Secretary to submit to specified congressional committees before July 1, 1988, a report which sets forth the Secretary's plans for: (1) assessing such fees; and (2) using revenues generated by such fees, as well as other resources, to improve the capability of the Service to collect, manage, process, archive, and disseminate the increasing amounts of data generated from satellites, radars, and other technologies. Terminates the Secretary's authority to assess such fees on September 30, 1993.</summary>
+</bill>

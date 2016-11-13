@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="5462" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-13">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-13"/>
+  </status>
+  <introduced datetime="1988-10-05"/>
+  <titles>
+    <title type="short" as="introduced">United States-Mexico Border Region Housing and Community Development Act</title>
+    <title type="official" as="introduced">A bill to provide assistance for housing and community development in the United States-Mexico border region of the United States.</title>
+  </titles>
+  <sponsor id="402750"/>
+  <cosponsors>
+    <cosponsor id="401203" joined="1988-10-12"/>
+    <cosponsor id="404634" joined="1988-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-05" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-17">
+      <text>Received in the Senate and read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4606"/>
+  </relatedbills>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Arizona"/>
+    <term name="Block grants"/>
+    <term name="California"/>
+    <term name="Community development"/>
+    <term name="Depressed areas"/>
+    <term name="Economic development"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to community development"/>
+    <term name="Federal aid to housing"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Low-income housing"/>
+    <term name="New Mexico"/>
+    <term name="Public housing"/>
+    <term name="Regional economic development"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Rural housing"/>
+    <term name="Sewerage"/>
+    <term name="Southwest (U.S.)"/>
+    <term name="Texas"/>
+    <term name="Urban affairs"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Introduced.
+United States-Mexico Border Region Housing and Community Development Act - Directs Arizona, California, New Mexico, and Texas to set aside specified percentages of community development block grant assistance to meet the needs of colonias relating to water, sewage, and housing. Limits assistance use to planning activities (including public information and technical assistance) and assessments for public improvements. Directs the Secretary of Agriculture to provide rural housing assistance to colonias. Defines "colonia" for purposes of this Act as a community that: (1) is in Arizona, California, New Mexico, or Texas; (2) is in the United States-Mexico border region; (3) is State or county-designated as a colonia on the basis of such criteria as inadequate housing, water, and sewage; and (4) was in existence and generally recognized as a colonia before the date of enactment of this Act. Limits the applicability of this Act to FY 1989 through 1991.</summary>
+</bill>

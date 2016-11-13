@@ -1,0 +1,89 @@
+<bill session="100" type="h" number="3344" updated="2014-03-22T09:52:49-04:00">
+  <state datetime="1987-10-15">REPORTED</state>
+  <status>
+    <unknown datetime="1987-10-15"/>
+  </status>
+  <introduced datetime="1987-09-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to effect any reduction in net expenditures for milk price support activities required by the Balanced Budget and Emergency Deficit Control Act of 1985.</title>
+  </titles>
+  <sponsor id="300057"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="1987-09-25"/>
+    <cosponsor id="402710" joined="1987-09-25"/>
+    <cosponsor id="402747" joined="1987-09-25"/>
+    <cosponsor id="400536" joined="1987-10-28"/>
+    <cosponsor id="404869" joined="1987-09-25"/>
+    <cosponsor id="405646" joined="1987-09-25"/>
+    <cosponsor id="400188" joined="1987-09-25"/>
+    <cosponsor id="400205" joined="1987-09-25"/>
+    <cosponsor id="406157" joined="1987-10-14"/>
+    <cosponsor id="406191" joined="1987-09-25"/>
+    <cosponsor id="406799" joined="1987-10-09"/>
+    <cosponsor id="407196" joined="1987-09-25"/>
+    <cosponsor id="407400" joined="1987-09-25"/>
+    <cosponsor id="408097" joined="1987-10-19"/>
+    <cosponsor id="400300" joined="1987-09-25"/>
+    <cosponsor id="408618" joined="1987-09-25"/>
+    <cosponsor id="400318" joined="1987-09-25"/>
+    <cosponsor id="409423" joined="1987-09-25"/>
+    <cosponsor id="409651" joined="1987-09-25"/>
+    <cosponsor id="400365" joined="1987-09-30"/>
+    <cosponsor id="400378" joined="1987-09-25"/>
+    <cosponsor id="300091" joined="1987-09-25"/>
+    <cosponsor id="410261" joined="1987-10-01"/>
+    <cosponsor id="400389" joined="1987-09-25"/>
+    <cosponsor id="410567" joined="1987-09-25"/>
+    <cosponsor id="410641" joined="1987-09-25"/>
+    <cosponsor id="410659" joined="1987-09-25"/>
+    <cosponsor id="410926" joined="1987-10-01"/>
+    <cosponsor id="411405" joined="1987-10-09"/>
+    <cosponsor id="411901" joined="1987-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-25" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Subcommittee on Livestock, Dairy, and Poultry Discharged.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-12-21">
+      <text>Reported to House (Amended) by House Committee on Agriculture. Report No: 100-496.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1746"/>
+    <bill relation="identical" session="100" type="s" number="1746"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Budget deficits"/>
+    <term name="Dairy products"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Government spending reductions"/>
+    <term name="Milk"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/1987--Reported to House amended.
+(Reported to House from the Committee on Agriculture with amendment, H. Rept. 100-496) Amends the Agricultural Act of 1949 to make permanent the Secretary of Agriculture's authority to reduce milk prices. Provides that, notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) and the subsequent sequestration order issued by the President (under such Act), FY 1988 and succeeding fiscal year dairy expenditure reductions shall be implemented through a reduction in the price received by milk producers (through producer assessments) rather than through a reduction in Commodity Credit Corporation payments for dairy product purchases. States that such reductions shall be no greater than needed to equal the reduction in milk support expenditures required by such order.</summary>
+</bill>

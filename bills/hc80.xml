@@ -1,0 +1,36 @@
+<bill session="100" type="hc" number="80" updated="2014-03-22T09:54:07-04:00">
+  <state datetime="1987-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-16"/>
+  </status>
+  <introduced datetime="1987-03-16"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution reaffirming that deposits, up to the statutorily prescribed amount, in federally insured depository institutions are backed by the full faith and credit of the United States.</title>
+  </titles>
+  <sponsor id="408490"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-16" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA07" subcommittee="Financial Institutions Supervision, Regulation and Insurance" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sc" number="28"/>
+    <bill relation="identical" session="100" type="sc" number="28"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank deposits"/>
+    <term name="Deposit insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/1987--Introduced.
+Reaffirms that deposits in federally insured depository institutions, up to the statutorily prescribed amount, are backed by the full faith and credit of the United States.</summary>
+</bill>

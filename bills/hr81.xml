@@ -1,0 +1,44 @@
+<bill session="100" type="hr" number="81" updated="2014-03-22T09:50:55-04:00">
+  <state datetime="1987-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to express the sense of the House of Representatives that the leaders of the Soviet Union should permit the emigration of Jews and other individuals wishing to emigrate from the Soviet Union, should remove restrictions in the Soviet Union on the practice of religion and the observation of cultural traditions, should remove restrictions surrounding individuals who undertake scientific and intellectual endeavors, and should stop the official harassment of individuals who wish to emigrate, practice their religion, or observe their cultural traditions.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-11" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1777"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Emigration"/>
+    <term name="Human rights"/>
+    <term name="Jews"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religion in communist countries"/>
+    <term name="Religious liberty"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1987--Introduced.
+Expresses the sense of the House of Representatives that the Soviet leaders should: (1) permit the emigration of Jews and others who wish to emigrate from the Soviet Union; (2) remove restrictions on the practice of religion, the observation of cultural traditions, and the pursuit of scientific and intellectual endeavors; and (3) stop the harassment of individuals who wish to emigrate, practice their religion, observe their cultural traditions, or engage in intellectual pursuits.</summary>
+</bill>

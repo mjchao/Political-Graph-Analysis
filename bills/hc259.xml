@@ -1,0 +1,61 @@
+<bill session="100" type="hc" number="259" updated="2014-03-22T09:54:12-04:00">
+  <state datetime="1988-03-08">REPORTED</state>
+  <status>
+    <unknown datetime="1988-03-08"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution marking the fourth anniversary of the closing of ABC Color, the only independent newspaper of Paraguay; condemning the refusal of the Government of Paraguay to permit the reopening of ABC Color; and urging the Government of Paraguay to guarantee freedom of the press.</title>
+  </titles>
+  <sponsor id="403031"/>
+  <cosponsors>
+    <cosponsor id="401585" joined="1988-03-03"/>
+    <cosponsor id="300033" joined="1988-03-03"/>
+    <cosponsor id="403545" joined="1988-03-03"/>
+    <cosponsor id="404376" joined="1988-03-03"/>
+    <cosponsor id="400585" joined="1988-03-03"/>
+    <cosponsor id="400192" joined="1988-03-03"/>
+    <cosponsor id="406473" joined="1988-03-03"/>
+    <cosponsor id="406530" joined="1988-03-03"/>
+    <cosponsor id="400562" joined="1988-03-03"/>
+    <cosponsor id="410145" joined="1988-03-03"/>
+    <cosponsor id="410496" joined="1988-03-03"/>
+    <cosponsor id="411426" joined="1988-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-03" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-03-08" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-03-09">
+      <text>Called up by House by Special Order.</text>
+    </action>
+    <action datetime="1988-03-09">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Freedom of the press"/>
+    <term name="Human rights"/>
+    <term name="Newspapers"/>
+    <term name="Newspapers and Periodicals"/>
+    <term name="Paraguay"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Condemns the continued refusal of the Government of Paraguay to permit the reopening of ABC Color and urges that Government to allow ABC Color to reopen, to guarantee freedom of the press, and to allow the Paraguayan people to exercise their rights under the Paraguayan Constitution.</summary>
+</bill>

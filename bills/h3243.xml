@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="3243" updated="2014-03-22T09:52:47-04:00">
+  <state datetime="1987-09-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-09"/>
+  </status>
+  <introduced datetime="1987-09-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for assistance to the Nicaraguan democratic resistance.</title>
+  </titles>
+  <sponsor id="406255"/>
+  <cosponsors>
+    <cosponsor id="410574" joined="1987-09-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-09" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Authorization"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Economics and public finance"/>
+    <term name="Human rights"/>
+    <term name="Insurgency"/>
+    <term name="Nicaragua"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/1987--Introduced.
+Authorizes appropriations for military assistance to the Nicaraguan democratic resistance for the period ending March 31, 1989. Prohibits the obligation or expenditure of such funds if, on or before September 30, 1987, the President has certified to the Congress that: (1) there are no Soviet, Cuban, or communist bloc bases in Nicaragua that pose a threat to the United States and the other democratic governments in the hemisphere; (2) Nicaragua poses no military threat to its neighbors and does not provide a staging ground for subversion or destabilization of duly elected governments in the hemisphere; and (3) the Nicaraguan Government respects the basic human rights of its people.</summary>
+</bill>

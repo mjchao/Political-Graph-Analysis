@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4779" updated="2014-03-22T09:53:24-04:00">
+  <state datetime="1988-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-09"/>
+  </status>
+  <introduced datetime="1988-06-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to treat parsonage allowances as compensation for purposes of the limitations on benefits payable under defined benefit plans.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-09" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Clergy"/>
+    <term name="Employee benefit plans"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing finance"/>
+    <term name="Housing subsidies"/>
+    <term name="Income"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Pension funds"/>
+    <term name="Religion and Clergy"/>
+    <term name="Tax-deferred compensation plans"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/1988--Introduced.
+Amends the Internal Revenue Code to include parsonage allowances as compensation for purposes of the limitation on benefits payable under defined benefit plans.</summary>
+</bill>

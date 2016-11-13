@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3043" updated="2014-03-22T09:52:42-04:00">
+  <state datetime="1987-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-29"/>
+  </status>
+  <introduced datetime="1987-07-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Army Corps of Engineers to make necessary repairs to the Riverdale School in Riverdale, North Dakota.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-29" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-08-10">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Executive Comment Requested from Army, OMB.</text>
+    </action>
+    <action datetime="1988-05-09">
+      <text>Unfavorable Executive Comment Received From Army.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Educational facilities"/>
+    <term name="Maintenance and repair"/>
+    <term name="North Dakota"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Introduced.
+Directs the Secretary of the Army, acting through the Chief of Engineers, to make necessary repairs to the Riverdale School in Riverdale, North Dakota, to repair damage resulting from the failure of the Corps of Engineers to properly maintain the school during the time when the Corps was responsible for the school's operation and maintenance.</summary>
+</bill>

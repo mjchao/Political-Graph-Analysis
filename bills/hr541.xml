@@ -1,0 +1,44 @@
+<bill session="100" type="hr" number="541" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-09-22">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1988-09-22"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for upgrading of three positions on the Capitol Police for duty under the House of Representatives.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-22" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Referred to Subcommittee on Personnel and Police.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral"/>
+    <committee activity="Referral" code="HSHA05" subcommittee="Personnel and Police" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional employees"/>
+    <term name="Crime and law enforcement"/>
+    <term name="House of Representatives"/>
+    <term name="Law enforcement officers"/>
+    <term name="Police"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/1988--Introduced.
+Establishes one additional position of captain, one additional position of lieutenant, and one additional position of sergeant on the Capitol Police, each for duty under the House of Representatives. Abolishes three positions of private on the Capitol Police for duty under the House of Representatives.</summary>
+</bill>

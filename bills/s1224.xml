@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="1224" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for three years duty free treatment of certain power-driven weaving machines and parts thereof.</title>
+  </titles>
+  <sponsor id="406190"/>
+  <cosponsors>
+    <cosponsor id="402495" joined="1987-06-03"/>
+    <cosponsor id="404598" joined="1987-06-16"/>
+    <cosponsor id="300154" joined="1987-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2483"/>
+    <bill relation="identical" session="100" type="h" number="2483"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Machinery"/>
+    <term name="Tariff"/>
+    <term name="Textile industry and fabrics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1987--Introduced.
+Amends the Tariff Schedules of the United States to suspend the duty on power-driven weaving machines for weaving fabrics more than 16 feet in width, and their parts, through December 31, 1990.</summary>
+</bill>

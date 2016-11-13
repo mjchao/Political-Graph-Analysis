@@ -1,0 +1,88 @@
+<bill session="100" type="h" number="2756" updated="2014-03-22T09:52:29-04:00">
+  <state datetime="1988-11-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-05"/>
+  </status>
+  <introduced datetime="1987-06-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Middle Atlantic Interstate Forest Fire Protection Compact to include the State of Ohio.</title>
+  </titles>
+  <sponsor id="400539"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-23" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-05" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-05-10">
+      <text>Reported to House (Amended) by House Committee on Agriculture. Report No: 100-613.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Placed on Union Calendar No: 365.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="119" datetime="1988-05-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 417 - 0 (Record Vote No: 119).</text>
+    </vote>
+    <action datetime="1988-05-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-609" type="public" datetime="1988-11-05">
+      <text>Became Public Law No: 100-609.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Fires"/>
+    <term name="Fire prevention"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Forest fires"/>
+    <term name="Forests and forest products"/>
+    <term name="Interstate compacts"/>
+    <term name="Middle Atlantic States"/>
+    <term name="Ohio"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Passed House amended.
+(Measure passed House, amended, roll call #119 (417-0)) Amends the Middle Atlantic Interstate Forest Fire Protection Compact to grant the consent of the Congress to the inclusion of Ohio in such Compact.</summary>
+</bill>

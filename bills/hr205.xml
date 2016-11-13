@@ -1,0 +1,58 @@
+<bill session="100" type="hr" number="205" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-18"/>
+  </status>
+  <introduced datetime="1987-06-18"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing that the Secretary of State should recommend the continued extension of voluntary departure status for nationals of Poland in the United States, and the Attorney General should continue such extension.</title>
+  </titles>
+  <sponsor id="405409"/>
+  <cosponsors>
+    <cosponsor id="400110" joined="1987-06-18"/>
+    <cosponsor id="403696" joined="1987-06-18"/>
+    <cosponsor id="404190" joined="1987-06-18"/>
+    <cosponsor id="404220" joined="1987-06-18"/>
+    <cosponsor id="404477" joined="1987-06-18"/>
+    <cosponsor id="400210" joined="1987-06-18"/>
+    <cosponsor id="400211" joined="1987-06-18"/>
+    <cosponsor id="406277" joined="1987-06-18"/>
+    <cosponsor id="400216" joined="1987-06-18"/>
+    <cosponsor id="406461" joined="1987-06-18"/>
+    <cosponsor id="400243" joined="1987-06-18"/>
+    <cosponsor id="406974" joined="1987-06-18"/>
+    <cosponsor id="407673" joined="1987-06-18"/>
+    <cosponsor id="408313" joined="1987-06-18"/>
+    <cosponsor id="400302" joined="1987-06-18"/>
+    <cosponsor id="409205" joined="1987-06-18"/>
+    <cosponsor id="409353" joined="1987-07-20"/>
+    <cosponsor id="409500" joined="1987-06-18"/>
+    <cosponsor id="300156" joined="1987-08-05"/>
+    <cosponsor id="410926" joined="1987-06-18"/>
+    <cosponsor id="411834" joined="1987-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Deportation"/>
+    <term name="International affairs"/>
+    <term name="Poland"/>
+    <term name="Refugees"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/1987--Introduced.
+Declares that the Secretary of State should recommend the continued extension of voluntary departure status for nationals of Poland in the United States, and the Attorney General should continue to extend such status for nationals of Poland.</summary>
+</bill>

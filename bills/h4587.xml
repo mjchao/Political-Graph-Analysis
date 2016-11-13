@@ -1,0 +1,232 @@
+<bill session="100" type="h" number="4587" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-10-01">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-01"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Legislative Branch Appropriations Act, 1989</title>
+    <title type="short" as="introduced" partial="1">Congressional Operations Appropriations Act, 1989</title>
+    <title type="short" as="passed house">Legislative Branch Appropriations Act, 1989</title>
+    <title type="short" as="passed house" partial="1">Congressional Operations Appropriations Act, 1989</title>
+    <title type="short" as="reported to senate">Legislative Branch Appropriations Act, 1989</title>
+    <title type="short" as="reported to senate" partial="1">Congressional Operations Appropriations Act, 1989</title>
+    <title type="short" as="passed senate">Legislative Branch Appropriations Act, 1989</title>
+    <title type="short" as="passed senate" partial="1">Congressional Operations Appropriations Act, 1989</title>
+    <title type="short" as="passed senate" partial="1">John C. Stennis Center for Public Service Training and Development Act</title>
+    <title type="short" as="enacted">Legislative Branch Appropriations Act, 1989</title>
+    <title type="short" as="enacted" partial="1">Congressional Operations Appropriations Act, 1989</title>
+    <title type="short" as="enacted" partial="1">John C. Stennis Center for Public Service Training and Development Act</title>
+    <title type="official" as="introduced">A bill making appropriations for the Legislative Branch for the fiscal year ending September 30, 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="404013"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Referred to Subcommittee on Legislative.</text>
+    </action>
+    <action datetime="1988-03-09">
+      <text>First Day of Subcommittee Hearings.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Final Day of Subcommittee Hearings.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>First Day of Subcommittee Mark-up.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Final Day of Subcommittee Mark-up.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-12" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-05-12">
+      <text>Reported to House by House Committee on Appropriations.  Report No: 100-621.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Placed on Union Calendar No: 369.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="148" datetime="1988-05-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 277 - 104 (Record Vote No: 148).</text>
+    </vote>
+    <action datetime="1988-05-24">
+      <text>Received in the Senate and read twice and referred to the Committee on Appropriations.</text>
+    </action>
+    <calendar datetime="1988-06-09">
+      <text>Committee on Appropriations. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-06-09">
+      <text>Committee on Appropriations. Reported to Senate by Senator Bumpers with amendments. With written report No. 100-382.</text>
+    </action>
+    <calendar datetime="1988-06-09" calendar="Senate Legislative" under="General Orders" number="727">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 727.</text>
+    </calendar>
+    <action datetime="1988-06-14">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 89-8. Record Vote No: 177.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Measure laid before Senate by motion.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="178" datetime="1988-06-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 78-18. Record Vote No: 178.</text>
+    </vote>
+    <action datetime="1988-06-14">
+      <text>Senate insists on its amendments, asks for a conference, appoints conferees Bumpers; Mikulski; Reid; Stennis; Grassley; Hatfield; Stevens.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>House Disagreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>House Agreed to Request for Conference and Speaker Appointed Conferees: Fazio, Obey, Alexander, Murtha, Traxler, Boggs, Whitten, Lewis (CA), Conte, Myers (IN), Porter.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Committee on Rules Granted a Rule Waiving All Points of Order Against Consideration of the Conference Report.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Conferees agreed to file conference report.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Rules Committee Resolution H.Res.552 Reported to House.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Conference Report 100-1000 Filed in House.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>House Agreed to Conference Report by Yea-Nay Vote: 253 - 133 (Record Vote No: 365).</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Conference papers: message on House action held at the desk in Senate.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Conference report considered in Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="conference" datetime="1988-09-30" where="s" result="pass" state="CONFERENCE:PASSED:SENATE">
+      <text>Senate agreed to conference report by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-01">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-01" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-458" type="public" datetime="1988-10-01">
+      <text>Became Public Law No: 100-458.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAP08" subcommittee="Legislative" name="House Appropriations"/>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="552"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Automobiles"/>
+    <term name="Barber and beauty shops"/>
+    <term name="Bioethics"/>
+    <term name="Botanical gardens"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Civil service employment"/>
+    <term name="Civil service retirement"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Congressional employees"/>
+    <term name="Congressional information resources"/>
+    <term name="Congressional joint committees"/>
+    <term name="Congressional leadership"/>
+    <term name="Congressional office buildings"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="District of Columbia"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and employment"/>
+    <term name="Educational facilities"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Fire prevention"/>
+    <term name="Flexible work hours"/>
+    <term name="Food relief"/>
+    <term name="Four-day week"/>
+    <term name="Franking privilege"/>
+    <term name="Government consultants"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Government publications"/>
+    <term name="Government trust funds"/>
+    <term name="House of Representatives"/>
+    <term name="Land transfers"/>
+    <term name="Leave of absence"/>
+    <term name="Libraries"/>
+    <term name="Library of Congress"/>
+    <term name="Maintenance and repair"/>
+    <term name="Members of Congress"/>
+    <term name="Mississippi"/>
+    <term name="Narcotic traffic"/>
+    <term name="Police"/>
+    <term name="Presidential inaugurations"/>
+    <term name="Presidential transitions"/>
+    <term name="Printing"/>
+    <term name="Public assistance programs"/>
+    <term name="Public service employment"/>
+    <term name="Restaurants"/>
+    <term name="Revolving funds"/>
+    <term name="Salaries"/>
+    <term name="Science, technology, communications"/>
+    <term name="Security measures"/>
+    <term name="Senate"/>
+    <term name="Senate leadership"/>
+    <term name="Sick leave"/>
+    <term name="Telephone"/>
+    <term name="Travel costs"/>
+    <term name="Widows"/>
+  </subjects>
+  <amendments>
+    <amendment number="h695"/>
+    <amendment number="h696"/>
+    <amendment number="h697"/>
+    <amendment number="h698"/>
+    <amendment number="h699"/>
+    <amendment number="h700"/>
+    <amendment number="h701"/>
+    <amendment number="h702"/>
+    <amendment number="h703"/>
+    <amendment number="h704"/>
+    <amendment number="h705"/>
+    <amendment number="h707"/>
+    <amendment number="h708"/>
+    <amendment number="s2350"/>
+    <amendment number="s2351"/>
+    <amendment number="s2352"/>
+  </amendments>
+  <summary>9/28/1988--Conference report filed in House.
+(Conference report filed in House, H. Rept. 100-1000) Legislative Branch Appropriations Act, 1989 - Title I: Congressional Operations - Congressional Operations Appropriations Act, 1989 - Subtitle A: Congressional Operations - Appropriates funds for FY 1989 for the operations of the Senate for the following: (1) mileage of the Vice President and Senators; (2) expense allowances for Senate leadership offices; (3) salaries and expenses for officers and employees; (4) miscellaneous items; and (5) expenses of the United States Senate Caucus on International Narcotics Control. Authorizes the Chairman of the Majority or Minority Conference Committee of the Senate to transfer funds from the appropriation account for salaries for the Conference of the Majority and Conference of the Minority to the account within the contingent fund of the Senate for expenses of the Conferences. Authorizes the Conferences to use appropriated funds for the specialized training of professional staff. Authorizes the Secretary of the Senate and the Sergeant at Arms and Doorkeeper of the Senate to transfer funds from their appropriation accounts to their accounts for salaries with the approval of the Committee on Appropriations. Amends the Supplemental Appropriations Act, 1977 to authorize the President pro tempore to employ not more than two individual consultants. Authorizes the Senate Committee on Rules and Administration to provide for the distribution of unused food from the Senate cafeterias to the needy of the District of Columbia through an appropriate private distribution organization. Amends the Second Supplemental Appropriations Act, 1976 to increase the amount of official travel expenses which the Sergeant at Arms and Doorkeeper of the Senate may incur. Increases the amount the Sergeant at Arms and Doorkeeper of the Senate may expend for individual consultants and department or agency personnel. Amends the Supplemental Appropriations Act, 1973 to remove limitations on the payment of official expenses of the Senators after October 1, 1988. Amends the Supplemental Appropriations Act, 1977 to authorize the Minority Leader of the Senate to appoint and fix the compensation of not more than four individual consultants, on a temporary or intermittent basis. Authorizes the Sergeant at Arms and Doorkeeper of the Senate to employ and fix the compensation of any employees necessary to operate the Senate Beauty Shop. Amends the Legislative Branch Appropriations Act, 1977 to redesignate the Senate Barber Shops Revolving Fund as the Senate Barber and Beauty Shops Revolving Fund. Establishes retirement provisions for certain employees of the Senate Building Beauty Shop. Requires the Sergeant at Arms and Doorkeepr of the Senate to keep specified funds available until September 30, 1989. Prohibits the use of funds under the Act for the maintenance or care of private vehicles, except for emergency assistance and cleaning as may be provided under regulations relating to parking facilities issued by the Senate Committee on Rules and Administration. Amends the Supplemental Appropriations Act, 1973 to allow payment to Senators for any excess costs of franked mail upon certification by the Sergeant at Arms and subject to regulations as may be promulgated by the Committee on Rules and Administration. Appropriates funds for FY 1989 for the operations of the House of Representatives for the following: (1) mileage of Members; (2) House leadership offices; (3) Members' clerk hire; (4) committee employees; (5) studies by the Committee on the Budget; (6) contingent expenses of the House, including salaries and expenses of standing, special, and select committees; (7) studies and investigations of the Committee on Appropriations; and (8) salaries and expenses of Members, officers, and employees. Allows the transfer of amounts among specified House accounts upon the approval of the Committee on Appropriations. Provides for transferring a specified amount as a joint item for the Capitol Police Board from the Clerk of the House to the Architect of the Capitol for disbursement by the Architect. Increases the pay of certain employees of the House Democratic Steering and Policy Committee and the House Republican Conference. Makes appropriations for the following joint items: (1) contingent expenses of the Senate for the Joint Economic Committee, the Joint Committee on Printing, and the Joint Committee on Inaugural Ceremonies of 1989; (2) contingent expenses of the House for the Joint Committee on Taxation; (3) the Office of the Attending Physician; (4) the Capitol Police for salaries and general expenses; (5) official mail costs; (6) salaries and expenses of the Capitol Guide Service; (7) the preparation of required statements of appropriations; and (8) construction of platform and seating stands and for salaries and expenses of conducting the inaugural ceremonies of the President and Vice President, January 20, 1989. Appropriates funds for the following congressional offices: (1) the Office of Technology Assessment for salaries and expenses; (2) the Congressional Budget Office for salaries and expenses; (3) the Architect of the Capitol for salaries, travel, contingent expenses, the Capitol buildings and grounds, House and Senate office buildings, and the Capitol power plant; (4) the Congressional Research Service of the Library of Congress for salaries and expenses; (5) the Government Printing Office for congressional printing and binding; and (6) the Biomedical Ethics Board (subject to reauthorization). Authorizes the Disbursing Officer of the Library of Congress to perform financial management services for the Biomedical Ethics Board. Authorizes the Architect of the Capitol to develop a pilot program to determine the economic feasibility and efficiency of centralizing certain maintenance functions and reassigning, without an increase or decrease in pay, any person on the employment rolls of the Office of the Architect of the Capitol. Requires a report to appropriate authorities with recommendations for continuation or expansion of such program. Authorizes the Architect, under the direction of the Joint Committee on the Library, to accept donations to restore and display the Statue of Freedom model. Requires the Architect to install an alarm system to alert individuals occupying the Longworth House Office Building, the Cannon House Office Building, the Russell Senate Office Building, the Dirksen Senate Office Building and the Capitol of a fire or other emergency. Requires the installation to be completed by October 1, 1989, and requires the Architect to report to the appropriate committees by such date concerning such installation. Subtitle B: John C. Stennis Center for Public Service Training and Development - John C. Stennis Center for Public Service Training and Development Act - Establishes in the legislative branch the John C. Stennis Center for Public Service Training and Development, under the direction of a Board of Trustees, and located at or near Starkville, Mississippi (the location of Mississippi State University). Sets forth the purposes and authorities of the Center with respect to: (1) promoting public service as a career choice; (2) providing training and development opportunities for State and local elected government officials, employees of State and local governments, and certain congressional employees; (3) implementing educational programs for secondary and post-secondary schools and colleges; (4) implementing media and telecommunications production capabilities; and (5) establishing library and research facilities. Establishes the John C. Stennis Center for Public Service Development Trust Fund to enable the Center to carry out the purposes of this subtitle. Provides for an Executive Director of the Center to be appointed by the Board of Trustees. Sets forth administrative provisions and requires the Center to report to the Congress annually on its activities. Authorizes appropriations for Center operations. Title II: Other Agencies - Appropriates funds for the following congressional agencies: (1) the Botanic Garden for salaries and expenses; (2) the Library of Congress for salaries and expenses including the Copyright Office, Books for the Blind and Physically Handicapped, and furniture and furnishings; (3) the Architect of the Capitol for Library buildings and grounds; (4) the Copyright Royalty Tribunal for salaries and expenses; (5) the Government Printing Office for the Office of Superintendent of Documents and the Government Printing Office revolving fund; and (6) the General Accounting Office for salaries and expenses. Makes funds available to the Library of Congress for expenses of attendance at certain meetings of which a specified amount is set aside for the Congressional Research Service. Prohibits the Library from using appropriated funds to administer a flexible or compressed work schedule for certain managers or supervisors. Limits the number of employees the Library may employ with appropriated funds to cover general and administrative overhead costs generated by performing reimbursable work for other agencies. Makes funds available to the Government Printing Office for the repair, alteration, and improvement of rented premises. Authorizes the Public Printer to dispose of specified land in Washington, D.C. Title III: General Provisions - Prohibits the use of funds provided by this Act for general maintenance and care of private vehicles, except for emergency assistance and cleaning as may be provided under House regulations relating to parking facilities. Prohibits the obligation of such funds beyond the current fiscal year unless expressly so provided. Makes permanent law the rates of compensation and certain official expenses provided under this Act. Limits the expenditure of such appropriations for procurement contracts to those contracts that are a matter of public record and available for public inspection. Directs the Architect of the Capitol to develop an overall telecommunications plan for the other agencies of the legislative branch that will be compatible with current plans of the House and Senate. Authorizes the Clerk of the House of Representatives to receive commissions for providing public telephone service in space occupied by the House of Representatives. Requires for amounts for general expenses of the Capitol Police to be disbursed by the Clerk of the House of Representatives. Makes payments to the widows of the following deceased Representatives: (1) Dan Daniel (Virginia); (2) James J. Howard (New Jersey); (3) Charles Melvin Price (Illinois); and (4) John H. Duncan (Tennessee). Provides for agencies of the legislative branch to use the telecommunications systems and services provided by the Architect of the Capitol, the House of Representatives, or the Senate under specified conditions. Establishes one additional position of technical assistant to be appointed to the Office of the Attending Physician. Makes available additional funds for the presidential transition. Authorizes the construction of a National Garden in the area of the U.S. Botanic Garden Conservatory in the District of Columbia. Provides for adjusting the pay of certain employees of the Architect. Requires the procurement of printing for Government publications to be made through the Government Printing Office, unless otherwise specified by law or this Act. Revises certain administrative provisions relating to the revolving fund for the operation and maintenance of the Government Printing Office. Prohibits the use of funds by the Congressional Budget Office to add to, delete, or alter any information the Office has provided to the Congress, except to correct factual errors or to provide new or updated information. Amends the Legislative Reorganization Act of 1946 to authorize each standing committee of the House or Senate to employ consultants to advise the committee on the administration of its affairs. Requires sums as necessary for FY 1989 pay raises for programs funded by this Act to be absorbed within the levels appropriated in this Act.</summary>
+</bill>

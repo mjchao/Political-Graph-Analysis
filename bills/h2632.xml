@@ -1,0 +1,125 @@
+<bill session="100" type="h" number="2632" updated="2014-03-22T09:52:26-04:00">
+  <state datetime="1988-10-06">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1987-06-09"/>
+  <titles>
+    <title type="short" as="introduced">Voluntary Education Demonstration Program Act</title>
+    <title type="short" as="passed house">Voluntary Education Program Study Act</title>
+    <title type="official" as="introduced">A bill to provide for a Peace Corps training and educational benefits demonstration program.</title>
+  </titles>
+  <sponsor id="400524"/>
+  <cosponsors>
+    <cosponsor id="401310" joined="1987-07-28"/>
+    <cosponsor id="401383" joined="1987-07-28"/>
+    <cosponsor id="400023" joined="1987-07-28"/>
+    <cosponsor id="400527" joined="1987-07-28"/>
+    <cosponsor id="401612" joined="1988-08-03"/>
+    <cosponsor id="400043" joined="1988-02-16"/>
+    <cosponsor id="300011" joined="1987-07-28"/>
+    <cosponsor id="400572" joined="1987-07-28"/>
+    <cosponsor id="402114" joined="1987-07-28"/>
+    <cosponsor id="402159" joined="1987-07-28"/>
+    <cosponsor id="300017" joined="1988-08-01"/>
+    <cosponsor id="402435" joined="1988-02-16"/>
+    <cosponsor id="400100" joined="1987-07-28"/>
+    <cosponsor id="403364" joined="1988-08-01"/>
+    <cosponsor id="300037" joined="1988-02-16"/>
+    <cosponsor id="403695" joined="1987-07-28"/>
+    <cosponsor id="403696" joined="1988-08-01"/>
+    <cosponsor id="404013" joined="1987-07-28"/>
+    <cosponsor id="404019" joined="1987-07-28"/>
+    <cosponsor id="404097" joined="1988-02-16"/>
+    <cosponsor id="404220" joined="1987-07-28"/>
+    <cosponsor id="400140" joined="1987-07-28"/>
+    <cosponsor id="404376" joined="1987-07-28"/>
+    <cosponsor id="404401" joined="1987-07-28"/>
+    <cosponsor id="400536" joined="1988-08-01"/>
+    <cosponsor id="400586" joined="1987-07-28"/>
+    <cosponsor id="405256" joined="1987-07-28"/>
+    <cosponsor id="405377" joined="1987-07-28"/>
+    <cosponsor id="405646" joined="1987-07-28"/>
+    <cosponsor id="400189" joined="1987-07-28"/>
+    <cosponsor id="400192" joined="1988-02-16"/>
+    <cosponsor id="300057" joined="1987-07-28"/>
+    <cosponsor id="406277" joined="1987-07-28"/>
+    <cosponsor id="400216" joined="1987-07-28"/>
+    <cosponsor id="406554" joined="1987-07-28"/>
+    <cosponsor id="400236" joined="1987-07-28"/>
+    <cosponsor id="406730" joined="1987-07-28"/>
+    <cosponsor id="406765" joined="1987-07-28"/>
+    <cosponsor id="406790" joined="1987-07-28"/>
+    <cosponsor id="406974" joined="1988-09-08"/>
+    <cosponsor id="407215" joined="1987-07-28"/>
+    <cosponsor id="400595" joined="1987-07-28"/>
+    <cosponsor id="407672" joined="1987-07-28"/>
+    <cosponsor id="407721" joined="1987-07-28"/>
+    <cosponsor id="407853" joined="1987-07-28"/>
+    <cosponsor id="408109" joined="1987-07-28"/>
+    <cosponsor id="408190" joined="1987-07-28"/>
+    <cosponsor id="400306" joined="1987-07-28"/>
+    <cosponsor id="408457" joined="1987-07-28"/>
+    <cosponsor id="400314" joined="1988-08-01"/>
+    <cosponsor id="408618" joined="1987-07-28"/>
+    <cosponsor id="400604" joined="1988-08-01"/>
+    <cosponsor id="409353" joined="1987-07-28"/>
+    <cosponsor id="409446" joined="1987-07-28"/>
+    <cosponsor id="400354" joined="1988-08-01"/>
+    <cosponsor id="409632" joined="1988-08-01"/>
+    <cosponsor id="409644" joined="1987-07-28"/>
+    <cosponsor id="409954" joined="1987-07-28"/>
+    <cosponsor id="400377" joined="1987-07-28"/>
+    <cosponsor id="400378" joined="1987-07-28"/>
+    <cosponsor id="410145" joined="1987-07-28"/>
+    <cosponsor id="400387" joined="1988-08-01"/>
+    <cosponsor id="410496" joined="1987-07-28"/>
+    <cosponsor id="400409" joined="1987-07-28"/>
+    <cosponsor id="400612" joined="1987-07-28"/>
+    <cosponsor id="411405" joined="1988-08-01"/>
+    <cosponsor id="411426" joined="1988-02-16"/>
+    <cosponsor id="400428" joined="1987-07-28"/>
+    <cosponsor id="411834" joined="1987-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-09" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-10-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Received in the Senate and read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Hearings, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Educational policy"/>
+    <term name="Employment and training programs"/>
+    <term name="Government operations and politics"/>
+    <term name="Labor and employment"/>
+    <term name="Manpower training programs"/>
+    <term name="Peace Corps"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1988--Passed House amended.
+(Measure passed House, amended) Voluntary Education Program Study Act - Requires the Director of the Peace Corps to conduct a study to determine the feasibility of establishing a Peace Corps training and educational benefits program in which students would be eligible to participate if they: (1) have completed two years of study at an institution of higher education; (2) agree to enter the Peace Corps for a period of two years; and (3) are selected pursuant to a competitive process. Requires the Director to consult with the Secretary of Education with respect to the educational benefits which could be provided under such program. Provides that the study shall consider: (1) the desirability of establishing such a program and whether it would contribute to the purposes of the Peace Corps; (2) the objectives and budgetary implications of such program; and (3) the role of the Secretary in administering such program. Requires the Director to report the results of the study to the Congress.</summary>
+</bill>

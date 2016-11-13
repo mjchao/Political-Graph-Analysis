@@ -1,0 +1,31 @@
+<bill session="100" type="s" number="925" updated="2014-03-22T09:55:11-04:00">
+  <state datetime="1987-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-06"/>
+  </status>
+  <introduced datetime="1987-04-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Elliott Roosevelt.</title>
+  </titles>
+  <sponsor id="405212"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>4/6/1987--Introduced.
+Deems the specified disability of a named individual, for the purpose of determining his eligibility for veterans' wartime disability compensation, to be a disability resulting from personal injury suffered or disease contracted in the line of duty.</summary>
+</bill>

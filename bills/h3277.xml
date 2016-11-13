@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="3277" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-15"/>
+  </status>
+  <introduced datetime="1987-09-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Joaquin Morales.</title>
+  </titles>
+  <sponsor id="400314"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-15" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-18">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/1987--Introduced.
+Authorizes the granting of a visa and admission to the United States for permanent residence to a named individual.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="100" type="hr" number="73" updated="2014-03-22T09:50:55-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to amend the Rules of the House of Representatives to provide that the House may not consider the legislative branch appropriation bill until the House and the Senate have agreed to all other general appropriation bills for the fiscal year.</title>
+  </titles>
+  <sponsor id="400028"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-26"/>
+    <cosponsor id="400085" joined="1987-03-26"/>
+    <cosponsor id="403545" joined="1987-03-26"/>
+    <cosponsor id="406530" joined="1987-03-26"/>
+    <cosponsor id="410574" joined="1987-03-26"/>
+    <cosponsor id="411178" joined="1987-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Congressional agencies"/>
+    <term name="Economics and public finance"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Legislation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Amends rule XXI of the Rules of the House of Representatives to prohibit the consideration of the legislative branch appropriation bill for any fiscal year until the House and the Senate have agreed to all other general appropriation bills for such fiscal year.</summary>
+</bill>

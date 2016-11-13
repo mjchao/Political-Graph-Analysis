@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="2004" updated="2014-03-22T09:52:08-04:00">
+  <state datetime="1987-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to clarify the authority of the Chief Medical Director or designee regarding disciplinary actions on certain probationary title 38 health care employees.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="410147" joined="1987-04-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Referred to Subcommittee on Hospitals and Health Care.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>For Further Action See H.R.2616.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Hospitals and Health Care" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2616"/>
+    <bill relation="identical" session="100" type="s" number="1062"/>
+    <bill relation="identical" session="100" type="s" number="1062"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil service employment"/>
+    <term name="Disciplining of employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Hospital personnel"/>
+    <term name="Medical personnel"/>
+    <term name="Rating of employees"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/1987--Introduced.
+Revises Federal law concerning the performance evaluation and disciplinary actions for certain health care employees of the Department of Medicine and Surgery of the Veterans Administration. Allows review boards to review the performance of such employees at any time during the two-year probationary period following their appointment and to recommend appropriate personnel actions to the Chief Medical Director. Permits the Director to accept, reject, or modify such recommendations. Requires the Director to justify any action taken which was not so recommended.</summary>
+</bill>

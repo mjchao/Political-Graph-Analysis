@@ -1,0 +1,152 @@
+<bill session="100" type="h" number="4210" updated="2014-03-22T09:53:07-04:00">
+  <state datetime="1988-11-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-07"/>
+  </status>
+  <introduced datetime="1988-03-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to reauthorize title II of the Marine Protection, Research, and Sanctuaries Act of 1972, for fiscal years 1989 and 1990, and for other purposes.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1988-03-21"/>
+    <cosponsor id="405775" joined="1988-03-21"/>
+    <cosponsor id="406148" joined="1988-03-21"/>
+    <cosponsor id="400359" joined="1988-03-21"/>
+    <cosponsor id="409644" joined="1988-04-13"/>
+    <cosponsor id="410496" joined="1988-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-21" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Executive Comment Requested from Commerce, Army Corps of Engineers, EPA.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Joint Consideration and Mark-up Held by the Subcommittee on Fisheries and Wildlife Conservation and the Environment and by the Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Joint Consideration and Mark-up Session Held by the Subcommittee on Oceanography and by the Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-14" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-05-13">
+      <text>Reported to House by House Committee on Merchant Marine and Fisheries.  Report No: 100-624 (Part I).</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="402" datetime="1988-10-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 415 - 2 (Record Vote No: 402).</text>
+    </vote>
+    <action datetime="1988-10-05">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1988-10-07" calendar="Senate Legislative" under="General Orders" number="1133">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1133.</text>
+    </calendar>
+    <action datetime="1988-10-12">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-12" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1988-10-13">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-07" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-627" type="public" datetime="1988-11-07">
+      <text>Became Public Law No: 100-627.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral, Markup, Reporting" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral"/>
+    <committee activity="Referral" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4208"/>
+    <bill relation="unknown" session="100" type="h" number="4594"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative procedure"/>
+    <term name="Authorization"/>
+    <term name="California"/>
+    <term name="Civil War"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Ecological research"/>
+    <term name="Economics and public finance"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Florida"/>
+    <term name="Forfeiture"/>
+    <term name="Injunctions"/>
+    <term name="Liability for environmental damages"/>
+    <term name="Marine parks and reserves"/>
+    <term name="Marine resources conservation"/>
+    <term name="Marine safety"/>
+    <term name="Marine transportation"/>
+    <term name="Massachusetts"/>
+    <term name="Museums"/>
+    <term name="North Carolina"/>
+    <term name="Ocean"/>
+    <term name="Oil pollution of the sea"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Research and development"/>
+    <term name="Research natural areas"/>
+    <term name="Ships"/>
+    <term name="Texas"/>
+    <term name="User charges"/>
+    <term name="Warships"/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3676"/>
+  </amendments>
+  <summary>10/12/1988--Passed Senate amended.
+(Measure passed Senate, amended) Title I: Comprehensive Ocean Dumping Research Program Amendments and Authorization - Amends title II (monitoring and research programs for ocean and coastal dumping) of the Marine Protection, Research, and Sanctuaries Act of 1972 to require the Secretary of Commerce to ensure that the comprehensive and continuing program of research into the long-range effects of pollution, overfishing, and man-induced changes of ocean ecosystems is consistent with the comprehensive plan relating to ocean pollution developed under the National Ocean Pollution Planning Act of 1978. Directs the Under Secretary of Commerce to report to the Congress on October 31 of each year on the title II monitoring and research programs carried out by the National Oceanic and Atmospheric Administration and the Environmental Protection Agency and the amount of funds allocated to each of such programs. Authorizes appropriations under title II through FY 1990. Title II: National Marine Sanctuaries Program Amendments and Authorization - Amends title III (National Marine Sanctuaries) of the Marine Protection, Research, and Sanctuaries Act of 1972 to direct the Secretary of Commerce to publish a designation notice (or findings regarding why such notice has not been published) within 30 months after publication of a notice declaring a site to be an active candidate for sanctuary designation. Requires the Secretary to take the action necessary to promote and coordinate the use of national marine sanctuaries for research. Authorizes the Secretary to issue special use permits for the conduct of specified activities in a national marine sanctuary if it is necessary to condition access to and use of, or promote public use and understanding of, a sanctuary resource. Requires that such permits: (1) authorize only those activities which are compatible with the purposes for which the sanctuary is designated and sanctuary resource protection; (2) last for no more than five years, unless renewed; and (3) require permittees to purchase and maintain comprehensive general liability insurance against claims arising out of permitted activities and agree to hold the Federal Government harmless against such claims. Authorizes the imposition of permit fees which, after recovering permit issuance costs and costs incurred by the Secretary as the direct result of permitted activities, provide the Federal Government with a reasonable return. Authorizes the use of collected fees for the permit program, and for designating and managing sanctuaries. Imposes penalties for the violation of permit provisions. Directs each permittee to submit an annual report to the Secretary which describes activities conducted pursuant to such permit and revenues derived from such activities during the year. Excludes fishing from this Act's permit process. Authorizes the Secretary to enter into cooperative agreements with nonprofit organizations to aid and promote interpretive, historical, scientific, and educational activities, and solicit private donations for such activities. Subjects anyone who destroys, causes the loss of, or injures any sanctuary resource to liability to the Federal Government for response costs and damages resulting from such destruction, loss, or injury. Subjects vessels to liability in rem for such costs or damages. Sets forth defenses to such liability. Directs the Secretary to pursue civil actions against persons or vessels who may be liable for such costs or damages. Sets forth dates by which the Secretary must issue a designation notice regarding the proposed Cordell Banks, Flower Garden Banks, Monterey Bay, and Western Washington Outer Coast National Marine Sanctuaries. Requires the Secretary to submit prospectuses to specified congressional committees by March 31, 1991, regarding the Northern Puget Sound National Marine Sanctuary, and by September 30, 1990, regarding Stellwagen Bank National Marine Sanctuary. Directs the Secretary to conduct a study to determine whether all or any part of the Santa Monica Bay area and three marine areas in the Florida Keys should be designated as national marine sanctuaries or added to specified existing sanctuaries. Requires the Secretary to report to the Congress regarding such study within two years of this Act's enactment and commence the designation process with respect to areas found appropriate for designation or inclusion in existing sanctuaries. Authorizes specified enforcement actions against title III violators, including: (1) the imposition of a civil penalty of up to $50,000 for each day a person is guilty of a violation; (2) the forfeiture of any vessel and other item used, and any sanctuary resource taken or retained in connection with or as a result of a violation; and (3) injunctive relief. Authorizes appropriations under title III of the Act through FY 1992. Divides such authorization among the categories general administration, management of sanctuaries, and site review and analysis. Directs the Secretary to submit a plan to specified congressional committees, within six months of this Act's enactment, for a suitable permanent display in coastal North Carolina of artifacts and materials of the U.S.S. Monitor. Requires the Secretary of Transportation, within six months of this Act's enactment, to transmit to the Congress: (1) provisions of international conventions and U.S. laws and regulations which reduce the risk of a vessel collision or incident resulting in environmental damage in the Channel Islands National Marine Sanctuary; (2) provisions of the National Contingency Plan for removal of oil and hazardous substances which enable the Secretary to effectively respond to an oil pollution incident affecting such sanctuary; (3) a list of pollution exercises conducted and a schedule of such exercises to be conducted under the National Contingency Plan in the Santa Barbara Channel; (4) a report on the establishment of safety fairways off the California coast and the Long Beach NAVTEX in Long Beach, California; and (5) a report on the status and recommendations of all Federal, State, and local studies into the hazards shipping poses to the Channel Islands National Marine Sanctuary. Directs the Secretary of Transportation to prepare and submit a proposal to the International Maritime Organization to designate the portion of the Channel Islands National Marine Sanctuary which is outside of the Santa Barbara Channel Traffic Separation Scheme as an area to be avoided.</summary>
+</bill>

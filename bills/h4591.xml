@@ -1,0 +1,69 @@
+<bill session="100" type="h" number="4591" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Uranium Mill Tailings Remedial Action Amendments Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Uranium Mill Tailings Radiation Control Act of 1978.</title>
+  </titles>
+  <sponsor id="300017"/>
+  <cosponsors>
+    <cosponsor id="401874" joined="1988-05-12"/>
+    <cosponsor id="404376" joined="1988-05-12"/>
+    <cosponsor id="405747" joined="1988-05-12"/>
+    <cosponsor id="409205" joined="1988-05-12"/>
+    <cosponsor id="411025" joined="1988-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-12" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1988-11-05">
+      <text>For Further Action See S.1991.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1991"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Fissionable materials"/>
+    <term name="Land transfers"/>
+    <term name="Mine wastes"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Nuclear energy"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="Uranium"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1988--Introduced.
+Uranium Mill Tailings Remedial Action Amendments Act of 1988 - Amends the Uranium Mill Tailings Radiation Control Act of 1978 to authorize the Secretary of the Interior to transfer permanently to the Secretary of Energy public lands under the jurisdiction of the Bureau of Land Management in the vicinity of certain processing sites. Prohibits such transfer until the Secretary of Energy complies with certain National Environmental Policy Act of 1969 requirements regarding site selection for the permanent disposition and stabilization of residual radioactive materials. Requires the Secretary of Energy to obtain the appropriate State's consent before acquiring lands upon which there is no: (1) designated processing site; or (2) active uranium mill operation. Terminates the Secretary of Energy's authority to perform remedial action on September 30, 1994. Provides that the Secretary's authority to perform groundwater restoration activities shall not expire.</summary>
+</bill>

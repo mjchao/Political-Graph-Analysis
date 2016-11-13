@@ -1,0 +1,98 @@
+<bill session="100" type="h" number="1235" updated="2014-03-22T09:51:45-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="short" as="introduced">Merchant Seamen's Benefit Act</title>
+    <title type="official" as="introduced">A bill to provide benefits to merchant seamen who served in the United States Merchant Marine during World War II.</title>
+  </titles>
+  <sponsor id="401418"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-05-28"/>
+    <cosponsor id="401155" joined="1987-10-14"/>
+    <cosponsor id="401383" joined="1987-02-25"/>
+    <cosponsor id="400023" joined="1987-05-28"/>
+    <cosponsor id="401585" joined="1987-05-28"/>
+    <cosponsor id="400542" joined="1987-05-28"/>
+    <cosponsor id="300011" joined="1987-05-28"/>
+    <cosponsor id="403266" joined="1987-02-25"/>
+    <cosponsor id="403314" joined="1987-11-18"/>
+    <cosponsor id="400100" joined="1987-05-28"/>
+    <cosponsor id="403476" joined="1987-05-28"/>
+    <cosponsor id="403545" joined="1987-10-14"/>
+    <cosponsor id="403696" joined="1987-05-28"/>
+    <cosponsor id="404190" joined="1987-05-28"/>
+    <cosponsor id="404213" joined="1987-10-14"/>
+    <cosponsor id="400536" joined="1987-05-28"/>
+    <cosponsor id="405524" joined="1987-05-28"/>
+    <cosponsor id="405724" joined="1987-05-28"/>
+    <cosponsor id="405775" joined="1987-05-28"/>
+    <cosponsor id="405855" joined="1987-05-28"/>
+    <cosponsor id="405939" joined="1987-11-18"/>
+    <cosponsor id="406148" joined="1987-02-25"/>
+    <cosponsor id="400226" joined="1987-05-28"/>
+    <cosponsor id="406473" joined="1987-05-28"/>
+    <cosponsor id="406554" joined="1987-05-28"/>
+    <cosponsor id="400236" joined="1987-11-18"/>
+    <cosponsor id="406746" joined="1987-02-25"/>
+    <cosponsor id="400243" joined="1987-04-23"/>
+    <cosponsor id="300069" joined="1987-08-06"/>
+    <cosponsor id="406974" joined="1987-08-06"/>
+    <cosponsor id="407141" joined="1987-05-28"/>
+    <cosponsor id="400596" joined="1987-05-28"/>
+    <cosponsor id="408023" joined="1987-05-28"/>
+    <cosponsor id="400302" joined="1987-05-28"/>
+    <cosponsor id="400306" joined="1987-05-28"/>
+    <cosponsor id="409353" joined="1987-05-28"/>
+    <cosponsor id="409644" joined="1987-08-06"/>
+    <cosponsor id="400380" joined="1987-12-17"/>
+    <cosponsor id="410066" joined="1987-05-28"/>
+    <cosponsor id="410145" joined="1987-05-28"/>
+    <cosponsor id="410407" joined="1987-04-23"/>
+    <cosponsor id="410496" joined="1987-08-06"/>
+    <cosponsor id="410623" joined="1987-05-28"/>
+    <cosponsor id="400409" joined="1987-08-06"/>
+    <cosponsor id="400612" joined="1987-08-06"/>
+    <cosponsor id="300100" joined="1987-02-25"/>
+    <cosponsor id="400440" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Executive Comment Requested from DOT, DOD, VA.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Unfavorable Executive Comment Received From VA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Merchant marine"/>
+    <term name="Merchant seamen"/>
+    <term name="Ships and shipping"/>
+    <term name="Veterans' benefits"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Merchant Seamen's Benefit Act - Provides for creditable active duty service for veterans' benefits purposes for certain individuals who served in the merchant marine during World War II, who were prisoners of war or civilian internees as the result of enemy action against merchant shipping, and who were in an accredited wartime maritime training program. Prohibits payment of benefits for periods before the date of enactment of this Act.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1753" updated="2016-06-29T08:42:50-04:00">
+  <state datetime="1987-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-23"/>
+  </status>
+  <introduced datetime="1987-03-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit plant closings and mass layoffs by employers of 500 or more employees.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-23" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Employment Opportunities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED06" subcommittee="Employment Opportunities" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Business and commerce"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Employee rights"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Layoffs"/>
+    <term name="Plant shutdowns"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/1987--Introduced.
+Prohibits plant closings or mass layoffs by employers of 500 or more employees until the adjournment of the 100th Congress or the repeal of this Act, whichever occurs earlier. Sets forth penalties for violations of this Act. Allows any employee suffering employment loss as a result of a closing or layoff to bring an action in an appropriate U.S. district court for back pay and the cost of related benefits.</summary>
+</bill>

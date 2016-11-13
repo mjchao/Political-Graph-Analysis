@@ -1,0 +1,70 @@
+<bill session="100" type="h" number="4525" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-07-07">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-07-07"/>
+  </status>
+  <introduced datetime="1988-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the United States Courthouse located at 156 Federal Street in Portland, Maine as the "Edward Thaxter Gignoux United States Courthouse".</title>
+  </titles>
+  <sponsor id="401755"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-04" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-05-16">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1988-06-01">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-01">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-21" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-07-07">
+      <text>Reported to House by House Committee on Public Works and Transportation.  Report No: 100-752.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Placed on House Calendar No: 180.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-07" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-07-07">
+      <text>Laid on Table in House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Other Measure S.2248 Passed House in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2248"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Courthouses"/>
+    <term name="Federal office buildings"/>
+    <term name="Maine"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/1988--Introduced.
+Designates the United States Courthouse located at 156 Federal Street, Portland, Maine, as the Edward Thaxter Gignoux United States Courthouse.</summary>
+</bill>

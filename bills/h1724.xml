@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="1724" updated="2014-03-22T09:51:57-04:00">
+  <state datetime="1987-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-19"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the President to submit to Congress annual reports on the proceedings of the Standing Consultative Commission established under the ABM Treaty of 1972.</title>
+  </titles>
+  <sponsor id="402928"/>
+  <cosponsors>
+    <cosponsor id="403545" joined="1987-04-09"/>
+    <cosponsor id="405448" joined="1987-04-09"/>
+    <cosponsor id="400191" joined="1987-04-09"/>
+    <cosponsor id="406530" joined="1987-04-09"/>
+    <cosponsor id="409443" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Executive Comment Requested from State, Arms Control + Disarm Agency.</text>
+    </action>
+    <action datetime="1987-06-05">
+      <text>Unfavorable Executive Comment Received From Arms Control and Disarm Agency.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Advisory bodies"/>
+    <term name="Antimissile missiles"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Arms control negotiations"/>
+    <term name="Classified defense information"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional-Presidential relations"/>
+    <term name="Federal advisory bodies"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Security classification (Government documents)"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Directs the President to submit to the Congress an annual report on the proceedings of the Standing Consultative Commission established under the ABM Treaty of 1972. Requires such report to be submitted in classified and unclassified forms and to include: (1) transcripts of meetings of the Commission; (2) memoranda of conversation concerning such meetings; and (3) other documents relevant to the proceedings.</summary>
+</bill>

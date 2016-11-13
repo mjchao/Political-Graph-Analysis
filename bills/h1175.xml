@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="1175" updated="2014-03-22T09:51:43-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Army to construct a flood control project for Carter Lake, Nebraska.</title>
+  </titles>
+  <sponsor id="406799"/>
+  <cosponsors>
+    <cosponsor id="403203" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-06-11">
+      <text>Executive Comment Requested from Army, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Flood control"/>
+    <term name="Lakes"/>
+    <term name="Nebraska"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Directs the Secretary of the Army to construct a flood control diversion project for Carter Lake, Nebraska. Provides that the Federal share of the cost of this project will be 75 percent.</summary>
+</bill>

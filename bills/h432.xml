@@ -1,0 +1,92 @@
+<bill session="100" type="h" number="432" updated="2014-03-22T09:51:21-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Airline Anti-Smoking Act</title>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to prohibit smoking on board passenger-carrying aircraft on domestic flights.</title>
+  </titles>
+  <sponsor id="409632"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-01-06"/>
+    <cosponsor id="400975" joined="1987-01-06"/>
+    <cosponsor id="401231" joined="1987-02-04"/>
+    <cosponsor id="300011" joined="1987-01-06"/>
+    <cosponsor id="400055" joined="1987-03-31"/>
+    <cosponsor id="300019" joined="1987-06-24"/>
+    <cosponsor id="402435" joined="1987-05-21"/>
+    <cosponsor id="402657" joined="1987-04-29"/>
+    <cosponsor id="400080" joined="1987-04-29"/>
+    <cosponsor id="403031" joined="1987-04-29"/>
+    <cosponsor id="400100" joined="1987-05-21"/>
+    <cosponsor id="403545" joined="1987-04-09"/>
+    <cosponsor id="403776" joined="1987-01-06"/>
+    <cosponsor id="404006" joined="1987-04-09"/>
+    <cosponsor id="404019" joined="1987-05-21"/>
+    <cosponsor id="400140" joined="1987-01-06"/>
+    <cosponsor id="400143" joined="1987-08-07"/>
+    <cosponsor id="404422" joined="1987-04-09"/>
+    <cosponsor id="404520" joined="1987-02-19"/>
+    <cosponsor id="400552" joined="1987-02-04"/>
+    <cosponsor id="400192" joined="1987-03-31"/>
+    <cosponsor id="400226" joined="1987-05-21"/>
+    <cosponsor id="406730" joined="1987-01-06"/>
+    <cosponsor id="406740" joined="1987-05-21"/>
+    <cosponsor id="406974" joined="1987-03-31"/>
+    <cosponsor id="406995" joined="1987-05-21"/>
+    <cosponsor id="400595" joined="1987-04-29"/>
+    <cosponsor id="407721" joined="1987-04-29"/>
+    <cosponsor id="408023" joined="1987-04-09"/>
+    <cosponsor id="408190" joined="1987-06-24"/>
+    <cosponsor id="408407" joined="1987-05-21"/>
+    <cosponsor id="400601" joined="1987-05-21"/>
+    <cosponsor id="400604" joined="1987-04-29"/>
+    <cosponsor id="408957" joined="1987-02-04"/>
+    <cosponsor id="409593" joined="1987-05-21"/>
+    <cosponsor id="409618" joined="1987-05-21"/>
+    <cosponsor id="410145" joined="1987-03-31"/>
+    <cosponsor id="410251" joined="1987-05-21"/>
+    <cosponsor id="410496" joined="1987-04-29"/>
+    <cosponsor id="410531" joined="1987-05-21"/>
+    <cosponsor id="400612" joined="1987-01-06"/>
+    <cosponsor id="411426" joined="1987-03-31"/>
+    <cosponsor id="411585" joined="1987-04-29"/>
+    <cosponsor id="411725" joined="1987-01-06"/>
+    <cosponsor id="411947" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air travel"/>
+    <term name="Aircraft"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Health"/>
+    <term name="Smoking"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Airline Anti-Smoking Act - Amends the Federal Aviation Act of 1958 to prohibit smoking on passenger-carrying aircraft in interstate or overseas transportation. Directs the Administrator of the Federal Aviation Administration to promulgate regulations to implement this Act.</summary>
+</bill>

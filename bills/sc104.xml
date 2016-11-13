@@ -1,0 +1,37 @@
+<bill session="100" type="sc" number="104" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-17"/>
+  </status>
+  <introduced datetime="1988-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to provide for a Joint Congressional Committee on Inaugural Ceremonies.</title>
+  </titles>
+  <sponsor id="404219"/>
+  <cosponsors>
+    <cosponsor id="300016" joined="1988-03-17"/>
+    <cosponsor id="403515" joined="1988-03-17"/>
+    <cosponsor id="300094" joined="1988-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-17" state="REFERRED">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sc" number="105"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional joint committees"/>
+    <term name="Presidential inaugurations"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1988--Introduced.
+Provides for a Joint Congressional Committee on Inaugural Ceremonies to make the necessary arrangements for the inauguration of the President-elect and Vice President-elect on January 20, 1989.</summary>
+</bill>

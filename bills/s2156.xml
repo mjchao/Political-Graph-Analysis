@@ -1,0 +1,128 @@
+<bill session="100" type="s" number="2156" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-06-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1988-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National School Lunch Act to require eligibility for free lunches to be based on the nonfarm income poverty guidelines prescribed by the Office of Management and Budget.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="1988-03-29"/>
+    <cosponsor id="401604" joined="1988-04-14"/>
+    <cosponsor id="401611" joined="1988-03-29"/>
+    <cosponsor id="300012" joined="1988-04-14"/>
+    <cosponsor id="402495" joined="1988-03-29"/>
+    <cosponsor id="300023" joined="1988-03-29"/>
+    <cosponsor id="402727" joined="1988-05-09"/>
+    <cosponsor id="300026" joined="1988-04-14"/>
+    <cosponsor id="403171" joined="1988-04-14"/>
+    <cosponsor id="300031" joined="1988-03-29"/>
+    <cosponsor id="403346" joined="1988-04-20"/>
+    <cosponsor id="403483" joined="1988-04-27"/>
+    <cosponsor id="403515" joined="1988-03-29"/>
+    <cosponsor id="300036" joined="1988-04-26"/>
+    <cosponsor id="403669" joined="1988-04-14"/>
+    <cosponsor id="403962" joined="1988-04-20"/>
+    <cosponsor id="404219" joined="1988-03-30"/>
+    <cosponsor id="404277" joined="1988-03-29"/>
+    <cosponsor id="300048" joined="1988-04-28"/>
+    <cosponsor id="300051" joined="1988-03-29"/>
+    <cosponsor id="300052" joined="1988-04-20"/>
+    <cosponsor id="405305" joined="1988-04-26"/>
+    <cosponsor id="405310" joined="1988-03-30"/>
+    <cosponsor id="300154" joined="1988-03-29"/>
+    <cosponsor id="406084" joined="1988-03-29"/>
+    <cosponsor id="406183" joined="1988-03-29"/>
+    <cosponsor id="406188" joined="1988-04-14"/>
+    <cosponsor id="300065" joined="1988-03-04"/>
+    <cosponsor id="300071" joined="1988-04-28"/>
+    <cosponsor id="300072" joined="1988-03-29"/>
+    <cosponsor id="407622" joined="1988-03-29"/>
+    <cosponsor id="300073" joined="1988-03-31"/>
+    <cosponsor id="407786" joined="1988-03-29"/>
+    <cosponsor id="408898" joined="1988-04-14"/>
+    <cosponsor id="408939" joined="1988-04-14"/>
+    <cosponsor id="409225" joined="1988-03-31"/>
+    <cosponsor id="400565" joined="1988-04-14"/>
+    <cosponsor id="409562" joined="1988-03-29"/>
+    <cosponsor id="410242" joined="1988-04-14"/>
+    <cosponsor id="410588" joined="1988-05-18"/>
+    <cosponsor id="300157" joined="1988-05-09"/>
+    <cosponsor id="411762" joined="1988-03-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-04-05">
+      <text>Referred to Subcommittee on Nutrition and Investigations.</text>
+    </action>
+    <calendar datetime="1988-04-20" state="REPORTED">
+      <text>Committee on Agriculture. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-04-25">
+      <text>Committee on Agriculture. Reported to Senate by Senator Leahy without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-04-25" calendar="Senate Legislative" under="General Orders" number="637">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 637.</text>
+    </calendar>
+    <action datetime="1988-05-27">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-27" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-13" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-13">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-17">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-356" type="public" datetime="1988-06-28">
+      <text>Became Public Law No: 100-356.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSAF06" subcommittee="Nutrition and Investigations" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4306"/>
+    <bill relation="identical" session="100" type="h" number="4306"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Child nutrition"/>
+    <term name="Education"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Income"/>
+    <term name="Maternal and infant welfare"/>
+    <term name="Poverty"/>
+    <term name="Public assistance programs"/>
+    <term name="School lunch program"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2334"/>
+  </amendments>
+  <summary>5/27/1988--Passed Senate amended.
+(Measure passed Senate, amended) Amends the National School Lunch Act to require that eligibility for free lunches under the school lunch program be based on the nonfarm income poverty guidelines prescribed by the Office of Management and Budget. Directs the Secretary of Agriculture (the Secretary), when paying cash to school districts for losses resulting from a change in methodology in a study of alternatives under the commodity distribution program, to base calculation of such losses on the actual amount of assistance received under the National School Lunch Act during the 1981-1982 school year (including assistance in the form of additional commodities or of cash or commodity letters of credit). Repeals a limitation on the authorization of appropriations for such compensation. Requires eligible school districts to submit loss claims within one year after enactment of this Act. Directs the Secretary to complete action on any such claim within 45 days after receipt. Amends the Child Nutrition Act of 1966 to revise provisions relating to the allocation of funds under the Women, Infants, and Children (WIC) program. Permits State agencies, following implementation of an approved cost-saving strategy, to convert additional funds initially allocated for program food purchases to nutrition services and administration funds. Limits such additional converted funds to an amount sufficient to ensure no more than a two percent annual decrease in the administrative grant per person if a larger decrease would otherwise result from increased program participation due to the State's cost-saving system. Limits supplemental foods expenditures during the succeeding fiscal year, under an approved cost-savings strategy, to not more than five percent of the supplemental foods funds allocated to an agency in the fiscal year in which the system is implemented.</summary>
+</bill>

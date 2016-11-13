@@ -1,0 +1,101 @@
+<bill session="100" type="h" number="2571" updated="2014-03-22T09:52:24-04:00">
+  <state datetime="1987-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-02"/>
+  </status>
+  <introduced datetime="1987-06-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Congress to enact into law specific authorization before certain commercial naval vessels previously registered under the laws of a foreign country may be documented under the laws of the United States.</title>
+  </titles>
+  <sponsor id="400231"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-06-11"/>
+    <cosponsor id="401310" joined="1987-06-11"/>
+    <cosponsor id="401383" joined="1987-06-11"/>
+    <cosponsor id="400025" joined="1987-06-11"/>
+    <cosponsor id="300011" joined="1987-06-11"/>
+    <cosponsor id="402114" joined="1987-06-11"/>
+    <cosponsor id="402600" joined="1987-06-11"/>
+    <cosponsor id="402657" joined="1987-06-17"/>
+    <cosponsor id="402710" joined="1987-06-17"/>
+    <cosponsor id="400100" joined="1987-06-11"/>
+    <cosponsor id="300037" joined="1987-06-11"/>
+    <cosponsor id="403776" joined="1987-06-11"/>
+    <cosponsor id="404170" joined="1987-06-17"/>
+    <cosponsor id="404190" joined="1987-06-11"/>
+    <cosponsor id="404220" joined="1987-06-30"/>
+    <cosponsor id="400140" joined="1987-06-11"/>
+    <cosponsor id="404422" joined="1987-06-17"/>
+    <cosponsor id="404750" joined="1987-06-17"/>
+    <cosponsor id="405256" joined="1987-06-17"/>
+    <cosponsor id="405939" joined="1987-06-30"/>
+    <cosponsor id="406461" joined="1987-06-17"/>
+    <cosponsor id="406473" joined="1987-06-11"/>
+    <cosponsor id="400236" joined="1987-06-02"/>
+    <cosponsor id="406873" joined="1987-06-11"/>
+    <cosponsor id="400253" joined="1987-06-11"/>
+    <cosponsor id="400595" joined="1987-06-11"/>
+    <cosponsor id="407772" joined="1987-06-11"/>
+    <cosponsor id="400600" joined="1987-06-11"/>
+    <cosponsor id="408023" joined="1987-06-30"/>
+    <cosponsor id="408052" joined="1987-06-11"/>
+    <cosponsor id="400306" joined="1987-06-11"/>
+    <cosponsor id="400314" joined="1987-06-17"/>
+    <cosponsor id="400333" joined="1987-06-17"/>
+    <cosponsor id="409205" joined="1987-06-11"/>
+    <cosponsor id="410066" joined="1987-06-11"/>
+    <cosponsor id="400409" joined="1987-06-30"/>
+    <cosponsor id="400611" joined="1987-06-11"/>
+    <cosponsor id="400425" joined="1987-06-17"/>
+    <cosponsor id="400614" joined="1987-06-30"/>
+    <cosponsor id="300100" joined="1987-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-02" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-06-12">
+      <text>Executive Comment Requested from DOT, DOD, State.</text>
+    </action>
+    <action datetime="1987-06-12">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1987-06-12">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Unfavorable Executive Comment Received From State.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Flags of convenience"/>
+    <term name="International affairs"/>
+    <term name="Military agreements"/>
+    <term name="Persian Gulf"/>
+    <term name="Persian Gulf States"/>
+    <term name="Shipping agreements"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Tankers"/>
+    <term name="Treaties"/>
+    <term name="Vessel documentation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/1987--Introduced.
+Prohibits, unless the Congress passes a law approving documentation, the Secretary of the department in which the Coast Guard is operating from issuing a certificate of documentation to a vessel if the vessel was previously registered under the laws of a foreign country and: (1) documentation is sought for the purpose of obtaining the protection of U.S. military forces; or (2) the vessel has been operated, within the 12 months preceding the request for documentation, or is intended to be operated in the Persian Gulf or in an area where commercial vessels have been attacked in such 12 months.</summary>
+</bill>

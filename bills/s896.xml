@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="896" updated="2014-03-22T09:55:04-04:00">
+  <state datetime="1987-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-01"/>
+  </status>
+  <introduced datetime="1987-04-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the application of the drawback provisions of section 313 of the Tariff Act of 1930 to certain imports of raw cane sugar.</title>
+  </titles>
+  <sponsor id="300012"/>
+  <cosponsors>
+    <cosponsor id="403142" joined="1987-04-02"/>
+    <cosponsor id="406084" joined="1987-04-01"/>
+    <cosponsor id="300073" joined="1987-04-01"/>
+    <cosponsor id="400563" joined="1987-04-01"/>
+    <cosponsor id="408252" joined="1987-06-18"/>
+    <cosponsor id="300086" joined="1987-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-01" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="922"/>
+    <bill relation="identical" session="100" type="h" number="992"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Sugar and sugar trade"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/1987--Introduced.
+Allows, under specified conditions, for a drawback (refund) of duties paid on raw cane sugar imported into the United States after October 31, 1977, and before April 1, 1985.</summary>
+</bill>

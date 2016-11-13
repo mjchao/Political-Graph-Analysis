@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="2986" updated="2014-03-22T09:52:36-04:00">
+  <state datetime="1987-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-22"/>
+  </status>
+  <introduced datetime="1987-07-22"/>
+  <titles>
+    <title type="short" as="introduced">Dairy Export Incentive Program Amendments Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Dairy Export Incentive Program to allow for the use of generic certificates.</title>
+  </titles>
+  <sponsor id="404869"/>
+  <cosponsors>
+    <cosponsor id="408618" joined="1987-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-22" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Dairy products"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign trade promotion"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/1987--Introduced.
+Dairy Export Incentive Program Amendments Act of 1987 - Amends the Food Security Act of 1985 to allow for the use of generic certificates in the dairy export incentive program. States that if such certificates are exchanged for dairy products, such products (or an equal amount of other dairy products) must be exported.</summary>
+</bill>

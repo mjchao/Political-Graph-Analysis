@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="3657" updated="2014-03-22T09:52:55-04:00">
+  <state datetime="1987-11-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-18"/>
+  </status>
+  <introduced datetime="1987-11-18"/>
+  <titles>
+    <title type="short" as="introduced">Vocational Rehabilitation Services Reimbursement Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend titles II and XVI of the Social Security Act to ensure proper payments for reimbursement for reasonable and necessary costs of vocational rehabilitation services under State vocational rehabilitation plans.</title>
+  </titles>
+  <sponsor id="401203"/>
+  <cosponsors>
+    <cosponsor id="401874" joined="1987-11-18"/>
+    <cosponsor id="403314" joined="1988-01-25"/>
+    <cosponsor id="403581" joined="1987-11-18"/>
+    <cosponsor id="404013" joined="1987-11-18"/>
+    <cosponsor id="400586" joined="1988-01-25"/>
+    <cosponsor id="404705" joined="1987-11-18"/>
+    <cosponsor id="400165" joined="1987-11-18"/>
+    <cosponsor id="405006" joined="1988-01-25"/>
+    <cosponsor id="405236" joined="1987-11-18"/>
+    <cosponsor id="300057" joined="1987-11-18"/>
+    <cosponsor id="400211" joined="1987-11-18"/>
+    <cosponsor id="406530" joined="1987-11-18"/>
+    <cosponsor id="400306" joined="1987-11-18"/>
+    <cosponsor id="408618" joined="1987-11-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-18" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-11-23">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1987-11-23">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Blind"/>
+    <term name="Disabled"/>
+    <term name="Employment and training programs"/>
+    <term name="Labor and employment"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Public assistance programs"/>
+    <term name="Supplemental security income program"/>
+    <term name="Vocational rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/1987--Introduced.
+Vocational Rehabilitation Services Reimbursement Act of 1987 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to require payments for reimbursement of costs for rehabilitation services under the OASDI program to be made for each fiscal year in advance, in the amount of the reasonable and necessary costs of vocational rehabilitation services furnished during the preceding fiscal year ending September 30 of the preceding calendar year, increased or decreased by underpayments or overpayments in the preceding fiscal year. Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act to require that payments for rehabilitation services for blind and disabled individuals under SSI be made in the same manner and under the same requirements as OASDI payments.</summary>
+</bill>

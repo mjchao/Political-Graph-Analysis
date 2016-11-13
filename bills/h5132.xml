@@ -1,0 +1,144 @@
+<bill session="100" type="h" number="5132" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-10-21">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="short" as="introduced">National Laboratory Competitiveness Act of 1988</title>
+    <title type="short" as="reported to house">Department of Energy Laboratory Competitiveness Act of 1988</title>
+    <title type="short" as="passed house">Department of Energy Technology Incentives Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Federal Nonnuclear Energy Research and Development Act of 1974 to improve the transfer of technology or devices developed by the Department of Energy National Laboratories, and to improve interagency cooperations between the Department of Energy and other agencies with respect to technology transfer.</title>
+  </titles>
+  <sponsor id="406873"/>
+  <cosponsors>
+    <cosponsor id="401923" joined="1988-08-02"/>
+    <cosponsor id="402454" joined="1988-08-02"/>
+    <cosponsor id="404009" joined="1988-08-02"/>
+    <cosponsor id="405524" joined="1988-08-02"/>
+    <cosponsor id="400210" joined="1988-08-02"/>
+    <cosponsor id="406992" joined="1988-08-02"/>
+    <cosponsor id="407967" joined="1988-08-02"/>
+    <cosponsor id="410251" joined="1988-08-02"/>
+    <cosponsor id="400611" joined="1988-08-02"/>
+    <cosponsor id="411065" joined="1988-08-02"/>
+    <cosponsor id="411224" joined="1988-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-02" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Energy Research and Development.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-11" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-20">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-943 (Part I).</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Referred to House Committee on Armed Services Sequentially, for a Period Ending not Later than Sep 30, 88.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Referred to House Committee on The Judiciary Sequentially, for a Period Ending not Later than Sep 30, 88.</text>
+    </action>
+    <action datetime="1988-09-25">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>House Committee on Armed Services Granted an Extension for Further Consideration Ending not Later Than October 7, 1988.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>House Committee on The Judiciary Granted an Extension for Further Consideration Ending not Later Than October 7, 1988.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>House Committee on Armed Services Granted an Extension for Further Consideration Ending not Later Than October 12, 1988.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>House Committee on The Judiciary Granted an Extension for Further Consideration Ending not Later Than October 12, 1988.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>House Committee on Armed Services Granted an Extension for Further Consideration Ending not Later Than October 18, 1988.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>House Committee on The Judiciary Granted an Extension for Further Consideration Ending not Later Than October 18, 1988.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>House Committee on Armed Services Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>House Committee on The Judiciary Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Placed on Union Calendar No: 637.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSY06" subcommittee="Energy Research and Development" name="House Science, Space and Technology"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee activity="Referral, Hearings" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Business and commerce"/>
+    <term name="Computer software"/>
+    <term name="Education"/>
+    <term name="Energy policy"/>
+    <term name="Energy research"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal budgets"/>
+    <term name="Government and business"/>
+    <term name="Government paperwork"/>
+    <term name="Joint ventures"/>
+    <term name="Laboratories"/>
+    <term name="Manufacturing industries"/>
+    <term name="Nuclear propulsion"/>
+    <term name="Nuclear ships"/>
+    <term name="Nuclear weapons"/>
+    <term name="Research and development"/>
+    <term name="Research and development contracts"/>
+    <term name="Research centers"/>
+    <term name="Science and technology"/>
+    <term name="Science, technology, communications"/>
+    <term name="Standards"/>
+    <term name="Superconductivity"/>
+    <term name="Technological innovations"/>
+    <term name="Technology transfer"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments>
+    <amendment number="h959"/>
+  </amendments>
+  <summary>10/21/1988--Passed House amended.
+(Measure passed House, amended) Department of Energy Technology Incentives Act of 1988 - Directs the Secretary of Energy to conduct a technology transfer study describing current policies and achievements and recommending improvements or changes. Requires that the study be submitted to specified congressional leadership within six months of this Act's enactment. Directs the Secretary of Energy to: (1) initiate and implement a cooperative program of research on enabling high-temperature superconductor technology and its practical applications; (2) require and ensure National Laboratory participation in this research by means of agreements with other Federal agencies, academic institutions, or private industrial or research organizations; (3) form the Council for Research on Enabling Technologies, comprising representatives of appropriate government, university, and industry personnel, to advise the Secretary concerning goals and to recommend guidelines for the release of technical findings and developments made by cooperative research centers; and (4) establish cooperative research centers in enabling technology for high-temperature superconducting materials and applications at at least one National Laboratory. Sets forth criteria for selecting Laboratories. Directs the Council to ensure that there is no unnecessary duplication of activities of the Research Centers on Superconductivity and Superconductivity Pilot Centers. Permits personnel exchanges among firms or universities and National Laboratories participating in the program. Requires user fees in connection with Department of Energy (DOE) facility use authorized by the Secretary. Authorizes the Secretary to include high-temperature superconductivity activities in DOE research and development budget requests for FY 1990 through 1995. Describes cost-sharing features to apply to National Laboratories participating in the program. Prohibits a laboratory from receiving: (1) more than ten percent of its annual budget from nonappropriated funds derived from work for others under program contracts, unless the Secretary gives advance approval; or (2) from any person more than $10,000,000, or the nonmonetary equivalent, of nonappropriated funds under any cooperative research and development agreement under this Act unless the Secretary approves in advance. Describes procedures governing review and modification of cooperative agreements, as well as recordkeeping requirements.</summary>
+</bill>

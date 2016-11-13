@@ -1,0 +1,70 @@
+<bill session="100" type="hj" number="513" updated="2016-06-29T08:44:46-04:00">
+  <state datetime="1988-04-12">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-04-12"/>
+  </status>
+  <introduced datetime="1988-03-23"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate April 6, 1988, as "National Student-Athlete Day".</title>
+  </titles>
+  <sponsor id="406277"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-23" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Subcommittee on Census and Population Discharged.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-30" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-03-30" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment and an amended preamble by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-03-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-03-31">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-01">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-04-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-04-12" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-289" type="public" datetime="1988-04-12">
+      <text>Became Public Law No: 100-289.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee activity="Referral, Discharged" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="284"/>
+    <bill relation="identical" session="100" type="sj" number="284"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Athletes"/>
+    <term name="Special days"/>
+    <term name="Students"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/1988--Introduced.
+Designates April 6, 1988, as National Student-Athlete Day.</summary>
+</bill>

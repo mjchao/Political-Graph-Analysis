@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="4633" updated="2014-03-22T09:53:21-04:00">
+  <state datetime="1988-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-18"/>
+  </status>
+  <introduced datetime="1988-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, with respect to fixing initial rates of pay for individuals who are appointed to positions within the Department of Agriculture after certain employment on the county level.</title>
+  </titles>
+  <sponsor id="410659"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-18" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+    <action datetime="1988-06-03">
+      <text>Executive Comment Requested from OMB, OPM, USDA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Agricultural societies"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Civil service compensation"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1988--Introduced.
+Provides for fixing the initial pay rate of former employees of county committees established under the soil conservation program when such employees are appointed to positions within the Department of Agriculture.</summary>
+</bill>

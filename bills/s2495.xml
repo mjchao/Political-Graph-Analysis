@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="2495" updated="2014-03-22T09:55:50-04:00">
+  <state datetime="1988-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-10"/>
+  </status>
+  <introduced datetime="1988-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to permit producers to plant supplemental and alternative income-producing crops on acreage considered to be planted to a program crop.</title>
+  </titles>
+  <sponsor id="300010"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1988-07-06"/>
+    <cosponsor id="300026" joined="1988-06-10"/>
+    <cosponsor id="403346" joined="1988-06-29"/>
+    <cosponsor id="404679" joined="1988-08-01"/>
+    <cosponsor id="406183" joined="1988-06-13"/>
+    <cosponsor id="300150" joined="1988-07-07"/>
+    <cosponsor id="300079" joined="1988-06-10"/>
+    <cosponsor id="408898" joined="1988-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Agricultural Production.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAF01" subcommittee="Agricultural Production and Stabilization of Prices" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Farm produce"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1988--Introduced.
+Amends the Agricultural Act of 1949, effective for the 1988 through 1990 crop years, to permit producers to plant specified supplemental and alternative income-producing crops on acreage considered to be planted to program crops.</summary>
+</bill>

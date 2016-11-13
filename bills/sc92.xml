@@ -1,0 +1,59 @@
+<bill session="100" type="sc" number="92" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-12-01">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-12-01"/>
+  </status>
+  <introduced datetime="1987-12-01"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to encourage the State and local governments and local educational agencies to include among the requirements for secondary school graduation a thorough knowledge and understanding of our Nation's founding documents.</title>
+  </titles>
+  <sponsor id="409917"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1987-12-01"/>
+    <cosponsor id="408597" joined="1987-12-01"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-01" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-03">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-12-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>House Committee on Education and Labor Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Citizenship education"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Curricula"/>
+    <term name="Declaration of Independence"/>
+    <term name="Elementary and secondary education"/>
+    <term name="History"/>
+    <term name="Law"/>
+    <term name="Political science"/>
+    <term name="Secondary education"/>
+  </subjects>
+  <amendments/>
+  <summary>12/1/1987--Introduced.
+Encourages State and local governments and local educational agencies to include among the requirements for secondary school graduation a thorough knowledge and understanding of the Declaration of Independence, the U.S. Constitution, and the Federalist Papers.</summary>
+</bill>

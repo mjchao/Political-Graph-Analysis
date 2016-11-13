@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="2271" updated="2014-03-22T09:55:40-04:00">
+  <state datetime="1988-04-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-12"/>
+  </status>
+  <introduced datetime="1988-04-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize an exchange of properties between the United States and Tuskegee University relating to the Tuskegee Institute National Historic Site, Alabama, and for other purposes.</title>
+  </titles>
+  <sponsor id="300089"/>
+  <cosponsors>
+    <cosponsor id="405310" joined="1988-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-04-13">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alabama"/>
+    <term name="Black colleges"/>
+    <term name="Easements"/>
+    <term name="Education"/>
+    <term name="Educational facilities"/>
+    <term name="Historic sites"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/1988--Introduced.
+Authorizes the Secretary of the Interior to convey property known as Grey Columns to the Tuskegee University, Alabama, if specified conditions are met. Authorizes the Secretary to accept an easement from the University for the administration of the Tuskegee Institute National Historic Site.</summary>
+</bill>

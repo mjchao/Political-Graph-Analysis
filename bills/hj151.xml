@@ -1,0 +1,89 @@
+<bill session="100" type="hj" number="151" updated="2016-06-29T08:44:24-04:00">
+  <state datetime="1987-02-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-18"/>
+  </status>
+  <introduced datetime="1987-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate the week of May 31, 1987, through June 6, 1987, as "National Intelligence Community Week".</title>
+  </titles>
+  <sponsor id="410407"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1987-03-18"/>
+    <cosponsor id="400569" joined="1987-03-18"/>
+    <cosponsor id="401417" joined="1987-03-18"/>
+    <cosponsor id="401418" joined="1987-03-18"/>
+    <cosponsor id="401568" joined="1987-03-18"/>
+    <cosponsor id="401755" joined="1987-05-21"/>
+    <cosponsor id="401847" joined="1987-03-18"/>
+    <cosponsor id="402114" joined="1987-03-18"/>
+    <cosponsor id="403178" joined="1987-03-18"/>
+    <cosponsor id="403184" joined="1987-03-18"/>
+    <cosponsor id="403308" joined="1987-03-18"/>
+    <cosponsor id="403545" joined="1987-03-18"/>
+    <cosponsor id="403689" joined="1987-03-18"/>
+    <cosponsor id="403888" joined="1987-03-18"/>
+    <cosponsor id="404002" joined="1987-03-18"/>
+    <cosponsor id="404013" joined="1987-03-18"/>
+    <cosponsor id="404097" joined="1987-03-18"/>
+    <cosponsor id="400143" joined="1987-07-27"/>
+    <cosponsor id="400586" joined="1987-07-27"/>
+    <cosponsor id="404750" joined="1987-03-18"/>
+    <cosponsor id="405646" joined="1987-03-18"/>
+    <cosponsor id="405775" joined="1987-04-06"/>
+    <cosponsor id="400192" joined="1987-02-18"/>
+    <cosponsor id="300055" joined="1987-03-18"/>
+    <cosponsor id="405985" joined="1987-03-18"/>
+    <cosponsor id="406284" joined="1987-03-18"/>
+    <cosponsor id="406530" joined="1987-03-18"/>
+    <cosponsor id="400243" joined="1987-03-18"/>
+    <cosponsor id="400617" joined="1987-03-18"/>
+    <cosponsor id="400595" joined="1987-03-18"/>
+    <cosponsor id="407306" joined="1987-07-27"/>
+    <cosponsor id="407432" joined="1987-04-06"/>
+    <cosponsor id="407457" joined="1987-03-18"/>
+    <cosponsor id="407471" joined="1987-03-18"/>
+    <cosponsor id="407772" joined="1987-05-21"/>
+    <cosponsor id="408109" joined="1987-03-18"/>
+    <cosponsor id="408190" joined="1987-04-06"/>
+    <cosponsor id="408457" joined="1987-04-06"/>
+    <cosponsor id="400333" joined="1987-03-18"/>
+    <cosponsor id="409353" joined="1987-03-18"/>
+    <cosponsor id="409887" joined="1987-04-06"/>
+    <cosponsor id="410066" joined="1987-03-18"/>
+    <cosponsor id="410145" joined="1987-03-18"/>
+    <cosponsor id="410147" joined="1987-03-18"/>
+    <cosponsor id="410455" joined="1987-04-06"/>
+    <cosponsor id="400504" joined="1987-03-18"/>
+    <cosponsor id="400409" joined="1987-05-21"/>
+    <cosponsor id="411725" joined="1987-03-18"/>
+    <cosponsor id="400435" joined="1987-03-18"/>
+    <cosponsor id="411901" joined="1987-03-18"/>
+    <cosponsor id="400439" joined="1987-04-06"/>
+    <cosponsor id="400440" joined="1987-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-18" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="104"/>
+    <bill relation="identical" session="100" type="sj" number="104"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/1987--Introduced.
+Designates the week of May 31 through June 6, 1987, as National Intelligence Community Week.</summary>
+</bill>

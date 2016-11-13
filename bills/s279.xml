@@ -1,0 +1,57 @@
+<bill session="100" type="s" number="279" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-02-26">REPORTED</state>
+  <status>
+    <unknown datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to postpone the transition period for the Veterans' Administration Vet Center program and to delay the due date of certain reports related thereto; and to delay the due date of a report on post-traumatic disorder among Vietnam-era veterans, and for other purposes.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1987-01-06"/>
+    <cosponsor id="300064" joined="1987-01-06"/>
+    <cosponsor id="407268" joined="1987-01-06"/>
+    <cosponsor id="407786" joined="1987-01-06"/>
+    <cosponsor id="300084" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Committee on Veterans. Hearings held on Section 4(b).</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Committee on Veterans. Hearings held on Section 4(b).</text>
+    </action>
+    <calendar datetime="1987-02-26" state="REPORTED">
+      <text>Committee on Veterans. Provisions of measure incorporated into measure S. 477 ordered to be reported.</text>
+    </calendar>
+    <action datetime="1987-03-11">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Committee on Veterans received executive comment from VA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="477"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health"/>
+    <term name="Mental health"/>
+    <term name="Stress (Psychology)"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' rehabilitation"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends Federal veterans' benefits provisions to: (1) extend until October 1, 1990, a certain service transition period in connection with the Veterans Administration's Vet Center Program; (2) delay for an additional year the due date of certain reports by the Administrator of Veterans Affairs concerning such program; and (3) delay until October 1, 1987, the due date of a report by the Administrator on post-traumatic stress disorder among Vietnam-era veterans.</summary>
+</bill>

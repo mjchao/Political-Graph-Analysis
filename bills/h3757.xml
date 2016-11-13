@@ -1,0 +1,146 @@
+<bill session="100" type="h" number="3757" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1988-10-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-31"/>
+  </status>
+  <introduced datetime="1987-12-14"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employees' Leave-Transfer Act of 1987</title>
+    <title type="short" as="reported to house">Federal Employees' Leave-Transfer Act of 1988</title>
+    <title type="short" as="passed house">Federal Employees' Leave-Transfer Act of 1988</title>
+    <title type="short" as="passed senate">Federal Employees Leave Sharing Act of 1988</title>
+    <title type="short" as="enacted">Federal Employees Leave Sharing Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to permit voluntary transfers of leave by Federal employees where needed because of medical or other emergency situation.</title>
+  </titles>
+  <sponsor id="400003"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="1988-03-10"/>
+    <cosponsor id="400542" joined="1988-03-17"/>
+    <cosponsor id="403695" joined="1988-02-16"/>
+    <cosponsor id="400536" joined="1988-03-10"/>
+    <cosponsor id="400205" joined="1988-03-10"/>
+    <cosponsor id="406284" joined="1988-03-02"/>
+    <cosponsor id="406968" joined="1988-02-16"/>
+    <cosponsor id="406974" joined="1988-03-02"/>
+    <cosponsor id="407457" joined="1988-03-17"/>
+    <cosponsor id="407700" joined="1988-02-16"/>
+    <cosponsor id="407721" joined="1988-03-02"/>
+    <cosponsor id="400524" joined="1988-02-16"/>
+    <cosponsor id="408313" joined="1988-02-16"/>
+    <cosponsor id="408407" joined="1988-03-10"/>
+    <cosponsor id="400331" joined="1988-03-10"/>
+    <cosponsor id="409618" joined="1988-03-17"/>
+    <cosponsor id="411065" joined="1988-03-10"/>
+    <cosponsor id="400614" joined="1988-03-10"/>
+    <cosponsor id="400435" joined="1987-12-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-14" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-12-29">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+    <action datetime="1988-01-12">
+      <text>Executive Comment Requested from OMB, OPM, GAO.</text>
+    </action>
+    <action datetime="1988-01-22">
+      <text>Executive Comment Received From GAO.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>Unfavorable Executive Comment Received From OPM.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-02-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-02-10">
+      <text>Unfavorable Executive Comment Received From OMB.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Reported to House (Amended) by House Committee on Post Office and Civil Service.  Report No: 100-519.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Placed on Union Calendar No: 318.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="38" datetime="1988-03-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 408 - 9 (Record Vote No: 38).</text>
+    </vote>
+    <action datetime="1988-03-24">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-05" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-12" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-19">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-31" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-566" type="public" datetime="1988-10-31">
+      <text>Became Public Law No: 100-566.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2140"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="California"/>
+    <term name="Civil service employment"/>
+    <term name="Disability retirement"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Gifts"/>
+    <term name="Leave of absence"/>
+    <term name="Naval bases"/>
+    <term name="Naval personnel"/>
+    <term name="Personnel management"/>
+    <term name="Salaries"/>
+    <term name="Sick leave"/>
+    <term name="Travel costs"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3421"/>
+    <amendment number="s3422"/>
+  </amendments>
+  <summary>10/5/1988--Passed Senate amended.
+(Measure passed Senate, amended) Federal Employees Leave Sharing Act of 1988 - Directs the Office of Personnel Management (OPM) to establish a program under which the annual leave of a Federal employee may be transferred to the annual leave of any other Federal employee if such other employee requires additional leave because of a medical emergency. Excludes District of Columbia government employees from provisions of this Act. Describes the requirements for receiving and using transferred leave and for donating annual leave. Authorizes an employing agency to require certification from one or more physicians, or other appropriate experts, with respect to the reasons why transferred leave is needed. Requires agencies to establish procedures to ensure that a leave recipient is not permitted to use or receive transferred leave after the medical emergency ceases to exist. Provides for restoring unused transferred leave to leave donors on a prorated basis. Provides for the accrual and accumulation of leave by employees using transferred leave. Limits such employees to an accumulation of no more than five days of annual leave and five days of sick leave. Prohibits an employee from being coerced into donating, receiving, or using annual leave under the voluntary leave transfer program. Exempts the following agencies from the provisions of this Act: (1) the Central Intelligence Agency; (2) the Defense Intelligence Agency; (3) the National Security Agency; (4) the Federal Bureau of Investigation; and (5) any executive agency or unit which functions in the conduct of foreign intelligence or counterintelligence activities. Authorizes such agencies to establish voluntary leave-transfer programs consistent with the protection of intelligence sources and methods, and consistent, to the extent practicable, with provisions of this Act. Makes provisions of law prohibiting gifts to superiors inapplicable with respect to leave-transfer programs. Directs OPM to establish a voluntary leave bank program under which: (1) annual leave may be contributed to a leave bank established by the employing agency; and (2) an employee experiencing a medical emergency may use leave from such leave bank. Directs OPM to establish a demonstration project to test voluntary leave bank programs in at least three executive agencies, of which: (1) one agency shall include not less than 100,000 full-time positions; (2) one agency shall include not less than 25,000 full-time positions; and (3) one agency shall include not less than 1,000 full-time positions. Directs each such agency to establish a leave bank (or leave banks) from annual leave contributed by its employees. Requires each agency to establish a Leave Bank Board to administer the leave bank. Requires employees to make a written application to the Board requesting that a specified number of their annual leave hours be transferred to the leave bank. Allows an employee to state a concern and desire to aid a specified proposed leave recipient. Sets forth a formula for determining how much leave an employee may contribute to a leave bank. Declares an employee eligible to be a leave recipient if such employee: (1) experiences a medical emergency and applies to the leave bank for leave; and (2) has contributed the required minimum number of hours to the leave bank in the same calendar year that such employee applies for leave and the contribution is made before the employee submits an application. Sets forth requirements for an application for the receipt of contributions of leave and for the use of such leave. Authorizes such leave to be substituted retroactively for periods of leave-without-pay or used to liquidate an indebtedness for advanced leave. Provides that the prohibition on gifts to supervisors does not apply to the voluntary leave bank programs. Directs the Board to establish procedures to ensure that a leave recipient does not use or receive leave after the medical emergency ceases to exist. Directs OPM to establish procedures under which any transferred leave remaining to the credit of a leave recipient when the medical emergency terminates is restored to the leave bank. Prohibits an employee from intimidating, threatening, or coercing any other employee for the purpose of interfering with such employee's right to contribute, receive, or use annual leave from a leave bank. Provides for intelligence agencies to operate leave bank programs. Requires the leave transfer and leave bank programs to be implemented not later than six months and nine months, respectively, after the date of enactment this Act. Terminates such programs five years after such date. Requires OPM to report to the Congress on the operations of such programs. Provides for continuing the temporary leave transfer program established under the Treasury, Postal Service, and General Government Appropriations Act, 1988, until the programs under this Act take effect. Revises the eligibility for travel expenses of career appointees prior to retirement. Extends the authorization for the Department of the Navy to continue operation of pay demonstration projects at China Lake and San Diego, California, until September 30, 1995. Provides that the limitation on disability compensation payments shall not apply to employees injured in the line of duty by an assault.</summary>
+</bill>

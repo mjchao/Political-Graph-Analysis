@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="2709" updated="2014-03-22T09:52:28-04:00">
+  <state datetime="1987-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-17"/>
+  </status>
+  <introduced datetime="1987-06-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to delay until October 1, 1988, implementation of a Department of Defense proposal under which, in determining the suitability of individuals for enlistment in the Armed Forces, individuals with college credit or a traditional locally issued high school diploma would be considered more favorably than individuals with high school diplomas from alternative means.</title>
+  </titles>
+  <sponsor id="400539"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="1987-10-29"/>
+    <cosponsor id="402114" joined="1987-07-21"/>
+    <cosponsor id="403726" joined="1987-07-21"/>
+    <cosponsor id="403776" joined="1987-07-21"/>
+    <cosponsor id="403904" joined="1987-07-21"/>
+    <cosponsor id="404019" joined="1987-07-21"/>
+    <cosponsor id="404220" joined="1987-07-21"/>
+    <cosponsor id="404422" joined="1987-07-21"/>
+    <cosponsor id="400585" joined="1987-10-29"/>
+    <cosponsor id="400536" joined="1987-07-21"/>
+    <cosponsor id="404733" joined="1987-07-21"/>
+    <cosponsor id="405256" joined="1987-07-21"/>
+    <cosponsor id="406740" joined="1987-07-21"/>
+    <cosponsor id="400238" joined="1987-07-21"/>
+    <cosponsor id="400595" joined="1987-07-21"/>
+    <cosponsor id="400306" joined="1987-07-21"/>
+    <cosponsor id="400314" joined="1987-10-29"/>
+    <cosponsor id="409650" joined="1987-07-21"/>
+    <cosponsor id="409954" joined="1987-07-21"/>
+    <cosponsor id="410145" joined="1987-07-21"/>
+    <cosponsor id="410889" joined="1987-10-29"/>
+    <cosponsor id="400409" joined="1987-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-17" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Recruiting and enlistment"/>
+    <term name="Secondary education"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/1987--Introduced.
+Prohibits the Secretary of Defense from implementing, before October 1, 1988, a program recommended by a Department of Defense Work Group under which, in considering the relative desirability applicants for enlistment in the armed forces, those applicants with college credit or traditional high school diplomas are to be preferred over those receiving high school diplomas through alternative means.</summary>
+</bill>

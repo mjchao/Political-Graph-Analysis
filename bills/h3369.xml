@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3369" updated="2014-03-22T09:52:50-04:00">
+  <state datetime="1987-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-30"/>
+  </status>
+  <introduced datetime="1987-09-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 28 of the United States Code to authorize the appointment of one additional bankruptcy judge for the district of Kansas.</title>
+  </titles>
+  <sponsor id="404602"/>
+  <cosponsors>
+    <cosponsor id="407669" joined="1987-09-30"/>
+    <cosponsor id="409966" joined="1987-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-30" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Bankruptcy"/>
+    <term name="Bankruptcy courts"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Judges"/>
+    <term name="Judicial districts"/>
+    <term name="Kansas"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1987--Introduced.
+Amends the judicial code to increase the number of bankruptcy judgeships in the District of Kansas.</summary>
+</bill>

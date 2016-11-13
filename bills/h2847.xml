@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="2847" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1987-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-30"/>
+  </status>
+  <introduced datetime="1987-06-30"/>
+  <titles>
+    <title type="short" as="introduced">Imported Meat Inspection Reciprocity Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Meat Inspection Act to impose reciprocal inspection requirements for imported meat articles under certain conditions, and for other purposes.</title>
+  </titles>
+  <sponsor id="300058"/>
+  <cosponsors>
+    <cosponsor id="410084" joined="1987-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-30" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-07-02">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-07-02">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+    <action datetime="1987-07-06">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Exports"/>
+    <term name="Food adulteration and inspection"/>
+    <term name="Food and Food Industry"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Livestock"/>
+    <term name="Meat"/>
+    <term name="Meat inspection"/>
+    <term name="Nontariff trade barriers"/>
+    <term name="Reciprocity"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1987--Introduced.
+Imported Meat Inspection Reciprocity Act of 1987 - Amends the Federal Meat Inspection Act to direct the Secretary of Agriculture to investigate the meat inspection requirements of countries which export meat to the United States to determine whether a country applies standards to U.S. meat that: (1) are not substantiated by reliable analytical methods; or (2) are different from standards applied to domestic meat. Directs the Secretary, upon such findings, to: (1) notify the Congress; and (2) prohibit such country from exporting meat to the United States unless the Secretary certifies that such meat has met inspection standards applied by the country to meat imported from the United States.</summary>
+</bill>

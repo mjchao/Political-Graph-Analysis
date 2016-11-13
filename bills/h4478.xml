@@ -1,0 +1,91 @@
+<bill session="100" type="h" number="4478" updated="2014-03-22T09:53:18-04:00">
+  <state datetime="1988-08-08">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-08-08"/>
+  </status>
+  <introduced datetime="1988-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Deceptive Mailings Prevention Act of 1988</title>
+    <title type="short" as="reported to house">Deceptive Mailings Prevention Act of 1988</title>
+    <title type="short" as="passed house">Deceptive Mailings Prevention Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 39 of the United States Code to designate as nonmailable matter solicitations for the purchase of products or services which are provided either free of charge or at a lower price by the Federal Government and solicitations which are offered in terms implying any Federal Government connection or endorsement unless such matter contains conspicuous notice that the products or services offered are provided free of charge by the Federal Government or that the Federal Government does not endorse the products or services offered, and for other purposes.</title>
+  </titles>
+  <sponsor id="407351"/>
+  <cosponsors>
+    <cosponsor id="403529" joined="1988-04-28"/>
+    <cosponsor id="404019" joined="1988-04-28"/>
+    <cosponsor id="400140" joined="1988-06-29"/>
+    <cosponsor id="404705" joined="1988-07-07"/>
+    <cosponsor id="400165" joined="1988-05-26"/>
+    <cosponsor id="404996" joined="1988-05-26"/>
+    <cosponsor id="405006" joined="1988-04-28"/>
+    <cosponsor id="405646" joined="1988-08-04"/>
+    <cosponsor id="405939" joined="1988-04-28"/>
+    <cosponsor id="400211" joined="1988-04-28"/>
+    <cosponsor id="407432" joined="1988-05-26"/>
+    <cosponsor id="407673" joined="1988-06-29"/>
+    <cosponsor id="408092" joined="1988-06-29"/>
+    <cosponsor id="409237" joined="1988-05-26"/>
+    <cosponsor id="409651" joined="1988-06-29"/>
+    <cosponsor id="300091" joined="1988-04-28"/>
+    <cosponsor id="410496" joined="1988-05-26"/>
+    <cosponsor id="400614" joined="1988-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-05-02">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Referred to Subcommittee on Postal Personnel and Modernization.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-08" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-13">
+      <text>Reported to House (Amended) by House Committee on Post Office and Civil Service.  Report No: 100-772 (Part I).</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-07">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPO05" subcommittee="Postal Personnel and Modernization" name="House Post Office and Civil Service"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="939"/>
+    <bill relation="unknown" session="100" type="h" number="1550"/>
+    <bill relation="unknown" session="100" type="h" number="3382"/>
+  </relatedbills>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Advertising and Marketing"/>
+    <term name="Charitable contributions"/>
+    <term name="Consumer protection"/>
+    <term name="Deceptive advertising"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Publishers and publishing"/>
+  </subjects>
+  <amendments/>
+  <summary>8/8/1988--Passed House amended.
+(Measure passed House, amended) Deceptive Mailings Prevention Act of 1988 - Amends Federal law to declare as nonmailable any mail matter which is designed to resemble a bill, invoice, or statement of account due, but which in fact constitutes a solicitation of donations. Requires such mail matter to bear on its face in conspicuous type that it is a solicitation of donations and that the addressee is under no obligation to make any payment. Declares as nonmailable any mail matter which constitutes a solicitation by a non-governmental entity: (1) for the purchase of products or services which are provided free of charge or at a lower price by the Federal Government, or which are substantially the same as such products or services; (2) for the purchase of products or services and which contains a seal, insignia, trade or brand name, or any other term or symbol which reasonably could be interpreted or construed as implying Federal Government connection, approval, or endorsement; and (3) for the contribution of funds and which contains a seal, insignia, trade or brand name, or any other term which could reasonably be interpreted or construed as implying Federal Government connection, approval, or endorsement. Allows the mailing of such matter if it contains a conspicuous disclaimer that it is not a Government document. Provides an exception from such classification as nonmailable matter for publications for which the addressee has paid or promised to pay a consideration or which the addressee has otherwise indicated a desire to receive, unless the solicitation is on behalf of the publisher of the publication. Establishes penalties for violations of this Act.</summary>
+</bill>

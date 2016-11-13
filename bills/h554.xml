@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="554" updated="2014-03-22T09:51:23-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Administrator of the Environmental Protection Agency to make grants to the City of Pittsburgh, Pennsylvania, to pay the costs of constructing the uncompleted portion of the Saw Mill relief sewer.</title>
+  </titles>
+  <sponsor id="400543"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Pennsylvania"/>
+    <term name="Sewerage"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Directs the Administrator of the Environmental Protection Agency to pay for the construction of a portion of the Saw Mill Run relief sewer in Pittsburgh, Pennsylvania. Limits the amount of funds which may be used and takes such funds out of Pennsylvania's allotment under the Federal Water Pollution Control Act.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="100" type="hr" number="528" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives regarding, the denial of a visa to a Member of Congress by the People's Republic of China.</title>
+  </titles>
+  <sponsor id="400231"/>
+  <cosponsors>
+    <cosponsor id="400604" joined="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="China"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional travel"/>
+    <term name="Immigration"/>
+    <term name="Members of Congress"/>
+    <term name="Passports"/>
+    <term name="Right to travel"/>
+    <term name="Transportation and Travel"/>
+    <term name="Visas"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Expresses the sense of the House of Representatives that the United States should cease issuing any visas to officials of the Government of the People's Republic of China (except those in the diplomatic service) until China approves visas without delay for all Members of Congress who have requested them.</summary>
+</bill>

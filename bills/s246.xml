@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="246" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for a Veterans' Administration outpatient satellite clinic in central or southern Jersey.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="401709" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Ambulatory care"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="New Jersey"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Authorizes the Administrator of Veterans Affairs to establish a Veterans Administration outpatient satellite clinic in central or southern New Jersey.</summary>
+</bill>

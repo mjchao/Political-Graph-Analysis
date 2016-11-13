@@ -1,0 +1,30 @@
+<bill session="100" type="s" number="469" updated="2014-03-22T09:54:55-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Rukert Marine Corporation of Baltimore, Maryland.</title>
+  </titles>
+  <sponsor id="300073"/>
+  <cosponsors>
+    <cosponsor id="300086" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Provides for the reliquidation, without liability of the importer of record for antidumping duties, of specified entries.</summary>
+</bill>

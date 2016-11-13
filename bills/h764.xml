@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="764" updated="2014-03-22T09:51:33-04:00">
+  <state datetime="1987-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-27"/>
+  </status>
+  <introduced datetime="1987-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Attorney General to exchange criminal record information with certain State and local agencies.</title>
+  </titles>
+  <sponsor id="402463"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-27" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information"/>
+    <term name="Criminal procedure"/>
+    <term name="Federal-local relations"/>
+    <term name="Federal-state relations"/>
+    <term name="Identification of criminals"/>
+    <term name="Local and Municipal Government"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1987--Introduced.
+Grants access to criminal records in the custody of the Attorney General to non-law enforcement officials and agencies of any State or city if the laws or regulations of such jurisdiction authorize or require such official or agency to acquire criminal record information in the performance of duty. Directs the Attorney General to establish standards and procedures for the acquisition and exchange of such records.</summary>
+</bill>

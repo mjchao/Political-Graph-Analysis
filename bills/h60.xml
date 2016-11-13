@@ -1,0 +1,98 @@
+<bill session="100" type="h" number="60" updated="2014-03-22T09:51:07-04:00">
+  <state datetime="1987-12-19">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="1987-12-19"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Architect of the Capitol to accept gifts and bequests of personal property and money for the benefit of the Capitol Buildings Art Collection.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to Subcommittee on Libraries and Memorials.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-24" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-07-13">
+      <text>Reported to House (Amended) by House Committee on House Administration.  Report No: 100-213.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Placed on Union Calendar No: 129.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Rules.</text>
+    </action>
+    <calendar datetime="1987-09-23">
+      <text>Committee on Rules. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-09-24">
+      <text>Committee on Rules. Reported to Senate by Senator Ford with an amendment and an amendment to the title. With written report No. 100-170.</text>
+    </action>
+    <calendar datetime="1987-09-24" calendar="Senate Legislative" under="General Orders" number="331">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 331.</text>
+    </calendar>
+    <action datetime="1987-12-19">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-19" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>House Concurred, in Senate Amendments , with Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate amendments.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA09" subcommittee="Libraries and Memorials" name="House Administration"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Art"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Congressional office buildings"/>
+    <term name="District of Columbia"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal office buildings"/>
+    <term name="Gifts"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Historic sites"/>
+    <term name="House of Representatives"/>
+    <term name="Probate law and practice"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1371"/>
+  </amendments>
+  <summary>10/5/1988--House agreed to Senate amendment with amendment.
+(House agreed to Senate amendments with amendment) Title I: House of Representatives Provisions - Establishes in the House of Representatives a Fine Arts Board with authority over all works of fine art, historical objects, and similar property of the Congress which are for display or other use in locations under the control of the House. Requires the Clerk of the House to be responsible for the administration, maintenance, and display of the works of fine art and other property, under the supervision and direction of the Board. Requires the Architect of the Capitol to assist the Board and the Clerk in carrying out their responsibilities. Authorizes the Board to accept gifts and conduct other transactions relating to such works of fine art and other property. Establishes in the Treasury the House of Representatives Fine Arts Fund to be available to the Board for disbursement with respect to works of fine art, historical objects and other property, and the conduct of transactions under this title. Requires the Comptroller General to conduct annual audits of Board transactions and to report the results of such audits to the House. Title II: Senate Provisions - Authorizes the Commission on Art and Antiquities of the United States Senate to accept gifts and bequests of money and other property for the purpose of aiding, benefitting, or facilitating the work of the Commission, including the purchase of works of fine art for the Senate wing of the Capitol and any Senate office buildings. Authorizes the Commission to hold, administer, use, invest, reinvest, and sell such gifts and bequests and apply the income produced to further the purposes of this Act. Establishes a fund in the Treasury for the deposit of such gifts, bequests of money, and proceeds from sales of other property. Makes such funds available to the Executive Secretary of the Commission (the Secretary of the Senate) for the work of the Commission. Provides that disbursements from the fund shall be made on vouchers by the Executive Secretary and approved by the Chairman of the Commission. Declares that for tax purposes property accepted by the Commission. Declares that for tax purposes property accepted by the Commission shall be considered a contribution to or for the use of the United States. Authorizes the Executive Secretary to request the Secretary of the Treasury to invest monies in such fund in public debt securities. Directs the Executive Secretary to make an annual public disclosure of the amount and source of each gift and bequest and any investments made. Authorizes the Commission to establish an Advisory Board to encourage the acquisition of fine arts, furnishings, and historical documents and to foster activities relating to the preservation and enhancement of the history and traditions of the Senate.</summary>
+</bill>

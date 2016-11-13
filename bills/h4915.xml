@@ -1,0 +1,79 @@
+<bill session="100" type="h" number="4915" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1988-07-11">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-07-11"/>
+  </status>
+  <introduced datetime="1988-06-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to revise and extend the program of grants for the prevention and control of sexually transmitted diseases.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors>
+    <cosponsor id="407069" joined="1988-06-23"/>
+    <cosponsor id="410641" joined="1988-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-23" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>For Previous Action See H.R.2779.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-29" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-07-08">
+      <text>Reported to House by House Committee on Energy and Commerce. Report No: 100-763.</text>
+    </action>
+    <action datetime="1988-07-08">
+      <text>Placed on Union Calendar No: 464.</text>
+    </action>
+    <action datetime="1988-07-11">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-11" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-07-12">
+      <text>Received in the Senate and read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1988-07-20">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department, OMB.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>See S.1579.</text>
+    </action>
+    <action datetime="1988-11-04">
+      <text>For Further Action See S.2889.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2779"/>
+    <bill relation="unknown" session="100" type="s" number="1579"/>
+    <bill relation="unknown" session="100" type="s" number="2889"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Authorization"/>
+    <term name="Communicable diseases"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to medical research"/>
+    <term name="Health education"/>
+    <term name="Medical research"/>
+    <term name="Sexually transmitted diseases"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/1988--Introduced.
+Revises provisions of the Public Health Service Act relating to grants concerning acquired immune deficiency syndrome and concerning sexually transmitted diseases. Authorizes appropriations for sexually transmitted disease projects and programs for FY 1989 through 1991.</summary>
+</bill>

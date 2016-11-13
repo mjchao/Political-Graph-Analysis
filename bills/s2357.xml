@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="2357" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-09"/>
+  </status>
+  <introduced datetime="1988-05-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require that the Director of the Office of Management and Budget include a reference to Easton, Pennsylvania, in the official title of the metropolitan statistical area of which it is a part.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4183"/>
+    <bill relation="identical" session="100" type="h" number="4183"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Census and Statistics"/>
+    <term name="Metropolitan areas"/>
+    <term name="Pennsylvania"/>
+    <term name="Population statistics"/>
+    <term name="Statistics"/>
+  </subjects>
+  <amendments/>
+  <summary>5/9/1988--Introduced.
+Requires the Director of the Office of Management and Budget to include a reference to Easton, Pennsylvania, in the official title of the metropolitan statistical area of which it is a part.</summary>
+</bill>

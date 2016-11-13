@@ -1,0 +1,46 @@
+<bill session="100" type="hj" number="128" updated="2014-03-22T09:53:43-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to provide for a four year term of office for Representatives in Congress, and to require that any Representative who officially declares his candidacy for election to the Senate immediately vacate his seat.</title>
+  </titles>
+  <sponsor id="407558"/>
+  <cosponsors>
+    <cosponsor id="402435" joined="1987-03-31"/>
+    <cosponsor id="406554" joined="1987-04-06"/>
+    <cosponsor id="408190" joined="1987-03-17"/>
+    <cosponsor id="409887" joined="1987-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional candidates"/>
+    <term name="Congressional elections"/>
+    <term name="Congressional terms of office"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress"/>
+    <term name="Members of Congress (House)"/>
+    <term name="Senate"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Constitutional Amendment - Provides for a four-year term of office for Members of the House of Representatives. Requires Representatives who declare candidacy for election to the Senate to vacate their seats in the House at the time of such declaration.</summary>
+</bill>

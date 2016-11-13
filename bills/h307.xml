@@ -1,0 +1,98 @@
+<bill session="100" type="h" number="307" updated="2014-03-22T09:51:17-04:00">
+  <state datetime="1987-11-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-11-09"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building and United States Post Office located at 315 West Allegan Street in Lansing, Michigan, as the "Charles E. Chamberlain Federal Building and United States Post Office".</title>
+  </titles>
+  <sponsor id="401847"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-03" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-04">
+      <text>Reported to House by House Committee on Public Works and Transportation.  Report No: 100-128.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Placed on House Calendar No: 36.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Placed on Consent Calendar No: 2.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Called up by House on Call of Consent Calendar.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Passed House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="1987-10-15">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-10-23">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1987-10-23" calendar="Senate Legislative" under="General Orders" number="392">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 392.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-10-27" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-10-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-10-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-10-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-11-09" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-156" type="public" datetime="1987-11-09">
+      <text>Became Public Law No: 100-156.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal installations"/>
+    <term name="Federal office buildings"/>
+    <term name="Michigan"/>
+    <term name="Names"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Designates the Federal Building and United States Post Office located on West Allegan Street in Lansing, Michigan, as the Charles E. Chamberlain Federal Building and United States Post Office.</summary>
+</bill>

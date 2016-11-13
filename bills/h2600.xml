@@ -1,0 +1,90 @@
+<bill session="100" type="h" number="2600" updated="2014-03-22T09:52:26-04:00">
+  <state datetime="1987-09-10">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-09-10"/>
+  </status>
+  <introduced datetime="1987-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Securities and Exchange Commission Authorization Act of 1987</title>
+    <title type="short" as="reported to house">Securities and Exchange Commission Authorization Act of 1987</title>
+    <title type="short" as="passed house">Securities and Exchange Commission Authorization Act of 1987</title>
+    <title type="official" as="introduced">A bill to extend and amend the authorization of appropriation for the Securities and Exchange Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="400110"/>
+  <cosponsors>
+    <cosponsor id="400253" joined="1987-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-04" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Hearings Held by Subcommittee on Telecommunications and Finance Prior to Referral (June 4, 87).</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-09-09">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate; Waiving All Points of Order.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-296.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Placed on Union Calendar No: 181.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Rules Committee Resolution H.Res.257 Reported to House.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Committee Amendment in the Nature of a Substitute Considered as an Original Bill for the Purpose of Amendment.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-09-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-09-10">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>House Incorporated this Measure in S.1452 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="257"/>
+    <bill relation="unknown" session="100" type="s" number="1452"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Congressional oversight"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Securities"/>
+    <term name="Securities and Exchange Commission"/>
+  </subjects>
+  <amendments/>
+  <summary>9/10/1987--Passed House amended.
+(Measure passed House, amended) Securities and Exchange Commission Authorization Act of 1987 - Amends the Securities Exchange Act of 1934 to authorize appropriations for the Securities and Exchange Commission for FY 1988 and 1989. Authorizes additional funds to be appropriated to the Commission for the purpose of establishing and operating the electronic data gathering, analysis, and retrieval (EDGAR) system. Sets forth requirements for the funding of the establishment and operation of the system. Requires the Commission to submit semiannual reports to specified congressional committees on system development, implementation, progress, and costs. Specifies that only a certain amount of funds appropriated for the EDGAR system for FY 1988 and no FY 1989 funds may be expended unless the Commission has made a certification to specified congressional committees with respect to system costs, benefits, implementation, capabilities, and filing requirements. Requires the Commission to prescribe: (1) restrictions on the sale or dissemination of, and access to, EDGAR system information; and (2) requirements for filings with the Commission in a form suitable for entry into the system and in written form until the system is determined to be effective, efficient, and reliable.</summary>
+</bill>

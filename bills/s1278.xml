@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="1278" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-05-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-27"/>
+  </status>
+  <introduced datetime="1987-05-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to permit certain payments under the Act of September 30, 1950 (Public Law 874, 81st Congress) based on incorrect determinations under section 2(a)(1)(C) of that Act.</title>
+  </titles>
+  <sponsor id="410936"/>
+  <cosponsors>
+    <cosponsor id="300099" joined="1987-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Referred to Subcommittee on Education, Arts, Humanities.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Committee on Labor and Human Resources requested executive comment from Education Department, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR01" subcommittee="Education, Arts and Humanities" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Government property"/>
+    <term name="Impacted area programs"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Real estate appraisal"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/1987--Introduced.
+Ratifies certain payments made prior to FY 1986 to certain local educational agencies in areas affected by Federal activities even though the payments were based on incorrect determinations related to the assessed valuation of real property within the relevant school district.</summary>
+</bill>

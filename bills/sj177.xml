@@ -1,0 +1,53 @@
+<bill session="100" type="sj" number="177" updated="2016-06-29T08:45:04-04:00">
+  <state datetime="1987-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-22"/>
+  </status>
+  <introduced datetime="1987-07-22"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to authorize and request the President to designate the month of December 1987, as "Made in the U.S.A. Month".</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1987-09-22"/>
+    <cosponsor id="403346" joined="1987-09-22"/>
+    <cosponsor id="404598" joined="1987-12-02"/>
+    <cosponsor id="300052" joined="1987-11-20"/>
+    <cosponsor id="405310" joined="1987-11-03"/>
+    <cosponsor id="405321" joined="1987-09-22"/>
+    <cosponsor id="300154" joined="1987-09-22"/>
+    <cosponsor id="300053" joined="1987-09-10"/>
+    <cosponsor id="406190" joined="1987-09-22"/>
+    <cosponsor id="300060" joined="1987-11-20"/>
+    <cosponsor id="300066" joined="1987-09-22"/>
+    <cosponsor id="407663" joined="1987-09-22"/>
+    <cosponsor id="300073" joined="1987-09-25"/>
+    <cosponsor id="400563" joined="1987-11-20"/>
+    <cosponsor id="408252" joined="1987-09-22"/>
+    <cosponsor id="408937" joined="1987-09-22"/>
+    <cosponsor id="409225" joined="1987-09-22"/>
+    <cosponsor id="409562" joined="1987-09-22"/>
+    <cosponsor id="300092" joined="1987-12-02"/>
+    <cosponsor id="410315" joined="1987-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="318"/>
+    <bill relation="identical" session="100" type="hj" number="318"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Buy American"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/1987--Introduced.
+Authorizes and requests the President to designate December 1987 as Made in the U.S.A. Month.</summary>
+</bill>

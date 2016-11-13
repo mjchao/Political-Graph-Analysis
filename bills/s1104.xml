@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="1104" updated="2016-06-29T08:45:45-04:00">
+  <state datetime="1987-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-28"/>
+  </status>
+  <introduced datetime="1987-04-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide relief to persons injured by the importation of articles into the United States at less than market value or wholesale price.</title>
+  </titles>
+  <sponsor id="300092"/>
+  <cosponsors>
+    <cosponsor id="402727" joined="1987-04-28"/>
+    <cosponsor id="405310" joined="1987-04-28"/>
+    <cosponsor id="405321" joined="1987-04-28"/>
+    <cosponsor id="300154" joined="1987-05-06"/>
+    <cosponsor id="300066" joined="1987-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Antidumping"/>
+    <term name="Civil actions and liability"/>
+    <term name="Civil procedure"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Dumping"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import relief"/>
+    <term name="Imports"/>
+    <term name="Subpoena"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1987--Introduced.
+Amends U.S. trade law to provide additional remedies relating to: (1) burden of proof; (2) subpoenas; and (3) agents for service of process with respect to actions for relief from the importation of articles at less than market value or wholesale price.</summary>
+</bill>

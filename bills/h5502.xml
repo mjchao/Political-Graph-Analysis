@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="5502" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-12"/>
+  </status>
+  <introduced datetime="1988-10-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the establishment of a United States-Japan Free Trade Area.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors>
+    <cosponsor id="404520" joined="1988-10-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-12" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Customs unions"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Japan"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Introduced.
+Authorizes the President, pursuant to provisions of the Omnibus Trade and Competitiveness Act of 1988 relating to bilateral agreements that eliminate tariff and nontariff trade barriers, to initiate negotiations for a trade agreement with Japan that creates a free trade area between it and the United States. Sets forth the negotiating objectives of such agreement.</summary>
+</bill>

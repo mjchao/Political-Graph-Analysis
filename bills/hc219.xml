@@ -1,0 +1,43 @@
+<bill session="100" type="hc" number="219" updated="2014-03-22T09:54:10-04:00">
+  <state datetime="1987-11-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-19"/>
+  </status>
+  <introduced datetime="1987-11-19"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress in support of the electoral process in Haiti and urging all possible assistance to that process.</title>
+  </titles>
+  <sponsor id="403031"/>
+  <cosponsors>
+    <cosponsor id="404006" joined="1987-11-19"/>
+    <cosponsor id="400536" joined="1987-11-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-19" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Haiti"/>
+    <term name="Violence"/>
+  </subjects>
+  <amendments/>
+  <summary>11/19/1987--Introduced.
+Expresses the sense of the Congress that: (1) all parties in Haiti should refrain from violence and the National Governing Council (NGC) should bring to justice those responsible for violent attacks against officials and facilities of the Provisional Electoral Council (PEC); (2) the NGC should cooperate fully with the PEC to assure a free and fair election and should immediately provide security, as well as administrative and logistical support, to carry out the electoral process; (3) the President should immediately issue a statement supporting the PEC and making clear the U.S. position on the upcoming elections and provide every possible assistance to the electoral process; and (4) other countries, as well as international and regional organizations, should provide assistance and support for a free and fair election in Haiti.</summary>
+</bill>

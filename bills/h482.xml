@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="482" updated="2014-03-22T09:51:22-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Omnibus Crime Control and Safe Streets Act of 1968 to require as a condition of receiving certain assistance under such Act that law enforcement agencies have in effect a binding law enforcement officers' bill of rights.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors>
+    <cosponsor id="400240" joined="1987-06-10"/>
+    <cosponsor id="400611" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Intergovernmental relations"/>
+    <term name="Law enforcement officers"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Amends the Omnibus Crime Control and Safe Streets Act of 1968 to condition assistance to States, local governments, and agencies on the adoption of a law enforcement officers' bill of rights which includes, as a minimum, the following: (1) allowing off-duty officers to engage in political activities; (2) granting officers specified procedural rights in connection with investigations of their conduct on duty which may lead to a personnel action; (3) requiring officer representation on any police complaint review board established in the jurisdiction; (4) prohibiting mandatory disclosure of officers' finances; and (5) establishing a law enforcement officers' grievance commission.</summary>
+</bill>

@@ -1,0 +1,73 @@
+<bill session="100" type="hj" number="3" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1987-03-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to recognize the 100th anniversary of the enactment of the Hatch Act of March 2, 1887, and its role in establishing our Nation's system of State agricultural experiment stations.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="407069" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-02-03" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-02-19">
+      <text>Reported to House by House Committee on Agriculture.  Report No: 100-6.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Placed on House Calendar No: 4.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-02-24" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-02-26" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-02-26">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-03-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-03-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-03-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-7" type="public" datetime="1987-03-05">
+      <text>Became Public Law No: 100-7.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural experiment stations"/>
+    <term name="Agricultural extension work"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Expresses the sense of the Congress that the State agricultural experiment research system should continue to be supported, and that the 100th anniversary of the enactment of the Hatch Act of 1887 should be commemorated on March 3, 1987. Authorizes and requests the President to issue a proclamation commemorating such Act and its role in establishing the system of State agricultural experiment stations.</summary>
+</bill>

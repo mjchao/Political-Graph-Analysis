@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="5286" updated="2014-03-22T09:53:36-04:00">
+  <state datetime="1988-09-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-13"/>
+  </status>
+  <introduced datetime="1988-09-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United State Code, to allow certain institutions that provide treatment for heart and lung conditions to receive reimbursement under the Civilian Health and Medical Program of the Uniformed Services.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-13" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Costs"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Medical economics"/>
+    <term name="Military medicine"/>
+  </subjects>
+  <amendments/>
+  <summary>9/13/1988--Introduced.
+Authorizes the Secretary of Defense to exempt a patient from paying his share of charges for inpatient medical and dental care under the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS) if the hospital to which the patient is admitted does not impose a legal obligation on any of its patients to pay for inpatient care. Permits the Secretary to make payments for a charge for services submitted under a plan contracted for under CHAMPUS to a hospital that does not impose a legal obligation on any of its patients to pay for such services. States that such payments may not exceed the average amount paid for comparable services in the geographic area in which such hospital is located. Requires the Secretary to review the billing practices of hospitals receiving such payments to ensure that such practices are not increasing the Government's costs.</summary>
+</bill>

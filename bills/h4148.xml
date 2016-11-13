@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="4148" updated="2014-03-22T09:53:05-04:00">
+  <state datetime="1988-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-15"/>
+  </status>
+  <introduced datetime="1988-03-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the library building located on the Wurtsmith Air Force Base in the State of Michigan as the "General Earl T. O'Loughlin Library".</title>
+  </titles>
+  <sponsor id="403266"/>
+  <cosponsors>
+    <cosponsor id="409060" joined="1988-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-15" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Referred to Subcommittee on Military Installations and Facilities.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Unfavorable Executive Comment Received From Air Force.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS04" subcommittee="Military Installations and Facilities" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Air bases"/>
+    <term name="Libraries"/>
+    <term name="Michigan"/>
+    <term name="Military bases"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>3/15/1988--Introduced.
+Designates the library building on the Wurtsmith Air Force Base in Michigan as the General Earl T. O'Loughlin Library.</summary>
+</bill>

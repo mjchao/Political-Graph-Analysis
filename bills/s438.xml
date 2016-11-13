@@ -1,0 +1,85 @@
+<bill session="100" type="s" number="438" updated="2016-06-29T08:45:31-04:00">
+  <state datetime="1988-10-04">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="short" as="introduced">Intellectual Property Antitrust Protection Act of 1987</title>
+    <title type="short" as="reported to senate">Intellectual Property Antitrust Protection Act of 1988</title>
+    <title type="short" as="passed senate">Intellectual Property Antitrust Protection Act of 1988</title>
+    <title type="official" as="introduced">A bill to modify the application of the antitrust laws to encourage the licensing and other use of certain intellectual property.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1987-05-06"/>
+    <cosponsor id="403346" joined="1987-08-05"/>
+    <cosponsor id="300052" joined="1987-02-03"/>
+    <cosponsor id="405795" joined="1987-02-03"/>
+    <cosponsor id="300157" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on Antitrust, Monopolies and Business.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on Technology and the Law.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Subcommittee on Technology and the Law. Hearings held jointly with the Subcommittee on Antitrust, Monopolies and Business Rights.</text>
+    </action>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-08-25">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden under the authority of the order of Aug 11, 88 with an amendment in the nature of a substitute. With written report No. 100-492.</text>
+    </action>
+    <calendar datetime="1988-08-25" calendar="Senate Legislative" under="General Orders" number="914">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 914.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSJU01" subcommittee="Antitrust, Monopolies and Business Rights" name="Senate Judiciary"/>
+    <committee activity="Referral, Hearings" code="SSJU05" subcommittee="Technology and the Law" name="Senate Judiciary"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Antitrust actions"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Business intelligence"/>
+    <term name="Civil actions and liability"/>
+    <term name="Computers"/>
+    <term name="Copyright"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Intellectual property"/>
+    <term name="Interest"/>
+    <term name="Inventions"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal fees"/>
+    <term name="Patents"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Science and technology"/>
+    <term name="Semiconductors"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Passed Senate amended.
+(Measure passed Senate, amended) Title I: Intellectual Property - Intellectual Property Antitrust Protection Act of 1988 - Provides that an intellectual property right shall not be presumed to define a market or to establish market power or monopoly power in any action in which the owner, licensor, licensee, or other holder of such right is alleged to have violated the antitrust laws in the marketing or distribution of a product or service protected by such a right. Title II: Patent Misuse Doctrine Reform - Provides that no patent owner shall be denied relief or deemed guilty of misuse or illegal extension of the patent right by virtue of his or her licensing practices, actions, or inactions relating to the patent, unless such conduct violates the antitrust laws.</summary>
+</bill>

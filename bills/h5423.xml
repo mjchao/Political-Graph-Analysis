@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="5423" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-10-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-24"/>
+  </status>
+  <introduced datetime="1988-09-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize continued storage of water at Abiquiu Dam in New Mexico.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-29" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-07" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-522" type="public" datetime="1988-10-24">
+      <text>Became Public Law No: 100-522.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5327"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Dams"/>
+    <term name="New Mexico"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water storage"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1988--Introduced.
+Authorizes the Secretary of the Army, acting through the Chief of Engineers, to store specified acre-feet of Rio Grande system water at Abiquiu Dam, New Mexico, in lieu of water storage already authorized, to the extent that contracting entities no longer require such storage. Authorizes the Secretary to acquire, as necessary, interests in lands required for such storage. Subjects the authorization to store water and to acquire lands to the provisions of the Rio Grande Compact and the resolutions of the Rio Grande Compact Commission.</summary>
+</bill>

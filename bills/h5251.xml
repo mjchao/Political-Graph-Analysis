@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="5251" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-09-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-07"/>
+  </status>
+  <introduced datetime="1988-09-07"/>
+  <titles>
+    <title type="short" as="introduced">Moderate Income Housing Accessibility Act</title>
+    <title type="official" as="introduced">A bill to amend the Stewart B. McKinney Homeless Assistance Act to clarify the provisions relating to the use of surplus Federal property to assist the homeless.</title>
+  </titles>
+  <sponsor id="400104"/>
+  <cosponsors>
+    <cosponsor id="400567" joined="1988-09-26"/>
+    <cosponsor id="400551" joined="1988-09-26"/>
+    <cosponsor id="400018" joined="1988-09-26"/>
+    <cosponsor id="403864" joined="1988-09-26"/>
+    <cosponsor id="404068" joined="1988-09-28"/>
+    <cosponsor id="407558" joined="1988-09-26"/>
+    <cosponsor id="409618" joined="1988-09-26"/>
+    <cosponsor id="400369" joined="1988-09-26"/>
+    <cosponsor id="409887" joined="1988-09-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-07" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-09-07">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-09-12">
+      <text>Referred to Subcommittee on Government Activities and Transportation.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO03" subcommittee="Government Activities and Transportation" name="House Government Operations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Armed forces and national security"/>
+    <term name="Federal aid to housing"/>
+    <term name="Federal installations"/>
+    <term name="Government operations and politics"/>
+    <term name="Homeless"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing finance"/>
+    <term name="Mortgage guaranty insurance"/>
+    <term name="Mortgages"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public assistance programs"/>
+    <term name="Surplus government property"/>
+    <term name="Veterans' loans"/>
+  </subjects>
+  <amendments/>
+  <summary>9/7/1988--Introduced.
+Moderate Income Housing Accessibility Act - Amends the Stewart B. McKinney Homeless Assistance Act to make title V of such Act (use of surplus Federal property) inapplicable to specified real or personal property of the Departments of Housing and Urban Development (including the Government National Mortgage Association) and of Agriculture, or of the Veterans Administration, in connection with mortgage or loan insurance or guarantee programs.</summary>
+</bill>

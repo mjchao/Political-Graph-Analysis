@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="5057" updated="2014-03-22T09:53:32-04:00">
+  <state datetime="1988-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-14"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Sacramento Area Flood Control Act of 1988</title>
+    <title type="official" as="introduced">A bill to provide for flood protection along the Sacramento River, and for other purposes.</title>
+  </titles>
+  <sponsor id="404013"/>
+  <cosponsors>
+    <cosponsor id="400256" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-07-28">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1988-11-17">
+      <text>For Further Action See S.2100.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Canals"/>
+    <term name="Dams"/>
+    <term name="Flood control"/>
+    <term name="National recreation areas"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="Rivers"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Introduced.
+Sacramento Area Flood Control Act of 1988 - Amends the Flood Control Act of 1917 to modify the project for flood protection along the Sacramento River and its tributaries, California, to: (1) provide flood protection to the Sacramento metropolitan area by constructing a flood control dam on the North Fork of the American River designed to not preclude enlargement to help meet hydroelectric power and local water supply needs, subject to obtaining appropriate non-Federal sponsorship of such purposes; (2) bring up to current design standards, modify, and extend the Sacramento River Flood Control project involving areas of the American River and its tributaries from Nimbus Dam downstream to the Sacramento River, and areas along the Sacramento River and its bypass system from the Feather River downstream to Freeport; (3) improve the operational efficiency of the Folsom Dam project; and (4) provide fish and wildlife mitigation as necessary. Provides for determining Federal and non-Federal costs and for crediting non-Federal interest with prior flood control construction work. Declares that adequate progress shall be deemed to have been made on the flood protection system for Sacramento to make such system eligible for premium rates for flood insurance. Deauthorizes the Auburn Dam and the Folsom South Canal and incorporates existing features with the flood control project authorized by this Act. Directs the Secretary of the Interior to report to the Congress on a study to determine the feasibility of designating the Auburn Project Reservation as a national recreation area.</summary>
+</bill>

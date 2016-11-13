@@ -1,0 +1,122 @@
+<bill session="100" type="h" number="1123" updated="2014-03-22T09:51:42-04:00">
+  <state datetime="1987-04-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-04-24"/>
+  </status>
+  <introduced datetime="1987-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Food Security Act of 1985 to extend the date for submitting the report required by the National Commission on Dairy Policy.</title>
+  </titles>
+  <sponsor id="404869"/>
+  <cosponsors>
+    <cosponsor id="300017" joined="1987-02-18"/>
+    <cosponsor id="402710" joined="1987-02-18"/>
+    <cosponsor id="405114" joined="1987-02-18"/>
+    <cosponsor id="300057" joined="1987-02-18"/>
+    <cosponsor id="300058" joined="1987-02-18"/>
+    <cosponsor id="406111" joined="1987-02-18"/>
+    <cosponsor id="406790" joined="1987-02-18"/>
+    <cosponsor id="408097" joined="1987-02-18"/>
+    <cosponsor id="408342" joined="1987-02-18"/>
+    <cosponsor id="409400" joined="1987-02-18"/>
+    <cosponsor id="410261" joined="1987-02-18"/>
+    <cosponsor id="400389" joined="1987-02-18"/>
+    <cosponsor id="411166" joined="1987-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-18" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-20">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-02-20">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Subcommittee on Livestock, Dairy, and Poultry Discharged.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-02-25" state="REPORTED">
+      <text>Ordered to be Reported by Voice Vote.</text>
+    </calendar>
+    <action datetime="1987-02-27">
+      <text>Reported to House by House Committee on Agriculture.  Report No: 100-9.</text>
+    </action>
+    <action datetime="1987-02-27">
+      <text>Placed on Union Calendar No: 6.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-03-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1987-03-06" calendar="Senate Legislative" under="General Orders" number="25">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 25.</text>
+    </calendar>
+    <action datetime="1987-04-07">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Senate struck all after the Enacting Clause and substituted the language of S. 410 amended.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-04-07" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate in lieu of S. 410 with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-04-08">
+      <text>Measure sent to the House.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1987-04-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-04-14">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-04-15">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-04-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-28" type="public" datetime="1987-04-24">
+      <text>Became Public Law No: 100-28.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="410"/>
+    <bill relation="identical" session="100" type="s" number="410"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural policies"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Dairy products"/>
+    <term name="District of Columbia"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Legumes"/>
+    <term name="Milk"/>
+    <term name="Office buildings"/>
+    <term name="Soil conservation"/>
+    <term name="Soil erosion"/>
+  </subjects>
+  <amendments/>
+  <summary>4/7/1987--Passed Senate amended.
+(Measure passed Senate, amended, in lieu of S. 410) Amends the Food Security Act of 1985 to extend from March 31, 1987, to March 31, 1988, the deadline for the National Commission on Dairy Policy report on milk price supports. Authorizes the Commission to lease office space in the District of Columbia and to contract for necessary services and supplies. Exempts from the ineligibility (for agricultural price supports and other related benefits) provisions of the highly erodible land conservation program, persons who grew alfalfa during the 1981 through 1985 crop years in a rotation practice approved by the Secretary of Agriculture, and who have: (1) submitted an approved soil conservation plan with the Secretary and the local committees; and (2) will comply with such plan by no later than June 1, 1988. Permits acceptance as a conservation plan, with regard to the exemption from loss of agricultural benefits due to crop production on highly erodible land, a Soil Conservation Service-approved certificate of the conservation measures a producer has taken. States that the Secretary of Agriculture, the Soil Conservation Service, and the local soil conservation districts shall minimize the documentation required to obtain such an exemption.</summary>
+</bill>

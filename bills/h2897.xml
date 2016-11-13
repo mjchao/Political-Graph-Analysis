@@ -1,0 +1,167 @@
+<bill session="100" type="h" number="2897" updated="2016-06-29T08:43:17-04:00">
+  <state datetime="1987-10-07">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-07"/>
+  </status>
+  <introduced datetime="1987-07-08"/>
+  <titles>
+    <title type="short" as="introduced">Federal Trade Commission Act Amendments of 1987</title>
+    <title type="short" as="passed house">Federal Trade Commission Act Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Trade Commission Act to extend the authorization of appropriations in such Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="406994"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="1987-07-30"/>
+    <cosponsor id="400500" joined="1987-07-08"/>
+    <cosponsor id="400081" joined="1987-07-08"/>
+    <cosponsor id="400110" joined="1987-07-08"/>
+    <cosponsor id="404170" joined="1987-07-08"/>
+    <cosponsor id="407069" joined="1987-07-30"/>
+    <cosponsor id="400253" joined="1987-07-30"/>
+    <cosponsor id="409237" joined="1987-07-30"/>
+    <cosponsor id="409632" joined="1987-07-30"/>
+    <cosponsor id="409901" joined="1987-07-08"/>
+    <cosponsor id="409966" joined="1987-07-08"/>
+    <cosponsor id="410641" joined="1987-07-08"/>
+    <cosponsor id="411224" joined="1987-07-30"/>
+    <cosponsor id="400425" joined="1987-07-30"/>
+    <cosponsor id="411585" joined="1987-07-08"/>
+    <cosponsor id="300100" joined="1987-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-08" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-08-04">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-271 (Part I).</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Referred to House Committee on Public Works and Transportation Sequentially, for a Period Ending not Later than Sep 25, 87.</text>
+    </action>
+    <action datetime="1987-08-17">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Subcommittee on Aviation Discharged.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-09-23">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-09-23">
+      <text>Reported to House (Amended) by House Committee on Public Works and Transportation.  Report No: 100-271 (Part II).</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Placed on Union Calendar No: 194.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee on Rules Granted an Open Rule Providing Two Hours of General Debate.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Rules Committee Resolution H.Res.279 Reported to House.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Committee Amendment in the Nature of a Substitute Considered as an Original Bill for the Purpose of Amendment.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>House Agreed to Amendments Adopted by the Committee of the Whole.</text>
+    </action>
+    <vote how="roll" type="vote" roll="351" datetime="1987-10-07" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 404 - 10 (Record Vote No: 351).</text>
+    </vote>
+    <action datetime="1987-10-07">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>House Incorporated this Measure in S.677 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="279"/>
+    <bill relation="unknown" session="100" type="s" number="677"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Administrative procedure"/>
+    <term name="Advertising"/>
+    <term name="Advertising and Marketing"/>
+    <term name="Agricultural cooperatives"/>
+    <term name="Agricultural marketing regulation"/>
+    <term name="Agricultural societies"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Authorization"/>
+    <term name="Business and commerce"/>
+    <term name="Casualty insurance"/>
+    <term name="Children and youth"/>
+    <term name="Civil actions and liability"/>
+    <term name="Competition"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Consumer protection"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Credit unions"/>
+    <term name="Day care"/>
+    <term name="Deceptive advertising"/>
+    <term name="Dentists"/>
+    <term name="District courts"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal Trade Commission"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Geriatrics"/>
+    <term name="Government liability"/>
+    <term name="Government operations and politics"/>
+    <term name="Handicraft"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Injunctions"/>
+    <term name="Insurance"/>
+    <term name="Jewelry trade"/>
+    <term name="Judicial review"/>
+    <term name="Judicial review of administrative acts"/>
+    <term name="Jurisdiction"/>
+    <term name="Labeling"/>
+    <term name="Life care communities"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Marketing orders"/>
+    <term name="Medical personnel"/>
+    <term name="Native Americans"/>
+    <term name="Physicians"/>
+    <term name="Price policy"/>
+    <term name="Property insurance"/>
+    <term name="Resale price maintenance"/>
+    <term name="Restrictive trade practices"/>
+    <term name="Small business"/>
+    <term name="Social welfare"/>
+    <term name="Unfair or deceptive trade practices"/>
+  </subjects>
+  <amendments>
+    <amendment number="h433"/>
+    <amendment number="h434"/>
+  </amendments>
+  <summary>10/7/1987--Passed House amended.
+(Measure passed House, amended, roll call #351 (404-10)) Federal Trade Commission Act Amendments of 1987 - Amends the Federal Trade Commission Act to deny authority to the Federal Trade Commission (FTC) to find a method of competition unfair (in any action under the Sherman Act) if such method of competition would be held to constitute State action. Prohibits the FTC from instituting a civil action, in cases involving consent orders, to obtain civil penalties for unfair or deceptive acts or practices. Permits a district court to review certain FTC determinations of law which found an act or practice unfair or deceptive. Revises the effective dates for cease and desist orders issued by the FTC. Applies FTC civil investigative demand procedures only to acts, practices, or methods of competition declared unlawful by a law. Denies the FTC authority to: (1) study, investigate, or prosecute agricultural cooperatives for any action not in violation of antitrust Acts; or (2) study or investigate agricultural marketing orders. Provides for congressional review and veto of final rules promulgated by the FTC. Makes any such rule effective unless a joint resolution of disapproval is enacted into law within 90 days of the rule's submission. Prohibits the FTC from intervening in the proceedings of any Federal or State agency except where required by Federal law: (1) unless requested by a Member of Congress or a Federal, State, or local official; or (2) without first notifying specified congressional committees. Excludes Federal credit unions from the FTC's unfair acts and practices regulatory authority. Directs the National Credit Union Administration Board to promulgate and enforce regulations concerning unfair acts and practices by credit unions. Authorizes appropriations for the FTC for FY 1988 through 1990. Directs the FTC to conduct a study of advertising which uses the offering of the opportunity to receive something of value as an inducement to purchase that which is being advertised. Requires the FTC to submit the results of such study to specified congressional committees within one year of the date of enactment of this Act. Directs the FTC to submit semiannual reports in FY 1988 through 1990 to specified congressional committees on instances in which: (1) resale price maintenance has been suspected or alleged; and (2) predatory pricing practices have been suspected or alleged. Directs the FTC to study and report to the Congress on: (1) the use of potentially unfair, deceptive, or misleading practices in the marketing, sale, cost, and coverage of health insurance for the elderly; (2) the increase in property and casualty insurance rates to small business owners, local governments, physicians, dentists, and child care centers; and (3) unfair and deceptive practices in the life care home industry. Directs the FTC to monitor complaints concerning the marketing of imported imitation Native American arts, craft, and jewelry in order to determine the extent to which such imports contain the English name of their country of origin. Requires the FTC to distribute a consumer information brochure to assist consumers in filing complaints with the FTC with respect to such imports. Directs the FTC: (1) to study and report to the Congress on deceptive mail practices used in conjunction with the sale of products or services related to governmental functions and the severity of the injury to consumers from such practices; and (2) if necessary, to initiate a trade regulation rule proceeding respecting such practices.</summary>
+</bill>

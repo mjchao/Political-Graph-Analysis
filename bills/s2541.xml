@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="2541" updated="2014-03-22T09:55:51-04:00">
+  <state datetime="1988-06-20">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-20"/>
+  </status>
+  <introduced datetime="1988-06-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to exclude from gross income the gain on certain sales of lands subject to ground leases.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4620"/>
+    <bill relation="identical" session="100" type="h" number="4620"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Capital gains tax"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing and community development"/>
+    <term name="Housing finance"/>
+    <term name="Income tax"/>
+    <term name="Leases"/>
+    <term name="Tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/1988--Introduced.
+Amends the Internal Revenue Code to exclude from gross income any gain derived from the sale, on or before December 31, 1995, to the lessee of land subject to a ground lease and on which the only buildings are residential.</summary>
+</bill>

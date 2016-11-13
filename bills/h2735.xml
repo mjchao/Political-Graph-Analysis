@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="2735" updated="2014-03-22T09:52:29-04:00">
+  <state datetime="1987-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-18"/>
+  </status>
+  <introduced datetime="1987-06-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Lea Gelb, Chaim Morris Gelb, and Sidney Gelb.</title>
+  </titles>
+  <sponsor id="400003"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-18" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1987-10-28">
+      <text>Executive Comment Requested from State, Foreign Claims Settlement Comm.</text>
+    </action>
+    <action datetime="1987-10-28">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-11-20">
+      <text>Unfavorable Executive Comment Received From Foreign Claims Settlement Comm.</text>
+    </action>
+    <action datetime="1988-06-01">
+      <text>Unfavorable Executive Comment Received From State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/1987--Introduced.
+Deems specified claims of three named individuals, for purposes of the Czechoslovakian Claims Settlement Act of 1981, to be claims for losses resulting from the nationalization of property by the Government of the Czechoslovak Socialist Republic on August 9, 1958. Directs the Foreign Claims Settlement Commission of the United States to redetermine the validity of the claims.</summary>
+</bill>

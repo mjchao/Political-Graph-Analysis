@@ -1,0 +1,60 @@
+<bill session="100" type="h" number="3050" updated="2014-03-22T09:52:43-04:00">
+  <state datetime="1987-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-29"/>
+  </status>
+  <introduced datetime="1987-07-29"/>
+  <titles>
+    <title type="short" as="introduced">Mail Fraud Amendment Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to specify that public corruption cases can be prosecuted as frauds in certain cases.</title>
+  </titles>
+  <sponsor id="407672"/>
+  <cosponsors>
+    <cosponsor id="401947" joined="1987-10-20"/>
+    <cosponsor id="402763" joined="1987-08-03"/>
+    <cosponsor id="403695" joined="1987-08-03"/>
+    <cosponsor id="404006" joined="1987-08-03"/>
+    <cosponsor id="404013" joined="1987-10-20"/>
+    <cosponsor id="404752" joined="1987-08-03"/>
+    <cosponsor id="405256" joined="1987-08-03"/>
+    <cosponsor id="400240" joined="1987-08-03"/>
+    <cosponsor id="400595" joined="1987-12-08"/>
+    <cosponsor id="400299" joined="1987-10-20"/>
+    <cosponsor id="400306" joined="1987-08-03"/>
+    <cosponsor id="410589" joined="1987-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-29" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-24">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Crime prevention"/>
+    <term name="Fraud"/>
+    <term name="Government officials"/>
+    <term name="Misconduct in office"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal service"/>
+    <term name="Public corruption"/>
+    <term name="Radio broadcasting"/>
+    <term name="Telegraph"/>
+    <term name="Television"/>
+    <term name="Television broadcasting"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Introduced.
+Mail Fraud Amendment Act of 1987 - Amends the Federal criminal code to include within the definition of "defraud" (for specified mail fraud violations) certain acts of corruption and misconduct by public officials.</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="100" type="hc" number="290" updated="2014-03-22T09:54:13-04:00">
+  <state datetime="1988-08-11">REPORTED</state>
+  <status>
+    <unknown datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-05-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution supporting the International Decade for Natural Disaster Reduction by endorsing the establishment of a United States Decade for Natural Disaster Reduction.</title>
+  </titles>
+  <sponsor id="400572"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="1988-05-03"/>
+    <cosponsor id="400552" joined="1988-05-03"/>
+    <cosponsor id="400239" joined="1988-05-03"/>
+    <cosponsor id="406974" joined="1988-05-03"/>
+    <cosponsor id="406992" joined="1988-05-03"/>
+    <cosponsor id="407772" joined="1988-05-03"/>
+    <cosponsor id="408244" joined="1988-05-03"/>
+    <cosponsor id="408632" joined="1988-05-03"/>
+    <cosponsor id="409353" joined="1988-05-03"/>
+    <cosponsor id="409632" joined="1988-05-03"/>
+    <cosponsor id="409954" joined="1988-05-03"/>
+    <cosponsor id="411224" joined="1988-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-03" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-05-09">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Subcommittee on Science, Research and Technology Discharged.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-11" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-15">
+      <text>Reported to House by House Committee on Science, Space, and Technology.  Report No: 100-920.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Placed on House Calendar No: 207.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Commemorations"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="International cooperation"/>
+    <term name="Special years"/>
+  </subjects>
+  <amendments/>
+  <summary>5/3/1988--Introduced.
+Declares that the Congress endorses the establishment of a United States Decade for Natural Disaster Reduction as a means of supporting the goal of the International Decade for Natural Disaster Reduction to enhance existing cooperative efforts and promote new cooperative efforts to reduce the devastating impact of natural hazards.</summary>
+</bill>

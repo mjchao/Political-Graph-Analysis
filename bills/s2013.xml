@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="2013" updated="2014-03-22T09:55:33-04:00">
+  <state datetime="1988-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-28"/>
+  </status>
+  <introduced datetime="1988-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prevent distortions in the reapportionment of the House of Representatives caused by the use of census population figures which include illegal aliens.</title>
+  </titles>
+  <sponsor id="300089"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="1988-05-25"/>
+    <cosponsor id="300023" joined="1988-03-30"/>
+    <cosponsor id="404444" joined="1988-03-30"/>
+    <cosponsor id="405310" joined="1988-02-02"/>
+    <cosponsor id="405321" joined="1988-03-21"/>
+    <cosponsor id="300079" joined="1988-04-13"/>
+    <cosponsor id="300094" joined="1988-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3639"/>
+    <bill relation="identical" session="100" type="h" number="3639"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Census"/>
+    <term name="Census and Statistics"/>
+    <term name="Congressional districts"/>
+    <term name="House of Representatives"/>
+    <term name="Illegal aliens"/>
+    <term name="Immigration"/>
+    <term name="Members of Congress"/>
+    <term name="Population statistics"/>
+    <term name="Statistics"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1988--Introduced.
+Directs the Secretary of Commerce to adjust census figures as necessary so that illegal aliens shall not be counted for purposes of the apportionment of Representatives in the Congress.</summary>
+</bill>

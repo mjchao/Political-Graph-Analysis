@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="116" updated="2014-03-22T09:51:09-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish "National Tax Liberation Day" as a legal public holiday.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Commemorations"/>
+    <term name="Holidays"/>
+    <term name="Income tax"/>
+    <term name="Tax returns"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Establishes National Tax Liberation Day as a legal public holiday. Amends the Internal Revenue Code to set such day, which represents the day on which the average taxpayer stops working for the Government's benefit and begins working for his or her own benefit, as the deadline for filing Federal income tax returns.</summary>
+</bill>

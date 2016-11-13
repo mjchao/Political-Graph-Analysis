@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="1185" updated="2014-03-22T09:55:15-04:00">
+  <state datetime="1987-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-12"/>
+  </status>
+  <introduced datetime="1987-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Federal Competitive Coal Leasing Amendments Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Mineral Lands Leasing Act of 1920, as amended, and for other purposes.</title>
+  </titles>
+  <sponsor id="404219"/>
+  <cosponsors>
+    <cosponsor id="300084" joined="1987-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Referred to Subcommittee on Mineral Resources and Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG05" subcommittee="Mineral Resources Development and Production" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Mines and mineral resources"/>
+    <term name="Coal"/>
+    <term name="Energy policy"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="International corporations"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1987--Introduced.
+Federal Competitive Coal Leasing Amendments Act of 1987 - Amends the Federal Coal Leasing Amendments Act of 1976 to prohibit the issuance or assignment of competitive coal leases to an entity engaged in the extraction or production of coal reserves in a foreign country for importation into the United States.</summary>
+</bill>

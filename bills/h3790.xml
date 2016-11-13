@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="3790" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1987-12-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-17"/>
+  </status>
+  <introduced datetime="1987-12-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish certain limitations on the approval of hydropower projects at Lake Tobesofkee in Bibb County, Georgia.</title>
+  </titles>
+  <sponsor id="409442"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-17" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-01-21">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-01-22">
+      <text>See S.2102.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2102"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy facilities"/>
+    <term name="Energy policy"/>
+    <term name="Georgia"/>
+    <term name="Hydroelectric power"/>
+    <term name="Lakes"/>
+    <term name="Licenses"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/1987--Introduced.
+Prohibits the Federal Energy Regulatory Commission from issuing any permit, license, or exemption to any public or private entity relating to any hydroelectric power project located at Lake Tobesofkee in Bibb County, Georgia, without having obtained the prior consent of the governing body of Bibb County.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="1007" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to enable States located on a river or acquifer affected by the siting of a repository for high-level radioactive waste or spent nuclear fuel to participate effectively in the site selection, review, and approval process for such repository, and for other purposes.</title>
+  </titles>
+  <sponsor id="405212"/>
+  <cosponsors>
+    <cosponsor id="405305" joined="1987-05-07"/>
+    <cosponsor id="408420" joined="1987-05-21"/>
+    <cosponsor id="300082" joined="1987-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-07-16">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+    <action datetime="1987-07-17">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2475"/>
+    <bill relation="identical" session="100" type="h" number="2475"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Federal-state relations"/>
+    <term name="Groundwater"/>
+    <term name="Lakes"/>
+    <term name="Nuclear energy"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="Rivers"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+    <term name="Waterways"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Nuclear Waste Policy Act of 1982 to grant any State which lies contiguous to a major river, waterway, or underground aquifer adjacent to which a nuclear waste repository has been proposed to be located the same right to participate in site selection, review, and approval as the State in which the repository is proposed to be located.</summary>
+</bill>

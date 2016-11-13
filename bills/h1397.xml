@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="1397" updated="2014-03-22T09:51:48-04:00">
+  <state datetime="1987-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-04"/>
+  </status>
+  <introduced datetime="1987-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill authorizing the negotiation of agreements to eliminate unfair, restrictive, or discriminatory foreign practices in the marine transportation of automobile imports to the United States.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="400527" joined="1987-03-24"/>
+    <cosponsor id="300011" joined="1987-03-24"/>
+    <cosponsor id="403031" joined="1987-03-24"/>
+    <cosponsor id="400126" joined="1987-03-24"/>
+    <cosponsor id="404097" joined="1987-04-22"/>
+    <cosponsor id="404705" joined="1987-03-04"/>
+    <cosponsor id="405256" joined="1987-03-11"/>
+    <cosponsor id="405646" joined="1987-03-31"/>
+    <cosponsor id="405687" joined="1987-04-09"/>
+    <cosponsor id="400211" joined="1987-03-24"/>
+    <cosponsor id="406461" joined="1987-04-22"/>
+    <cosponsor id="400243" joined="1987-04-22"/>
+    <cosponsor id="407282" joined="1987-04-09"/>
+    <cosponsor id="408023" joined="1987-04-09"/>
+    <cosponsor id="410066" joined="1987-03-11"/>
+    <cosponsor id="400409" joined="1987-04-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-04" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Automobile industry"/>
+    <term name="Automobiles"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Marine transportation"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Shipping agreements"/>
+    <term name="Ships and shipping"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1987--Introduced.
+Directs the President to negotiate trade agreements with each country from which 50,000 or more automobiles are imported into the United States each year that will: (1) eliminate unfair, restrictive, or discriminatory practices in the marine transportation of such imports; and (2) establish procedures whereby a fair and reasonable portion of all such imports are transported to the United States by U.S. owned and operated vessels. Requires the President to report to the Congress semiannually on such negotiations.</summary>
+</bill>

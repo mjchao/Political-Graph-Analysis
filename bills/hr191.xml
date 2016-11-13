@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="191" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-10">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 4) to amend and extend certain laws relating to housing, community and neighborhood development and preservation, and shelter assistance for the homeless and displaced, and for other purposes.</title>
+  </titles>
+  <sponsor id="400600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-10">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-140.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Placed on House Calendar No: 44.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>House Agreed by Voice Vote to Consider H.Res.191, a 2/3 Vote Being Required.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="4"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 4 (housing and community development programs).</summary>
+</bill>

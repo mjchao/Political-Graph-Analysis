@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="2582" updated="2014-03-22T09:52:24-04:00">
+  <state datetime="1987-06-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-02"/>
+  </status>
+  <introduced datetime="1987-06-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Willie G. Simpson.</title>
+  </titles>
+  <sponsor id="403641"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-02" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full settlement of all claims against the United States arising from personal property losses due to a fire in a military warehouse in Kentucky in 1977.</summary>
+</bill>

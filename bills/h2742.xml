@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="2742" updated="2016-06-29T08:43:13-04:00">
+  <state datetime="1987-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-23"/>
+  </status>
+  <introduced datetime="1987-06-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the enforcement provisions of the Federal Election Campaign Act of 1971.</title>
+  </titles>
+  <sponsor id="401231"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-23" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Hearings Held by Subcommittee on Elections Prior to Introduction (May 21, June 2 and 16, 87).</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="780"/>
+    <bill relation="identical" session="100" type="s" number="780"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Election administration"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Jurisdiction"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal fees"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/1987--Introduced.
+Amends the Federal Election Campaign Act of 1971 to revise the enforcement provisions. Changes from mandatory to discretionary the requirement for the Federal Election Commission to attempt informally to prevent or correct a violation of this Act. Reduces the period for making such attempt from 90 to 45 days. Makes optional the requirement to make such an attempt for a period of at most 15 days, if the violation occurs during the 45 days prior to an election. Requires the conciliation agreement settling a violation to carry a civil penalty of a specified amount. Requires the Commission to refer a knowing and willful violation to the Attorney General and mandates the civil penalty for such violation. Expedites from 120 days to 60 days the time which an aggrieved party must wait before seeking judicial redress because the Commission dismissed, or failed to reasonably pursue, a complaint filed by such party. Allows the aggrieved party to file an action in any U.S. district court having jurisdiction. Revises the procedure for filing an action in the name of the complainant. Provides that any monetary award under such action be paid to the United States. Provides for a mandatory award of attorney fees and costs to the prevailing party.</summary>
+</bill>

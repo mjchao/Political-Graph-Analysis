@@ -1,0 +1,63 @@
+<bill session="100" type="s" number="685" updated="2014-03-22T09:54:59-04:00">
+  <state datetime="1987-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-06"/>
+  </status>
+  <introduced datetime="1987-03-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Deficit Reduction Act of 1984 to make permanent the administrative offset debt collection provisions with respect to education loans.</title>
+  </titles>
+  <sponsor id="408970"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1987-06-04"/>
+    <cosponsor id="402023" joined="1987-04-23"/>
+    <cosponsor id="402495" joined="1987-10-22"/>
+    <cosponsor id="300023" joined="1987-05-21"/>
+    <cosponsor id="300026" joined="1987-04-23"/>
+    <cosponsor id="402990" joined="1987-05-19"/>
+    <cosponsor id="300034" joined="1987-07-28"/>
+    <cosponsor id="403515" joined="1987-07-31"/>
+    <cosponsor id="404444" joined="1987-04-22"/>
+    <cosponsor id="404598" joined="1987-07-23"/>
+    <cosponsor id="300052" joined="1987-08-07"/>
+    <cosponsor id="300059" joined="1987-07-28"/>
+    <cosponsor id="300070" joined="1987-05-21"/>
+    <cosponsor id="300071" joined="1987-07-28"/>
+    <cosponsor id="300073" joined="1987-08-07"/>
+    <cosponsor id="408597" joined="1987-04-22"/>
+    <cosponsor id="400565" joined="1987-03-31"/>
+    <cosponsor id="300089" joined="1987-04-22"/>
+    <cosponsor id="409917" joined="1987-07-31"/>
+    <cosponsor id="410242" joined="1987-07-28"/>
+    <cosponsor id="410588" joined="1988-06-07"/>
+    <cosponsor id="300157" joined="1987-07-31"/>
+    <cosponsor id="410936" joined="1987-05-21"/>
+    <cosponsor id="411271" joined="1987-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1930"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Collection of accounts"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Income tax"/>
+    <term name="Student aid"/>
+    <term name="Student loan funds"/>
+    <term name="Tax administration"/>
+    <term name="Tax refunds"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/1987--Introduced.
+Amends the Deficit Reduction Act of 1984 to make permanent the authority of the Internal Revenue Service to offset tax refunds against defaulted Federal student loans.</summary>
+</bill>

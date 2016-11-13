@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="1162" updated="2014-03-22T09:55:14-04:00">
+  <state datetime="1987-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-07"/>
+  </status>
+  <introduced datetime="1987-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employees Health Care Freedom-of-Choice Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend chapter 89 of title 5, United States Code, to provide authority for the direct payment or reimbursement to certain health care professionals; to clarify certain provisions of such chapter with respect to coordination with State and local law; and for other purposes.</title>
+  </titles>
+  <sponsor id="300073"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1988-02-16"/>
+    <cosponsor id="404679" joined="1987-06-11"/>
+    <cosponsor id="405310" joined="1987-09-30"/>
+    <cosponsor id="300056" joined="1988-02-16"/>
+    <cosponsor id="300070" joined="1988-02-16"/>
+    <cosponsor id="407268" joined="1987-07-22"/>
+    <cosponsor id="407622" joined="1988-02-16"/>
+    <cosponsor id="407663" joined="1987-09-18"/>
+    <cosponsor id="400563" joined="1988-03-15"/>
+    <cosponsor id="409225" joined="1987-10-06"/>
+    <cosponsor id="300089" joined="1988-02-16"/>
+    <cosponsor id="409917" joined="1988-02-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Referred to Subcommittee on Federal Services, Post Office.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA05" subcommittee="Federal Services, Post Office, and Civil Service" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Business and commerce"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government employees' health insurance"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/1987--Introduced.
+Federal Employees Health Care Freedom-of-Choice Act of 1987 - Amends provisions of law relating to Federal employee health benefits to authorize direct payment or reimbursement for services performed by licensed health practitioners in the State where they practice.</summary>
+</bill>

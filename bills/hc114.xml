@@ -1,0 +1,65 @@
+<bill session="100" type="hc" number="114" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-30"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution urging the President to implement a new policy with respect to the countries of Indochina in order to resolve the issue of American prisoners of war and Americans missing in action.</title>
+  </titles>
+  <sponsor id="407351"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-05-20"/>
+    <cosponsor id="401837" joined="1987-06-18"/>
+    <cosponsor id="400572" joined="1987-07-01"/>
+    <cosponsor id="401986" joined="1987-07-01"/>
+    <cosponsor id="403242" joined="1987-07-01"/>
+    <cosponsor id="400140" joined="1987-06-04"/>
+    <cosponsor id="405939" joined="1987-06-04"/>
+    <cosponsor id="406157" joined="1987-05-28"/>
+    <cosponsor id="406554" joined="1987-06-16"/>
+    <cosponsor id="406873" joined="1987-06-10"/>
+    <cosponsor id="400595" joined="1987-06-10"/>
+    <cosponsor id="407838" joined="1987-06-08"/>
+    <cosponsor id="408342" joined="1987-06-04"/>
+    <cosponsor id="409500" joined="1987-06-22"/>
+    <cosponsor id="409644" joined="1987-07-01"/>
+    <cosponsor id="300155" joined="1987-06-02"/>
+    <cosponsor id="410567" joined="1987-06-22"/>
+    <cosponsor id="400409" joined="1987-06-11"/>
+    <cosponsor id="411901" joined="1987-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Armed forces and national security"/>
+    <term name="Cambodia"/>
+    <term name="Indochina"/>
+    <term name="International cooperation"/>
+    <term name="Laos"/>
+    <term name="Missing in action"/>
+    <term name="Prisoners of war"/>
+    <term name="Southeast Asia"/>
+    <term name="Vietnam"/>
+    <term name="Vietnamese Conflict"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Urges the President to restructure U.S. policy with respect to the countries of Indochina in order to secure the release of any American prisoners of war and an accounting of Americans missing in action. Recommends that: (1) the President assign to the Secretary of State the responsibility to develop and direct the implementation of this new policy; (2) an ambassador be appointed to represent the U.S. Government in all its relations with the governments of Indochina; and (3) all departments and agencies of the U.S. Government support the implementation of such policy.</summary>
+</bill>

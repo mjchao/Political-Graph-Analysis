@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="4552" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-10"/>
+  </status>
+  <introduced datetime="1988-05-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National Labor Relations Act to make it an unfair labor practice for an employer to hire, or threaten to hire, permanent replacement workers during the first 10 weeks of any strike.</title>
+  </titles>
+  <sponsor id="401755"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-06-23"/>
+    <cosponsor id="400527" joined="1988-09-07"/>
+    <cosponsor id="400542" joined="1988-09-07"/>
+    <cosponsor id="402114" joined="1988-06-23"/>
+    <cosponsor id="400100" joined="1988-06-23"/>
+    <cosponsor id="403689" joined="1988-06-23"/>
+    <cosponsor id="400126" joined="1988-07-07"/>
+    <cosponsor id="404190" joined="1988-06-23"/>
+    <cosponsor id="404220" joined="1988-06-23"/>
+    <cosponsor id="400140" joined="1988-06-23"/>
+    <cosponsor id="404422" joined="1988-07-27"/>
+    <cosponsor id="405256" joined="1988-09-07"/>
+    <cosponsor id="405939" joined="1988-08-03"/>
+    <cosponsor id="406974" joined="1988-07-07"/>
+    <cosponsor id="400595" joined="1988-07-27"/>
+    <cosponsor id="400300" joined="1988-09-08"/>
+    <cosponsor id="400306" joined="1988-06-23"/>
+    <cosponsor id="400314" joined="1988-09-16"/>
+    <cosponsor id="410889" joined="1988-09-07"/>
+    <cosponsor id="400409" joined="1988-09-07"/>
+    <cosponsor id="400611" joined="1988-09-07"/>
+    <cosponsor id="400612" joined="1988-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-10" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-20">
+      <text>Executive Comment Requested from Labor.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Dismissal of employees"/>
+    <term name="Labor disputes"/>
+    <term name="Recruiting of employees"/>
+    <term name="Unfair labor practices"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Introduced.
+Amends the National Labor Relations Act to make it an unfair labor practice for an employer to hire, or threaten to hire, permanent replacement workers during the first ten weeks of any strike (or to enter into agreements for such purposes).</summary>
+</bill>

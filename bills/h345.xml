@@ -1,0 +1,100 @@
+<bill session="100" type="h" number="345" updated="2016-06-29T08:42:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the transfer of body fluids by Federal officers and employees or members of the armed forces of the United States who have acquired immune deficiency syndrome, and for other purposes.</title>
+  </titles>
+  <sponsor id="403184"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-10"/>
+    <cosponsor id="401029" joined="1987-03-10"/>
+    <cosponsor id="400055" joined="1987-04-09"/>
+    <cosponsor id="403178" joined="1987-04-21"/>
+    <cosponsor id="400104" joined="1987-03-10"/>
+    <cosponsor id="403545" joined="1987-02-02"/>
+    <cosponsor id="403769" joined="1987-07-08"/>
+    <cosponsor id="404587" joined="1987-03-30"/>
+    <cosponsor id="405855" joined="1987-09-30"/>
+    <cosponsor id="300055" joined="1987-04-06"/>
+    <cosponsor id="406995" joined="1988-04-11"/>
+    <cosponsor id="300155" joined="1987-03-10"/>
+    <cosponsor id="410147" joined="1988-03-14"/>
+    <cosponsor id="411725" joined="1987-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Civil Service.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-25">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO03" subcommittee="Civil Service" name="House Post Office and Civil Service"/>
+    <committee activity="Referral" code="HSPO04" subcommittee="Human Resources" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Armed forces and national security"/>
+    <term name="Blood"/>
+    <term name="Blood transfusions"/>
+    <term name="Civil actions and liability"/>
+    <term name="Civil service employment"/>
+    <term name="Communicable diseases"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Health"/>
+    <term name="Military personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Makes it an offense for any Federal officer or employee or member of the armed forces, knowing that he or she has acquired immune deficiency syndrome (AIDS), an AIDS-related condition, or having been reliably informed that he or she has been found to have HTLV-III LAV antibodies, to knowingly transfer or attempt to transfer any of his or her bodily fluid to another individual: (1) while employed as such an officer, employee, or member; or (2) in any Federal facility. Requires anyone convicted of such offense to be quarantined for five years under supervision of the Public Health Service or until there is a cure, whichever occurs first. Defines "bodily fluid" and "transfer." Creates as an affirmative defense for anyone charged with such offense proof that: (1) the use of a condom prevented the transfer of bodily fluids, after consent following full disclosure of the risk; or (2) that such transfer occurred after advice from a physician that he or she was noninfectious. Limits consent or previous AIDS infection of the transferee as a defense.</summary>
+</bill>

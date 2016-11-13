@@ -1,0 +1,69 @@
+<bill session="100" type="h" number="3155" updated="2014-03-22T09:52:45-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Coastal Zone Management Act of 1972 regarding activities directly affecting the coastal zone.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-04-13"/>
+    <cosponsor id="401029" joined="1987-08-06"/>
+    <cosponsor id="401310" joined="1987-08-06"/>
+    <cosponsor id="400025" joined="1987-08-06"/>
+    <cosponsor id="401585" joined="1987-08-06"/>
+    <cosponsor id="404002" joined="1987-08-06"/>
+    <cosponsor id="404190" joined="1987-08-06"/>
+    <cosponsor id="405775" joined="1987-08-06"/>
+    <cosponsor id="405887" joined="1987-08-06"/>
+    <cosponsor id="400231" joined="1987-08-06"/>
+    <cosponsor id="406729" joined="1987-08-06"/>
+    <cosponsor id="406765" joined="1987-08-06"/>
+    <cosponsor id="406968" joined="1987-08-06"/>
+    <cosponsor id="400278" joined="1987-08-06"/>
+    <cosponsor id="408457" joined="1987-08-06"/>
+    <cosponsor id="400314" joined="1987-08-06"/>
+    <cosponsor id="400369" joined="1987-08-06"/>
+    <cosponsor id="400387" joined="1987-08-06"/>
+    <cosponsor id="410496" joined="1987-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-08-19">
+      <text>Executive Comment Requested from Interior, Commerce, Navy,, Army Corps of Engineers, DOT, DOD,, USDA, EPA, GSA.</text>
+    </action>
+    <action datetime="1987-08-19">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-01-15">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1988-02-09">
+      <text>Unfavorable Executive Comment Received From DOT.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3202"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Coastal zone"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Federal-state relations"/>
+    <term name="Ocean"/>
+    <term name="Seashores"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Amends the Coastal Zone Management Act of 1972 to prescribe the extent to which Federal agency activities directly affecting the coastal zones must be consistent with approved State management programs. Allows Federal activities to be inconsistent with State coastal zone management programs only if to be consistent would violate Federal law or if substantial unforeseen obstacles are encountered. Describes what is encompassed by "directly affecting activities."</summary>
+</bill>

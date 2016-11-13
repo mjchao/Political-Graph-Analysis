@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="1499" updated="2014-03-22T09:51:52-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the United States Housing Act of 1937 to correct certain inequities in the calculation of fair market rentals and payment standards for lower income housing assistance.</title>
+  </titles>
+  <sponsor id="403476"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-03-23">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Federal aid to housing"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Low-income housing"/>
+    <term name="New York State"/>
+    <term name="Public housing"/>
+    <term name="Rental housing"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Amends the United States Housing Act of 1937 to provide that certain assisted housing fair market rental and voucher payment calculations for Westchester County in the State of New York shall be the same as those for Nassau and Suffolk Counties in such State.</summary>
+</bill>

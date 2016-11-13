@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="1460" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the temporary suspension of duty on certain textile machines.</title>
+  </titles>
+  <sponsor id="409654"/>
+  <cosponsors>
+    <cosponsor id="411948" joined="1987-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-03-23">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Executive Comment Received From Commerce.</text>
+    </action>
+    <action datetime="1987-08-08">
+      <text>Executive Comment Received From Commerce, ITC.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1222"/>
+    <bill relation="identical" session="100" type="s" number="1222"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Machinery"/>
+    <term name="Tariff"/>
+    <term name="Textile industry and fabrics"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Amends the Tariff Schedules of the United States to extend, through December 31, 1991, the duty-free treatment of certain narrow weaving machines and certain lace-braiding machines.</summary>
+</bill>

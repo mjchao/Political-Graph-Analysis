@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="2111" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-02-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-29"/>
+  </status>
+  <introduced datetime="1988-02-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the patent law, title 35, United States Code, to prohibit the patenting of genetically altered or modified animals.</title>
+  </titles>
+  <sponsor id="405212"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="1988-05-10"/>
+    <cosponsor id="300082" joined="1988-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Referred to Subcommittee on Patents, Copyrights and Trademarks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU06" subcommittee="Patents, Copyrights and Trademarks" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Animal genetics"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Biotechnology"/>
+    <term name="Genetic engineering"/>
+    <term name="Genetic research"/>
+    <term name="Patents"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Protection of animals"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>2/29/1988--Introduced.
+Amends the patent laws to state that animals changed through engineering technology, including genetic engineering, are not patentable. Revokes any patents previously granted for any such animals.</summary>
+</bill>

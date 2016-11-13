@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="463" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-06-01">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-06-01"/>
+  </status>
+  <introduced datetime="1988-06-01"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against the conference report on the bill (H.R. 2470) to amend title XVIII of the Social Security Act to provide protection against catastrophic medical expenses under the medicare program, and for other purposes, and against the consideration of such conference report.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-01">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-663.</text>
+    </action>
+    <action datetime="1988-06-01">
+      <text>Placed on House Calendar No: 168.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 269 - 129 (Record Vote No: 163).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="2470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/1988--Introduced.
+Waives points of order against the conference report on H.R. 2470 (Medicare catastrophic expense coverage) and against its consideration.</summary>
+</bill>

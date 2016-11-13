@@ -1,0 +1,104 @@
+<bill session="100" type="h" number="3160" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Quality Control Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to provide consistency in the treatment of quality control review procedures and standards in the Aid to Families with Dependent Children, Medicaid and Food Stamp programs; to impose a temporary moratorium for the collection of penalties under such programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="400256"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-09-21"/>
+    <cosponsor id="400898" joined="1987-10-21"/>
+    <cosponsor id="400975" joined="1987-09-21"/>
+    <cosponsor id="400987" joined="1987-08-06"/>
+    <cosponsor id="400527" joined="1987-09-21"/>
+    <cosponsor id="300011" joined="1987-08-06"/>
+    <cosponsor id="402763" joined="1987-08-06"/>
+    <cosponsor id="403031" joined="1987-09-21"/>
+    <cosponsor id="400100" joined="1987-10-21"/>
+    <cosponsor id="403403" joined="1987-08-06"/>
+    <cosponsor id="403776" joined="1987-09-21"/>
+    <cosponsor id="404013" joined="1987-09-21"/>
+    <cosponsor id="404190" joined="1987-09-21"/>
+    <cosponsor id="404213" joined="1987-10-07"/>
+    <cosponsor id="400140" joined="1987-08-06"/>
+    <cosponsor id="400155" joined="1987-11-09"/>
+    <cosponsor id="404869" joined="1987-09-30"/>
+    <cosponsor id="300057" joined="1987-10-26"/>
+    <cosponsor id="400205" joined="1987-09-21"/>
+    <cosponsor id="400216" joined="1987-08-06"/>
+    <cosponsor id="406729" joined="1987-09-21"/>
+    <cosponsor id="400238" joined="1987-09-21"/>
+    <cosponsor id="400595" joined="1987-08-06"/>
+    <cosponsor id="400278" joined="1987-12-03"/>
+    <cosponsor id="400281" joined="1987-10-27"/>
+    <cosponsor id="408023" joined="1987-08-06"/>
+    <cosponsor id="408190" joined="1987-10-28"/>
+    <cosponsor id="400306" joined="1987-09-21"/>
+    <cosponsor id="408407" joined="1987-08-06"/>
+    <cosponsor id="400331" joined="1987-10-07"/>
+    <cosponsor id="400354" joined="1987-10-26"/>
+    <cosponsor id="409632" joined="1987-08-06"/>
+    <cosponsor id="409901" joined="1987-08-06"/>
+    <cosponsor id="410066" joined="1987-08-06"/>
+    <cosponsor id="400386" joined="1987-10-27"/>
+    <cosponsor id="410567" joined="1987-09-30"/>
+    <cosponsor id="410589" joined="1987-09-21"/>
+    <cosponsor id="410623" joined="1987-09-21"/>
+    <cosponsor id="400612" joined="1987-09-21"/>
+    <cosponsor id="400614" joined="1987-10-28"/>
+    <cosponsor id="411834" joined="1987-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-09-03">
+      <text>Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-09-18">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Provisions of Measure Incorporated Into H.R.1720.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG05" subcommittee="Domestic Marketing, Consumer Relations, and Nutrition" name="House Agriculture"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1720"/>
+    <bill relation="identical" session="100" type="s" number="1440"/>
+    <bill relation="identical" session="100" type="s" number="1440"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Aid to dependent children"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food stamps"/>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Public assistance programs"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Quality Control Amendments of 1987 - Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to extend the moratorium on the reduction of payments to States for high erroneous payment rates under part A (Aid to Families with Dependent Children) of title IV of the Social Security Act through FY 1988. (Currently, such moratorium is set to expire at the close of June 1988.) Includes payments to States under title XIX (Medicaid) of the Act within such moratorium. Amends the Food Security Act of 1985 to place a moratorium on penalties for high erroneous payment rates under the Food Stamp program through FY 1988.</summary>
+</bill>

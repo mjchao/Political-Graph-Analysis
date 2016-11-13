@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="1601" updated="2014-03-22T09:51:54-04:00">
+  <state datetime="1987-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-12"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Tender Offer Reform Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Securities Exchange Act of 1934 to improve the procedures for the conduct of corporate tender offers, and for other purposes.</title>
+  </titles>
+  <sponsor id="400307"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-06-10"/>
+    <cosponsor id="403726" joined="1987-04-21"/>
+    <cosponsor id="403769" joined="1987-07-14"/>
+    <cosponsor id="404869" joined="1987-09-10"/>
+    <cosponsor id="406622" joined="1987-04-07"/>
+    <cosponsor id="400334" joined="1987-06-10"/>
+    <cosponsor id="409400" joined="1987-04-07"/>
+    <cosponsor id="410407" joined="1987-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Corporate mergers"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Information disclosure (Securities law)"/>
+    <term name="Securities"/>
+    <term name="Securities and Investments"/>
+    <term name="Securities regulation"/>
+    <term name="Stocks"/>
+    <term name="Tender offers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Tender Offer Reform Act of 1987 - Amends the Securities Exchange Act of 1934 to require any person whose acquisition results in ownership of more than five percent of an issuer's equity securities to send specified information to the issuer, the appropriate exchange, and the Securities and Exchange Commission within two (currently, ten) days. Authorizes the Commission to reduce such time period in the public interest or for the protection of investors and to provide exemptions from such requirement. Includes among the information required to be disclosed by such a person intending to acquire control of a business any plans for a major change in the business which would affect the communities in which it operates or its management, labor organizations, or employees. Bars civil actions based on such a disclosure or a failure to make such a disclosure. Requires a tender offer to be held open for at least 30 business days after the date such offer is published, sent, or given to security holders. Requires that any subsequent tender offer made while the initial offer is pending be held open for at least 20 days and for at least 30 days after the initial offer is made. Prohibits an issuer of securities from purchasing any of its securities at a price above the average market price during the 30 preceding trading days from any person who holds more than five percent of the class of securities to be purchased and who has held such securities for less than six months, unless: (1) such purchase has been approved by a majority of the aggregate voting securities of the issuer; or (2) the issuer makes an offer of equal value to all holders of securities of that class.</summary>
+</bill>

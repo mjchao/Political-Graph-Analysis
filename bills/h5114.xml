@@ -1,0 +1,128 @@
+<bill session="100" type="h" number="5114" updated="2014-03-22T09:53:33-04:00">
+  <state datetime="1988-09-22">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1988-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Health-Care Programs Amendments of 1988</title>
+    <title type="short" as="passed house">Veterans' Health-Care Programs Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to improve programs for the recruitment and retention of health-care personnel of the Veterans' Administration, to extend certain expiring programs of the Veterans' Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="405006" joined="1988-07-28"/>
+    <cosponsor id="405313" joined="1988-09-16"/>
+    <cosponsor id="405985" joined="1988-09-16"/>
+    <cosponsor id="406682" joined="1988-09-16"/>
+    <cosponsor id="407432" joined="1988-07-28"/>
+    <cosponsor id="409205" joined="1988-09-16"/>
+    <cosponsor id="409442" joined="1988-09-08"/>
+    <cosponsor id="410147" joined="1988-07-28"/>
+    <cosponsor id="410245" joined="1988-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-28" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Referred to Subcommittee on Hospitals and Health Care.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-16">
+      <text>Reported to House (Amended) by House Committee on Veterans' Affairs.  Report No: 100-937.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Referred to House Committee on Ways and Means Sequentially, for a Period Ending not Later than Sep 28, 88.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="333" datetime="1988-09-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 406 - 0 (Record Vote No: 333).</text>
+    </vote>
+    <action datetime="1988-09-26">
+      <text>Received in the Senate and read twice and referred to the Committee on Veterans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Hospitals and Health Care" name="House Veterans' Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Agent Orange"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcoholism"/>
+    <term name="Civil service compensation"/>
+    <term name="Civil service employment"/>
+    <term name="Civil service system"/>
+    <term name="Congressional oversight"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Employee selection"/>
+    <term name="Extended care facilities"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Food service"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospital administrators"/>
+    <term name="Hospital personnel"/>
+    <term name="Hospitals"/>
+    <term name="International affairs"/>
+    <term name="Land transfers"/>
+    <term name="Management information systems"/>
+    <term name="Manpower policy"/>
+    <term name="Medical centers"/>
+    <term name="Medical education"/>
+    <term name="Medical personnel"/>
+    <term name="Medical research"/>
+    <term name="Medical supplies"/>
+    <term name="Medical tests"/>
+    <term name="Military dependents"/>
+    <term name="Military medicine"/>
+    <term name="Nurses"/>
+    <term name="Nursing"/>
+    <term name="Nursing homes"/>
+    <term name="Ohio"/>
+    <term name="Overtime"/>
+    <term name="Parking facilities"/>
+    <term name="Philippines"/>
+    <term name="Recruiting of employees"/>
+    <term name="Retired military personnel"/>
+    <term name="Survivors' benefits"/>
+    <term name="Tennessee"/>
+    <term name="Treatment and rehabilitation of alcoholics"/>
+    <term name="Treatment and rehabilitation of narcotic addicts"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' hospitals"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' rehabilitation"/>
+    <term name="Vietnam veterans"/>
+    <term name="Vietnamese Conflict"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/1988--Passed House amended.
+(Measure passed House, amended, roll call #333 (406-0)) Veterans' Health-Care Programs Amendments of 1988 - Title I: Personnel Provisions - Directs the Administrator of Veterans Affairs to provide special pay for nurses (as is currently provided to physicians and dentists) in a specified amount (depending on full- or part-time employment) upon the execution of a written agreement to complete a specified period of service with the Department of Medicine and Surgery (the Department) of the Veterans Administration (VA). Directs the Administrator, in addition to such special pay, to provide incentive special pay to Department nurses for: (1) tenure of service within the Department of two years or more but less than five years; (2) tenure of service within the Department of five years or more: (3) service in intensive care units, critical care units, emergency rooms, operating rooms, or in nursing specialties for which recruitment and retention of qualified nurses is difficult; (4) service in a specific geographic location in which it is especially difficult to recruit and retain qualified nurses; and (5) service in a head nurse position. Directs the Administrator to provide such incentive special pay, under the same criteria, for eligible part-time nurses employed in the Department. Provides that the agreement required for the payment of special pay may only be entered into if the nurse is a registered nurse and an employee of the Department whose duty assignments involve direct patient care. Provides specified amounts (per annum) of such special incentive pay for qualified nurses within the Department. Extends premium pay for nurses for work performed during certain hours or for overtime work to licensed practical or vocational nurses and nurse assistants of the Department. Excludes Department employees appointed and paid under general Federal provisions governing appointments in the competitive service from any Federal veterans' benefits provisions limiting employment outside of the VA. Includes nurses who are retired military personnel and who are necessary to meet emergency employment needs in the category of Department personnel who are exempt from reductions in retirement pay under Federal provisions regarding pay administration in the competitive service. Waives parking fees at VA medical facilities for certain Department health-care employees who are eligible for basic pay increases. Provides that fees prescribed by the Administrator for parking facilities which are acquired by lease may be in effect only during the original term of the first lease by the VA of such facility. Repeals provisions that require directors of hospitals, domiciliary facilities, and centers who are not physicians to be subject to the same conditions of employment and salary as physicians who are directors of such facilities. Designates each nonphysician director appointed by the Administrator as a career appointee in the Senior Executive Service. Provides that the conversion of nonphysician hospital directors to the Senior Executive Service will not result in pay reductions for such individuals. Excludes certain personnel, appointed under a cross-servicing agreement between the VA and the Department of Defense for the sharing of health-care facilities, from certain VA personnel ceiling limitations. Authorizes the Administrator, upon the recommendation of the Chief Medical Director of VA, to appoint qualified individuals in the competitive civil service to the Department without regard to Federal provisions regarding examination, certification, and appointment in the competitive service. Requires the Administrator to apply the principles of preference for hiring established under such Federal provisions. Title II: Health Program Amendments - Prohibits the Administrator from furnishing treatment and rehabilitation for alcohol or drug dependence or abuse disabilities of veterans after September 30, 1991. Extends through FY 1992 the authority of the President to authorize the Administrator to contract with the Veterans Memorial Medical Center in the Republic of the Philippines to provide for payments for care in such facility for eligible U.S. veterans. Extends through FY 1992 the authority of the Administrator to make grants annually to such facility for equipment upgrading and replacement and rehabilitation of the physical plant and facilities. Increases the amount of grants authorized. Rescinds a certain VA medical regulation relating to the use of community nursing home facilities. Title III: Health-Care Management - Directs the Administrator, during FY 1989 and 1990, to carry out a pilot program in one medical region of the Department for an improved management system for amounts payable to the United States from programs administered by the Department. Requires the Administrator to develop an automated program to carry out billing and collection of fees. Sets forth the requirements of such program and the allocation of amounts received by the VA through such program. Provides that the amounts retained and allocated shall be used for: (1) pay and other personnel benefits to enhance the recruitment and retention of Department health-care employees; and (2) the supplementing of medical equipment accounts of medical centers at which such accounts are deficient. Authorizes appropriations. Requires the Administrator, by October 1, 1988, to compile a list of individuals eligible for medical care under veterans' benefits provisions relating to survivors and dependents of certain veterans. Provides that the Administrator may pay benefits only to persons on such list. Directs the Administrator, no later than October 1, 1988, to establish a procedure for the periodic review of the need for, and the cost-effectiveness of, such medical care. Requires the Inspector General of the VA to report to the Senate and House Veterans' Affairs Committees on the Administrator's compliance with the establishment of such list and the procedures of such review. Directs the Administrator to study alternative methods for providing for the costs of such medical care and to report such study to the Congress. Authorizes appropriations. Makes military dependents who are eligible for medical care under Federal armed forces provisions eligible for health care under sharing agreements for health-care resources between the VA and the Department of Defense. Authorizes the Administrator, as part of a pilot program to assist medical schools which are primarily State-supported, to transfer all right, title, and interest of the United States in certain medical equipment to such schools. Prohibits the VA canteen service from contracting for the performance by any individual not employed by the United States of any activity that would otherwise be performed by an individual employed by the United States who is compensated with nonappropriated funds. Declares that the head of such service may not be required to report to any VA official other than the Administrator and the Deputy Administrator. Provides that funds previously appropriated to the VA for Agent Orange research shall be available, until the end of FY 1989, for blood testing expenses of the Air Force of individuals who participated in the spraying of Agent Orange in Vietnam during the Vietnam era. Directs the Administrator to change the status of a VA satellite outpatient clinic located in Toledo, Ohio, to that of an independent clinic. Directs the Administrator to transfer to the State of Tennessee all right, title, and interest to a tract of land located within the Alvin C. York Veterans' Administration Medical Center in Rutherford County, Tennessee, upon the condition that such transferred land may only be used by such State for a State home nursing care facility.</summary>
+</bill>

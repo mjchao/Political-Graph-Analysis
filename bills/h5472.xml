@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="5472" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1988-10-06"/>
+  <titles>
+    <title type="short" as="introduced">Department of Defense Contractual Equity Act</title>
+    <title type="official" as="introduced">A bill to require competitive contractual practices in the Department of Defense, and for other purposes.</title>
+  </titles>
+  <sponsor id="400104"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-06" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Referred to Subcommittee on Investigations.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS06" subcommittee="Investigations" name="House Armed Services"/>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Construction industries"/>
+    <term name="Defense contracts"/>
+    <term name="Government contractors"/>
+    <term name="Labor and employment"/>
+    <term name="Labor union membership"/>
+    <term name="Labor unions"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Union security"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1988--Introduced.
+Department of Defense Contractual Equity Act - Requires any Department of Defense contract for supplies or services, or for the construction or alteration of facilities owned or leased by the United States, to prohibit the contractor from entering into an arrangement with a labor union which requires that: (1) subcontractors who employ nonunion members shall be denied the right to work under such contract; (2) membership in such union is a condition of employment under any subcontract; (3) subcontractors must hire as their exclusive source of labor only persons belonging to such union; or (4) individuals not affiliated with such union shall be required to pay fees.</summary>
+</bill>

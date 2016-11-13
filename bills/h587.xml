@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="587" updated="2014-03-22T09:51:24-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to name the Veterans' Administration Medical Center in Shreveport, Louisiana, as the "Overton Brooks Veterans' Administration Medical Center".</title>
+  </titles>
+  <sponsor id="409354"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="1987-01-08"/>
+    <cosponsor id="401560" joined="1987-01-08"/>
+    <cosponsor id="405258" joined="1987-01-08"/>
+    <cosponsor id="405580" joined="1987-01-08"/>
+    <cosponsor id="405747" joined="1987-01-08"/>
+    <cosponsor id="406863" joined="1987-01-08"/>
+    <cosponsor id="400397" joined="1987-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Executive Comment Requested from VA.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Executive Comment Received From VA.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Executive Comment Received From VA.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>For Further Action See H.R.2616.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2616"/>
+    <bill relation="identical" session="100" type="s" number="1492"/>
+    <bill relation="identical" session="100" type="s" number="1492"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Louisiana"/>
+    <term name="Names"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Designates the Veterans Administration Medical Center in Shreveport, Louisiana, as the Overton Brooks Veterans Administration Medical Center.</summary>
+</bill>

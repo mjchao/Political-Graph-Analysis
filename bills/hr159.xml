@@ -1,0 +1,37 @@
+<bill session="100" type="hr" number="159" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-06"/>
+  </status>
+  <introduced datetime="1987-05-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to express the sense of the House of Representatives that the Administrator of Veterans' Affairs should rescind certain regulations relating to payment of expenses for travel to Veterans' Administration facilities.</title>
+  </titles>
+  <sponsor id="411948"/>
+  <cosponsors>
+    <cosponsor id="405985" joined="1987-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-06" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="1748"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative procedure"/>
+    <term name="Counseling"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel costs"/>
+    <term name="Veterans' medical care"/>
+    <term name="Vocational rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/1987--Introduced.
+States that the Administrator of Veterans Affairs should rescind certain regulations authorizing the reimbursement of travel expenses for travel to a Veterans Administration facility for the purpose of rehabilitation, counseling, or other medical treatment or care and reinstate previous regulations.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="273" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-09-23">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-09-23"/>
+  </status>
+  <introduced datetime="1987-09-23"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H. R. 2939) to amend title 28, United States Code, with respect to the appointment of independent counsel.</title>
+  </titles>
+  <sponsor id="400155"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-23">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-315.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Placed on House Calendar No: 80.</text>
+    </action>
+    <action datetime="1987-10-21">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-10-21">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="2939"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <summary>9/23/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 2939 (independent counsel appointments).</summary>
+</bill>

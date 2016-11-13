@@ -1,0 +1,53 @@
+<bill session="100" type="hc" number="13" updated="2014-03-22T09:54:04-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution relating to drug trafficking in the Washington metropolitan area.</title>
+  </titles>
+  <sponsor id="404006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to Subcommittee on Fiscal Affairs and Health.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSDT01" subcommittee="Fiscal Affairs and Health" name="House District of Columbia"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="District of Columbia"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Interstate compacts"/>
+    <term name="Maryland"/>
+    <term name="Narcotic traffic"/>
+    <term name="Narcotics and crime"/>
+    <term name="Prosecution"/>
+    <term name="States"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Expresses the sense of the Congress that there should be established, through voluntary agreement, a Washington Area Metropolitan Drug Authority, including the District of Columbia and specified cities and counties in Virginia and Maryland, to bring about changes in drug enforcement in the Washington metropolitan area.</summary>
+</bill>

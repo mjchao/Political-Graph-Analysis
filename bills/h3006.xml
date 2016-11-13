@@ -1,0 +1,81 @@
+<bill session="100" type="h" number="3006" updated="2014-03-22T09:52:36-04:00">
+  <state datetime="1987-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-23"/>
+  </status>
+  <introduced datetime="1987-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Department of Energy National Laboratory Cooperative Research Initiatives Act</title>
+    <title type="official" as="introduced">A bill to improve the integration of universities and private industry into the National Laboratory system of the Department of Energy in order to speed the development of technology in areas of significant economic potential.</title>
+  </titles>
+  <sponsor id="406992"/>
+  <cosponsors>
+    <cosponsor id="409205" joined="1988-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-23" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Executive Comment Requested from DOE.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1480"/>
+    <bill relation="identical" session="100" type="s" number="1480"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advisory bodies"/>
+    <term name="Biological research"/>
+    <term name="Biotechnology"/>
+    <term name="Business and commerce"/>
+    <term name="Business education"/>
+    <term name="Commercialization"/>
+    <term name="Computers"/>
+    <term name="Department of Energy"/>
+    <term name="Education"/>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Entrepreneurs"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Genetic research"/>
+    <term name="Government and business"/>
+    <term name="Higher education"/>
+    <term name="Human genetics"/>
+    <term name="Industrial research"/>
+    <term name="Laboratories"/>
+    <term name="Research and development"/>
+    <term name="Research centers"/>
+    <term name="Science and technology"/>
+    <term name="Semiconductors"/>
+    <term name="Student aid"/>
+    <term name="Student employment"/>
+    <term name="Students"/>
+    <term name="Superconductivity"/>
+    <term name="Technological innovations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/1987--Introduced.
+Department of Energy National Laboratory Cooperative Research Initiatives Act - Amends the Federal Non-Nuclear and Energy Research and Development Act of 1984 to add this Act as a new title. Title I: Establishment of United States Industry and Department of Energy Laboratory Centers for Research on Enabling Technologies for High-Temperature Superconducting Applications - Directs the Secretary of Energy (the Secretary) to form the Council for Research on Enabling Technologies to set research goal and strategies regarding critical enabling technologies in high-temperature superconductors, and to set guidelines for the release of technical findings and developments made by cooperative research centers (established by this Act). Mandates that such centers research enabling technologies for superconducting materials and applications at National Laboratories with appropriate university and private industry participants. Directs the Secretary to seek cost sharing with participating private industries in the establishment of such centers. Title II: Mapping the Human Genome - Establishes within the Department of Energy the National Policy Board on the Human Genome to coordinate various government research activities regarding the mapping of the human genome. Details the Board's functions and membership. Directs the Secretary of Energy to establish the Human Genome Consortium comprised of industry, university, and government agencies to disseminate among the domestic companies the knowledge and intellectual property resulting from cooperative research. Sets forth research objectives. Title III: Semiconductor Technology Manufacturing Excellence Initiative - Directs the Secretary of Defense to initiate and implement a semiconductor manufacturing research program (the Initiative) regarding the practical implications of such technology. Directs the Secretary of Defense to coordinate such implementation with the Secretary of Energy and Department of Energy national laboratories, and other specified bodies. Directs the Secretary of Energy to make semiconductor technology research a line item in the Department of Energy's research and development budget for inclusion in the annual budget submitted to the Congress by the President. Sets forth guidelines for cooperative research and development agreements at national laboratories of the Department of Energy. Directs the Secretary of Energy to establish an advisory committee regarding the most effective use of national laboratories' facilities and personnel. Sets forth such advisory committee's membership and administration. Declares that not more than 50 percent of the cost of the Semiconductor Research Initiative may be paid for with Federal funds. Authorizes appropriations to the Department of Energy for FY 1990 for such Initiative. Title IV: Institute for Entrepreneurial Studies - Directs the Secretary of Energy to establish six regional Institutes for Entrepreneurial Studies at six universities (each associated with a National Laboratory) to conduct work-study programs. Prescribes guidelines for university selection, the Institutes' Governing Board, and the work-study program. Authorizes appropriations.</summary>
+</bill>

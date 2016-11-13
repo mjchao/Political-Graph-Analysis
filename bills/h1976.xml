@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="1976" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1987-04-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-07"/>
+  </status>
+  <introduced datetime="1987-04-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to restore child's insurance benefits for postsecondary school students.</title>
+  </titles>
+  <sponsor id="411426"/>
+  <cosponsors>
+    <cosponsor id="408976" joined="1988-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-07" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Children and youth"/>
+    <term name="College students"/>
+    <term name="Education"/>
+    <term name="Families"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security eligibility"/>
+    <term name="Students"/>
+  </subjects>
+  <amendments/>
+  <summary>4/7/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to permit full-time postsecondary school students to receive child's insurance benefits on the basis of student status. (Currently, only full-time elementary or secondary school students may receive such benefits on the basis of student status.)</summary>
+</bill>

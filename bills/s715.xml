@@ -1,0 +1,46 @@
+<bill session="100" type="s" number="715" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit any active duty, commissioned officer of the Armed Forces of the United States from serving as the Assistant to the President for National Security Affairs, and for other purposes.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="402004" joined="1987-07-31"/>
+    <cosponsor id="300048" joined="1987-07-31"/>
+    <cosponsor id="407268" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-13">
+      <text>Referred to Subcommittee on Manpower and Personnel (Arm Serv).</text>
+    </action>
+    <action datetime="1987-03-13">
+      <text>Committee on Armed Services requested executive comment from Defense Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAS05" subcommittee="Manpower and Personnel" name="Senate Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Executive Office of the President"/>
+    <term name="Government operations and politics"/>
+    <term name="Military personnel"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Officer personnel"/>
+    <term name="Presidential appointments"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Prohibits any active duty, commissioned officer in the armed forces from serving as the Assistant to the President for National Security Affairs, or any other similar position.</summary>
+</bill>

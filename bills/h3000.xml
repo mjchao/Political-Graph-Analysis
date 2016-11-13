@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="3000" updated="2014-03-22T09:52:36-04:00">
+  <state datetime="1987-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-23"/>
+  </status>
+  <introduced datetime="1987-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the Department of Defense from purchasing any product manufactured or assembled by Toshiba America, Incorporated, Toshiba Corporation, or the Kongsberg Vappenfabrik Company of Norway or their subsidiaries.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-23" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign corporations"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Japan"/>
+    <term name="Norway"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/1987--Introduced.
+Prohibits the Department of Defense from purchasing any product manufactured or assembled by Toshiba America, Incorporated, Toshiba Corporation, or the Kongsberg Vaapenfabrik Company of Norway, or their subsidiaries.</summary>
+</bill>

@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="3656" updated="2014-03-22T09:52:55-04:00">
+  <state datetime="1987-11-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-18"/>
+  </status>
+  <introduced datetime="1987-11-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish an interagency committee to review proposed international scientific and technological agreements and increase through negotiations for such agreements equivalent technological access between the United States and foreign countries.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-18" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-11-23">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1987-11-23">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Advisory bodies"/>
+    <term name="Computer software"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="International cooperation in science"/>
+    <term name="Reciprocity"/>
+    <term name="Science and technology"/>
+    <term name="Science, technology, communications"/>
+    <term name="Technology transfer"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/1987--Introduced.
+Establishes an interagency committee to be known as the Committee on Federal Technology Management for International Science and Technology Agreements. Directs the Secretary of State to submit to the Committee all proposed international science and technology agreements, before submission to the prospective foreign government partner, for review of their technological and economic desirability. Requires that the Committee develop language for inclusion in any agreement to protect U.S. interests in the disposition of inventions, technical data, and computer software, made or delivered in the performance of any federally-funded research and development, which are covered by the agreement. Requires the Committee to recommend negotiating goals for the United States Trade Representative to follow in negotiations with foreign countries to increase the degree of equivalent technological access between the United States and foreign countries. Mandates that the Committee prepare and submit to the Congress an annual report, including: (1) a description of all such agreements entered into that year; (2) recommendations for administrative or legislative changes in U.S. policy that would improve equivalent technological access between the United States and foreign countries; (3) an explanation of the general concept of equivalent technological access, and suggestions as to how that concept might be refined; (4) a description of the negotiating goals recommended to the United States Trade Representative; and (5) an assessment of the progress made by the Trade Representative in achieving such goals during that year.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="2444" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1987-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-18"/>
+  </status>
+  <introduced datetime="1987-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to suspend temporarily the duty on certain luggage frames of aluminum until January 1, 1990.</title>
+  </titles>
+  <sponsor id="407721"/>
+  <cosponsors>
+    <cosponsor id="402435" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-18" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-05-22">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Equipment and supplies"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Metals"/>
+    <term name="Tariff"/>
+    <term name="Tourist trade"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1987--Introduced.
+Amends the Tariff Schedules of the United States to suspend the duty on luggage frames of aluminum through December 31, 1989.</summary>
+</bill>

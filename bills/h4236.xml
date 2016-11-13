@@ -1,0 +1,75 @@
+<bill session="100" type="h" number="4236" updated="2014-03-22T09:53:08-04:00">
+  <state datetime="1988-11-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-09"/>
+  </status>
+  <introduced datetime="1988-03-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Act of June 6, 1900, to increase the number of trustees of the Frederick Douglass Memorial and Historical Association.</title>
+  </titles>
+  <sponsor id="404006"/>
+  <cosponsors>
+    <cosponsor id="408313" joined="1988-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-23" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Referred to Subcommittee on Fiscal Affairs and Health.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-28" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-10-18">
+      <text>Reported to House by House Committee on District of Columbia. Report No: 100-1091.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Placed on House Calendar No: 245.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-20" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-28">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-09" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-642" type="public" datetime="1988-11-09">
+      <text>Became Public Law No: 100-642.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSDT01" subcommittee="Fiscal Affairs and Health" name="House District of Columbia"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Black history"/>
+    <term name="Black leadership"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Federal incorporation"/>
+    <term name="Slavery"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/1988--Introduced.
+Amends Federal law relating to the incorporation of the Frederick Douglass Memorial and Historical Association to change the number of members of its Board of Trustees from between five and nine to between nine and 19.</summary>
+</bill>

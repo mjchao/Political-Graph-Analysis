@@ -1,0 +1,36 @@
+<bill session="100" type="sc" number="144" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-09-27">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution correcting the enrollment of S.J.Res. 317.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors>
+    <cosponsor id="300154" joined="1988-09-27"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-27" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-28">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Anniversaries"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Introduced.
+Makes corrections in the enrollment of S.J. Res. 317 (commemorating the bicentennial of the French Revolution).</summary>
+</bill>

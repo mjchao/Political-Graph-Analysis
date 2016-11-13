@@ -1,0 +1,74 @@
+<bill session="100" type="hc" number="141" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-06-25">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution regarding the promotion of democracy and security in the Republic of Korea.</title>
+  </titles>
+  <sponsor id="404019"/>
+  <cosponsors>
+    <cosponsor id="401526" joined="1987-06-24"/>
+    <cosponsor id="404002" joined="1987-06-25"/>
+    <cosponsor id="404765" joined="1987-06-24"/>
+    <cosponsor id="400236" joined="1987-06-16"/>
+    <cosponsor id="406968" joined="1987-06-25"/>
+    <cosponsor id="410145" joined="1987-06-16"/>
+    <cosponsor id="300156" joined="1987-06-16"/>
+    <cosponsor id="411948" joined="1987-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-06-30">
+      <text>Resolution Agreed to in House (Amended) by Yea-Nay Vote: 421 - 0 (Record Vote No: 233).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="Negotiations"/>
+    <term name="North Korea"/>
+    <term name="Recognition (International law)"/>
+    <term name="South Korea"/>
+    <term name="Subversive activities"/>
+    <term name="United Nations membership"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1987--Passed House amended.
+(Measure passed House, amended, roll call #233 (421-0)) Declares that the Congress: (1) reaffirms the commitment of the American people to the security of South Korea and the development of genuine democracy for the Korean people; (2) believes that the North Korean Government should cease its attempts to subvert South Korea; (3) believes that the North Korean Government should agree to measures that will reduce tensions on the Korean peninsula; (4) believes that the North Korean Government should take steps to reduce its international isolation by favorably considering the cross recognition of the two Korean governments and dual membership in the United Nations; and (5) believes that the North Korean Government should take steps to cease its abuse of human and political rights. States that the Congress: (1) regrets the decision by President Chun to suspend discussions on constitutional reform and hold elections under the existing electoral system; (2) calls upon both the Government and the opposition to enter into a good-faith dialogue on the political future of South Korea; (3) believes that one of the objectives of such dialogue should be electorial reform; and (4) calls upon all elements in South Korea to renounce the use of violence for political purposes. Expresses the sense of the Congress that the Government of South Korea should take specified steps toward democratization while simultaneously moving to establish a climate of trust which would facilitate the establishment of a meaningful dialogue with the opposition. States that the Congress welcomes the proposals made by Democratic Justice Party Chairman Roh Tae Woo for political reforms in Korea.</summary>
+</bill>

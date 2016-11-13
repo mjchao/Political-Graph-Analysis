@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="2533" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1987-06-02">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-06-02"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require a report on security arrangements in the Persian Gulf.</title>
+  </titles>
+  <sponsor id="404193"/>
+  <cosponsors>
+    <cosponsor id="407676" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Referred to Subcommittee on Investigations.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Tabled by Committee.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="160" datetime="1987-06-02" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 302 - 105 (Record Vote No: 160).</text>
+    </vote>
+    <action datetime="1987-06-03">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-06-05">
+      <text>Committee on Armed Services requested executive comment from Defense Department.</text>
+    </action>
+    <action datetime="1987-06-11">
+      <text>Committee on Armed Services. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS06" subcommittee="Investigations" name="House Armed Services"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces abroad"/>
+    <term name="International affairs"/>
+    <term name="Iran-Iraq War"/>
+    <term name="Persian Gulf"/>
+    <term name="Persian Gulf States"/>
+    <term name="War"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Directs the Secretary of Defense to submit a report to the Congress on the security needs of U.S. forces in the Persian Gulf region.</summary>
+</bill>

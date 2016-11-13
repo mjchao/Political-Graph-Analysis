@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1010" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Satellite Television Viewing Amendments</title>
+    <title type="official" as="introduced">A bill to amend section 705 of the Communications Act of 1934 to provide for a 2-year moratorium on the encryption of satellite cable programming to allow for the development of marketing systems under the recent amendments made to such section, and for other purposes.</title>
+  </titles>
+  <sponsor id="410097"/>
+  <cosponsors>
+    <cosponsor id="403203" joined="1987-05-18"/>
+    <cosponsor id="410261" joined="1987-05-18"/>
+    <cosponsor id="410623" joined="1987-05-18"/>
+    <cosponsor id="400414" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Cable television"/>
+    <term name="Communication satellites"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Space"/>
+    <term name="Television"/>
+    <term name="Television relay systems"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Satellite Television Viewing Amendments - Amends the Communications Act of 1934 to prohibit the encryption of satellite cable programming for two years after enactment of this Act.</summary>
+</bill>

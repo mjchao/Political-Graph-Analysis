@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="1658" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="short" as="introduced">Endangered Species Act Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Endangered Species Act of 1973 to direct the Secretary of the Treasury to ban importation of shrimp and products from shrimp from certain countries whose shrimping activities result in the incidental taking of threatened or endangered species.</title>
+  </titles>
+  <sponsor id="400302"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-04-21"/>
+    <cosponsor id="401837" joined="1987-04-21"/>
+    <cosponsor id="402114" joined="1987-04-21"/>
+    <cosponsor id="400165" joined="1987-04-21"/>
+    <cosponsor id="408725" joined="1987-04-21"/>
+    <cosponsor id="400389" joined="1987-04-21"/>
+    <cosponsor id="410553" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Executive Comment Requested from Commerce, Treasury.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Endangered species"/>
+    <term name="Fisheries"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food industry"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Seafood industries"/>
+    <term name="Shellfish fisheries"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Endangered Species Act Amendments of 1987 - Amends the Endangered Species Act of 1973 to ban the importation of shrimp and shrimp products from any country whose commercial fishing activities may result in the incidental taking of threatened or endangered species and whose enforcement of restrictions on such incidental taking is not equivalent to that of the United States. Directs the Secretary of Commerce to evaluate each nation exporting shrimp to the United States for compliance.</summary>
+</bill>

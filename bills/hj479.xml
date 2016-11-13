@@ -1,0 +1,75 @@
+<bill session="100" type="hj" number="479" updated="2014-03-22T09:53:59-04:00">
+  <state datetime="1988-04-27">REPORTED</state>
+  <status>
+    <unknown datetime="1988-04-27"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to authorize the entry into force of the "Compact of Free Association" between the United States and the Government of Palau, and for other purposes.</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors>
+    <cosponsor id="401847" joined="1988-03-02"/>
+    <cosponsor id="400236" joined="1988-03-02"/>
+    <cosponsor id="410145" joined="1988-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-03-02">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-27" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on Insular and International Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII07" subcommittee="Insular and International Affairs" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Territories (U.S.)"/>
+    <term name="Developing countries"/>
+    <term name="Palau Islands"/>
+    <term name="Treaties"/>
+    <term name="Trust Territory of the Pacific Islands"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1988--Introduced.
+Authorizes the entry into force of the Compact of Free Association between the United States and the Government of Palau. Allows amounts payable by the United States to the Government of Palau to be paid to a party other than that Government under procedures established by the Compact and related agreements. (Current law prohibits such payments to parties other than that Government.)</summary>
+</bill>

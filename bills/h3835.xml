@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="3835" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1987-12-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-22"/>
+  </status>
+  <introduced datetime="1987-12-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Small Business Investment Act of 1958 to permit prepayment of loans made to State and local development companies, and for other purposes.</title>
+  </titles>
+  <sponsor id="407721"/>
+  <cosponsors>
+    <cosponsor id="402435" joined="1987-12-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-22" state="REFERRED">
+      <text>Referred to House Committee on Small Business.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on SBA, and the General Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSM02" subcommittee="SBA, and the General Economy" name="House Small Business"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business and commerce"/>
+    <term name="Government lending"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>12/22/1987--Introduced.
+Amends the Small Business Investment Act of 1958 to permit a borrower of a loan made from the proceeds of debentures guaranteed by State and local development companies to repay that portion of the loan by paying the outstanding principal balance due (plus interest). Requires the Small Business Administration to promulgate regulations for the prepayment of such loans, and to devise and implement a plan to notify the borrower of any such loan that such loan may be refinanced if the borrower takes action within one year after regulations are issued. Grants any certified development company which is the holder of any such debenture the right of first refusal with respect to the refinancing. Requires the Administration to issue regulations to implement this Act within 60 days after its enactment.</summary>
+</bill>

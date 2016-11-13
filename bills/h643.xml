@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="643" updated="2014-03-22T09:51:31-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Disability Waiting Period Elimination Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend titles II and XVIII of the Social Security Act to eliminate the 5-month waiting period which is presently required in order for an individual to be eligible for benefits based on disability or for the disability freeze and to eliminate the 24-month waiting period for disabled individuals to become eligible for medicare benefits.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors>
+    <cosponsor id="411834" joined="1987-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security eligibility"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Social Security Disability Waiting Period Elimination Act of 1987 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to eliminate the five-month waiting period which is a prerequisite of eligibility for widow's or widower's insurance benefits on the basis of a disability and for disability insurance benefits. Eliminates the 24-month waiting period required before individuals may become eligible for hospital insurance benefits under part A (Hospital Insurance) of title XVIII (Medicare) of the Act on the basis of their entitlement to disability benefits under title II of the Act.</summary>
+</bill>

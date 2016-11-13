@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="3857" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-25"/>
+  </status>
+  <introduced datetime="1988-01-25"/>
+  <titles>
+    <title type="short" as="introduced">Black Lung Benefits Eligibility Clarification Act of 1988</title>
+    <title type="official" as="introduced">A bill to clarify the intent of Congress regarding the interim presumption of eligibility for black lung benefits.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="1988-01-25"/>
+    <cosponsor id="406461" joined="1988-03-09"/>
+    <cosponsor id="400281" joined="1988-01-25"/>
+    <cosponsor id="408052" joined="1988-01-25"/>
+    <cosponsor id="410245" joined="1988-01-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-25" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Labor Standards.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED03" subcommittee="Labor Standards" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Black lung"/>
+    <term name="Coal"/>
+    <term name="Disability evaluation"/>
+    <term name="Health"/>
+    <term name="Lung diseases"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Workers' compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/1988--Introduced.
+Black Lung Benefits Eligibility Clarification Act of 1988 - Amends the Federal Coal Mine Health and Safety Act of 1969 to provide for a rebuttable presumption of disability due to pneumoconiosis with respect to certain coal miners whose claims were filed during a specified period under the Black Lung Benefits Program. Establishes such presumption if a single piece of qualifying evidence is presented. Provides that other relevant medical evidence shall be considered only in connection with rebuttal of the presumption.</summary>
+</bill>

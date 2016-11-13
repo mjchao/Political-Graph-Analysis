@@ -1,0 +1,58 @@
+<bill session="100" type="s" number="2748" updated="2014-03-22T09:55:54-04:00">
+  <state datetime="1988-10-12">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-12"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the authorization in Public Law 96-309 to design and construct a gunite lining on certain reaches of the Bessemer Ditch in the vicinity of Pueblo, Colorado.</title>
+  </titles>
+  <sponsor id="400927"/>
+  <cosponsors>
+    <cosponsor id="411801" joined="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-08-12">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-09-16">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 100-518.</text>
+    </action>
+    <calendar datetime="1988-09-16" calendar="Senate Legislative" under="General Orders" number="951">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 951.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Authorization"/>
+    <term name="Colorado"/>
+    <term name="Economics and public finance"/>
+    <term name="Irrigation"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Passed Senate amended.
+(Measure passed Senate, amended) Authorizes the Secretary of the Interior to undertake the design and construction of additional gunite lining on the Bessemer Ditch in the vicinity of Pueblo, Colorado. Authorizes appropriations for the Federal share of costs, provided that non-Federal interests make cash or in-kind contributions in an amount equal to 22 percent of the total costs of the design and construction of such additional lining. Authorizes the Secretary to contract with the Bessemer Irrigation Ditch Company for the design and construction at cost of such additional gunite lining.</summary>
+</bill>

@@ -1,0 +1,87 @@
+<bill session="100" type="s" number="1389" updated="2014-03-22T09:55:18-04:00">
+  <state datetime="1988-01-11">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-01-11"/>
+  </status>
+  <introduced datetime="1987-06-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National Fish and Wildlife Foundation Establishment Act with respect to management requisition, and disposition of real property, reauthorization, and participation of foreign governments.</title>
+  </titles>
+  <sponsor id="407786"/>
+  <cosponsors>
+    <cosponsor id="300012" joined="1987-11-19"/>
+    <cosponsor id="402412" joined="1987-06-18"/>
+    <cosponsor id="403962" joined="1987-11-18"/>
+    <cosponsor id="404679" joined="1987-10-29"/>
+    <cosponsor id="400565" joined="1987-10-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Subcommittee on Environmental Protection. Hearings held.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Subcommittee on Environmental Protection. Approved for full committee consideration with an amendment favorably.</text>
+    </action>
+    <calendar datetime="1987-11-10" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1987-12-15">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick with amendments. With written report No. 100-255.</text>
+    </action>
+    <calendar datetime="1987-12-15" calendar="Senate Legislative" under="General Orders" number="486">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 486.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-21" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-30">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-01-11" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-240" type="public" datetime="1988-01-11">
+      <text>Became Public Law No: 100-240.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings, Markup, Reporting" code="SSEV02" subcommittee="Environmental Protection" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2563"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Authorization"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Department of the Interior"/>
+    <term name="Economics and public finance"/>
+    <term name="Foundations"/>
+    <term name="International environmental cooperation"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Wildlife conservation"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Passed Senate amended.
+(Measure passed Senate, amended) Amends the National Fish and Wildlife Foundation Establishment Act to expand the purposes of the Foundation to include the furtherance of fish and wildlife management and conservation in other countries. Limits the expenditure of Federal funds for land acquisition by requiring the acquisition of long-term interests in land and the consent of the Director of the U.S. Fish and Wildlife Service. Requires the Foundation to convey such acquisitions to the Director upon request for inclusion in the National Wildlife Refuge System. Authorizes the Foundation to convey lands to other parties or to make grants to other parties for land acquisition if such lands would be administered for the long-term conservation and management of fish and wildlife. Authorizes the Foundation, with the consent of the Director, to convey lands at not less than fair market value if they are no longer valuable for conservation purposes. Authorizes the Foundation to reimburse the Secretary of the Interior for administrative expenses. Authorizes appropriations to the Department of the Interior for FY 1988 through 1993 for the Foundation.</summary>
+</bill>

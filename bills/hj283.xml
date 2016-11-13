@@ -1,0 +1,77 @@
+<bill session="100" type="hj" number="283" updated="2014-03-22T09:53:47-04:00">
+  <state datetime="1987-06-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-06-18"/>
+  </status>
+  <introduced datetime="1987-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution recognizing the service and contributions of the Honorable Wilbur J. Cohen.</title>
+  </titles>
+  <sponsor id="409446"/>
+  <cosponsors>
+    <cosponsor id="400238" joined="1987-05-18"/>
+    <cosponsor id="408621" joined="1987-05-18"/>
+    <cosponsor id="408957" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-18" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="149" datetime="1987-05-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 383 - 0 (Record Vote No: 149).</text>
+    </vote>
+    <action datetime="1987-05-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1987-05-29" calendar="Senate Legislative" under="General Orders" number="140">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 140.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-06-03" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-06-03">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-06-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-06-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-06-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-54" type="public" datetime="1987-06-18">
+      <text>Became Public Law No: 100-54.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Cabinet officers"/>
+    <term name="Commemorations"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1987--Introduced.
+Recognizes Wilbur J. Cohen for outstanding service and contributions for the development of a social insurance system.</summary>
+</bill>

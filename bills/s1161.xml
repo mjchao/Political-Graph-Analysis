@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1161" updated="2014-03-22T09:55:14-04:00">
+  <state datetime="1987-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-07"/>
+  </status>
+  <introduced datetime="1987-05-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for coverage under part B of the medicare program for routine mammograms.</title>
+  </titles>
+  <sponsor id="300073"/>
+  <cosponsors>
+    <cosponsor id="402004" joined="1987-05-07"/>
+    <cosponsor id="300051" joined="1988-04-19"/>
+    <cosponsor id="408597" joined="1988-03-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Breast cancer"/>
+    <term name="Cancer"/>
+    <term name="Health"/>
+    <term name="Medical tests"/>
+    <term name="Medicare"/>
+    <term name="Women's health"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to provide coverage under part B (Supplementary Medical Insurance) of the Medicare program for a routine mammogram for the detection of breast cancer, if the individual receiving the test has not had such a test on a routine basis during the preceding year.</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="3936" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-09"/>
+  </status>
+  <introduced datetime="1988-02-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the appropriation of funds to reimburse the State of Florida for expenses it and its local governments incurred with respect to refugees and related populations.</title>
+  </titles>
+  <sponsor id="406790"/>
+  <cosponsors>
+    <cosponsor id="401363" joined="1988-02-09"/>
+    <cosponsor id="400028" joined="1988-02-09"/>
+    <cosponsor id="402463" joined="1988-02-17"/>
+    <cosponsor id="404002" joined="1988-02-09"/>
+    <cosponsor id="404520" joined="1988-02-25"/>
+    <cosponsor id="404733" joined="1988-02-09"/>
+    <cosponsor id="405855" joined="1988-02-09"/>
+    <cosponsor id="405887" joined="1988-02-09"/>
+    <cosponsor id="400562" joined="1988-02-09"/>
+    <cosponsor id="407051" joined="1988-02-25"/>
+    <cosponsor id="407673" joined="1988-02-09"/>
+    <cosponsor id="300078" joined="1988-02-25"/>
+    <cosponsor id="408621" joined="1988-02-16"/>
+    <cosponsor id="410066" joined="1988-02-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-09" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Authorization"/>
+    <term name="Cuba"/>
+    <term name="Cubans"/>
+    <term name="Economics and public finance"/>
+    <term name="Florida"/>
+    <term name="Haiti"/>
+    <term name="Haitians"/>
+    <term name="Illegal aliens"/>
+    <term name="Intergovernmental fiscal relations"/>
+    <term name="International affairs"/>
+    <term name="Refugees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/1988--Introduced.
+Authorizes FY 1989 appropriations to reimburse the State of Florida and certain political subdivisions for expenses incurred in 1980 and 1981 with respect to Cuban and Haitian nationals who arrived there without prior authorization.</summary>
+</bill>

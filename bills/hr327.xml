@@ -1,0 +1,52 @@
+<bill session="100" type="hr" number="327" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-09"/>
+  </status>
+  <introduced datetime="1987-12-09"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the disposition of the records of the Select Committee to Investigate Covert Arms Transactions with Iran, and for other purposes.</title>
+  </titles>
+  <sponsor id="404996"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-09">
+      <text>Committee on Rules Granted a Rule Providing One Hour of Debate.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Rules Committee Resolution H.Res.329 Reported to House.</text>
+    </action>
+    <action datetime="1987-12-09" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="329"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Archives"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="House of Representatives"/>
+    <term name="Insurgency"/>
+    <term name="Iran-Contra affair"/>
+    <term name="National Archives and Records Administration"/>
+    <term name="Nicaragua"/>
+    <term name="Public records"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/1987--Introduced.
+Terminates the House Select Committee to Investigate Covert Arms Transactions with Iran upon the expiration of the 100th Congress. Requires the Committee to organize its records, complete publication of its records and reports, and provide access to such records before such termination. Requires such records to be transmitted to the Clerk of the House of Representatives for storage in the National Archives.</summary>
+</bill>

@@ -1,0 +1,66 @@
+<bill session="100" type="sj" number="161" updated="2014-03-22T09:54:22-04:00">
+  <state datetime="1987-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-17"/>
+  </status>
+  <introduced datetime="1987-06-17"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution to provide for a balanced budget for the United States Government and for greater accountability in the enactment of tax legislation.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-06-23"/>
+    <cosponsor id="401391" joined="1987-09-09"/>
+    <cosponsor id="403171" joined="1987-07-24"/>
+    <cosponsor id="300031" joined="1987-06-26"/>
+    <cosponsor id="300048" joined="1987-06-19"/>
+    <cosponsor id="300052" joined="1987-06-17"/>
+    <cosponsor id="300079" joined="1987-07-24"/>
+    <cosponsor id="408937" joined="1987-06-17"/>
+    <cosponsor id="409923" joined="1987-07-15"/>
+    <cosponsor id="300094" joined="1987-09-09"/>
+    <cosponsor id="300099" joined="1987-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Subcommittee on Constitution. Approved for full committee consideration S.J. Res. 11 in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="321"/>
+    <bill relation="identical" session="100" type="hj" number="321"/>
+    <bill relation="unknown" session="100" type="sj" number="11"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional budget"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal budgets"/>
+    <term name="Income tax"/>
+    <term name="Legislation"/>
+    <term name="Public debt"/>
+    <term name="Record votes"/>
+    <term name="Tax rates"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/1987--Introduced.
+Constitutional Amendment - Requires the Congress and the President, prior to each fiscal year, to agree, by enactment of a joint resolution, on an estimate of total receipts for that fiscal year. Prohibits outlays for that year from exceeding such estimated receipts unless the Congress, by a three-fifths rollcall vote of each House, provides for a specific excess of outlays over receipts. Requires the Congress, whenever actual outlays exceed actual receipts for any fiscal year, to provide by law for the repayment of such excess in the ensuing fiscal year. Requires a three-fifths rollcall vote of each House to increase the public debt. Directs the President to submit to the Congress a proposed budget for each fiscal year in which total outlays do not exceed total receipts. Requires the approval by a majority of the total membership of each House by rollcall vote before any bill to increase revenue may become law. Waives this article for any fiscal year in which a declaration of war is in effect. Declares that total receipts shall include all receipts of the United States, except those derived from borrowing and total outlays shall include all outlays of the United States except those for repayment of debt principal.</summary>
+</bill>

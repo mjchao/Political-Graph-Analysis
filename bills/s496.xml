@@ -1,0 +1,125 @@
+<bill session="100" type="s" number="496" updated="2014-12-10T13:15:41-05:00">
+  <state datetime="1988-10-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-18"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Computer Matching and Privacy Protection Act of 1987</title>
+    <title type="short" as="passed house">Computer Matching and Privacy Protection Act of 1988</title>
+    <title type="short" as="reported to senate">Computer Matching and Privacy Protection Act of 1987</title>
+    <title type="short" as="passed senate">Computer Matching and Privacy Protection Act of 1987</title>
+    <title type="short" as="enacted">Computer Matching and Privacy Protection Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 5 of the United States Code, to ensure privacy, integrity, and verification of data for computer matching, to establish Data Integrity Boards within Federal agencies, and for other purposes.</title>
+  </titles>
+  <sponsor id="402727"/>
+  <cosponsors>
+    <cosponsor id="300066" joined="1987-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1987-05-19" state="REPORTED">
+      <text>Committee on Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-05-20">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="1987-05-20" calendar="Senate Legislative" under="General Orders" number="133">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 133.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-05-21" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-05-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Referred to Subcommittee on Government Information, Justice, and Agriculture.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-01">
+      <text>House Committee on Government Operations Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-01">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-08-01" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-01">
+      <text>House Incorporated H.R.4699 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>By Senator Glenn from Committee on Governmental Affairs filed written report. Report No. 100-516.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-09-20" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in House amendment with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="382" datetime="1988-10-03" where="h" result="pass" state="PASSED:BILL">
+      <text>House Agreed to Senate Amendments to House Amendments by Yea-Nay Vote: 393 - 8 (Record Vote No: 382).</text>
+    </vote>
+    <topresident datetime="1988-10-03">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-503" type="public" datetime="1988-10-18">
+      <text>Became Public Law No: 100-503.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, Discharged"/>
+    <committee activity="Referral, Hearings" code="HSGO02" subcommittee="Government Information, Justice, and Agriculture" name="House Government Operations"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4699"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Computer security measures"/>
+    <term name="Computers"/>
+    <term name="Computers and government"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Data banks"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal employees"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public assistance programs"/>
+    <term name="Right of privacy"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3172"/>
+  </amendments>
+  <summary>9/20/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendment with an amendment) Computer Matching and Privacy Protection Act of 1988 - Requires Federal agencies to enter into written agreements with other agencies or non-Federal entities before disclosing records for use in computer matching programs. Specifies areas to be addressed in such agreements, including justification for matching, notifying individuals (including Federal employees) whose records are to be matched, procedures for retention and destruction of data after matching, and prohibitions on disclosure of records and the compilation of data. Requires a copy of each agreement to be transmitted to specified congressional committees and available to the public upon request. Prohibits an agency from terminating, suspending, reducing, or making final denial of financial assistance or payment to any individual, or to take any other adverse action against such individual, as a result of information produced by the programs until the agency has verified such information. Provides individuals an opportunity to refute such information. Requires agencies to publish in the Federal Register notice of the establishment or the revision of such programs. Requires agencies to provide notice to the Congress and the Office of Management and Budget of any proposal to establish or alter such programs. Requires each agency to establish a Data Integrity Board to oversee and coordinate the implementation of this Act. Prohibits a Board from approving any written agreement for a matching program unless the agency demonstrates that the proposed program is cost effective through a cost-benefit analysis. Authorizes a Board to waive the requirements for such analysis. Does not require a cost-benefit analysis before the initial approval of a written agreement specifically required by statute. Requires a cost-benefit analysis for any subsequent written agreement for such a program as conducted under the preceding agreement approval. Sets forth a process for appeal to the Director of Management and Budget of matching agreements that are disapproved. Requires the Director to report to the Congress on information obtained from reports from the various Boards. Defines "matching program" as the computerized comparison of: (1) two or more automated systems of records with a set of non-Federal records; or (2) two or more automated Federal personnel or payroll systems of records or a system of Federal personnel or payroll records with a set of non-Federal records. Excludes certain tax refund offset programs from such definition. Requires the Director to provide guidelines, regulations, assistance, and oversight regarding the implementation of this Act. Requires the Office of the Federal Register biennially (currently, annually) to publish rules promulgated and agency notices on records maintained on individuals. Changes the annual report of the President on such information to a biennial report.</summary>
+</bill>

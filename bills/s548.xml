@@ -1,0 +1,129 @@
+<bill session="100" type="s" number="548" updated="2014-03-22T09:54:56-04:00">
+  <state datetime="1987-07-24">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-07-24"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="short" as="introduced">Retiree Benefits Security Act of 1987</title>
+    <title type="short" as="passed senate">Student Loan Bankruptcy Prevention Act</title>
+    <title type="official" as="introduced">A bill to amend title 11, United States Code, the Bankruptcy Code, regarding benefits of certain retired employees.</title>
+  </titles>
+  <sponsor id="407663"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="1987-06-03"/>
+    <cosponsor id="401611" joined="1987-02-19"/>
+    <cosponsor id="402004" joined="1987-03-18"/>
+    <cosponsor id="300016" joined="1987-02-19"/>
+    <cosponsor id="403669" joined="1987-02-19"/>
+    <cosponsor id="404598" joined="1987-02-19"/>
+    <cosponsor id="405310" joined="1987-06-03"/>
+    <cosponsor id="405321" joined="1987-02-19"/>
+    <cosponsor id="300056" joined="1987-03-18"/>
+    <cosponsor id="300066" joined="1987-02-19"/>
+    <cosponsor id="300070" joined="1987-02-19"/>
+    <cosponsor id="300073" joined="1987-04-03"/>
+    <cosponsor id="408937" joined="1987-06-03"/>
+    <cosponsor id="408970" joined="1987-07-22"/>
+    <cosponsor id="409225" joined="1987-02-19"/>
+    <cosponsor id="300084" joined="1987-02-19"/>
+    <cosponsor id="300086" joined="1987-03-18"/>
+    <cosponsor id="300089" joined="1987-03-18"/>
+    <cosponsor id="409917" joined="1987-02-19"/>
+    <cosponsor id="300092" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-20">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Subcommittee on Courts and Administrative Practice. Hearings held.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Subcommittee on Courts and Administrative Practice. Hearings held.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text>
+    </action>
+    <calendar datetime="1987-06-23" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-07-17">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden with an amendment in the nature of a substitute and an amendment to the title. Without written report.</text>
+    </action>
+    <calendar datetime="1987-07-17" calendar="Senate Legislative" under="General Orders" number="246">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 246.</text>
+    </calendar>
+    <action datetime="1987-07-21">
+      <text>By Senator Biden from Committee on Judiciary filed written report. Report No. 100-119.</text>
+    </action>
+    <action datetime="1987-07-24">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-24" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-14">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>See H.R.2969.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1186"/>
+    <bill relation="identical" session="100" type="h" number="1186"/>
+    <bill relation="identical" session="100" type="h" number="2969"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Arizona"/>
+    <term name="Bankruptcy"/>
+    <term name="Bankruptcy courts"/>
+    <term name="Collective bargaining"/>
+    <term name="Collective bargaining agreements"/>
+    <term name="Colorado"/>
+    <term name="Compensation (Law)"/>
+    <term name="Compensation for victims of crime"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Debtor and creditor"/>
+    <term name="Employee benefit plans"/>
+    <term name="Family farms"/>
+    <term name="Farmers"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Health insurance"/>
+    <term name="Judges"/>
+    <term name="Judicial districts"/>
+    <term name="Labor and employment"/>
+    <term name="Labor unions"/>
+    <term name="Retirement income"/>
+    <term name="Student loan funds"/>
+    <term name="Survivors' benefits"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments>
+    <amendment number="s633"/>
+    <amendment number="s634"/>
+    <amendment number="s635"/>
+    <amendment number="s636"/>
+  </amendments>
+  <summary>7/24/1987--Passed Senate amended.
+(Measure passed Senate, amended) Title I: Retiree Insurance - Amends Federal bankruptcy provisions to provide for the representation of retirees in reorganization cases with regard to retiree benefits. Defines "retiree benefits" as benefits provided for retired employees and their spouses and dependents for medical, surgical, or hospital care benefits, or benefits provided in the event of sickness, accident, disability, or death under any plan, fund, or program (through the purchase of insurance or otherwise) maintained or established by the debtor prior to filing a petition commencing a reorganization case. Specifies that a labor organization shall be the authorized representative of retirees who receive benefits covered by any collective bargaining agreement to which the labor organization is a signatory unless such labor organization elects not to serve as the authorized representative or the bankruptcy court determines that different representation is appropriate. Requires the bankruptcy court to appoint a committee of retirees as an authorized representative in cases where there is no collective bargaining agreement or where a labor union does not represent retirees. Requires the debtor in possession or trustee in a reorganization case to pay and not modify any retiree benefits. Allows modification of such benefits: (1) by court order; or (2) as agreed to by the trustee and the authorized representative of benefit recipients. Treats such payments as administrative expenses before confirmation of a reorganization plan. Requires that prior to filing an application seeking modification of retiree benefits a trustee must: (1) make a proposal to the authorized representatives of the retirees; and (2) provide such representative with such relevant information as is necessary to evaluate the proposal. Requires the trustee to meet with the authorized representative to confer in good faith in attempting to reach mutually satisfactory modifications of such retiree benefits. Directs a bankruptcy court to provide for the modification of retiree benefits if the court finds that: (1) the trustee has made a proposal that meets the requirements of this Act; (2) the authorized representative of the retirees has refused to accept such proposal without good cause; and (3) such modification is necessary to permit the reorganization of the debtor and assures that all creditors, the debtor, and all of the affected parties are treated fairly and equitably, and is clearly favored by the balance of the equities. Prohibits a bankruptcy court from modifying such benefits to a level lower than the trustee's offer. Allows an authorized representative, at any time after a modification of benefits is allowed, to apply for an order increasing such benefits. Requires that such an order be granted if the increase in retiree benefits sought is consistent with specified standards. Authorizes a bankruptcy court to allow a trustee to implement an interim modification to retiree benefits prior to the court's issuance of an order providing for modifications if such modification is essential to the continuation of the debtor's business or to prevent irreparable damage to the estate. Provides that retirees shall have an unsecured claim for the full amount of any unpaid benefits. Specifies that provisions limiting employment contract termination claims shall not limit retiree benefit claims. Sets forth procedural requirements concerning the modification of retiree benefits. Excludes from coverage concerning retiree benefits, any retiree whose annual gross income is $250,000 or more, unless the retiree can show that he or she is unable to obtain comparable insurance coverage. Provides that the provisions of this Act shall apply to companies which were paying retiree benefits on or after October 2, 1986, if a reorganization plan was not confirmed as of June 23, 1987. Title II: Expanded Application of Certain Bankruptcy Amendments Relating to Family Farmers - Specifies that certain provisions of Federal bankruptcy law relating to family farmers shall apply to reorganization cases which are pending or reviewable on appeal without regard to whether such cases were commenced before November 26, 1986. Title III: Nondischargeability of Certain Debts for Restitution - Makes nondischargeable in bankruptcy any debt arising from: (1) a violation by the debtor of a civil or criminal law enforceable by a government action to recover restitution; or (2) an agreed judgment or other agreement by the debtor to pay money or transfer property in settlement of such action. Title IV: Student Loans - Student Loan Bankruptcy Prevention Act - Exempts student loans made, insured, or guaranteed by a governmental unit from the debts which may be discharged in a chapter 13 (adjustment of debts of individuals with regular income) bankruptcy claim. Title V: Additional Bankruptcy Judges - Amends the judicial code to provide for an additional bankruptcy judge for the judicial district of Arizona and for the judicial district of Colorado.</summary>
+</bill>

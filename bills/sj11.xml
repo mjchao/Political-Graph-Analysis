@@ -1,0 +1,79 @@
+<bill session="100" type="sj" number="11" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution relating to Federal balanced budget.</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-01-06"/>
+    <cosponsor id="401611" joined="1987-08-06"/>
+    <cosponsor id="300023" joined="1987-01-06"/>
+    <cosponsor id="403142" joined="1987-01-06"/>
+    <cosponsor id="403346" joined="1987-05-28"/>
+    <cosponsor id="404444" joined="1987-02-19"/>
+    <cosponsor id="300159" joined="1987-01-06"/>
+    <cosponsor id="300048" joined="1987-01-06"/>
+    <cosponsor id="300052" joined="1987-01-06"/>
+    <cosponsor id="405305" joined="1987-01-20"/>
+    <cosponsor id="300154" joined="1987-01-06"/>
+    <cosponsor id="405795" joined="1987-01-06"/>
+    <cosponsor id="406084" joined="1987-01-06"/>
+    <cosponsor id="406183" joined="1988-08-10"/>
+    <cosponsor id="406190" joined="1987-01-06"/>
+    <cosponsor id="300070" joined="1987-01-06"/>
+    <cosponsor id="300072" joined="1987-01-06"/>
+    <cosponsor id="300079" joined="1987-01-06"/>
+    <cosponsor id="408898" joined="1987-04-23"/>
+    <cosponsor id="408937" joined="1988-10-06"/>
+    <cosponsor id="408970" joined="1987-01-06"/>
+    <cosponsor id="400565" joined="1987-04-10"/>
+    <cosponsor id="409917" joined="1987-01-06"/>
+    <cosponsor id="409923" joined="1987-01-06"/>
+    <cosponsor id="300092" joined="1987-01-06"/>
+    <cosponsor id="300094" joined="1987-09-10"/>
+    <cosponsor id="410936" joined="1987-04-23"/>
+    <cosponsor id="411271" joined="1987-04-29"/>
+    <cosponsor id="300099" joined="1987-01-28"/>
+    <cosponsor id="411762" joined="1987-04-02"/>
+    <cosponsor id="412006" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Subcommittee on Constitution. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Committee on Judiciary. Committee consideration and Mark Up Session held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="sj" number="161"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal budgets"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Constitutional Amendment - Prohibits Federal outlays from exceeding Federal receipts in any fiscal year, unless the Congress provides for a specific excess by a three-fifths vote of both Houses. Prohibits a bill to increase revenue from becoming law unless approved by a majority of the whole number of both Houses of Congress by roll call vote. Authorizes the Congress to waive this article for any year in which a declaration of war is in effect.</summary>
+</bill>

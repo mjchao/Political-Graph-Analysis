@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2093" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to limit the dispensing of certain drugs by practitioners.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Clean Bill H.R.2168 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2168"/>
+  </relatedbills>
+  <subjects>
+    <term name="Drugs"/>
+    <term name="Drug safety and regulation"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Health"/>
+    <term name="Medical economics"/>
+    <term name="Medical fees"/>
+    <term name="Medical personnel"/>
+    <term name="Physicians"/>
+    <term name="Prescription pricing"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Federal Food, Drug, and Cosmetic Act to prohibit practitioners from dispensing oral, non-vaccine drugs for profit, except as specified in emergency, rural, or other limited circumstances.</summary>
+</bill>

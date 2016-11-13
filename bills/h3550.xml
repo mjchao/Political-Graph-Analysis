@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="3550" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-27"/>
+  </status>
+  <introduced datetime="1987-10-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to recognize the Cabinet status of the Director of the Office of Management and Budget, and for other purposes.</title>
+  </titles>
+  <sponsor id="401837"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-27" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-11-12">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO04" subcommittee="Human Resources" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Cabinet officers"/>
+    <term name="Civil service compensation"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Office of Management and Budget"/>
+    <term name="Position classification"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1987--Introduced.
+Establishes the position of Director of the Office of Management and Budget as a cabinet position at level I of the Executive Schedule. Upgrades the Deputy Director position to level II of the Executive Schedule.</summary>
+</bill>

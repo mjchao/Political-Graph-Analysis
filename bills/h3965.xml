@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="3965" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-02-18">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-18"/>
+  </status>
+  <introduced datetime="1988-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to increase the criminal penalty for disorderly conduct and certain related offenses committed in the Capitol.</title>
+  </titles>
+  <sponsor id="401847"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Criminal procedure"/>
+    <term name="District of Columbia"/>
+    <term name="Government operations and politics"/>
+    <term name="Sentences (Criminal procedure)"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/1988--Introduced.
+Provides increased criminal penalties for certain offenses (including violent entry and disorderly conduct) committed in the U.S. Capitol.</summary>
+</bill>

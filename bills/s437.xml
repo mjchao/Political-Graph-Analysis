@@ -1,0 +1,107 @@
+<bill session="100" type="s" number="437" updated="2014-12-10T13:15:40-05:00">
+  <state datetime="1988-10-31">VETOED:POCKET</state>
+  <status>
+    <unknown datetime="1988-10-31"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Small Business Investment Act of 1958 to permit prepayment of loans made to State and local development companies.</title>
+  </titles>
+  <sponsor id="407663"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-04-23"/>
+    <cosponsor id="300026" joined="1987-08-06"/>
+    <cosponsor id="300031" joined="1987-04-23"/>
+    <cosponsor id="403483" joined="1987-04-23"/>
+    <cosponsor id="404679" joined="1987-11-13"/>
+    <cosponsor id="300056" joined="1987-04-23"/>
+    <cosponsor id="407268" joined="1987-04-23"/>
+    <cosponsor id="408898" joined="1987-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Small Business.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Committee on Small Business. Hearings held. Hearings printed: S.Hrg. 100-150.</text>
+    </action>
+    <calendar datetime="1987-09-29" state="REPORTED">
+      <text>Committee on Small Business. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-12-16">
+      <text>Committee on Small Business. Reported to Senate by Senator Bumpers with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="1987-12-16" calendar="Senate Legislative" under="General Orders" number="491">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 491.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-19">
+      <text>Senate vitiated previous passage.</text>
+    </action>
+    <action datetime="1987-12-19">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-19" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-20">
+      <text>Referred to House Committee on Small Business.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on SBA, and the General Economy.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="386" datetime="1988-10-03" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 372 - 28 (Record Vote No: 386).</text>
+    </vote>
+    <action datetime="1988-10-11">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-14" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <vetoed datetime="1988-10-31" state="VETOED:POCKET" pocket="1">
+      <text>Pocket Vetoed by President.</text>
+    </vetoed>
+  </actions>
+  <committees>
+    <committee code="SSSB" name="Senate Small Business" activity="Referral, Hearings, Markup"/>
+    <committee code="SSBU" name="Senate Budget" activity="Reporting"/>
+    <committee code="HSSM" name="House Small Business" activity="Referral"/>
+    <committee activity="Referral" code="HSSM02" subcommittee="SBA, and the General Economy" name="House Small Business"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3718"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business and commerce"/>
+    <term name="Government lending"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1362"/>
+    <amendment number="s1373"/>
+  </amendments>
+  <summary>10/3/1988--Passed House amended.
+(Measure passed House, amended, roll call #386 (372-28)) Amends the Small Business Investment Act of 1958 (SBIA) to authorize the refinancing of certain small business debentures. Requires the issuer of a debenture purchased by the Federal Financing Bank and guaranteed by the Small Business Administration (SBA) under the SBIA, at the election of the borrower, to repay such debenture by paying the Bank, prior to October 1, 1992, the unpaid principal balance and accrued interest due at the coupon rate on the debenture, provided that: (1) the debenture is outstanding on the date of enactment, and neither it nor the loan that secures it is in default; (2) State or personal funds, including refinancing under specified development company debenture programs, are used to repay the debenture; (3) the issuer certifies that the benefits associated with prepayment of the debenture are entirely passed through to the borrower; and (4) the issuer pays to the Bank at the time of prepayment a penalty according to a specified formula. Prohibits imposition of prepayment fees or penalties not authorized under this Act. Specifies fees that the issuer may impose on a borrower if a debenture is prepaid or refinanced. Directs that any debenture refinanced pursuant to this Act have a term of years equal to the remaining term to maturity of the debenture being refinanced. Limits to $75,000,000 per year debentures refinanced under the pilot program involving the sale of development company debentures to investors. Subjects any new credit authority included in this Act to amounts provided in advance in appropriations Acts.</summary>
+</bill>

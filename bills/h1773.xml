@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="1773" updated="2014-03-22T09:51:58-04:00">
+  <state datetime="1987-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-24"/>
+  </status>
+  <introduced datetime="1987-03-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Foreign Missions Act to prohibit persons not affiliated with a foreign mission from using that foreign mission in a manner that is incompatible with its status as a foreign mission.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="407673" joined="1987-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-24" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-27">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1777"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aliens"/>
+    <term name="Embassies"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/1987--Introduced.
+Amends the Foreign Missions Act (title II of the State Department Basic Authorities Act of 1956) to prohibit a foreign mission from allowing the use of its premises by an unaffiliated alien for any purpose which is incompatible with its status as a foreign mission, including use as a residence. Requires as a condition of a nonimmigrant visa for admission to the United States that a nonimmigrant alien may not use any foreign mission of a foreign country for any purpose which is incompatible with its status as a foreign mission. Allows an exception to such requirement for a nonimmigrant alien who is a member, or a family member of a member, of any foreign mission of that country. Requires the Secretary of State to instruct each consular officer to notify each alien, at the time of application for a nonimmigrant visa, of such condition. Allows the Secretary to waive such restrictions with respect to all foreign missions of a country 30 days after providing written notification of such a waiver to certain committees of the Congress.</summary>
+</bill>

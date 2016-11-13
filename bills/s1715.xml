@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="1715" updated="2014-03-22T09:55:25-04:00">
+  <state datetime="1987-09-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-24"/>
+  </status>
+  <introduced datetime="1987-09-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that certain transfers of a commodity pledged as collateral for Commodity Credit Corporation loans not be taken into account in computing Federal income tax liability.</title>
+  </titles>
+  <sponsor id="403483"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-10-08"/>
+    <cosponsor id="300051" joined="1987-10-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Farmers"/>
+    <term name="Farms"/>
+    <term name="Government lending"/>
+    <term name="Income"/>
+    <term name="Income tax"/>
+    <term name="Payment-in-kind program"/>
+  </subjects>
+  <amendments/>
+  <summary>9/24/1987--Introduced.
+Amends Internal Revenue Code provisions relating to commodity credit loans. Provides that when a taxpayer transfers a commodity that serves as collateral for a Commodity Credit Corporation loan, repays the loan with the proceeds of the transfer, and repurchases the commodity with a commodity certificate, the original transfer shall not be considered a taxable event for income tax purposes. Applies retroactively, with a limited exception, to loan redemptions occurring in 1986 and thereafter.</summary>
+</bill>

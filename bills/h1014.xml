@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="1014" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Army to conduct a study of the feasibility of constructing a canal connecting Lake Ontario and the Erie Canal.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors>
+    <cosponsor id="403696" joined="1987-03-05"/>
+    <cosponsor id="405256" joined="1987-02-18"/>
+    <cosponsor id="400595" joined="1987-03-05"/>
+    <cosponsor id="407282" joined="1987-02-18"/>
+    <cosponsor id="407432" joined="1987-03-05"/>
+    <cosponsor id="400306" joined="1987-03-05"/>
+    <cosponsor id="409593" joined="1987-02-18"/>
+    <cosponsor id="400365" joined="1987-04-08"/>
+    <cosponsor id="400409" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-17">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Canals"/>
+    <term name="Great Lakes"/>
+    <term name="Inland water transportation"/>
+    <term name="Lakes"/>
+    <term name="New York State"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Directs the Secretary of the Army to study the feasibility of constructing and operating a canal connecting Lake Ontario and the Erie Canal in the vicinity of Lockport, New York. Requires the study to consider: (1) cost of construction; (2) environmental impact; (3) economic impact on the surrounding region; and (4) the combined effects of the canal connecting Lake Ontario and the Erie Canal and another canal which was the subject of the Study on Lake Erie-Ohio River Canal. Lists the combined effects of the two canals to be studied as: (1) the projected shipping volume on the canal connecting Lake Ontario and the Erie Canal; (2) the projected shipping volume on the canal connecting Lake Erie and the Ohio River; (3) changes in shipping volume on the Welland Canal; and (4) changes in shipping patterns among U.S. and Canadian ports on Lake Erie and Lake Ontario. Requires the Secretary of the Army to make a report to the Congress within two years.</summary>
+</bill>

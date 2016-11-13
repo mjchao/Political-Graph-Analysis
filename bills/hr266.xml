@@ -1,0 +1,38 @@
+<bill session="100" type="hr" number="266" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-17"/>
+  </status>
+  <introduced datetime="1987-09-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the joint resolution (H.J.Res. 321) proposing an amendment to the Constitution to provide for a balanced budget for the United States Government and for greater accountability in the enactment of tax legislation.</title>
+  </titles>
+  <sponsor id="300029"/>
+  <cosponsors>
+    <cosponsor id="300019" joined="1987-09-17"/>
+    <cosponsor id="410084" joined="1987-09-29"/>
+    <cosponsor id="400389" joined="1987-09-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-17" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Motion to Discharge Committee Filed by Stenholm. Discharge Petition No: 02.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Economics and public finance"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/1987--Introduced.
+Sets forth the rule for the consideration of H.J. Res. 321 (balanced budget amendment).</summary>
+</bill>

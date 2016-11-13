@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="507" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-08-02">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-08-02"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H. R. 4333) to make technical corrections relating to the Tax Reform Act of 1986, and for other purposes.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-02">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-812.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Placed on House Calendar No: 193.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 288 - 123 (Record Vote No: 265).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="4333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Sets forth the rule for the consideration of H.R. 4333 (tax technical corrections).</summary>
+</bill>

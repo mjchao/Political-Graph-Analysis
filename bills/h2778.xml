@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="2778" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-24"/>
+  </status>
+  <introduced datetime="1987-06-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Public Buildings Act of 1959 to authorize the Administrator of General Services to issue obligations to finance the acquisition and construction of public buildings.</title>
+  </titles>
+  <sponsor id="400369"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-24" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-07-09">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Provisions of Measure Incorporated Into H.R.2790.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2790"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Building construction"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Federal installations"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government securities"/>
+    <term name="Securities and Investments"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/1987--Introduced.
+Amends the Public Buildings Act of 1959 to authorize the Administrator of General Services to issue obligations to finance the acquisition and construction of public buildings. Requires the Secretary of the Treasury to prescribe terms and conditions and to determine the interest rate for such loans. Prohibits the authorization of appropriations for loans for which a prospectus is required unless acquisition or construction has been approved by certain congressional committees. Provides for budgetary and accounting treatment of such loans in the fiscal year in which they are issued.</summary>
+</bill>

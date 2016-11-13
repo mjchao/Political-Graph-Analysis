@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="3864" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-27"/>
+  </status>
+  <introduced datetime="1988-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Low-Level Radioactive Waste Policy Act to prescribe that States which are not members of regional compacts for the disposal of nuclear waste may not locate regional disposal facilities within 60 miles of the border with Mexico.</title>
+  </titles>
+  <sponsor id="402750"/>
+  <cosponsors>
+    <cosponsor id="401947" joined="1988-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-27" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-01-27">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Boundaries"/>
+    <term name="Energy policy"/>
+    <term name="Federal-state relations"/>
+    <term name="Interstate compacts"/>
+    <term name="Nuclear energy"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1988--Introduced.
+Amends the Low-Level Radioactive Waste Policy Act to preclude States which are not members of regional compacts for nuclear waste disposal from approving regional radioactive waste disposal facilities located within 60 miles of the Mexican border.</summary>
+</bill>

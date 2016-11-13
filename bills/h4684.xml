@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4684" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-25"/>
+  </status>
+  <introduced datetime="1988-05-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to suspend for 3 years the duty on Diflunisal.</title>
+  </titles>
+  <sponsor id="404856"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-25" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-06-01">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Executive Comment Requested from State, Treasury, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemicals"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/1988--Introduced.
+Amends the Tariff Schedules of the United States to suspend, for a three-year period, the duty on 2',4'-Difluro-4-hydroxy-3-biphenyl-carboxylic acid.</summary>
+</bill>

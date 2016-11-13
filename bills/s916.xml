@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="916" updated="2014-03-22T09:55:10-04:00">
+  <state datetime="1987-04-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-03"/>
+  </status>
+  <introduced datetime="1987-04-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize the Administrator to assist Members of Congress in providing title 38 information to their constituents, and to conduct authorized field examinations and investigations.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2012"/>
+    <bill relation="identical" session="100" type="h" number="2012"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional casework"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Members of Congress"/>
+    <term name="Military dependents"/>
+    <term name="Military personnel"/>
+    <term name="Personnel records"/>
+    <term name="Right of privacy"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/1987--Introduced.
+Amends Federal law relating to veterans' records and other information to authorize the Administrator of Veterans Affairs to release names and addresses of present or former members of the armed forces, or their dependents, to any Member of Congress for the purpose of providing information to constituents on legislative matters affecting members and their dependents. Authorizes the release of such information by the Administrator if necessary to conduct field examinations or other investigations.</summary>
+</bill>

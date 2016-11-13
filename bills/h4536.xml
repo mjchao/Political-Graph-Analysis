@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="4536" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-04"/>
+  </status>
+  <introduced datetime="1988-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Food Security Act of 1985 to require the Secretary of Agriculture to use multiyear set-asides to establish wildlife habitats and feeding areas.</title>
+  </titles>
+  <sponsor id="411405"/>
+  <cosponsors>
+    <cosponsor id="403242" joined="1988-05-04"/>
+    <cosponsor id="404422" joined="1988-05-04"/>
+    <cosponsor id="404723" joined="1988-05-04"/>
+    <cosponsor id="404869" joined="1988-05-04"/>
+    <cosponsor id="405580" joined="1988-05-04"/>
+    <cosponsor id="300058" joined="1988-05-04"/>
+    <cosponsor id="406530" joined="1988-05-04"/>
+    <cosponsor id="406995" joined="1988-05-04"/>
+    <cosponsor id="400299" joined="1988-05-04"/>
+    <cosponsor id="408618" joined="1988-05-04"/>
+    <cosponsor id="410261" joined="1988-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-04" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2106"/>
+    <bill relation="identical" session="100" type="s" number="2106"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Soil conservation"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/1988--Introduced.
+Amends the Food Security Act of 1985 to authorize the Secretary of Agriculture to permit eligible producers to enroll 1988 through 1990 set-aside acreage in a three-year wildlife habitat and vegetative cover set-aside program (program). Directs the Secretary to offer cost-sharing program incentives. Provides for Federal-State cost sharing. Limits program participation to producers who have participated in farm programs in two of the three crop years prior to program enrollment. Limits program acreage to not more than 50 percent of a producer's set-aside acreage, and authorizes the enrollment of up to 50 percent of paid land diversion acreage in the program. Requires the program to be carried out through the Commodity Credit Corporation.</summary>
+</bill>

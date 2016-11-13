@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="2922" updated="2014-03-22T09:52:33-04:00">
+  <state datetime="1987-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-13"/>
+  </status>
+  <introduced datetime="1987-07-13"/>
+  <titles>
+    <title type="short" as="introduced">Temporary Safe Haven Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to provide to aliens who are nationals of certain foreign states in crises authorization to remain temporarily in the United States.</title>
+  </titles>
+  <sponsor id="407306"/>
+  <cosponsors>
+    <cosponsor id="404097" joined="1987-07-13"/>
+    <cosponsor id="400143" joined="1987-11-16"/>
+    <cosponsor id="408109" joined="1987-09-16"/>
+    <cosponsor id="408313" joined="1987-09-16"/>
+    <cosponsor id="410574" joined="1987-07-13"/>
+    <cosponsor id="400435" joined="1987-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-13" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-16">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1987-10-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Executive Comment Received From Justice.</text>
+    </action>
+    <action datetime="1988-04-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-04-13">
+      <text>Clean Bill H.R.4379 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4379"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/1987--Introduced.
+Temporary Safe Haven Act of 1987 - Amends the Immigration and Nationality Act to direct the Attorney General to permit aliens who are nationals of certain countries temporarily to remain and work in the United States. Applies such treatment to any alien who is a national of a country that the Attorney General designates as one to which the alien should not immediately return because: (1) such return would not be in the national interest of the United States; (2) armed conflict within the country would pose a personal danger to the alien; or (3) a natural disaster has disrupted the living conditions in the country. Requires the Attorney General to review such designations at least once a year, terminating any designation when the relevant conditions no longer exist. Allows such a temporary stay only to aliens who have been continuously physically present in the United States since the effective date of designation of their home country, and who register for the temporary benefits. Disallows such benefits to any alien who is deportable, with specified exceptions, or who is regarded as a danger to the security of the United States. Provides for the issuance of documentation to eligible aliens. States that aliens granted temporary benefits under this Act shall not be considered as permanently residing in the United States under color of law and shall not be eligible for Federal public assistance programs. Declares this Act to be the exclusive authority of the Attorney General under law to permit aliens to remain temporarily in the United States by virtue of their particular nationality or region of foreign state of nationality. Directs the Attorney General to report annually to specified congressional committees on the operation of this Act. States that determinations of the Attorney General under this Act shall not be subject to judicial review.</summary>
+</bill>

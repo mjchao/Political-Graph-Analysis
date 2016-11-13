@@ -1,0 +1,65 @@
+<bill session="100" type="sr" number="412" updated="2014-03-22T09:54:39-04:00">
+  <state datetime="1988-10-04">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-04-19"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate with regard to the use of degradable products.</title>
+  </titles>
+  <sponsor id="408898"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1988-07-26"/>
+    <cosponsor id="402004" joined="1988-04-19"/>
+    <cosponsor id="402023" joined="1988-04-26"/>
+    <cosponsor id="402412" joined="1988-09-22"/>
+    <cosponsor id="403142" joined="1988-04-19"/>
+    <cosponsor id="403483" joined="1988-04-19"/>
+    <cosponsor id="403515" joined="1988-04-26"/>
+    <cosponsor id="403669" joined="1988-04-19"/>
+    <cosponsor id="403962" joined="1988-04-19"/>
+    <cosponsor id="300048" joined="1988-04-19"/>
+    <cosponsor id="300051" joined="1988-04-19"/>
+    <cosponsor id="300059" joined="1988-04-19"/>
+    <cosponsor id="300066" joined="1988-04-19"/>
+    <cosponsor id="400563" joined="1988-04-19"/>
+    <cosponsor id="300082" joined="1988-09-22"/>
+    <cosponsor id="409917" joined="1988-04-19"/>
+    <cosponsor id="410242" joined="1988-04-19"/>
+    <cosponsor id="300094" joined="1988-04-19"/>
+    <cosponsor id="410588" joined="1988-04-19"/>
+    <cosponsor id="300099" joined="1988-04-29"/>
+    <cosponsor id="411801" joined="1988-04-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-19" state="REFERRED">
+      <text>Referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="1988-09-23" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-30">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick without amendment and an amended preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-09-30" calendar="Senate Legislative" under="General Orders" number="1023">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1023.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-04" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment and an amended preamble by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Biodegradation"/>
+    <term name="Government operations and politics"/>
+    <term name="Plastics"/>
+    <term name="Refuse and refuse disposal"/>
+  </subjects>
+  <amendments/>
+  <summary>4/19/1988--Introduced.
+Expresses the sense of the Senate that: (1) the Environmental Protection Agency should encourage the use of biodegradable plastic bags and other degradable plastic applications; and (2) the General Services Administration should implement, when possible, the use of biodegradable bags and other degradable plastic products in its operations.</summary>
+</bill>

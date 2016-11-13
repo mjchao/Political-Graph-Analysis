@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="815" updated="2014-03-22T09:51:34-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of James F. and Shirley M. Silva and Walter F. and Mary L. Stuart.</title>
+  </titles>
+  <sponsor id="401612"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Directs a redetermination by the Secretary of the Treasury of any tax deficiencies assessed against four named individuals for the taxable years 1973 and 1974.</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="100" type="sr" number="42" updated="2014-03-22T09:54:35-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to limit legislative amendments to general appropriations bills.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sr" number="26"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+    <term name="Senate rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends rule XVI of the Standing Rules of the Senate to provide that if a point of order is made against an amendment to a general appropriations bill on certain grounds, then it shall not be in order to raise the defense of germaneness unless there is House legislative language on that subject contained in the bill.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="4092" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to continue until January 1, 1990, a reduced rate of duty on ceramic statutes, statuettes, and hand-made flowers.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-03" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-03-09">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Executive Comment Received From Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Ceramics"/>
+    <term name="Flowers"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Amends the Tariff Schedules of the United States to reduce, through December 31, 1989, the duty on ceramic statues, statuettes, and hand-made flowers.</summary>
+</bill>

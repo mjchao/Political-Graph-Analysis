@@ -1,0 +1,44 @@
+<bill session="100" type="sj" number="3" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution relating to a Federal budget and tax limitation.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="408898" joined="1987-04-27"/>
+    <cosponsor id="410588" joined="1987-03-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Congressional budget"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal budgets"/>
+    <term name="National income"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Constitutional Amendment - Requires the Congress, prior to each fiscal year, to adopt a statement for that year in which total outlays are not greater than total receipts. Permits the Congress, by a three-fifths vote of each House, to provide for a specific excess of outlays over receipts in such statement. Prohibits actual outlays from exceeding the outlays set forth in such statement. Prohibits total receipts in such statement from increasing by a rate greater than the increase in national income in the previous year, unless a bill directed solely to approving specific additional receipts is enacted. Permits the Congress to waive the provisions of this Act for any fiscal year in which a declaration of war is in effect.</summary>
+</bill>

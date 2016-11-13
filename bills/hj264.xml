@@ -1,0 +1,33 @@
+<bill session="100" type="hj" number="264" updated="2016-06-29T08:44:33-04:00">
+  <state datetime="1987-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-05"/>
+  </status>
+  <introduced datetime="1987-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating 1988 as "National Year of the Family".</title>
+  </titles>
+  <sponsor id="403184"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-05" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Families"/>
+    <term name="Special years"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1987--Introduced.
+Designates 1988 as National Year of the Family.</summary>
+</bill>

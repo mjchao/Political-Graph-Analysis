@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="2275" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-05"/>
+  </status>
+  <introduced datetime="1987-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Wildlife Conservation Fund Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish the Wildlife Conservation Fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="404068"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-05" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Executive Comment Requested from Interior, Treasury.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Alaska"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy policy"/>
+    <term name="Fisheries"/>
+    <term name="Fishery management"/>
+    <term name="Government trust funds"/>
+    <term name="Migratory bird conservation"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Mining leases"/>
+    <term name="Oil and gas leases"/>
+    <term name="Oil and gas royalties"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Wildlife conservation"/>
+    <term name="Wildlife management"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1987--Introduced.
+Wildlife Conservation Fund Act of 1987 - Establishes in the Treasury the Wildlife Conservation Fund composed of revenues from oil, gas, and mineral resources leasing in Alaska's Coastal Plain (that area referred to as the Arctic National Wildlife Refuge). Requires that such funds be used for fisheries and wildlife management, the migratory bird conservation fund, and the National Wildlife Refuge System.</summary>
+</bill>

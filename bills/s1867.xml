@@ -1,0 +1,94 @@
+<bill session="100" type="s" number="1867" updated="2014-03-22T09:55:27-04:00">
+  <state datetime="1988-10-18">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-18"/>
+  </status>
+  <introduced datetime="1987-11-13"/>
+  <titles>
+    <title type="short" as="introduced">Court Interpreters Improvement Act of 1987</title>
+    <title type="short" as="reported to senate">Court Interpreters Improvement Act of 1987</title>
+    <title type="short" as="passed senate">Court Interpreter Amendments Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 28, United States Code, to make certain improvements with respect to the Federal court interpreter program, and for other purposes.</title>
+  </titles>
+  <sponsor id="409917"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-11-13"/>
+    <cosponsor id="402990" joined="1987-11-13"/>
+    <cosponsor id="300034" joined="1988-02-24"/>
+    <cosponsor id="300052" joined="1987-11-13"/>
+    <cosponsor id="300060" joined="1987-11-13"/>
+    <cosponsor id="407268" joined="1987-11-13"/>
+    <cosponsor id="408597" joined="1987-11-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-11-23">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration with an amendment favorably.</text>
+    </action>
+    <calendar datetime="1988-08-10" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-10-06">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden with amendments. With written report No. 100-590.</text>
+    </action>
+    <calendar datetime="1988-10-06" calendar="Senate Legislative" under="General Orders" number="1121">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1121.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-14">
+      <text>Senate vitiated previous passage.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-10-25">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Bilingualism"/>
+    <term name="Civil procedure"/>
+    <term name="Conduct of court proceedings"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Deaf"/>
+    <term name="Disabled"/>
+    <term name="Grand jury"/>
+    <term name="Language and languages"/>
+    <term name="Minorities"/>
+    <term name="Pretrial procedure"/>
+    <term name="Sound recording and reproducing"/>
+    <term name="Translating and interpreting"/>
+    <term name="Trials"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3727"/>
+  </amendments>
+  <summary>10/18/1988--Passed Senate amended, 2nd occurrence.
+(Measure passed Senate, amended) Court Interpreter Amendments Act of 1988 - Requires the Director of the Administrative Office of the United States Courts to establish a program to facilitate the use of certified and otherwise qualified interpreters in judicial proceedings instituted by the United States. Requires the Director to certify interpreters for the hearing impaired and persons who speak only or primarily a language other than English. Authorizes the Director to certify interpreters: (1) for any language if the Director determines a need; (2) upon request of the Judicial Conference of the United States; and (3) upon request from the judicial council of a circuit and approval of the Judicial Conference. Bases certification on the results of criterion-referenced performance examinations. Requires the Director to establish criteria for the selection of otherwise qualified interpreters to provide services: (1) in languages for which no interpreters have been certified; and (2) where no certified interpreter is reasonably available. Requires the Director to maintain a list of all certified interpreters. Calls for periodic, rather than annual, reporting in connection with the use and performance of interpreters. Subjects their fees to periodic review. Requires the clerk or district executive of a court to secure the services of interpreters for proceedings initiated by the United States. Directs the presiding judicial official, upon the motion of any party, to determine whether to require electronic sound recording of judicial proceedings during which an interpreter is used. Describes criteria to be considered when making the determination. Requires the portions of grand jury proceedings in which an interpreter is used to be electronically sound-recorded if the accused so moves. Authorizes appropriations for the establishment of the interpreter program.</summary>
+</bill>

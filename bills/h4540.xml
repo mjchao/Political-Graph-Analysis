@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="4540" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-05"/>
+  </status>
+  <introduced datetime="1988-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that the passive loss limitation shall not apply to deductions allowable for cash out-of-pocket expenses for taxes, interest, and trade or business expenses in connection with rental real estate activities in which the taxpayer actively or materially participates.</title>
+  </titles>
+  <sponsor id="408725"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-05" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2386"/>
+    <bill relation="identical" session="100" type="s" number="2386"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Business and commerce"/>
+    <term name="Business losses"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Local taxation"/>
+    <term name="Real estate business"/>
+    <term name="Real estate investment"/>
+    <term name="Rental housing"/>
+    <term name="State taxation"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1988--Introduced.
+Amends the Internal Revenue Code to exclude deductions for business expenses, interest on indebtedness, and taxes from calculations to determine the passive loss limitation in connection with rental real estate activity in which a noncorporate taxpayer actively or materially participates.</summary>
+</bill>

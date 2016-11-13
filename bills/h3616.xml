@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="3616" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1987-11-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-05"/>
+  </status>
+  <introduced datetime="1987-11-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require high-buoyancy life vests aboard commercial aircraft.</title>
+  </titles>
+  <sponsor id="410529"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-05" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1987-11-19">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>See H.R.2310.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2310"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Aircraft"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Department of Transportation"/>
+    <term name="Federal Aviation Administration"/>
+    <term name="Public safety"/>
+  </subjects>
+  <amendments/>
+  <summary>11/5/1987--Introduced.
+Directs the Administrator of the Federal Aviation Administration, within 180 days after enactment of this Act, to promulgate regulations requiring all passenger aircraft of 30 seats or more to carry high-buoyancy life vests meeting certain standards by January 1, 1989.</summary>
+</bill>

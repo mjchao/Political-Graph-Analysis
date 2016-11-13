@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="3554" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-27"/>
+  </status>
+  <introduced datetime="1987-10-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Defense and the Secretaries of the military departments, when transporting rocket fuel or other hazardous substances, to use routes through the least populated areas and to notify local government officials about such transportation.</title>
+  </titles>
+  <sponsor id="407899"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-27" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Referred to Subcommittee on Readiness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS03" subcommittee="Readiness" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Department of Defense"/>
+    <term name="Environmental protection"/>
+    <term name="Federal-local relations"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Military transportation"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation of hazardous substances"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1987--Introduced.
+Requires the Secretaries of Defense and of the military departments to ensure that: (1) the land transportation of any material (including rocket fuel) which may pose an unreasonable safety or property risk during transportation shall be conducted by the least populated route; (2) the local authorities of the affected jurisdictions are notified of such transportation before it occurs; and (3) regulations are promulgated to implement this Act.</summary>
+</bill>

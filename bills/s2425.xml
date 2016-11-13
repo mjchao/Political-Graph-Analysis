@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="2425" updated="2014-03-22T09:55:49-04:00">
+  <state datetime="1988-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-23"/>
+  </status>
+  <introduced datetime="1988-05-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide a one-year floor for the Federal matching percentages determined for programs under the Social Security Act.</title>
+  </titles>
+  <sponsor id="409225"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-05-23"/>
+    <cosponsor id="401611" joined="1988-05-23"/>
+    <cosponsor id="403669" joined="1988-05-23"/>
+    <cosponsor id="404598" joined="1988-05-23"/>
+    <cosponsor id="300053" joined="1988-05-23"/>
+    <cosponsor id="300065" joined="1988-05-23"/>
+    <cosponsor id="300066" joined="1988-05-23"/>
+    <cosponsor id="407663" joined="1988-05-23"/>
+    <cosponsor id="409562" joined="1988-05-23"/>
+    <cosponsor id="300089" joined="1988-05-23"/>
+    <cosponsor id="410242" joined="1988-05-23"/>
+    <cosponsor id="300157" joined="1988-05-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Adoption"/>
+    <term name="Aid to dependent children"/>
+    <term name="Children and youth"/>
+    <term name="Foster home care"/>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Public assistance programs"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/1988--Introduced.
+Establishes floors for the 1989 Federal assistance percentages, used in determining Federal payments to States under title XIX (Medicaid) and parts A (Aid to Families with Dependent Children) and E (Foster Care and Adoption Assistance) of title IV of the Social Security Act.</summary>
+</bill>

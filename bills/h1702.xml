@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="1702" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-18"/>
+  </status>
+  <introduced datetime="1987-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to allow certain institutions that provide treatment for heart and lung conditions to receive reimbursement under the Civilian Health and Medical Program of the Uniformed Services.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="400359" joined="1987-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-18" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-10-24">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+    <action datetime="1987-10-26">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Costs"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Heart diseases"/>
+    <term name="Hospitals"/>
+    <term name="Lung diseases"/>
+    <term name="Military medicine"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1987--Introduced.
+Amends Federal armed forces provisions relating to the provision of medical care to members of the armed forces and their dependents to allow certain medical facilities that provide treatment for heart and lung conditions to receive reimbursement under the Civilian Health and Medical Program of the Uniformed Services (CHAMPUS).</summary>
+</bill>

@@ -1,0 +1,83 @@
+<bill session="100" type="h" number="4036" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-02-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-29"/>
+  </status>
+  <introduced datetime="1988-02-29"/>
+  <titles>
+    <title type="short" as="introduced">International Security and Satellite Monitoring Act of 1988</title>
+    <title type="official" as="introduced">A bill to establish the Commission on International Security and Satellite Monitoring.</title>
+  </titles>
+  <sponsor id="408023"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-05-17"/>
+    <cosponsor id="401310" joined="1988-07-06"/>
+    <cosponsor id="400025" joined="1988-03-21"/>
+    <cosponsor id="400035" joined="1988-08-02"/>
+    <cosponsor id="400572" joined="1988-03-21"/>
+    <cosponsor id="402114" joined="1988-03-21"/>
+    <cosponsor id="402454" joined="1988-05-04"/>
+    <cosponsor id="403581" joined="1988-03-21"/>
+    <cosponsor id="404019" joined="1988-05-05"/>
+    <cosponsor id="404996" joined="1988-03-21"/>
+    <cosponsor id="400216" joined="1988-04-14"/>
+    <cosponsor id="400231" joined="1988-08-11"/>
+    <cosponsor id="406730" joined="1988-05-13"/>
+    <cosponsor id="406992" joined="1988-06-07"/>
+    <cosponsor id="407282" joined="1988-08-02"/>
+    <cosponsor id="407471" joined="1988-05-12"/>
+    <cosponsor id="400524" joined="1988-06-13"/>
+    <cosponsor id="407960" joined="1988-04-14"/>
+    <cosponsor id="400314" joined="1988-03-21"/>
+    <cosponsor id="409644" joined="1988-06-09"/>
+    <cosponsor id="410496" joined="1988-03-21"/>
+    <cosponsor id="300156" joined="1988-08-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-29" state="REFERRED">
+      <text>Referred to House Committee on Intelligence (Permanent).</text>
+    </action>
+    <action datetime="1988-02-29">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-02-29">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Referred to Subcommittee on International Scientific Cooperation.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY01" subcommittee="International Scientific Cooperation" name="House Science, Space and Technology"/>
+    <committee activity="Referral" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advisory bodies"/>
+    <term name="Artificial satellites"/>
+    <term name="Federal advisory bodies"/>
+    <term name="International cooperation in astronautics"/>
+    <term name="Remote sensing"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space sciences"/>
+  </subjects>
+  <amendments/>
+  <summary>2/29/1988--Introduced.
+International Security and Satellite Monitoring Act of 1988 - Establishes the Commission on International Security and Satellite Monitoring. Requires the Commission to: (1) study areas in which remote-sensing satellites might be cooperatively employed, including environmental monitoring, disaster preparedness, drug trafficking, and arms reduction verification; (2) identify means to accustom all nations and the general public to the dissemination of information gathered by remote-sensing satellites; and (3) analyze the potential for the United States to solicit support for common security systems based on satellite monitoring arrangements. Sets forth specific factors for the Commission to consider in conducting such study. Prohibits the Commission from making any determinations as to whether restrictions should be placed on applicants or licensees pursuant to the Land Remote-Sensing Commercialization Act of 1984. Requires the Commission to transmit a report to the President and to the Congress containing a detailed statement of its findings, conclusions, and recommendations. Terminates the Commission two years after the enactment of this Act. Authorizes appropriations.</summary>
+</bill>

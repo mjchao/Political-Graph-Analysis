@@ -1,0 +1,51 @@
+<bill session="100" type="hc" number="247" updated="2014-03-22T09:54:12-04:00">
+  <state datetime="1988-02-18">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-18"/>
+  </status>
+  <introduced datetime="1988-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the President should immediately enter into negotiations to establish a free trade area between the United States and Mexico.</title>
+  </titles>
+  <sponsor id="400226"/>
+  <cosponsors>
+    <cosponsor id="403184" joined="1988-02-18"/>
+    <cosponsor id="404009" joined="1988-02-18"/>
+    <cosponsor id="404750" joined="1988-02-18"/>
+    <cosponsor id="406255" joined="1988-02-18"/>
+    <cosponsor id="406554" joined="1988-02-18"/>
+    <cosponsor id="406968" joined="1988-02-18"/>
+    <cosponsor id="408618" joined="1988-02-18"/>
+    <cosponsor id="409654" joined="1988-02-18"/>
+    <cosponsor id="400534" joined="1988-02-18"/>
+    <cosponsor id="410574" joined="1988-03-23"/>
+    <cosponsor id="411025" joined="1988-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Customs unions"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Mexico"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/1988--Introduced.
+Expresses the sense of the Congress that the President should commence negotiations with Mexico to establish, not later than five years after the adoption of this resolution, a free trade area between the United States and Mexico.</summary>
+</bill>

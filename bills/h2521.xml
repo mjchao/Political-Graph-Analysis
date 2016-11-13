@@ -1,0 +1,69 @@
+<bill session="100" type="h" number="2521" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1987-05-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-27"/>
+  </status>
+  <introduced datetime="1987-05-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act to control air pollution from sources on the Outer Continental Shelf, and for other purposes.</title>
+  </titles>
+  <sponsor id="406765"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-07-13"/>
+    <cosponsor id="401231" joined="1987-07-13"/>
+    <cosponsor id="401310" joined="1987-08-03"/>
+    <cosponsor id="400025" joined="1987-07-13"/>
+    <cosponsor id="300011" joined="1987-07-13"/>
+    <cosponsor id="403364" joined="1987-07-13"/>
+    <cosponsor id="400580" joined="1987-07-13"/>
+    <cosponsor id="403776" joined="1987-07-13"/>
+    <cosponsor id="404002" joined="1988-08-11"/>
+    <cosponsor id="400140" joined="1987-07-13"/>
+    <cosponsor id="404422" joined="1987-07-13"/>
+    <cosponsor id="406968" joined="1987-05-27"/>
+    <cosponsor id="407282" joined="1987-07-13"/>
+    <cosponsor id="407960" joined="1987-07-22"/>
+    <cosponsor id="408023" joined="1987-07-13"/>
+    <cosponsor id="400306" joined="1987-07-13"/>
+    <cosponsor id="408457" joined="1987-08-03"/>
+    <cosponsor id="400314" joined="1987-09-09"/>
+    <cosponsor id="409344" joined="1987-07-13"/>
+    <cosponsor id="410145" joined="1987-07-13"/>
+    <cosponsor id="400387" joined="1987-07-13"/>
+    <cosponsor id="400612" joined="1987-07-13"/>
+    <cosponsor id="400425" joined="1987-05-27"/>
+    <cosponsor id="411834" joined="1987-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-27" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air pollution control"/>
+    <term name="Continental shelf"/>
+    <term name="Ocean"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/1987--Introduced.
+Amends the Clean Air Act to regulate air pollution from Outer Continental Shelf activities, including: (1) stationary sources on or above the Shelf; (2) vessels engaged in activities authorized under the Outer Continental Shelf Lands Act or engaged in oil or gas exploration or development; and (3) power generating units on shore which power a facility engaged in activities on waters above the shelf or regulated under the Outer Continental Shelf Lands Act. Requires new stationary sources to obtain a State permit which will require the lowest achievable emission rate for each air pollutant. Requires other sources within range of the new source to offset emissions of any pollutant from such new source. Requires existing sources, within two years, to achieve the lowest achievable emission rate for each air pollutant. Authorizes compliance inspections.</summary>
+</bill>

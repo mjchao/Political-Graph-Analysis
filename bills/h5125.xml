@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="5125" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-02"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 3, United States Code, to provide that employees holding positions excepted from the competitive service because of their confidential or policy-determining character may not be detailed to the White House Office or certain other offices.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-02" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-08-15">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+    <action datetime="1988-08-15">
+      <text>Referred to Subcommittee on Civil Service.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO03" subcommittee="Civil Service" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service employment"/>
+    <term name="Civil service system"/>
+    <term name="Executive Office of the President"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Transfer of employees"/>
+    <term name="Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Prohibits a Federal employee whose position has been excepted from the competitive service by reason of its confidential or policy-determining character from being detailed to the White House, the Office of the Vice President, the Domestic Policy Staff, and the Office of Administration.</summary>
+</bill>

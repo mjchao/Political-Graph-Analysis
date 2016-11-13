@@ -1,0 +1,78 @@
+<bill session="100" type="s" number="410" updated="2014-03-22T09:54:52-04:00">
+  <state datetime="1987-03-04">REPORTED</state>
+  <status>
+    <unknown datetime="1987-03-04"/>
+  </status>
+  <introduced datetime="1987-01-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Food Security Act of 1985 to extend the date for submitting the report required by the National Commission on Dairy Policy.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1987-01-29"/>
+    <cosponsor id="300070" joined="1987-01-29"/>
+    <cosponsor id="407622" joined="1987-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <calendar datetime="1987-03-04" state="REPORTED">
+      <text>Committee on Agriculture. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-03-04">
+      <text>Committee on Agriculture incorporated provisions of related measures S. 515 in reported measure.</text>
+    </action>
+    <action datetime="1987-03-06">
+      <text>Committee on Agriculture. Reported to Senate by Senator Leahy with an amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1987-03-06" calendar="Senate Legislative" under="General Orders" number="24">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 24.</text>
+    </calendar>
+    <action datetime="1987-04-07">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Senate incorporated this measure in H.R. 1123 as an amendment.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Senate passed companion measure H.R. 1123 in lieu of this measure by Voice Vote.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1123"/>
+    <bill relation="identical" session="100" type="h" number="1123"/>
+    <bill relation="unknown" session="100" type="s" number="515"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural policies"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Dairy products"/>
+    <term name="District of Columbia"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Legumes"/>
+    <term name="Milk"/>
+    <term name="Office buildings"/>
+    <term name="Soil conservation"/>
+    <term name="Soil erosion"/>
+  </subjects>
+  <amendments>
+    <amendment number="s80"/>
+    <amendment number="s81"/>
+    <amendment number="s82"/>
+  </amendments>
+  <summary>4/21/1987--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate) Amends the Food Security Act of 1985 to extend from March 31, 1987, to March 31, 1988, the deadline for the National Commission on Dairy Policy report on milk price supports. Authorizes the Commission to lease office space in the District of Columbia and to contract for necessary services and supplies. Exempts from the ineligibility (for agricultural price supports and other related benefits) provisions of the highly erodible land conservation program, persons who grew alfalfa during the 1981 through 1985 crop years in a rotation practice approved by the Secretary of Agriculture, and who have: (1) submitted an approved soil conservation plan with the Secretary and the local committees; and (2) will comply with such plan by no later than June 1, 1988. Permits acceptance as a conservation plan, with regard to the exemption from loss of agricultural benefits due to crop production on highly erodible land, a Soil Conservation Service-approved certificate of the conservation measures a producer has taken. States that the Secretary of Agriculture, the Soil Conservation Service, and the local soil conservation districts shall minimize the documentation required to obtain such an exemption.</summary>
+</bill>

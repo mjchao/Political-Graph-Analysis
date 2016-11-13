@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="3882" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-28"/>
+  </status>
+  <introduced datetime="1988-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require that amounts withheld by an employer from an employee's wages for child support enforcement purposes under the mandatory income withholding provisions of title IV of the Social Security Act must be turned over to the appropriate State agency or entity (for distribution to the persons entitled thereto) within 10 days after the payment of such wages.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-02-23"/>
+    <cosponsor id="401383" joined="1988-06-01"/>
+    <cosponsor id="400035" joined="1988-03-15"/>
+    <cosponsor id="300011" joined="1988-03-15"/>
+    <cosponsor id="401947" joined="1988-03-15"/>
+    <cosponsor id="401986" joined="1988-03-15"/>
+    <cosponsor id="402928" joined="1988-02-23"/>
+    <cosponsor id="404190" joined="1988-03-15"/>
+    <cosponsor id="400536" joined="1988-06-01"/>
+    <cosponsor id="404602" joined="1988-03-15"/>
+    <cosponsor id="404765" joined="1988-02-23"/>
+    <cosponsor id="405775" joined="1988-02-23"/>
+    <cosponsor id="400192" joined="1988-02-23"/>
+    <cosponsor id="400205" joined="1988-03-15"/>
+    <cosponsor id="400211" joined="1988-02-23"/>
+    <cosponsor id="400226" joined="1988-03-15"/>
+    <cosponsor id="406530" joined="1988-02-23"/>
+    <cosponsor id="408023" joined="1988-03-15"/>
+    <cosponsor id="400306" joined="1988-02-23"/>
+    <cosponsor id="400314" joined="1988-02-23"/>
+    <cosponsor id="400533" joined="1988-01-28"/>
+    <cosponsor id="410066" joined="1988-02-23"/>
+    <cosponsor id="400414" joined="1988-02-23"/>
+    <cosponsor id="411585" joined="1988-02-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-28" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Child support"/>
+    <term name="Domestic Relations and Families"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Garnishment"/>
+    <term name="Labor and employment"/>
+    <term name="Support of dependents"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1988--Introduced.
+Requires that amounts withheld by an employer from an absent parent's wages for child support enforcement purposes under part D (Child Support and Establishment of Paternity) of title IV of the Social Security Act be paid to the appropriate State agency or entity within ten days after the payment of such wages. Imposes a late payment fee on employers who do not meet such deadline.</summary>
+</bill>

@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="2680" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-11"/>
+  </status>
+  <introduced datetime="1987-06-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the payment of special pay for duty subject to hostile fire for members of the Armed Forces performing duty in or over the Persian Gulf or in the vicinity of the Persian Gulf.</title>
+  </titles>
+  <sponsor id="409650"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-07-30"/>
+    <cosponsor id="400080" joined="1987-07-28"/>
+    <cosponsor id="403178" joined="1987-07-30"/>
+    <cosponsor id="400100" joined="1987-07-28"/>
+    <cosponsor id="403403" joined="1987-07-28"/>
+    <cosponsor id="404006" joined="1987-07-30"/>
+    <cosponsor id="404422" joined="1987-07-28"/>
+    <cosponsor id="405524" joined="1987-08-06"/>
+    <cosponsor id="406554" joined="1987-08-06"/>
+    <cosponsor id="400240" joined="1987-08-06"/>
+    <cosponsor id="407351" joined="1987-07-28"/>
+    <cosponsor id="400306" joined="1987-07-30"/>
+    <cosponsor id="400314" joined="1987-07-30"/>
+    <cosponsor id="410407" joined="1987-07-30"/>
+    <cosponsor id="400409" joined="1987-08-06"/>
+    <cosponsor id="411834" joined="1987-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-11" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="International affairs"/>
+    <term name="Military pay"/>
+    <term name="Persian Gulf"/>
+    <term name="Persian Gulf States"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/1987--Introduced.
+Requires a member of the armed forces to receive special pay during the period in which such member is performing duty in or over the Persian Gulf or in the vicinity of the Persian Gulf while assigned to a naval vessel or other unit. Terminates such provision in the event that the President determines that members performing such duty are no longer subject to the threat of physical harm or imminent danger due to war, terrorism, or other similar conditions.</summary>
+</bill>

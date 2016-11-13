@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="4360" updated="2014-03-22T09:53:10-04:00">
+  <state datetime="1988-04-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-12"/>
+  </status>
+  <introduced datetime="1988-04-12"/>
+  <titles>
+    <title type="short" as="introduced">Contractor Legal Fees Reform Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to prohibit reimbursement by the United States of costs incurred by contractors in connection with proceedings relating to violations of laws or regulations.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-05-03"/>
+    <cosponsor id="402763" joined="1988-05-03"/>
+    <cosponsor id="403769" joined="1988-06-15"/>
+    <cosponsor id="404009" joined="1988-05-03"/>
+    <cosponsor id="300058" joined="1988-05-03"/>
+    <cosponsor id="400216" joined="1988-06-15"/>
+    <cosponsor id="407960" joined="1988-05-03"/>
+    <cosponsor id="408109" joined="1988-05-03"/>
+    <cosponsor id="408190" joined="1988-05-03"/>
+    <cosponsor id="400306" joined="1988-05-03"/>
+    <cosponsor id="408407" joined="1988-05-03"/>
+    <cosponsor id="410066" joined="1988-05-03"/>
+    <cosponsor id="400387" joined="1988-05-03"/>
+    <cosponsor id="400409" joined="1988-06-15"/>
+    <cosponsor id="400425" joined="1988-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-12" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-04-12">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-04-18">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Government contractors"/>
+    <term name="Government procurement"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal fees"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/1988--Introduced.
+Contractor Legal Fees Reform Act of 1988 - Prohibits the United States from reimbursing a contractor for any costs incurred by such contractor in connection with any proceeding that relates to a violation of, or failure to comply with any proceeding that relates to a violation of, or failure to comply with any Federal, State, or local law or regulation on the part of the contractor if the proceeding results in: (1) certain civil, criminal, or administrative action; or (2) debarment of the contractor or rescission of the contract. Prohibits the United States from paying contractor attorney fee costs incurred in connection with violation proceedings not resulting in adverse actions, in excess of $75 per hour, unless the contracting officer, the agency board of contract appeals, or the person or body representing the agency involved finds that a special factor justifies an award of higher fees.</summary>
+</bill>

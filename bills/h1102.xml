@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="1102" updated="2014-03-22T09:51:42-04:00">
+  <state datetime="1987-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Steel Import Stabilization Act.</title>
+  </titles>
+  <sponsor id="400286"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-02-11"/>
+    <cosponsor id="402454" joined="1987-02-11"/>
+    <cosponsor id="403242" joined="1987-02-11"/>
+    <cosponsor id="404477" joined="1987-02-11"/>
+    <cosponsor id="404752" joined="1987-02-11"/>
+    <cosponsor id="405256" joined="1987-02-11"/>
+    <cosponsor id="406461" joined="1987-02-11"/>
+    <cosponsor id="406473" joined="1987-02-11"/>
+    <cosponsor id="400243" joined="1987-02-11"/>
+    <cosponsor id="406995" joined="1987-02-11"/>
+    <cosponsor id="408052" joined="1987-02-11"/>
+    <cosponsor id="408190" joined="1987-02-11"/>
+    <cosponsor id="409251" joined="1987-02-11"/>
+    <cosponsor id="409500" joined="1987-02-11"/>
+    <cosponsor id="409654" joined="1987-02-11"/>
+    <cosponsor id="400417" joined="1987-02-11"/>
+    <cosponsor id="411224" joined="1987-02-11"/>
+    <cosponsor id="411948" joined="1987-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-11" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Canada"/>
+    <term name="Customs administration"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import quotas"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Iron and steel industry"/>
+    <term name="Steel"/>
+    <term name="Sweden"/>
+    <term name="Taiwan"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1987--Introduced.
+Amends the Steel Import Stabilization Act to provide that any steel product that is manufactured in a country that is not party to a bilateral arrangement (a non-arrangement country) from steel which is melted and poured in a country that is an arrangement country will be treated for purposes of the quantitative restrictions under that arrangement as if it were a product of an arrangement country. Requires the Customs Service, if provided with documentation that a steel product was exported by an arrangement country to a non-arrangement country where the product was transformed for export to the United States, to treat such documented product as if it were a product of the arrangement country for purposes of quantitative restrictions. Requires the U.S. Trade Representative to consult with Canada, Sweden, and Taiwan for the purpose of negotiating bilateral steel arrangements with such countries. Restricts imports of steel from such countries if such consultations do not result in the successful negotiation of arrangements within 90 days of enactment of this Act.</summary>
+</bill>

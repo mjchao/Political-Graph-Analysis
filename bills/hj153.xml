@@ -1,0 +1,80 @@
+<bill session="100" type="hj" number="153" updated="2014-03-22T09:53:44-04:00">
+  <state datetime="1987-03-17">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to provide for timely issuance of grants and loans by the Environmental Protection Agency under the Asbestos School Hazard Abatement Act of 1984 to ensure that eligible local educational agencies can complete asbestos abatement work in school buildings during the 1987 summer school recess.</title>
+  </titles>
+  <sponsor id="404170"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1987-02-24"/>
+    <cosponsor id="400110" joined="1987-02-19"/>
+    <cosponsor id="403726" joined="1987-02-24"/>
+    <cosponsor id="406746" joined="1987-02-19"/>
+    <cosponsor id="406994" joined="1987-02-19"/>
+    <cosponsor id="407564" joined="1987-02-24"/>
+    <cosponsor id="409251" joined="1987-02-19"/>
+    <cosponsor id="409632" joined="1987-02-24"/>
+    <cosponsor id="400612" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-02-24" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1987-02-26" calendar="Senate Legislative" under="General Orders" number="19">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 19.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-03-03" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-03-03">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-03-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-03-06">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-03-06">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-03-17" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-11" type="public" datetime="1987-03-17">
+      <text>Became Public Law No: 100-11.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="54"/>
+    <bill relation="identical" session="100" type="sj" number="54"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Asbestos"/>
+    <term name="Education"/>
+    <term name="Educational facilities"/>
+    <term name="Federal aid to education"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Directs the Administrator of the Environmental Protection Agency and other involved agencies to ensure that eligible local educational agencies receive financial assistance under the Asbestos School Hazard Abatement Act of 1984 in time to complete asbestos abatement work by the end of the 1987 summer school recess.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="100" type="h" number="4389" updated="2014-03-22T09:53:12-04:00">
+  <state datetime="1988-04-19">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-04-19"/>
+  </status>
+  <introduced datetime="1988-04-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Demonstration Cities Metropolitan Development Act of 1966 to provide relocation assistance to certain persons affected by closures of Coast Guard bases and installations.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-14" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-04-18">
+      <text>Executive Comment Requested from DOT, DOD.</text>
+    </action>
+    <action datetime="1988-04-18">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral"/>
+    <committee activity="Referral" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil service compensation"/>
+    <term name="Coast guard"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Housing and community development"/>
+    <term name="Military bases"/>
+    <term name="Military housing"/>
+    <term name="Relocation of federal installations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/1988--Introduced.
+Amends the Demonstration Cities Metropolitan Development Act of 1966 to direct the Secretary of Defense to provide assistance, under provisions relating to acquisition of certain residential property at or near military bases which have been ordered to be closed, to certain Federal employees or military personnel with respect to Coast Guard bases and installations ordered to be closed, in whole or in part, after January 1, 1987. Directs the Secretary of the department in which the Coast Guard is operating to reimburse the Secretary of Defense for expenditures under this Act. Directs both Secretaries to enter into an agreement regarding the reimbursement.</summary>
+</bill>

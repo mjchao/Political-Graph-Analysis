@@ -1,0 +1,94 @@
+<bill session="100" type="hj" number="331" updated="2016-06-29T08:44:38-04:00">
+  <state datetime="1987-09-15">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-09-15"/>
+  </status>
+  <introduced datetime="1987-07-08"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating October 1987 as "National Cosmetology Month".</title>
+  </titles>
+  <sponsor id="402626"/>
+  <cosponsors>
+    <cosponsor id="400967" joined="1987-07-23"/>
+    <cosponsor id="401417" joined="1987-07-23"/>
+    <cosponsor id="401418" joined="1987-07-23"/>
+    <cosponsor id="401755" joined="1987-07-23"/>
+    <cosponsor id="402114" joined="1987-07-23"/>
+    <cosponsor id="400500" joined="1987-09-14"/>
+    <cosponsor id="402763" joined="1987-07-23"/>
+    <cosponsor id="400080" joined="1987-08-06"/>
+    <cosponsor id="403203" joined="1987-07-23"/>
+    <cosponsor id="403242" joined="1987-07-23"/>
+    <cosponsor id="403308" joined="1987-09-14"/>
+    <cosponsor id="403446" joined="1987-09-14"/>
+    <cosponsor id="400580" joined="1987-07-23"/>
+    <cosponsor id="403576" joined="1987-07-23"/>
+    <cosponsor id="300038" joined="1987-09-14"/>
+    <cosponsor id="403695" joined="1987-07-08"/>
+    <cosponsor id="400126" joined="1987-07-23"/>
+    <cosponsor id="404163" joined="1987-09-14"/>
+    <cosponsor id="404220" joined="1987-07-08"/>
+    <cosponsor id="400140" joined="1987-07-23"/>
+    <cosponsor id="400143" joined="1987-07-23"/>
+    <cosponsor id="404856" joined="1987-07-08"/>
+    <cosponsor id="405313" joined="1987-09-14"/>
+    <cosponsor id="406111" joined="1987-09-15"/>
+    <cosponsor id="400537" joined="1987-09-14"/>
+    <cosponsor id="400238" joined="1987-09-14"/>
+    <cosponsor id="406873" joined="1987-07-23"/>
+    <cosponsor id="400595" joined="1987-08-06"/>
+    <cosponsor id="407564" joined="1987-09-14"/>
+    <cosponsor id="408520" joined="1987-09-15"/>
+    <cosponsor id="409052" joined="1987-07-23"/>
+    <cosponsor id="300083" joined="1987-09-14"/>
+    <cosponsor id="409325" joined="1987-09-14"/>
+    <cosponsor id="409400" joined="1987-09-14"/>
+    <cosponsor id="400369" joined="1987-09-14"/>
+    <cosponsor id="410010" joined="1987-09-14"/>
+    <cosponsor id="400610" joined="1987-09-14"/>
+    <cosponsor id="400386" joined="1987-07-23"/>
+    <cosponsor id="410231" joined="1987-09-14"/>
+    <cosponsor id="410251" joined="1987-09-14"/>
+    <cosponsor id="410589" joined="1987-09-14"/>
+    <cosponsor id="410765" joined="1987-09-14"/>
+    <cosponsor id="400409" joined="1987-07-23"/>
+    <cosponsor id="411834" joined="1987-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-08" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-07-14">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-09-15">
+      <text>Subcommittee on Census and Population Discharged.</text>
+    </action>
+    <action datetime="1987-09-15">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-09-15">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-09-15" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-09-16">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee activity="Referral, Discharged" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Cosmetics"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>7/8/1987--Introduced.
+Designates October 1987 as National Cosmetology Month.</summary>
+</bill>

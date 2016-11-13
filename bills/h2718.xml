@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="2718" updated="2014-03-22T09:52:29-04:00">
+  <state datetime="1987-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-18"/>
+  </status>
+  <introduced datetime="1987-06-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the study of the transfer of the Southeastern Power Administration out of federal ownership.</title>
+  </titles>
+  <sponsor id="402833"/>
+  <cosponsors>
+    <cosponsor id="400085" joined="1987-06-18"/>
+    <cosponsor id="400104" joined="1987-06-18"/>
+    <cosponsor id="404587" joined="1987-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-18" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1719"/>
+    <bill relation="identical" session="100" type="s" number="1719"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Business and commerce"/>
+    <term name="Department of Energy"/>
+    <term name="Electric power"/>
+    <term name="Electric power distribution"/>
+    <term name="Energy policy"/>
+    <term name="Executive reorganization"/>
+    <term name="Government and business"/>
+    <term name="Privatization"/>
+    <term name="Southeastern States"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/1987--Introduced.
+Authorizes the executive branch to expend funds and prepare or evaluate studies designed to transfer out of Federal ownership, management, or control, in whole or in part, the facilities and functions of the Southeastern Power Administration.</summary>
+</bill>

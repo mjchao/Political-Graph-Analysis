@@ -1,0 +1,104 @@
+<bill session="100" type="h" number="3712" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-23">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-23"/>
+  </status>
+  <introduced datetime="1987-12-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the U.S. Livestock Insects Laboratory in Kerrville, Texas, as the "Knipling-Bushland Research Laboratory".</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="400572" joined="1987-12-09"/>
+    <cosponsor id="403864" joined="1987-12-09"/>
+    <cosponsor id="404723" joined="1987-12-11"/>
+    <cosponsor id="405114" joined="1987-12-09"/>
+    <cosponsor id="405580" joined="1987-12-09"/>
+    <cosponsor id="405747" joined="1987-12-09"/>
+    <cosponsor id="300057" joined="1987-12-09"/>
+    <cosponsor id="407162" joined="1987-12-09"/>
+    <cosponsor id="407967" joined="1987-12-09"/>
+    <cosponsor id="410084" joined="1987-12-09"/>
+    <cosponsor id="410245" joined="1987-12-09"/>
+    <cosponsor id="400389" joined="1987-12-09"/>
+    <cosponsor id="411166" joined="1987-12-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-08" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-12-08">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Subcommittee on Department Operations, Research, and Foreign Agriculture Discharged.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-12-09" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-12-14">
+      <text>Reported to House by House Committee on Agriculture.  Report No: 100-477.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Placed on House Calendar No: 112.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-14" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-12-19">
+      <text>Senate Committee on Agriculture discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-19" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-23" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-208" type="public" datetime="1987-12-23">
+      <text>Became Public Law No: 100-208.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Agricultural research"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Federal installations"/>
+    <term name="Insects"/>
+    <term name="Livestock"/>
+    <term name="Names"/>
+    <term name="Pest control"/>
+    <term name="Research and development"/>
+    <term name="Research centers"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/1987--Introduced.
+Designates the United States Livestock Insects Laboratory of the Department of Agriculture's Agricultural Research Service in Kerrville, Texas, as the Knipling-Bushland Research Laboratory.</summary>
+</bill>

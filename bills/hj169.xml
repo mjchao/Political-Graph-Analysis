@@ -1,0 +1,72 @@
+<bill session="100" type="hj" number="169" updated="2016-06-29T08:44:25-04:00">
+  <state datetime="1987-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-04"/>
+  </status>
+  <introduced datetime="1987-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating October 14, 1987, as "William Penn Appreciation Day".</title>
+  </titles>
+  <sponsor id="400586"/>
+  <cosponsors>
+    <cosponsor id="400895" joined="1987-10-14"/>
+    <cosponsor id="401383" joined="1987-10-14"/>
+    <cosponsor id="401417" joined="1987-10-14"/>
+    <cosponsor id="400542" joined="1987-06-17"/>
+    <cosponsor id="402657" joined="1987-06-17"/>
+    <cosponsor id="400080" joined="1987-10-14"/>
+    <cosponsor id="402926" joined="1987-10-14"/>
+    <cosponsor id="404006" joined="1987-10-14"/>
+    <cosponsor id="404013" joined="1987-10-14"/>
+    <cosponsor id="404190" joined="1987-06-02"/>
+    <cosponsor id="400544" joined="1987-10-14"/>
+    <cosponsor id="404634" joined="1987-10-14"/>
+    <cosponsor id="400155" joined="1987-10-14"/>
+    <cosponsor id="404752" joined="1987-10-14"/>
+    <cosponsor id="405209" joined="1987-10-14"/>
+    <cosponsor id="405775" joined="1987-11-05"/>
+    <cosponsor id="400210" joined="1987-06-02"/>
+    <cosponsor id="406461" joined="1987-06-02"/>
+    <cosponsor id="406473" joined="1987-06-02"/>
+    <cosponsor id="407400" joined="1987-06-02"/>
+    <cosponsor id="400286" joined="1987-06-02"/>
+    <cosponsor id="408976" joined="1987-10-14"/>
+    <cosponsor id="409219" joined="1987-10-14"/>
+    <cosponsor id="409654" joined="1987-06-02"/>
+    <cosponsor id="400374" joined="1987-06-02"/>
+    <cosponsor id="410531" joined="1987-10-14"/>
+    <cosponsor id="411224" joined="1987-06-02"/>
+    <cosponsor id="411426" joined="1987-10-14"/>
+    <cosponsor id="400428" joined="1987-06-02"/>
+    <cosponsor id="400435" joined="1987-10-14"/>
+    <cosponsor id="300100" joined="1987-10-14"/>
+    <cosponsor id="411948" joined="1987-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-04" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="77"/>
+    <bill relation="identical" session="100" type="sj" number="77"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="History"/>
+    <term name="Pennsylvania"/>
+    <term name="Special days"/>
+    <term name="State history"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1987--Introduced.
+Designates October 14, 1987, as William Penn Appreciation Day.</summary>
+</bill>

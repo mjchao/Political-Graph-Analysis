@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="581" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to increase the combat support assignments open to women in the Armed Forces.</title>
+  </titles>
+  <sponsor id="408937"/>
+  <cosponsors>
+    <cosponsor id="402727" joined="1987-02-26"/>
+    <cosponsor id="403346" joined="1987-09-23"/>
+    <cosponsor id="300051" joined="1987-08-05"/>
+    <cosponsor id="409917" joined="1988-09-09"/>
+    <cosponsor id="410242" joined="1987-07-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2719"/>
+    <bill relation="identical" session="100" type="h" number="2719"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military personnel"/>
+    <term name="Women soldiers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Amends Federal armed forces personnel provisions to increase the combat support assignments open to women in the armed forces.</summary>
+</bill>

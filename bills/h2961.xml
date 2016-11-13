@@ -1,0 +1,87 @@
+<bill session="100" type="h" number="2961" updated="2014-03-22T09:52:34-04:00">
+  <state datetime="1987-10-13">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-13"/>
+  </status>
+  <introduced datetime="1987-07-15"/>
+  <titles>
+    <title type="short" as="introduced">Federal Communications Commission Authorization Act of 1987</title>
+    <title type="short" as="reported to house">Federal Communications Commission Authorization Act of 1987</title>
+    <title type="short" as="passed house">Federal Communications Commission Authorization Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Communications Act of 1934 to reauthorize the Federal Communications Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-15" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-09">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-363.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Placed on Union Calendar No: 223.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1987-10-15" calendar="Senate Legislative" under="General Orders" number="379">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 379.</text>
+    </calendar>
+    <action datetime="1988-10-07">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>For Further Action See S.1048.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1048"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative fees"/>
+    <term name="Authorization"/>
+    <term name="Broadcasting"/>
+    <term name="Conflict of interests"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Fees"/>
+    <term name="Government paperwork"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Inflation"/>
+    <term name="Licenses"/>
+    <term name="Older workers"/>
+    <term name="Science, technology, communications"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel costs"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1987--Passed House amended.
+(Measure passed House, amended) Federal Communications Commission Authorization Act of 1987 - Amends the Communications Act of 1934 to authorize appropriations for the Federal Communications Commission for FY 1988 and 1989. Precludes the FCC from enforcing any regulation that prevents the receipt of any information from the Congress. Extends through FY 1989 the authority for the Commission's travel reimbursement program. Repeals the requirement for the Commission to submit an annual management report to the Congress. Provides for the Commission to review its Schedule of Charges and adjust such Schedule to reflect changes in the Consumer Price Index every two years after April 1, 1987 (currently, April 7, 1986). Authorizes the Commission, during FY 1988 and 1989, to make grants to, and enter into cooperative agreements with, private nonprofit organizations to use older Americans in providing technical and administrative assistance for projects related to the implementation, promotion, or enforcement of the Commission's regulations. Requires the Commission to certify that such action will not result in: (1) displacing the Commission's current employees; (2) employing any individual when someone else is on layoff status from the same job; (3) filling a position prior to publicly announcing it and prior to attempting to fill it under normal procedures; or (4) affecting existing contracts for services. Requires participants in any program under such a grant or cooperative agreement to execute: (1) a statement certifying compliance with the Commission's standards of conduct; and (2) a statement of employment and financial interest. Prohibits the employment of program participants in policymaking positions.</summary>
+</bill>

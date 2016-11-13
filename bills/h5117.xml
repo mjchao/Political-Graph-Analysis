@@ -1,0 +1,112 @@
+<bill session="100" type="h" number="5117" updated="2014-03-22T09:53:33-04:00">
+  <state datetime="1988-10-04">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require that plastic ring carrier devices be degradable.</title>
+  </titles>
+  <sponsor id="410496"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="1988-09-22"/>
+    <cosponsor id="404006" joined="1988-09-22"/>
+    <cosponsor id="405939" joined="1988-08-11"/>
+    <cosponsor id="400359" joined="1988-09-14"/>
+    <cosponsor id="409901" joined="1988-09-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-28" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-07-28">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Executive Comment Requested from Interior, Commerce, EPA.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-04" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Reported to House by House Committee on Merchant Marine and Fisheries.  Report No: 100-946 (Part I).</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-28">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-10-04">
+      <text>Reported to House by House Committee on Energy and Commerce. Report No: 100-946 (Part II).</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Placed on Union Calendar No: 621.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>House Incorporated this Measure in S.1986 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4272"/>
+    <bill relation="unknown" session="100" type="s" number="1986"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Beverage containers"/>
+    <term name="Biodegradation"/>
+    <term name="California"/>
+    <term name="Consumer protection"/>
+    <term name="Estuarine area conservation"/>
+    <term name="Fisheries"/>
+    <term name="Fishery management"/>
+    <term name="Marine resources conservation"/>
+    <term name="Packaging"/>
+    <term name="Plastics"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Submerged lands"/>
+    <term name="Wetlands"/>
+    <term name="Wildlife conservation"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Passed House amended.
+(Measure passed House, amended) Title I: Degradable Plastic Ring Carriers - Directs the Administrator of the Environmental Protection Agency to require, within two years of this Act's enactment, if feasible, that plastic ring carriers (such as those on canned beverage six-packs) which are capable, when discarded, of becoming entangled with fish or wildlife be made of naturally degradable material. Title II: San Francisco Bay National Wildlife Refuge - Amends Federal law establishing the San Francisco Bay National Wildlife Refuge to expand the boundaries of such refuge to include specified additional lands, marshes, tidal flats, salt ponds, submerged lands, and open waters in the San Francisco Bay Area. Authorizes appropriations for such expansion.</summary>
+</bill>

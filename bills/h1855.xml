@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="1855" updated="2014-03-22T09:52:04-04:00">
+  <state datetime="1988-07-07">REPORTED</state>
+  <status>
+    <unknown datetime="1988-07-07"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Public Service Act to extend programs for health information and health promotion.</title>
+  </titles>
+  <sponsor id="406740"/>
+  <cosponsors>
+    <cosponsor id="400425" joined="1987-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-07" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-14">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-777.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Placed on Union Calendar No: 470.</text>
+    </action>
+    <action datetime="1988-11-04">
+      <text>For Further Action See S.2889.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2889"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Authorization"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Health education"/>
+    <term name="Information services"/>
+    <term name="Public health"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Reported to House amended.
+(Reported to House from the Committee on Energy and Commerce with amendment, H. Rept. 100-777) Amends the Public Health Service Act to authorize appropriations for FY 1989 through 1991 for health information and promotion programs.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="100" type="hr" number="491" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-07-12">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-07-12"/>
+  </status>
+  <introduced datetime="1988-07-12"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (S. 2527) to require advance notification of plant closings and mass layoffs, and for other purposes, and for the consideration of the bill (H.R. 4848) to enhance the competitiveness of American industry, and for other purposes.</title>
+  </titles>
+  <sponsor id="400527"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-12">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-767.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Placed on House Calendar No: 181.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 258 - 155 (Record Vote No: 228).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="4848"/>
+    <bill relation="ruled-by" session="100" type="s" number="2527"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/1988--Introduced.
+Sets forth the rule for the consideration of S. 2527 (plant closing notification) and the rule for the consideration of H.R. 4848 (trade policy).</summary>
+</bill>

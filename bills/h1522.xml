@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="1522" updated="2014-03-22T09:51:52-04:00">
+  <state datetime="1987-06-08">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-06-08"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for activities under the Federal Fire Prevention and Control Act of 1974.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-03-13">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-05-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-05-21">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-103.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Placed on Union Calendar No: 71.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-09">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Fires"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Fire prevention"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Public safety"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/1987--Passed House amended.
+(Measure passed House, amended) Amends the Federal Fire Prevention and Control Act of 1974 to authorize appropriations for FY 1988.</summary>
+</bill>

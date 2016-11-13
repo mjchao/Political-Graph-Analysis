@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="3423" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1987-12-16">REPORTED</state>
+  <status>
+    <unknown datetime="1987-12-16"/>
+  </status>
+  <introduced datetime="1987-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the Grays Harbor National Wildlife Refuge.</title>
+  </titles>
+  <sponsor id="401585"/>
+  <cosponsors>
+    <cosponsor id="400987" joined="1987-10-15"/>
+    <cosponsor id="402435" joined="1987-10-06"/>
+    <cosponsor id="400100" joined="1987-10-15"/>
+    <cosponsor id="400109" joined="1987-10-06"/>
+    <cosponsor id="404193" joined="1987-10-06"/>
+    <cosponsor id="406974" joined="1987-10-06"/>
+    <cosponsor id="407721" joined="1987-10-06"/>
+    <cosponsor id="407967" joined="1987-10-06"/>
+    <cosponsor id="410567" joined="1987-10-06"/>
+    <cosponsor id="300100" joined="1987-10-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-06" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-12-16" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-12">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-1077.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Placed on Union Calendar No: 633.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1755"/>
+    <bill relation="identical" session="100" type="s" number="1755"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Gifts"/>
+    <term name="Land transfers"/>
+    <term name="Planning"/>
+    <term name="Washington State"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Reported to House amended.
+(Reported to House from the Committee on Merchant Marine and Fisheries with amendment, H. Rept. 100-1077) Directs the Secretary of the Interior to designate and acquire lands for the establishment of the Grays Harbor National Wildlife Refuge, Washington. Requires the Secretary to prepare a management plan which includes a visitor center and other facilities. Authorizes appropriations for such purposes. Requires the Director of the Fish and Wildlife Service to request the National Fish and Wildlife Foundation to encourage, accept, and administer private gifts of property to further the purposes of this Act. Requires the Director, in preparing the management plan, to give special consideration to means of encouraging the participation and contributions of local public and private entities in developing and implementing such plan. Requires that certain lands and waters in the Quillayute Needles National Wildlife Refuge and the Flattery Rocks National Wildlife Refuge, Washington, be administered by the U.S. Fish and Wildlife Service for refuge purposes under the national wildlife refuge system. Requires the Service to seek law enforcement assistance from the National Park Service to protect the ecological resources of these Refuges. Amends the National Wildlife Refuge System Administration Act of 1966 to authorize the Director of the U.S. Fish and Wildlife Service to utilize the personnel and services of other Federal or State agencies for law enforcement assistance.</summary>
+</bill>

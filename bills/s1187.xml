@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="1187" updated="2014-03-22T09:55:15-04:00">
+  <state datetime="1987-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-12"/>
+  </status>
+  <introduced datetime="1987-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Residential Lot Interest Expense Conforming Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1954 to conform the treatment of residential lot interest expenses to current law treatment of second home interest expense.</title>
+  </titles>
+  <sponsor id="408939"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-05-12"/>
+    <cosponsor id="402004" joined="1987-06-11"/>
+    <cosponsor id="300157" joined="1987-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1779"/>
+    <bill relation="identical" session="100" type="h" number="1779"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Finance and financial sector"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing finance"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Mortgage loans"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1987--Introduced.
+Residential Lot Interest Expense Conforming Act of 1987 - Amends the Internal Revenue Code to treat a residential lot as a qualified residence for purposes of the mortgage interest income tax deduction when the taxpayer has purchased such lot for the purpose of building a dwelling unit. Provides for recapture if the lot is used in a trade or business or held for investment.</summary>
+</bill>

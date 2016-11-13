@@ -1,0 +1,98 @@
+<bill session="100" type="sj" number="9" updated="2016-06-29T08:45:00-04:00">
+  <state datetime="1987-02-26">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate the week of March 1, 1987, through March 7, 1987, as "Federal Employees Recognition Week".</title>
+  </titles>
+  <sponsor id="300086"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-02-17"/>
+    <cosponsor id="400927" joined="1987-02-23"/>
+    <cosponsor id="401391" joined="1987-02-26"/>
+    <cosponsor id="401604" joined="1987-01-16"/>
+    <cosponsor id="401611" joined="1987-02-26"/>
+    <cosponsor id="401709" joined="1987-01-16"/>
+    <cosponsor id="402004" joined="1987-01-14"/>
+    <cosponsor id="402023" joined="1987-01-21"/>
+    <cosponsor id="300016" joined="1987-02-26"/>
+    <cosponsor id="402495" joined="1987-02-26"/>
+    <cosponsor id="300023" joined="1987-01-29"/>
+    <cosponsor id="402727" joined="1987-02-26"/>
+    <cosponsor id="300026" joined="1987-02-26"/>
+    <cosponsor id="402990" joined="1987-02-23"/>
+    <cosponsor id="403142" joined="1987-02-17"/>
+    <cosponsor id="403171" joined="1987-02-26"/>
+    <cosponsor id="300031" joined="1987-01-14"/>
+    <cosponsor id="403346" joined="1987-01-16"/>
+    <cosponsor id="300034" joined="1987-02-17"/>
+    <cosponsor id="403515" joined="1987-01-16"/>
+    <cosponsor id="403669" joined="1987-02-26"/>
+    <cosponsor id="404598" joined="1987-01-06"/>
+    <cosponsor id="404679" joined="1987-01-06"/>
+    <cosponsor id="300048" joined="1987-02-19"/>
+    <cosponsor id="300052" joined="1987-02-23"/>
+    <cosponsor id="405310" joined="1987-02-19"/>
+    <cosponsor id="405321" joined="1987-01-27"/>
+    <cosponsor id="300053" joined="1987-01-16"/>
+    <cosponsor id="300056" joined="1987-01-29"/>
+    <cosponsor id="300059" joined="1987-02-17"/>
+    <cosponsor id="300060" joined="1987-01-12"/>
+    <cosponsor id="300064" joined="1987-02-17"/>
+    <cosponsor id="300066" joined="1987-02-02"/>
+    <cosponsor id="300070" joined="1987-01-14"/>
+    <cosponsor id="407268" joined="1987-01-16"/>
+    <cosponsor id="407663" joined="1987-02-17"/>
+    <cosponsor id="300073" joined="1987-01-06"/>
+    <cosponsor id="407786" joined="1987-02-19"/>
+    <cosponsor id="400563" joined="1987-01-16"/>
+    <cosponsor id="300150" joined="1987-02-26"/>
+    <cosponsor id="300079" joined="1987-01-16"/>
+    <cosponsor id="408252" joined="1987-01-16"/>
+    <cosponsor id="408597" joined="1987-01-14"/>
+    <cosponsor id="408898" joined="1987-02-26"/>
+    <cosponsor id="408939" joined="1987-01-14"/>
+    <cosponsor id="300082" joined="1987-01-16"/>
+    <cosponsor id="409225" joined="1987-02-23"/>
+    <cosponsor id="300084" joined="1987-01-16"/>
+    <cosponsor id="400565" joined="1987-02-26"/>
+    <cosponsor id="409580" joined="1987-01-16"/>
+    <cosponsor id="409917" joined="1987-02-19"/>
+    <cosponsor id="300092" joined="1987-01-16"/>
+    <cosponsor id="300094" joined="1987-02-19"/>
+    <cosponsor id="410936" joined="1987-01-06"/>
+    <cosponsor id="300099" joined="1987-01-06"/>
+    <cosponsor id="411421" joined="1987-02-17"/>
+    <cosponsor id="411762" joined="1987-01-14"/>
+    <cosponsor id="411801" joined="1987-01-29"/>
+    <cosponsor id="412006" joined="1987-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-26">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-02-26" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-03-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Federal employees"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Designates the week of March 1 through March 7, 1987, as Federal Employees Recognition Week.</summary>
+</bill>

@@ -1,0 +1,109 @@
+<bill session="100" type="sc" number="9" updated="2014-03-22T09:54:40-04:00">
+  <state datetime="1987-09-17">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-09-17"/>
+  </status>
+  <introduced datetime="1987-01-16"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to provide for the display of the National League of Families POW/MIA flag in the Capitol Rotunda.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-09-10"/>
+    <cosponsor id="300009" joined="1987-03-10"/>
+    <cosponsor id="300010" joined="1987-04-02"/>
+    <cosponsor id="401604" joined="1987-03-10"/>
+    <cosponsor id="401611" joined="1987-02-26"/>
+    <cosponsor id="401709" joined="1987-08-07"/>
+    <cosponsor id="402023" joined="1987-08-07"/>
+    <cosponsor id="300016" joined="1987-09-10"/>
+    <cosponsor id="402412" joined="1987-03-17"/>
+    <cosponsor id="402495" joined="1987-08-07"/>
+    <cosponsor id="300023" joined="1987-09-10"/>
+    <cosponsor id="402727" joined="1987-09-10"/>
+    <cosponsor id="403142" joined="1987-08-07"/>
+    <cosponsor id="403171" joined="1987-08-07"/>
+    <cosponsor id="300031" joined="1987-03-10"/>
+    <cosponsor id="403346" joined="1987-09-10"/>
+    <cosponsor id="300034" joined="1987-08-07"/>
+    <cosponsor id="300036" joined="1987-08-07"/>
+    <cosponsor id="403669" joined="1987-08-07"/>
+    <cosponsor id="403920" joined="1987-09-23"/>
+    <cosponsor id="403962" joined="1987-08-07"/>
+    <cosponsor id="404219" joined="1987-08-07"/>
+    <cosponsor id="300159" joined="1987-03-03"/>
+    <cosponsor id="300048" joined="1987-08-07"/>
+    <cosponsor id="300052" joined="1987-03-10"/>
+    <cosponsor id="405305" joined="1987-08-07"/>
+    <cosponsor id="405321" joined="1987-08-07"/>
+    <cosponsor id="300154" joined="1987-09-10"/>
+    <cosponsor id="300053" joined="1987-03-10"/>
+    <cosponsor id="300064" joined="1987-06-09"/>
+    <cosponsor id="300066" joined="1987-09-10"/>
+    <cosponsor id="300070" joined="1987-01-27"/>
+    <cosponsor id="300071" joined="1987-02-17"/>
+    <cosponsor id="300150" joined="1987-03-10"/>
+    <cosponsor id="300079" joined="1987-01-28"/>
+    <cosponsor id="408252" joined="1987-06-09"/>
+    <cosponsor id="408898" joined="1987-03-10"/>
+    <cosponsor id="408970" joined="1987-04-02"/>
+    <cosponsor id="400565" joined="1987-09-23"/>
+    <cosponsor id="409562" joined="1987-08-07"/>
+    <cosponsor id="300092" joined="1987-08-07"/>
+    <cosponsor id="300157" joined="1987-01-16"/>
+    <cosponsor id="410936" joined="1987-08-07"/>
+    <cosponsor id="300099" joined="1987-01-16"/>
+    <cosponsor id="411762" joined="1987-01-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-16" state="REFERRED">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Senate Committee on Rules discharged by Unanimous Consent.</text>
+    </action>
+    <calendar datetime="1987-09-10" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="307">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 307.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-09-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-09-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Referred to Subcommittee on Libraries and Memorials.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>House Committee on House Administration Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSHA09" subcommittee="Libraries and Memorials" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="District of Columbia"/>
+    <term name="Flags"/>
+    <term name="Missing in action"/>
+    <term name="National emblems"/>
+    <term name="Prisoners of war"/>
+    <term name="Vietnamese Conflict"/>
+  </subjects>
+  <amendments/>
+  <summary>1/16/1987--Introduced.
+Allows the display of the National League of Families POW/MIA flag in the Capitol Rotunda until a satisfactory accounting of all Vietnam POW/MIAs has taken place.</summary>
+</bill>

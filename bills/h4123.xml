@@ -1,0 +1,90 @@
+<bill session="100" type="h" number="4123" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-10-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations to carry out the National Aquaculture Act of 1980 for fiscal years 1989, 1990, and 1991.</title>
+  </titles>
+  <sponsor id="410496"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-09" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Executive Comment Requested from Interior, Commerce, USDA, EPA.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Joint Consideration and Mark-up Session Held by the Subcommittee on Fisheries and Wildlife Conservation and the Environment and by the Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Joint Consideration and Mark-up Session Held by the Subcommittee on Oceanography and by the Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-25" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-07-01">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1988-07-28">
+      <text>Reported to House by House Committee on Merchant Marine and Fisheries.  Report No: 100-808 (Part I).</text>
+    </action>
+    <action datetime="1988-07-28">
+      <text>Referred to House Committee on Agriculture Sequentially, for a Period Ending not Later than Sep 16, 88.</text>
+    </action>
+    <action datetime="1988-08-31">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>House Committee on Agriculture Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Placed on Union Calendar No: 562.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral, Markup, Reporting" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Aquaculture"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Fisheries"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1988--Passed House amended.
+(Measure passed House, amended) Amends the National Aquaculture Act of 1980 to extend the authorization of appropriations through FY 1990.</summary>
+</bill>

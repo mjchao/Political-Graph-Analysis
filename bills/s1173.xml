@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="1173" updated="2014-03-22T09:55:15-04:00">
+  <state datetime="1987-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-08"/>
+  </status>
+  <introduced datetime="1987-05-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for the fiscal years 1988 and 1989 for the Office of Commercial Space Transportation of the Department of Transportation.</title>
+  </titles>
+  <sponsor id="409225"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1740"/>
+    <bill relation="identical" session="100" type="h" number="1740"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Artificial satellites"/>
+    <term name="Authorization"/>
+    <term name="Commercialization"/>
+    <term name="Department of Transportation"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space sciences"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/1987--Introduced.
+Amends the Commercial Space Launch Act to authorize appropriations for FY 1988 and 1989.</summary>
+</bill>

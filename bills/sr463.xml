@@ -1,0 +1,50 @@
+<bill session="100" type="sr" number="463" updated="2014-03-22T09:54:40-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Congress that Federal laws regarding the taxation of State and local government bonds should not be changed in order to increase revenue.</title>
+  </titles>
+  <sponsor id="400565"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-10-18"/>
+    <cosponsor id="405310" joined="1988-10-06"/>
+    <cosponsor id="300089" joined="1988-09-22"/>
+    <cosponsor id="410588" joined="1988-10-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="487"/>
+    <bill relation="identical" session="100" type="hr" number="487"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Government securities"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Internal revenue"/>
+    <term name="Internal revenue law"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Securities and Investments"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Tax exclusion"/>
+    <term name="Tax-exempt securities"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Expresses the sense of the Senate that Federal law governing the taxation of State and local government bonds should not be changed in order to increase Federal revenues.</summary>
+</bill>

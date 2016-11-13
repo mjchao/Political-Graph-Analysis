@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="756" updated="2014-03-22T09:51:33-04:00">
+  <state datetime="1987-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-27"/>
+  </status>
+  <introduced datetime="1987-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to restrict the closing and downgrading of field offices of the Social Security Administration.</title>
+  </titles>
+  <sponsor id="400210"/>
+  <cosponsors>
+    <cosponsor id="406530" joined="1987-02-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-27" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Government operations and politics"/>
+    <term name="Layoffs"/>
+    <term name="Relocation of employees"/>
+    <term name="Social Security Administration"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1987--Introduced.
+Directs the Secretary of Health and Human Services to take such actions as are necessary to ensure that, with respect to each field office of the Social Security Administration in operation as of July 1, 1986: (1) such office is not closed; (2) any type of function performed by such office is not terminated; and (3) no employee of such office is removed, reassigned, furloughed, or reduced in grade. Permits a field office to be relocated if the new location is within the same commuting area as the former site of such office. Requires an annual report to the Congress on compliance.</summary>
+</bill>

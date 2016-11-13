@@ -1,0 +1,213 @@
+<bill session="100" type="h" number="4417" updated="2014-03-22T09:53:12-04:00">
+  <state datetime="1988-10-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-24"/>
+  </status>
+  <introduced datetime="1988-04-20"/>
+  <titles>
+    <title type="short" as="introduced" partial="1">National Bureau of Standards Authorization Act for Fiscal Year 1989</title>
+    <title type="short" as="reported to house" partial="1">National Bureau of Standards Authorization Act for Fiscal Year 1989</title>
+    <title type="short" as="reported to house" partial="1">National Technical Information Act of 1988</title>
+    <title type="short" as="passed house" partial="1">National Institute of Standards and Technology Authorization Act for Fiscal Year 1989</title>
+    <title type="short" as="passed house" partial="1">National Technical Information Act of 1988</title>
+    <title type="short" as="enacted" partial="1">National Institute of Standards and Technology Authorization Act for Fiscal Year 1989</title>
+    <title type="short" as="enacted" partial="1">National Technical Information Act of 1988</title>
+    <title type="official" as="introduced">A bill to authorize appropriations to the Secretary of Commerce for the programs of the National Bureau of Standards for fiscal year 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="411224"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-20" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-05" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-03">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-673 (Part I).</text>
+    </action>
+    <action datetime="1988-06-03">
+      <text>Referred to House Committee on Energy and Commerce Sequentially, for a Period Ending not Later than Jun 8, 88.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>House Committee on Energy and Commerce Granted an Extension for Further Consideration Ending not Later Than June 24, 1988.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>House Committee on Energy and Commerce Granted an Extension for Further Consideration Ending not Later Than July 8, 1988.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Subcommittee on Commerce, Consumer Protection, and Competitiveness Discharged.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-07">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-08">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-673 (Part II).</text>
+    </action>
+    <action datetime="1988-07-08">
+      <text>Placed on Union Calendar No: 465.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of Debate.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Rules Committee Resolution H.Res.522 Reported to House.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-26">
+      <text>House Incorporated H.R.5183 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Senate Committee on Commerce discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-05" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-519" type="public" datetime="1988-10-24">
+      <text>Became Public Law No: 100-519.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="522"/>
+    <bill relation="unknown" session="100" type="h" number="5183"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Administrative fees"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Archives"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Authorization"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Books"/>
+    <term name="Building construction"/>
+    <term name="Business and commerce"/>
+    <term name="Civil service compensation"/>
+    <term name="Civil service employment"/>
+    <term name="Commemorations"/>
+    <term name="Communication in science"/>
+    <term name="Computer software"/>
+    <term name="Computers"/>
+    <term name="Congressional oversight"/>
+    <term name="Construction industries"/>
+    <term name="Department of Commerce"/>
+    <term name="Depository libraries"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and employment"/>
+    <term name="Economics and public finance"/>
+    <term name="Engineering"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to research"/>
+    <term name="Federal budgets"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Fire prevention"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Government and business"/>
+    <term name="Government corporations"/>
+    <term name="Government operations and politics"/>
+    <term name="Government publications"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Government service contracts"/>
+    <term name="Industrial productivity"/>
+    <term name="Industrial standards"/>
+    <term name="Information services"/>
+    <term name="Intellectual property"/>
+    <term name="International affairs"/>
+    <term name="International competitiveness"/>
+    <term name="Inventions"/>
+    <term name="Inventors"/>
+    <term name="Iron and steel industry"/>
+    <term name="Japan"/>
+    <term name="Joint ventures"/>
+    <term name="Laboratories"/>
+    <term name="Layoffs"/>
+    <term name="Licenses"/>
+    <term name="Manufacturing industries"/>
+    <term name="Materials research"/>
+    <term name="Newspapers and Periodicals"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear energy research"/>
+    <term name="Patent licenses"/>
+    <term name="Patents"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Periodicals"/>
+    <term name="Presidential appointments"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Public safety"/>
+    <term name="Regional economic development"/>
+    <term name="Research"/>
+    <term name="Research and development"/>
+    <term name="Research and development contracts"/>
+    <term name="Research centers"/>
+    <term name="Salaries"/>
+    <term name="Science and technology"/>
+    <term name="Scientific exchanges"/>
+    <term name="Small business"/>
+    <term name="Standards"/>
+    <term name="Steel"/>
+    <term name="Technological innovations"/>
+    <term name="Technology policy"/>
+    <term name="Technology transfer"/>
+    <term name="Translating and interpreting"/>
+    <term name="User charges"/>
+    <term name="Weights and measures"/>
+  </subjects>
+  <amendments>
+    <amendment number="h925"/>
+    <amendment number="h927"/>
+    <amendment number="h928"/>
+    <amendment number="h929"/>
+  </amendments>
+  <summary>9/26/1988--Passed House amended.
+(Measure passed House, amended (inserted text of H.R. 5183)) Title I: National Institute of Standards and Technology Authorization - National Institute of Standards and Technology Authorization Act for Fiscal Year 1989 - Authorizes appropriations to the Secretary of Commerce for FY 1989 to carry out the following activities of the National Institute of Standards and Technology (NIST) (formerly the National Bureau of Standards): (1) measurement research and standards; (2) materials science and engineering; (3) engineering measurements and standards; (4) computer science and technology; (5) research support activities; (6) the Cold Neutron Source Facility; and (7) technology services. Permits transfers of funds among such activities under specified conditions. Authorizes specified amounts from such funds solely for: (1) steel technology; (2) the Center for Building Technology; (3) the Center for Fire Research; (4) technical competence programs; (5) support of Regional Centers for the Transfer of Manufacturing Technology and assistance to State technology programs (only for research cooperative agreements subject to a specified competitive process); and (6) the evaluation of non-energy related inventions and related technology extension activities. Prohibits the merger of the Center for Building Technology and the Center for Fire Research. Authorizes additional FY 1989 appropriations for: (1) the Office of the Under Secretary of Commerce for Technology; (2) activities of the Office of Technology Policy; (3) implementation of the purposes of the Japanese Technical Literature Act of 1986; and (4) salary adjustments. Mandates that the Research Information Center be maintained as a governmental activity under the NIST. Instructs the Director of the NIST to study public and private sector needs for evaluated engineering data and to report to the Congress recommending appropriate roles for the NIST and other relevant government and professional entities in collecting, evaluating, and disseminating such data. Instructs the NIST Director to undertake, as appropriate, a variety of activities in the interest of extending and transferring technical services and other expertise to the States and to businesses, including improving access to federal laboratories and evaluating inventions from small businesses or individuals that have significant potential for improving competitiveness. Instructs the Director to report to specified congressional committees on post-1986 domestic technology transfer accomplishments, trends, and plans of the agency. Describes required report contents. Requires the NIST annually to submit to the Congress three-year budget estimates for all major accounts and new initiatives. Directs the Secretary of Commerce, through the NIST Director, to seek funding for and establish, within six months of this Act's enactment, a program to assist other countries in developing domestic standards compatible with those used in the United States. Calls for private sector funding after the program is established, with FY 1989 and 1990 cost reimbursement to the Government. Directs the Secretary, no later than June 30, 1989, to submit to specified congressional committees a long-term plan to assist standards development in requesting countries that are or are likely to be major importers from the United States. Title II: Technology Administration in the Department of Commerce - Subtitle A: Technology Administration - Amends the Stevenson-Wydler Technology Innovation Act of 1980 to establish in the Department of Commerce a Technology Administration comprising: (1) the National Institute of Standards and Technology; (2) the National Technical Information Service; and (3) the Office of Technology Policy, a policy analysis entity. Describes duties of the Administration, including assuming the functions currently assigned to the Office of Productivity, Technology, and Innovation. Directs the President to appoint, with the advice and consent of the Senate, an Under Secretary of Commerce for Technology and an Assistant Secretary of Commerce for Technology Policy. Describes the duties of these officials. Subtitle B: National Technical Information Service - National Technical Information Act of 1988 - Authorizes the Secretary of Commerce, acting through the Director of the National Technical Information Service (NTIS), to enter into contracts, cooperative agreements, joint ventures, and other transactions necessary for NTIS purposes. Prohibits the contracting out of certain functions and activities currently performed by NTIS personnel. Declares NITS functions and activities to be permanent Federal functions, prohibiting their transfer, by contract or otherwise, to the private sector on a permanent or temporary basis, unless the Congress expressly approves a transfer. Vests management in a Director, who shall report to the Under Secretary of Commerce for Technology, Establishes a NTIS Advisory Board. Assigns to the Secretary of Commerce, acting through the NTIS, the duties performed by the current NTIS, as well as additional functions, including making its products available to depository libraries as part of the Government Printing Office Depository Library Program and making available in English unclassified foreign technical information. Requires annual auditing in connection with NTIS activities. Requires both the Secretary and the Director to keep appropriate congressional committees informed about NTIS activities. Directs the Secretary, within 90 days of this Act's enactment, to report to the Congress on the NTIS fee structure. Directs the Secretary to report annually to the Congress on NTIS activities and, in addition, to give detailed advanced notice of not less than 30 days of: (1) any proposed reduction-in-force; (2) any joint venture or cooperative agreement involving a financial incentive to the joint venturer or contractor; and (3) any change in the NTIS operating plan that would result in more than a ten percent variation of expense. Title III: Miscellaneous Amendments to Stevenson-Wydler Technology Innovation Act of 1980 - Amends the Stevenson-Wydler Technology Innovation Act of 1980 to: (1) make specific provision for intellectual property within the context of cooperative research and development agreements; (2) authorize cash awards to scientific, engineering, and technical personnel for computer software; and (3) revise provisions regarding the distribution to inventors of royalties received by Federal agencies. Makes this final amendment retroactive to October 20, 1986. Title IV: Drug-Free Workplace - Prohibits: (1) the obligation or expenditure of any funds authorized to be appropriated for the NIST unless the NIST implements a written policy designed to ensure that its officers and employees do not use, possess, or distribute controlled substances in the workplace; and (2) grant or contract payments to secondary NIST fund recipients unless they adopt a written policy ensuring a drug-free workplace.</summary>
+</bill>

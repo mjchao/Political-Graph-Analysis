@@ -1,0 +1,169 @@
+<bill session="100" type="h" number="5000" updated="2014-03-22T09:53:30-04:00">
+  <state datetime="1988-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-07"/>
+  </status>
+  <introduced datetime="1988-07-07"/>
+  <titles>
+    <title type="short" as="introduced">Recyclable Materials Science and Technology Development Act of 1988</title>
+    <title type="official" as="introduced">A bill to encourage scientific research and development of technologies relating to recycling, and for other purposes.</title>
+  </titles>
+  <sponsor id="405524"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-09-16"/>
+    <cosponsor id="400975" joined="1988-08-01"/>
+    <cosponsor id="400025" joined="1988-07-07"/>
+    <cosponsor id="401418" joined="1988-07-07"/>
+    <cosponsor id="400035" joined="1988-07-07"/>
+    <cosponsor id="300011" joined="1988-07-07"/>
+    <cosponsor id="400572" joined="1988-08-11"/>
+    <cosponsor id="401947" joined="1988-09-30"/>
+    <cosponsor id="400548" joined="1988-07-07"/>
+    <cosponsor id="402763" joined="1988-07-26"/>
+    <cosponsor id="400080" joined="1988-07-07"/>
+    <cosponsor id="400081" joined="1988-07-07"/>
+    <cosponsor id="402928" joined="1988-07-07"/>
+    <cosponsor id="400100" joined="1988-07-07"/>
+    <cosponsor id="403364" joined="1988-08-01"/>
+    <cosponsor id="400580" joined="1988-10-20"/>
+    <cosponsor id="403529" joined="1988-09-22"/>
+    <cosponsor id="403581" joined="1988-07-07"/>
+    <cosponsor id="403776" joined="1988-09-27"/>
+    <cosponsor id="400126" joined="1988-09-07"/>
+    <cosponsor id="404013" joined="1988-08-01"/>
+    <cosponsor id="404097" joined="1988-09-16"/>
+    <cosponsor id="400140" joined="1988-07-07"/>
+    <cosponsor id="404401" joined="1988-07-07"/>
+    <cosponsor id="404422" joined="1988-07-07"/>
+    <cosponsor id="400585" joined="1988-07-26"/>
+    <cosponsor id="400536" joined="1988-07-07"/>
+    <cosponsor id="300049" joined="1988-10-04"/>
+    <cosponsor id="405114" joined="1988-07-07"/>
+    <cosponsor id="405236" joined="1988-07-07"/>
+    <cosponsor id="405256" joined="1988-08-09"/>
+    <cosponsor id="405377" joined="1988-07-13"/>
+    <cosponsor id="405775" joined="1988-07-07"/>
+    <cosponsor id="300057" joined="1988-07-07"/>
+    <cosponsor id="406157" joined="1988-08-04"/>
+    <cosponsor id="406277" joined="1988-09-27"/>
+    <cosponsor id="406554" joined="1988-08-04"/>
+    <cosponsor id="407141" joined="1988-09-07"/>
+    <cosponsor id="407960" joined="1988-09-07"/>
+    <cosponsor id="408023" joined="1988-07-07"/>
+    <cosponsor id="408109" joined="1988-09-27"/>
+    <cosponsor id="408313" joined="1988-08-01"/>
+    <cosponsor id="400306" joined="1988-07-07"/>
+    <cosponsor id="400314" joined="1988-08-01"/>
+    <cosponsor id="408725" joined="1988-09-22"/>
+    <cosponsor id="409446" joined="1988-07-07"/>
+    <cosponsor id="400354" joined="1988-07-07"/>
+    <cosponsor id="409534" joined="1988-08-04"/>
+    <cosponsor id="400359" joined="1988-07-26"/>
+    <cosponsor id="409632" joined="1988-07-13"/>
+    <cosponsor id="409644" joined="1988-07-26"/>
+    <cosponsor id="400365" joined="1988-09-07"/>
+    <cosponsor id="410066" joined="1988-07-07"/>
+    <cosponsor id="410145" joined="1988-07-13"/>
+    <cosponsor id="400386" joined="1988-08-09"/>
+    <cosponsor id="410496" joined="1988-07-07"/>
+    <cosponsor id="400409" joined="1988-07-07"/>
+    <cosponsor id="400611" joined="1988-09-16"/>
+    <cosponsor id="400612" joined="1988-07-07"/>
+    <cosponsor id="411426" joined="1988-07-13"/>
+    <cosponsor id="411901" joined="1988-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-07" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Referred to Subcommittee on Research and Development.</text>
+    </action>
+    <action datetime="1988-07-19">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS01" subcommittee="Research and Development" name="House Armed Services"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Armed forces and national security"/>
+    <term name="Biodegradation"/>
+    <term name="Business and commerce"/>
+    <term name="Compost"/>
+    <term name="Consumer goods"/>
+    <term name="Consumer protection"/>
+    <term name="Container industry"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Defense articles"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Department of Commerce"/>
+    <term name="Environmental research"/>
+    <term name="Executive reorganization"/>
+    <term name="Fast food restaurants"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food industry"/>
+    <term name="Government and business"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Health"/>
+    <term name="Information services"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Manufacturing industries"/>
+    <term name="Marketing"/>
+    <term name="Medical supplies"/>
+    <term name="Municipal services"/>
+    <term name="Packaging"/>
+    <term name="Pollution control"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Recycling of waste products"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Research"/>
+    <term name="Research and development"/>
+    <term name="Research grants"/>
+    <term name="Science and technology"/>
+    <term name="Sewage disposal"/>
+    <term name="Sewage sludge"/>
+    <term name="Technological innovations"/>
+    <term name="Technology and social problems"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/1988--Introduced.
+Recyclable Materials Science and Technology Development Act of 1988 - Directs the Secretary of Commerce to study and report to the Congress concerning: (1) means to increase the use of degradable materials in manufactured goods; (2) technologies for recycling nondurable consumer products; and (3) ways to expand the marketing of recycled products. Directs the Secretary of Health and Human Services to study and report to the Congress concerning the feasibility of recycling nondegradable medical supplies and of substituting degradable for nondegradable materials in medical equipment and supplies. Directs the Secretary of Defense to study and report to the Congress on the national defense and security implications of requiring the use of degradable materials in defense items. Instructs the Secretary of Agriculture to initiate a pilot project to develop and demonstrate viable technology for composting municipal waste and sewage sludge. Prescribes required features of the project. Requires the Secretary to report project results to the Congress. Directs the Secretary of Commerce to appoint a Director of Recycling Research and Information to: (1) make grants to support research into innovative recycling technology; and (2) gather and disseminate information on recycling technology. Describes possible research grant activities. Authorizes appropriations. Prohibits, effective five years after this Act's enactment, the production, manufacture, distribution, sale, or delivery of nonrecycled consumer goods, fast food in nondegradable containers, and packaging for specified purposes that contains any material that is not naturally degradable. Establishes both civil and criminal penalties for violations. Directs the Administrator of the Environmental Protection Agency and the Secretary of Commerce jointly to issue regulations to govern the designation of goods and materials for noncompliance purposes. Prescribes criteria with respect to these regulations, including exemptions. Directs the Secretary to publish and periodically update lists of items and materials affected by the prohibition on activities involving nonrecyclable items.</summary>
+</bill>

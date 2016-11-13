@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="3269" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-15"/>
+  </status>
+  <introduced datetime="1987-09-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Cadmus Foundation, Incorporated, to establish a monument on Federal land in the District of Columbia commemorating the ancient Greek teacher Cadmus.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-15" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Referred to Subcommittee on Libraries and Memorials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA09" subcommittee="Libraries and Memorials" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="District of Columbia"/>
+    <term name="Teachers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/1987--Introduced.
+Authorizes the Cadmus Foundation, Incorporated, to establish a monument on Federal land in the District of Columbia commemorating the ancient Greek teacher Cadmus as a symbol of all teachers. Prohibits the United States from paying any expense of establishing the monument.</summary>
+</bill>

@@ -1,0 +1,65 @@
+<bill session="100" type="h" number="2371" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1987-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-11"/>
+  </status>
+  <introduced datetime="1987-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Public Law 874 of the 81st Congress relating to entitlement to impact aid payments.</title>
+  </titles>
+  <sponsor id="400359"/>
+  <cosponsors>
+    <cosponsor id="400569" joined="1987-05-13"/>
+    <cosponsor id="401383" joined="1987-05-27"/>
+    <cosponsor id="401446" joined="1987-06-17"/>
+    <cosponsor id="400035" joined="1987-05-27"/>
+    <cosponsor id="401612" joined="1987-06-17"/>
+    <cosponsor id="300011" joined="1987-06-17"/>
+    <cosponsor id="402114" joined="1987-06-10"/>
+    <cosponsor id="403266" joined="1987-06-17"/>
+    <cosponsor id="300033" joined="1987-06-10"/>
+    <cosponsor id="300037" joined="1987-05-27"/>
+    <cosponsor id="403726" joined="1987-06-17"/>
+    <cosponsor id="404097" joined="1987-06-17"/>
+    <cosponsor id="404170" joined="1987-05-27"/>
+    <cosponsor id="404401" joined="1987-05-27"/>
+    <cosponsor id="405256" joined="1987-06-17"/>
+    <cosponsor id="405687" joined="1987-05-13"/>
+    <cosponsor id="300058" joined="1987-06-10"/>
+    <cosponsor id="406461" joined="1987-06-10"/>
+    <cosponsor id="406530" joined="1987-05-27"/>
+    <cosponsor id="406554" joined="1987-05-27"/>
+    <cosponsor id="400603" joined="1987-08-04"/>
+    <cosponsor id="400604" joined="1987-05-27"/>
+    <cosponsor id="408976" joined="1987-05-27"/>
+    <cosponsor id="409325" joined="1987-05-13"/>
+    <cosponsor id="400377" joined="1987-05-13"/>
+    <cosponsor id="400610" joined="1987-05-27"/>
+    <cosponsor id="410245" joined="1987-05-13"/>
+    <cosponsor id="410529" joined="1987-05-27"/>
+    <cosponsor id="410623" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-11" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Impacted area programs"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1987--Introduced.
+Amends Federal law relating to entitlement to impact aid payments to direct the Secretary of Education to allocate certain sums among local educational agencies which have unsatisfied entitlements.</summary>
+</bill>

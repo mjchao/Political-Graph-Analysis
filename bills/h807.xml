@@ -1,0 +1,65 @@
+<bill session="100" type="h" number="807" updated="2014-03-22T09:51:34-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Genocide Convention Implementation Act of 1987</title>
+    <title type="official" as="introduced">A bill to implement the International Convention on the Prevention and Punishment of Genocide.</title>
+  </titles>
+  <sponsor id="409344"/>
+  <cosponsors>
+    <cosponsor id="401310" joined="1988-03-22"/>
+    <cosponsor id="400025" joined="1988-03-15"/>
+    <cosponsor id="400571" joined="1987-06-09"/>
+    <cosponsor id="402325" joined="1987-09-16"/>
+    <cosponsor id="404376" joined="1988-02-16"/>
+    <cosponsor id="406191" joined="1988-03-10"/>
+    <cosponsor id="406765" joined="1987-04-21"/>
+    <cosponsor id="411025" joined="1988-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1987-06-11">
+      <text>Executive Comment Requested from Justice, State.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Clean Bill H.R.4243 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4243"/>
+    <bill relation="identical" session="100" type="s" number="1851"/>
+    <bill relation="identical" session="100" type="s" number="1851"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Genocide"/>
+    <term name="Human rights"/>
+    <term name="International affairs"/>
+    <term name="Sentences (Criminal procedure)"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Genocide Convention Implementation Act of 1987 - Amends the Federal criminal code to establish the criminal offense of genocide. Sets forth penalties to be imposed upon anyone who commits or attempts to commit any of the acts which constitute genocide (a fine of $1,000,000 and/or imprisonment for up to 20 years, and life imprisonment if group members are killed). Sets forth criminal penalties (a fine of $500,000 and/or imprisonment for up to five years) for directly and publicly inciting an act of genocide.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="3963" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-17"/>
+  </status>
+  <introduced datetime="1988-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of the T.W. Rounds Company of Providence, Rhode Island.</title>
+  </titles>
+  <sponsor id="410231"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-17" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-22">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1988--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named company in full satisfaction of any claim against the United States arising out of the loss of merchandise that was detained by the U.S. Customs Service.</summary>
+</bill>

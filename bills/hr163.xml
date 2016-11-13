@@ -1,0 +1,38 @@
+<bill session="100" type="hr" number="163" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-08"/>
+  </status>
+  <introduced datetime="1987-05-08"/>
+  <titles>
+    <title type="official" as="introduced">A resolution calling on the House of Representatives to resist all attempts to deny the home mortgage interest deduction to any taxpayer whose home is a boat.</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-08" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="143"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Boats and boating"/>
+    <term name="Finance and financial sector"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing finance"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Mortgage loans"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/1987--Introduced.
+Calls upon the House of Representatives to resist all attempts to deny the income tax home mortgage interest deduction to any taxpayer whose home is a boat.</summary>
+</bill>

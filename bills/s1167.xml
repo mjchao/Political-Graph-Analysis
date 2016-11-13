@@ -1,0 +1,61 @@
+<bill session="100" type="s" number="1167" updated="2014-03-22T09:55:14-04:00">
+  <state datetime="1987-05-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-05-13"/>
+  </status>
+  <introduced datetime="1987-05-08"/>
+  <titles>
+    <title type="short" as="introduced">Stewart B. McKinney National Wildlife Refuge Designation Act of 1987</title>
+    <title type="short" as="enacted">Stewart B. McKinney National Wildlife Refuge</title>
+    <title type="official" as="introduced">A bill to change the name of the "Connecticut Coastal National Wildlife Refuge" to the "Stewart B. McKinney National Wildlife Refuge".</title>
+  </titles>
+  <sponsor id="411421"/>
+  <cosponsors>
+    <cosponsor id="300034" joined="1987-05-08"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-05-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-05-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-05-08" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-05-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-05-12">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-05-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-05-13" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-38" type="public" datetime="1987-05-13">
+      <text>Became Public Law No: 100-38.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2334"/>
+    <bill relation="identical" session="100" type="h" number="2334"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Connecticut"/>
+    <term name="Monuments and memorials"/>
+    <term name="Names"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/1987--Introduced.
+Stewart B. McKinney National Wildlife Refuge Designation Act of 1987 - Redesignates the Connecticut Coastal National Wildlife Refuge as the Stewart B. McKinney National Wildlife Refuge. Authorizes the Secretary of the Interior to accept future memorials to be placed in such Refuge. Authorizes appropriations.</summary>
+</bill>

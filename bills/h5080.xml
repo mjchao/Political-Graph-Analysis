@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="5080" updated="2014-03-22T09:53:32-04:00">
+  <state datetime="1988-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-14"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to make technical corrections in the continuation coverage requirements of group health plans.</title>
+  </titles>
+  <sponsor id="409422"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Business and commerce"/>
+    <term name="Government employees' health insurance"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+    <term name="Insurance premiums"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local officials and employees"/>
+    <term name="Medicare"/>
+    <term name="Social welfare"/>
+    <term name="State officials and employees"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Introduced.
+Amends title XXII (Requirements for Certain Group Health Plans for Certain State and Local Employees) of the Public Health Service Act to make specified changes with regard to: (1) continuation coverage exception rules; (2) the definition of the term "covered employee;" (3) reemployment or Medicare eligibility; and (4) applicable premiums.</summary>
+</bill>

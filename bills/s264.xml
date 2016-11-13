@@ -1,0 +1,46 @@
+<bill session="100" type="s" number="264" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to deny status as a tax-exempt organization, and as charitable contribution recipient, for organizations which perform, finance, or provide facilities for abortions.</title>
+  </titles>
+  <sponsor id="405795"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-01-06"/>
+    <cosponsor id="403171" joined="1987-01-21"/>
+    <cosponsor id="403669" joined="1987-05-15"/>
+    <cosponsor id="404444" joined="1987-01-06"/>
+    <cosponsor id="300159" joined="1987-01-06"/>
+    <cosponsor id="405305" joined="1987-04-30"/>
+    <cosponsor id="300154" joined="1987-01-06"/>
+    <cosponsor id="407355" joined="1987-01-29"/>
+    <cosponsor id="408937" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Abortion"/>
+    <term name="Abortion, Birth Control, and Family Planning"/>
+    <term name="Charitable contributions"/>
+    <term name="Estate tax"/>
+    <term name="Gift tax"/>
+    <term name="Income tax"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Tax deductions"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Internal Revenue Code to deny status as a tax-exempt organization to any organization which performs, finances, or provides facilities for abortions (except where the life of the mother would be endangered). Denies the income, estate, and gift tax charitable contribution deductions for amounts contributed to such organizations.</summary>
+</bill>

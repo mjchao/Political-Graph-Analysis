@@ -1,0 +1,154 @@
+<bill session="100" type="s" number="744" updated="2014-12-10T13:15:44-05:00">
+  <state datetime="1988-10-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-28"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="short" as="introduced">State Radon Program Development Act of 1987</title>
+    <title type="short" as="reported to senate">Radon Program Development Act of 1987</title>
+    <title type="short" as="passed senate">Radon Program Development Act of 1987</title>
+    <title type="official" as="introduced">A bill to assist States in responding to the threat to human health posed by exposure to radon.</title>
+  </titles>
+  <sponsor id="407786"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1987-03-19"/>
+    <cosponsor id="401709" joined="1987-03-12"/>
+    <cosponsor id="402412" joined="1987-03-12"/>
+    <cosponsor id="300031" joined="1987-03-12"/>
+    <cosponsor id="403346" joined="1987-06-03"/>
+    <cosponsor id="300034" joined="1987-03-12"/>
+    <cosponsor id="403669" joined="1987-03-12"/>
+    <cosponsor id="404598" joined="1987-06-16"/>
+    <cosponsor id="404679" joined="1987-03-12"/>
+    <cosponsor id="300046" joined="1987-03-12"/>
+    <cosponsor id="405321" joined="1987-03-12"/>
+    <cosponsor id="300060" joined="1987-03-12"/>
+    <cosponsor id="300064" joined="1987-03-12"/>
+    <cosponsor id="300073" joined="1987-03-12"/>
+    <cosponsor id="400563" joined="1987-03-12"/>
+    <cosponsor id="300082" joined="1987-03-12"/>
+    <cosponsor id="300086" joined="1987-06-03"/>
+    <cosponsor id="300092" joined="1987-03-12"/>
+    <cosponsor id="410242" joined="1987-03-12"/>
+    <cosponsor id="300099" joined="1987-05-19"/>
+    <cosponsor id="411801" joined="1987-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Subcommittee on Environmental Protection. Hearings held. Hearings printed:  S.Hrg. 100-52.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Subcommittee on Superfund and Environmental. Hearings held. Hearings printed:  S.Hrg. 100-52.</text>
+    </action>
+    <action datetime="1987-04-30">
+      <text>Subcommittee on Environmental Protection. Approved for full committee consideration with amendments favorably.</text>
+    </action>
+    <calendar datetime="1987-06-17" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-06-30">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Mitchell with an amendment in the nature of a substitute and an amendment to the title. With written report No. 100-91.</text>
+    </action>
+    <calendar datetime="1987-06-30" calendar="Senate Legislative" under="General Orders" number="214">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 214.</text>
+    </calendar>
+    <action datetime="1987-07-08">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-08" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>House Committee on Energy and Commerce Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-05" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-05">
+      <text>House Incorporated H.R.2837 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-07" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-551" type="public" datetime="1988-10-28">
+      <text>Became Public Law No: 100-551.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings, Markup, Reporting" code="SSEV02" subcommittee="Environmental Protection" name="Senate Environment and Public Works"/>
+    <committee activity="Hearings" code="SSEV04" subcommittee="Superfund and Environmental Oversight" name="Senate Environment and Public Works"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2837"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air pollution control"/>
+    <term name="Air pollution measurement"/>
+    <term name="Building construction"/>
+    <term name="Buildings"/>
+    <term name="Data banks"/>
+    <term name="Educational facilities"/>
+    <term name="Environmental assessment"/>
+    <term name="Federal aid to air pollution control"/>
+    <term name="Federal installations"/>
+    <term name="Government publications"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Government trust funds"/>
+    <term name="Grants-in-aid"/>
+    <term name="Health"/>
+    <term name="Indoor air pollution"/>
+    <term name="Information services"/>
+    <term name="Public safety"/>
+    <term name="Radiation"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive pollution"/>
+    <term name="Radon"/>
+    <term name="Standards"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Technological innovations"/>
+    <term name="Telephone"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Passed House amended.
+(Measure passed House, amended, in lieu of H.R. 2837) Amends the Toxic Substances Control Act to establish as the national long-term goal that the air within buildings be as free of radon as the ambient air outside of buildings. Directs the Administrator of the Environmental Protection Agency to publish and make available to the public by June 1, 1989, an updated version of its document titled "A Citizen's Guide to Radon". Sets forth the information which such guide must provide, including information as to the health risk associated with different levels of radon exposure. Requires the Administrator to develop and make available to the public by June 1, 1990, model construction standards and techniques for controlling radon levels within new buildings. Directs the Administrator to develop and implement activities to assist State radon programs such as: (1) an information clearinghouse; (2) proficiency programs rating the effectivenss of radon measurement and mitigation devices, methods, and services; (3) training seminars for government officials and private and professional firms dealing with radon; (4) radon measurement and mitigation methods; and (5) a national data base on the location and amounts of radon. Authorizes the Administrator to provide a State with technical assistance in developing or implementing programs addressing radon. Requires the Administrator to: (1) provide information concerning technology and methods of radon assessment and mitigation to professional organizations representing private firms involved in building design, engineering, and construction; and (2) submit an annual plan to the Congress identifying the assistance to be provided to States for radon programs. Directs the Administrator to impose charges on persons applying for a proficiency rating and on private and professional firms participating in training seminars to defray the costs of such program and seminars. Authorizes appropriations to start such program and seminars. Authorizes appropriations for FY 1989 through 1991 for the development of model construction standards and techniques, publication of the radon guide, and operation of training seminars. Authorizes the Administrator to make grants to States on an annual basis for radon assessment and mitigation, covering the same types of activities the Administrator may provide directly through technical assistance. Gives preference to States that have made reasonable efforts to ensure the adoption of model construction standards and techniques within the State. Grants priority to State projects which involve serious radon contamination or potential for reduction, including the development of innovative techniques. Limits the Federal share of costs to 75 percent in the first year, 60 percent in the second, and 50 percent in the third. Limits per State grants to ten percent of the total funds available. Places other limitations on the uses of grant money. Authorizes appropriations for FY 1989 through 1991. Directs the Administrator to study the extent of radon contamination in the Nation's school buildings, including a statistical survey of radon levels in schools in each State and a list of areas which have a high probability of including schools which have elevated radon levels. Requires the Administrator to provide States with a list of high risk areas and other information concerning radon risks, testing, and mitigation. Authorizes the Administrator to: (1) provide devices to States for conducting radon tests; and (2) undertake diagnostic and remedial efforts at high radon level school buildings to reduce such radon levels and develop the necessary technology and expertise for use by local educational agencies and States. Sets forth radon study reporting requirements. Authorizes appropriations. Directs the Administrator to make grants to at least three colleges, universities, institutions of higher learning, or consortia of such institutions for the establishment and operation of a regional radon training centers which develop information and provide training to government officials, professional and private firms, and the public regarding the health risks posed by radon and demonstrated methods of radon measurement and mitigation. Authorizes appropriations for FY 1989 through 1991. Requires the head of each Federal department or agency that owns a Federal building to conduct, with the Administrator's assistance, a study to determine the extent of radon contamination in such buildings. Directs the Administrator to compile a list of areas that have a high probability of including Federal buildings with elevated radon levels. Requires that such studies be completed by June 1, 1990, and their results reported to the Congress by October 1, 1990.</summary>
+</bill>

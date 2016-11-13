@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="3756" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-11"/>
+  </status>
+  <introduced datetime="1987-12-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the procurement of goods and services by Federal agencies from Japanese sources, and for other purposes.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-11" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government procurement"/>
+    <term name="Japan"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>12/11/1987--Introduced.
+Prohibits any Federal agency, for ten years after enactment of this Act, from contracting for the procurement of goods or services from Japanese sources. Provides for the waiver of such prohibition with respect to an individual procurement if the President or the head of an agency determines it is in the public interest.</summary>
+</bill>

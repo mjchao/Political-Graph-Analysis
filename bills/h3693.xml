@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="3693" updated="2014-03-22T09:52:56-04:00">
+  <state datetime="1987-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-03"/>
+  </status>
+  <introduced datetime="1987-12-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate Clarks Hill Lake, Clarks Hill Dam, and the highway, traversing Clarks Hill Dam as the "J. Strom Thurmond Lake", the "J. Strom Thurmond Dam", and the "J. Strom Thurmond Highway".</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors>
+    <cosponsor id="401155" joined="1987-12-08"/>
+    <cosponsor id="408520" joined="1987-12-08"/>
+    <cosponsor id="409052" joined="1987-12-08"/>
+    <cosponsor id="400610" joined="1987-12-08"/>
+    <cosponsor id="400386" joined="1987-12-08"/>
+    <cosponsor id="410623" joined="1987-12-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-03" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-12-04">
+      <text>See H.J.Res.376.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="376"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public works"/>
+    <term name="Dams"/>
+    <term name="Georgia"/>
+    <term name="Lakes"/>
+    <term name="Names"/>
+    <term name="Roads and highways"/>
+    <term name="South Carolina"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>12/3/1987--Introduced.
+Designates Clarks Hill Lake and Clarks Hill Dam, located on the Savannah River on the border between Georgia and South Carolina, and the portion of U.S. Route 221 that traverses the dam, as the J. Strom Thurmond Lake, the J. Strom Thurmond Dam, and the J. Strom Thurmond Highway, respectively.</summary>
+</bill>

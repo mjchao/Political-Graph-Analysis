@@ -1,0 +1,62 @@
+<bill session="100" type="hr" number="274" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-09-29">REPORTED</state>
+  <status>
+    <unknown datetime="1987-09-29"/>
+  </status>
+  <introduced datetime="1987-09-25"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the release of certain materials relating to the inquiry into the conduct of United States District Judge Alcee L. Hastings.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="1987-09-25"/>
+    <cosponsor id="401947" joined="1987-09-25"/>
+    <cosponsor id="403776" joined="1987-09-25"/>
+    <cosponsor id="404097" joined="1987-09-25"/>
+    <cosponsor id="400544" joined="1987-09-25"/>
+    <cosponsor id="410574" joined="1987-09-25"/>
+    <cosponsor id="410589" joined="1987-09-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-25" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-09-29" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-02">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-338.</text>
+    </action>
+    <action datetime="1987-10-02">
+      <text>Placed on House Calendar No: 85.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Crime prevention"/>
+    <term name="District courts"/>
+    <term name="Florida"/>
+    <term name="House of Representatives"/>
+    <term name="Impeachments"/>
+    <term name="Judges"/>
+  </subjects>
+  <amendments/>
+  <summary>9/25/1987--Introduced.
+Provides for the release of the report to the House Judiciary Committee in the matter of impeachment proceedings against United States district judge Alcee L. Hastings and all other papers, documents, and records of proceedings relating to such matter.</summary>
+</bill>

@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="540" updated="2014-03-22T09:51:23-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for coverage under part B of the medicare program for routine Papanicolaou tests and mammograms.</title>
+  </titles>
+  <sponsor id="402763"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-11-03"/>
+    <cosponsor id="404097" joined="1987-03-11"/>
+    <cosponsor id="409593" joined="1987-03-11"/>
+    <cosponsor id="410066" joined="1987-11-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-08">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Breast cancer"/>
+    <term name="Cancer"/>
+    <term name="Health"/>
+    <term name="Medical tests"/>
+    <term name="Medicare"/>
+    <term name="Women's health"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to extend coverage to include expenses incurred in providing a Papanicolaou test or a mammogram for the diagnosis of uterine or breast cancer, if the individual receiving the test has not had such a test on a routine basis during the preceding six months.</summary>
+</bill>

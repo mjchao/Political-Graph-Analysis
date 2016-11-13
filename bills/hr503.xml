@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="503" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-07-27">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-07-27"/>
+  </status>
+  <introduced datetime="1988-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 4200) to authorize appropriations for fiscal year 1989 for certain maritime programs of the Department of Transportation and the Federal Maritime Commission.</title>
+  </titles>
+  <sponsor id="400600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-27">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-804.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Placed on House Calendar No: 190.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="4200"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Marine transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/1988--Introduced.
+Sets forth the rule for the consideration of H.R. 4200 (maritime programs).</summary>
+</bill>

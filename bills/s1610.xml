@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="1610" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1954 to eliminate the retroactive certification of employees for purposes of the work incentive jobs credit.</title>
+  </titles>
+  <sponsor id="408939"/>
+  <cosponsors>
+    <cosponsor id="405321" joined="1987-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2111"/>
+    <bill relation="identical" session="100" type="h" number="2111"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business and commerce"/>
+    <term name="Business and social problems"/>
+    <term name="Economic growth"/>
+    <term name="Employer incentives"/>
+    <term name="Employment and training programs"/>
+    <term name="Employment tax credits"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Social welfare"/>
+    <term name="Tax credits"/>
+    <term name="Work incentive programs"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Amends the Internal Revenue Code to eliminate the retroactive certification of employees for purposes of the income tax credit for certain expenses of work incentive programs. Applies such amendment to credits first claimed after March 11, 1987.</summary>
+</bill>

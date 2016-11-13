@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="5121" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-08-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-02"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Election Campaign Act of 1971 to require publication of certain information relating to multicandidate political committees.</title>
+  </titles>
+  <sponsor id="400895"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-08-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-02" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Recommitted to Subcommittee on Elections.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Re-Commitment, Hearings, Markup, Reporting" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Financial disclosure"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Political action committees"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Amends the Federal Election Campaign Act of 1971 to require the Clerk of the House of Representatives to report quarterly in the Congressional Record the following information for each multicandidate political committee: (1) the name of the committee and the name of any sponsoring body of the committee; (2) the total amount of contributions received by the committee; (3) the total amount of expenditures made by the committee, allocated to contributions and operating expenses; and (4) the total amount of cash assets of the committee on the last day of such quarter.</summary>
+</bill>

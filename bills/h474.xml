@@ -1,0 +1,69 @@
+<bill session="100" type="h" number="474" updated="2014-03-22T09:51:22-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Plastic Waste Study Act of 1987</title>
+    <title type="official" as="introduced">A bill entitled the "Plastic Waste Study Act of 1987".</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="406530" joined="1987-09-15"/>
+    <cosponsor id="400240" joined="1987-07-08"/>
+    <cosponsor id="400533" joined="1987-10-01"/>
+    <cosponsor id="409644" joined="1987-01-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-01-26">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Executive Comment Requested from DOT, EPA, State, Commerce, Interior, Marine Mammal Comm.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Unfavorable Executive Comment Received From Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Fisheries"/>
+    <term name="Fishery management"/>
+    <term name="Ocean"/>
+    <term name="Plastics"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Plastic Waste Study Act of 1987 - Directs the Administrators of the Environmental Protection Agency and the National Oceanic and Atmospheric Administration to jointly study the adverse effects of dumping plastics on the environment, including fish and wildlife, within the United States and the oceans. Requires the Administrators to report results and recommendations to the Congress within 18 months. Authorizes appropriations.</summary>
+</bill>

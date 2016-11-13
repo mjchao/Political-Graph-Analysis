@@ -1,0 +1,129 @@
+<bill session="100" type="s" number="2385" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-08-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-10"/>
+  </status>
+  <introduced datetime="1988-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Family Health Services Amendments Act of 1988</title>
+    <title type="short" as="passed house">Community and Migrant Health Centers Amendments of 1988</title>
+    <title type="short" as="passed senate">Family Health Services Amendments Act of 1988</title>
+    <title type="short" as="enacted">Community and Migrant Health Centers Amendments of 1988</title>
+    <title type="official" as="introduced">An original bill to amend title III of the Public Health Service Act to revise and extend the programs of assistance for primary health care, the program of health services for the homeless, and the program for the prevention and control of sexually transmitted diseases, and for other purposes.</title>
+    <title type="official" as="amended by senate">An act to amend title III of the Public Helath Service Act to revise and extend the program of assistance for primary health care and the program of health services for the homeless, and for other purposes.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-03-02" state="REPORTED">
+      <text>Committee on Labor and Human Resources ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1988-05-13">
+      <text>Committee on Labor and Human Resources. Original measure reported to Senate by Senator Kennedy. With written report No. 100-343.</text>
+    </action>
+    <calendar datetime="1988-05-13" calendar="Senate Legislative" under="General Orders" number="669">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 669.</text>
+    </calendar>
+    <action datetime="1988-05-18">
+      <text>Committee on Labor and Human Resources requested executive comment from OMB, Health and Human Services Department.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-13" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-07-12" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-07-12">
+      <text>House Incorporated H.R.4503 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>House Insisted on its Amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>House Requested a Conference and Speaker Appointed Conferees: Dingell, Waxman, Hall (TX), Lent, Madigan.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill House requests a conference.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-07-29" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendment with an amendment (SP2776) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-08-01" where="h" result="pass" state="PASSED:BILL">
+      <text>House Agreed to Senate Amendments to House Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-08-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-08-02">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-08-02">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-386" type="public" datetime="1988-08-10">
+      <text>Became Public Law No: 100-386.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4503"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Authorization"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Communicable diseases"/>
+    <term name="Community health services"/>
+    <term name="Construction costs"/>
+    <term name="Delegation of powers"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid programs"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Federal aid to maternal health services"/>
+    <term name="Health facilities"/>
+    <term name="Homeless"/>
+    <term name="Housing and community development"/>
+    <term name="Infant mortality"/>
+    <term name="Labor and employment"/>
+    <term name="Medical centers"/>
+    <term name="Medical fees"/>
+    <term name="Mental health"/>
+    <term name="Mental health services"/>
+    <term name="Migrant labor"/>
+    <term name="Pregnant women"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public health"/>
+    <term name="Sexually transmitted diseases"/>
+    <term name="Women's health"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2347"/>
+    <amendment number="s2776"/>
+  </amendments>
+  <summary>7/29/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendment with an amendment) Community and Migrant Health Centers Amendments of 1988 - Amends title III (General Powers and Duties of Public Health Service) of the Public Health Service Act to: (1) add patient case management services to the list of services provided by migrant health centers; and (2) add to the list of services included in the term "supplemental health services" other services appropriate to meet the health needs of the population served by the migrant health center involved. Requires notice and an opportunity to offer information before the Secretary of Health and Human Services may alter a determination that an area is a high impact area. Requires that the schedule of fees or payments used by migrant health centers receiving grants under specified provisions be consistent with locally prevailing rates or charges. Allows grants for migrant health centers under specified provisions to be used for expansion as well as for acquisition and modernization of existing buildings. Allows construction of new buildings if appropriate facilities are not available through acquiring, modernizing, or expanding existing buildings, and subject to other conditions. Revises the limit on the amount of grants for costs of operation and allows a center, in certain circumstances, to retain all of specified types of excess income. Authorizes the Secretary to delegate the authority to administer migrant health center programs to any office within the Public Health Service, except that the authority to enter into, modify, or issue approvals with respect to grants or contracts may be delegated only within the central office of the Health Resources and Services Administration. Authorizes appropriations for grants under specified provisions for migrant health centers for FY 1989 through 1991. Authorizes the Secretary to make grants to assist centers in providing services for the reduction of infant mortality and developing and coordinating referrals regarding the health management of infants and pregnant women. Adds, with regard to community health centers, to the list of services included in the term "supplemental health services" other services appropriate to meet the health needs of the medically underserved population served by the community health center involved. Requires notice and an opportunity to comment before the Secretary may modify the criteria for determining the specific shortages of personal health services of an area or population group. Requires that the schedule of fees or payments used by community health centers receiving grants under specified provisions be consistent with locally prevailing rates or charges. Allows grants for community health centers under specified provisions to be used for expansion as well as for acquisition and modernization of existing buildings. Allows construction of new buildings if appropriate facilities are not available through acquiring, modernizing, or expanding existing buildings, and subject to other conditions. Revises the limit on the amount of grants for costs of operation and allows a center, in certain circumstances, to retain all of specified types of excess income. Authorizes the Secretary to delegate the authority to administer community health center programs to any office within the Public Health Service, except that the authority to enter into, modify, or issue approvals with respect to grants or contracts may be delegated only within the central office of the Health Resources and Services Administration. Authorizes appropriations for grants under specified provisions for community health centers for FY 1989 through 1991. Authorizes the Secretary to make grants to community health centers to assist centers in providing services for the reduction of infant mortality and developing and coordinating referrals regarding the health management of infants and pregnant women. Directs the Secretary, in making grants to community health centers, to give special consideration to the unique needs of frontier areas.</summary>
+</bill>

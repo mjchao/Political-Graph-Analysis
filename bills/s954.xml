@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="954" updated="2014-03-22T09:55:11-04:00">
+  <state datetime="1987-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Rules of Criminal Procedure with respect to the examination of prospective jurors.</title>
+  </titles>
+  <sponsor id="405310"/>
+  <cosponsors>
+    <cosponsor id="402004" joined="1987-04-08"/>
+    <cosponsor id="403346" joined="1987-12-01"/>
+    <cosponsor id="408939" joined="1987-04-08"/>
+    <cosponsor id="300089" joined="1987-10-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1987-07-16">
+      <text>Subcommittee on Courts and Administrative Practice. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Criminal procedure"/>
+    <term name="Juries"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/1987--Introduced.
+Amends the Federal Rules of Criminal Procedure to provide certain guidelines with respect to the examination of prospective jurors.</summary>
+</bill>

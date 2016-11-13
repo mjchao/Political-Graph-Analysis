@@ -1,0 +1,87 @@
+<bill session="100" type="h" number="3396" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1988-03-30">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1987-10-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the rehiring of certain former air traffic controllers.</title>
+  </titles>
+  <sponsor id="407816"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-01" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Referred to Subcommittee on Civil Service.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Unfavorable Executive Comment Received From DOT.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-06" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-15">
+      <text>Reported to House by House Committee on Post Office and Civil Service.  Report No: 100-375.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Placed on Union Calendar No: 234.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Rules Committee Resolution H.Res.360 Reported to House.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="48" datetime="1988-03-30" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 234 - 180 (Record Vote No: 48).</text>
+    </vote>
+    <action datetime="1988-03-31">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSPO03" subcommittee="Civil Service" name="House Post Office and Civil Service"/>
+    <committee activity="Referral" code="HSPO04" subcommittee="Human Resources" name="House Post Office and Civil Service"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="360"/>
+    <bill relation="unknown" session="100" type="h" number="378"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Air traffic"/>
+    <term name="Air traffic controllers"/>
+    <term name="Armed forces and national security"/>
+    <term name="Aviation"/>
+    <term name="Civil service employment"/>
+    <term name="Civil service retirement"/>
+    <term name="Department of Transportation"/>
+    <term name="Federal Aviation Administration"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Military aviation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/1987--Introduced.
+Provides that former air traffic controllers shall not, as a class, be considered unsuitable or ineligible for: (1) positions as air traffic controllers in the Federal Aviation Administration (FAA) or the Department of Defense; or (2) positions in the FAA other than air traffic controller positions. Requires the Secretary of Transportation and the Director of the Office of Personnel Management to take action to ensure that in each of FY 1988 and 1989, at least 500 former controllers are appointed to permanent, full-time positions as air traffic controllers in the FAA. Provides for a waiver of the maximum-age limitation applicable to such appointments. Prescribes procedural guidelines for competitive and non-competitive appointments of such controllers. Precludes an applicant's role in the 1981 strike from being considered when making a determination of suitability for an air traffic controller position. Requires the Secretary of Transportation and the Secretary of Defense to prescribe regulations under which the appointment of a former controller to an air traffic controller position within their respective departments shall not become final unless a probationary period has been successfully completed. Sets forth guidelines for the computation of creditability of service for retirement purposes. Expresses the sense of the Congress that such reinstatements should not: (1) cause the separation or reduction in grade of any other air traffic controller; or (2) interfere with training opportunities which would otherwise be afforded to air traffic controllers seeking to become fully qualified.</summary>
+</bill>

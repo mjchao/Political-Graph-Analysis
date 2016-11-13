@@ -1,0 +1,36 @@
+<bill session="100" type="s" number="2401" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-16"/>
+  </status>
+  <introduced datetime="1988-05-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986, the Employment Retirement Income Security Act of 1974, and the Public Health Service Act with respect to continuation of health care coverage.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="407622" joined="1988-05-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Business and commerce"/>
+    <term name="Employee benefit plans"/>
+    <term name="Group insurance"/>
+    <term name="Health insurance"/>
+    <term name="Income tax"/>
+    <term name="Insurance"/>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>5/16/1988--Introduced.
+Amends the Internal Revenue Code, the Employee Retirement Income Security Act of 1974, and the Public Health Service Act to provide that a person's eligibility to receive benefits under mandated employee health benefit continuation coverage ceases as soon as that person becomes eligible for coverage under another group health plan, as an employee or otherwise.</summary>
+</bill>

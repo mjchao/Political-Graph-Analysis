@@ -1,0 +1,69 @@
+<bill session="100" type="hj" number="256" updated="2016-06-29T08:44:32-04:00">
+  <state datetime="1987-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-23"/>
+  </status>
+  <introduced datetime="1987-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating October 20, 1987, as "Leyte Landing Day".</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-05-27"/>
+    <cosponsor id="400569" joined="1987-07-30"/>
+    <cosponsor id="401383" joined="1987-05-27"/>
+    <cosponsor id="401526" joined="1987-05-27"/>
+    <cosponsor id="300011" joined="1987-06-24"/>
+    <cosponsor id="400055" joined="1987-05-27"/>
+    <cosponsor id="402626" joined="1987-05-27"/>
+    <cosponsor id="402833" joined="1987-05-27"/>
+    <cosponsor id="403184" joined="1987-05-27"/>
+    <cosponsor id="400580" joined="1987-06-24"/>
+    <cosponsor id="403888" joined="1987-05-27"/>
+    <cosponsor id="404013" joined="1987-05-27"/>
+    <cosponsor id="404376" joined="1987-05-27"/>
+    <cosponsor id="404422" joined="1987-06-24"/>
+    <cosponsor id="405646" joined="1987-05-27"/>
+    <cosponsor id="405775" joined="1987-05-27"/>
+    <cosponsor id="300055" joined="1987-05-27"/>
+    <cosponsor id="406530" joined="1987-05-27"/>
+    <cosponsor id="406554" joined="1987-05-27"/>
+    <cosponsor id="400238" joined="1987-05-27"/>
+    <cosponsor id="400243" joined="1987-05-27"/>
+    <cosponsor id="400595" joined="1987-07-30"/>
+    <cosponsor id="407669" joined="1987-06-24"/>
+    <cosponsor id="407772" joined="1987-06-24"/>
+    <cosponsor id="407960" joined="1987-06-24"/>
+    <cosponsor id="408023" joined="1987-06-24"/>
+    <cosponsor id="408313" joined="1987-05-27"/>
+    <cosponsor id="409887" joined="1987-04-23"/>
+    <cosponsor id="410407" joined="1987-06-24"/>
+    <cosponsor id="400409" joined="1987-06-24"/>
+    <cosponsor id="411025" joined="1987-05-27"/>
+    <cosponsor id="411065" joined="1987-05-27"/>
+    <cosponsor id="411166" joined="1987-05-27"/>
+    <cosponsor id="411901" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-23" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-04-29">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Philippines"/>
+    <term name="Special days"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/1987--Introduced.
+Designates October 20, 1987, as Leyte Landing Day, commemorating the landing of allied forces on Leyte Island in the Philippines in World War II.</summary>
+</bill>

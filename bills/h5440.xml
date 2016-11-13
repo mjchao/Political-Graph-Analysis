@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="5440" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-30"/>
+  </status>
+  <introduced datetime="1988-09-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to eliminate urban-rural distinctions in making payments and determining fees and rates under the Medicare program.</title>
+  </titles>
+  <sponsor id="410623"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-30" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-10-24">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Rural public health"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1988--Introduced.
+Requires that the Secretary of Health and Human Services make payments and determine fees and rates under title XVIII (Medicare) of the Social Security Act without regard to whether an individual or an entity resides or is located in an urban or rural area.</summary>
+</bill>

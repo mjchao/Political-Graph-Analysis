@@ -1,0 +1,349 @@
+<bill session="100" type="h" number="4800" updated="2014-12-10T13:14:44-05:00">
+  <state datetime="1988-08-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-19"/>
+  </status>
+  <introduced datetime="1988-06-14"/>
+  <titles>
+    <title type="short" as="introduced">Department of Housing and Urban Development-Independent Agencies Appropriations Act, 1989</title>
+    <title type="short" as="enacted">Department of Housing and Urban Development-Independent Agencies Appropriations Act, 1989</title>
+    <title type="official" as="introduced">A bill making appropriations for the Department of Housing and Urban Development, and for sundry independent agencies and offices, for the fiscal year ending September 30, 1989 and for other purposes.</title>
+  </titles>
+  <sponsor id="401568"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Referred to Subcommittee on Hud - Independent Agencies.</text>
+    </action>
+    <action datetime="1988-02-23">
+      <text>First Day of Subcommittee Hearings.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Final Day of Subcommittee Hearings.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>First Day of Subcommittee Mark-up.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Final Day of Subcommittee Mark-up.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-14" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-06-14">
+      <text>Reported to House by House Committee on Appropriations.  Report No: 100-701.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Placed on Union Calendar No: 422.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Committee on Rules Granted a Rule Waiving Clause 2 of Rule XXI Against Specified Provisions of the Bill.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Rules Committee Resolution H.Res.478 Reported to House.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <vote how="roll" type="vote" roll="198" datetime="1988-06-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 377 - 40 (Record Vote No: 198).</text>
+    </vote>
+    <action datetime="1988-06-24">
+      <text>Received in the Senate and read twice and referred to the Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-06-24">
+      <text>Committee on Appropriations. Reported to Senate by Senator Proxmire with amendments. With written report No. 100-401.</text>
+    </action>
+    <calendar datetime="1988-06-24" calendar="Senate Legislative" under="General Orders" number="762">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 762.</text>
+    </calendar>
+    <action datetime="1988-07-12">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="247" datetime="1988-07-13" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 86-11. Record Vote No: 247.</text>
+    </vote>
+    <action datetime="1988-07-13">
+      <text>Senate insists on its amendments, asks for a conference, appoints conferees Proxmire; Stennis; Leahy; Johnston; Lautenberg; Mikulski; Inouye; Garn; D'Amato; Domenici; Grassley; Nickles; Hatfield.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>House Disagreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>House Agreed to Request for Conference and Speaker Appointed Conferees: Boland, Traxler, Stokes, Boggs, Mollohan, Sabo, Whitten, Green, Coughlin, Lewis (CA), Conte.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Conferees agreed to file conference report.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Conference Report 100-817 Filed in House.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>House Agreed to Senate Amendments 003, 006, 013, 023, 073, 076, 081 by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>House Concurred, in Senate Amendments 001, 017, 018, 024, 030, 051, 056, 057, 058, 062, 064, 070, 075 , with Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>House Agreed to Conference Report by Yea-Nay Vote: 373 - 30 (Record Vote No: 268).</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Conference report considered in Senate.</text>
+    </action>
+    <vote how="roll" type="conference" roll="301" datetime="1988-08-09" where="s" result="pass" state="CONFERENCE:PASSED:SENATE">
+      <text>Senate agreed to conference report by Yea-Nay Vote. 88-8. Record Vote No: 301.</text>
+    </vote>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-08-09" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment to the Senate amendments nos. 1,17,18,24,30,51,56,57,58,62,64,70, and 75 by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-08-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-08-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-08-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-19" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-404" type="public" datetime="1988-08-19">
+      <text>Became Public Law No: 100-404.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAP05" subcommittee="HUD-Independent Agencies" name="House Appropriations"/>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="478"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Advisory bodies"/>
+    <term name="Aeronautics"/>
+    <term name="Air quality"/>
+    <term name="Aircraft"/>
+    <term name="American Battle Monuments Commission"/>
+    <term name="Antarctic regions"/>
+    <term name="Apartment houses"/>
+    <term name="Appropriations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Astronautics"/>
+    <term name="Automobile fuel consumption"/>
+    <term name="Aviation"/>
+    <term name="Building construction"/>
+    <term name="Business and commerce"/>
+    <term name="Business and social problems"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Child health"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Civil service compensation"/>
+    <term name="Community development"/>
+    <term name="Community development corporations"/>
+    <term name="Compulsory military service"/>
+    <term name="Congregate housing"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Construction costs"/>
+    <term name="Consumer Product Safety Commission"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Counseling"/>
+    <term name="Credit unions"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of Housing and Urban Development"/>
+    <term name="Deposit insurance"/>
+    <term name="Disabled"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Emergency management"/>
+    <term name="Energy"/>
+    <term name="Energy conservation"/>
+    <term name="Energy policy"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Environmental engineering"/>
+    <term name="Environmental protection"/>
+    <term name="Environmental research"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive reorganization"/>
+    <term name="Extended care facilities"/>
+    <term name="Federal Emergency Management Agency"/>
+    <term name="Federal Home Loan Bank Board"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to Indians"/>
+    <term name="Federal aid to community development"/>
+    <term name="Federal aid to housing"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal home loan banks"/>
+    <term name="Federal installations"/>
+    <term name="Federally-assisted loans"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Flood insurance"/>
+    <term name="Floods"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Foundations"/>
+    <term name="General Services Administration"/>
+    <term name="Government National Mortgage Association"/>
+    <term name="Government consultants"/>
+    <term name="Government corporations"/>
+    <term name="Government lending"/>
+    <term name="Government life insurance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Government securities"/>
+    <term name="Government service contracts"/>
+    <term name="Government trust funds"/>
+    <term name="Grants-in-aid"/>
+    <term name="Hazardous waste disposal"/>
+    <term name="Hazardous wastes"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Historic sites"/>
+    <term name="Home repair and improvement"/>
+    <term name="Homeless"/>
+    <term name="Hospitals"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing and community development"/>
+    <term name="Housing discrimination"/>
+    <term name="Housing finance"/>
+    <term name="Housing for the aged"/>
+    <term name="Housing for the handicapped"/>
+    <term name="Housing policy"/>
+    <term name="Housing subsidies"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Information services"/>
+    <term name="Insurance"/>
+    <term name="Interest rates"/>
+    <term name="International affairs"/>
+    <term name="Investments"/>
+    <term name="Landlord and tenant"/>
+    <term name="Lead poisoning"/>
+    <term name="Life care communities"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Location of industries"/>
+    <term name="Low-income housing"/>
+    <term name="Medical research"/>
+    <term name="Monuments and memorials"/>
+    <term name="Mortgage loans"/>
+    <term name="Mortgages"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicles"/>
+    <term name="National Aeronautics and Space Administration"/>
+    <term name="National Credit Union Administration"/>
+    <term name="National Science Foundation"/>
+    <term name="National monuments"/>
+    <term name="Native Americans"/>
+    <term name="Neighborhood government"/>
+    <term name="Office of Science and Technology Policy"/>
+    <term name="Paints and varnishes"/>
+    <term name="Parking facilities"/>
+    <term name="Philippines"/>
+    <term name="Planning"/>
+    <term name="Pollution control"/>
+    <term name="Product safety"/>
+    <term name="Prosthesis"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public assistance programs"/>
+    <term name="Public housing"/>
+    <term name="Quality of life"/>
+    <term name="Rent subsidies"/>
+    <term name="Rental housing"/>
+    <term name="Reprogramming of appropriated funds"/>
+    <term name="Research"/>
+    <term name="Research and development"/>
+    <term name="Residential energy conservation"/>
+    <term name="Residential rehabilitation"/>
+    <term name="Revenue sharing"/>
+    <term name="Revolving funds"/>
+    <term name="Savings and loan associations"/>
+    <term name="Science and technology"/>
+    <term name="Science, technology, communications"/>
+    <term name="Scientific education"/>
+    <term name="Secondary mortgage market"/>
+    <term name="Selective Service System"/>
+    <term name="Social welfare"/>
+    <term name="Solar energy"/>
+    <term name="Solar heating and cooling"/>
+    <term name="Solar houses"/>
+    <term name="Space communication"/>
+    <term name="Space exploration"/>
+    <term name="Space flight"/>
+    <term name="Space policy"/>
+    <term name="Space programs"/>
+    <term name="Space sciences"/>
+    <term name="Spacecraft"/>
+    <term name="Tax-exempt organizations"/>
+    <term name="Technical education"/>
+    <term name="Technological innovations"/>
+    <term name="Technology policy"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel costs"/>
+    <term name="Underground storage"/>
+    <term name="Urban affairs"/>
+    <term name="Urban economic development"/>
+    <term name="Urban homesteading"/>
+    <term name="Urban planning"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' hospitals"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions"/>
+    <term name="Veterans' rehabilitation"/>
+    <term name="War"/>
+    <term name="War casualties"/>
+    <term name="Water pollution control"/>
+    <term name="Water quality"/>
+  </subjects>
+  <amendments>
+    <amendment number="h761"/>
+    <amendment number="h762"/>
+    <amendment number="h763"/>
+    <amendment number="h764"/>
+    <amendment number="h765"/>
+    <amendment number="s2561"/>
+    <amendment number="s2562"/>
+    <amendment number="s2563"/>
+    <amendment number="s2564"/>
+    <amendment number="s2565"/>
+    <amendment number="s2566"/>
+    <amendment number="s2567"/>
+    <amendment number="s2568"/>
+    <amendment number="s2569"/>
+    <amendment number="s2570"/>
+    <amendment number="s2571"/>
+    <amendment number="s2572"/>
+    <amendment number="s2573"/>
+    <amendment number="s2574"/>
+    <amendment number="s2575"/>
+    <amendment number="s2576"/>
+  </amendments>
+  <summary>8/9/1988--House receded and concurred with amendment.
+(House receded and concurred in Senate amendments with an amendment) Department of Housing and Urban Development - Independent Agencies Appropriations Act, 1989 - Makes appropriations for FY 1989 for the Department of Housing and Urban Development (HUD), and for various independent agencies, boards, commissions, corporations, and offices, and for other purposes, as specified in the following titles. Title I: Department of Housing and Urban Development - Makes appropriations for FY 1989 for the Department of Housing and Urban Development. Makes appropriations to HUD for the following housing programs: (1) annual contributions for assisted housing (including rescission); (2) rental rehabilitation grants; (3) housing for the elderly or handicapped fund; (5) congregate services; (5) payments for operation of low-income housing projects; (6) housing counseling assistance; (7) flexible subsidy fund; (8) emergency shelter grants program; (9) transitional and supportive housing demonstration program; (10) interagency council on the homeless; (11) Federal Housing Administration fund; and (12) nonprofit sponsor assistance. Rescinds certain authorized appropriations for rental housing assistance. Provides that, during FY 1989, Government National Mortgage Association (Ginnie Mae) guarantees of mortgage-backed securities shall not exceed a specified amount of loan principal. Makes appropriations to HUD for the following community planning and development programs: (1) community development grants (including transfers of funds); (2) rehabilitation loan fund; (3) urban homesteading; and (4) assistance for solar and conservation improvements. Makes appropriations to HUD for policy development and research and technology. Requires that a specified minimum amount from such funds for research and studies relating to the housing and urban planning be available for lead-based paint studies. Makes appropriations to HUD for fair housing and equal opportunity activity. Makes appropriations (including transfer of funds) to HUD for management and administration, including salaries and administrative and nonadministrative expenses. Amends the Housing and Community Development Act of 1974 to prohibit any city or urban county from being awarded a certain grant or grants in excess of a specified amount until all cities and urban counties which submitted fundable applications have been awarded a grant. Requires that any additional grants shall be made so that each city or urban county that has submitted multiple applications is awarded one additional grant in order of ranking, with no single city or urban county receiving more than one grant approval in any subsequent series of grant determinations within the same competition. Requires that all of specified types of grants be made in order of ranking. Prohibits the use of funds to implement or enforce specified HUD regulations with respect to the testing and abatement of lead-based paint in public housing, until the Secretary of HUD develops comprehensive technical guidelines on reliable testing protocols, safe and effective abatement techniques, cleanup methods, and acceptable post-abatement lead dust levels. Title II: Independent Agencies - Makes appropriations for FY 1989 for various independent agencies for salaries and expenses and/or other specified items, as follows: (1) the American Battle Monuments Commission; (2) the Consumer Product Safety Commission; (3) the Department of Defense - Civil (Army cemeterial expenses); (4) the Environmental Protection Agency (research and development; abatement, control and compliance; buildings and facilities; Hazardous Substance Superfund; leaking underground storage tank trust fund; construction grants); (5) the Executive Office of the President (Council on Environmental Quality and Office of Environmental Quality; Office of Science and Technology Policy); (6) Federal Emergency Management Agency (disaster relief; emergency management planning and assistance; National Flood Insurance Fund; emergency food and shelter program); (7) the General Services Administration (Consumer Information Center); (8) the Department of Health and Human Services (Office of Consumer Affairs); (9) the National Aeronautics and Space Administration (research and development, including rescission of funds; space flight, control, and data communications; construction of facilities; Science, Space, and Technology Education Trust Fund; research and program management); (10) the National Credit Union Administration (Central Liquidity Facility); (11) the National Science Foundation (research and related activities; U.S. Antarctic Program; science education); (12) the Neighborhood Reinvestment Corporation; (13) Selective Service System; and (14) Veterans Administration (compensation and pensions; readjustment benefits; veterans insurance and indemnities; medical care; medical and prosthetic research; medical administration and miscellaneous operating expenses; general operating expenses; construction, major and minor projects; parking garage revolving fund; grants for construction of State extended care facilities; grants to the Republic of the Philippines; grants for construction of State veterans cemeteries; direct loan revolving fund; loan guaranty revolving fund; various administrative provisions, including transfer of funds). Title III: Corporations - Authorizes corporations and agencies of HUD and the Federal Home Loan Bank Board which are subject to the Government Corporation Control Act to make expenditures within the limits of their funds and borrowing authority, and contracts and commitments without regard to fiscal year limitation, as set forth in the budget for FY 1989. Provides that collections may be used for new loan or mortgage purchase commitments only to the extent expressly provided for in this Act (unless such loans are in support of other forms of assistance provided for in this or prior appropriations Acts). Makes this proviso inapplicable to the mortgage insurance or guaranty operations of these corporations, or where loans or mortgage purchases are necessary to protect the financial interest of the U.S. Government. Sets forth limitations on administrative expenses of the Federal Home Loan Bank Board and of the Federal Savings and Loan Insurance Corporation. Title IV - Sets forth general provisions and limitations relating to use of funds appropriated or made available under this Act.</summary>
+</bill>

@@ -1,0 +1,112 @@
+<bill session="100" type="h" number="2480" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1987-07-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-07-10"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend temporarily the governing international fishery agreement between the United States and the Republic of Korea, and for other purposes.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors>
+    <cosponsor id="400440" joined="1987-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-20" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-05-29">
+      <text>Executive Comment Requested from Commerce, Interior, State.</text>
+    </action>
+    <action datetime="1987-05-29">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-09" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-06-17">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-161.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Placed on Union Calendar No: 93.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-23">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-06-26">
+      <text>Senate Committee on Commerce discharged by Unanimous Consent.</text>
+    </action>
+    <calendar datetime="1987-06-26" calendar="Senate Legislative" under="General Orders" number="213">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 213.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-06-30" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-06-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-07-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-07-02">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-07-02">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-07-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-66" type="public" datetime="1987-07-10">
+      <text>Became Public Law No: 100-66.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Civil service employment"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Education"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Fisheries"/>
+    <term name="Fishery agreements"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government internships"/>
+    <term name="Marine education"/>
+    <term name="National Sea Grant Program"/>
+    <term name="Scholarships"/>
+    <term name="Ships and shipping"/>
+    <term name="South Korea"/>
+    <term name="Student aid"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/1987--Passed House amended.
+(Measure passed House, amended) Provides that a certain fishery agreement between the United States and the Republic of Korea shall remain in force and effect until the close of the congressional oversight period of 60 days, provided for in the Magnuson Fishery Conservation and Management Act, with respect to any new fishery agreement between the United States and the Republic of Korea transmitted to the Congress under such provision after May 1, 1987, or November 1, 1987, whichever is earlier. Authorizes the Secretary of Commerce to award sea grant fellowships under the sea grant fellowship program, for a period not to exceed one year, to support the placement of qualified individuals in positions with the executive and legislative branches of the U.S. Government.</summary>
+</bill>

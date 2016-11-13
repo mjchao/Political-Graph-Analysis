@@ -1,0 +1,52 @@
+<bill session="100" type="h" number="4717" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-05-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-26"/>
+  </status>
+  <introduced datetime="1988-06-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Defense to complete cost comparisons within two years under OMB Circular A-76 for all automated data processing and data entry functions in the Department of Defense and to require contracting out of such functions in cases in which cost savings will result.</title>
+  </titles>
+  <sponsor id="400115"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1988-06-15"/>
+    <cosponsor id="401383" joined="1988-06-15"/>
+    <cosponsor id="401628" joined="1988-09-07"/>
+    <cosponsor id="403476" joined="1988-07-27"/>
+    <cosponsor id="403545" joined="1988-06-15"/>
+    <cosponsor id="404009" joined="1988-06-15"/>
+    <cosponsor id="407899" joined="1988-06-15"/>
+    <cosponsor id="410574" joined="1988-06-15"/>
+    <cosponsor id="411178" joined="1988-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-26" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on Readiness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM" subcommittee="Readiness" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Computers"/>
+    <term name="Cost control"/>
+    <term name="Costs"/>
+    <term name="Defense contracts"/>
+    <term name="Electronic data processing"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Science and technology"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/1988--Introduced.
+Requires the Secretary of Defense to compare the costs of performance by Department of Defense civilian employees and by a private contractor of all automated data processing functions and data entry functions of the Department. Specifies that the procedures and requirements of Office of Management and Budget Circular A-76 shall be used in making such comparison. Requires the Secretary to contract with a private contractor for the performance of such functions if private contractor performance will result in a cost savings to the Government over the life of the contract.</summary>
+</bill>

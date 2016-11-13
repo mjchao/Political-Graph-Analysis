@@ -1,0 +1,65 @@
+<bill session="100" type="h" number="2443" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1987-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-18"/>
+  </status>
+  <introduced datetime="1987-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit United States intelligence and military cooperation with South Africa.</title>
+  </titles>
+  <sponsor id="404752"/>
+  <cosponsors>
+    <cosponsor id="402833" joined="1987-05-18"/>
+    <cosponsor id="403695" joined="1987-05-18"/>
+    <cosponsor id="411834" joined="1987-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-18" state="REFERRED">
+      <text>Referred to House Committee on Intelligence (Permanent).</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Referred to Subcommittee on Africa.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, In Committee"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral, Hearings" code="HSFA08" subcommittee="Africa" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Armed forces and national security"/>
+    <term name="Military attaches"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="South Africa"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1987--Introduced.
+Amends the Comprehensive Anti-Apartheid Act of 1986 to prohibit any agency or entity of the United States, including any entity engaged in intelligence activities, from engaging in any form of cooperation, direct or indirect, with the armed forces of the Government of South Africa. Specifies that such cooperation includes: (1) assigning or detailing any member of the U.S. armed forces to serve as a defense (or military) attache in South Africa; (2) cooperating in any way with an individual serving as a defense (or military) attache at a South African diplomatic mission in the United States; and (3) any activity relating to the collection of intelligence. Repeals provisions of the Intelligence Authorization Act for Fiscal Year 1987 relating to restrictions on intelligence agency cooperation with South Africa.</summary>
+</bill>

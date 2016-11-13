@@ -1,0 +1,38 @@
+<bill session="100" type="sc" number="150" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-03"/>
+  </status>
+  <introduced datetime="1988-10-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution concerning human rights of the Sikhs in the Punjab of India.</title>
+  </titles>
+  <sponsor id="401611"/>
+  <cosponsors>
+    <cosponsor id="405795" joined="1988-10-07"/>
+    <cosponsor id="300066" joined="1988-10-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-03" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="343"/>
+    <bill relation="identical" session="100" type="hc" number="343"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Human rights"/>
+    <term name="India"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+    <term name="Sikhs"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/1988--Introduced.
+Expresses the sense of the Congress that India should allow Sikhs full access to the Golden Temple and remove all military presence from the shrine. Urges the Government of India to use restraint in resolving the dispute with the Sikh people in the Punjab. Calls for a political solution to restore home rule in the Punjab, with religious freedom and human rights guarantees.</summary>
+</bill>

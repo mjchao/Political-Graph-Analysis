@@ -1,0 +1,131 @@
+<bill session="100" type="h" number="3105" updated="2016-06-29T08:43:21-04:00">
+  <state datetime="1988-11-23">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-23"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to revise, consolidate and enact certain laws related to maritime commercial instruments and liens and public vessels and goods as chapters 313 and 315 of title 46, United States Code, "Shipping".</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors>
+    <cosponsor id="400844" joined="1987-08-05"/>
+    <cosponsor id="401418" joined="1987-08-05"/>
+    <cosponsor id="403266" joined="1987-08-05"/>
+    <cosponsor id="406746" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-05" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-08-18">
+      <text>Executive Comment Requested from Justice, Treasury, DOT.</text>
+    </action>
+    <action datetime="1987-08-18">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-08-10">
+      <text>Executive Comment Received From Justice.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-918.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Placed on Union Calendar No: 552.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1988-10-07" calendar="Senate Legislative" under="General Orders" number="1135">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1135.</text>
+    </calendar>
+    <action datetime="1988-10-20">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-20" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-14">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-23" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-710" type="public" datetime="1988-11-23">
+      <text>Became Public Law No: 100-710.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4490"/>
+    <bill relation="unknown" session="100" type="h" number="4624"/>
+    <bill relation="unknown" session="100" type="h" number="4716"/>
+    <bill relation="unknown" session="100" type="h" number="4819"/>
+    <bill relation="unknown" session="100" type="h" number="4835"/>
+    <bill relation="unknown" session="100" type="h" number="4836"/>
+    <bill relation="unknown" session="100" type="h" number="5011"/>
+    <bill relation="unknown" session="100" type="h" number="5137"/>
+    <bill relation="unknown" session="100" type="h" number="5138"/>
+    <bill relation="unknown" session="100" type="h" number="5140"/>
+    <bill relation="unknown" session="100" type="h" number="5406"/>
+    <bill relation="unknown" session="100" type="s" number="2408"/>
+    <bill relation="unknown" session="100" type="s" number="2417"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Civil actions and liability"/>
+    <term name="Coast guard"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="District courts"/>
+    <term name="Federal preemption"/>
+    <term name="Fisheries"/>
+    <term name="Government liability"/>
+    <term name="Historic sites"/>
+    <term name="Licenses"/>
+    <term name="Marine transportation"/>
+    <term name="Maritime law"/>
+    <term name="Merchant marine legislation"/>
+    <term name="Mortgages"/>
+    <term name="Museums"/>
+    <term name="Seizure of vessels and cargoes"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="South Carolina"/>
+    <term name="Territories (U.S.)"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3754"/>
+  </amendments>
+  <summary>10/20/1988--Passed Senate amended.
+(Measure passed Senate, amended) Title I: Maritime Commercial Instruments and Liens - Amends Federal maritime law to direct the Secretary of Transportation (the Secretary) to establish a vessel identification system using prescribed numbering, signal letters, and markings. Authorizes the Secretary to impose fees for: (1) providing information regarding such system; and (2) maintaining it. Imposes criminal and civil penalties for providing false vessel identification information. Amends Federal maritime law to recodify, consolidate, and revise specified shipping and related maritime provisions regarding commercial instruments and maritime liens, surrender and invalidation of documentation certificates, documentation for specified vessels, and fisheries documentation. Imposes liability for monetary loss upon the mortgagor of any vessel filed or recorded under this Act if a person incurred such a loss due to the mortgagor's non-compliance with this Act. Preempts State laws conferring a lien upon a vessel for necessaries. Modifies the definition of preferred mortgage to eliminate the exemption of foreign vessels weighing less than 200 gross tons. Requires that certain commercial instruments regarding documented vessels be filed with the Secretary (but need not be recorded) in order to be valid. Requires the parties to an instrument or an application for documentation (but not the Secretary) to use diligence to ensure that such documents be in substantial compliance with filing and documentation requirements. Amends the filing requirements for commercial instruments to include specified mortgage terms. Eliminates the requirement for supplying an instrument's maturity date. Requires the Secretary to: (1) record commercial instruments in the order in which they were filed (not in the order they were received for recording); and (2) maintain an index of such instruments for public use. Requires a mortgagee, upon the request of either the Secretary or the mortgagor, to file with the Secretary a certificate acknowledging the total and final discharge of an indebtedness. Repeals the current requirements: (1) that a partial discharge of indebtedness be so filed; and (2) that a discharge be endorsed on a vessel's certificate of documentation. Permits a vessel for which an application for documentation has been filed to be covered by a preferred mortgage. Authorizes a federally insured depository institution (or any person approved by the Secretary) to be a preferred mortgagee. Exempts from mortgagee restrictions certain fishing industry vessels and pleasure boats. Eliminates the requirement that a vessel's certificate of documentation be endorsed with specified mortgage information. Provides that upon default of any preferred mortgage term a nonadmiralty civil action may be brought to enforce the lien, and an admiralty action may be brought against the mortgagor, co-maker, or guarantor for the outstanding indebtedness or for any deficiency. Extends jurisdiction for such cases to courts in all the territories of the United States. Confers original jurisdiction on the district courts in nonadmiralty civil actions to enforce a preferred mortgage lien. Provides that the judicial procedure to enforce a maritime lien or a preferred mortgage lien shall be the same. Prescribes limitations for trustees of mortgaged vessels. Prohibits operation of a vessel by a trustee on behalf of foreign holders of indebtedness without the Secretary's approval. Sets restrictions upon court sales of documented vessels. Imposes civil and criminal penalties upon a mortgagor who intentionally perpetrates a fraud with respect to mortgage obligations covered by this Act. Makes the chief officer of a corporate entity liable as a mortgagor for such penalties. Title II: Documentation and Repeals - Identifies vessels which may be issued documents to lawfully engage in the coastwise or fisheries trade, or both. Directs the Secretary of the department in which the Coast Guard is operating to transfer, without consideration, the Coast Guard vessel "Ingham" to the Naval and Maritime Museum at Patriots Point, South Carolina.</summary>
+</bill>

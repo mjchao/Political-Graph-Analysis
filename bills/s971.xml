@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="971" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Energy Security Tax Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1954 to impose a fee on the importation of crude oil or refined petroleum products and to repeal the windfall profit tax on domestic crude oil.</title>
+  </titles>
+  <sponsor id="406084"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2198"/>
+    <bill relation="identical" session="100" type="h" number="2198"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Energy policy"/>
+    <term name="Excess profits tax"/>
+    <term name="Excise tax"/>
+    <term name="Feedstock"/>
+    <term name="Fees"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Imports"/>
+    <term name="Income tax"/>
+    <term name="Petrochemicals"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum industry"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Energy Security Tax Act of 1987 - Amends the Internal Revenue Code to impose an excise tax on the first sale within the United States of imports of: (1) crude oil; (2) refined petroleum products; and (3) petrochemical feedstocks or other derivatives. Sets the rate of such tax as the difference between $24 per barrel ($26.50 for petroleum and petrochemical products) and the most recently published average price of a barrel of internationally traded oil, as determined by the Secretary of the Treasury in accordance with a specified formula. Permits an income tax deduction for oil import tax payments. Repeals the windfall profit tax on domestic crude oil.</summary>
+</bill>

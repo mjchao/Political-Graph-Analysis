@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="2938" updated="2014-03-22T09:52:34-04:00">
+  <state datetime="1987-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-14"/>
+  </status>
+  <introduced datetime="1987-07-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Meliha Cooks and Gorkhan Cooks.</title>
+  </titles>
+  <sponsor id="410765"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-14" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-20">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1987--Introduced.
+Declares two named individuals to have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act.</summary>
+</bill>

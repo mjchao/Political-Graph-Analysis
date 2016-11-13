@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1926" updated="2014-03-22T09:52:06-04:00">
+  <state datetime="1987-04-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-02"/>
+  </status>
+  <introduced datetime="1987-04-02"/>
+  <titles>
+    <title type="short" as="introduced">User Charge Accountability Act of 1987</title>
+    <title type="official" as="introduced">A bill to require that revenue collected by Federal agencies in the form of a user charge be obligated for certain programs which directly benefit persons required to pay such user charge, and for other purposes.</title>
+  </titles>
+  <sponsor id="400176"/>
+  <cosponsors>
+    <cosponsor id="401418" joined="1987-07-01"/>
+    <cosponsor id="300029" joined="1987-07-15"/>
+    <cosponsor id="403696" joined="1987-07-15"/>
+    <cosponsor id="404220" joined="1987-07-01"/>
+    <cosponsor id="405377" joined="1987-07-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-02" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Excise tax"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Government trust funds"/>
+    <term name="Taxation"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>4/2/1987--Introduced.
+User Charge Accountability Act of 1987 - Requires that revenue collected in the form of a user charge during a fiscal year be obligated for programs which: (1) are administered by an agency which collects such user charge; and (2) directly benefit persons required to pay such user charge. Directs the Secretary of the Treasury, for each fiscal year, to determine: (1) the amount of revenue collected from each user charge; (2) the amount obligated by a Federal agency for programs that are administered by an agency which collects the user charge and that directly benefit persons required to pay the user charge; and (3) the difference between such amounts. Directs the Secretary to transfer an amount equal to any excess of collected user charges over agency obligations for such programs from the general fund of the Treasury to the appropriate account for obligation for such programs if funds for such programs are not otherwise available. Sets forth a formula for the adjustment of excessive user charges so that revenues match obligations.</summary>
+</bill>

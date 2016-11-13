@@ -1,0 +1,124 @@
+<bill session="100" type="h" number="5325" updated="2014-03-22T09:53:36-04:00">
+  <state datetime="1988-10-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-28"/>
+  </status>
+  <introduced datetime="1988-09-16"/>
+  <titles>
+    <title type="short" as="introduced">Federal Crop Insurance Commission Act of 1988</title>
+    <title type="short" as="enacted">Federal Crop Insurance Commission Act of 1988</title>
+    <title type="official" as="introduced">A bill to establish a commission to review and make recommendations for the improvement of the Federal crop insurance program.</title>
+  </titles>
+  <sponsor id="406111"/>
+  <cosponsors>
+    <cosponsor id="400572" joined="1988-09-16"/>
+    <cosponsor id="300017" joined="1988-09-16"/>
+    <cosponsor id="402710" joined="1988-09-16"/>
+    <cosponsor id="402747" joined="1988-09-16"/>
+    <cosponsor id="400079" joined="1988-09-16"/>
+    <cosponsor id="403308" joined="1988-09-16"/>
+    <cosponsor id="403864" joined="1988-09-16"/>
+    <cosponsor id="403873" joined="1988-09-16"/>
+    <cosponsor id="403904" joined="1988-09-16"/>
+    <cosponsor id="404602" joined="1988-09-16"/>
+    <cosponsor id="404723" joined="1988-09-16"/>
+    <cosponsor id="404869" joined="1988-09-16"/>
+    <cosponsor id="405114" joined="1988-09-16"/>
+    <cosponsor id="405209" joined="1988-09-16"/>
+    <cosponsor id="400176" joined="1988-09-16"/>
+    <cosponsor id="405580" joined="1988-09-16"/>
+    <cosponsor id="405626" joined="1988-09-16"/>
+    <cosponsor id="405747" joined="1988-09-16"/>
+    <cosponsor id="300057" joined="1988-09-16"/>
+    <cosponsor id="300058" joined="1988-09-16"/>
+    <cosponsor id="406148" joined="1988-09-16"/>
+    <cosponsor id="406157" joined="1988-09-16"/>
+    <cosponsor id="406554" joined="1988-09-16"/>
+    <cosponsor id="406790" joined="1988-09-16"/>
+    <cosponsor id="407069" joined="1988-09-16"/>
+    <cosponsor id="407967" joined="1988-09-16"/>
+    <cosponsor id="408097" joined="1988-09-16"/>
+    <cosponsor id="408342" joined="1988-09-16"/>
+    <cosponsor id="408457" joined="1988-09-16"/>
+    <cosponsor id="408618" joined="1988-09-16"/>
+    <cosponsor id="300083" joined="1988-09-16"/>
+    <cosponsor id="409400" joined="1988-09-16"/>
+    <cosponsor id="409651" joined="1988-09-16"/>
+    <cosponsor id="410084" joined="1988-09-16"/>
+    <cosponsor id="410245" joined="1988-09-16"/>
+    <cosponsor id="410251" joined="1988-09-16"/>
+    <cosponsor id="410261" joined="1988-09-16"/>
+    <cosponsor id="400389" joined="1988-09-16"/>
+    <cosponsor id="410623" joined="1988-09-16"/>
+    <cosponsor id="411166" joined="1988-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-16" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Favorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Senate Committee on Agriculture discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-07" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-546" type="public" datetime="1988-10-28">
+      <text>Became Public Law No: 100-546.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2830"/>
+    <bill relation="identical" session="100" type="s" number="2830"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Advisory bodies"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural insurance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Business and commerce"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1988--Introduced.
+Federal Crop Insurance Commission Act of 1988 - States that the purpose of this Act is to: (1) ensure the review of the Federal crop insurance program; and (2) recommend changes necessary to lessen or eliminate the need for additional disaster payment programs in order to reduce Federal costs and provide farmers with equitable and predictable natural disaster protection. Establishes the Commission for the Improvement of the Federal Crop Insurance Program. Sets forth membership and operating provisions. Directs the Commission to: (1) determine why crop insurance program participation is lower than anticipated; (2) identify States and commodities with low participation; and (3) recommend program improvements. Sets forth particular areas to be examined, including: (1) program insurance coverage; (2) use of crop field information; (3)related government subsidies; (4) sales commission rates; (5) claims adjustment services; (6) information collection; (7) compliance efforts; and (8) premium pools. Requires the Commission to submit: (1) an interim report to the appropriate congressional committees by April 1, 1989; (2) a final report to such committees by July 1, 1989; and (3) monthly reports to such committees from the period beginning July 1, 1989, through December 31, 1990. Terminates the Commission as of December 31, 1990, except that the Secretary of Agriculture may extend the Commission's life beyond such date. Directs the Federal Crop Insurance Corporation to make specified FY 1989 funds available to the Commission.</summary>
+</bill>

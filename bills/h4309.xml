@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4309" updated="2014-03-22T09:53:09-04:00">
+  <state datetime="1988-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make surviving spouses of judicial officials who died before October 1, 1986, eligible for increased annuities which are effective as of that date.</title>
+  </titles>
+  <sponsor id="300057"/>
+  <cosponsors>
+    <cosponsor id="403308" joined="1988-04-21"/>
+    <cosponsor id="404422" joined="1988-04-27"/>
+    <cosponsor id="400306" joined="1988-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-04-07">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Annuities"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Judges"/>
+    <term name="Judicial officers"/>
+    <term name="Survivors' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Amends the Judicial Improvements Act of 1985 to provide increased annuities for the surviving spouses of judicial officials who died before October 1, 1986.</summary>
+</bill>

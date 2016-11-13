@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="1348" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Grand Jury Procedural Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide for dismissal of a criminal case, before or after judgement, upon a finding of error in the grand jury proceedings from which the indictment arose.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Criminal procedure"/>
+    <term name="Grand jury"/>
+    <term name="Indictments"/>
+    <term name="Juries"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Grand Jury Procedural Protection Act of 1987 - Amends the Federal criminal code to provide for the dismissal of a criminal indictment by a court upon a finding of substantial error in the grand jury proceedings.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="5537" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-19">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-19"/>
+  </status>
+  <introduced datetime="1988-10-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize prohibitions of imports from and exports to Yugoslavia.</title>
+  </titles>
+  <sponsor id="400085"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-19" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-11-07">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-11-07">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Export controls"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Yugoslavia"/>
+  </subjects>
+  <amendments/>
+  <summary>10/19/1988--Introduced.
+Authorizes the President to prohibit: (1) the importation of all Yugoslavian products into the United States; and (2) the exportation of any U.S. goods for use by Yugoslavia. Requires the President, if such actions to prohibit trade have not been taken within 45 days after enactment of this Act, to report to the Congress the reasons why such actions have not been taken.</summary>
+</bill>

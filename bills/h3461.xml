@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="3461" updated="2014-03-22T09:52:52-04:00">
+  <state datetime="1987-10-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-09"/>
+  </status>
+  <introduced datetime="1987-10-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Rule 24(a) of the Federal Rules of Criminal Procedure to require the court to permit the defendant, and the attorney representing the defendant, and the attorney for the Government to examine prospective jurors.</title>
+  </titles>
+  <sponsor id="401986"/>
+  <cosponsors>
+    <cosponsor id="402626" joined="1987-10-20"/>
+    <cosponsor id="400155" joined="1988-09-09"/>
+    <cosponsor id="406530" joined="1987-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-09" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Criminal procedure"/>
+    <term name="Juries"/>
+  </subjects>
+  <amendments/>
+  <summary>10/9/1987--Introduced.
+Amends the Federal Rules of Criminal Procedure to require the court to permit the defendant (or the defendant's attorney) and the attorney for the Government 30 minutes each to examine prospective jurors. (Current law leaves it to the court's discretion whether to permit such examination). Allows the court to: (1) grant additional time; (2) supplement the examination with its own inquiry; and (3) limit the questions allowed during the examination. Sets forth time requirements for juror examination in the case of multiple defendants.</summary>
+</bill>

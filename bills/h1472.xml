@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="1472" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1988-09-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the post office building being constructed in West Liberty, Texas, as the "M. P. Daniel and Thomas F. Calhoon, Sr., Post Office Building".</title>
+  </titles>
+  <sponsor id="411725"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-29">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal installations"/>
+    <term name="Names"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal facilities"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Passed House amended.
+(Measure passed House, amended) Designates the post office building in Liberty, Texas, as the M.P. Daniel and Thomas F. Calhoon, Senior, Post Office Building.</summary>
+</bill>

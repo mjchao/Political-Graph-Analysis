@@ -1,0 +1,49 @@
+<bill session="100" type="s" number="2077" updated="2014-03-22T09:55:35-04:00">
+  <state datetime="1988-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-19"/>
+  </status>
+  <introduced datetime="1988-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill entitled the "Livestock Producers' Recordkeeping Act of 1988".</title>
+  </titles>
+  <sponsor id="406190"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1988-04-22"/>
+    <cosponsor id="401611" joined="1988-02-29"/>
+    <cosponsor id="403142" joined="1988-03-15"/>
+    <cosponsor id="404444" joined="1988-03-03"/>
+    <cosponsor id="405310" joined="1988-04-22"/>
+    <cosponsor id="406188" joined="1988-02-29"/>
+    <cosponsor id="300070" joined="1988-03-15"/>
+    <cosponsor id="408898" joined="1988-03-15"/>
+    <cosponsor id="408970" joined="1988-02-19"/>
+    <cosponsor id="410588" joined="1988-02-29"/>
+    <cosponsor id="300099" joined="1988-03-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Costs"/>
+    <term name="Farmers"/>
+    <term name="Farms"/>
+    <term name="Income tax"/>
+    <term name="Inventories"/>
+    <term name="Livestock"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1988--Introduced.
+Amends the Internal Revenue Code to provide that rules requiring the capitalization of preproductive costs shall not apply with respect to livestock bred by the taxpayer.</summary>
+</bill>

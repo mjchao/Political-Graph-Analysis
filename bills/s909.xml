@@ -1,0 +1,65 @@
+<bill session="100" type="s" number="909" updated="2014-03-22T09:55:05-04:00">
+  <state datetime="1987-04-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-03"/>
+  </status>
+  <introduced datetime="1987-04-03"/>
+  <titles>
+    <title type="short" as="introduced">Commercial Activities Contracting Act of 1987</title>
+    <title type="official" as="introduced">A bill to require that all amounts saved as a result of Federal Government contracting pursuant to Office of Management and Budget Circular A-76 be returned to the Treasury, that manpower savings resulting from such contracting be made permanent, and that employees of an executive agency be consulted before contracting determinations by the head of that executive agency are made pursuant to that circular.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="403346" joined="1988-05-10"/>
+    <cosponsor id="404679" joined="1987-08-03"/>
+    <cosponsor id="300070" joined="1988-06-29"/>
+    <cosponsor id="300073" joined="1988-07-28"/>
+    <cosponsor id="408939" joined="1987-04-03"/>
+    <cosponsor id="300086" joined="1987-04-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Referred to Subcommittee on Federal Services, Post Office.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Subcommittee on Federal Services, Post Office. Hearings held.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Subcommittee on Federal Services, Post Office. Hearings concluded. Hearings printed:  S.Hrg. 100-734.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSGA05" subcommittee="Federal Services, Post Office, and Civil Service" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2872"/>
+    <bill relation="identical" session="100" type="h" number="2872"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Business and commerce"/>
+    <term name="Civil service employment"/>
+    <term name="Civilian personnel positions"/>
+    <term name="Cost control"/>
+    <term name="Defense contracts"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Government and business"/>
+    <term name="Government procurement"/>
+    <term name="Government spending reductions"/>
+    <term name="Layoffs"/>
+    <term name="Military personnel"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/1987--Introduced.
+Commercial Activities Contracting Act of 1987 - Requires the head of each executive agency to determine (and return to the Treasury) the amount saved as a result of converting during the preceding fiscal year to contractor performance any commercial activity which during such year: (1) was performed by civilian employees of such agency; or (2) was performed for or on behalf of that agency by members of the uniformed services. Provides for reducing the total number of civilian employees and for reducing uniformed services end-strengths when the agency converts to contractor performance. Requires each agency employee or officer who is responsible for determining under a certain Office of Management and Budget Circular whether to convert to contractor performance to consult with and consider the views of affected civilian employees.</summary>
+</bill>

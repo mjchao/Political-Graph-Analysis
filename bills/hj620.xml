@@ -1,0 +1,109 @@
+<bill session="100" type="hj" number="620" updated="2014-03-22T09:54:03-04:00">
+  <state datetime="1988-08-08">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-08-08"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution expressing the support of the United States for the restoration of full and genuine democracy in Chile and calling upon the Government of Chile to take the steps necessary to assure that the will of the Chilean people is freely, fully, and accurately expressed in the upcoming plebiscite.</title>
+  </titles>
+  <sponsor id="411948"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-07-14"/>
+    <cosponsor id="400975" joined="1988-07-14"/>
+    <cosponsor id="400023" joined="1988-07-14"/>
+    <cosponsor id="400025" joined="1988-07-14"/>
+    <cosponsor id="401446" joined="1988-07-14"/>
+    <cosponsor id="401526" joined="1988-07-14"/>
+    <cosponsor id="401585" joined="1988-07-14"/>
+    <cosponsor id="401847" joined="1988-07-14"/>
+    <cosponsor id="402435" joined="1988-08-08"/>
+    <cosponsor id="403031" joined="1988-07-14"/>
+    <cosponsor id="300033" joined="1988-07-14"/>
+    <cosponsor id="403545" joined="1988-08-04"/>
+    <cosponsor id="404002" joined="1988-07-14"/>
+    <cosponsor id="404019" joined="1988-07-14"/>
+    <cosponsor id="404376" joined="1988-07-14"/>
+    <cosponsor id="400585" joined="1988-07-14"/>
+    <cosponsor id="400536" joined="1988-07-14"/>
+    <cosponsor id="404996" joined="1988-07-14"/>
+    <cosponsor id="300057" joined="1988-08-04"/>
+    <cosponsor id="406473" joined="1988-07-14"/>
+    <cosponsor id="406530" joined="1988-07-14"/>
+    <cosponsor id="400231" joined="1988-07-14"/>
+    <cosponsor id="400236" joined="1988-07-14"/>
+    <cosponsor id="406765" joined="1988-07-14"/>
+    <cosponsor id="407673" joined="1988-07-14"/>
+    <cosponsor id="407721" joined="1988-07-14"/>
+    <cosponsor id="408407" joined="1988-07-14"/>
+    <cosponsor id="409205" joined="1988-07-14"/>
+    <cosponsor id="400380" joined="1988-07-14"/>
+    <cosponsor id="410066" joined="1988-07-14"/>
+    <cosponsor id="300091" joined="1988-08-04"/>
+    <cosponsor id="410145" joined="1988-07-14"/>
+    <cosponsor id="410496" joined="1988-07-14"/>
+    <cosponsor id="410531" joined="1988-07-14"/>
+    <cosponsor id="300156" joined="1988-07-14"/>
+    <cosponsor id="411426" joined="1988-07-14"/>
+    <cosponsor id="411834" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-07-25">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1988-07-25">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+    <action datetime="1988-07-28">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-07-28">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-10">
+      <text>Received in the Senate and read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Chile"/>
+    <term name="Democracy"/>
+    <term name="Freedom of speech"/>
+    <term name="Freedom of the press"/>
+    <term name="Government operations and politics"/>
+    <term name="Human rights"/>
+    <term name="Right of assembly"/>
+    <term name="Voter registration"/>
+  </subjects>
+  <amendments/>
+  <summary>8/8/1988--Passed House amended.
+(Measure passed House, amended) Expresses U.S. support for the restoration of full and genuine democracy in Chile. Condemns Chilean violence. Urges the Chilean Government to create a climate of freedom and fair competition before the upcoming plebiscite by guaranteeing termination of states of exception, registration of voters, access to the media, freedom of assembly, access by international visitors to polling places, and the public tabulation of ballots.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="2351" updated="2014-03-22T09:52:19-04:00">
+  <state datetime="1987-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-08"/>
+  </status>
+  <introduced datetime="1987-05-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to standardize the length of marriage criteria for receipt of dependency and indemnity compensation for survivors of certain veterans.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="410147" joined="1987-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-08" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Marriage"/>
+    <term name="Military dependents"/>
+    <term name="Survivors' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/1987--Introduced.
+Amends veterans' dependency and indemnity compensation provisions to eliminate any length-of-marriage requirement necessary in order for the surviving spouse of a veteran (and such veteran's children) to be entitled to dependency and indemnity compensation due to the death of certain veterans with service-connected disabilities. (Currently, a surviving spouse must have been married to such veteran for not less than two years before becoming eligible for such benefits.)</summary>
+</bill>

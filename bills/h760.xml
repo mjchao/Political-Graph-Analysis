@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="760" updated="2014-03-22T09:51:33-04:00">
+  <state datetime="1987-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-27"/>
+  </status>
+  <introduced datetime="1987-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide medicare coverage of wigs and hairpieces for individuals with alopecia that resulted from treatment of malignant disease.</title>
+  </titles>
+  <sponsor id="300156"/>
+  <cosponsors>
+    <cosponsor id="406873" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-27" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Cancer"/>
+    <term name="Cosmetics"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to provide coverage for wigs and hairpieces needed due to alopecia that resulted from treatment of a malignant disease.</summary>
+</bill>

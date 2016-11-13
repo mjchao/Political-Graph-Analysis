@@ -1,0 +1,44 @@
+<bill session="100" type="hj" number="77" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to provide for two six-year terms for the President and the Vice President, to limit the number of terms the President and the Vice President may serve, to provide for three-year terms for Representatives, and to limit the number of consecutive terms Senators and Representatives may serve.</title>
+  </titles>
+  <sponsor id="409654"/>
+  <cosponsors>
+    <cosponsor id="408052" joined="1987-02-02"/>
+    <cosponsor id="400307" joined="1987-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional terms of office"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal officials"/>
+    <term name="Members of Congress"/>
+    <term name="Presidential term of office"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Vice Presidential term of office"/>
+    <term name="Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Constitutional Amendment - Provides for a six-year term for the offices of President and Vice President and prohibits any person from being elected to such offices more than twice. Declares the term of office of a Representative to be three years. Prohibits a person from being a Senator if such person has been a Senator throughout the immediately preceding three terms, or from being a Representative if such person has been a Representative throughout the immediately preceding six terms. States that such prohibition does not prevent any person from filling a congressional vacancy during a term.</summary>
+</bill>

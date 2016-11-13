@@ -1,0 +1,68 @@
+<bill session="100" type="sc" number="83" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-10-15">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-10-15"/>
+  </status>
+  <introduced datetime="1987-10-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to congratulate Costa Rican President Oscar Arias Sanchez on being awarded the 1987 Nobel Peace Prize.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-10-14"/>
+    <cosponsor id="300009" joined="1987-10-14"/>
+    <cosponsor id="300034" joined="1987-10-14"/>
+    <cosponsor id="403669" joined="1987-10-14"/>
+    <cosponsor id="300051" joined="1987-10-14"/>
+    <cosponsor id="405212" joined="1987-10-14"/>
+    <cosponsor id="300059" joined="1987-10-14"/>
+    <cosponsor id="300060" joined="1987-10-14"/>
+    <cosponsor id="408597" joined="1987-10-14"/>
+    <cosponsor id="409562" joined="1987-10-14"/>
+    <cosponsor id="300086" joined="1987-10-14"/>
+    <cosponsor id="409580" joined="1987-10-14"/>
+    <cosponsor id="411421" joined="1987-10-15"/>
+    <cosponsor id="411801" joined="1987-10-14"/>
+  </cosponsors>
+  <actions>
+    <calendar datetime="1987-10-14" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="378">
+      <text>Submitted in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 378.</text>
+    </calendar>
+    <action datetime="1987-10-15">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>For Further Action See H.Con.Res.200.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Modified by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="327" datetime="1987-10-15" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate as modified, without amendment and with a preamble by Yea-Nay Vote. 92-3. Record Vote No: 327.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hc" number="200"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Awards, medals, prizes"/>
+    <term name="Central America"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Costa Rica"/>
+    <term name="Dispute settlement"/>
+    <term name="Peace"/>
+    <term name="Peace negotiations"/>
+    <term name="Peace treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/1987--Introduced.
+Congratulates Costa Rican President Oscar Arias Sanchez on being awarded the 1987 Nobel Peace Prize. Recognizes the signing of the August 7 Guatemala peace accord as an historic achievement and an opportunity for the Presidents of Central America to work together towards peace. Urges the parties to the accord to implement all of its provisions in good faith, and pledges the Congress' support and full cooperation with respect to such implementation.</summary>
+</bill>

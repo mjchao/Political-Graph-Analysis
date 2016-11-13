@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="1074" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-22"/>
+  </status>
+  <introduced datetime="1987-04-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Communications Act of 1934 to prohibit access charges of the current rate of subscriber line charges.</title>
+  </titles>
+  <sponsor id="404679"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="782"/>
+    <bill relation="identical" session="100" type="h" number="782"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Telephone"/>
+    <term name="Telephone rates"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/1987--Introduced.
+Amends the Communications Act of 1934 to limit the maximum monthly assessments under any system of access charges for telephones established by the Federal Communications Commission.</summary>
+</bill>

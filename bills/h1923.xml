@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="1923" updated="2014-03-22T09:52:06-04:00">
+  <state datetime="1987-04-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-02"/>
+  </status>
+  <introduced datetime="1987-04-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to require payments for physicians' services under the medicare program be made on an assignment-related basis.</title>
+  </titles>
+  <sponsor id="403529"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-02-02"/>
+    <cosponsor id="400542" joined="1988-02-16"/>
+    <cosponsor id="402763" joined="1987-05-12"/>
+    <cosponsor id="404190" joined="1987-09-30"/>
+    <cosponsor id="405236" joined="1987-07-28"/>
+    <cosponsor id="407960" joined="1987-05-12"/>
+    <cosponsor id="400299" joined="1987-05-12"/>
+    <cosponsor id="410531" joined="1987-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-02" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medical economics"/>
+    <term name="Medical fees"/>
+    <term name="Medical personnel"/>
+    <term name="Medicare"/>
+    <term name="Physicians"/>
+  </subjects>
+  <amendments/>
+  <summary>4/2/1987--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to require that Medicare payments for physicians' services be made on an assigned basis.</summary>
+</bill>

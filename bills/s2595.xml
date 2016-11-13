@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="2595" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-07-06">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-07-06"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">An original bill to authorize appropriations for fiscal year 1989 for the Office of the United States Trade Representative, the United States International Trade Commission, and the United States Customs Service.</title>
+  </titles>
+  <sponsor id="401391"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-06-23" state="REPORTED">
+      <text>Committee on Finance ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1988-06-29">
+      <text>Committee on Finance. Original measure reported to Senate by Senator Bentsen. With written report No. 100-407.</text>
+    </action>
+    <calendar datetime="1988-06-29" calendar="Senate Legislative" under="General Orders" number="773">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 773.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-06" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-07-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Administrative remedies"/>
+    <term name="Authorization"/>
+    <term name="Customs administration"/>
+    <term name="Department of the Treasury"/>
+    <term name="Economics and public finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Government operations and politics"/>
+    <term name="International Trade Commission"/>
+    <term name="Office of the U.S. Trade Representative"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Introduced.
+Amends the Trade Act of 1974 to authorize appropriations for FY 1989 for the Office of the United States Trade Representative. Amends the Tariff Act of 1930 to authorize appropriations for FY 1989 for the United States International Trade Commission. Amends the Customs Procedural Reform and Simplification Act of 1978 to authorize appropriations for FY 1989 for the United States Customs Service for: (1) salaries and expenses incurred in its noncommercial operations; (2) the Customs User Fee Account for salaries and expenses incurred in its commercial operations; and (3) the operation (including salaries and expenses) and maintenance of its air interdiction program. Authorizes appropriations to the Secretary of the Treasury for FY 1989 for the Customs Cooperation Council. Increases the number of employees at the Service. Amends the Tariff Act of 1930 to set forth procedures for reconciliation of inconsistent decisions made by customs officers with respect to merchandise.</summary>
+</bill>

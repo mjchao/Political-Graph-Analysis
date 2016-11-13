@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="811" updated="2014-03-22T09:51:34-04:00">
+  <state datetime="1987-07-23">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-23"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the National Forage Seed Production Research Center in Corvallis, Oregon, as the "Mark O. Hatfield National Forade Seed Production Research Center".</title>
+  </titles>
+  <sponsor id="410010"/>
+  <cosponsors>
+    <cosponsor id="400987" joined="1987-01-28"/>
+    <cosponsor id="400100" joined="1987-01-28"/>
+    <cosponsor id="410084" joined="1987-01-28"/>
+    <cosponsor id="300100" joined="1987-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Subcommittee on Department Operations, Research, and Foreign Agriculture Discharged.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-23" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Discharged" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural extension work"/>
+    <term name="Agricultural research"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Federal installations"/>
+    <term name="Government operations and politics"/>
+    <term name="Members of Congress (Senate)"/>
+    <term name="Names"/>
+    <term name="Oregon"/>
+    <term name="Research and development"/>
+    <term name="Research centers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Designates the National Forage Seed Production Research Center in Corvallis, Oregon, as the Mark O. Hatfield National Forage Seed Production Research Center.</summary>
+</bill>

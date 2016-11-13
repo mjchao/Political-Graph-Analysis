@@ -1,0 +1,63 @@
+<bill session="100" type="sj" number="42" updated="2014-03-22T09:54:19-04:00">
+  <state datetime="1987-02-04">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution disapproving the recommendations of the President relating to rates of pay of certain officers and employees of the Federal Government.</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-02-04"/>
+    <cosponsor id="402004" joined="1987-02-04"/>
+    <cosponsor id="402023" joined="1987-02-04"/>
+    <cosponsor id="403346" joined="1987-02-04"/>
+    <cosponsor id="300048" joined="1987-02-04"/>
+    <cosponsor id="300052" joined="1987-02-04"/>
+    <cosponsor id="405305" joined="1987-02-04"/>
+    <cosponsor id="405310" joined="1987-02-04"/>
+    <cosponsor id="300154" joined="1987-02-04"/>
+    <cosponsor id="405795" joined="1987-02-04"/>
+    <cosponsor id="406188" joined="1987-02-04"/>
+    <cosponsor id="406190" joined="1987-02-04"/>
+    <cosponsor id="300071" joined="1987-02-04"/>
+    <cosponsor id="300079" joined="1987-02-04"/>
+    <cosponsor id="408937" joined="1987-02-04"/>
+    <cosponsor id="409923" joined="1987-02-04"/>
+    <cosponsor id="411271" joined="1987-02-04"/>
+    <cosponsor id="411762" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-02-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-02-09">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service compensation"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Judges"/>
+    <term name="Judicial compensation"/>
+    <term name="Members of Congress"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Provides for reducing the rates of pay for Members of Congress, Federal judges, and Federal officials (increased pursuant to the recommendations of the President) to the rates of pay in effect for such offices before such recommendations became effective.</summary>
+</bill>

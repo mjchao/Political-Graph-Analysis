@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="4765" updated="2014-03-22T09:53:24-04:00">
+  <state datetime="1988-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-08"/>
+  </status>
+  <introduced datetime="1988-06-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the department in which the Coast Guard is operating to transfer the Coast Guard vessel INGHAM to the Naval and Maritime Museum at Patriots Point, South Carolina.</title>
+  </titles>
+  <sponsor id="409052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-08" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Coast guard"/>
+    <term name="Historic sites"/>
+    <term name="Museums"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="South Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/1988--Introduced.
+Directs the Secretary of the department in which the Coast Guard is operating to transfer, without consideration, the Coast Guard vessel "Ingham" to the Naval and Maritime Museum at Patriots Point, South Carolina.</summary>
+</bill>

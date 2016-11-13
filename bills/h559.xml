@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="559" updated="2014-03-22T09:51:24-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that no increase in pay relating to recommendations made by the Commission on Executive, Legislative, and Judicial Salaries may be made unless the Federal budget is in balance.</title>
+  </titles>
+  <sponsor id="404869"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-01-28"/>
+    <cosponsor id="400028" joined="1987-01-21"/>
+    <cosponsor id="403545" joined="1987-02-04"/>
+    <cosponsor id="400586" joined="1987-01-28"/>
+    <cosponsor id="405580" joined="1987-02-04"/>
+    <cosponsor id="406530" joined="1987-01-21"/>
+    <cosponsor id="400601" joined="1987-02-04"/>
+    <cosponsor id="408520" joined="1987-02-09"/>
+    <cosponsor id="408618" joined="1987-03-05"/>
+    <cosponsor id="400318" joined="1987-01-21"/>
+    <cosponsor id="409354" joined="1987-01-21"/>
+    <cosponsor id="409618" joined="1987-01-21"/>
+    <cosponsor id="400365" joined="1987-02-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Ad Hoc Task Force on Presidential Pay Recommendation.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-02-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-02-03">
+      <text>Subcommittee Failed to Report to Full Committee.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPO08" subcommittee="Hoc Task Force on Presidential Pay Recommendation" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Balanced budgets"/>
+    <term name="Civil service compensation"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Judges"/>
+    <term name="Judicial compensation"/>
+    <term name="Members of Congress"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Provides that no increase in pay relating to recommendations made by the Commission on Executive, Legislative, and Judicial Salaries may take effect in any fiscal year, unless the Federal budget is balanced.</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="2136" updated="2014-03-22T09:52:13-04:00">
+  <state datetime="1987-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-22"/>
+  </status>
+  <introduced datetime="1987-04-22"/>
+  <titles>
+    <title type="short" as="introduced">1987 White House Conference on International Trade Act</title>
+    <title type="official" as="introduced">A bill regarding the convening of a White House Conference on International Trade.</title>
+  </titles>
+  <sponsor id="400540"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-22" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Conferences"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Government operations and politics"/>
+    <term name="Imports"/>
+    <term name="International trade"/>
+    <term name="National policy"/>
+    <term name="White House conferences"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/1987--Introduced.
+1987 White House Conference on International Trade Act - Declares that it is the policy of the Congress that the Government should develop and implement a policy for expanding the participation of the United States in international trade. Authorizes the President to call a White House Conference on International Trade in order to develop recommendations for further research and action in international trade. Requires the Conference to bring together representatives of Federal, State, and local governments, professional and lay people, and academics. Requires a final report of the Conference, which shall include a statement of comprehensive national policy on international trade, to be submitted to the President within 180 days after the Conference adjourns. Authorizes appropriations.</summary>
+</bill>

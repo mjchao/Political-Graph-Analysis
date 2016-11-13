@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="3027" updated="2014-03-22T09:52:37-04:00">
+  <state datetime="1987-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-28"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Energy to pay all minimum bill charges determined by the Tennessee Valley Authority under certain contracts for the purchase of electric power by the Department of Energy.</title>
+  </titles>
+  <sponsor id="403641"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-28" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-08-10">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Executive Comment Requested from DOE, TVA, OMB.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Unfavorable Executive Comment Received From DOE.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Electric power"/>
+    <term name="Energy policy"/>
+    <term name="Government corporations"/>
+    <term name="Government operations and politics"/>
+    <term name="Tennessee Valley Authority"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1987--Introduced.
+Directs the Secretary of Energy to pay certain minimum bill charges determined by the Tennessee Valley Authority under specified contracts for electric power purchases by the Department of Energy.</summary>
+</bill>

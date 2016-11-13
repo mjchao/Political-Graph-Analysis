@@ -1,0 +1,34 @@
+<bill session="100" type="s" number="2052" updated="2014-03-22T09:55:34-04:00">
+  <state datetime="1988-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-04"/>
+  </status>
+  <introduced datetime="1988-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to continue the suspension of duties on m-xylenediamine and 1,3-bis (aminomethyl) cyclohexane.</title>
+  </titles>
+  <sponsor id="404598"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4395"/>
+    <bill relation="identical" session="100" type="h" number="4395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemicals"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1988--Introduced.
+Amends the Tariff Schedules of the United States to suspend, through December 31, 1990, the duties on m-xylenediamine and 1, 3-bis (aminomethyl) cyclohexane.</summary>
+</bill>

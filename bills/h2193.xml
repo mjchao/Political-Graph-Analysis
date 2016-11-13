@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="2193" updated="2014-03-22T09:52:16-04:00">
+  <state datetime="1987-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-28"/>
+  </status>
+  <introduced datetime="1987-04-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Howard W. Waite.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1987--Introduced.
+Provides that for purposes of determining the amount of civil service retirement annuity to which a named individual is entitled, such individual's service as an engineer on Navy construction projects for a specified period shall be considered creditable service. Provides that such individual shall be considered to be an annuitant enrolled under Federal employees' health benefits provisions and shall be paid from the Employees Health Benefits Fund for medical expenses incurred during a specified period.</summary>
+</bill>

@@ -1,0 +1,142 @@
+<bill session="100" type="h" number="2878" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1988-06-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-07"/>
+  </status>
+  <introduced datetime="1987-07-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate certain national forest system lands in the States of Virginia and West Virginia as wilderness areas.</title>
+  </titles>
+  <sponsor id="408342"/>
+  <cosponsors>
+    <cosponsor id="400569" joined="1987-07-01"/>
+    <cosponsor id="400571" joined="1987-07-01"/>
+    <cosponsor id="400043" joined="1987-07-01"/>
+    <cosponsor id="408490" joined="1987-07-01"/>
+    <cosponsor id="400603" joined="1987-07-01"/>
+    <cosponsor id="400609" joined="1987-07-01"/>
+    <cosponsor id="409968" joined="1987-07-01"/>
+    <cosponsor id="410245" joined="1987-09-16"/>
+    <cosponsor id="400435" joined="1987-07-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-01" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-07-08">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-07-08">
+      <text>Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-08-12">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-09-30" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-07">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-13">
+      <text>Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Reported to House (Amended) by House Committee on Agriculture. Report No: 100-367 (Part I).</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-367 (Part II).</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Placed on Union Calendar No: 227.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-14">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Senate Committee on Agriculture discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-05-19" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-05-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-05-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-05-26">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-07" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-326" type="public" datetime="1988-06-07">
+      <text>Became Public Law No: 100-326.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="HSAG05" subcommittee="Domestic Marketing, Consumer Relations, and Nutrition" name="House Agriculture"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Air quality"/>
+    <term name="Forests and forest products"/>
+    <term name="National forests"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Virginia"/>
+    <term name="West Virginia"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1987--Passed House amended.
+(Measure passed House, amended) Designates the following lands in Virginia and West Virginia as components of the National Wilderness Preservation System: (1) the Rough Mountain Wilderness Area in the George Washington National Forest; (2) the Rich Hole Wilderness Area in the George Washington National Forest; (3) the Barbours Creek Wilderness Area in the Jefferson and George Washington National Forests; (4) the Shawvers Run Wilderness Area in the Jefferson National Forest; (5) the Lewis Fork Wilderness Area in the Jefferson National Forest; and (6) the Mountain Lake Wilderness Area in the Jefferson National Forest. Repeals an air quality study required for items one through four above under the Virginia Wilderness Act of 1984.</summary>
+</bill>

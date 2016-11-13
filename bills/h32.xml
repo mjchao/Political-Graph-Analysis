@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="32" updated="2014-03-22T09:51:06-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Covert Agent Disclosure Federal Pension Forfeiture Act</title>
+    <title type="official" as="introduced">A bill to provide for forfeiture of Federal employee retirement benefits upon conviction of the felony of unauthorized disclosure of the identity of a covert agent, and for other purposes.</title>
+  </titles>
+  <sponsor id="401847"/>
+  <cosponsors>
+    <cosponsor id="403545" joined="1987-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service retirement"/>
+    <term name="Covert operations"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Intelligence officers"/>
+    <term name="Misconduct in office"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="National security crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Covert Agent Disclosure Federal Pension Forfeiture Act - Requires the forfeiture of Federal employee retirement benefits upon conviction for the felony of the unauthorized disclosure of the identity of a covert agent.</summary>
+</bill>

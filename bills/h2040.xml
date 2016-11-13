@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="2040" updated="2014-03-22T09:52:09-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Fly the Smokeless Skies Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to prohibit smoking on domestic and international commercial aircraft flights.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="400552" joined="1987-05-28"/>
+    <cosponsor id="406729" joined="1987-05-28"/>
+    <cosponsor id="400240" joined="1987-05-28"/>
+    <cosponsor id="410531" joined="1987-05-28"/>
+    <cosponsor id="410574" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air travel"/>
+    <term name="Aircraft"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Health"/>
+    <term name="Smoking"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Fly the Smokeless Skies Act of 1987 - Amends the Federal Aviation Act of 1958 to proscribe smoking on passenger-carrying aircraft in intrastate, interstate, foreign, or overseas transportation. Directs the Secretary of Transportation to promulgate regulations to implement this Act. Subjects persons who violate this Act to a civil penalty.</summary>
+</bill>

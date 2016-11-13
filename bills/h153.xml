@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="153" updated="2014-03-22T09:51:11-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to eliminate Federal coverage concerning the political activities of District of Columbia government employees and to authorize the District of Columbia Council to enact legislation regarding the political activities of such individuals.</title>
+  </titles>
+  <sponsor id="404006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to Subcommittee on Fiscal Affairs and Health.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to Subcommittee on Government Operations and Metropolitan Affairs.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Civil Service.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Executive Comment Requested from OMB, OPM, DC Govt.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSDT01" subcommittee="Fiscal Affairs and Health" name="House District of Columbia"/>
+    <committee activity="Referral" code="HSDT02" subcommittee="Government Operations and Metropolitan Affairs" name="House District of Columbia"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO03" subcommittee="Civil Service" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="District of Columbia"/>
+    <term name="Employee rights"/>
+    <term name="Government employees' political activities"/>
+    <term name="Labor and employment"/>
+    <term name="Legislation"/>
+    <term name="Municipal officials and employees"/>
+    <term name="Political rights"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends Federal law to exempt from the prohibition on certain political activities any individual employed by the District of Columbia government. Authorizes the District of Columbia Council to enact legislation regarding the political activities of such individuals.</summary>
+</bill>

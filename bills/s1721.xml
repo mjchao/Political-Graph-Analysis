@@ -1,0 +1,130 @@
+<bill session="100" type="s" number="1721" updated="2014-03-22T09:55:25-04:00">
+  <state datetime="1988-03-15">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-03-15"/>
+  </status>
+  <introduced datetime="1987-09-25"/>
+  <titles>
+    <title type="short" as="introduced">Intelligence Oversight Act of 1987</title>
+    <title type="short" as="reported to senate">Intelligence Oversight Act of 1988</title>
+    <title type="short" as="passed senate">Intelligence Oversight Act of 1988</title>
+    <title type="official" as="introduced">A bill to improve the congressional oversight of certain intelligence activities, and to strengthen the process by which such activities are approved within the Executive branch, and for other purposes.</title>
+  </titles>
+  <sponsor id="402727"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-09-25"/>
+    <cosponsor id="401604" joined="1987-10-28"/>
+    <cosponsor id="403346" joined="1987-09-25"/>
+    <cosponsor id="300056" joined="1987-10-28"/>
+    <cosponsor id="407786" joined="1987-10-28"/>
+    <cosponsor id="300150" joined="1987-09-25"/>
+    <cosponsor id="409456" joined="1987-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Intelligence.</text>
+    </action>
+    <action datetime="1987-10-28">
+      <text>Star Print ordered S.1721.</text>
+    </action>
+    <action datetime="1987-11-13">
+      <text>Committee on Intelligence. Hearings held.</text>
+    </action>
+    <action datetime="1987-12-11">
+      <text>Committee on Intelligence. Hearings held.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>Committee on Intelligence. Hearings concluded. Hearings printed: S.Hrg. 100-623.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>Committee on Intelligence. Committee consideration and Mark Up Session held.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Committee on Intelligence. Committee consideration and Mark Up Session held.</text>
+    </action>
+    <calendar datetime="1988-01-27" state="REPORTED">
+      <text>Committee on Intelligence. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-01-27">
+      <text>Committee on Intelligence. Reported to Senate by Senator Boren with an amendment in the nature of a substitute. With written report No. 100-276.</text>
+    </action>
+    <calendar datetime="1988-01-27" calendar="Senate Legislative" under="General Orders" number="521">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 521.</text>
+    </calendar>
+    <action datetime="1988-03-03">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <action datetime="1988-03-04">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="1988-03-04">
+      <text>Cloture motion on the committee substitute presented in Senate.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Cloture on the Committee substitute invoked in Senate by Yea-Nay Vote. 73-18. Record Vote No: 49.</text>
+    </action>
+    <vote how="roll" type="vote" roll="52" datetime="1988-03-15" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 71-19. Record Vote No: 52.</text>
+    </vote>
+    <action datetime="1988-03-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIN" name="Senate Intelligence (Select)" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Central Intelligence Agency"/>
+    <term name="Classified defense information"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Covert operations"/>
+    <term name="Government operations and politics"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1469"/>
+    <amendment number="s1470"/>
+    <amendment number="s1471"/>
+    <amendment number="s1623"/>
+    <amendment number="s1625"/>
+    <amendment number="s1626"/>
+    <amendment number="s1628"/>
+    <amendment number="s1629"/>
+    <amendment number="s1630"/>
+    <amendment number="s1631"/>
+    <amendment number="s1632"/>
+    <amendment number="s1633"/>
+    <amendment number="s1634"/>
+    <amendment number="s1635"/>
+    <amendment number="s1636"/>
+    <amendment number="s1637"/>
+    <amendment number="s1638"/>
+    <amendment number="s1639"/>
+    <amendment number="s1640"/>
+    <amendment number="s1641"/>
+    <amendment number="s1642"/>
+    <amendment number="s1643"/>
+    <amendment number="s1648"/>
+    <amendment number="s1649"/>
+    <amendment number="s1653"/>
+    <amendment number="s1654"/>
+    <amendment number="s1655"/>
+    <amendment number="s1656"/>
+    <amendment number="s1657"/>
+    <amendment number="s1658"/>
+    <amendment number="s1659"/>
+    <amendment number="s1660"/>
+    <amendment number="s1661"/>
+    <amendment number="s1662"/>
+  </amendments>
+  <summary>3/15/1988--Passed Senate amended.
+(Measure passed Senate, amended, roll call #52 (71-19)) Intelligence Oversight Act of 1988 - Amends the Foreign Assistance Act of 1961 to repeal provisions prohibiting the use of funds by or on behalf of the Central Intelligence Agency (CIA) for covert action (special activities) in the absence of a presidential finding that such action is important for national security. Amends the National Security Act of 1947 to require the President to ensure that the Senate Select Committee on Intelligence and the House Permanent Select Committee on Intelligence (intelligence committees) are kept fully and currently informed of the intelligence activities of the United States, including any significant anticipated intelligence activities. (Current law imposes such duties on the Director of Central Intelligence (DCI) and agency heads but not on the President.) Specifies that such requirement shall not be construed as: (1) requiring the approval of the intelligence committees to initiate such activities; or (2) limiting the President's powers conferred by the Constitution to initiate such activities. Requires the President to ensure that any illegal intelligence activity is reported to the intelligence committees, as well as any corrective action taken or planned in connection with such illegal activity. (Current law imposes this duty only on the DCI and agency heads, subject to certain conditions.) Provides statutory authority for the President to authorize special activities only when he determines such activities are necessary to support U.S. foreign policy objectives and are important to national security. (Current law does not provide express statutory authorization for special activities.) Requires that such determination be set forth in a finding that meets the following conditions: (1) each finding must be in writing, unless immediate action is required and time does not permit a written finding (in which case a written record of the President's decision would have to be contemporaneously made and reduced to a written finding as soon as possible but not later than 48 hours after the decision is made); (2) each finding must specify each Government entity authorized to fund or otherwise participate significantly in such special activities; and (3) each finding must specify any third party not subject to Government regulations who will be used to fund or otherwise participate in a special activity. Prohibits a finding from: (1) authorizing any action which violates the Constitution or any statutes of the United States; (2) authorizing or sanctioning special activities which have already occurred; or (3) authorizing any action intended to influence U.S. political processes, public opinion policies, or media. Requires the President to ensure that any such finding be reported to the intelligence committees as soon as possible, but no later than 48 hours after it has been signed. Allows the President, on occasions when time is of the essence, to direct that special activities be initiated prior to reporting such activities to the intelligence committees, provided that notice is provided to the intelligence committees as soon as possible but in no event later than 48-hours after the finding authorizing such activities is signed or the determination to conduct such activities is made. Allows the President, in extraordinary circumstances, to limit the reporting of such findings or determinations to the chairmen and ranking minority members of the intelligence committees, the Speaker and minority leader of the House of Representatives, and the majority and minority leaders of the Senate, but requires that he provide a statement of the reasons for limiting access. Authorizes the President to limit the reporting of findings or determinations to the Speaker and the minority leader of the House of Representatives and the majority and minority leaders of the Senate when he determines that the risk of disclosure constitutes a grave risk to vital U.S. security interests, but requires that he provide a monthly statement explaining why notice to the intelligence committees is not being provided. Subjects such information to the provisions of S. Res. 400, 94th Congress and to rule XLVII of the Rules of the House of Representatives (which restricts the disclosure of covert operation information). Requires the President to promptly notify the intelligence committees or, if applicable, the Members of Congress specified of any significant change in any previously-approved special activities. Defines "special activity" to mean: (1) any operation of the Central Intelligence Agency conducted in foreign countries, other than activities intended solely for obtaining necessary intelligence; and (2) any activity conducted by any Government entity in support of national foreign policy objectives abroad which is planned and executed so that the Government's role is not apparent or acknowledged publicly, excluding diplomatic activities or the collection and production of intelligence or related support activities. Prohibits the use of U.S. funds for any special activity unless and until a presidential finding has been signed or otherwise issued in accordance with this Act.</summary>
+</bill>

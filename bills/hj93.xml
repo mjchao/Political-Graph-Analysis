@@ -1,0 +1,65 @@
+<bill session="100" type="hj" number="93" updated="2014-03-22T09:53:42-04:00">
+  <state datetime="1987-01-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to provide for a temporary prohibition of strikes or lockouts with respect to the Long Island Rail Road labor-management dispute.</title>
+  </titles>
+  <sponsor id="406746"/>
+  <cosponsors>
+    <cosponsor id="403581" joined="1987-01-27"/>
+    <cosponsor id="404170" joined="1987-01-21"/>
+    <cosponsor id="405524" joined="1987-01-27"/>
+    <cosponsor id="407457" joined="1987-01-27"/>
+    <cosponsor id="409632" joined="1987-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-01-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-01-27" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-01-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-01-28">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-01-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-01-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-2" type="public" datetime="1987-01-28">
+      <text>Became Public Law No: 100-2.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Labor disputes"/>
+    <term name="Lockouts"/>
+    <term name="New York State"/>
+    <term name="Railroad employees"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Extends for 60 days from January 17, 1987, a temporary prohibition on strikes or lockouts with respect to the Long Island Rail Road labor-management dispute. Directs the National Mediation Board to appoint a three-member board to report to the Congress its recommendations for a proposed solution of such dispute. Requires submission of such report no later than ten days before the expiration of the 60-day period.</summary>
+</bill>

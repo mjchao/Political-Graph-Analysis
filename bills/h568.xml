@@ -1,0 +1,95 @@
+<bill session="100" type="h" number="568" updated="2014-03-22T09:51:24-04:00">
+  <state datetime="1987-03-24">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-03-24"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the San Pedro Riparian National Conservation Area in Cochise County, Arizona, in order to assure paleontological, scientific, cultural, educational, and recreational resources of the conservation area, and for other purposes.</title>
+  </titles>
+  <sponsor id="400226"/>
+  <cosponsors>
+    <cosponsor id="300062" joined="1987-01-08"/>
+    <cosponsor id="409165" joined="1987-01-08"/>
+    <cosponsor id="411025" joined="1987-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-03-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-03-12">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-24.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Placed on Union Calendar No: 19.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-03-24" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-03-25">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-04-30">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed:  S.Hrg. 100-103.</text>
+    </action>
+    <action datetime="1987-06-19">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-07-08">
+      <text>Committee on Energy and Natural Resources received executive comment from Department of the Interior. Favorable.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>For Further Action See S.2840.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2840"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Arizona"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Grazing"/>
+    <term name="Licenses"/>
+    <term name="Nature conservation"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Watersheds"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/1987--Passed House amended.
+(Measure passed House, amended) Establishes the San Pedro Riparian National Conservation Area, Arizona. Directs the Secretary of the Interior to develop, within two years, a comprehensive management plan for such area to protect the natural riparian, wildlife, cultural, and recreational resources. Prohibits the issuing of new grazing permits for such area for 15 years. Directs the Secretary to establish a San Pedro Riparian National Conservation Area Advisory Committee. Permits the Secretary to acquire land interests within the Area. Requires the Secretary to report within five years, and every ten years thereafter, to the House Interior and Insular Affairs Committee and the Senate Energy and Natural Resources Committee on the implementation of this Act. Authorizes appropriations.</summary>
+</bill>

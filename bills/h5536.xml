@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="5536" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-19">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-19"/>
+  </status>
+  <introduced datetime="1988-10-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the exchange of certain Federal public lands.</title>
+  </titles>
+  <sponsor id="300017"/>
+  <cosponsors>
+    <cosponsor id="300058" joined="1988-10-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-19" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colorado"/>
+    <term name="Forests and forest products"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="South Dakota"/>
+  </subjects>
+  <amendments/>
+  <summary>10/19/1988--Introduced.
+Directs the Secretary of Agriculture to convey certain lands in Routt County, Colorado, in exchange for certain lands in Pennington County, South Dakota, which shall become part of the Black Hills National Forest. Provides that if the values of such lands are not equal, they shall be equalized by the payment of cash as provided in the Federal Land Policy and Management Act of 1976, without regard to the provision in such Act which limits such payments to 25 percent of the total value of the lands transferred out of Federal ownership. Authorizes the Secretary of the Interior, if the United States owes cash equalization moneys, to convey lands adjacent to the Colorado property to satisfy the U.S. obligation in such exchange.</summary>
+</bill>

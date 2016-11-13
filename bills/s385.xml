@@ -1,0 +1,34 @@
+<bill session="100" type="s" number="385" updated="2014-03-22T09:54:52-04:00">
+  <state datetime="1987-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-27"/>
+  </status>
+  <introduced datetime="1987-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to provide that an individual's "years of coverage" for purposes of computing the special minimum benefit may include up to 10 additional years (not otherwise includible for that purpose) in which such individual had a child age 6 or under in his or her care.</title>
+  </titles>
+  <sponsor id="409225"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="175"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Domestic Relations and Families"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Parent and child"/>
+    <term name="Social security eligibility"/>
+    <term name="Support of dependents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1987--Introduced.
+See digest of S. 175</summary>
+</bill>

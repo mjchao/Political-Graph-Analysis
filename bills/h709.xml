@@ -1,0 +1,120 @@
+<bill session="100" type="h" number="709" updated="2014-03-22T09:51:32-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Civil Rights Amendments Act of 1987</title>
+    <title type="official" as="introduced">A bill to prohibit discrimination on the basis of affectional or sexual orientation, and for other purposes.</title>
+  </titles>
+  <sponsor id="411426"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-01-21"/>
+    <cosponsor id="400975" joined="1987-01-21"/>
+    <cosponsor id="400987" joined="1987-01-21"/>
+    <cosponsor id="401231" joined="1987-01-21"/>
+    <cosponsor id="401310" joined="1987-10-27"/>
+    <cosponsor id="400025" joined="1987-01-21"/>
+    <cosponsor id="401560" joined="1987-02-26"/>
+    <cosponsor id="300011" joined="1987-01-21"/>
+    <cosponsor id="400572" joined="1987-01-21"/>
+    <cosponsor id="402100" joined="1987-01-21"/>
+    <cosponsor id="402114" joined="1987-02-26"/>
+    <cosponsor id="400064" joined="1987-06-04"/>
+    <cosponsor id="402626" joined="1987-01-21"/>
+    <cosponsor id="402763" joined="1987-01-21"/>
+    <cosponsor id="400080" joined="1987-01-21"/>
+    <cosponsor id="400543" joined="1987-05-06"/>
+    <cosponsor id="403031" joined="1987-01-21"/>
+    <cosponsor id="400100" joined="1987-02-26"/>
+    <cosponsor id="403364" joined="1987-01-21"/>
+    <cosponsor id="400580" joined="1987-01-21"/>
+    <cosponsor id="403695" joined="1987-01-21"/>
+    <cosponsor id="403776" joined="1987-02-26"/>
+    <cosponsor id="400126" joined="1988-02-16"/>
+    <cosponsor id="404006" joined="1987-01-21"/>
+    <cosponsor id="404013" joined="1987-01-21"/>
+    <cosponsor id="404190" joined="1987-01-21"/>
+    <cosponsor id="400140" joined="1987-01-21"/>
+    <cosponsor id="404422" joined="1987-01-21"/>
+    <cosponsor id="400585" joined="1987-03-19"/>
+    <cosponsor id="404750" joined="1987-02-26"/>
+    <cosponsor id="404752" joined="1987-07-22"/>
+    <cosponsor id="404765" joined="1987-01-21"/>
+    <cosponsor id="405236" joined="1987-01-21"/>
+    <cosponsor id="405256" joined="1987-01-21"/>
+    <cosponsor id="400189" joined="1987-01-21"/>
+    <cosponsor id="406191" joined="1987-01-21"/>
+    <cosponsor id="406277" joined="1987-04-08"/>
+    <cosponsor id="406473" joined="1987-01-21"/>
+    <cosponsor id="406730" joined="1987-02-26"/>
+    <cosponsor id="406740" joined="1987-01-21"/>
+    <cosponsor id="406765" joined="1987-01-21"/>
+    <cosponsor id="400240" joined="1987-01-21"/>
+    <cosponsor id="406974" joined="1987-02-26"/>
+    <cosponsor id="400253" joined="1987-01-21"/>
+    <cosponsor id="400595" joined="1987-01-21"/>
+    <cosponsor id="400256" joined="1987-01-21"/>
+    <cosponsor id="407519" joined="1987-01-21"/>
+    <cosponsor id="400278" joined="1987-01-21"/>
+    <cosponsor id="407721" joined="1987-02-26"/>
+    <cosponsor id="407853" joined="1987-01-21"/>
+    <cosponsor id="400524" joined="1987-01-21"/>
+    <cosponsor id="407960" joined="1987-01-21"/>
+    <cosponsor id="408023" joined="1988-10-04"/>
+    <cosponsor id="400306" joined="1987-01-21"/>
+    <cosponsor id="408457" joined="1987-10-15"/>
+    <cosponsor id="400314" joined="1987-06-10"/>
+    <cosponsor id="400333" joined="1987-01-21"/>
+    <cosponsor id="409446" joined="1987-01-21"/>
+    <cosponsor id="400354" joined="1987-01-21"/>
+    <cosponsor id="409632" joined="1987-02-26"/>
+    <cosponsor id="409650" joined="1987-01-21"/>
+    <cosponsor id="300087" joined="1987-01-21"/>
+    <cosponsor id="400370" joined="1987-10-06"/>
+    <cosponsor id="410145" joined="1987-03-19"/>
+    <cosponsor id="400387" joined="1987-01-21"/>
+    <cosponsor id="410407" joined="1987-01-21"/>
+    <cosponsor id="410496" joined="1987-01-21"/>
+    <cosponsor id="300156" joined="1987-01-21"/>
+    <cosponsor id="400409" joined="1987-01-21"/>
+    <cosponsor id="411025" joined="1987-01-21"/>
+    <cosponsor id="400425" joined="1987-01-21"/>
+    <cosponsor id="411488" joined="1987-02-26"/>
+    <cosponsor id="411947" joined="1987-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Employment Opportunities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED06" subcommittee="Employment Opportunities" name="House Education and Labor"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="464"/>
+    <bill relation="identical" session="100" type="s" number="464"/>
+  </relatedbills>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Affirmative action programs"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Gay rights"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Civil Rights Amendments Act of 1987 - Amends the Civil Rights Act of 1964 to prohibit discrimination on the basis of affectional or sexual orientation. Provides that this Act shall not be construed to permit a finding of discrimination based on statistical differences or the fashioning of any remedy requiring a quota.</summary>
+</bill>

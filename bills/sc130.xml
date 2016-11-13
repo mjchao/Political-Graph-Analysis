@@ -1,0 +1,34 @@
+<bill session="100" type="sc" number="130" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-06-29">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-06-29"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment of the House from June 30, 1988, until July 6, 1988, and a conditional recess or adjournment of the Senate from June 29, 1988, until July 6, 1988.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-29" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-29">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="House of Representatives"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Introduced.
+Provides for an adjournment of the House of Representatives on June 30, 1988, until July 6, 1988, and for a recess or adjournment of the Senate from June 29, 1988, until July 6, 1988.</summary>
+</bill>

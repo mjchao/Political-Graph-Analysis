@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1446" updated="2014-03-22T09:55:20-04:00">
+  <state datetime="1987-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-26"/>
+  </status>
+  <introduced datetime="1987-06-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 112 of the Clean Air Act to regulate the emissions of certain hazardous air pollutants.</title>
+  </titles>
+  <sponsor id="410242"/>
+  <cosponsors>
+    <cosponsor id="402412" joined="1987-06-26"/>
+    <cosponsor id="403669" joined="1987-06-26"/>
+    <cosponsor id="411801" joined="1987-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Air pollution control"/>
+    <term name="Pest control"/>
+    <term name="Pesticide pollution"/>
+    <term name="Pesticide regulation"/>
+    <term name="Pesticides"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/1987--Introduced.
+Amends the Clean Air Act to prohibit the release of the pesticides Chlordane, Heptachlor, Aldrin, and Dieldrin.</summary>
+</bill>

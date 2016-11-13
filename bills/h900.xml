@@ -1,0 +1,152 @@
+<bill session="100" type="h" number="900" updated="2014-12-10T13:13:38-05:00">
+  <state datetime="1988-10-26">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-26"/>
+  </status>
+  <introduced datetime="1987-01-29"/>
+  <titles>
+    <title type="short" as="introduced">West Virginia National Interest River Conservation Act of 1987</title>
+    <title type="short" as="reported to house">West Virginia National Interest River Conservation Act of 1987</title>
+    <title type="short" as="passed house">West Virginia National Interest River Conservation Act of 1987</title>
+    <title type="short" as="reported to senate">West Virginia National Interest River Conservation Act of 1987</title>
+    <title type="short" as="passed senate">West Virginia National Interest River Conservation Act of 1987</title>
+    <title type="short" as="enacted">West Virginia National Interest River Conservation Act of 1987</title>
+    <title type="official" as="introduced">A bill to protect and enhance the natural, scenic, cultural, and recreational values of certain segments of the New, Gauley, Meadow, and Bluestone Rivers in West Virginia for the benefit of present and future generations, and for other purposes.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="402600" joined="1987-05-19"/>
+    <cosponsor id="402710" joined="1987-02-25"/>
+    <cosponsor id="403190" joined="1987-02-25"/>
+    <cosponsor id="400585" joined="1987-02-25"/>
+    <cosponsor id="400216" joined="1987-02-25"/>
+    <cosponsor id="406729" joined="1987-02-25"/>
+    <cosponsor id="400281" joined="1987-01-29"/>
+    <cosponsor id="408052" joined="1987-02-25"/>
+    <cosponsor id="408407" joined="1987-03-31"/>
+    <cosponsor id="409205" joined="1987-03-31"/>
+    <cosponsor id="410245" joined="1987-01-29"/>
+    <cosponsor id="411025" joined="1987-01-29"/>
+    <cosponsor id="400614" joined="1987-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-29" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-05-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-106.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Placed on Union Calendar No: 73.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="148" datetime="1987-05-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 344 - 39 (Record Vote No: 148).</text>
+    </vote>
+    <action datetime="1987-05-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee on Energy and Natural Resources requested executive comment from Agriculture Department.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-08-03">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-08-11">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 100-481.</text>
+    </action>
+    <calendar datetime="1988-08-11" calendar="Senate Legislative" under="General Orders" number="903">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 903.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-08" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>House Concurred, in Senate Amendments , with Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate amendment.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-07" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment to the Senate amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-26" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-534" type="public" datetime="1988-10-26">
+      <text>Became Public Law No: 100-534.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Advisory bodies"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Flood control"/>
+    <term name="Insect control"/>
+    <term name="National recreation areas"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="Rivers"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="West Virginia"/>
+    <term name="Wild rivers"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--House agreed to Senate amendment with amendment.
+(House agreed to Senate amendment with amendment under suspension of rules) West Virginia National Interest River Conservation Act of 1987 - Title I: New River Gorge National River - Amends the National Parks and Recreation Act of 1978 to modify the boundary of the New River Gorge National River. Authorizes the Secretary of the Interior to enter into cooperative agreements with State or local agencies for fire and law enforcement services on a reimbursable basis. Directs the Secretary to acquire the necessary lands and develop access to the River near Cunard. Permits motorized towing of whitewater rafts as an interim measure. Directs the Secretary of the Army to study and report to the Senate Committee on Energy and Natural Resources and the House Committee on Interior and Insular Affairs by the end of 1989 on the feasibility of adjusting the timing of daily releases from the Bluestone Lake Project during certain rates of flow. Requires the Secretary to conduct test releases during the summer of 1989. Authorizes the Secretary of the Interior to construct a scenic overlook and visitor information facility at Glade Creek within the boundary of the New River Gorge National River. Authorizes appropriations. Title II: Gauley River National Recreation Area - Establishes the Gauley River National Recreation Area. Requires the Secretary of the Interior to submit within five years to specified congressional committees a report on any boundary modifications for such Area. Permits hunting and fishing except in designated zones. Provides that nothing in this Act shall be construed as affecting the jurisdiction of West Virginia with respect to fish and wildlife. Authorizes the Secretary to enter into cooperative agreements with State or local agencies for fire and law enforcement services on a reimbursable basis. Requires the Secretary to improve access to such Area through facility construction. Authorizes road maintenance, and/or land acquisition activities. Earmarks lands and projects related to the operation of the Summersville Project for special management. Authorizes appropriations. Establishes the Gauley River National Recreation Area Advisory Committee to assist in developing a management plan for such Area. Terminates such Committee after ten years. Title III: Bluestone National Scenic River - Amends the Wild and Scenic Rivers Act to designate a segment of the Bluestone River, West Virginia, as a component of the wild and scenic rivers system. Title IV: General Provisions - Requires the Secretary to cooperate with State and local authorities for developing and promoting recreational resources in West Virginia. Requires the Secretary to establish a public awareness program within specified counties of West Virginia to explain the significance of the wild and scenic river designations made by this Act. Requires the Secretary to report to specified congressional committees on such program. Requires the Secretary to consolidate offices and administration of the areas designated by this Act. Makes any spending authority pursuant to this Act subject to amounts provided in appropriation Acts. Title V: Technical Change to Wild and Scenic Rivers Act - Makes a technical amendment to the Wild and Scenic Rivers Act.</summary>
+</bill>

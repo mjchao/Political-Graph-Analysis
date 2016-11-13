@@ -1,0 +1,72 @@
+<bill session="100" type="h" number="1301" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Public Law 99-591 to extend through 1987 the requirement that certain benefits be paid to retired former employees of debtors in bankruptcy.</title>
+  </titles>
+  <sponsor id="406461"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-04-23"/>
+    <cosponsor id="400906" joined="1987-03-10"/>
+    <cosponsor id="400551" joined="1987-05-05"/>
+    <cosponsor id="400975" joined="1987-05-05"/>
+    <cosponsor id="400025" joined="1987-04-23"/>
+    <cosponsor id="401418" joined="1987-04-23"/>
+    <cosponsor id="402114" joined="1987-04-23"/>
+    <cosponsor id="404190" joined="1987-05-05"/>
+    <cosponsor id="400143" joined="1987-03-10"/>
+    <cosponsor id="400544" joined="1987-04-23"/>
+    <cosponsor id="404750" joined="1987-04-23"/>
+    <cosponsor id="405256" joined="1987-03-10"/>
+    <cosponsor id="405687" joined="1987-04-23"/>
+    <cosponsor id="400595" joined="1987-05-05"/>
+    <cosponsor id="407721" joined="1987-05-05"/>
+    <cosponsor id="408342" joined="1987-03-10"/>
+    <cosponsor id="400306" joined="1987-04-23"/>
+    <cosponsor id="408621" joined="1987-03-10"/>
+    <cosponsor id="409251" joined="1987-05-05"/>
+    <cosponsor id="410245" joined="1987-04-23"/>
+    <cosponsor id="400611" joined="1987-03-10"/>
+    <cosponsor id="411025" joined="1987-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>See S.903.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="903"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Business and commerce"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Employee benefit plans"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+    <term name="Labor and employment"/>
+    <term name="Retirement"/>
+    <term name="Survivors' benefits"/>
+    <term name="Trusts and trustees"/>
+    <term name="Workers' compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Amends the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriation Act, 1987 to require the bankruptcy trustee in any reorganization case to pay, until January 1, 1988 (currently, May 15, 1987), health, disability, or death benefits to retired former employees under a program established or maintained by the debtor prior to filing a bankruptcy petition.</summary>
+</bill>

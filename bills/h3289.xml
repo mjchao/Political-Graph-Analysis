@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="3289" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-12-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-29"/>
+  </status>
+  <introduced datetime="1987-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Export-Import Bank Act of 1945.</title>
+  </titles>
+  <sponsor id="404422"/>
+  <cosponsors>
+    <cosponsor id="400236" joined="1987-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-16" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Referred to Subcommittee on International Finance, Trade and Monetary Policy.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Subcommittee on International Finance, Trade and Monetary Policy Discharged.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-09-17" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1987-09-18" calendar="Senate Legislative" under="General Orders" number="320">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 320.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-18" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-18">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-29" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-217" type="public" datetime="1987-12-29">
+      <text>Became Public Law No: 100-217.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral"/>
+    <committee activity="Referral, Discharged" code="HSBA08" subcommittee="International Finance, Trade and Monetary Policy" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Export credit"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1987--Introduced.
+Amends the Export-Import Bank Act of 1945 to make amounts in the Tied Aid Credit Fund available to reimburse the Export-Import Bank for the cost of any tied aid credits authorized by the Bank during FY 1987 and 1988.</summary>
+</bill>

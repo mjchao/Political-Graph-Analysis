@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="49" updated="2014-03-22T09:54:45-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Prison Conversion Enhancement Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend section 203 of the Federal Property and Administrative Services Act of 1949 to establish as a priority the conveyance of surplus Federal property for use as correctional facilities to alleviate the shortage of prison space resulting from the increase in drug crime convictions.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to Subcommittee on Government Efficiency, Federalism.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA04" subcommittee="Government Efficiency, Federalism, and the District of Columbia" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Correctional institutions"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="Government property"/>
+    <term name="Prisons"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Surplus government property"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Prison Conversion Enhancement Act of 1987 - Amends the Federal Property and Administrative Services Act of 1949 to require, during the two-year period following enactment of this Act, the Administrator of General Services and the Attorney General to provide priority disposition for the conversion of suitable surplus property into correctional facilities. Directs the Attorney General to report to the Congress on the number of surplus properties certified for use as prison facilities. Directs the Administrator to report to the Congress on the number and location of properties which have been converted for use as prisons.</summary>
+</bill>

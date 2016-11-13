@@ -1,0 +1,77 @@
+<bill session="100" type="h" number="5143" updated="2014-03-22T09:53:34-04:00">
+  <state datetime="1988-09-20">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-09-20"/>
+  </status>
+  <introduced datetime="1988-08-03"/>
+  <titles>
+    <title type="short" as="introduced">District of Columbia Revenue Bond Act of 1988</title>
+    <title type="official" as="introduced">A bill to waive the period of congressional review for certain District of Columbia acts authorizing the issuance of revenue bonds.</title>
+  </titles>
+  <sponsor id="400571"/>
+  <cosponsors>
+    <cosponsor id="400079" joined="1988-08-03"/>
+    <cosponsor id="403364" joined="1988-08-03"/>
+    <cosponsor id="403695" joined="1988-08-03"/>
+    <cosponsor id="404006" joined="1988-08-03"/>
+    <cosponsor id="404752" joined="1988-08-03"/>
+    <cosponsor id="407215" joined="1988-08-03"/>
+    <cosponsor id="407306" joined="1988-08-03"/>
+    <cosponsor id="407960" joined="1988-08-03"/>
+    <cosponsor id="408490" joined="1988-08-03"/>
+    <cosponsor id="411488" joined="1988-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-03" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>House Committee on District of Columbia Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-11" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-11">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-08" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-14">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-09-20" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-438" type="public" datetime="1988-09-20">
+      <text>Became Public Law No: 100-438.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Bonds"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="District of Columbia"/>
+    <term name="Government securities"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1988--Introduced.
+District of Columbia Revenue Bond Act of 1988 - Waives the period of congressional review for certain District of Columbia Acts authorizing the issuance, sale, and delivery of revenue bonds by specified organizations. Makes such Acts effective upon enactment of this Act.</summary>
+</bill>

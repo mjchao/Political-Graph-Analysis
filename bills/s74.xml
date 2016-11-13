@@ -1,0 +1,62 @@
+<bill session="100" type="s" number="74" updated="2014-03-22T09:54:45-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow a charitable contribution deduction for certain amounts paid to or for the benefit of an institution of higher education.</title>
+  </titles>
+  <sponsor id="300159"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-06-11"/>
+    <cosponsor id="401604" joined="1987-03-17"/>
+    <cosponsor id="402004" joined="1987-05-20"/>
+    <cosponsor id="300023" joined="1987-07-09"/>
+    <cosponsor id="403171" joined="1987-07-29"/>
+    <cosponsor id="403483" joined="1987-07-22"/>
+    <cosponsor id="403920" joined="1987-09-22"/>
+    <cosponsor id="404219" joined="1987-07-09"/>
+    <cosponsor id="405310" joined="1987-06-11"/>
+    <cosponsor id="405321" joined="1987-05-20"/>
+    <cosponsor id="300154" joined="1987-05-20"/>
+    <cosponsor id="406183" joined="1987-06-16"/>
+    <cosponsor id="300072" joined="1987-07-29"/>
+    <cosponsor id="300079" joined="1987-03-18"/>
+    <cosponsor id="408252" joined="1987-01-06"/>
+    <cosponsor id="408939" joined="1987-01-06"/>
+    <cosponsor id="409225" joined="1987-09-22"/>
+    <cosponsor id="300084" joined="1987-03-30"/>
+    <cosponsor id="409917" joined="1987-06-05"/>
+    <cosponsor id="300092" joined="1987-03-30"/>
+    <cosponsor id="410588" joined="1987-01-06"/>
+    <cosponsor id="412006" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1106"/>
+    <bill relation="identical" session="100" type="h" number="1106"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Charitable contributions"/>
+    <term name="College sports"/>
+    <term name="Colleges"/>
+    <term name="Education"/>
+    <term name="Higher education"/>
+    <term name="Income tax"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Sports and Athletics"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Internal Revenue Code to allow a charitable contribution income tax deduction for amounts paid to or for the benefit of an institution of higher education in cases where the taxpayer receives the right to seating or the right to purchase seating for athletic events at such institution.</summary>
+</bill>

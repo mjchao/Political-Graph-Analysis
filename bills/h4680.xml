@@ -1,0 +1,120 @@
+<bill session="100" type="h" number="4680" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-25"/>
+  </status>
+  <introduced datetime="1988-05-25"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Work Incentives Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Social Security Act to take into account monthly earnings in determining the amount of disability benefits payable under title II, to provide for continued entitlement to disability and medicare benefits for individuals under disabled and working status, and for other purposes.</title>
+  </titles>
+  <sponsor id="401203"/>
+  <cosponsors>
+    <cosponsor id="400567" joined="1988-06-16"/>
+    <cosponsor id="400975" joined="1988-07-14"/>
+    <cosponsor id="401231" joined="1988-10-12"/>
+    <cosponsor id="401310" joined="1988-06-28"/>
+    <cosponsor id="400023" joined="1988-09-15"/>
+    <cosponsor id="401418" joined="1988-07-07"/>
+    <cosponsor id="400527" joined="1988-10-21"/>
+    <cosponsor id="300011" joined="1988-10-12"/>
+    <cosponsor id="401874" joined="1988-07-12"/>
+    <cosponsor id="402454" joined="1988-07-07"/>
+    <cosponsor id="402657" joined="1988-06-15"/>
+    <cosponsor id="403031" joined="1988-09-30"/>
+    <cosponsor id="400100" joined="1988-09-16"/>
+    <cosponsor id="403403" joined="1988-09-15"/>
+    <cosponsor id="403545" joined="1988-09-23"/>
+    <cosponsor id="403776" joined="1988-07-07"/>
+    <cosponsor id="400126" joined="1988-08-04"/>
+    <cosponsor id="404013" joined="1988-06-15"/>
+    <cosponsor id="404170" joined="1988-06-28"/>
+    <cosponsor id="400140" joined="1988-06-08"/>
+    <cosponsor id="400585" joined="1988-10-12"/>
+    <cosponsor id="404520" joined="1988-06-01"/>
+    <cosponsor id="404705" joined="1988-05-25"/>
+    <cosponsor id="404765" joined="1988-07-07"/>
+    <cosponsor id="404869" joined="1988-07-07"/>
+    <cosponsor id="400174" joined="1988-08-04"/>
+    <cosponsor id="400176" joined="1988-08-04"/>
+    <cosponsor id="400188" joined="1988-07-12"/>
+    <cosponsor id="400192" joined="1988-06-28"/>
+    <cosponsor id="300057" joined="1988-09-16"/>
+    <cosponsor id="400205" joined="1988-09-15"/>
+    <cosponsor id="400211" joined="1988-06-16"/>
+    <cosponsor id="406284" joined="1988-09-30"/>
+    <cosponsor id="406530" joined="1988-05-25"/>
+    <cosponsor id="400238" joined="1988-05-25"/>
+    <cosponsor id="407215" joined="1988-08-04"/>
+    <cosponsor id="400256" joined="1988-05-25"/>
+    <cosponsor id="400261" joined="1988-09-15"/>
+    <cosponsor id="407721" joined="1988-08-11"/>
+    <cosponsor id="407960" joined="1988-07-07"/>
+    <cosponsor id="408109" joined="1988-06-28"/>
+    <cosponsor id="408190" joined="1988-06-28"/>
+    <cosponsor id="408313" joined="1988-10-13"/>
+    <cosponsor id="400299" joined="1988-09-16"/>
+    <cosponsor id="400314" joined="1988-09-16"/>
+    <cosponsor id="408618" joined="1988-06-28"/>
+    <cosponsor id="400318" joined="1988-07-07"/>
+    <cosponsor id="409052" joined="1988-08-11"/>
+    <cosponsor id="400334" joined="1988-06-28"/>
+    <cosponsor id="409251" joined="1988-08-11"/>
+    <cosponsor id="409325" joined="1988-07-12"/>
+    <cosponsor id="409443" joined="1988-09-15"/>
+    <cosponsor id="409500" joined="1988-09-23"/>
+    <cosponsor id="400354" joined="1988-06-28"/>
+    <cosponsor id="409651" joined="1988-07-26"/>
+    <cosponsor id="400370" joined="1988-09-30"/>
+    <cosponsor id="409887" joined="1988-06-28"/>
+    <cosponsor id="409966" joined="1988-09-16"/>
+    <cosponsor id="410889" joined="1988-09-16"/>
+    <cosponsor id="410926" joined="1988-06-28"/>
+    <cosponsor id="400414" joined="1988-09-30"/>
+    <cosponsor id="400612" joined="1988-08-11"/>
+    <cosponsor id="411834" joined="1988-06-15"/>
+    <cosponsor id="411901" joined="1988-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-25" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Children and youth"/>
+    <term name="Coinsurance"/>
+    <term name="Earnings"/>
+    <term name="Families"/>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Public assistance programs"/>
+    <term name="Social security eligibility"/>
+    <term name="Supplemental security income program"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/1988--Introduced.
+Social Security Work Incentives Act of 1988 - Amends title II (Old Age, Survivors and Disability Insurance) (OASDI) of the Social Security Act to reduce monthly disability benefits by 50 percent of a beneficiary's monthly earnings in excess of $85. Limits the total amount by which an individual's OASDI disability benefits may be reduced if such individual is also eligible for benefits provided under title XVI (Supplemental Security Income) (SSI) of the Act to individuals who perform substantial gainful activity despite severe medical impairment. Prohibits deductions from disability-based child insurance benefits for the recovery of prior overpayments resulting from a failure to reduce such benefits on the basis of earnings. Extends to current OASDI disability beneficiaries the rule preventing reductions in the primary insurance amount for prior recipients. Continues an individual's entitlement to disability benefits while such individual is under disabled and working status, meaning that such individual is earning enough to be considered engaged in substantial gainful activity, but would otherwise continue to satisfy eligibility requirements. Sets a four-year limit on the Medicare hospital insurance eligibility (under part A of title XVIII of the Act) of individuals who owe their eligibility to their disabled and working status under the OASDI program. Amends the Medicare program to authorize such individuals to enroll for hospital insurance benefits upon the termination of such four-year limit. Amends title XIX (Medicaid) of the Act to cover Medicare cost-sharing amounts for individuals of disabled and working status who are entitled to enroll for Medicare hospital insurance benefits and whose income and resources do not exceed 300 percent of the Federal poverty level and the SSI resource eligibility limit, respectively. Requires States to collect a coinsurance percentage from such individuals pursuant to a sliding scale which increases such percentage from 0 to 100 percent in reasonable increments as incomes move from 150 to 300 percent of the Federal poverty level. Extends to all recipients of disability-based child's insurance benefits the rule permitting continued entitlement to Medicaid benefits of individuals who would remain eligible for SSI benefits but for their receipt of such child's insurance benefits.</summary>
+</bill>

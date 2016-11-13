@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="2582" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1988-06-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the Amistad National Recreation Area in the State of Texas, and for other purposes.</title>
+  </titles>
+  <sponsor id="401391"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4926"/>
+    <bill relation="identical" session="100" type="h" number="4926"/>
+  </relatedbills>
+  <subjects>
+    <term name="Recreation"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Fishing"/>
+    <term name="Hunting"/>
+    <term name="National recreation areas"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="Sports and Athletics"/>
+    <term name="Texas"/>
+    <term name="Trapping"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/1988--Introduced.
+Establishes the Amistad National Recreation Area, Texas. Directs the Secretary of the Interior to administer such area. Authorizes hunting, fishing, and trapping in such area except in designated zones. Authorizes the Secretary to enter into agreements with Texas for the provision of rescue, firefighting, and law enforcement services for such area. Sets forth provisions relating to specified treaties between the United States and Mexico.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="100" type="sc" number="138" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-08-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-10"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the President or the Congress should abrogate the Panama Canal Treaties of 1977 and the Neutrality Treaty and the Congress should repeal the Panama Canal Act of 1979.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="300154" joined="1988-08-10"/>
+    <cosponsor id="300157" joined="1988-08-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-10" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="354"/>
+    <bill relation="identical" session="100" type="hc" number="354"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Canals"/>
+    <term name="Interoceanic canals"/>
+    <term name="Panama"/>
+    <term name="Panama Canal"/>
+    <term name="Treaties"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/1988--Introduced.
+States the sense of the Congress that the President or the Congress should immediately abrogate the Panama Canal Treaties of 1977 and the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal and that the Congress should repeal the Panama Canal Act of 1979.</summary>
+</bill>

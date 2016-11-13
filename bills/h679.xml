@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="679" updated="2014-03-22T09:51:31-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for medicare coverage for hospital-based comprehensive care programs.</title>
+  </titles>
+  <sponsor id="408313"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-03-03"/>
+    <cosponsor id="401418" joined="1987-03-18"/>
+    <cosponsor id="400035" joined="1987-03-25"/>
+    <cosponsor id="402763" joined="1987-03-25"/>
+    <cosponsor id="403031" joined="1987-03-25"/>
+    <cosponsor id="403314" joined="1987-06-09"/>
+    <cosponsor id="403364" joined="1987-03-25"/>
+    <cosponsor id="403776" joined="1987-03-18"/>
+    <cosponsor id="404006" joined="1987-03-18"/>
+    <cosponsor id="404019" joined="1987-04-28"/>
+    <cosponsor id="404213" joined="1987-03-18"/>
+    <cosponsor id="400140" joined="1987-03-03"/>
+    <cosponsor id="404422" joined="1987-04-08"/>
+    <cosponsor id="405687" joined="1987-03-18"/>
+    <cosponsor id="406191" joined="1987-03-03"/>
+    <cosponsor id="400595" joined="1987-03-25"/>
+    <cosponsor id="407672" joined="1987-04-28"/>
+    <cosponsor id="400286" joined="1987-03-03"/>
+    <cosponsor id="409593" joined="1987-03-03"/>
+    <cosponsor id="410066" joined="1987-03-03"/>
+    <cosponsor id="410889" joined="1987-03-03"/>
+    <cosponsor id="400409" joined="1987-04-28"/>
+    <cosponsor id="411948" joined="1987-03-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Comprehensive health care"/>
+    <term name="Health"/>
+    <term name="Health maintenance organizations"/>
+    <term name="Hospital care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to provide that if the Secretary of Health and Human Services enters into a risk-sharing contract with an eligible organization (either a health maintenance organization or a competitive medical plan) offering a "hospital-based comprehensive care program," then the entity need not meet certain requirements for Medicare participation which would otherwise have to be met. Defines a "hospital-based comprehensive care program."</summary>
+</bill>

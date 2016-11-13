@@ -1,0 +1,52 @@
+<bill session="100" type="hc" number="240" updated="2014-03-22T09:54:12-04:00">
+  <state datetime="1988-02-01">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-01"/>
+  </status>
+  <introduced datetime="1988-02-01"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution in support of the Guatemala peace accord.</title>
+  </titles>
+  <sponsor id="404019"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-02-01"/>
+    <cosponsor id="400975" joined="1988-02-01"/>
+    <cosponsor id="400025" joined="1988-02-01"/>
+    <cosponsor id="401585" joined="1988-02-01"/>
+    <cosponsor id="402600" joined="1988-02-01"/>
+    <cosponsor id="404376" joined="1988-02-01"/>
+    <cosponsor id="400585" joined="1988-02-01"/>
+    <cosponsor id="404996" joined="1988-02-01"/>
+    <cosponsor id="406473" joined="1988-02-01"/>
+    <cosponsor id="406765" joined="1988-02-01"/>
+    <cosponsor id="408407" joined="1988-02-24"/>
+    <cosponsor id="411426" joined="1988-02-01"/>
+    <cosponsor id="411834" joined="1988-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-01" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Central America"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Costa Rica"/>
+    <term name="Peace"/>
+    <term name="Peace treaties"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>2/1/1988--Introduced.
+Expresses support for the Guatemala peace accord and for the efforts of the Central American presidents in continuing the peace process. Expresses appreciation to President Oscar Arias Sanchez of Costa Rica for his continuing leadership, and urges all parties to meet their obligations under the accord.</summary>
+</bill>

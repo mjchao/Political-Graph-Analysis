@@ -1,0 +1,51 @@
+<bill session="100" type="sc" number="135" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-08-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-08-03"/>
+  </status>
+  <introduced datetime="1988-08-03"/>
+  <titles>
+    <title type="official" as="introduced">To correct the enrollment of H.R. 4848.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="1988-08-03"/>
+    <cosponsor id="402023" joined="1988-08-03"/>
+    <cosponsor id="300031" joined="1988-08-03"/>
+    <cosponsor id="403515" joined="1988-08-03"/>
+    <cosponsor id="403669" joined="1988-08-03"/>
+    <cosponsor id="300048" joined="1988-08-03"/>
+    <cosponsor id="300051" joined="1988-08-03"/>
+    <cosponsor id="406183" joined="1988-08-03"/>
+    <cosponsor id="300070" joined="1988-08-03"/>
+    <cosponsor id="408898" joined="1988-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-03">
+      <text>Submitted in the Senate.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="289" datetime="1988-08-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate with an amendment by Yea-Nay Vote. 62-34. Record Vote No: 289.</text>
+    </vote>
+    <action datetime="1988-08-04">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2793"/>
+  </amendments>
+  <summary>8/3/1988--Passed Senate amended.
+(Measure passed Senate, amended, roll call #289 (62-34)) Makes corrections in the enrollment of H.R. 4848 (trade law revisions as it concerns the domestic demand for ethyl alcohol).</summary>
+</bill>

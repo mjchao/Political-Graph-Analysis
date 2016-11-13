@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="3497" updated="2014-03-22T09:52:52-04:00">
+  <state datetime="1987-10-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-15"/>
+  </status>
+  <introduced datetime="1987-10-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the President to take appropriate actions domestically and internationally to establish a Global Change Research Program aimed at understanding the cumulative impacts of man on his environment.</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors>
+    <cosponsor id="409632" joined="1987-10-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-15" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Referred to Subcommittee on International Scientific Cooperation.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY01" subcommittee="International Scientific Cooperation" name="House Science, Space and Technology"/>
+    <committee activity="Referral" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Climate"/>
+    <term name="Environmental assessment"/>
+    <term name="Federal advisory bodies"/>
+    <term name="International cooperation in science"/>
+    <term name="International environmental cooperation"/>
+    <term name="Research and development"/>
+    <term name="Science and technology"/>
+    <term name="Science, technology, communications"/>
+    <term name="Weather and Climate"/>
+  </subjects>
+  <amendments/>
+  <summary>10/15/1987--Introduced.
+Directs the President to support multidisciplinary research concerning man's impact on global change. Requires the President to report to the Congress on current Federal scientific activities that are components of such research and to report a plan to implement a National Global Change Program which identifies research objectives, domestic program management, and international scientific cooperation. Directs the President to establish a Commission to make recommendations on the international component of such Program. Requires the President to report to the Congress on January 1, 1992, and then annually for five years.</summary>
+</bill>

@@ -1,0 +1,60 @@
+<bill session="100" type="s" number="20" updated="2014-03-22T09:54:44-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Ground Water Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for the protection of ground water through State standards, planning, and protection programs.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1987-01-06"/>
+    <cosponsor id="402023" joined="1987-01-06"/>
+    <cosponsor id="300064" joined="1987-01-06"/>
+    <cosponsor id="407786" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-02-23">
+      <text>Subcommittee on Water Resources, Transportation. Hearings held.</text>
+    </action>
+    <action datetime="1988-02-23">
+      <text>Subcommittee on Hazardous Wastes and Toxic. Hearings held. Hearings printed:  S.Hrg. 100-661.</text>
+    </action>
+    <action datetime="1988-03-24">
+      <text>Subcommittee on Water Resources, Transportation. Hearings concluded. Hearings printed:  S.Hrg. 100-661.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEV01" subcommittee="Water Resources, Transportation and Infrastructure" name="Senate Environment and Public Works"/>
+    <committee activity="Hearings" code="SSEV03" subcommittee="Hazardous Wastes and Toxic Substances" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="963"/>
+    <bill relation="identical" session="100" type="h" number="963"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Groundwater"/>
+    <term name="Standards"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water pollution measurement"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments>
+    <amendment number="s178"/>
+  </amendments>
+  <summary>1/6/1987--Introduced.
+Ground Water Protection Act of 1987 - Directs the Administrator of the Environmental Protection Agency to establish criteria for groundwater quality, including an analysis of the contaminants and the risks they pose to human and environmental health. Sets a timetable for the establishment of such criteria. Requires the Administrator to appoint an advisory panel. Requires each State to establish numerical standards for contaminants found in the ambient groundwater. Permits separate standards for special systems. Requires each State to use Federal criteria in establishing such standards. Requires each State to assess the groundwater resources and to develop a management strategy and monitoring program for such resources. Requires the Director of the U.S. Geological Survey to make grants to States for such assessments. Directs the Administrator to make grants to assist States in meeting the other requirements of this Act. Authorizes appropriations.</summary>
+</bill>

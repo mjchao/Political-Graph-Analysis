@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="4368" updated="2014-03-22T09:53:11-04:00">
+  <state datetime="1988-04-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-13"/>
+  </status>
+  <introduced datetime="1988-04-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 23, United States Code, relating to the toll road pilot program in the State of Texas.</title>
+  </titles>
+  <sponsor id="402454"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-13" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>See H.R.4794.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4794"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Federal aid highway program"/>
+    <term name="Highway finance"/>
+    <term name="Roads and highways"/>
+    <term name="Texas"/>
+    <term name="Toll roads"/>
+  </subjects>
+  <amendments/>
+  <summary>4/13/1988--Introduced.
+Amends Federal law relating to Federal participation in State toll road pilot programs to require that, in the case of Texas, the State highway department and the Texas Turnpike Authority must enter into a toll revenues agreement with the Secretary of Transportation as a prerequisite to Federal permission for such participation. States that upon request of the Texas Department of Highways and Public Transportation, the Secretary must allocate to the Texas Turnpike Authority the amounts that would be payable to the Department as the Federal share of project costs if the Department were implementing a project. Mandates such allocations from sums apportioned to Texas for Federal-aid primary system projects.</summary>
+</bill>

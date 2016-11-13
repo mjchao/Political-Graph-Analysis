@@ -1,0 +1,73 @@
+<bill session="100" type="h" number="495" updated="2014-03-22T09:51:22-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to eliminate the exemption for Congress or for the United States from the application of certain provisions of Federal law relating to employment and privacy, and for other purposes.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors>
+    <cosponsor id="300058" joined="1988-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-01-23">
+      <text>Referred to Subcommittee on Government Information, Justice and Agriculture.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Labor Standards.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Health and Safety.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Employment Opportunities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED03" subcommittee="Labor Standards" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED05" subcommittee="Health and Safety" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED06" subcommittee="Employment Opportunities" name="House Education and Labor"/>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO02" subcommittee="Government Information, Justice, and Agriculture" name="House Government Operations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Civil service employment"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional agencies"/>
+    <term name="Congressional employees"/>
+    <term name="Congressional publications"/>
+    <term name="Discrimination in employment"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Freedom of information"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Hours of labor"/>
+    <term name="House of Representatives"/>
+    <term name="Labor and employment"/>
+    <term name="Minimum wages"/>
+    <term name="Occupational health and safety"/>
+    <term name="Right of privacy"/>
+    <term name="Senate"/>
+    <term name="Unfair labor practices"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Amends the Civil Rights Act of 1964 and the Equal Employment Opportunity Act of 1972 to extend to all units of the legislative branch of Government the prohibition against discrimination in employment which now applies only to those units of the legislative branch having positions in the competitive civil service. Amends the National Labor Relations Act to include the United States as an employer subject to the prohibition against unfair labor practices. Amends the Fair Labor Standards Act to extend its coverage to the employees of any unit of the legislative branch whether or not the unit has positions in the competitive civil service. Amends the Occupational Safety and Health Act of 1970 to include the United States as an employer subject to its provisions. Applies the provisions of the Freedom of Information Act and the Privacy Act to the legislative branch.</summary>
+</bill>

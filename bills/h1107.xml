@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1107" updated="2014-03-22T09:51:42-04:00">
+  <state datetime="1987-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the President to impose a tariff surcharge on the products of certain countries in order to offset the expense of providing United States defense assistance to such countries.</title>
+  </titles>
+  <sponsor id="400334"/>
+  <cosponsors>
+    <cosponsor id="409251" joined="1987-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-11" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="American military assistance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="France"/>
+    <term name="Imports"/>
+    <term name="International affairs"/>
+    <term name="International competitiveness"/>
+    <term name="Japan"/>
+    <term name="NATO countries"/>
+    <term name="Research and development"/>
+    <term name="Science and technology"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1987--Introduced.
+Authorizes the President to impose tariff surcharges on articles imported from Japan, France, or any country within the North Atlantic Treaty Organization if the President determines that the cost of providing such country with defense assistance should be offset by tariff surcharges. Earmarks revenues collected from such surcharges for research and development programs designed to enhance U.S. competitiveness.</summary>
+</bill>

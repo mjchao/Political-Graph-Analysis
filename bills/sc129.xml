@@ -1,0 +1,64 @@
+<bill session="100" type="sc" number="129" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-09-16">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-09-16"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the support of Congress for the Dalai Lama and his proposal to promote peace, protect the environment, and gain democracy for the people of Tibet.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1988-06-29"/>
+    <cosponsor id="300154" joined="1988-06-29"/>
+    <cosponsor id="300150" joined="1988-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-14">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-09-14" calendar="Senate Legislative" under="General Orders" number="931">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 931.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-16" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-20">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-09-21">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-09-21">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="China"/>
+    <term name="Clergy"/>
+    <term name="Democracy"/>
+    <term name="Human rights"/>
+    <term name="Religion and Clergy"/>
+    <term name="Tibet"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Introduced.
+Expresses the findings of the Congress regarding the plan presented by the Dalai Lama for the restoration of peace and human rights in Tibet and the policies of the Chinese Government in Tibet. Commends the Dalai Lama for his peace efforts and calls on China to respond positively to the proposal. Calls on the President and the Secretary of State to support the thrust of the Dalai Lama's proposal and to persuade Chinese leaders to enter into discussions with the Dalai Lama regarding Tibet.</summary>
+</bill>

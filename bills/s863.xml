@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="863" updated="2014-03-22T09:55:02-04:00">
+  <state datetime="1987-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-26"/>
+  </status>
+  <introduced datetime="1987-03-26"/>
+  <titles>
+    <title type="short" as="introduced">New Columbia Admission Act</title>
+    <title type="official" as="introduced">A bill to provide for the admission of the State of New Columbia into the Union.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="300056" joined="1987-06-02"/>
+    <cosponsor id="300060" joined="1987-12-15"/>
+    <cosponsor id="300073" joined="1987-06-02"/>
+    <cosponsor id="409917" joined="1987-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Referred to Subcommittee on Government Efficiency, Federalism.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA04" subcommittee="Government Efficiency, Federalism, and the District of Columbia" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="51"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="District of Columbia"/>
+    <term name="Statehood (American politics)"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/1987--Introduced.
+New Columbia Admission Act - Declares the State of New Columbia (presently the District of Columbia) to be a State of the United States of America. Admits New Columbia into the Union on an equal footing with the other States in all respects. Reserves Federal title to certain lands and property. Sets forth election protocol for popular ratification of statehood. Provides for election of one member of the House of Representatives as well as two Senators. Maintains the laws that were territorially in effect. Continues any law suits already pending in District of Columbia courts.</summary>
+</bill>

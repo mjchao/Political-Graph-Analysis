@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="160" updated="2014-03-22T09:54:47-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend titles 10 and 37, United States Code, to provide for constructive service credit for speciality nurses and to provide for incentive pay for speciality nurses assigned to remote locations within the Department of Defense.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Referred to Subcommittee on Manpower and Personnel (Arm Serv).</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Committee on Armed Services requested executive comment from Department of Defense.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAS05" subcommittee="Manpower and Personnel" name="Senate Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health"/>
+    <term name="Medical personnel"/>
+    <term name="Military medicine"/>
+    <term name="Military pay"/>
+    <term name="Nurses"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends Federal armed forces provisions and provisions relating to Federal pay to provide for: (1) constructive service credit for specialty nurses employed by the Department of Defense (DOD); and (2) incentive pay for specialty nurses assigned to remote locations within DOD.</summary>
+</bill>

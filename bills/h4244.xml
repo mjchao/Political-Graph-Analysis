@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="4244" updated="2014-03-22T09:53:08-04:00">
+  <state datetime="1988-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-23"/>
+  </status>
+  <introduced datetime="1988-03-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to suspend for 3 years the duty on Bentazon.</title>
+  </titles>
+  <sponsor id="411119"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-23" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Executive Comment Received From ITC.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Executive Comment Received From Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Chemicals"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Herbicides"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/1988--Introduced.
+Amends the Tariff Schedules of the United States to suspend the duty on 3-Isopropyl-1H-2,1,3-benzothiadiazin-4 (3H)-one-2,2-dioxide (Benta zon) for a three-year period.</summary>
+</bill>

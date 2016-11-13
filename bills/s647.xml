@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="647" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Credit Card Account Holder Protection Act</title>
+    <title type="official" as="introduced">A bill to establish a limitation on the rates of interest which may be imposed on credit card accounts, and to provide for more detailed disclosures by credit card issuers in application for credit cards.</title>
+  </titles>
+  <sponsor id="409580"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Subcommittee on Consumer Affairs. Hearings held. Hearings printed:  S.Hrg. 100-119.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSBK03" subcommittee="Consumer Affairs" name="Senate Banking, Housing, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Consumer credit"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Credit"/>
+    <term name="Credit cards"/>
+    <term name="Finance and financial sector"/>
+    <term name="Finance charges"/>
+    <term name="Interest"/>
+    <term name="Interest rates"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Credit Card Account Holder Protection Act - Amends the Truth in Lending Act to limit credit card interest rates to not more than six percentage points above the average Federal Reserve discount rate during the six months preceding the date of determination. Requires credit card issuers to disclose certain information regarding interest rates and fees in applications and solicitations.</summary>
+</bill>

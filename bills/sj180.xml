@@ -1,0 +1,45 @@
+<bill session="100" type="sj" number="180" updated="2014-03-22T09:54:23-04:00">
+  <state datetime="1987-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-28"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating the honeybee as the national insect.</title>
+  </titles>
+  <sponsor id="408898"/>
+  <cosponsors>
+    <cosponsor id="402495" joined="1988-06-06"/>
+    <cosponsor id="402727" joined="1988-05-24"/>
+    <cosponsor id="404277" joined="1988-06-06"/>
+    <cosponsor id="300048" joined="1988-03-21"/>
+    <cosponsor id="300154" joined="1987-12-10"/>
+    <cosponsor id="408252" joined="1988-05-24"/>
+    <cosponsor id="409562" joined="1988-06-28"/>
+    <cosponsor id="300089" joined="1987-09-09"/>
+    <cosponsor id="300094" joined="1987-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="171"/>
+    <bill relation="identical" session="100" type="hj" number="171"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Bees"/>
+    <term name="Emblems"/>
+    <term name="Insects"/>
+    <term name="National emblems"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1987--Introduced.
+Designates the honeybee as the national insect of the United States.</summary>
+</bill>

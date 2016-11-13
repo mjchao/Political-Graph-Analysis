@@ -1,0 +1,39 @@
+<bill session="100" type="hj" number="19" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to prohibit compelling the attendance of a student in a public school other than the public school nearest the residence of such student.</title>
+  </titles>
+  <sponsor id="403864"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Busing (School integration)"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Community schools"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Desegregation in education"/>
+    <term name="Education"/>
+    <term name="Racial discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Constitutional Amendment - Prohibits a student from being compelled to attend a public school other than the one nearest his or her residence which is located within the student's school district and which provides the course of study pursued by such student.</summary>
+</bill>

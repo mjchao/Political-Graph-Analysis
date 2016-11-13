@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="4518" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-03"/>
+  </status>
+  <introduced datetime="1988-05-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 46, United States Code, to enhance the safety of passengers and employees on ferries operating on Puget Sound.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="410567" joined="1988-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-03" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Executive Comment Requested from State, DOT.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1988-05-31">
+      <text>Field Hearings Held in Seattle, Washington.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Canada"/>
+    <term name="Equipment and supplies"/>
+    <term name="Ferries"/>
+    <term name="International affairs"/>
+    <term name="Marine safety"/>
+    <term name="Marine transportation"/>
+    <term name="Passenger ships"/>
+    <term name="Public safety"/>
+    <term name="Ships and shipping"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>5/3/1988--Introduced.
+Amends Federal maritime law to require that ferry vessels operating on certain waters between the State of Washington and Vancouver, British Columbia, Canada (including Puget Sound, Washington), be equipped with life rafts to accommodate all passengers and employees.</summary>
+</bill>

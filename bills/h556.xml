@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="556" updated="2014-03-22T09:51:23-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to allow producers of wheat and feed grain the opportunity to enter into contracts for 3-year periods to lock-in the target prices of $4.38 per bushel of wheat, $3.03 per bushel of corn, $2.88 per bushel of grain sorghums, $2.60 per bushel of barley, and $1.60 per bushel of oats, and to allow producers to not plant 100 percent of their acreage base.</title>
+  </titles>
+  <sponsor id="403873"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-01-30">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Feed grain program"/>
+    <term name="Soil conservation"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Amends the Agricultural Act of 1949 to repeal the requirement that wheat and feed grain producers must plant specified percentages of conserving use acreage in order to receive deficiency payments. Provides a guaranteed three-year contract price for wheat and feed grain producers who agree to devote 100 percent or less of their wheat or feed grain acreage base to conservation use. States that, in the case of a landlord and tenant farmer, price support proceeds shall be shared proportionally to the lease terms in the first year, and paid in full to the landowner for the next two years.</summary>
+</bill>

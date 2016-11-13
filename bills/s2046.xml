@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="2046" updated="2014-03-22T09:55:33-04:00">
+  <state datetime="1988-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-04"/>
+  </status>
+  <introduced datetime="1988-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to provide mandatory coverage for certain low-income pregnant women and infants.</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="1988-02-04"/>
+    <cosponsor id="402495" joined="1988-02-04"/>
+    <cosponsor id="403171" joined="1988-03-14"/>
+    <cosponsor id="300070" joined="1988-02-04"/>
+    <cosponsor id="411421" joined="1988-02-04"/>
+    <cosponsor id="411801" joined="1988-03-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Health"/>
+    <term name="Maternal health services"/>
+    <term name="Medicaid"/>
+    <term name="Poverty"/>
+    <term name="Pregnant women"/>
+    <term name="Public assistance programs"/>
+    <term name="Women's health"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1988--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act of require States to extend Medicaid coverage to all pregnant women and infants up to age one whose family income falls below the Federal poverty level.</summary>
+</bill>

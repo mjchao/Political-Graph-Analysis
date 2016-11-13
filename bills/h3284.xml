@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="3284" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-16"/>
+  </status>
+  <introduced datetime="1987-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of Transportation to carry out a highway demonstration project to extend Pennsylvania State Route 33 to provide a limited access highway to connect Interstate Routes I-78 and I-80.</title>
+  </titles>
+  <sponsor id="409251"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-16" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-09-28">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Federal aid highway program"/>
+    <term name="Highway construction and repair"/>
+    <term name="Highway engineering"/>
+    <term name="Highway finance"/>
+    <term name="Limited access highways"/>
+    <term name="Pennsylvania"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1987--Introduced.
+Directs the Secretary of Transportation to implement a certain highway project in the vicinity of Bethlehem, Pennsylvania, to extend Pennsylvania Route 33 on the Federal-aid primary system in order to provide a four-lane limited access highway connecting specified Interstate routes. Requires the Secretary to report to the Congress by January 31, 1993, regarding project results. Authorizes appropriations for FY 1988 through 1992 for such project. Declares that the Federal share of such project cost shall be 100 percent.</summary>
+</bill>

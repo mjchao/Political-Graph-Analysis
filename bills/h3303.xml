@@ -1,0 +1,83 @@
+<bill session="100" type="h" number="3303" updated="2014-03-22T09:52:49-04:00">
+  <state datetime="1987-09-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-17"/>
+  </status>
+  <introduced datetime="1987-09-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National Trails System Act to designate the Trail of Tears as a national historic trail.</title>
+  </titles>
+  <sponsor id="405006"/>
+  <cosponsors>
+    <cosponsor id="401310" joined="1987-11-18"/>
+    <cosponsor id="401986" joined="1987-11-18"/>
+    <cosponsor id="402114" joined="1987-11-18"/>
+    <cosponsor id="402833" joined="1987-11-30"/>
+    <cosponsor id="403864" joined="1987-11-18"/>
+    <cosponsor id="404097" joined="1987-11-18"/>
+    <cosponsor id="405646" joined="1987-11-18"/>
+    <cosponsor id="405775" joined="1987-11-18"/>
+    <cosponsor id="406554" joined="1987-11-19"/>
+    <cosponsor id="400238" joined="1987-11-18"/>
+    <cosponsor id="400243" joined="1987-11-18"/>
+    <cosponsor id="400595" joined="1987-11-18"/>
+    <cosponsor id="407772" joined="1987-11-18"/>
+    <cosponsor id="408023" joined="1987-11-18"/>
+    <cosponsor id="400299" joined="1987-11-18"/>
+    <cosponsor id="400302" joined="1987-11-18"/>
+    <cosponsor id="408407" joined="1987-11-18"/>
+    <cosponsor id="408520" joined="1987-11-18"/>
+    <cosponsor id="408632" joined="1987-11-18"/>
+    <cosponsor id="409353" joined="1987-11-18"/>
+    <cosponsor id="410529" joined="1987-11-18"/>
+    <cosponsor id="410589" joined="1987-11-18"/>
+    <cosponsor id="400540" joined="1987-11-18"/>
+    <cosponsor id="411901" joined="1987-11-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-17" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>For Further Action See S.578.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="578"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alabama"/>
+    <term name="Arkansas"/>
+    <term name="Georgia"/>
+    <term name="Historic sites"/>
+    <term name="Illinois"/>
+    <term name="Kentucky"/>
+    <term name="Missouri"/>
+    <term name="Native Americans"/>
+    <term name="North Carolina"/>
+    <term name="Oklahoma"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Tennessee"/>
+    <term name="Trails"/>
+  </subjects>
+  <amendments/>
+  <summary>9/17/1987--Introduced.
+Amends the National Trails System Act to include the Trail of Tears National Historic Trail, the routes traveled by the Cherokee Nation through Georgia, North Carolina, Alabama, Tennessee, Kentucky, Illinois, Missouri, Arkansas, and Oklahoma, as a part of the System. Requires the Secretary of the Interior to consider establishing interpretive sites near Hopkinsville, Kentucky, and Fort Smith, Arkansas.</summary>
+</bill>

@@ -1,0 +1,77 @@
+<bill session="100" type="h" number="692" updated="2014-03-22T09:51:31-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Perishable Agricultural Commodities Act, 1930 to require commission merchants, dealers, and brokers to label perishable agricultural commodities with the name of the country of origin of such commodities.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-02-25"/>
+    <cosponsor id="400035" joined="1987-02-25"/>
+    <cosponsor id="403726" joined="1987-02-25"/>
+    <cosponsor id="403769" joined="1987-04-29"/>
+    <cosponsor id="404422" joined="1987-06-25"/>
+    <cosponsor id="400586" joined="1987-02-25"/>
+    <cosponsor id="405256" joined="1987-02-25"/>
+    <cosponsor id="405377" joined="1987-02-25"/>
+    <cosponsor id="405747" joined="1987-05-27"/>
+    <cosponsor id="300057" joined="1987-02-25"/>
+    <cosponsor id="406461" joined="1987-06-25"/>
+    <cosponsor id="406530" joined="1987-06-25"/>
+    <cosponsor id="406790" joined="1987-03-23"/>
+    <cosponsor id="407051" joined="1987-02-25"/>
+    <cosponsor id="400595" joined="1987-03-23"/>
+    <cosponsor id="408023" joined="1987-06-25"/>
+    <cosponsor id="408190" joined="1987-03-23"/>
+    <cosponsor id="400306" joined="1987-03-23"/>
+    <cosponsor id="400318" joined="1987-02-25"/>
+    <cosponsor id="400359" joined="1987-02-25"/>
+    <cosponsor id="409651" joined="1987-08-07"/>
+    <cosponsor id="410066" joined="1987-02-25"/>
+    <cosponsor id="410765" joined="1987-02-25"/>
+    <cosponsor id="411405" joined="1987-02-25"/>
+    <cosponsor id="411834" joined="1987-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG05" subcommittee="Domestic Marketing, Consumer Relations, and Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1246"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Consumer protection"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Fruit and fruit trade"/>
+    <term name="Imports"/>
+    <term name="Labeling"/>
+    <term name="Vegetables and vegetable trade"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Amends the Perishable Agricultural Commodities Act, 1930 to require commission merchants, dealers, and brokers to label imported perishable commodities with the name of the country of origin.</summary>
+</bill>

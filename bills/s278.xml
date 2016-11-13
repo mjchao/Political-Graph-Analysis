@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="278" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Exclusionary Rule Limitation Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 18 to limit the application of the exclusionary rule.</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-01-26"/>
+    <cosponsor id="403346" joined="1987-01-06"/>
+    <cosponsor id="300036" joined="1987-07-30"/>
+    <cosponsor id="300052" joined="1987-01-06"/>
+    <cosponsor id="300154" joined="1987-01-06"/>
+    <cosponsor id="405795" joined="1988-01-26"/>
+    <cosponsor id="410936" joined="1987-01-06"/>
+    <cosponsor id="411762" joined="1987-01-06"/>
+    <cosponsor id="412006" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Criminal procedure"/>
+    <term name="Evidence (Law)"/>
+    <term name="Exclusionary rule (Evidence)"/>
+    <term name="Searches and seizures"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Exclusionary Rule Limitation Act of 1987 - Amends the Federal criminal code to provide that evidence obtained by a search or seizure shall not be excluded in a Federal proceeding if the search or seizure was undertaken in an objectively reasonable belief that it was in conformity with the fourth amendment to the U.S. Constitution. States that evidence obtained pursuant to and within the scope of a warrant constitutes prima facie evidence of such a reasonable belief (unless the warrant was obtained through intentional and material misrepresentation). States that, except as provided by statute or a rule of procedure, evidence which is otherwise admissible shall not be excluded on the ground that the evidence was obtained in violation of a law, rule, or regulation.</summary>
+</bill>

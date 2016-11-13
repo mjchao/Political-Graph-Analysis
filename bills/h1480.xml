@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1480" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-09"/>
+  </status>
+  <introduced datetime="1987-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow employers a targeted job credit for employing certain older individuals.</title>
+  </titles>
+  <sponsor id="402833"/>
+  <cosponsors>
+    <cosponsor id="401418" joined="1987-04-06"/>
+    <cosponsor id="404213" joined="1987-04-06"/>
+    <cosponsor id="400192" joined="1987-04-06"/>
+    <cosponsor id="400595" joined="1987-10-30"/>
+    <cosponsor id="408109" joined="1987-05-13"/>
+    <cosponsor id="408621" joined="1987-04-06"/>
+    <cosponsor id="411948" joined="1987-04-06"/>
+    <cosponsor id="400440" joined="1987-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-09" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Employer incentives"/>
+    <term name="Employment tax credits"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Older workers"/>
+    <term name="Poor"/>
+    <term name="Social welfare"/>
+    <term name="Tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1987--Introduced.
+Amends the Internal Revenue Code to include certain low-income individuals aged 55 or older as members of a targeted group for purposes of the targeted jobs credit.</summary>
+</bill>

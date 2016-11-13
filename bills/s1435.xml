@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="1435" updated="2014-03-22T09:55:19-04:00">
+  <state datetime="1987-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-26"/>
+  </status>
+  <introduced datetime="1987-06-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize certain elements of the Yakima River Basin Water Enhancement Project, and for other purposes.</title>
+  </titles>
+  <sponsor id="403920"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-06-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-06-26">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Committee on Energy and Natural Resources requested executive comment from Energy Department.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Subcommittee on Water and Power. Hearings held at Yakima, Washington.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2814"/>
+    <bill relation="identical" session="100" type="h" number="2814"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Canals"/>
+    <term name="Dams"/>
+    <term name="Irrigation"/>
+    <term name="Reservoirs"/>
+    <term name="Washington State"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/1987--Introduced.
+Authorizes the Secretary of the Interior to design, construct, operate, and maintain the following features of the Yakima River Basin Water Enhancement Project: (1) modification of existing radial gates at Cle Elum Dam; (2) a Kachess Lake to Keechelus Lake pipeline; (3) a reregulating reservoir of the Roza Division; and (4) facilities to automate and otherwise improve canal operations of the Sunnyside Division and the Wapato Indian Project; (5) facilities to automate the headgate, wasteways, and trashrack of the Chandler Power Canal to maintain operating controls for the Kennewick Irrigation District; and (6) storage facilities at the Cabin Creek site pending a preliminary analysis, a specified report to the Congress, and secretarial approval. Directs the Secretary to develop and submit a plan to the Congress for water conservation measures by recipients of irrigation water from the Yakima Enhancement Project. Authorizes appropriations. Requires non-Federal interests to fund 35 percent of construction costs. Authorizes appropriations to the Secretary for a feasibility study of certain other potential elements of the Yakima Enhancement Project.</summary>
+</bill>

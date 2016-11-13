@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="397" updated="2014-03-22T09:54:52-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Emergency Farm Credit Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Deposit Insurance Act.</title>
+  </titles>
+  <sponsor id="406188"/>
+  <cosponsors>
+    <cosponsor id="300023" joined="1987-03-17"/>
+    <cosponsor id="403669" joined="1987-03-25"/>
+    <cosponsor id="404219" joined="1987-03-30"/>
+    <cosponsor id="300056" joined="1987-03-18"/>
+    <cosponsor id="410588" joined="1987-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1310"/>
+    <bill relation="identical" session="100" type="h" number="1310"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Accounting"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Bank loans"/>
+    <term name="Business losses"/>
+    <term name="Depreciation and amortization"/>
+    <term name="Financial statements"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Emergency Farm Credit Act of 1987 - Amends the Federal Deposit Insurance Act to require Federal banking agencies to permit an agricultural bank to amortize over ten years any loss on a qualified agricultural loan that the bank would otherwise be required to show on an annual financial statement for 1984 through 1988. Allows such amortization only if there is no evidence that fraud or criminal abuse by the bank led to such losses. Requires a participating agricultural bank to maintain in its loan portfolio a percentage of agricultural loans not lower than such percentage as of January 1, 1985.</summary>
+</bill>

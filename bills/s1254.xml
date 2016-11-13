@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="1254" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-21"/>
+  </status>
+  <introduced datetime="1987-05-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Unemployment Tax Act to provide additional limitation on the reduction on the credit applicable to employers in certain States which have outstanding loan balances, and for other purposes.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="404598" joined="1987-05-21"/>
+    <cosponsor id="407663" joined="1987-06-30"/>
+    <cosponsor id="300084" joined="1987-05-21"/>
+    <cosponsor id="300092" joined="1987-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2801"/>
+    <bill relation="identical" session="100" type="h" number="2801"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="Labor and employment"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Tax credits"/>
+    <term name="Unemployment insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/1987--Introduced.
+Amends the Federal Unemployment Tax Act to lessen by 0.1 percent for taxable year 1987 the already applicable reduction in tax credits to an employer in a State when: (1) for each of the three preceding tax years the State had a balance of outstanding advances made to its unemployment account under title XII of the Social Security Act (account); and (2) for that same period, cumulative employer contributions to the account exceeded the amount paid out as unemployment benefits. Adds a 0.3 percent reduction to the tax credit reduction for tax year 1988 when: (1) the State meets the criteria established for the 1987 additional reduction; (2) the amount of employer contributions to the account for tax year 1987 exceeded the amount of unemployment benefit paid out of it; and (3) the Secretary of Labor makes certain determinations concerning the tax effort and solvency of the State's unemployment compensation system. Sets forth a special formula to be used for determining the reduction in total credits with respect to taxpayers in States upon the determination that the otherwise applicable reduction would result in the payment of additional taxes by such taxpayers in an amount exceeding the balance of the outstanding advances made to the account.</summary>
+</bill>

@@ -1,0 +1,139 @@
+<bill session="100" type="h" number="3621" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1988-11-02">VETOED:POCKET</state>
+  <status>
+    <unknown datetime="1988-11-02"/>
+  </status>
+  <introduced datetime="1987-11-09"/>
+  <titles>
+    <title type="short" as="introduced">Southern California Indian Land Transfer Act</title>
+    <title type="short" as="reported to house">Southern California Indian Land Transfer Act</title>
+    <title type="short" as="passed house">Southern California Indian Land Transfer Act</title>
+    <title type="short" as="passed senate" partial="1">Indian Development Finance Corporation Act</title>
+    <title type="short" as="passed senate" partial="1">Southern California Indian Land Transfer Act</title>
+    <title type="official" as="introduced">A bill to declare that certain lands located in California and held by the Secretary of the Interior are lands held in trust for the benefit of certain bands of Indians and to declare such lands to be part of the reservation with which they are contiguous.</title>
+  </titles>
+  <sponsor id="400191"/>
+  <cosponsors>
+    <cosponsor id="407320" joined="1987-11-09"/>
+    <cosponsor id="400601" joined="1987-11-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-09" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-25">
+      <text>Unfavorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-811.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Placed on Union Calendar No: 491.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-10">
+      <text>Received in the Senate and read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="1988-09-14">
+      <text>Committee on Indian Affairs. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <calendar datetime="1988-09-29">
+      <text>Committee on Indian Affairs. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-09-30">
+      <text>Committee on Indian Affairs. Reported to Senate by Senator Inouye with amendments. With written report No. 100-581.</text>
+    </action>
+    <calendar datetime="1988-09-30" calendar="Senate Legislative" under="General Orders" number="1047">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1047.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-01" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>House Disagreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Speaker Appointed Conferees: Udall, Richardson, Young (AK).</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Message on House action received in Senate and held at desk: House requests a conference.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Senate insists on its amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Senate agreed to request for conference. Appointed conferees. Inouye; Melcher; DeConcini; Burdick; Daschle; Evans; Murkowski; McCain.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Conference Report 100-1084 Filed in House.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>House Agreed to Conference Report by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Conference papers: Senate report and managers' statement and message on House action held at the desk in Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="conference" datetime="1988-10-14" where="s" result="pass" state="CONFERENCE:PASSED:SENATE">
+      <text>Senate agreed to conference report by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <vetoed datetime="1988-11-02" state="VETOED:POCKET" pocket="1">
+      <text>Pocket Vetoed by President.</text>
+    </vetoed>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="California"/>
+    <term name="Economic development"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to Indians"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Government and business"/>
+    <term name="Government corporations"/>
+    <term name="Government lending"/>
+    <term name="Government securities"/>
+    <term name="Grazing"/>
+    <term name="Indian lands"/>
+    <term name="Land transfers"/>
+    <term name="Licenses"/>
+    <term name="Minority business enterprises"/>
+    <term name="Right-of-way"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Conference report filed in House.
+(Conference report filed in House, H. Rept. 100-1084) Title I: Southern California Indian Land Transfer - Southern California Indian Land Transfer Act - Declares that all Federal right, title, and interest in specified lands (including all improvements and appurtenances to such lands) of certain groups or bands of Mission Indians (located in California) are to be held in trust by the United States for the benefit of such groups or bands and made a part of their respective reservations. Sets forth specific land descriptions. Provides that nothing in this Act shall affect any person's right, title, or interest in such land (including any right-of-way, mining claim, or grazing permit) in effect on the day before the enactment of this Act. Authorizes any person who holds a valid grazing permit and lease with respect to such lands to have the right to purchase (at fair market value) such lands within one year from the date of the enactment of this Act. Requires the Secretary of the Interior, before the end of the 30-day period beginning on the date of the enactment of this Act, to notify such persons with regard to the right to purchase such lands. Provides that amounts derived (after the enactment of this Act) from sales, bonuses, royalties, and rentals with respect to such lands shall be available for use by the groups or bands of Mission Indians. Subjects such lands to the existing U.S. laws relating to Indian reservations. Title II: Indian Development Finance Corporation - Subtitle A: General Provisions - Indian Development Finance Corporation Act - Declares the policy of the Congress that the Government should assist the Indian people in their efforts to break free from the devastating effects of poverty and unemployment and achieve economic self sufficiency by establishing a federally chartered, mixed ownership development financing institution. Subtitle B: Establishment of Corporation - Establishes the Indian Development Finance Corporation. Requires the Corporation to provide development capital and technical and managerial assistance for new and existing Indian businesses and to encourage Indian tribes to participate in the Corporation by owning its equity securities. Authorizes the Corporation to make loans to or purchase, insure, or discount obligations of Indian businesses if they meet specified financial conditions. Directs the Corporation to provide the credit needed by Indian businesses at the lowest reasonable cost, taking into account the Corporation's cost of money, necessary reserve, and expenses. Authorizes the Corporation to guarantee up to 90 percent of the principal and interest of any loan made to an Indian business by a State or federally chartered lending institution on terms permissible for Corporation loans. Authorizes the Corporation to purchase no more than 30 percent of the equity or ownership in an Indian business and to supervise or participate in the management of such business. Sets forth administrative provisions concerning the Corporation. Requires the Corporation's Board of Directors to submit annual reports to the Congress on its capital, operations, and financial condition, the first of which shall include a five-year organizational development plan. Establishes the Advisory Council to the Indian Development Finance Corporation to provide advice on the policies and operations of the Corporation. Subtitle C: Capitalization - Authorizes the Corporation to issue stock. Allows shares of stock in the corporation to be issued to and held by Indian Tribes and the United States only. Sets forth provisions governing the sale of Corporation stock and the purchase of stock by the Secretary of the Treasury. Authorizes the Corporation to issue a limited amount of bonds and notes. Subtitle D: Authorization of Appropriations - Authorizes appropriations for general operating expenses and for the purchase of Corporation stock by the Secretary. Makes provision for delayed funding if no funds are appropriated under this subtitle for FY 1989.</summary>
+</bill>

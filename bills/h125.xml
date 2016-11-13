@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="125" updated="2014-03-22T09:51:09-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide a survivor annuity to surviving spouses of members of the reserve components of the Armed Forces who died without having attained age sixty before October 1, 1978, but after they became eligible for retired pay for nonregular service.</title>
+  </titles>
+  <sponsor id="403529"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1988-02-26">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Military dependents"/>
+    <term name="Military pensions"/>
+    <term name="Survivors' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Extends coverage under the Survivor Benefit Plan to surviving spouses of certain members of the military reserves who died before reaching age 60 but who would otherwise have been eligible for a military pension.</summary>
+</bill>

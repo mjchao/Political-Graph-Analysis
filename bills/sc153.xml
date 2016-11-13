@@ -1,0 +1,38 @@
+<bill session="100" type="sc" number="153" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to correct the enrollment of S. 659.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Legislation"/>
+    <term name="Pesticide regulation"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Introduced.
+Makes corrections in the enrollment of S. 659 (Federal Insecticide, Fungicide, and Rodenticide Act Amendments of 1988).</summary>
+</bill>

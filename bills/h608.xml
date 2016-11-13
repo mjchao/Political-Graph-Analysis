@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="608" updated="2014-03-22T09:51:29-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Small Business Meat Producer and Marketer Protection Act of 1989</title>
+    <title type="official" as="introduced">A bill to amend the Federal Election Campaign Act of 1971 to reduce the amount that a multicandidate political committee may contribute to a candidate in a Federal election and to limit the total amount that a candidate for the office of Senator or Representative may accept from multicandidate political committees in an election.</title>
+  </titles>
+  <sponsor id="400540"/>
+  <cosponsors>
+    <cosponsor id="400537" joined="1988-02-17"/>
+    <cosponsor id="408575" joined="1987-11-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Congressional elections"/>
+    <term name="Political action committees"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Amends the Federal Election Campaign Act of 1971 to reduce from $5,000 to $1,000 the limitation on a multicandidate political committee contribution to an election candidate. Limits to $50,000 the aggregate sum which candidates for congressional office may accept from multicandidate political committees.</summary>
+</bill>

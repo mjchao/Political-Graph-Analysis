@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="2799" updated="2014-03-22T09:55:55-04:00">
+  <state datetime="1988-10-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building to be constructed in Lakeland, Florida, as the "Lawton Chiles, Jr., Federal Building".</title>
+  </titles>
+  <sponsor id="300046"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1988-11-17">
+      <text>For Further Action See S.2186.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2186"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal office buildings"/>
+    <term name="Florida"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1988--Introduced.
+Designates the Federal building to be constructed in Lakeland, Florida, which will replace the existing Federal building, as the Lawton Chiles, Jr., Federal Building.</summary>
+</bill>

@@ -1,0 +1,93 @@
+<bill session="100" type="h" number="4458" updated="2014-03-22T09:53:17-04:00">
+  <state datetime="1988-08-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-22"/>
+  </status>
+  <introduced datetime="1988-04-26"/>
+  <titles>
+    <title type="short" as="introduced">Parimutuel Licensing Simplification Act of 1988</title>
+    <title type="short" as="reported to house">Parimutuel Licensing Simplification Act of 1988</title>
+    <title type="short" as="passed house">Parimutuel Licensing Simplification Act of 1988</title>
+    <title type="short" as="enacted">Parimutuel Licensing Simplification Act of 1988</title>
+    <title type="official" as="introduced">A bill to simplify the process of obtaining licensing by States for participation in parimutuel wagering by allowing consolidated requests to be made to the Federal Government for identification and criminal history records relating to the applicant for such licensing.</title>
+  </titles>
+  <sponsor id="405626"/>
+  <cosponsors>
+    <cosponsor id="407306" joined="1988-04-26"/>
+    <cosponsor id="410245" joined="1988-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-26" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-02" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-832.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-10">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-08-11" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-08-11">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-08-12">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-08-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-22" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-413" type="public" datetime="1988-08-22">
+      <text>Became Public Law No: 100-413.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2611"/>
+  </relatedbills>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information"/>
+    <term name="Fingerprints"/>
+    <term name="Gambling"/>
+    <term name="Gambling and Lotteries"/>
+    <term name="Horse racing"/>
+    <term name="Licenses"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>8/8/1988--Passed House amended.
+(Measure passed House, amended) Parimutuel Licensing Simplification Act of 1988 - Allows any association of State officials regulating parimutuel wagering, for licensing and employment purposes, to submit fingerprints to the Attorney General for identification and criminal history records checks.</summary>
+</bill>

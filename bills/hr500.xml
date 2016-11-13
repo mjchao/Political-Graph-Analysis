@@ -1,0 +1,61 @@
+<bill session="100" type="hr" number="500" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-08-03">REPORTED</state>
+  <status>
+    <unknown datetime="1988-08-03"/>
+  </status>
+  <introduced datetime="1988-07-26"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing amounts from the contingent fund of the House for further expenses of investigations and studies by the Committee on Standards of Official Conduct in the second session of the One Hundredth Congress.</title>
+  </titles>
+  <sponsor id="400580"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-26" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Referred to Subcommittee on Accounts.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-08-04">
+      <text>Reported to House (Amended) by House Committee on House Administration.  Report No: 100-818.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Placed on House Calendar No: 195.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 408 - 0 (Record Vote No: 274).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA01" subcommittee="Accounts" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Government consultants"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments>
+    <amendment number="h856"/>
+  </amendments>
+  <summary>8/10/1988--Passed House amended.
+(Measure passed House, amended, roll call #274 (408-0)) Provides amounts to the House Committee on Standards of Official Conduct for the further expenses of investigations and studies. Allows the use of such funds for the procurement of consultant services.</summary>
+</bill>

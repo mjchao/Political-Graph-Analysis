@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="1281" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Public Law 97-360, and for other purposes.</title>
+  </titles>
+  <sponsor id="300012"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-09-17"/>
+    <cosponsor id="402004" joined="1987-10-20"/>
+    <cosponsor id="407268" joined="1987-06-30"/>
+    <cosponsor id="408597" joined="1987-09-17"/>
+    <cosponsor id="410242" joined="1987-06-30"/>
+    <cosponsor id="411271" joined="1987-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="American technical assistance"/>
+    <term name="Hospital ships"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Surplus government property"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Amends a specified Federal law relating to the use of surplus Government vessels for health and humanitarian services to identify those ships, currently in the National Defense Reserve Fleet and with the Maritime Administration, which are to be used for such purposes. Authorizes appropriations to refit such vessels for such purposes, under certain conditions.</summary>
+</bill>

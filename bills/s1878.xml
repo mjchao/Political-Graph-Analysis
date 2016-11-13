@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="1878" updated="2014-03-22T09:55:27-04:00">
+  <state datetime="1988-10-05">REPORTED</state>
+  <status>
+    <unknown datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1987-11-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Thomas Nelson Flanagan.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-11-23">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Subcommittee on Courts and Administrative Practice. Approved for full committee consideration without amendment favorably.</text>
+    </action>
+    <calendar datetime="1988-10-05" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-10-05">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden with amendments. Without written report.</text>
+    </action>
+    <calendar datetime="1988-10-05" calendar="Senate Legislative" under="General Orders" number="1073">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1073.</text>
+    </calendar>
+    <action datetime="1988-10-12">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>11/18/1987--Introduced.
+Confers jurisdiction upon the United States Claims Court to hear, determine, and render judgment on the claim of a named individual against the United States arising out of his wrongful discharge from the U.S. Naval Reserve.</summary>
+</bill>

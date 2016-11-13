@@ -1,0 +1,182 @@
+<bill session="100" type="s" number="908" updated="2014-03-22T09:55:05-04:00">
+  <state datetime="1988-10-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-18"/>
+  </status>
+  <introduced datetime="1987-04-03"/>
+  <titles>
+    <title type="short" as="introduced">Inspector General Act Amendments of 1987</title>
+    <title type="short" as="passed house">Inspector General Act Amendments of 1988</title>
+    <title type="short" as="passed house" partial="1">Government Printing Office Inspector General Act of 1988</title>
+    <title type="short" as="reported to senate">Inspector General Act Amendments of 1987</title>
+    <title type="short" as="passed senate">Inspector General Act Amendments of 1988</title>
+    <title type="short" as="enacted" partial="1">Government Printing Office Inspector General Act of 1988</title>
+    <title type="short" as="enacted" partial="1">Inspector General Act Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Inspector General Act of 1978.</title>
+  </titles>
+  <sponsor id="404598"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-04-03"/>
+    <cosponsor id="402495" joined="1987-04-03"/>
+    <cosponsor id="402727" joined="1987-04-03"/>
+    <cosponsor id="405321" joined="1987-04-03"/>
+    <cosponsor id="406183" joined="1987-06-16"/>
+    <cosponsor id="300066" joined="1987-04-03"/>
+    <cosponsor id="407786" joined="1987-04-03"/>
+    <cosponsor id="408252" joined="1987-04-03"/>
+    <cosponsor id="408939" joined="1987-04-03"/>
+    <cosponsor id="400565" joined="1987-04-03"/>
+    <cosponsor id="409456" joined="1987-04-03"/>
+    <cosponsor id="409580" joined="1987-04-03"/>
+    <cosponsor id="300094" joined="1987-04-03"/>
+    <cosponsor id="410936" joined="1987-04-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Committee on Governmental Affairs. Hearings held.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Committee on Governmental Affairs. Hearings held. Hearings printed:  S.Hrg. 100-180.</text>
+    </action>
+    <calendar datetime="1987-06-30" state="REPORTED">
+      <text>Committee on Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-08-07">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with an amendment in the nature of a substitute. With written report No. 100-150. Additional views filed.</text>
+    </action>
+    <calendar datetime="1987-08-07" calendar="Senate Legislative" under="General Orders" number="301">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 301.</text>
+    </calendar>
+    <action datetime="1987-09-09">
+      <text>Star Print ordered Rpt. 100-150.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>The committee amendment was modified.</text>
+    </action>
+    <vote how="roll" type="vote" roll="15" datetime="1988-02-02" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 85-0. Record Vote No: 15.</text>
+    </vote>
+    <action datetime="1988-02-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-02-17">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>House Committee on Government Operations Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-07-26" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-07-26">
+      <text>House Incorporated H.R.4054 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-07-28">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Senate disagreed to House amendments, requested a conference and appointed conferees. Glenn; Chiles; Sasser; Pryor; Roth; Stevens; Heinz.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Senate appointed conferees Breaux; Simpson for the purposes of the nuclear regulatory provisions only.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>House Insisted on its Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>House Agreed to Request for Conference and Speaker Appointed Conferees: Brooks, Conyers, Synar, Wise, Erdreich, Horton, Walker, Clinger.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Conference Report 100-1020 Filed in House.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Conferees agreed to file conference report.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Conference papers: Senate report and managers' statement and official papers held at the desk in Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="conference" datetime="1988-10-04" where="s" result="pass" state="CONFERENCE:PASSED:SENATE">
+      <text>Senate agreed to conference report by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>Senate receded from its disagreement to the amendment of the House to the amendment to the title by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>House Agreed to Conference Report by Yea-Nay Vote: 418 - 0 (Record Vote No: 429).</text>
+    </action>
+    <topresident datetime="1988-10-05">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-06">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-504" type="public" datetime="1988-10-18">
+      <text>Became Public Law No: 100-504.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4054"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting and auditing"/>
+    <term name="Auditing"/>
+    <term name="Coast guard"/>
+    <term name="Congressional agencies"/>
+    <term name="Department of Energy"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of the Treasury"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal Emergency Management Agency"/>
+    <term name="Federal budget process"/>
+    <term name="Federal budgets"/>
+    <term name="Federal reserve system"/>
+    <term name="Government paperwork"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Inspectors general"/>
+    <term name="Internal revenue law"/>
+    <term name="Nuclear Regulatory Commission"/>
+    <term name="Oaths"/>
+    <term name="Office of Personnel Management"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal employees"/>
+    <term name="Postal service"/>
+    <term name="Printing"/>
+    <term name="Railroad Retirement Board"/>
+    <term name="Salaries"/>
+    <term name="Tax returns"/>
+    <term name="United States Postal Service"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1398"/>
+  </amendments>
+  <summary>9/30/1988--Conference report filed in House.
+(Conference report filed in House, H. Rept. 100-1020) Title I: Inspector General Act Amendments - Inspector General Act Amendments of 1988 - Amends the Inspector General Act of 1978 to establish an Office of Inspector General in the Departments of Justice and of the Treasury and in the Federal Emergency Management Agency. Conforms the Offices of Inspector General in the Departments of Energy and Health and Human Services and in the Railroad Retirement Board to the Inspector General Act of 1978. Establishes an Office of Inspector General in the Nuclear Regulatory Commission and in the Office of Personnel Management. Transfers to the new Offices of Inspector General the functions of specified existing audit and investigation units. Authorizes the Chairman of the Nuclear Regulatory Commission to delegate supervision of the Inspector General only to another member of the Commission. Authorizes the Secretary of the Treasury to restrict the Inspector General's activities when they involve sensitive information relating to ongoing criminal investigations, undercover operations, the identity of confidential sources, national security and intelligence and counterintelligence matters, and deliberations and decisions on certain policy matters. Grants the Inspector General of the Department of the Treasury oversight responsibility for internal investigations performed by the Office of Internal Affairs of the Bureau of Alcohol, Tobacco and Firearms, the Office of Internal Affairs of the United States Customs Service, the Office of Inspections of the United States Secret Service, and internal audits as well as internal investigations performed by the Office of Assistant Commissioner (Inspection) of the Internal Revenue Service. Provides for procedures governing the Inspector General's access to taxpayer returns and return information. Declares that no audit or investigation by the Inspector General or of the IRS shall affect a final decision of the Secretary under the internal revenue laws. Subjects the Inspector General of the Department of Justice to the authority, direction, and control of the Attorney General with respect to audits or investigations, or the issuance of subpoenas, which require access to certain sensitive information. Requires the Inspector General to give particular regard to the activities of the Counsel, Office of Professional Responsibility and the audit, internal investigative, and inspection units with a view to avoiding duplicative efforts. Requires the Attorney General to transmit any report required to be transmitted to the appropriate congressional committees to the Committees on the Judiciary and Governmental Affairs of the Senate and the Committees on the Judiciary and Government Operations of the House. Authorizes the Attorney General to transfer 20 investigation positions from the Office of Inspector General to the Office of Professional Responsibility for employee misconduct investigations. Provides for uniform salaries for Inspectors General. Designates certain Federal entities in which there shall be established an Office of Inspector General. Requires the Inspector General to be appointed by, report to, and be under the general supervision of the head of each Federal entity. Requires the head of any Federal entity who removes an Inspector General from office to communicate the reasons for such removal to the Congress. Declares the Chief Postal Inspector of the United States Postal Service to be the Inspector General of the U.S. Postal Service and shall be appointed by, report to, and be under the general supervision of the Postmaster General. Declares that the Chief Postal Inspector may be removed or transferred from office with the concurrence of the Governors of the Postal Service. Requires that the Congress be notified of the reasons for such removal or transfer. Describes the authority of Inspectors General to hire personnel. Provides that the Inspector General of the Board of Governors of the Federal Reserve System is subject to limitations similar to those placed on the Inspector General of the Department of the Treasury for activities involving sensitive information. Requires the head of each Federal entity to report annually to the Director of the Office of Management and Budget on specified audit matters. Expands the scope of information to be included in semiannual reports of each Inspector General. Requires semiannual reports listing audits that were not resolved within one year after the date on which an audit determination was made. Authorizes Inspectors General to administer to or take from any person an oath, affirmation, or affidavit when necessary. Requires the President to include in the budget submission a separate appropriation account for appropriations for each Office of Inspector General. Requires that an audit entity of the Federal Government perform any reviews of Offices of Inspector General to determine whether internal controls are in place and whether audit standards, policies, and procedures are being followed. Provides that when the Coast Guard operates as a service of a department or agency other than the Department of Defense, a member of the Coast Guard shall be deemed to be an employee of such department or agency. Requires a report to the Director of the Office of Management and Budget and to the Congress by the head of each designated Federal entity on that entity's status in implementing an Office of Inspector General. Title II: Government Printing Office Inspector General - Government Printing Office Inspector General Act of 1988 - Establishes an Office of Inspector General in the Government Printing Office to: (1) conduct and supervise audits and investigations relating to the Government Printing Office; (2) provide leadership and coordination and recommend policies to promote economy, efficiency, and effectiveness; and (3) provide a means of keeping the Public Printer and the Congress fully and currently informed about problems and deficiencies. Provides for the appointment of the Inspector General by the Public Printer and sets forth the duties and responsibilities of such Office.</summary>
+</bill>

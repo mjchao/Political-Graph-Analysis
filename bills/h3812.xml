@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="3812" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1987-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-12-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to protect employees and promote aircraft safety.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-03-28"/>
+    <cosponsor id="401417" joined="1988-04-21"/>
+    <cosponsor id="401418" joined="1988-03-28"/>
+    <cosponsor id="300011" joined="1988-03-28"/>
+    <cosponsor id="403314" joined="1988-07-13"/>
+    <cosponsor id="403726" joined="1988-04-21"/>
+    <cosponsor id="403776" joined="1988-04-21"/>
+    <cosponsor id="400126" joined="1988-03-28"/>
+    <cosponsor id="405236" joined="1988-04-21"/>
+    <cosponsor id="406873" joined="1988-04-21"/>
+    <cosponsor id="400595" joined="1988-04-21"/>
+    <cosponsor id="407399" joined="1988-04-21"/>
+    <cosponsor id="408023" joined="1988-03-28"/>
+    <cosponsor id="408407" joined="1988-07-13"/>
+    <cosponsor id="400314" joined="1988-04-21"/>
+    <cosponsor id="409353" joined="1988-03-28"/>
+    <cosponsor id="400378" joined="1988-07-13"/>
+    <cosponsor id="400387" joined="1988-03-28"/>
+    <cosponsor id="400612" joined="1988-03-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-18" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-12-31">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1987-12-31">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Subcommittee Hearings Held.  Hearings printed: H. Hrg. 100-54.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>See H.R.5073.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5073"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Employee rights"/>
+    <term name="Labor and employment"/>
+    <term name="Public safety"/>
+    <term name="Whistle blowing"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Introduced.
+Amends the Federal Aviation Act of 1958 to prohibit discriminatory adverse actions by employers against aircraft personnel who have filed complaints or proceedings regarding aircraft safety. Sets forth a grievance procedure for the investigation of discrimination grievances.</summary>
+</bill>

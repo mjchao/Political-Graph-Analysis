@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="5284" updated="2014-03-22T09:53:36-04:00">
+  <state datetime="1988-09-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-13"/>
+  </status>
+  <introduced datetime="1988-09-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the inventory control and accounting procedures used in foreign trade zones.</title>
+  </titles>
+  <sponsor id="400302"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-13" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Accounting"/>
+    <term name="Exports"/>
+    <term name="Feedstock"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Free ports and zones"/>
+    <term name="Imports"/>
+    <term name="Inventories"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum industry"/>
+  </subjects>
+  <amendments/>
+  <summary>9/13/1988--Introduced.
+Amends the Foreign Trade Zones Act to set forth provisions concerning inventory control and accounting procedures used in foreign trade zones with respect to feedstocks for petroleum manufacturing.</summary>
+</bill>

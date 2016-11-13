@@ -1,0 +1,54 @@
+<bill session="100" type="hc" number="395" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-10-21"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress regarding the habitability of Rongelap Atoll.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="403314" joined="1988-10-21"/>
+    <cosponsor id="411025" joined="1988-10-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-21" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on Insular and International Affairs.</text>
+    </action>
+    <action datetime="1988-11-07">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII07" subcommittee="Insular and International Affairs" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Territories (U.S.)"/>
+    <term name="Armed forces and national security"/>
+    <term name="Child health"/>
+    <term name="Chromosomes"/>
+    <term name="Defense articles"/>
+    <term name="Marshall Islands"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear weapons"/>
+    <term name="Plutonium"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive pollution"/>
+    <term name="Trust Territory of the Pacific Islands"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1988--Introduced.
+Reaffirms the commitment of the Congress to the Government of the Marshall Islands and the Rongelap people that it is U.S. policy to take actions to restore the habitability of their homeland. Concludes that: (1) the data in the 1982 Department of Energy radiation study is inadequate and that the conclusions as to habitability are not supported by such data; (2) the comprehensive, independent study of Rongelap pursuant to the Veterans' Compensation Rate Increase and Job Training Amendments of 1985 should be immediately undertaken, should examine all the Rongelap Atoll islands, and should specifically examine radiation and related problems with respect to the children on Rongelap, past cumulative doses of plutonium, and chromosome damage to the entire Rongelap population; and (3) the Secretary of the Interior and the Secretary of Energy should make available to the Government of the Marshall Islands such sums as may be necessary to contract for such study.</summary>
+</bill>

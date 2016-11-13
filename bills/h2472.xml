@@ -1,0 +1,107 @@
+<bill session="100" type="h" number="2472" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1988-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-03"/>
+  </status>
+  <introduced datetime="1987-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide authorization of appropriations for activities of the National Telecommunications and Information Administration.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="409237" joined="1987-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-19" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-09">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-362.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Placed on Union Calendar No: 222.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1987-10-14" calendar="Senate Legislative" under="General Orders" number="377">
+      <text>Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 377.</text>
+    </calendar>
+    <action datetime="1988-08-04">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Senate struck all after the Enacting Clause and substituted the language of S. 828 amended.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-08-04" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-584" type="public" datetime="1988-11-03">
+      <text>Became Public Law No: 100-584.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="828"/>
+    <bill relation="identical" session="100" type="s" number="828"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Affirmative action programs"/>
+    <term name="Auditing"/>
+    <term name="Authorization"/>
+    <term name="Communication satellites"/>
+    <term name="Department of Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Government paperwork"/>
+    <term name="Grants-in-aid"/>
+    <term name="Licenses"/>
+    <term name="Minority employment"/>
+    <term name="Pacific area"/>
+    <term name="Public television"/>
+    <term name="Telecommunication policy"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments/>
+  <summary>8/4/1988--Passed Senate amended.
+(Measure passed Senate, amended, in lieu of S. 828) Authorizes appropriations for the National Telecommunications and Information Administration (NTIA) for FY 1988 and 1989. Requires the NTIA to establish semiannual goals for recruiting and hiring minorities and women for its staff and to make semiannual progress reports to specified House and Senate committees. Requires the Administrator of the NTIA to: (1) discuss with the Federal Communications Commission (FCC) the feasibility of awarding public television facilities program grants for low-power translator stations and television translator stations (conditional on the FCC's approval of a license for the station); (2) work with the FCC to expedite the schedules for considering such grants and licenses; and (3) report to the Congress on the implementation of these requirements. Directs the Secretary of Commerce to acquire the satellite services necessary to re-establish the Pan-Pacific Educational and Cultural Experiments by Satellite (PEACESAT) program. Permits the PEACESAT program to operate for three years over the UHF frequencies currently assigned to the Department of the Navy. Directs the Secretary to give the PEACESAT program funding adequate for its operation. Requires PEACESAT managers to maintain the records needed to permit the Secretary to conduct an audit. Authorizes FY 1988 and 1989 funds for acquiring and developing the necessary satellite services for PEACESAT. Requires the Secretary to consult with Federal agencies, PEACESAT program representatives, and other affected parties concerning a long-term solution to the communication needs of the Pacific Ocean region and to report to the Congress on results within one year after enactment of this Act.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="4564" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-10"/>
+  </status>
+  <introduced datetime="1988-05-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to provide for assistance to foreign countries for enforcement of drug laws.</title>
+  </titles>
+  <sponsor id="400369"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-10" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-05-13">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-05-13">
+      <text>Referred to Subcommittee on Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS06" subcommittee="Investigations" name="House Armed Services"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="American military assistance"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Drugs and narcotics"/>
+    <term name="International affairs"/>
+    <term name="Narcotic traffic"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Introduced.
+Requires the Secretary of Defense, upon the request of a foreign government and the recommendation of the Drug Enforcement Administration (DEA), to provide equipment to, or assign members of the armed forces to assist, the foreign government in the enforcement of drug laws. Specifies that any such equipment or assistance shall be provided in accordance with a plan prepared jointly by the foreign government, DEA, and the Department of Defense, and approved by both the President and the head of the foreign government. Provides that the foreign government shall pay the costs of such equipment or assistance unless the President finds that the foreign government cannot afford such costs.</summary>
+</bill>

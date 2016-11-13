@@ -1,0 +1,81 @@
+<bill session="100" type="h" number="526" updated="2014-03-22T09:51:23-04:00">
+  <state datetime="1987-12-18">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Kumari Rajlakshmi Bais.</title>
+  </titles>
+  <sponsor id="402710"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-06" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-06">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-346.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Placed on Private Calendar No: 18.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Passed House (Amended) by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+    <calendar datetime="1987-12-03">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-12-10">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1987-12-10" calendar="Senate Legislative" under="General Orders" number="481">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 481.</text>
+    </calendar>
+    <action datetime="1987-12-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-18" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1367"/>
+  </amendments>
+  <summary>1/7/1987--Introduced.
+Authorizes the classification of a named individual as a child within the meaning of the Immigration and Nationality Act.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="1551" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1987-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="short" as="introduced">AIDS Exposure Protection Act</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to establish a requirement that any public recipient of certain Federal grants for the prevention of acquired immune deficiency syndrome must agree to carry out contact tracing with respect to cases of acquired immune deficiency syndrome.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="403184" joined="1987-04-08"/>
+    <cosponsor id="400104" joined="1987-04-08"/>
+    <cosponsor id="406530" joined="1987-04-08"/>
+    <cosponsor id="410531" joined="1987-04-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Communicable diseases"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Grants-in-aid"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+AIDS Exposure Protection Act - Amends the Public Health Service Act to prohibit the Secretary of Health and Human Services, acting through the Director of the Centers for Disease Control, from making certain grants to a public entity unless the entity agrees to: (1) establish and implement a program of contact tracing with respect to acquired immune deficiency syndrome (AIDS) cases; and (2) spend at least ten percent of such grant in carrying out such a program.</summary>
+</bill>

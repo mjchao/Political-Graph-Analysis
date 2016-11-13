@@ -1,0 +1,120 @@
+<bill session="100" type="h" number="2792" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1988-06-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-06-20"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clarify Indian treaties, Executive orders, and Acts of Congress with respect to Indian fishing rights.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1987-07-21"/>
+    <cosponsor id="300017" joined="1987-08-07"/>
+    <cosponsor id="402435" joined="1987-06-25"/>
+    <cosponsor id="400100" joined="1987-06-25"/>
+    <cosponsor id="404213" joined="1987-07-21"/>
+    <cosponsor id="300058" joined="1987-08-04"/>
+    <cosponsor id="400256" joined="1987-07-21"/>
+    <cosponsor id="400278" joined="1987-06-25"/>
+    <cosponsor id="407721" joined="1987-06-25"/>
+    <cosponsor id="407967" joined="1987-06-25"/>
+    <cosponsor id="400299" joined="1987-09-23"/>
+    <cosponsor id="409205" joined="1987-07-21"/>
+    <cosponsor id="409500" joined="1987-09-23"/>
+    <cosponsor id="409901" joined="1987-06-25"/>
+    <cosponsor id="410589" joined="1987-09-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-25" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-21" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-09-21">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-312 (Part I).</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Referred to Subcommittee on Select Revenue Measures.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-09">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-15">
+      <text>Reported to House (Amended) by House Committee on Ways and Means. Report No: 100-312 (Part II).</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Placed on Union Calendar No: 428.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-21">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee on Taxation and Debt Management. Hearings held.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Committee on Finance. Ordered favorably reported S. 2238 in lieu of this measure.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>See H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSWM05" subcommittee="Select Revenue Measures" name="House Ways and Means"/>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Markup, In Committee"/>
+    <committee activity="Hearings" code="SSFI06" subcommittee="Taxation and Debt Management" name="Senate Finance"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+    <bill relation="unknown" session="100" type="s" number="2238"/>
+    <bill relation="unknown" session="100" type="s" number="2283"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal preemption"/>
+    <term name="Income tax"/>
+    <term name="Indian hunting and fishing rights"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local taxation"/>
+    <term name="Social security taxes"/>
+    <term name="State taxation"/>
+    <term name="States"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/1988--Passed House amended.
+(Measure passed House, amended) Amends the Internal Revenue Code to prohibit the imposition of any Federal income or employment tax in connection with income derived by an Indian or Indian tribe from the exercise of fishing rights secured by treaty, Executive Order, or Act of Congress. Amends the Social Security Act and other Federal law to direct that any treaty, Executive Order, or Act of Congress securing Indian fishing rights be construed to prohibit the imposition of any State or local income tax on income derived from the exercise of the protected right if such income is exempt from Federal income taxation.</summary>
+</bill>

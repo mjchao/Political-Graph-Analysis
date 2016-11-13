@@ -1,0 +1,56 @@
+<bill session="100" type="s" number="592" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Catastrophic Illness Coverage Act</title>
+    <title type="official" as="introduced">A bill to provide for Medicare catastrophic illness coverage, and for other purposes.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1987-02-26"/>
+    <cosponsor id="401391" joined="1987-02-26"/>
+    <cosponsor id="300023" joined="1987-02-26"/>
+    <cosponsor id="403171" joined="1987-02-26"/>
+    <cosponsor id="300031" joined="1987-02-26"/>
+    <cosponsor id="403346" joined="1987-04-06"/>
+    <cosponsor id="403669" joined="1987-02-26"/>
+    <cosponsor id="300052" joined="1987-03-06"/>
+    <cosponsor id="405321" joined="1987-04-06"/>
+    <cosponsor id="300059" joined="1987-02-26"/>
+    <cosponsor id="300071" joined="1987-02-26"/>
+    <cosponsor id="407622" joined="1987-02-26"/>
+    <cosponsor id="400563" joined="1987-02-26"/>
+    <cosponsor id="408597" joined="1987-02-26"/>
+    <cosponsor id="408898" joined="1987-02-26"/>
+    <cosponsor id="408970" joined="1987-02-26"/>
+    <cosponsor id="409225" joined="1987-02-26"/>
+    <cosponsor id="300157" joined="1987-04-10"/>
+    <cosponsor id="411762" joined="1987-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1245"/>
+    <bill relation="identical" session="100" type="h" number="1245"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Catastrophic health insurance"/>
+    <term name="Health"/>
+    <term name="Long-term care"/>
+    <term name="Medical economics"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Medicare Catastrophic Illness Coverage Act - Amends part A (Hospital Insurance) of title XVIII (Medicare) of the Social Security Act to remove durational limitations on the coverage of inpatient hospital services. Provides coverage of post-hospital extended care services for up to 100 days each year. (Currently such services are provided for up to 100 days during a "spell of illness.") Requires a beneficiary to pay a deductible for each of the first two inpatient hospital admissions in a year. (Currently an inpatient hospital deductible is required for each "spell of illness".) Eliminates the coinsurance requirement for inpatient hospital services and outpatient hospital extended care services. Amends part B (Supplementary Medical Insurance) of the Medicare program to cover the amount by which a part B enrollee's out-of-pocket expenses exceed $2,000 in 1988, adjusting such ceiling thereafter to reflect changes in total Medicare per capita expenses. Excludes from the computation of a beneficiary's out-of-pocket expenses amounts above the full part B payment to physicians and others who do not accept assignment. Includes in the computation of the part B premium an amount equal to the Secretary of Health and Human Services' estimate of a part B enrollee's share of the benefits and administrative costs which result from this Act's catastrophic care coverage and beneficiary expense ceiling. Provides for the transfer to the Federal Hospital Insurance Trust Fund of part B premium revenues which are attributable to the catastrophic care coverage this Act establishes under part A of the Medicare program.</summary>
+</bill>

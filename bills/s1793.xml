@@ -1,0 +1,68 @@
+<bill session="100" type="s" number="1793" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-20">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-10-20"/>
+  </status>
+  <introduced datetime="1987-10-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to reinstate and make permanent the disregard of non-profit organizations' in-kind assistance to SSI and AFDC recipients.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-10-20"/>
+    <cosponsor id="401709" joined="1987-10-16"/>
+    <cosponsor id="402412" joined="1987-10-20"/>
+    <cosponsor id="403171" joined="1987-10-20"/>
+    <cosponsor id="403515" joined="1987-10-20"/>
+    <cosponsor id="403669" joined="1987-10-20"/>
+    <cosponsor id="407786" joined="1987-10-20"/>
+    <cosponsor id="408939" joined="1987-10-16"/>
+    <cosponsor id="411271" joined="1987-10-20"/>
+    <cosponsor id="300099" joined="1987-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Senate Committee on Finance discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Provisions of Measure Incorporated Into H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Discharged"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Aid to dependent children"/>
+    <term name="Charitable contributions"/>
+    <term name="Charities"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public assistance programs"/>
+    <term name="Supplemental security income program"/>
+    <term name="Tax-exempt organizations"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1036"/>
+  </amendments>
+  <summary>10/20/1987--Passed Senate amended.
+(Measure passed Senate, amended) Amends the Deficit Reduction Act of 1984 to permanently disregard in-kind assistance provided by nonprofit organizations to recipients of benefits under title XVI (Supplemental Security Income) or part A (Aid to Families with Dependent Children) of title IV of the Social Security Act in determining the need or eligibility of such recipients for programs benefits.</summary>
+</bill>

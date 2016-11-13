@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="4509" updated="2014-03-22T09:53:18-04:00">
+  <state datetime="1988-05-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-02"/>
+  </status>
+  <introduced datetime="1988-05-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of John A. Smrekar.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-02" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Real property"/>
+  </subjects>
+  <amendments/>
+  <summary>5/2/1988--Introduced.
+Directs the Secretary of Agriculture to grant to a named individual the right to use, and access to, certain property in Minnesota during a specified period of time.</summary>
+</bill>

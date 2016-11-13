@@ -1,0 +1,125 @@
+<bill session="100" type="s" number="1934" updated="2014-12-10T13:16:02-05:00">
+  <state datetime="1988-10-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-07"/>
+  </status>
+  <introduced datetime="1987-12-08"/>
+  <titles>
+    <title type="short" as="reported to house">Judiciary Office Building Development Act</title>
+    <title type="short" as="passed house">Judiciary Office Building Development Act</title>
+    <title type="short" as="reported to senate">Judiciary Office Building Development Act</title>
+    <title type="short" as="passed senate">Judiciary Office Building Development Act</title>
+    <title type="short" as="enacted">Judiciary Office Building Development Act</title>
+    <title type="official" as="introduced">A bill pursuant to the report ordered by P.L. 99-229 which directed the Architect of the Capitol and the Secretary of Transportation to undertake a study of the needs of the Federal judiciary for additional federal office space, to authorize the Architect of the Capitol to contract for the design and construction of a building adjacent to Union Station in the District of Columbia to house agencies offices in the judicial branch of the United States and for other purposes.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-12-08"/>
+    <cosponsor id="410242" joined="1987-12-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>Subcommittee on Water Resources, Transportation. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-04-22" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-05-24">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick with an amendment in the nature of a substitute. With written report No. 100-358.</text>
+    </action>
+    <calendar datetime="1988-05-24" calendar="Senate Legislative" under="General Orders" number="687">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 687.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-04">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-08-11">
+      <text>Executive Comment Received From Justice.</text>
+    </action>
+    <action datetime="1988-08-12">
+      <text>Reported to House (Amended) by House Committee on Public Works and Transportation.  Report No: 100-884.</text>
+    </action>
+    <action datetime="1988-08-12">
+      <text>Placed on Union Calendar No: 523.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-20" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-22">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-09-23" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-23">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-07" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-480" type="public" datetime="1988-10-07">
+      <text>Became Public Law No: 100-480.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEV01" subcommittee="Water Resources, Transportation and Infrastructure" name="Senate Environment and Public Works"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administration of justice"/>
+    <term name="Advisory bodies"/>
+    <term name="Building leases"/>
+    <term name="Congressional agencies"/>
+    <term name="District of Columbia"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal office buildings"/>
+    <term name="Government trust funds"/>
+    <term name="Law"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/1988--Passed House amended.
+(Measure passed House, amended) Judiciary Office Building Development Act - Establishes the process under which the Architect of the Capitol will select the developer of property for office space for the Administrative Office of the United States Courts, the Federal Judicial Center, the Judicial Panel of Multidistrict Litigation, the United States Sentencing Commission, chambers for retired justices of the Supreme Court, other related offices of the judicial branch, and other persons (including governmental entities). Subjects all final decisions regarding architectural design of the building to the approval of the Chief Justice of the United States. Prohibits the Architect from making any payment to any person for any bid or design proposal submitted under the competition. Specifies limitations on the height, size, and design of the building. Authorizes the Architect to enter into an agreement with the person selected to develop the judicial building. Provides that all design, development, and construction costs will be at no cost to the United States. Declares that title to the property site will remain in the United States. Provides for the reversion of title to the building and other improvements to the United States at the expiration of not more than 30 years after the Architect enters into a lease agreement. Allows the building to be connected to the Capitol Power Plant. Specifies construction standards and requires periodic inspections. Directs the Architect to enter into a lease agreement with the builder for a term of 30 years before entering into the development agreement. Sets forth responsibilities, after occupancy of such building, with respect to structural and mechanical care, security, and allocation of space. Requires the Administrator of General Services expeditiously to vacate any space occupied in such building by the General Services Administration when notified by the Chief Justice that the judicial branch requires additional space. Requires any other entity in such building to vacate its space within 90 days of such notification. Establishes the Commission for the Judiciary Office Building to be responsible for the supervision of design, construction, operation, maintenance, structural, mechanical, and domestic care and security of the building to be constructed under this Act. Amends the National Visitor Center Facilities Act of 1968 to repeal the authority of the Secretary of Transportation with respect to the building property. Establishes a separate fund in the Treasury for the deposit of amounts available to the Architect to pay expenses under this Act.</summary>
+</bill>

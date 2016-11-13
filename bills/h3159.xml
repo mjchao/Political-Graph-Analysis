@@ -1,0 +1,52 @@
+<bill session="100" type="h" number="3159" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="short" as="introduced">Wheat Protein Determination Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide that the determination of protein content in wheat for purposes of price support activities be determined on an "as-is" basis.</title>
+  </titles>
+  <sponsor id="407162"/>
+  <cosponsors>
+    <cosponsor id="404602" joined="1987-08-06"/>
+    <cosponsor id="407967" joined="1987-10-26"/>
+    <cosponsor id="300083" joined="1987-08-06"/>
+    <cosponsor id="410084" joined="1987-08-06"/>
+    <cosponsor id="410097" joined="1987-08-06"/>
+    <cosponsor id="410251" joined="1987-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-08-26">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-08-26">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Wheat Protein Determination Act of 1987 - Directs the Secretary of Agriculture to: (1) determine the protein content of 1987 through 1990 wheat for price support purposes on an "as-is" basis without regard to a "standard moisture method" of protein testing; and (2) increase 1987 wheat payments if the "standard moisture method" results in lower payments than would have resulted from an "as-is" determination.</summary>
+</bill>

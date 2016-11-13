@@ -1,0 +1,49 @@
+<bill session="100" type="s" number="2285" updated="2014-03-22T09:55:41-04:00">
+  <state datetime="1988-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-14"/>
+  </status>
+  <introduced datetime="1988-04-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Agriculture to exchange certain national forest lands in the Targhee National Forest.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="409923" joined="1988-05-16"/>
+    <cosponsor id="411271" joined="1988-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-04-18">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Committee on Energy and Natural Resources requested executive comment from Agriculture Department, OMB.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Committee on Energy and Natural Resources. Ordered favorably reported H.R. 4028 in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4028"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests and forest products"/>
+    <term name="Forests and forestry"/>
+    <term name="Idaho"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/1988--Introduced.
+Authorizes the Secretary of Agriculture, notwithstanding certain land exchange requirements under specified Federal laws, to exchange certain lands within the Targhee National Forest, including lands located in Idaho and Wyoming. Requires any lands acquired by the Secretary as a result of the exchange authorized under this Act to become part of the adjacent National Forest. Directs the Secretary to carry out such exchange within nine months after the enactment of this Act.</summary>
+</bill>

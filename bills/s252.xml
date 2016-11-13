@@ -1,0 +1,68 @@
+<bill session="100" type="s" number="252" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1988-09-15">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-15"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish a San Pedro Riparian National Conservation Area.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors>
+    <cosponsor id="300071" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-04-30">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed:  S.Hrg. 100-103.</text>
+    </action>
+    <action datetime="1987-06-19">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-07-08">
+      <text>Committee on Energy and Natural Resources received executive comment from Department of the Interior. Favorable.</text>
+    </action>
+    <calendar datetime="1988-09-15" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Measure incorporated into measure S. 2840 ordered to be reported.</text>
+    </calendar>
+    <calendar datetime="1988-09-15">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 100-525.</text>
+    </action>
+    <calendar datetime="1988-09-22" calendar="Senate Legislative" under="General Orders" number="960">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 960.</text>
+    </calendar>
+    <action datetime="1988-10-19">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2840"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Arizona"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Nature conservation"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Watersheds"/>
+    <term name="Wildlife conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>10/19/1988--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate) Establishes the San Pedro Riparian National Conservation Area, Arizona. Declares that Congress reserves a quantity of water to establish such area. Directs the Secretary of the Interior to manage and, within two years, develop a comprehensive management plan for such area to protect the natural riparian, wildlife, cultural, and recreational resources. Directs the Secretary to establish a San Pedro Riparian National Conservation Area Advisory Committee. Authorizes land acquisition within the boundaries of the Conservation Area. Requires the Secretary to report within five years to the Congress on the implementation of this Act. Authorizes appropriations.</summary>
+</bill>

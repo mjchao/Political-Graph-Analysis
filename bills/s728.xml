@@ -1,0 +1,68 @@
+<bill session="100" type="s" number="728" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-04-03">REPORTED</state>
+  <status>
+    <unknown datetime="1987-04-03"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to improve the nutrition of the homeless, and for other purposes.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1987-03-12"/>
+    <cosponsor id="300026" joined="1987-03-12"/>
+    <cosponsor id="403171" joined="1987-03-12"/>
+    <cosponsor id="300031" joined="1987-03-12"/>
+    <cosponsor id="403515" joined="1987-04-03"/>
+    <cosponsor id="300051" joined="1987-03-12"/>
+    <cosponsor id="407622" joined="1987-03-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-27">
+      <text>Referred to Subcommittee on Nutrition and Investigations.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Subcommittee on Nutrition and Investigation. Hearings held.</text>
+    </action>
+    <calendar datetime="1987-04-03" state="REPORTED">
+      <text>Committee on Agriculture. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-04-03">
+      <text>Committee on Agriculture. Reported to Senate by Senator Leahy with an amendment in the nature of a substitute. Without written report.</text>
+    </action>
+    <calendar datetime="1987-04-03" calendar="Senate Legislative" under="General Orders" number="78">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 78.</text>
+    </calendar>
+    <action datetime="1987-04-09">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Senate passed companion measure H.R. 558 in lieu of this measure by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSAF06" subcommittee="Nutrition and Investigations" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="558"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Authorization"/>
+    <term name="Department of Agriculture"/>
+    <term name="Economics and public finance"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Food stamps"/>
+    <term name="Homeless"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public assistance programs"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/1987--Reported to Senate amended.
+(Reported to Senate from Committee on Agriculture, Nutrition, and Forestry, amended (without written report)) Title I: Food Stamp Program - Amends the Food Stamp Act of 1977 to include within the definition of "household" for food stamp program purposes a parent of minor children and that parent's children, notwithstanding the presence in the home of other persons who do not normally buy food and prepare meals with the parent and children. Requires reexamination of such separate household status at least every six months. Defines "homeless individual" as a person: (1) who lacks a fixed nighttime residence; and (2) whose primary nighttime residence is a supervised temporary shelter, institution, temporary accommodation in another's residence, or a place not ordinarily used for sleeping. Authorizes food stamp outreach for the homeless. Requires States to provide food stamps within five days of application to: (1) the homeless; and (2) persons whose combined gross income and liquid resources are less than their monthly rent and utilities. Directs the Secretary of Agriculture to implement certain vendor payment provisions within 30 days of enactment of this Act. Title II: Temporary Emergency Food Assistance Program (TEFAP) - Amends the Temporary Emergency Food Assistance Act of 1983 to provide for an increased variety of commodities for distribution under the temporary emergency food assistance (TEFAP) program. Increases FY 1987 TEFAP authorizations. Authorizes FY 1988 program authorizations. Title III: Effective Date - Makes the provisions of this Act, with stated exceptions, effective not later than 160 days after enactment.</summary>
+</bill>

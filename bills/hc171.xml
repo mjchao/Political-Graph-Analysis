@@ -1,0 +1,47 @@
+<bill session="100" type="hc" number="171" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-07-30">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-30"/>
+  </status>
+  <introduced datetime="1987-07-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress on future United States assistance to Pakistan.</title>
+  </titles>
+  <sponsor id="406765"/>
+  <cosponsors>
+    <cosponsor id="400236" joined="1987-07-30"/>
+    <cosponsor id="410145" joined="1987-07-30"/>
+    <cosponsor id="411834" joined="1987-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-30" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-30" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-07-30">
+      <text>For Further Action See H.Res.239.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hr" number="239"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="International control of nuclear power"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear nonproliferation"/>
+    <term name="Pakistan"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/1987--Introduced.
+Expresses the sense of the Congress: (1) supporting the President's efforts to gain Pakistan's compliance with its past commitments not to produce weapon-grade nuclear materials; (2) calling on Pakistan to halt any illegal procurement activities by Pakistan in the United States; and (3) urging the President to inform Pakistan that its failure to comply with such past commitments jeopardizes any further U.S. military assistance.</summary>
+</bill>

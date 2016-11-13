@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="703" updated="2014-03-22T09:51:32-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Budget Integrity Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title VII of the Social Security Act to provide for off-budget treatment of the Federal Old-Age and Survivors Insurance Trust Fund beginning with fiscal year 1988.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Government trust funds"/>
+    <term name="Off-budget expenditures"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security finance"/>
+    <term name="Social security taxes"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Social Security Budget Integrity Act of 1987 - Amends title VII (Administration) of the Social Security Act to exclude from Federal budget totals and limitations: (1) the receipts and disbursements of the Federal Old-Age and Survivors Insurance Trust Fund; and (2) employment related social security taxes. Repeals a superseded provision of the Social Security Amendments of 1983 relating to budgetary treatment of social security trust operations as it relates to the Federal Old-Age and Survivors Insurance Trust Fund.</summary>
+</bill>

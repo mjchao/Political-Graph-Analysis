@@ -1,0 +1,38 @@
+<bill session="100" type="hc" number="90" updated="2014-03-22T09:54:07-04:00">
+  <state datetime="1987-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-30"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution entitled: "The Importance of Parenting Skills Training".</title>
+  </titles>
+  <sponsor id="405236"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Domestic Relations and Families"/>
+    <term name="Domestic relations"/>
+    <term name="Education"/>
+    <term name="Educational policy"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information services"/>
+    <term name="Parent and child"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1987--Introduced.
+Expresses the sense of the Congress that there is a need for a national parenting instructors mechanism to facilitate the development of information as it relates to parenting skills training.</summary>
+</bill>

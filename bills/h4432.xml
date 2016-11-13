@@ -1,0 +1,147 @@
+<bill session="100" type="h" number="4432" updated="2014-03-22T09:53:16-04:00">
+  <state datetime="1988-11-08">VETOED:POCKET</state>
+  <status>
+    <unknown datetime="1988-11-08"/>
+  </status>
+  <introduced datetime="1988-04-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 13, United States Code, to require certain detailed tabulations relating to Asian Americans and Pacific Islanders in the decennial censuses of population.</title>
+  </titles>
+  <sponsor id="400256"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-05-12"/>
+    <cosponsor id="300001" joined="1988-04-20"/>
+    <cosponsor id="400975" joined="1988-06-08"/>
+    <cosponsor id="400025" joined="1988-05-17"/>
+    <cosponsor id="401526" joined="1988-05-12"/>
+    <cosponsor id="300011" joined="1988-04-20"/>
+    <cosponsor id="400572" joined="1988-05-12"/>
+    <cosponsor id="402114" joined="1988-05-12"/>
+    <cosponsor id="403031" joined="1988-05-12"/>
+    <cosponsor id="403314" joined="1988-08-03"/>
+    <cosponsor id="400580" joined="1988-05-12"/>
+    <cosponsor id="403545" joined="1988-05-12"/>
+    <cosponsor id="403695" joined="1988-04-20"/>
+    <cosponsor id="403776" joined="1988-04-20"/>
+    <cosponsor id="400126" joined="1988-05-12"/>
+    <cosponsor id="404013" joined="1988-05-12"/>
+    <cosponsor id="400140" joined="1988-05-12"/>
+    <cosponsor id="404376" joined="1988-05-12"/>
+    <cosponsor id="404422" joined="1988-05-12"/>
+    <cosponsor id="405646" joined="1988-05-24"/>
+    <cosponsor id="400223" joined="1988-05-18"/>
+    <cosponsor id="400231" joined="1988-05-12"/>
+    <cosponsor id="406740" joined="1988-06-01"/>
+    <cosponsor id="406765" joined="1988-05-12"/>
+    <cosponsor id="400243" joined="1988-05-17"/>
+    <cosponsor id="406974" joined="1988-04-20"/>
+    <cosponsor id="407141" joined="1988-05-12"/>
+    <cosponsor id="407772" joined="1988-04-20"/>
+    <cosponsor id="408506" joined="1988-04-20"/>
+    <cosponsor id="400314" joined="1988-04-20"/>
+    <cosponsor id="409901" joined="1988-05-12"/>
+    <cosponsor id="410145" joined="1988-05-12"/>
+    <cosponsor id="400387" joined="1988-05-12"/>
+    <cosponsor id="410531" joined="1988-05-12"/>
+    <cosponsor id="410889" joined="1988-05-12"/>
+    <cosponsor id="400409" joined="1988-05-12"/>
+    <cosponsor id="400425" joined="1988-05-17"/>
+    <cosponsor id="411426" joined="1988-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-20" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Executive Comment Requested from OMB, Commerce.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-06-09">
+      <text>Unfavorable Executive Comment Received From Commerce.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Reported to House (Amended) by House Committee on Post Office and Civil Service.  Report No: 100-951.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Placed on Union Calendar No: 568.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-27">
+      <text>Received in the Senate, read twice.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-18" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <vetoed datetime="1988-11-08" state="VETOED:POCKET" pocket="1">
+      <text>Pocket Vetoed by President.</text>
+    </vetoed>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2444"/>
+    <bill relation="identical" session="100" type="s" number="2444"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Asian American ethnic groups"/>
+    <term name="Census"/>
+    <term name="Census and Statistics"/>
+    <term name="Ethnic groups"/>
+    <term name="Heating"/>
+    <term name="Housing and community development"/>
+    <term name="Minorities"/>
+    <term name="Population statistics"/>
+    <term name="Races"/>
+    <term name="Spanish Americans (U.S.)"/>
+    <term name="Statistics"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3729"/>
+    <amendment number="s3730"/>
+  </amendments>
+  <summary>10/18/1988--Passed Senate amended.
+(Measure passed Senate, amended) Requires the Secretary of Commerce to ensure that each questionnaire used in a decennial census contain at least one question relating to race or ethnic origin. Requires the question to include: (1) each group identified in the 1980 decennial census; and (2) a means to write in any group not specified. Requires the Secretary, in carrying out any decennial census, to tabulate and make public the general population of Asian Americans and Pacific Islanders both by total and by groups. Declares that the amendments made by this Act may not serve as a basis in the 1990 census for modifying questions relating to Hispanic origin or race. Directs the Secretary to ensure that each short form and long form used in the 1990 decennial census of population include one or more questions relating to plumbing facilities in the respondent's housing unit. Directs the Secretary to ensure that each long form includes one or more questions relating to the heating of the housing unit, including at least one question relating to the type of equipment used in such heating.</summary>
+</bill>

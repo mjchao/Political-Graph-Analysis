@@ -1,0 +1,192 @@
+<bill session="100" type="s" number="2662" updated="2014-03-22T09:55:53-04:00">
+  <state datetime="1988-09-09">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-09-09"/>
+  </status>
+  <introduced datetime="1988-07-27"/>
+  <titles>
+    <title type="short" as="introduced">Textile Apparel and Footwear Trade Act of 1988</title>
+    <title type="official" as="introduced">A bill to remedy injury to the United States textile and apparel industries caused by increased imports.</title>
+  </titles>
+  <sponsor id="300053"/>
+  <cosponsors>
+    <cosponsor id="402004" joined="1988-09-09"/>
+    <cosponsor id="402023" joined="1988-08-05"/>
+    <cosponsor id="300016" joined="1988-09-09"/>
+    <cosponsor id="300023" joined="1988-08-05"/>
+    <cosponsor id="402727" joined="1988-08-05"/>
+    <cosponsor id="403142" joined="1988-09-09"/>
+    <cosponsor id="403346" joined="1988-08-05"/>
+    <cosponsor id="403483" joined="1988-09-09"/>
+    <cosponsor id="404219" joined="1988-08-05"/>
+    <cosponsor id="404277" joined="1988-09-09"/>
+    <cosponsor id="404679" joined="1988-09-09"/>
+    <cosponsor id="405310" joined="1988-08-05"/>
+    <cosponsor id="405321" joined="1988-08-05"/>
+    <cosponsor id="300154" joined="1988-08-05"/>
+    <cosponsor id="406084" joined="1988-08-05"/>
+    <cosponsor id="406190" joined="1988-09-09"/>
+    <cosponsor id="300059" joined="1988-08-05"/>
+    <cosponsor id="300064" joined="1988-08-05"/>
+    <cosponsor id="300065" joined="1988-09-09"/>
+    <cosponsor id="300066" joined="1988-08-05"/>
+    <cosponsor id="300072" joined="1988-08-05"/>
+    <cosponsor id="300073" joined="1988-09-09"/>
+    <cosponsor id="407786" joined="1988-08-05"/>
+    <cosponsor id="400563" joined="1988-08-05"/>
+    <cosponsor id="408252" joined="1988-08-05"/>
+    <cosponsor id="408939" joined="1988-08-05"/>
+    <cosponsor id="300082" joined="1988-08-05"/>
+    <cosponsor id="409225" joined="1988-08-05"/>
+    <cosponsor id="300084" joined="1988-08-05"/>
+    <cosponsor id="409456" joined="1988-09-09"/>
+    <cosponsor id="409562" joined="1988-08-05"/>
+    <cosponsor id="409580" joined="1988-08-05"/>
+    <cosponsor id="300089" joined="1988-08-05"/>
+    <cosponsor id="409917" joined="1988-08-05"/>
+    <cosponsor id="300092" joined="1988-09-07"/>
+    <cosponsor id="410315" joined="1988-08-05"/>
+    <cosponsor id="300157" joined="1988-07-28"/>
+    <cosponsor id="411421" joined="1988-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-27">
+      <text>Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="1988-07-28" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="847">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 847.</text>
+    </calendar>
+    <action datetime="1988-08-05">
+      <text>Star Print ordered S.2662.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Cloture motion presented in Senate.</text>
+    </action>
+    <vote-aux how="roll" type="cloture" roll="314" datetime="1988-09-07" where="s" result="pass">
+      <text>Cloture invoked in Senate by Yea-Nay Vote. 68-29. Record Vote No: 314.</text>
+    </vote-aux>
+    <action datetime="1988-09-07">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="1988-09-07">
+      <text>Motion to table the point of order that the bill is unconstitutional agreed to in Senate by Yea-Nay Vote. 71-24. Record Vote No: 315.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Considered by Senate.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="324" datetime="1988-09-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 57-32. Record Vote No: 324.</text>
+    </vote>
+    <action datetime="1988-09-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Considered by House Unfinished Business Pursuant to H.Res. 544.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Received in Senate; returned pursuant to the provisions of H. Res. 544.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hr" number="544"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Clothing industry"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Guam"/>
+    <term name="Import quotas"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Licenses"/>
+    <term name="Shoe industry"/>
+    <term name="Tariff"/>
+    <term name="Textile industry and fabrics"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2859"/>
+    <amendment number="s2860"/>
+    <amendment number="s2861"/>
+    <amendment number="s2862"/>
+    <amendment number="s2863"/>
+    <amendment number="s2864"/>
+    <amendment number="s2865"/>
+    <amendment number="s2866"/>
+    <amendment number="s2867"/>
+    <amendment number="s2868"/>
+    <amendment number="s2869"/>
+    <amendment number="s2870"/>
+    <amendment number="s2871"/>
+    <amendment number="s2872"/>
+    <amendment number="s2873"/>
+    <amendment number="s2874"/>
+    <amendment number="s2875"/>
+    <amendment number="s2879"/>
+    <amendment number="s2881"/>
+    <amendment number="s2882"/>
+    <amendment number="s2885"/>
+    <amendment number="s2889"/>
+    <amendment number="s2890"/>
+    <amendment number="s2891"/>
+    <amendment number="s2892"/>
+    <amendment number="s2893"/>
+    <amendment number="s2894"/>
+    <amendment number="s2895"/>
+    <amendment number="s2896"/>
+    <amendment number="s2897"/>
+    <amendment number="s2898"/>
+    <amendment number="s2899"/>
+    <amendment number="s2900"/>
+    <amendment number="s2901"/>
+    <amendment number="s2902"/>
+    <amendment number="s2903"/>
+    <amendment number="s2904"/>
+    <amendment number="s2905"/>
+    <amendment number="s2906"/>
+    <amendment number="s2907"/>
+    <amendment number="s2908"/>
+    <amendment number="s2909"/>
+    <amendment number="s2910"/>
+    <amendment number="s2911"/>
+    <amendment number="s2912"/>
+    <amendment number="s2913"/>
+    <amendment number="s2914"/>
+    <amendment number="s2915"/>
+    <amendment number="s2916"/>
+    <amendment number="s2917"/>
+    <amendment number="s2918"/>
+    <amendment number="s2919"/>
+    <amendment number="s2920"/>
+    <amendment number="s2921"/>
+    <amendment number="s2922"/>
+    <amendment number="s2923"/>
+    <amendment number="s2924"/>
+    <amendment number="s2925"/>
+    <amendment number="s2926"/>
+    <amendment number="s2927"/>
+    <amendment number="s2928"/>
+    <amendment number="s2929"/>
+    <amendment number="s2930"/>
+    <amendment number="s2931"/>
+    <amendment number="s2932"/>
+    <amendment number="s2933"/>
+    <amendment number="s2934"/>
+    <amendment number="s2935"/>
+    <amendment number="s2936"/>
+    <amendment number="s2937"/>
+    <amendment number="s2938"/>
+  </amendments>
+  <summary>7/27/1988--Introduced.
+Textile Apparel and Footwear Trade Act of 1988 - Limits the 1987 imports of textiles and textile products classified under a category to an amount equal to 101 percent of the total 1986 imports classified under such category. Limits the 1987 imports of nonrubber footwear classified under a nonrubber footwear category to an amount equal to: (1) the total 1986 imports of nonrubber footwear classified under such category; and (2) in the case of low priced nonrubber footwear, the total 1986 imports of low priced nonrubber footwear classified under such category. Provides for a one-percent annual growth in the amount of permitted imports of textiles and textile products after 1987. Sets forth specified exceptions to the limits placed on imported textiles and nonrubber footwear. Authorizes the Secretary of Commerce to prescribe regulations to enforce limitations imposed on the quantity of textiles classified under each category which are entered in 1989 only if they ensure that: (1) the amount of such limitations is allocated to such products of each country to which the total quantity of U.S. agricultural products exported during the year preceding the applicable year exceeds the total quantity of U.S. agricultural products exported to such country during the year before the year preceding the applicable year; and (2) the amount of textiles classified under each category entered during the applicable year that is allocated so that each country exceeds the quantity of such products of such country classified under such category that entered during the year preceding the applicable year. Authorizes the President to: (1) enter into trade agreements to grant new concessions as compensation, to the extent required under U.S. trade agreements for the import limits imposed by this Act; and (2) proclaim such modification or continuance of any existing duty on textiles and textile products and on nonrubber footwear as necessary to carry out such agreements. Prohibits the President from reducing any rate of duty by more than ten percent. Requires the President, before entering into such trade agreements, to consider whether such country has violated trade concessions of benefit to the United States and such violation has not been adequately offset by U.S. action or by the action of such country. Sets forth requirements governing staged rate reductions in the tariffs of articles affected by this Act. Prohibits the President, except as authorized by this paragraph, from entering into trade negotiations with any country with respect to duties on textiles, textile products, and nonrubber footwear. Prohibits the President, except as provided in this paragraph, from decreasing or proposing a decrease in any such duty by any means, including an implementing bill or a proclamation. Requires the President to report annually to the Congress on the administration of this Act. Requires the Secretary of Commerce, ten years after enactment of this Act, to study and report to the Congress on the operation of this Act. Requires the Secretary of the Treasury to establish a pilot program for the issuance and sale of import licenses applicable to categories of textiles to U.S. companies at public auction. Sets forth provisions relating to the applicability of such licenses to such categories. Requires revenues from the sale of import licenses to be paid into the Treasury. Terminates such licensing program on December 31, 1989. Requires the Secretary of the Treasury to report to the Congress, not later than March 31, 1990, on the administration of such program.</summary>
+</bill>

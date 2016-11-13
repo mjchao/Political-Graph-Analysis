@@ -1,0 +1,65 @@
+<bill session="100" type="sc" number="20" updated="2016-06-29T08:45:19-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the sense of Congress that funding for the vocational education program should not be eliminated.</title>
+  </titles>
+  <sponsor id="404679"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1987-03-31"/>
+    <cosponsor id="402004" joined="1987-03-26"/>
+    <cosponsor id="402023" joined="1987-03-13"/>
+    <cosponsor id="300026" joined="1987-03-19"/>
+    <cosponsor id="403483" joined="1987-03-24"/>
+    <cosponsor id="403669" joined="1987-03-17"/>
+    <cosponsor id="403962" joined="1987-03-06"/>
+    <cosponsor id="300046" joined="1987-03-18"/>
+    <cosponsor id="300048" joined="1987-04-02"/>
+    <cosponsor id="405321" joined="1987-03-13"/>
+    <cosponsor id="300053" joined="1987-03-13"/>
+    <cosponsor id="300056" joined="1987-03-17"/>
+    <cosponsor id="406190" joined="1987-03-25"/>
+    <cosponsor id="300066" joined="1987-03-19"/>
+    <cosponsor id="407268" joined="1987-06-11"/>
+    <cosponsor id="407622" joined="1987-03-10"/>
+    <cosponsor id="300073" joined="1987-03-13"/>
+    <cosponsor id="400563" joined="1987-04-06"/>
+    <cosponsor id="408597" joined="1987-02-19"/>
+    <cosponsor id="408898" joined="1987-03-06"/>
+    <cosponsor id="408939" joined="1987-03-03"/>
+    <cosponsor id="409225" joined="1987-03-10"/>
+    <cosponsor id="300084" joined="1987-03-13"/>
+    <cosponsor id="300086" joined="1987-03-13"/>
+    <cosponsor id="409580" joined="1987-02-19"/>
+    <cosponsor id="300089" joined="1987-03-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Referred to Subcommittee on Education, Arts, Humanities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR01" subcommittee="Education, Arts and Humanities" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to education"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Expresses the sense of the Congress that: (1) the Federal Government should maintain its role in vocational education through the continued provision of vocational education grants to the States; and (2) the proposal to eliminate Federal funding for vocational education should be rejected.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="447" updated="2014-03-22T09:51:01-04:00">
+  <state datetime="1988-05-12">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against consideration of the bill (H.R. 4567) making appropriations for energy and water development for the fiscal year ending September 30, 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-12">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-622.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Placed on House Calendar No: 155.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="4567"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1988--Introduced.
+Waives points of order against the consideration of H.R. 4567 (energy and water development funding).</summary>
+</bill>

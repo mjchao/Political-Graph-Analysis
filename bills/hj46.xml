@@ -1,0 +1,42 @@
+<bill session="100" type="hj" number="46" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to provide that appropriations shall not exceed revenues of the United States, except in time of war or national emergency.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>See H.J.Res.321.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="321"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Congressional budget"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal budgets"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Constitutional Amendment - Requires the President: (1) at the end of each calendar year, to determine and proclaim the estimated amount of revenues of the United States for the next fiscal year; and (2) annually to submit to the Congress a budget under which the funds withdrawn from the Treasury during the fiscal year shall not exceed the revenues for that year. Prohibits the Congress from authorizing the withdrawal of funds exceeding revenues in any fiscal year. Authorizes the suspension of such prohibition in time of war as declared by the Congress or grave national emergency as proclaimed by the President.</summary>
+</bill>

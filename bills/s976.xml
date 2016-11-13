@@ -1,0 +1,50 @@
+<bill session="100" type="s" number="976" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to establish a connection between certain computerized indexes containing information on deportable aliens.</title>
+  </titles>
+  <sponsor id="402495"/>
+  <cosponsors>
+    <cosponsor id="403142" joined="1988-03-25"/>
+    <cosponsor id="300056" joined="1987-05-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Subcommittee on Immigration and Refugee Affairs. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3533"/>
+    <bill relation="identical" session="100" type="h" number="3533"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Computer networks"/>
+    <term name="Computers"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information"/>
+    <term name="Criminal justice information systems"/>
+    <term name="Department of Justice"/>
+    <term name="Deportation"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Immigration and Nationality Act to provide for computer linkage between the Immigration and Naturalization Service and the National Crime Information Center and other computerized criminal indexes with respect to information on aliens convicted of crimes and deportable aliens.</summary>
+</bill>

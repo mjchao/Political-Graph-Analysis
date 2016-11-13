@@ -1,0 +1,43 @@
+<bill session="100" type="sc" number="56" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-05-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-01"/>
+  </status>
+  <introduced datetime="1987-05-01"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress that no major change in the payment methodology for physicians' services, including services furnished to hospital inpatients, under the Medicare Program should be made until reports required by the Ninety-ninth Congress have been received and evaluated.</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors>
+    <cosponsor id="300010" joined="1987-08-05"/>
+    <cosponsor id="403171" joined="1987-05-01"/>
+    <cosponsor id="403515" joined="1987-05-01"/>
+    <cosponsor id="300036" joined="1987-06-19"/>
+    <cosponsor id="405321" joined="1987-05-01"/>
+    <cosponsor id="300071" joined="1987-05-01"/>
+    <cosponsor id="407786" joined="1987-05-21"/>
+    <cosponsor id="400563" joined="1987-05-01"/>
+    <cosponsor id="411271" joined="1987-05-01"/>
+    <cosponsor id="411762" joined="1987-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-01" state="REFERRED">
+      <text>Referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medical personnel"/>
+    <term name="Medicare"/>
+    <term name="Physicians"/>
+    <term name="Prospective payment systems (Medical care)"/>
+  </subjects>
+  <amendments/>
+  <summary>5/1/1987--Introduced.
+Expresses the sense of the Congress that no significant change in the Medicare (title XVIII of the Social Security Act) physician payment methodology should be undertaken without the receipt of reports required by legislation enacted in the 99th Congress and a detailed analysis of the long-range impact of such change on the provision of health care.</summary>
+</bill>

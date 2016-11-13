@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="5445" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-03"/>
+  </status>
+  <introduced datetime="1988-10-03"/>
+  <titles>
+    <title type="short" as="introduced">Public Interest Hydroelectric Licensing Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Federal Power Act to guide the Federal Energy Regulatory Commission in the issuance of licenses to operate existing hydroelectric facilities.</title>
+  </titles>
+  <sponsor id="406746"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-03" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-10-24">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy facilities"/>
+    <term name="Energy policy"/>
+    <term name="Hydroelectric power"/>
+    <term name="Licenses"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/1988--Introduced.
+Public Interest Hydroelectric Licensing Act of 1988 - Amends the Federal Power Act to state that it does not mandate licensing of the continued operation of an existing hydroelectric project which is located on non-navigable waters and unimproved since August 26, 1935. Prohibits the Federal Energy Regulatory Commission from issuing a license to any person but the owner of such a project.</summary>
+</bill>

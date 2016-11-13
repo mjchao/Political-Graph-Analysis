@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="4888" updated="2014-03-22T09:53:28-04:00">
+  <state datetime="1988-06-22">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-22"/>
+  </status>
+  <introduced datetime="1988-06-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the joint resolution of June 22, 1942, to provide for the reading of a Tribute to the Flag before the Pledge of Allegiance.</title>
+  </titles>
+  <sponsor id="400055"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-22" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Emblems"/>
+    <term name="Flags"/>
+    <term name="National emblems"/>
+    <term name="Oaths"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/1988--Introduced.
+Amends provisions of Federal law concerning rules and customs pertaining to the display of the flag of the United States to provide for the optional reading of a tribute to the U.S. flag before the Pledge of Allegiance.</summary>
+</bill>

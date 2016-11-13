@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="544" updated="2014-03-22T09:54:56-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to limit the salary of Members of Congress to the levels which were payable as of December 31, 1986.</title>
+  </titles>
+  <sponsor id="411271"/>
+  <cosponsors>
+    <cosponsor id="300154" joined="1987-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="434"/>
+    <bill relation="identical" session="100" type="h" number="434"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Limits the salary of Members of Congress during FY 1987 and 1988 to that which was payable on December 31, 1986.</summary>
+</bill>

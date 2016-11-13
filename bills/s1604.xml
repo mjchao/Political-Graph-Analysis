@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="1604" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the President to submit to the Congress a study on the reduction of the public debt of the United States.</title>
+  </titles>
+  <sponsor id="409562"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-08-06"/>
+    <cosponsor id="300026" joined="1987-08-06"/>
+    <cosponsor id="404277" joined="1987-08-06"/>
+    <cosponsor id="409917" joined="1987-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Public debt"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Requires the President to transmit to the Congress a plan to reduce the public debt by FY 2000.</summary>
+</bill>

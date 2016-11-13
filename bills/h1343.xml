@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="1343" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Sodbuster Clarification Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Food Security Act of 1985 to streamline the procedure for use of conservation plans to comply with the prohibition on production on highly erodible lands, and for other purposes.</title>
+  </titles>
+  <sponsor id="400043"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="525"/>
+    <bill relation="identical" session="100" type="s" number="525"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Soil conservation"/>
+    <term name="Soil erosion"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Sodbuster Clarification Act of 1987 - Amends the Food Security Act of 1985, with regard to the exemption from agricultural benefits loss due to crop production on highly erodible land, to permit a Soil Conservation Service-approved certificate of a producer's conservation measures to be accepted as a conservation plan. States that the Service and the local soil conservation districts shall minimize the documentation required to obtain such exemption.</summary>
+</bill>

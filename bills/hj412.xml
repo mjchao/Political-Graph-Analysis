@@ -1,0 +1,59 @@
+<bill session="100" type="hj" number="412" updated="2014-03-22T09:53:57-04:00">
+  <state datetime="1987-12-17">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-17"/>
+  </status>
+  <introduced datetime="1987-12-02"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to congratulate King Bhumibol Adulyadej of Thailand on his 60th birthday on December 5, 1987.</title>
+  </titles>
+  <sponsor id="402833"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-02" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-12-03">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-04" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-04">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-17" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-194" type="public" datetime="1987-12-17">
+      <text>Became Public Law No: 100-194.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Monarchy"/>
+    <term name="Thailand"/>
+  </subjects>
+  <amendments/>
+  <summary>12/3/1987--Passed House amended.
+(Measure passed House, amended) Congratulates His Majesty King Bhumibol Adulyadej of Thailand on the occasion of his 60th birthday.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="100" type="hc" number="25" updated="2014-03-22T09:54:05-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress regarding the initiation of free trade area negotiations with the Republic of the Philippines.</title>
+  </titles>
+  <sponsor id="404856"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Customs unions"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Philippines"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Expresses the sense of the Congress that the President should initiate discussions with the Government of the Philippines to determine whether negotiation of a reciprocal bilateral free trade area agreement would be feasible and in the mutual economic interest.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="3147" updated="2014-03-22T09:52:45-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to treat church self-funded death benefit plans as life insurance contracts.</title>
+  </titles>
+  <sponsor id="404325"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="1987-10-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+    <bill relation="identical" session="100" type="s" number="1263"/>
+    <bill relation="identical" session="100" type="s" number="1263"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business and commerce"/>
+    <term name="Churches"/>
+    <term name="Clergy"/>
+    <term name="Employee benefit plans"/>
+    <term name="Income tax"/>
+    <term name="Insurance"/>
+    <term name="Labor and employment"/>
+    <term name="Life insurance"/>
+    <term name="Religion and Clergy"/>
+    <term name="Survivors' benefits"/>
+    <term name="Tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Amends the Internal Revenue Code to treat as life insurance policies certain self-funded death benefit plans maintained by a church for its employees, thus excluding the benefits provided through such plans from gross income for income tax purposes.</summary>
+</bill>

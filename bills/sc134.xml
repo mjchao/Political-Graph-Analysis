@@ -1,0 +1,42 @@
+<bill session="100" type="sc" number="134" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-08-02">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-08-02"/>
+  </status>
+  <introduced datetime="1988-08-02"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to urge States and the Federal Election Commission to evaluate the success of the Kids Voting Program in Arizona.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="403346" joined="1988-08-02"/>
+    <cosponsor id="300071" joined="1988-08-02"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-02" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Arizona"/>
+    <term name="Children and youth"/>
+    <term name="Election administration"/>
+    <term name="Voting"/>
+    <term name="Youth in politics"/>
+  </subjects>
+  <amendments/>
+  <summary>8/2/1988--Introduced.
+Urges State election officials and school administrators and the Federal Election Commission to evaluate the success of the Kids Voting program in Arizona in November 1988.</summary>
+</bill>

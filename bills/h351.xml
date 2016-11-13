@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="351" updated="2014-03-22T09:51:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to increase to $7,560 in the case of an individual under age 65, and to $10,080 in the case of an individual age 65 or over, the amount of outside earnings which is permitted in 1987 (subject to further increases in subsequent taxable years under the automatic adjustment provisions) without any deductions from his or her benefits.</title>
+  </titles>
+  <sponsor id="400536"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="1987-03-04"/>
+    <cosponsor id="404733" joined="1987-05-28"/>
+    <cosponsor id="400210" joined="1987-02-11"/>
+    <cosponsor id="406473" joined="1987-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Income"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to increase to $8,160 in the case of an individual under age 65, and to $10,920 in the case of an individual age 65 or over, the amount of outside earnings which is permitted in 1987 without any benefit reductions.</summary>
+</bill>

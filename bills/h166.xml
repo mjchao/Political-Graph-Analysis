@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="166" updated="2014-03-22T09:51:12-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Campaign Reform Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Election Campaign Act of 1971 to change certain contribution limits for congressional elections and to amend the Communications Act of 1934 regarding the broadcasting of certain material regarding candidates for Federal elective office, and for other purposes.</title>
+  </titles>
+  <sponsor id="405687"/>
+  <cosponsors>
+    <cosponsor id="405377" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+    <action datetime="1987-01-28">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Congressional candidates"/>
+    <term name="Congressional elections"/>
+    <term name="Equal time rule"/>
+    <term name="Political action committees"/>
+    <term name="Political advertising"/>
+    <term name="Radio broadcasting"/>
+    <term name="Television"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Campaign Reform Act of 1987 - Amends the Federal Election Campaign Act of 1971 to decrease the amount one multicandidate political committee may contribute to a candidate and the candidate's political committee. Limits to $100,000 ($125,000 where two or more candidates qualify for the ballot) the aggregate amount which all multicandidate political committees may contribute to a candidate for the House of Representatives in a general or special election, including any primary election, convention, or caucus relating to such general or special election. Limits to $25,000 the aggregate amount allowed for multicandidate political committee contributions in a runoff election for the office of Representative. Establishes a formula for multicandidate political committee contributions to candidates for the Senate based upon State populations and limited to an aggregate total of $750,000. Requires multicandidate political committees which make independent expenditures for advertisements connected with a candidate's campaign to disclose such information within the advertisement. Amends the Communications Act of 1934 to require any station licensee which allows a person to broadcast material endorsing or opposing a candidate to provide to the candidate opposing the endorsed candidate, or to the candidate opposed by the material, the opportunity to use the same amount of broadcasting time, without charge, during the same period of the day.</summary>
+</bill>

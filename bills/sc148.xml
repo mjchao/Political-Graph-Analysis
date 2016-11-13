@@ -1,0 +1,34 @@
+<bill session="100" type="sc" number="148" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-09-29">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-09-29"/>
+  </status>
+  <introduced datetime="1988-09-29"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to correct technical errors in the enrollment of the bill H.R. 1720.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-29" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1988--Introduced.
+Corrects technical errors in the enrollment of H.R. 1720 (the Family Support Act of 1988).</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="100" type="hc" number="212" updated="2014-03-22T09:54:10-04:00">
+  <state datetime="1987-11-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-04"/>
+  </status>
+  <introduced datetime="1987-11-04"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress with respect to continued political unrest and violence in Haiti.</title>
+  </titles>
+  <sponsor id="403031"/>
+  <cosponsors>
+    <cosponsor id="403695" joined="1987-11-04"/>
+    <cosponsor id="404006" joined="1987-11-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-04" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Haiti"/>
+    <term name="Human rights"/>
+  </subjects>
+  <amendments/>
+  <summary>11/4/1987--Introduced.
+Expresses the sense of the Congress that the failure of the National Governing Council (NGC) of Haiti to provide security and protection, as well as administrative or logistical support for the Provisional Electoral Council and legitimate presidential candidates jeopardizes the transition to democracy in Haiti. Calls upon the President to immediately suspend all military and non-emergency economic assistance to Haiti (except for assistance specifically related to the electoral process) until the President reports to the Congress that the NGC is providing such protection and support. Urges the President to express support for free and fair elections and concern over deteriorating security conditions in Haiti.</summary>
+</bill>

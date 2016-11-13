@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="2194" updated="2014-03-22T09:52:16-04:00">
+  <state datetime="1987-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-28"/>
+  </status>
+  <introduced datetime="1987-04-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill for relief of Kathy Butler and Charlotte James.</title>
+  </titles>
+  <sponsor id="402454"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1987--Introduced.
+Directs the Secretary of the Treasury to pay to two named individuals specified sums in full satisfaction of all claims arising out of the release of flood waters at a reservoir project in Arkansas.</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="100" type="sj" number="293" updated="2016-06-29T08:45:10-04:00">
+  <state datetime="1988-04-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-12"/>
+  </status>
+  <introduced datetime="1988-04-12"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating May 1988 as "Motorcycle Safety and Awareness Week".</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="531"/>
+    <bill relation="identical" session="100" type="hj" number="531"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Motor vehicle safety"/>
+    <term name="Motorcycles"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>4/12/1988--Introduced.
+Designates May 1988 as Motorcycle Safety and Awareness Month.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="3164" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to extend educational assistance benefits to dependents of veterans with service-connected disability of 80 percent or more.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="410147" joined="1987-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Military dependents"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' education"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Amends Federal veterans' educational assistance provisions to extend educational assistance benefits to dependents of veterans with a service-connected disability rating of 80 percent or more (currently, 100 percent).</summary>
+</bill>

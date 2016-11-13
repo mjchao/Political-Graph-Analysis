@@ -1,0 +1,37 @@
+<bill session="100" type="sc" number="78" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-09-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-23"/>
+  </status>
+  <introduced datetime="1987-09-23"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution welcoming His Holiness the Dalai Lama of Tibet on the occasion of his visit to the United States.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors>
+    <cosponsor id="300154" joined="1987-09-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-23" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="191"/>
+    <bill relation="identical" session="100" type="hc" number="191"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Clergy"/>
+    <term name="Commemorations"/>
+    <term name="International affairs"/>
+    <term name="Religion and Clergy"/>
+    <term name="Tibet"/>
+  </subjects>
+  <amendments/>
+  <summary>9/23/1987--Introduced.
+Welcomes His Holiness the Dalai Lama of Tibet on the occasion of his visit to the United States.</summary>
+</bill>

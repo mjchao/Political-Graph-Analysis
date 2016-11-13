@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="233" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to encourage increased production of domestic crude oil, and for other purposes.</title>
+  </titles>
+  <sponsor id="401604"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-01-06"/>
+    <cosponsor id="300079" joined="1987-02-17"/>
+    <cosponsor id="411271" joined="1987-02-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1987-01-30">
+      <text>Subcommittee on Energy and Agricultural Taxation. Hearings held. Hearings printed:  S.Hrg. 100-31.</text>
+    </action>
+    <action datetime="1987-06-05">
+      <text>Subcommittee on Energy and Agricultural Taxation. Hearings held. Hearings printed:  S.Hrg. 100-143.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFI07" subcommittee="Energy and Agricultural Taxation" name="Senate Finance"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Capital gains tax"/>
+    <term name="Depletion allowances"/>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Excess profits tax"/>
+    <term name="Excise tax"/>
+    <term name="Geothermal resources"/>
+    <term name="Income tax"/>
+    <term name="Natural gas"/>
+    <term name="Oil well drilling"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum industry"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Internal Revenue Code to allow a percentage depletion income tax deduction for proven oil and gas wells which have been transferred to a new owner. Provides that the exemption of stripper well oil from the windfall profit tax shall apply after a transfer of such a well to a new owner. Provides that the 50 percent net income limitation on the percentage depletion allowance shall not apply to oil or gas wells. Increases the rate of the percentage depletion allowance for oil and natural gas. Sets forth a fluctuating rate based on the average annual removal price during the calendar year. Includes geological, geophysical, and surface casing costs as intangible drilling costs eligible for expensing for tax deduction purposes. Repeals the recapture of gain realized from the disposition of an interest in oil, gas, or geothermal property.</summary>
+</bill>

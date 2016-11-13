@@ -1,0 +1,61 @@
+<bill session="100" type="sj" number="243" updated="2014-03-22T09:54:30-04:00">
+  <state datetime="1988-02-04">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-02-04"/>
+  </status>
+  <introduced datetime="1988-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution relating to Central America pursuant to H. J. Res. 395 of the the 100th Congress.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1988-01-28"/>
+    <cosponsor id="300053" joined="1988-01-28"/>
+    <cosponsor id="300071" joined="1988-01-28"/>
+    <cosponsor id="300089" joined="1988-01-28"/>
+    <cosponsor id="409923" joined="1988-01-28"/>
+    <cosponsor id="410315" joined="1988-01-28"/>
+    <cosponsor id="300094" joined="1988-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1988-02-02" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment unfavorably.</text>
+    </calendar>
+    <action datetime="1988-02-02">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Pell unfavorably without amendment. With written report No. 100-282.</text>
+    </action>
+    <calendar datetime="1988-02-02" calendar="Senate Legislative" under="General Orders" number="526">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 526.</text>
+    </calendar>
+    <action datetime="1988-02-04">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 54-43. Record Vote No: 17.</text>
+    </action>
+    <vote how="roll" type="vote" roll="18" datetime="1988-02-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 51-48. Record Vote No: 18.</text>
+    </vote>
+    <action datetime="1988-02-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="444"/>
+    <bill relation="identical" session="100" type="hj" number="444"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Insurgency"/>
+    <term name="Nicaragua"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1988--Introduced.
+Approves the additional authority and assistance for the Nicaraguan resistance that the President requested pursuant to the Act making continuing appropriations for FY 1988.</summary>
+</bill>

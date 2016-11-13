@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="1234" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Beneficiary Travel Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to insure eligibility of certain individuals for beneficiary travel benefits when traveling to Veterans' Administration medical facilities.</title>
+  </titles>
+  <sponsor id="402412"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-06-04"/>
+    <cosponsor id="401611" joined="1987-06-17"/>
+    <cosponsor id="300023" joined="1987-06-18"/>
+    <cosponsor id="402727" joined="1987-06-16"/>
+    <cosponsor id="300031" joined="1987-06-02"/>
+    <cosponsor id="300034" joined="1987-06-23"/>
+    <cosponsor id="403962" joined="1987-06-30"/>
+    <cosponsor id="405305" joined="1987-09-09"/>
+    <cosponsor id="405310" joined="1987-06-17"/>
+    <cosponsor id="405321" joined="1987-06-19"/>
+    <cosponsor id="300056" joined="1987-06-26"/>
+    <cosponsor id="300079" joined="1987-06-23"/>
+    <cosponsor id="408597" joined="1987-06-17"/>
+    <cosponsor id="300082" joined="1987-06-17"/>
+    <cosponsor id="300089" joined="1987-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1987--Introduced.
+Veterans' Beneficiary Travel Act of 1987 - Amends Federal veterans' benefits provisions to direct (current law authorizes) the Administrator of Veterans Affairs to pay travel expenses of certain veterans to or from a Veterans Administration facility or other authorized place in connection with rehabilitation, counseling, or medical treatment or care. Defines those veterans entitled to such payment, including: (1) those veterans financially unable to meet such travel costs; and (2) those veterans unable to bear the cost of special transportation necessitated due to a medical disability. Limits such payments in the case of travel by a privately-owned vehicle to the cost of similar public transportation for such travel. Limits, in any event, such payment to the actual cost incurred for such travel.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="1059" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-21"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to terminate the application of certain Veterans' Administration regulations relating to transportation of claimants and beneficiaries in connection with Veterans' Administration medical care.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-06-24"/>
+    <cosponsor id="402004" joined="1987-08-04"/>
+    <cosponsor id="402495" joined="1987-04-29"/>
+    <cosponsor id="405310" joined="1987-06-24"/>
+    <cosponsor id="407268" joined="1987-06-30"/>
+    <cosponsor id="300073" joined="1987-06-24"/>
+    <cosponsor id="407786" joined="1987-06-04"/>
+    <cosponsor id="409562" joined="1987-06-11"/>
+    <cosponsor id="300086" joined="1987-06-24"/>
+    <cosponsor id="409917" joined="1987-06-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-05-06">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel costs"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Terminates the application of certain Veterans Administration (VA) regulations relating to the reimbursement of transportation costs of claimants and beneficiaries in connection with medical care provided by the VA.</summary>
+</bill>

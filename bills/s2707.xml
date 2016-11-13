@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="2707" updated="2014-03-22T09:55:54-04:00">
+  <state datetime="1988-08-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-10"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the transfer of certain monkeys to the animal sanctuary known as Primarily Primates, Incorporated.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="401709" joined="1988-09-07"/>
+    <cosponsor id="300056" joined="1988-09-08"/>
+    <cosponsor id="408937" joined="1988-09-26"/>
+    <cosponsor id="300082" joined="1988-09-07"/>
+    <cosponsor id="300084" joined="1988-09-07"/>
+    <cosponsor id="409562" joined="1988-09-15"/>
+    <cosponsor id="410242" joined="1988-09-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2883"/>
+    <bill relation="identical" session="100" type="h" number="2883"/>
+  </relatedbills>
+  <subjects>
+    <term name="Animals"/>
+    <term name="Animal behavior"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Health"/>
+    <term name="Laboratory animals"/>
+    <term name="Maryland"/>
+    <term name="Medical research"/>
+    <term name="Primates"/>
+    <term name="Protection of animals"/>
+    <term name="Research"/>
+    <term name="Research and development"/>
+    <term name="Science and technology"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/1988--Introduced.
+Directs the Secretary of Health and Human Services to transfer specified monkeys used in research at the Institute for Behavioral Research in Silver Spring, Maryland, to Primarily Primates, Inc., an animal sanctuary in San Antonio, Texas.</summary>
+</bill>

@@ -1,0 +1,39 @@
+<bill session="100" type="hr" number="336" updated="2014-03-22T09:50:59-04:00">
+  <state datetime="1987-12-17">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-12-17"/>
+  </status>
+  <introduced datetime="1987-12-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against the conference report on the bill (H.R. 3030) to provide credit assistance to farmers, to strengthen the Farm Credit System, to facilitate the establishment of secondary markets for agricultural loans, and for other purposes, and against consideration of such conference report.</title>
+  </titles>
+  <sponsor id="400527"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-17">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-486.</text>
+    </action>
+    <action datetime="1987-12-17">
+      <text>Placed on House Calendar No: 119.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>Laid on Table in House by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="3030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Agriculture and food"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/1987--Introduced.
+Waives points of order against the conference report on H.R. 3030 (agricultural credit) and against its consideration.</summary>
+</bill>

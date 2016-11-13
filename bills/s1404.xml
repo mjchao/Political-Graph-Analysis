@@ -1,0 +1,36 @@
+<bill session="100" type="s" number="1404" updated="2014-03-22T09:55:18-04:00">
+  <state datetime="1987-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-23"/>
+  </status>
+  <introduced datetime="1987-06-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow insurance companies to be consolidated with noninsurance companies.</title>
+  </titles>
+  <sponsor id="300034"/>
+  <cosponsors>
+    <cosponsor id="411421" joined="1987-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business and commerce"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Income tax"/>
+    <term name="Insurance"/>
+    <term name="Insurance companies"/>
+    <term name="Tax returns"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/1987--Introduced.
+Amends the Internal Revenue Code to delete language excluding life insurance companies from the definition of "includible corporation," thus permitting such companies to be part of an affiliated group for purposes of filing a consolidated income tax return.</summary>
+</bill>

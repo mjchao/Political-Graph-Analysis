@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="2098" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Frederick Paul of Seattle, Washington.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-15">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Directs the Secretary of the Treasury to pay an unspecified sum to a named individual in full satisfaction of all claims against the United States arising from legal services performed by such individual on behalf of Arctic Slope Eskimos and other Alaska Natives in connection with the Alaska Native Claims Settlement Act.</summary>
+</bill>

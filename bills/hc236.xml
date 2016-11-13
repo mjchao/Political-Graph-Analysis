@@ -1,0 +1,37 @@
+<bill session="100" type="hc" number="236" updated="2014-03-22T09:54:12-04:00">
+  <state datetime="1988-01-25">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-01-25"/>
+  </status>
+  <introduced datetime="1988-01-25"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a Joint Session of Congress to receive a message from the President on the State of the Union.</title>
+  </titles>
+  <sponsor id="404193"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-01-25">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-01-25">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-01-25" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Received in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-01-25">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Presidential messages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/1988--Introduced.
+Provides for a joint session of the Congress on January 25, 1988, for a message from the President on the State of the Union.</summary>
+</bill>

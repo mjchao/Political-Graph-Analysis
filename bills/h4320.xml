@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="4320" updated="2014-03-22T09:53:09-04:00">
+  <state datetime="1988-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to protect the earth's ozone layer by requiring that products which contain, are produce with, or are produced from chorofluorocarbons.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Air pollution control"/>
+    <term name="Cancer"/>
+    <term name="Climate"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Consumer protection"/>
+    <term name="Environmental protection"/>
+    <term name="Fluorocarbons"/>
+    <term name="Food supply"/>
+    <term name="Health"/>
+    <term name="Labeling"/>
+    <term name="Ozone"/>
+    <term name="Public health"/>
+    <term name="Skin cancer"/>
+    <term name="Weather and Climate"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Requires that products which contain, are produced with, or are produced from chlorofluorocarbons (CFCs) be labeled with a specified warning that CFCs destroy the ozone layer which increases the risk of skin cancer and disrupts natural systems, including food production. Directs the Consumer Product Safety Commission to promulgate regulations, within three months of the date of enactment of this Act, requiring the label to be prominently placed visible to retail purchasers. Provides that a product not labeled in accordance with this Act shall be considered a misbranded hazardous substance subject to the Federal Hazardous Substances Act and a specified penalty.</summary>
+</bill>

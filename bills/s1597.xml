@@ -1,0 +1,80 @@
+<bill session="100" type="s" number="1597" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-08-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-08-18"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Farm Disaster Assistance Act of 1987 to extend the reporting date for the ethanol cost effectiveness study.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1987-08-05"/>
+    <cosponsor id="300031" joined="1987-08-05"/>
+    <cosponsor id="300048" joined="1987-08-05"/>
+    <cosponsor id="407622" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Subcommittee on Forest, Family Farms, and Energy Discharged.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>House Committee on Agriculture Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-08-07" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-08-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-08-12">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-08-12">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-08-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-100" type="public" datetime="1987-08-18">
+      <text>Became Public Law No: 100-100.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Discharged"/>
+    <committee activity="Referral, Discharged" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural surpluses"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Energy policy"/>
+    <term name="Gasoline"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Petroleum and petroleum products"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Introduced.
+Amends the Farm Disaster Assistance Act of 1987 to extend the reporting date for the ethanol cost-effectiveness study from 90 days to 180 days after enactment of such Act.</summary>
+</bill>

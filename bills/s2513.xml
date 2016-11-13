@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="2513" updated="2014-03-22T09:55:50-04:00">
+  <state datetime="1988-06-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-14"/>
+  </status>
+  <introduced datetime="1988-06-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clarify the exemptive authority of the Securities and Exchange Commission.</title>
+  </titles>
+  <sponsor id="401391"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3302"/>
+    <bill relation="identical" session="100" type="h" number="3302"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Gas companies"/>
+    <term name="Holding companies"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Public utilities"/>
+    <term name="Subsidiary corporations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/1988--Introduced.
+Exempts a holding company with only one subsidiary that is solely a gas utility from compliance with the Public Utility Holding Company Act of 1935, with the exception of certain securities acquisition restrictions, if: (1) neither the holding company nor any other subsidiary is a public utility; (2) the operations of such subsidiary gas utility company do not extend beyond the State in which it is organized; (3) the subsidiary was incorporated on June 20, 1980, for the express purpose of operating as a gas utility company; and (4) all of the voting securities of such gas utility company are owned by the holding company.</summary>
+</bill>

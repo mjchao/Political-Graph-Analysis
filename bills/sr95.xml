@@ -1,0 +1,37 @@
+<bill session="100" type="sr" number="95" updated="2014-03-22T09:54:35-04:00">
+  <state datetime="1987-01-29">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1987-01-29"/>
+  </status>
+  <introduced datetime="1987-01-29"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for members on the part of the Senate of the Joint Committee on Printing and the Joint Committee of Congress on the Library.</title>
+  </titles>
+  <sponsor id="404219"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1987-01-15" state="REPORTED">
+      <text>Committee on Rules ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1987-01-29">
+      <text>Committee on Rules. Original measure reported to Senate by Senator Byrd for Senator Ford. Without written report.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-01-29" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional joint committees"/>
+    <term name="Members of Congress (Senate)"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/1987--Introduced.
+Elects: (1) Mr. Ford of Kentucky, Mr. DeConcini of Arizona, Mr. Gore of Tennessee, Mr. Stevens of Alaska, and Mr. Hatfield of Oregon to the Joint Committee on Printing; and (2) Mr. Pell of Rhode Island, Mr. DeConcini of Arizona, Mr. Moynihan of New York, Mr. Hatfield of Oregon, and Mr. Stevens of Alaska to the Joint Committee of Congress on the Library.</summary>
+</bill>

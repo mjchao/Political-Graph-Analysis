@@ -1,0 +1,36 @@
+<bill session="100" type="hj" number="65" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to limit the tenure of office of Senators and Representatives.</title>
+  </titles>
+  <sponsor id="404325"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional terms of office"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Constitutional Amendment - Prohibits a person from being eligible for election or appointment to the office of Senator for more than three full six-year terms. Prohibits a person from being eligible for election to the office of Representative for more than nine full two-year terms.</summary>
+</bill>

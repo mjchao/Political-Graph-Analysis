@@ -1,0 +1,88 @@
+<bill session="100" type="s" number="1402" updated="2014-03-22T09:55:18-04:00">
+  <state datetime="1987-08-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-08-05"/>
+  </status>
+  <introduced datetime="1987-06-19"/>
+  <titles>
+    <title type="short" as="introduced">Nursing Shortage Reduction Act of 1987</title>
+    <title type="short" as="reported to senate">Nursing Shortage Reduction Act of 1987</title>
+    <title type="short" as="passed senate">Nursing Shortage Reduction Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title VIII of the Public Health Service Act to establish programs to reduce the shortage of professional nurses.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-06-19"/>
+    <cosponsor id="300023" joined="1987-07-01"/>
+    <cosponsor id="300034" joined="1987-06-25"/>
+    <cosponsor id="404679" joined="1987-07-01"/>
+    <cosponsor id="300051" joined="1987-06-19"/>
+    <cosponsor id="300052" joined="1987-06-19"/>
+    <cosponsor id="300056" joined="1987-06-19"/>
+    <cosponsor id="407268" joined="1987-06-19"/>
+    <cosponsor id="407663" joined="1987-07-07"/>
+    <cosponsor id="300073" joined="1987-07-01"/>
+    <cosponsor id="407786" joined="1987-06-19"/>
+    <cosponsor id="400563" joined="1987-07-09"/>
+    <cosponsor id="300086" joined="1987-07-31"/>
+    <cosponsor id="409917" joined="1987-06-19"/>
+    <cosponsor id="410242" joined="1987-06-19"/>
+    <cosponsor id="411421" joined="1987-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <calendar datetime="1987-07-01" state="REPORTED">
+      <text>Committee on Labor and Human Resources. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1987-07-02">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department, OMB.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy with amendments. With written report No. 100-132.</text>
+    </action>
+    <calendar datetime="1987-07-28" calendar="Senate Legislative" under="General Orders" number="269">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 269.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Advisory bodies"/>
+    <term name="Employee benefit plans"/>
+    <term name="Extended care facilities"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to nursing education"/>
+    <term name="Home nursing"/>
+    <term name="Labor and employment"/>
+    <term name="Long-term care"/>
+    <term name="Medical education"/>
+    <term name="Medical personnel"/>
+    <term name="Nurses"/>
+    <term name="Nursing"/>
+    <term name="Recruiting of employees"/>
+    <term name="Rural manpower policy"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Passed Senate amended.
+(Measure passed Senate, amended) Nursing Shortage Reduction Act of 1987 - Amends title VIII (Nurse Training) of the Public Health Service Act to add a new part on initiatives to reduce nursing shortages. Directs the Secretary of Health and Human Services (Secretary) to establish a special advisory committee to develop a comprehensive plan regarding long-term solutions to problems in recruiting and retaining nurses. Requires nurses to be included on the committee. Directs the Secretary to make a grant to a nonprofit private entity with a record in supporting innovative health initiatives for a project to demonstrate and evaluate innovative hospital nursing practice models. Requires models to include initiatives to: (1) restructure the role of the hospital nurse, through changes in the composition of hospital staff and through innovative approaches for interaction between hospital administration and nursing personnel; (2) test innovative wage structures for nurses; and (3) evaluate the effectiveness of providing benefits such as pensions, sabbaticals, and payment of educational expenses for nurses. Prohibits the Federal share of the costs of the project supported by the grant from exceeding 50 percent. Authorizes appropriations for FY 1988 through 1990. Directs the Secretary to make grants to or enter into contracts with public and nonprofit private collegiate schools of nursing for projects to demonstrate and evaluate innovative nursing practice models regarding long-term health care services in the home or in long-term care facilities. Authorizes appropriations for FY 1988 through 1990. Directs the Secretary to make grants to and enter into contracts with public and nonprofit private entities to develop, establish, and operate at least one and not more than five regional model professional nurse recruitment centers to recruit individuals to enter programs to train nurses. Directs the Secretary, in making grants, to ensure inclusion of centers in rural areas. Sets forth requirements for centers. Authorizes appropriations for FY 1988 through 1990.</summary>
+</bill>

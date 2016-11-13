@@ -1,0 +1,75 @@
+<bill session="100" type="h" number="4931" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-06-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1988-06-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide emergency disaster relief to farm and ranch producers who have suffered extraordinary losses due to drought, excessive heat, hail, flooding, or excessive moisture, and for other purposes.</title>
+  </titles>
+  <sponsor id="407162"/>
+  <cosponsors>
+    <cosponsor id="403190" joined="1988-06-28"/>
+    <cosponsor id="403864" joined="1988-06-28"/>
+    <cosponsor id="404723" joined="1988-06-28"/>
+    <cosponsor id="405626" joined="1988-06-28"/>
+    <cosponsor id="409651" joined="1988-06-28"/>
+    <cosponsor id="410084" joined="1988-06-28"/>
+    <cosponsor id="410097" joined="1988-06-28"/>
+    <cosponsor id="410623" joined="1988-06-28"/>
+    <cosponsor id="410765" joined="1988-06-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-28" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Referred to Subcommittee on Tobacco and Peanuts.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>See H.R.5015.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG07" subcommittee="Tobacco and Peanuts" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5015"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Droughts"/>
+    <term name="Feeds"/>
+    <term name="Livestock"/>
+    <term name="Poultry"/>
+    <term name="Swine"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/1988--Introduced.
+Provides assistance to program and nonprogram agricultural producers who have experienced at least 50 percent crop losses in 1988 due to drought or other natural disasters in areas designated by the Secretary of Agriculture. Limits producer assistance to $100,000. Requires payments to be made to eligible producers within 30 days of application. Provides for feed and water assistance (including transportation) for producers of livestock, poultry, and swine affected by drought or other natural disasters.</summary>
+</bill>

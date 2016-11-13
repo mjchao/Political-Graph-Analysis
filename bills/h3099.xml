@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="3099" updated="2014-03-22T09:52:44-04:00">
+  <state datetime="1987-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-04"/>
+  </status>
+  <introduced datetime="1987-08-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of the city of Minot, North Dakota.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-04" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-08-11">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Public works"/>
+  </subjects>
+  <amendments/>
+  <summary>8/4/1987--Introduced.
+Relieves a city in North Dakota from liability for repayment of a specified sum associated with excess capacity of the Minot Pipeline resulting from enactment of the Garrison Diversion Unit Reformulation Act of 1986 (Public Law 99-294). Requires such city to reimburse the United States for such excess capacity ever actually used.</summary>
+</bill>

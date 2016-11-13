@@ -1,0 +1,92 @@
+<bill session="100" type="s" number="1652" updated="2014-03-22T09:55:23-04:00">
+  <state datetime="1988-06-17">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-17"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the establishment by the Secretary of Agriculture of plant stress and water conservation research laboratory and program at Lubbock, Texas.</title>
+  </titles>
+  <sponsor id="401391"/>
+  <cosponsors>
+    <cosponsor id="300159" joined="1988-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <calendar datetime="1988-04-20" state="REPORTED">
+      <text>Committee on Agriculture. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-05-12">
+      <text>Committee on Agriculture. Reported to Senate by Senator Leahy with an amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-05-12" calendar="Senate Legislative" under="General Orders" number="666">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 666.</text>
+    </calendar>
+    <action datetime="1988-05-27">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-27" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-01">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-01" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-08">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-08">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-17" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-339" type="public" datetime="1988-06-17">
+      <text>Became Public Law No: 100-339.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2663"/>
+    <bill relation="identical" session="100" type="h" number="2663"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural extension work"/>
+    <term name="Agricultural research"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="American Samoa"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Guam"/>
+    <term name="Laboratories"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Plant conservation"/>
+    <term name="Puerto Rico"/>
+    <term name="Research and development"/>
+    <term name="Texas"/>
+    <term name="Trust Territory of the Pacific Islands"/>
+    <term name="Virgin Islands"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water conservation"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2335"/>
+  </amendments>
+  <summary>5/27/1988--Passed Senate amended.
+(Measure passed Senate, amended) Authorizes appropriations to establish a plant stress and water conservation research laboratory and program at Lubbock, Texas. States that any such appropriations shall remain available without fiscal year limitation. Appropriates annual funds for college assistance to Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.</summary>
+</bill>

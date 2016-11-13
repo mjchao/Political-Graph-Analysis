@@ -1,0 +1,140 @@
+<bill session="100" type="sj" number="18" updated="2016-06-29T08:45:00-04:00">
+  <state datetime="1987-04-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-04-10"/>
+  </status>
+  <introduced datetime="1987-01-14"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to authorize and request the President to issue a proclamation designating June 1 through June 7, 1987 as "National Fishing Week".</title>
+  </titles>
+  <sponsor id="411271"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="1987-02-19"/>
+    <cosponsor id="300010" joined="1987-02-19"/>
+    <cosponsor id="401604" joined="1987-02-19"/>
+    <cosponsor id="401611" joined="1987-02-05"/>
+    <cosponsor id="401709" joined="1987-02-02"/>
+    <cosponsor id="300012" joined="1987-02-05"/>
+    <cosponsor id="402004" joined="1987-02-05"/>
+    <cosponsor id="402023" joined="1987-02-05"/>
+    <cosponsor id="300016" joined="1987-02-02"/>
+    <cosponsor id="402412" joined="1987-02-02"/>
+    <cosponsor id="402495" joined="1987-02-02"/>
+    <cosponsor id="300023" joined="1987-02-05"/>
+    <cosponsor id="403142" joined="1987-01-21"/>
+    <cosponsor id="403171" joined="1987-02-02"/>
+    <cosponsor id="300031" joined="1987-02-02"/>
+    <cosponsor id="403346" joined="1987-03-19"/>
+    <cosponsor id="403515" joined="1987-02-26"/>
+    <cosponsor id="300036" joined="1987-02-02"/>
+    <cosponsor id="403669" joined="1987-01-14"/>
+    <cosponsor id="403920" joined="1987-02-02"/>
+    <cosponsor id="403962" joined="1987-02-02"/>
+    <cosponsor id="404679" joined="1987-02-02"/>
+    <cosponsor id="300046" joined="1987-03-19"/>
+    <cosponsor id="300048" joined="1987-02-05"/>
+    <cosponsor id="405305" joined="1987-02-02"/>
+    <cosponsor id="405310" joined="1987-02-05"/>
+    <cosponsor id="405321" joined="1987-02-02"/>
+    <cosponsor id="300154" joined="1987-02-02"/>
+    <cosponsor id="300053" joined="1987-02-02"/>
+    <cosponsor id="405795" joined="1987-02-05"/>
+    <cosponsor id="300056" joined="1987-02-26"/>
+    <cosponsor id="406190" joined="1987-02-19"/>
+    <cosponsor id="300064" joined="1987-02-02"/>
+    <cosponsor id="300070" joined="1987-02-05"/>
+    <cosponsor id="407268" joined="1987-02-19"/>
+    <cosponsor id="300071" joined="1987-02-02"/>
+    <cosponsor id="407355" joined="1987-02-02"/>
+    <cosponsor id="407663" joined="1987-02-26"/>
+    <cosponsor id="407786" joined="1987-02-05"/>
+    <cosponsor id="400563" joined="1987-03-19"/>
+    <cosponsor id="300150" joined="1987-02-02"/>
+    <cosponsor id="300079" joined="1987-02-05"/>
+    <cosponsor id="408252" joined="1987-02-05"/>
+    <cosponsor id="408597" joined="1987-02-02"/>
+    <cosponsor id="408939" joined="1987-02-19"/>
+    <cosponsor id="408970" joined="1987-02-02"/>
+    <cosponsor id="409225" joined="1987-02-19"/>
+    <cosponsor id="300084" joined="1987-02-05"/>
+    <cosponsor id="400565" joined="1987-02-05"/>
+    <cosponsor id="409580" joined="1987-02-02"/>
+    <cosponsor id="300089" joined="1987-02-19"/>
+    <cosponsor id="409917" joined="1987-02-19"/>
+    <cosponsor id="409923" joined="1987-02-19"/>
+    <cosponsor id="300092" joined="1987-02-02"/>
+    <cosponsor id="300094" joined="1987-03-19"/>
+    <cosponsor id="410936" joined="1987-02-05"/>
+    <cosponsor id="300099" joined="1987-02-19"/>
+    <cosponsor id="411421" joined="1987-02-26"/>
+    <cosponsor id="411801" joined="1987-02-02"/>
+    <cosponsor id="412006" joined="1987-01-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1987-03-19" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-03-19">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1987-03-19" calendar="Senate Legislative" under="General Orders" number="42">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 42.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-03-20" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-03-24">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-03-31" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-03-31">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-04-02">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-04-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-04-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-22" type="public" datetime="1987-04-10">
+      <text>Became Public Law No: 100-22.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="121"/>
+    <bill relation="identical" session="100" type="hj" number="121"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Fishing"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>1/14/1987--Introduced.
+Authorizes and requests the President to designate June 1 through June 7, 1987, as National Fishing Week.</summary>
+</bill>

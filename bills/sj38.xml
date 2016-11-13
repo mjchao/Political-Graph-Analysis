@@ -1,0 +1,57 @@
+<bill session="100" type="sj" number="38" updated="2014-03-22T09:54:19-04:00">
+  <state datetime="1987-01-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-28"/>
+  </status>
+  <introduced datetime="1987-01-28"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to allow the President to veto items of appropriation.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-01-28"/>
+    <cosponsor id="300159" joined="1987-03-23"/>
+    <cosponsor id="300048" joined="1987-01-28"/>
+    <cosponsor id="405305" joined="1987-01-28"/>
+    <cosponsor id="300053" joined="1987-01-28"/>
+    <cosponsor id="405795" joined="1987-01-28"/>
+    <cosponsor id="406190" joined="1987-01-28"/>
+    <cosponsor id="300072" joined="1987-05-27"/>
+    <cosponsor id="300150" joined="1987-01-28"/>
+    <cosponsor id="300079" joined="1987-01-28"/>
+    <cosponsor id="408898" joined="1987-09-11"/>
+    <cosponsor id="408937" joined="1987-01-28"/>
+    <cosponsor id="400565" joined="1987-01-28"/>
+    <cosponsor id="409923" joined="1987-01-29"/>
+    <cosponsor id="410588" joined="1987-01-28"/>
+    <cosponsor id="300157" joined="1987-01-28"/>
+    <cosponsor id="410936" joined="1987-01-28"/>
+    <cosponsor id="411271" joined="1987-01-28"/>
+    <cosponsor id="411762" joined="1987-03-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Item veto"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/28/1987--Introduced.
+Constitutional Amendment - Permits the President to disapprove any item of appropriation in any Act or joint resolution. Requires the President to return with his objections any disapproved item of appropriation to the House in which the bill originated. Subjects such bills to the same proceedings as other bills disapproved by the President.</summary>
+</bill>

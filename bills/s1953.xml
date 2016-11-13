@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="1953" updated="2014-03-22T09:55:31-04:00">
+  <state datetime="1987-12-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-16"/>
+  </status>
+  <introduced datetime="1987-12-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act so as to remove the limitation upon the amount of outside income which an individual may earn while receiving benefits thereunder.</title>
+  </titles>
+  <sponsor id="405305"/>
+  <cosponsors>
+    <cosponsor id="300099" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="230"/>
+    <bill relation="identical" session="100" type="h" number="230"/>
+    <bill relation="identical" session="100" type="h" number="469"/>
+    <bill relation="identical" session="100" type="h" number="1643"/>
+    <bill relation="identical" session="100" type="h" number="2612"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Earnings"/>
+    <term name="Old age, survivors and disability insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/1987--Introduced.
+Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to remove the limitation on the amount of outside income which a beneficiary may earn without incurring a reduction in benefits.</summary>
+</bill>

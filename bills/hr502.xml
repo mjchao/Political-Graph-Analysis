@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="502" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-07-27">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-07-27"/>
+  </status>
+  <introduced datetime="1988-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for a motion to take the bill (H.R. 1414) to amend the Price-Anderson provisions of the Atomic Energy Act of 1954 to extend and improve the procedures for liability and indemnification for nuclear incidents, from the Speaker's table and to disagree with Senate amendments numbered 1 through 15 and concur in Senate amendment number 16 with an amendment.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-27">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-803.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Placed on House Calendar No: 488.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="1414"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Nuclear energy"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/1988--Introduced.
+Makes it in order to take from the Speaker's table H.R. 1414 (nuclear incident liability), with Senate amendments thereto, and to consider a motion disposing of such amendments.</summary>
+</bill>

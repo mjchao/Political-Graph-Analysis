@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="430" updated="2014-03-22T09:51:01-04:00">
+  <state datetime="1988-04-20">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-04-20"/>
+  </status>
+  <introduced datetime="1988-04-20"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving all points of order against the conference report on the bill (H.R. 3) to enhance the competitiveness of American industry, and for other purposes, and against the consideration of such conference report.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-20">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-577.</text>
+    </action>
+    <action datetime="1988-04-20">
+      <text>Placed on House Calendar No: 146.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 340 - 61 (Record Vote No: 63).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="3"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>4/20/1988--Introduced.
+Waives points of order against the conference report on H.R. 3 (trade law revisions) and against its consideration.</summary>
+</bill>

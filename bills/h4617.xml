@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="4617" updated="2014-03-22T09:53:21-04:00">
+  <state datetime="1988-05-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-17"/>
+  </status>
+  <introduced datetime="1988-05-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide assistance through the National Endowment for Democracy to promote democracy in Nicaragua.</title>
+  </titles>
+  <sponsor id="406473"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-05-24"/>
+    <cosponsor id="400025" joined="1988-05-24"/>
+    <cosponsor id="400055" joined="1988-05-24"/>
+    <cosponsor id="402114" joined="1988-05-24"/>
+    <cosponsor id="402454" joined="1988-06-23"/>
+    <cosponsor id="402657" joined="1988-06-23"/>
+    <cosponsor id="402928" joined="1988-05-24"/>
+    <cosponsor id="403769" joined="1988-05-17"/>
+    <cosponsor id="404002" joined="1988-05-24"/>
+    <cosponsor id="406765" joined="1988-05-24"/>
+    <cosponsor id="407069" joined="1988-05-24"/>
+    <cosponsor id="407399" joined="1988-05-24"/>
+    <cosponsor id="410066" joined="1988-06-23"/>
+    <cosponsor id="410574" joined="1988-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-17" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-05-31">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+    <action datetime="1988-05-31">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Democracy"/>
+    <term name="Foundations"/>
+    <term name="Government operations and politics"/>
+    <term name="Grants-in-aid"/>
+    <term name="Nicaragua"/>
+    <term name="Nonviolence"/>
+    <term name="United States Information Agency"/>
+  </subjects>
+  <amendments/>
+  <summary>5/17/1988--Introduced.
+Earmarks a specified amount of funds made available to the Economic Support Fund for FY 1989 to be used for a grant to the National Endowment for Democracy to promote democracy in Nicaragua. Requires that such funds be used in a manner consistent with the Guatemala Peace Accords of August 7, 1987, and the Agreement between the Government of Nicaragua and the Nicaraguan Resistance of March 23, 1988. Specifies that such funds may be provided only to internal groups that have renounced violence and support a negotiated settlement to the conflict in Nicaragua.</summary>
+</bill>

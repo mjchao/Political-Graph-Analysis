@@ -1,0 +1,104 @@
+<bill session="100" type="h" number="2203" updated="2014-03-22T09:52:17-04:00">
+  <state datetime="1988-06-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to increase the amount authorized to be appropriated with respect to the Sewall-Belmont House National Historic Site.</title>
+  </titles>
+  <sponsor id="401560"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-05-10">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-611.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Placed on Union Calendar No: 363.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-23" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <calendar datetime="1988-05-24" calendar="Senate Legislative" under="General Orders" number="688">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 688.</text>
+    </calendar>
+    <action datetime="1988-06-06">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-06" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-14" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-17">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-355" type="public" datetime="1988-06-28">
+      <text>Became Public Law No: 100-355.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Authorization"/>
+    <term name="Construction costs"/>
+    <term name="District of Columbia"/>
+    <term name="Dredging"/>
+    <term name="Economics and public finance"/>
+    <term name="Harbors"/>
+    <term name="Historic sites"/>
+    <term name="Louisiana"/>
+    <term name="Northern Mariana Islands"/>
+    <term name="Social life and customs"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2336"/>
+  </amendments>
+  <summary>6/6/1988--Passed Senate amended.
+(Measure passed Senate, amended) Increases the authorization of appropriations for the Sewall-Belmont House National Historic Site, District of Columbia. Directs the Secretary of the Interior: (1) in order to provide a planning framework for the management, preservation, and interpretation of the site, to develop a statement for management, a statement for interpretation, a scope of collections statement, and a historical structures report; and (2) to transmit these documents to specified congressional committees. Directs the National Park Service to enter into negotiations with the owner of the Sewall-Belmont House to prepare a revised cooperative agreement detailing each of the party's responsibilities and to transmit such agreement to the appropriate committees within 30 days after its execution. Adds one member to the Delta Region Preservation Commission who shall have experience as a folklorist and who is familiar with the cultures of the region. Authorizes appropriations for: (1) construction of the Saipan harbor project in the Northern Mariana Islands; and (2) planning, design, and construction for replacement of the main breakwater and for dredging of the San Jose harbor on the Island of Tinian in the Northern Mariana Islands. Applies specified cost-sharing provisions to the latter project, with specific consideration of possible defense uses of the harbor in determining project benefits.</summary>
+</bill>

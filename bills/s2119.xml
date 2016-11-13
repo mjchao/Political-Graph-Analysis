@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="2119" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-02"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to make permanent the exclusion from income of amounts received under qualified group legal services plans.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-03-02"/>
+    <cosponsor id="403142" joined="1988-06-23"/>
+    <cosponsor id="300031" joined="1988-04-27"/>
+    <cosponsor id="403669" joined="1988-03-02"/>
+    <cosponsor id="400563" joined="1988-03-02"/>
+    <cosponsor id="300150" joined="1988-08-08"/>
+    <cosponsor id="409562" joined="1988-04-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Business and commerce"/>
+    <term name="Employee benefit plans"/>
+    <term name="Income tax"/>
+    <term name="Insurance"/>
+    <term name="Labor and employment"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal services"/>
+    <term name="Legal services insurance"/>
+    <term name="Tax exclusion"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1988--Introduced.
+Amends the Internal Revenue Code to make permanent the income tax exclusion of amounts received under qualified group legal services plans. (Under current law the exclusion expired as of January 1, 1988.)</summary>
+</bill>

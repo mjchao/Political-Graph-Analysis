@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="881" updated="2014-03-22T09:55:03-04:00">
+  <state datetime="1988-05-12">REPORTED</state>
+  <status>
+    <unknown datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Marsha D. Christopher.</title>
+  </titles>
+  <sponsor id="409225"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <calendar datetime="1988-05-12" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-05-12">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-05-12" calendar="Senate Legislative" under="General Orders" number="663">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 663.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1987--Introduced.
+Relieves a named individual of the liability to refund to the United States any benefit paid in compensation for injuries received while performing duties as a letter carrier. Directs the Secretary of the Treasury to pay to such individual any amount of compensation refunded and any amount of reduction in compensation payable in connection with such injuries.</summary>
+</bill>

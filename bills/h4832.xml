@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="4832" updated="2014-03-22T09:53:27-04:00">
+  <state datetime="1988-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-15"/>
+  </status>
+  <introduced datetime="1988-06-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to transfer all right, title, and interest of the United States in certain property on San Juan Island, Washington, to those persons who own such property because of an erroneous survey.</title>
+  </titles>
+  <sponsor id="410567"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-15" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-08-17">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Colleges"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Surveying"/>
+    <term name="Washington State"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/1988--Introduced.
+Directs the Secretary of the Interior to transfer all right, title, and interest of the United States in certain property at San Juan Island, Washington, to the owners. States that such property, which was granted to Washington for the use of the University of Washington, was erroneously surveyed.</summary>
+</bill>

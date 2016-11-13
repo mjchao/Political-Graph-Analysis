@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="1602" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1988-07-29">REPORTED</state>
+  <status>
+    <unknown datetime="1988-07-29"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to declare that certain lands are held in trust for Potawatomi Indian communities in Wisconsin and Michigan.</title>
+  </titles>
+  <sponsor id="408937"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-05-11">
+      <text>Senate Committee on Energy and Natural Resources discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-05-11">
+      <text>Referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="1988-07-29" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Indian lands"/>
+    <term name="Michigan"/>
+    <term name="Wisconsin"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Declares that specified Federal land located in Forest County and Oconto County, Wisconsin, is held in trust by the United States as the reservation of the Forest County Potawatomi Community of Wisconsin. Declares that specified Federal land located in Menominee County, Michigan, is held in trust by the United States as the reservation of the Hannahville Indian Community of Michigan.</summary>
+</bill>

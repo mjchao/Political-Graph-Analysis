@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="2078" updated="2014-03-22T09:55:35-04:00">
+  <state datetime="1988-02-22">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-22"/>
+  </status>
+  <introduced datetime="1988-02-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to require a majority of employees to approve the establishment of an employee stock ownership plan, and for other purposes.</title>
+  </titles>
+  <sponsor id="400927"/>
+  <cosponsors>
+    <cosponsor id="410588" joined="1988-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee on Taxation and Debt Management. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSFI06" subcommittee="Taxation and Debt Management" name="Senate Finance"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Employee benefit plans"/>
+    <term name="Employee ownership"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Stockholders"/>
+    <term name="Stockholders' voting"/>
+    <term name="Stocks"/>
+    <term name="Tax-deferred compensation plans"/>
+  </subjects>
+  <amendments/>
+  <summary>2/22/1988--Introduced.
+Amends the Internal Revenue Code to require a majority of employees to approve (by secret ballot) their employer's establishment of an employee stock ownership plan (ESOP). Requires the employer to notify employees, before the election, of all the material facts concerning the plan, including its terms and asset transfer provisions. Authorizes the Secretary of the Treasury to disqualify an ESOP if the voting rights of any plan participant or beneficiary are not substantially similar to those of other persons holding the same class of securities.</summary>
+</bill>

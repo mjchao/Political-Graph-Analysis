@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="2174" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-16"/>
+  </status>
+  <introduced datetime="1988-03-16"/>
+  <titles>
+    <title type="short" as="introduced">Local Rail Service Reauthorizing Act</title>
+    <title type="official" as="introduced">A bill to amend the Department of Transportation Act so as to reauthorize local rail service assistance.</title>
+  </titles>
+  <sponsor id="402023"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1988-06-14"/>
+    <cosponsor id="300031" joined="1988-06-20"/>
+    <cosponsor id="300034" joined="1988-05-18"/>
+    <cosponsor id="300060" joined="1988-06-07"/>
+    <cosponsor id="407622" joined="1988-04-19"/>
+    <cosponsor id="407663" joined="1988-05-19"/>
+    <cosponsor id="300150" joined="1988-06-06"/>
+    <cosponsor id="408898" joined="1988-06-10"/>
+    <cosponsor id="408939" joined="1988-05-18"/>
+    <cosponsor id="300084" joined="1988-04-13"/>
+    <cosponsor id="409562" joined="1988-05-10"/>
+    <cosponsor id="409580" joined="1988-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Subcommittee on Surface Transportation. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSCM08" subcommittee="Surface Transportation" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Authorization"/>
+    <term name="Department of Transportation"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Government operations and politics"/>
+    <term name="Railroad finance"/>
+    <term name="Railroad freight operations"/>
+    <term name="Railroad maintenance and repair"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/1988--Introduced.
+Local Rail Service Reauthorizing Act - Amends the Department of Transportation Act regarding local rail service assistance to authorize appropriations for FY 1989 through 1993. Decreases the Federal share of rail service assistance program costs from 70 percent to 50 percent. Provides that the Federal share of costs to rehabilitate rail properties for the purpose of facilitating rail freight service shall be 70 percent.</summary>
+</bill>

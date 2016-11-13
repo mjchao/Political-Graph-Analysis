@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="2063" updated="2014-03-22T09:52:10-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Single-Employer Variable-Rate Premium Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Employee Retirement Income Security Act of 1974 to increase premium revenue for the single-employer pension plan termination insurance program and to provide a more equitable distribution of single-employer pension plan premium costs.</title>
+  </titles>
+  <sponsor id="407676"/>
+  <cosponsors>
+    <cosponsor id="400085" joined="1987-05-27"/>
+    <cosponsor id="408109" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Business and commerce"/>
+    <term name="Employee benefit plans"/>
+    <term name="Insurance"/>
+    <term name="Insurance premiums"/>
+    <term name="Pension funds"/>
+    <term name="Pension trust guaranty insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Single-Employer Variable-Rate Premium Act of 1987 - Amends the Employee Retirement Income Security Act of 1974 to revise, for plan year 1988 and thereafter, the annual premium for the guaranty fund covering singe-employer basic pension benefits plans. Changes from a fixed rate per participant to a formula yielding a variable rate dependent on the number of participants and the funding target deficiency, if any. Sets forth formulas for determining the new premium. Requires the Pension Benefit Guaranty Corporation (PBGC) to: (1) review triennially the claims experience and financial condition of the single-employer program; (2) determine the premium revenue necessary for the next funding charge period; and (3) adjust the premium charge to meet such revenue needs. Prohibits the triennial adjustment from yielding an increase or decrease in premium in excess of 50 percent. Fixes a maximum premium amount for a plan year. Authorizes specified surcharges, which are exempted from the premium cap. Makes each contributing sponsor of a single-employer plan or member of a sponsor's controlled group liable to the PBGC for payment of the plan's premiums.</summary>
+</bill>

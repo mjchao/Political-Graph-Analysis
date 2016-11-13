@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="4589" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="short" as="introduced">War on Drug Smuggling Act</title>
+    <title type="official" as="introduced">A bill to provide for military assistance to certain civilian law enforcement agencies to enhance their ability to detect and interdict the unlawful transport of controlled substances across the international boundaries of the United States.</title>
+  </titles>
+  <sponsor id="401947"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-12" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-05-20">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>Referred to Subcommittee on Investigations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS06" subcommittee="Investigations" name="House Armed Services"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Armed forces and national security"/>
+    <term name="Criminal investigation"/>
+    <term name="Department of Justice"/>
+    <term name="Department of Transportation"/>
+    <term name="Department of the Treasury"/>
+    <term name="Drug Enforcement Administration (DEA)"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Federal Aviation Administration"/>
+    <term name="Federal Bureau of Investigation (FBI)"/>
+    <term name="International affairs"/>
+    <term name="Military personnel"/>
+    <term name="Narcotic traffic"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1988--Introduced.
+War on Drug Smuggling Act - Allows the Secretary of Defense to provide military personnel and equipment to the Drug Enforcement Administration, the U.S. Customs Service, the Federal Bureau of Investigation, and the Federal Aviation Administration for the detection and interdiction of unlawfully transported controlled substances.</summary>
+</bill>

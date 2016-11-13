@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="1215" updated="2014-03-22T09:51:44-04:00">
+  <state datetime="1987-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-24"/>
+  </status>
+  <introduced datetime="1987-02-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clarify the intent of Congress with respect to the use by the Navy of interport differentials for ship maintenance contracts on the west coast of the United States.</title>
+  </titles>
+  <sponsor id="400191"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-24" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Executive Comment Requested from USNA.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Referred to Subcommittee on Seapower and Strategic and Critical Materials.</text>
+    </action>
+    <action datetime="1987-07-10">
+      <text>Unfavorable Executive Comment Received From USNA.</text>
+    </action>
+    <action datetime="1987-07-10">
+      <text>Unfavorable Executive Comment Received From USNA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS05" subcommittee="Seapower and Strategic and Critical Materials" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Armed forces and national security"/>
+    <term name="Costs"/>
+    <term name="Defense articles"/>
+    <term name="Defense contracts"/>
+    <term name="Maintenance and repair"/>
+    <term name="Navy"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Warships"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1987--Introduced.
+Directs the Secretary of the Navy to comply with a current provision of Federal law which requires the Secretary to take into consideration interport differential costs when evaluating contracts for the proposed overhaul, maintenance, or repair of naval vessels, notwithstanding another Federal provision which prohibits Department of the Navy funds to be used for any such contract in which interport differential costs are used as a factor in such contract.</summary>
+</bill>

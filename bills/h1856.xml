@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="1856" updated="2014-03-22T09:52:04-04:00">
+  <state datetime="1987-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-30"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to require medicaid plans to disregard regular annual increases in veterans' benefits if the increase would have the effect of disqualifying individuals already eligible for medicaid benefits.</title>
+  </titles>
+  <sponsor id="407673"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Armed forces and national security"/>
+    <term name="Health"/>
+    <term name="Medicaid"/>
+    <term name="Military pensions"/>
+    <term name="Public assistance programs"/>
+    <term name="Social security eligibility"/>
+    <term name="Survivors' benefits"/>
+    <term name="Veterans' benefits"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1987--Introduced.
+Amends title XIX (Medicaid) of the Social Security Act to require State Medicaid plans to disregard regular annual increases in veterans' benefits when such increases disqualify individuals who are already eligible for Medicaid benefits.</summary>
+</bill>

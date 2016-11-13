@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="695" updated="2014-03-22T09:51:31-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to permit members of the Armed Forces to wear, under certain circumstances, items of apparel not part of the official uniform.</title>
+  </titles>
+  <sponsor id="410145"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-02-06">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="248"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Military personnel"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Amends the Federal law concerning military uniforms to authorize the wearing of an item of religious apparel as part of the military uniform if the item is: (1) part of the religious faith of the member; and (2) neat and conservative. Authorizes the Secretary of the military department concerned to prohibit the wearing of an item of religious apparel if it is found to significantly interfere with the performance of duty.</summary>
+</bill>

@@ -1,0 +1,92 @@
+<bill session="100" type="s" number="2188" updated="2014-12-10T13:16:05-05:00">
+  <state datetime="1988-07-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-07-13"/>
+  </status>
+  <introduced datetime="1988-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 307 of the Federal Employees' Retirement System Act of 1986.</title>
+  </titles>
+  <sponsor id="408939"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-05-23"/>
+    <cosponsor id="404219" joined="1988-06-06"/>
+    <cosponsor id="404679" joined="1988-03-25"/>
+    <cosponsor id="300066" joined="1988-03-25"/>
+    <cosponsor id="300094" joined="1988-03-25"/>
+    <cosponsor id="300099" joined="1988-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1988-05-19" state="REPORTED">
+      <text>Committee on Governmental Affairs. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-05-26">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-05-26" calendar="Senate Legislative" under="General Orders" number="694">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 694.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-06" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-20" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-21">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-06-28" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-07-06">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-07-13" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-366" type="public" datetime="1988-07-13">
+      <text>Became Public Law No: 100-366.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service retirement"/>
+    <term name="Costs"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government contractors"/>
+    <term name="Government liability"/>
+    <term name="Government trust funds"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Social welfare"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/1988--Passed House amended.
+(Measure passed House, amended) Amends the Federal Employees' Retirement System Act of 1986 to include the cost of the thrift savings plan and the cost of social security in comparisons between the costs of performing commercial activities with contract personnel and with Federal personnel. Permits the earnings attributable to the sums invested in the Government Securities Investment Fund to be reinvested in the Fixed Income Investment Fund or the Common Stock Index Investment Fund. Specifies that the Federal Tort Claims Act remedy is the exclusive remedy available to beneficiaries of the Thrift Savings Fund and that the protections afforded by such Act apply to the fiduciaries.</summary>
+</bill>

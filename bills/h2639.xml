@@ -1,0 +1,96 @@
+<bill session="100" type="h" number="2639" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-12-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-24"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the Brown-Stevens Act concerning certain Indian Tribes in the State of Nebraska.</title>
+  </titles>
+  <sponsor id="400023"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-08-05" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-27">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-401.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Placed on Union Calendar No: 259.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Placed on Consent Calendar No: 13.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Called up by House on Call of Consent Calendar.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Passed House (Amended) by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-11-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1987-11-18" calendar="Senate Legislative" under="General Orders" number="441">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 441.</text>
+    </calendar>
+    <action datetime="1987-12-12">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-12" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1987-12-18">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-20">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-212" type="public" datetime="1987-12-24">
+      <text>Became Public Law No: 100-212.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Education"/>
+    <term name="Federal aid to education"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Impacted area programs"/>
+    <term name="Indian claims"/>
+    <term name="Indian lands"/>
+    <term name="Local taxation"/>
+    <term name="Minnesota"/>
+    <term name="Nebraska"/>
+    <term name="State taxation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1359"/>
+  </amendments>
+  <summary>12/12/1987--Passed Senate amended.
+(Measure passed Senate, amended) Repeals the Brown Act of 1910 and the Brown-Stevens Act of 1916 concerning the taxation of Omaha and Winnebago Indian lands in Nebraska. Provides that nothing in this Act shall affect any claim of an Indian tribe or individual arising from such Acts. Declares this Act to have been effective on January 1, 1951, for the purpose of Federal payments made to the Macy, Walthill, and Winnebago school districts in Thurston County, Nebraska, because of the existence of non-taxable Indian lands located within such school districts. Amends the White Earth Reservation Land Settlement Act of 1985 to extend to March 12, 1989 (currently, March 12, 1988) the deadline for the Bureau of Indian Affairs to compile the second list of individuals who have claims to the settlement agreement under such Act.</summary>
+</bill>

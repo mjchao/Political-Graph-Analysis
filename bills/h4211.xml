@@ -1,0 +1,113 @@
+<bill session="100" type="h" number="4211" updated="2014-03-22T09:53:07-04:00">
+  <state datetime="1988-11-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-08"/>
+  </status>
+  <introduced datetime="1988-03-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to reauthorize the National Ocean Pollution Planning Act of 1978 for fiscal years 1989 and 1990, and for other purposes.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1988-03-21"/>
+    <cosponsor id="405775" joined="1988-03-21"/>
+    <cosponsor id="406148" joined="1988-03-21"/>
+    <cosponsor id="400359" joined="1988-03-21"/>
+    <cosponsor id="409644" joined="1988-04-13"/>
+    <cosponsor id="410496" joined="1988-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-21" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Executive Comment Requested from Commerce, Interior, Army Corps of Engineers, EPA.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-03-24">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-05-26">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-657 (Part I).</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="403" datetime="1988-10-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 412 - 5 (Record Vote No: 403).</text>
+    </vote>
+    <action datetime="1988-10-05">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1988-10-07" calendar="Senate Legislative" under="General Orders" number="1134">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1134.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-19" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-08" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-636" type="public" datetime="1988-11-08">
+      <text>Became Public Law No: 100-636.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral"/>
+    <committee activity="Referral" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Authorization"/>
+    <term name="Department of Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive reorganization"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Great Lakes"/>
+    <term name="Information services"/>
+    <term name="Lakes"/>
+    <term name="Marine pollution"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Passed House amended.
+(Measure passed House, amended, roll call #403 (398-21)) Amends the National Ocean Pollution Planning Act of 1978 to: (1) establish an Under Secretary for Oceans and Atmosphere in the Department of Commerce; and (2) eliminate the position of Administrator of the National Oceanic and Atmospheric Administration. Substitutes the Under Secretary for the Administrator for purposes of the Act. Makes the Director of the National Ocean Pollution Program Office responsible for the administration of the National Ocean Pollution Program. Requires the National Ocean Pollution Policy Board to report simultaneously to the Office of Management and Budget (OMB) and the Congress on all department and agency budget requests relating to the comprehensive Federal plan on ocean pollution. (Currently such report does not need to be submitted simultaneously to OMB and the Congress.) Extends through FY 1990 the authorization of appropriations to carry out the purposes of the National Ocean Pollution Planning Act of 1978.</summary>
+</bill>

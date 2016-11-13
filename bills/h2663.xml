@@ -1,0 +1,90 @@
+<bill session="100" type="h" number="2663" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-07-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-07-27"/>
+  </status>
+  <introduced datetime="1987-06-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the establishment by the Secretary of Agriculture of a plant stress and water conservation research laboratory and program at Lubbock, Texas.</title>
+  </titles>
+  <sponsor id="400079"/>
+  <cosponsors>
+    <cosponsor id="401628" joined="1987-07-27"/>
+    <cosponsor id="403308" joined="1987-06-11"/>
+    <cosponsor id="400389" joined="1987-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-11" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-23" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-07-24">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Reported to House by House Committee on Agriculture.  Report No: 100-240.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Placed on Union Calendar No: 148.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <calendar datetime="1988-04-20">
+      <text>Committee on Agriculture. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1652"/>
+    <bill relation="identical" session="100" type="s" number="1652"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural extension work"/>
+    <term name="Agricultural research"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Laboratories"/>
+    <term name="Plant conservation"/>
+    <term name="Research and development"/>
+    <term name="Texas"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water conservation"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/1987--Introduced.
+Authorizes appropriations to establish a plant stress and water conservation research laboratory and program at Lubbock, Texas.</summary>
+</bill>

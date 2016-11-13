@@ -1,0 +1,76 @@
+<bill session="100" type="h" number="2363" updated="2014-03-22T09:52:20-04:00">
+  <state datetime="1987-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-11"/>
+  </status>
+  <introduced datetime="1987-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that during a two-year period each item of any joint resolution making continuing appropriations that is agreed to by both Houses of the Congress in the same form shall be enrolled as a separate joint resolution for presentation to the President.</title>
+  </titles>
+  <sponsor id="402435"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-09-14"/>
+    <cosponsor id="400018" joined="1987-06-03"/>
+    <cosponsor id="400569" joined="1987-06-03"/>
+    <cosponsor id="401526" joined="1987-09-14"/>
+    <cosponsor id="401628" joined="1987-09-14"/>
+    <cosponsor id="401874" joined="1987-06-30"/>
+    <cosponsor id="300029" joined="1988-05-26"/>
+    <cosponsor id="403178" joined="1987-09-14"/>
+    <cosponsor id="403203" joined="1987-09-14"/>
+    <cosponsor id="300033" joined="1987-06-03"/>
+    <cosponsor id="403476" joined="1987-06-30"/>
+    <cosponsor id="404009" joined="1987-05-19"/>
+    <cosponsor id="404097" joined="1987-09-14"/>
+    <cosponsor id="404325" joined="1987-05-19"/>
+    <cosponsor id="400176" joined="1987-11-30"/>
+    <cosponsor id="405448" joined="1987-09-14"/>
+    <cosponsor id="405580" joined="1987-06-30"/>
+    <cosponsor id="400205" joined="1987-05-19"/>
+    <cosponsor id="400590" joined="1987-05-19"/>
+    <cosponsor id="406530" joined="1987-05-19"/>
+    <cosponsor id="406790" joined="1987-06-03"/>
+    <cosponsor id="406799" joined="1987-06-03"/>
+    <cosponsor id="407215" joined="1987-06-30"/>
+    <cosponsor id="407669" joined="1987-06-30"/>
+    <cosponsor id="407721" joined="1987-05-11"/>
+    <cosponsor id="407967" joined="1987-05-11"/>
+    <cosponsor id="408190" joined="1987-05-19"/>
+    <cosponsor id="408618" joined="1987-05-19"/>
+    <cosponsor id="409325" joined="1987-05-19"/>
+    <cosponsor id="409354" joined="1987-05-11"/>
+    <cosponsor id="409443" joined="1987-05-19"/>
+    <cosponsor id="400359" joined="1987-06-30"/>
+    <cosponsor id="409651" joined="1987-06-03"/>
+    <cosponsor id="400369" joined="1987-09-14"/>
+    <cosponsor id="410010" joined="1987-05-19"/>
+    <cosponsor id="400389" joined="1987-05-11"/>
+    <cosponsor id="410553" joined="1987-06-03"/>
+    <cosponsor id="410641" joined="1987-05-19"/>
+    <cosponsor id="400414" joined="1987-07-28"/>
+    <cosponsor id="411178" joined="1987-06-03"/>
+    <cosponsor id="400439" joined="1987-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-11" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="402"/>
+    <bill relation="identical" session="100" type="s" number="402"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+    <term name="Item veto"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1987--Introduced.
+Provides that each item of any joint resolution making continuing appropriations that is agreed to in the same form by both Houses of the Congress shall be enrolled as a separate bill or joint resolution for presentation to the President (line-item veto).</summary>
+</bill>

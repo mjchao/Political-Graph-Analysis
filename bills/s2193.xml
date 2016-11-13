@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="2193" updated="2014-03-22T09:55:38-04:00">
+  <state datetime="1988-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-18"/>
+  </status>
+  <introduced datetime="1988-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to increase the independence of psychologists with respect to services furnished at a comprehensive outpatient rehabilitation facility.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="403669" joined="1988-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Ambulatory care"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+    <term name="Mental health services"/>
+    <term name="Rehabilitation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1988--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to cover rehabilitative psychological services furnished to outpatients of comprehensive outpatient rehabilitation facilities. Requires that each patient at such facilities be under a physician's care to the extent required by State law.</summary>
+</bill>

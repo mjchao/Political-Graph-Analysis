@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="674" updated="2014-03-22T09:54:59-04:00">
+  <state datetime="1987-03-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-06"/>
+  </status>
+  <introduced datetime="1987-03-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the definition of the term producer in section 3 of the Beef Research and Information Act.</title>
+  </titles>
+  <sponsor id="300065"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="358"/>
+    <bill relation="identical" session="100" type="h" number="358"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural marketing regulation"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Beef"/>
+    <term name="Cattle"/>
+    <term name="Food and Food Industry"/>
+    <term name="Livestock"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Meat"/>
+  </subjects>
+  <amendments/>
+  <summary>3/6/1987--Introduced.
+Amends the Beef Research and Information Act to exclude from the definition of "producer" a person who sells cattle that are ten days old or less as of the sale date.</summary>
+</bill>

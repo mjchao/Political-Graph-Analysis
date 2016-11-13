@@ -1,0 +1,45 @@
+<bill session="100" type="hj" number="567" updated="2014-03-22T09:54:01-04:00">
+  <state datetime="1988-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-11"/>
+  </status>
+  <introduced datetime="1988-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating the American mixed-breed hybrid dog as the All-American dog.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-05-24"/>
+    <cosponsor id="400064" joined="1988-06-08"/>
+    <cosponsor id="404869" joined="1988-05-25"/>
+    <cosponsor id="405646" joined="1988-05-25"/>
+    <cosponsor id="406530" joined="1988-06-01"/>
+    <cosponsor id="400231" joined="1988-05-24"/>
+    <cosponsor id="407899" joined="1988-07-07"/>
+    <cosponsor id="408023" joined="1988-06-01"/>
+    <cosponsor id="409251" joined="1988-06-08"/>
+    <cosponsor id="409344" joined="1988-06-01"/>
+    <cosponsor id="300155" joined="1988-05-11"/>
+    <cosponsor id="400409" joined="1988-06-01"/>
+    <cosponsor id="410926" joined="1988-05-24"/>
+    <cosponsor id="411725" joined="1988-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-11" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Dogs"/>
+    <term name="Emblems"/>
+    <term name="National emblems"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1988--Introduced.
+Declares that the mixed breed dog is adopted as the all-American dog.</summary>
+</bill>

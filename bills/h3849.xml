@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="3849" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-25"/>
+  </status>
+  <introduced datetime="1988-01-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to eliminate medicare part B premium increases for months during which an individual resides outside the United States.</title>
+  </titles>
+  <sponsor id="404765"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-01-25" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-01-25">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-01-28">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-02-05">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Health"/>
+    <term name="International affairs"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>1/25/1988--Introduced.
+Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to eliminate part B premium increases for months during which an individual resides outside the United States if such months are part of a continuous 12-month period during which such individual was outside the country for at least 330 days.</summary>
+</bill>

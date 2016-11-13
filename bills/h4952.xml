@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="4952" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-08-08">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-08-08"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Election Campaign Act of 1971 to require that all contributions in elections for Federal office be subject to that Act.</title>
+  </titles>
+  <sponsor id="400401"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-29" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-10">
+      <text>Received in the Senate and read twice and referred to the Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Congressional elections"/>
+    <term name="Political action committees"/>
+    <term name="Presidential elections"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>8/8/1988--Passed House amended.
+(Measure passed House, amended) Amends the Federal Election Campaign Act of 1971 to prohibit a candidate or the authorized political committee of a candidate from accepting any contribution with respect to a Federal election unless the contribution is subject to such Act at the time the contribution is originally made and at all other times.</summary>
+</bill>

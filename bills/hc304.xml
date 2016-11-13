@@ -1,0 +1,65 @@
+<bill session="100" type="hc" number="304" updated="2014-03-22T09:54:14-04:00">
+  <state datetime="1988-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-19"/>
+  </status>
+  <introduced datetime="1988-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution calling on Israel to drop all charges against Mubarak E. Awad and to allow him to continue undeterred his important work on behalf of regional peace in the Middle East.</title>
+  </titles>
+  <sponsor id="400527"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-06-01"/>
+    <cosponsor id="400572" joined="1988-06-01"/>
+    <cosponsor id="300019" joined="1988-06-15"/>
+    <cosponsor id="402657" joined="1988-06-23"/>
+    <cosponsor id="403031" joined="1988-06-01"/>
+    <cosponsor id="403364" joined="1988-06-01"/>
+    <cosponsor id="400110" joined="1988-06-01"/>
+    <cosponsor id="403695" joined="1988-06-01"/>
+    <cosponsor id="404006" joined="1988-06-01"/>
+    <cosponsor id="405256" joined="1988-06-01"/>
+    <cosponsor id="400216" joined="1988-06-01"/>
+    <cosponsor id="406461" joined="1988-06-15"/>
+    <cosponsor id="400243" joined="1988-06-01"/>
+    <cosponsor id="407960" joined="1988-06-01"/>
+    <cosponsor id="408190" joined="1988-06-16"/>
+    <cosponsor id="400331" joined="1988-06-01"/>
+    <cosponsor id="409344" joined="1988-06-01"/>
+    <cosponsor id="410496" joined="1988-06-01"/>
+    <cosponsor id="400611" joined="1988-06-01"/>
+    <cosponsor id="411224" joined="1988-06-01"/>
+    <cosponsor id="411488" joined="1988-06-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-19" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-05-31">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Executive Comment Received From State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Human rights"/>
+    <term name="Israel"/>
+    <term name="Middle East"/>
+    <term name="Nonviolence"/>
+    <term name="Palestinians"/>
+    <term name="Peace"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1988--Introduced.
+Calls upon the President to urge the State of Israel to drop all charges against Mubarak Awad and allow him to continue his work on behalf of regional peace at the Palestinian Center for the Study of Nonviolence.</summary>
+</bill>

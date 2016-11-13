@@ -1,0 +1,65 @@
+<bill session="100" type="s" number="2373" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-27">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-05-27"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">An original bill to make supplemental authorizations for appropriations for fiscal year 1988 for the Department of Defense, and for other purposes.</title>
+  </titles>
+  <sponsor id="408252"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-04-27" state="REPORTED">
+      <text>Committee on Armed Services ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1988-05-12">
+      <text>Committee on Armed Services. Original measure reported to Senate by Senator Nunn. With written report No. 100-339.</text>
+    </action>
+    <calendar datetime="1988-05-12" calendar="Senate Legislative" under="General Orders" number="660">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 660.</text>
+    </calendar>
+    <action datetime="1988-05-27">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-05-27">
+      <text>Senate struck all after the enacting clause and inserted the language of section 903 of S.2355, as amended. By Voice Vote.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-27" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate in lieu of S. 2355 (Section 903) with an amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSAS" name="Senate Armed Services" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2355"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Air defenses"/>
+    <term name="Armed forces reserves"/>
+    <term name="Authorization"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense budgets"/>
+    <term name="Defense contracts"/>
+    <term name="Department of Defense"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Freight"/>
+    <term name="Government operations and politics"/>
+    <term name="Maritime operations"/>
+    <term name="Military aircraft"/>
+    <term name="Military research"/>
+    <term name="National Guard"/>
+    <term name="Research and development"/>
+    <term name="Submarine warfare"/>
+    <term name="Tankers"/>
+    <term name="Tanks (Combat vehicles)"/>
+    <term name="Warships"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/1988--Passed Senate amended.
+(Measure passed Senate, amended, (Inserted certain provisions of S. 2355)) Prohibits the obligation or expenditure of specified funds appropriated for the following programs in the Department of Defense Appropriations Act, 1988: (1) Maxicube cargo system under research, development, test, and evaluation for the Army; (2) Coastal Defense Augmentation; (3) AN/SQR-17 Acoustic Processors for the Mobile In-Shore Undersea Warfare Group; and (4) P-3C aircraft under procurement of National Guard and Reserve equipment. Prohibits Army procurement funds from being obligated or expended for a certain air defense system unless the Secretary of Defense certifies to the Congress that the system has met or exceeded full system requirements. Prohibits Navy aircraft procurement funds from being obligated or expended for procurement of any A-6 aircraft configured in the F-model configuration. Permits the use of specified funds appropriated for the modification of M60 tanks for procurement or modification of M1 tanks. Provides that, for purposes of certain transfer authority provided under the National Defense Authorization Act for Fiscal Years 1988 and 1989, the above amounts prohibited from being obligated or expended under the Department of Defense Appropriations Act, 1988 shall be deemed to have been authorized under such Act in equal amounts to the Army, Navy, and Air Force for operation and maintenance to prevent the furlough and separation of civilian employees, and for funding other high-priority readiness programs.</summary>
+</bill>

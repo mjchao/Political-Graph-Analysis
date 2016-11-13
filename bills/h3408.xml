@@ -1,0 +1,149 @@
+<bill session="100" type="h" number="3408" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1988-10-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-31"/>
+  </status>
+  <introduced datetime="1987-10-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to increase the amounts authorized for the Colorado River Storage Project.</title>
+  </titles>
+  <sponsor id="408407"/>
+  <cosponsors>
+    <cosponsor id="400552" joined="1987-10-01"/>
+    <cosponsor id="408190" joined="1987-10-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-01" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1988-01-13">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-04-18">
+      <text>Field Hearings Held in Salt Lake City, Utah.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-13">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-915.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Placed on Union Calendar No: 548.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-15">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Read twice and held at the desk by unanimous consent.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-30" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>House Concurred, in Senate Amendments , with Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate amendment.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-11" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendments to Senate amendment with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-12" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments to House Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-31" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-563" type="public" datetime="1988-10-31">
+      <text>Became Public Law No: 100-563.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1173"/>
+    <bill relation="unknown" session="100" type="h" number="4315"/>
+    <bill relation="identical" session="100" type="s" number="1737"/>
+    <bill relation="identical" session="100" type="s" number="1737"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Arizona"/>
+    <term name="Authorization"/>
+    <term name="California"/>
+    <term name="Colorado"/>
+    <term name="Construction costs"/>
+    <term name="Drainage"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Historic sites"/>
+    <term name="Irrigation"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="National parks"/>
+    <term name="New Mexico"/>
+    <term name="Reservoirs"/>
+    <term name="Rivers"/>
+    <term name="Stream conservation"/>
+    <term name="Trails"/>
+    <term name="Utah"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water storage"/>
+    <term name="Water supply"/>
+    <term name="Wildlife conservation"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3317"/>
+    <amendment number="s3662"/>
+    <amendment number="s3663"/>
+  </amendments>
+  <summary>10/11/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendments with an amendment) Increases authorized appropriations for the continued construction of the Colorado River Storage Project and for the continued construction of the municipal and industrial water features of the Bonneville Unit of the Central Utah Project. (The Colorado River Storage Project provides water and power to Arizona, Colorado, New Mexico, Utah, and Wyoming.) Directs the Secretary of the Interior to submit to the Congress, not later than December 31, 1989, an environmental impact statement for the Irrigation and Drainage System of the Bonneville Unit of the Central Utah Project. Requires funds available for fish and wildlife mitigation and recreation to be spent in accordance with the report accompanying this Act. Modifies the boundary of the Uinta National Forest to include certain acres of Strawberry Valley Project lands. Requires the Strawberry Water Users Association to relinquish all surface rights and interests in such lands. Transfers certain lands to the Association and provides compensation to be used for Strawberry Valley Reclamation project purposes. Directs the Secretary of the Interior, after payment of such compensation, to transfer to the Secretary of Agriculture administrative jurisdiction over specified acreage for rehabilitation. Authorizes the Secretary of Agriculture to make other land exchanges as necessary. Authorizes the expansion of the boundaries of the John Muir National Historic Site, California. Authorizes appropriations to acquire lands and interests in lands as necessary. Authorizes the Secretary of the Interior to enter into a cooperative agreement with the East Bay Regional Park District of Oakland, California, for the operation and maintenance by such District of trails on lands within the John Muir National Historic Site. Prohibits the expansion of any reservoir within the Yosemite National Park, California.</summary>
+</bill>

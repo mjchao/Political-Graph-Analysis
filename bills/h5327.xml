@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="5327" updated="2014-03-22T09:53:36-04:00">
+  <state datetime="1988-09-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-16"/>
+  </status>
+  <introduced datetime="1988-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize continued storage of water at Abiquiu Dam in New Mexico.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-16" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1988-10-24">
+      <text>For Further Action See H.R.5423.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5423"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Dams"/>
+    <term name="New Mexico"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water storage"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>9/16/1988--Introduced.
+Authorizes the Secretary of the Army, acting through the Chief of Engineers, to store specified acre-feet of Rio Grande system water at Abiquiu Dam, New Mexico, in lieu of water storage already authorized, to the extent that contracting entities no longer require such storage. Authorizes the Secretary to acquire, as necessary, interests in lands required for such storage. Subjects the authorization to store water and to acquire lands to the provisions of the Rio Grande Compact and the resolutions of the Rio Grande Compact Commission.</summary>
+</bill>

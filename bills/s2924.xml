@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="2924" updated="2014-03-22T09:55:58-04:00">
+  <state datetime="1988-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-10-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to clarify that medically necessary procedures related to atrophic and weakened jaws are covered under such title.</title>
+  </titles>
+  <sponsor id="300066"/>
+  <cosponsors>
+    <cosponsor id="409225" joined="1988-10-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Dental care"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Surgery"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1988--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act with respect to the inclusion of jaw reconstruction surgery within Medicare coverage.</summary>
+</bill>

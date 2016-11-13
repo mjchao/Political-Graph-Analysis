@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="1284" updated="2014-03-22T09:51:46-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Railroad Retirement Act of 1974 to eliminate the last person service rule.</title>
+  </titles>
+  <sponsor id="403641"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Annuities"/>
+    <term name="Employee benefit plans"/>
+    <term name="Railroad employees"/>
+    <term name="Railroad retirement plans"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Amends the Railroad Retirement Act of 1974 to deny an individual an entitlement to an annuity until such individual has ceased rendering compensated service to an employer. Repeals the provisions which condition annuity payments upon an annuitant's: (1) relinquishment of all rights to return to the service of the last employer; or (2) cessation of compensated service to the last employer prior to the annuity's accrual date.</summary>
+</bill>

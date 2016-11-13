@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="606" updated="2014-03-22T09:51:29-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to discourage domestic corporations from establishing foreign manufacturing subsidiaries in order to avoid Federal taxes by including in gross income of United States shareholders in foreign corporations the retained earnings of any such subsidiary which are attributable to manufacturing operations in runaway plants or tax havens.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-03-17"/>
+    <cosponsor id="401947" joined="1987-03-05"/>
+    <cosponsor id="400126" joined="1987-03-25"/>
+    <cosponsor id="404750" joined="1987-03-05"/>
+    <cosponsor id="405256" joined="1987-03-17"/>
+    <cosponsor id="300055" joined="1987-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Income tax"/>
+    <term name="International corporations"/>
+    <term name="Subsidiary corporations"/>
+    <term name="Tax havens"/>
+    <term name="Taxation of foreign income"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Amends the Internal Revenue Code to include in foreign base company income any foreign base company manufacturing related income for the taxable year. Defines "foreign base manufacturing related income" as any income derived from the sale of property by a controlled foreign corporation where the property sold was manufactured in any country other than the United States in either a tax holiday plant or in a runaway plant. Defines "tax holiday plant" and "runaway plant."</summary>
+</bill>

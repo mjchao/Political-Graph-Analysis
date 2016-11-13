@@ -1,0 +1,50 @@
+<bill session="100" type="sc" number="42" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-04-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-07"/>
+  </status>
+  <introduced datetime="1987-04-07"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to condemn human rights violations.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1987-04-07"/>
+    <cosponsor id="402495" joined="1987-04-07"/>
+    <cosponsor id="402727" joined="1987-04-07"/>
+    <cosponsor id="300159" joined="1987-04-07"/>
+    <cosponsor id="300048" joined="1987-04-07"/>
+    <cosponsor id="300154" joined="1987-04-07"/>
+    <cosponsor id="406188" joined="1987-04-07"/>
+    <cosponsor id="300070" joined="1987-04-07"/>
+    <cosponsor id="300150" joined="1987-04-07"/>
+    <cosponsor id="408898" joined="1987-04-07"/>
+    <cosponsor id="400565" joined="1987-04-07"/>
+    <cosponsor id="410588" joined="1987-04-07"/>
+    <cosponsor id="410936" joined="1987-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-07" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Committee on Foreign Relations requested executive comment from State Department.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Committee on Foreign Relations received executive comment from State Department. Favorable.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Cuba"/>
+    <term name="Human rights"/>
+    <term name="United Nations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/7/1987--Introduced.
+Declares that the Congress: (1) condemns the violations of human rights engaged in by the Castro Government in Cuba; (2) urges all appropriate international bodies to pressure that government to live up to internationally accepted human rights standards; (3) welcomes the fact that 18 members of the United Nations Human Rights Commission voted to put the question of Cuban human rights performance on the Commission's agenda; (4) regrets that the Commission, by a one vote margin, decided not to put the issue on its agenda; and (5) regrets that the democracies of the Western Hemisphere failed to vote unanimously to put the question on the agenda.</summary>
+</bill>

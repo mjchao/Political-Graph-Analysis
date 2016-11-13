@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="2595" updated="2014-03-22T09:52:24-04:00">
+  <state datetime="1987-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-03"/>
+  </status>
+  <introduced datetime="1987-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Medical Device Improvements Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to make improvements in the regulation of medical devices.</title>
+  </titles>
+  <sponsor id="400425"/>
+  <cosponsors>
+    <cosponsor id="400110" joined="1987-06-03"/>
+    <cosponsor id="406974" joined="1988-05-11"/>
+    <cosponsor id="407351" joined="1987-10-22"/>
+    <cosponsor id="410567" joined="1987-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-03" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>See H.R.4640.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4640"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Consumer protection"/>
+    <term name="Drug safety and regulation"/>
+    <term name="Drugs"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Medical supplies"/>
+    <term name="Product safety"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/1987--Introduced.
+Medical Device Improvements Act of 1987 - Amends the Federal Food, Drug, and Cosmetic Act to require medical facilities to inform the Secretary of Health and Human Services and the manufacturer whenever they believe a medical device could have contributed to a death, illness, or injury, or may have seriously malfunctioned. Establishes civil penalties for knowing violations. Requires manufacturers to maintain records of such information. Authorizes the Secretary to waive application requirements for premarket approval for a class III device. Defines "substantially identical" for purposes of classifying devices, requiring same intended use and same technological characteristics. Requires the submission of clinical data demonstrating the substantial equivalence of a device, defined as having the same intended use as another device, but different technological characteristics. Requires a person seeking substantial identity or equivalence to a class III device to certify that a search of published information on such device has been concluded and may be required to include relevant adverse safety and effectiveness data. Requires the Secretary within five years to reclassify class III devices into class I or into class II or to state that the classification is appropriate. Revises existing standards to designate as class II devices those devices for which it can be determined whether or not a performance standard is appropriate rather than requiring a performance standard as under current law. Authorizes the Secretary of Health and Human Services to reclassify class III devices (devices requiring premarket approval) into class I (devices requiring general controls) or class II as appropriate to assure the safety and effectiveness of such devices. Revises the procedures for establishing performance standards for devices. Removes the non-state-of-the-art design and manufacture basis for repair, replacement, or refund remedy. Eliminates devices from the color additives regulation. Requires the Secretary to support education and training activities to minimize the exposure of people to health hazards associated with devices. Makes it discretionary rather than mandatory to refer device applications to a panel for evaluation. Amends the Orphan Drug Act to include medical devices.</summary>
+</bill>

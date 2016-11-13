@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="1000" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">United States House of Representatives Election Recount Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for time limits for completion of recounts in general and special elections for the office of Representative.</title>
+  </titles>
+  <sponsor id="407669"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-11"/>
+    <cosponsor id="401029" joined="1987-02-04"/>
+    <cosponsor id="400012" joined="1987-02-04"/>
+    <cosponsor id="401155" joined="1987-02-04"/>
+    <cosponsor id="401383" joined="1987-02-04"/>
+    <cosponsor id="403476" joined="1987-02-04"/>
+    <cosponsor id="404325" joined="1987-02-04"/>
+    <cosponsor id="404602" joined="1987-10-13"/>
+    <cosponsor id="405939" joined="1987-02-04"/>
+    <cosponsor id="300057" joined="1987-02-04"/>
+    <cosponsor id="400205" joined="1987-02-04"/>
+    <cosponsor id="400226" joined="1987-03-11"/>
+    <cosponsor id="406530" joined="1987-02-04"/>
+    <cosponsor id="400236" joined="1987-02-04"/>
+    <cosponsor id="400239" joined="1987-02-04"/>
+    <cosponsor id="406799" joined="1987-02-04"/>
+    <cosponsor id="300069" joined="1987-02-04"/>
+    <cosponsor id="407196" joined="1987-03-11"/>
+    <cosponsor id="407215" joined="1987-02-04"/>
+    <cosponsor id="407519" joined="1987-02-04"/>
+    <cosponsor id="407676" joined="1987-02-04"/>
+    <cosponsor id="407721" joined="1987-02-04"/>
+    <cosponsor id="400601" joined="1987-02-04"/>
+    <cosponsor id="408457" joined="1987-02-04"/>
+    <cosponsor id="300083" joined="1987-02-04"/>
+    <cosponsor id="409644" joined="1987-02-04"/>
+    <cosponsor id="410641" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Ballots"/>
+    <term name="Congressional elections"/>
+    <term name="Contested elections"/>
+    <term name="Election administration"/>
+    <term name="House of Representatives"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+United States House of Representatives Election Recount Act of 1987 - Declares that any recount of ballots for the office of Representative shall be completed: (1) in a general election by December 31 of the year of the election; and (2) in a special election by the end of six weeks after the election.</summary>
+</bill>

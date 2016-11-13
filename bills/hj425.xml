@@ -1,0 +1,47 @@
+<bill session="100" type="hj" number="425" updated="2014-03-22T09:53:57-04:00">
+  <state datetime="1987-12-16">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-16"/>
+  </status>
+  <introduced datetime="1987-12-16"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution making further continuing appropriations for the fiscal year ending September 30, 1988, and for other purposes.</title>
+  </titles>
+  <sponsor id="411587"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-16">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="484" datetime="1987-12-16" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 272 - 149 (Record Vote No: 484).</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-16" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-16">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1987-12-16">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-16" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-193" type="public" datetime="1987-12-16">
+      <text>Became Public Law No: 100-193.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Appropriations"/>
+  </subjects>
+  <amendments/>
+  <summary>12/16/1987--Introduced.
+Extends the deadline for availability of certain continuing appropriations for FY 1988 until December 18, 1987.</summary>
+</bill>

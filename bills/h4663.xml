@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="4663" updated="2014-03-22T09:53:22-04:00">
+  <state datetime="1988-05-24">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-24"/>
+  </status>
+  <introduced datetime="1988-05-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize certain employees of the Department of Agriculture charged with the enforcement of laws relating to the control or prevention of the introduction or dissemination of plant diseases or plant pests into the United States to carry firearms for self-protection.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-24" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Civil service employment"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Firearms"/>
+    <term name="Firearms control"/>
+    <term name="Law enforcement officers"/>
+    <term name="Pest control"/>
+    <term name="Plant diseases"/>
+    <term name="Plant protection"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/1988--Introduced.
+Authorizes certain Department of Agriculture employees charged with enforcing plant disease or plant pest prevention laws to carry firearms while on official duty.</summary>
+</bill>

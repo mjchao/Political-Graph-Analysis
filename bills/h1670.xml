@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="1670" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Gregory E. Walters.</title>
+  </titles>
+  <sponsor id="403641"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full satisfaction of claims arising out of allegations made against the Tennessee Valley Authority, with whom he was employed, regarding a home insulation program.</summary>
+</bill>

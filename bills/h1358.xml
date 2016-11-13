@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="1358" updated="2014-03-22T09:51:48-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Earnings Test Limitation Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to eliminate the earnings test for individuals who have attained retirement age.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors>
+    <cosponsor id="410145" joined="1988-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-06">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Earnings"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Older workers"/>
+    <term name="Retirement"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Social Security Earnings Test Limitation Act of 1987 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to remove the limitation on the amount of outside income which beneficiaries who have attained retirement age may earn without incurring a reduction in benefits.</summary>
+</bill>

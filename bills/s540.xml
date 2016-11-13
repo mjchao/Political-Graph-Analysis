@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="540" updated="2014-03-22T09:54:56-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the President to direct the Secretary of Defense, the Secretary of Health and Human Services, and the Administrator of Veterans' Affairs to submit to the appropriate committees of the Congress a joint report addressing the question of United States Government responsibility for providing benefits and services to individuals who served with certain voluntary organizations in support of the Armed Forces of the United States stationed in the Republic of Vietnam during the Vietnam era.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="403483" joined="1987-02-19"/>
+    <cosponsor id="409917" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Referred to Subcommittee on Federal Services, Post Office.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA05" subcommittee="Federal Services, Post Office, and Civil Service" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Americans employed in foreign countries"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="International affairs"/>
+    <term name="Labor and employment"/>
+    <term name="Vietnam"/>
+    <term name="Vietnamese Conflict"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Requires the President to direct the Secretary of Defense, the Secretary of Health and Human Services, and the Administrator of Veterans Affairs to submit to the appropriate committees of the Congress, no later than 180 days after the enactment of this Act, a joint report addressing the question of Government responsibility for providing benefits and services to individuals who served with volunteer organizations in support of U.S. armed forces stationed in Vietnam during the Vietnam era.</summary>
+</bill>

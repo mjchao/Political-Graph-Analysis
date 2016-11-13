@@ -1,0 +1,80 @@
+<bill session="100" type="h" number="1617" updated="2014-03-22T09:51:54-04:00">
+  <state datetime="1987-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-16"/>
+  </status>
+  <introduced datetime="1987-03-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to promote United States trade in agricultural commodities, and for other purposes.</title>
+  </titles>
+  <sponsor id="403873"/>
+  <cosponsors>
+    <cosponsor id="406157" joined="1987-05-06"/>
+    <cosponsor id="406191" joined="1987-04-09"/>
+    <cosponsor id="400223" joined="1987-04-09"/>
+    <cosponsor id="408109" joined="1987-04-09"/>
+    <cosponsor id="411166" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-16" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Referred to Subcommittee on International Development Institutions and Finance.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Referred to Subcommittee on International Finance, Trade and Monetary Policy.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA06" subcommittee="International Development Institutions and Finance" name="House Banking, Finance, and Urban Affairs"/>
+    <committee activity="Referral" code="HSBA08" subcommittee="International Finance, Trade and Monetary Policy" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural surpluses"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="American economic assistance"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign trade promotion"/>
+    <term name="Grain trade"/>
+    <term name="International affairs"/>
+    <term name="International cooperation"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Trade agreements"/>
+    <term name="Trade negotiations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/1987--Introduced.
+Directs the Secretary of Agriculture to: (1) initiate discussions with other major grain-producing nations (including European Economic Community members, Canada, Australia, and Argentina) leading toward an agreement to reduce grain production; and (2) report to the Congress by March 1, 1988. Directs the President to enter into joint development assistance agreements with nations having a positive trade balance with the United States. Amends the Foreign Assistance Act of 1961 to: (1) prohibit the use of U.S. assistance for construction projects which would be detrimental to American farmers; and (2) limit the use of U.S. assistance to purchase foreign goods and services. Directs the Secretary to require that countries receiving U.S. food assistance give future purchase preference to U.S. food and food products. Amends Federal law to direct the Commodity Credit Corporation to make agricultural commodities available free to nonprofit organizations to promote U.S. agricultural marketing abroad. Requires that at least one-third of foreign assistance funds be used to make U.S. food commodities available to foreign countries pursuant to the Agricultural Trade Development and Assistance Act of 1954.</summary>
+</bill>

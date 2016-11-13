@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="2288" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-05"/>
+  </status>
+  <introduced datetime="1987-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow a charitable contribution deduction to farmers who donate agricultural products to assist victims of natural disasters.</title>
+  </titles>
+  <sponsor id="400610"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-05" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="561"/>
+    <bill relation="identical" session="100" type="s" number="561"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural surpluses"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Charitable contributions"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Farm produce"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Income tax"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1987--Introduced.
+Amends the Internal Revenue Code to allow a farmer an income tax deduction for specified agricultural products donated to a State for the care of individuals adversely affected by a major natural disaster. Sets the amount of such deduction at the fair market value of the charitable contribution minus production costs for which the taxpayer has taken a deduction.</summary>
+</bill>

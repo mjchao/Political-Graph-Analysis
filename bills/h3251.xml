@@ -1,0 +1,156 @@
+<bill session="100" type="h" number="3251" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1988-08-01">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-01"/>
+  </status>
+  <introduced datetime="1987-09-10"/>
+  <titles>
+    <title type="short" as="introduced">Bicentennial of the United States Congress Commemorative Coin Act</title>
+    <title type="short" as="passed house">Bicentennial of the United States Congress Commemorative Coin Act</title>
+    <title type="short" as="reported to senate">Bicentennial of the United States Congress Commemorative Coin Act</title>
+    <title type="short" as="passed senate" partial="1">Bicentennial of the United States Congress Commemorative Coin Act</title>
+    <title type="short" as="passed senate" partial="1">Dwight David Eisenhower Commemorative Coin Act of 1987</title>
+    <title type="short" as="passed senate" partial="1">Statehood Centennial Commemorative Coin Act of 1989</title>
+    <title type="short" as="enacted">Bicentennial of the United States Congress Commemorative Coin Act</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Treasury to mint coins in commemoration of the Bicentennial of the United States Congress.</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors>
+    <cosponsor id="400895" joined="1987-09-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-10" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-09-15">
+      <text>Referred to Subcommittee on Consumer Affairs and Coinage.</text>
+    </action>
+    <action datetime="1987-09-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-09-15">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-09-29" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-09-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Banking.</text>
+    </action>
+    <calendar datetime="1988-05-24">
+      <text>Committee on Banking. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-06-10">
+      <text>Committee on Banking. Reported to Senate by Senator Proxmire with amendments. With written report No. 100-383.</text>
+    </action>
+    <calendar datetime="1988-06-10" calendar="Senate Legislative" under="General Orders" number="730">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 730.</text>
+    </calendar>
+    <action datetime="1988-06-15">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Voice Vote.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Measure laid before Senate by motion.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="186" datetime="1988-06-15" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 96-0. Record Vote No: 186.</text>
+    </vote>
+    <action datetime="1988-06-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>House Agreed to Senate Amendments 018, 023, 028 by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>House Concurred, in Senate Amendment 036 , with Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>House Disagreed to Senate Amendments 001, 002, 003, 004, 005, 006, 007, 008, 009, 010, 011, 012, 013, 014, 015, 016, 017 by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>House Disagreed to Senate Amendments 019, 020, 021, 022, 024, 025, 026, 027, 029, 030, 031, 032, 033, 034, 035, 037, 038, 039 by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate amendments.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Senate receded from its amendments no. 1-17, 19-22, 24-27, 29-35, and 37-39 by Voice Vote.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-07-12" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendment to the Senate amendment no. 36 with an amendment(SP2577) by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments to House Amendments to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-07-13">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-07-26">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-07-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-01" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-378" type="public" datetime="1988-08-01">
+      <text>Became Public Law No: 100-378.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSBA02" subcommittee="Consumer Affairs and Coinage" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Anniversaries"/>
+    <term name="Capitol (Washington, D.C.)"/>
+    <term name="Coins and coinage"/>
+    <term name="Commemorations"/>
+    <term name="Congress"/>
+    <term name="Deposit insurance"/>
+    <term name="Economics and public finance"/>
+    <term name="Ex-presidents"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Gold"/>
+    <term name="Government trust funds"/>
+    <term name="Idaho"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Montana"/>
+    <term name="North Dakota"/>
+    <term name="Public debt"/>
+    <term name="Research and development"/>
+    <term name="Savings and loan associations"/>
+    <term name="Silver"/>
+    <term name="South Dakota"/>
+    <term name="Statehood (American politics)"/>
+    <term name="Washington State"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2369"/>
+    <amendment number="s2370"/>
+    <amendment number="s2376"/>
+    <amendment number="s2377"/>
+    <amendment number="s2378"/>
+    <amendment number="s2379"/>
+    <amendment number="s2577"/>
+  </amendments>
+  <summary>7/12/1988--Senate receded and concurred with amendment.
+(Senate receded and concurred in certain House amendment with amendment) Bicentennial of the United States Congress Commemorative Coin Act - Directs the Secretary of the Treasury to mint and issue not more than a specified number of five dollar gold coins, one dollar silver coins, and half dollar clad coins emblematic of the bicentennial of the U.S. Congress. Sets forth certain features of such coins and provides for their design, issuance, and sale. Terminates the minting of such coins after June 30, 1990. Requires the Secretary to deposit in the Treasury all surcharges received from the sale of such coins, to be used to reduce the national debt. Declares that no law governing procurement or public contracts is applicable to the procurement of goods and services for carrying out this Act, except that this provision does not relieve any person from complying with any law relating to equal employment opportunity. Extends for one year, until August 10, 1989, the moratorium on voluntary termination of Federal Savings and Loan Insurance Corporation insured status. Repeals all provisions of this Act, except for those relating to the extension of the moratorium on termination of FSLIC insured status, on the day after the date of enactment of this Act. Declares that no person shall be liable for not complying with the repealed provisions while they are in effect.</summary>
+</bill>

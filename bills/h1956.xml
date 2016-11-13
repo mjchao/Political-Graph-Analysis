@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="1956" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1987-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-06"/>
+  </status>
+  <introduced datetime="1987-04-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the definition of "vessel of the United States" in the Magnuson Fishery Conservation and Management Act.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="407721" joined="1987-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-06" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-04-08">
+      <text>Executive Comment Requested from Interior, Commerce, State.</text>
+    </action>
+    <action datetime="1987-04-08">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-04-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Fisheries"/>
+    <term name="Fishing boats"/>
+    <term name="Shipbuilding"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Vessel documentation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/6/1987--Introduced.
+Amends the Magnuson Fishery Conservation and Management Act to revise the definition of "vessel of the United States." Provides that no vessel first documented after April 6, 1987, shall be considered a "vessel of the United States" unless such vessel is documented under specified laws relating to fishery licenses and registry which include considerations of where such vessel was built.</summary>
+</bill>

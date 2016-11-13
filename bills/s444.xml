@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="444" updated="2014-03-22T09:54:54-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to retain a capital gains tax differential, and for other purposes.</title>
+  </titles>
+  <sponsor id="401611"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-03-03"/>
+    <cosponsor id="402990" joined="1987-10-28"/>
+    <cosponsor id="403920" joined="1987-10-27"/>
+    <cosponsor id="404444" joined="1987-03-18"/>
+    <cosponsor id="406190" joined="1987-10-20"/>
+    <cosponsor id="300079" joined="1987-10-27"/>
+    <cosponsor id="410588" joined="1987-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Capital gains tax"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Income tax"/>
+    <term name="Tax deductions"/>
+    <term name="Tax rates"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Amends the Tax Reform Act of 1986 to repeal provisions relating to the taxation of both individual and corporate capital gains. Provides that the Internal Revenue Code shall be applied and administered as if such provisions had not been enacted. Amends the Deficit Reduction Act of 1984 to increase the holding period required for long-term capital gain tax treatment of property acquired after 1986. Amends the Internal Revenue Code to revise the method of calculating the deduction for capital gains. Allows a capital gains deduction of 60 percent for assets held three years or more, and 40 percent for assets held for more than one but less than three years.</summary>
+</bill>

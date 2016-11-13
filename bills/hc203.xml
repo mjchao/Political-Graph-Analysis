@@ -1,0 +1,41 @@
+<bill session="100" type="hc" number="203" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-10-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-14"/>
+  </status>
+  <introduced datetime="1987-10-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress with respect to fishing licenses for senior citizens.</title>
+  </titles>
+  <sponsor id="410529"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-14" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Sports and recreation"/>
+    <term name="Fishing"/>
+    <term name="Licenses"/>
+    <term name="Recreation"/>
+    <term name="Social welfare"/>
+    <term name="Sports and Athletics"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/1987--Introduced.
+Expresses the sense of the Congress that any person aged 65 or older should be able to fish in any State without the purchase of a license.</summary>
+</bill>

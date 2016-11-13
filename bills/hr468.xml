@@ -1,0 +1,35 @@
+<bill session="100" type="hr" number="468" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-09"/>
+  </status>
+  <introduced datetime="1988-06-09"/>
+  <titles>
+    <title type="official" as="introduced">A resolution commending Clifford Hugh Frame for his leadership and achievement in the operation of the Cyprus Anvil Mine.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-09" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-06-24">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Canada"/>
+    <term name="Commemorations"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Zinc"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/1988--Introduced.
+Commends Clifford Hugh Frame for his leadership and achievement in the operation of the Cyprus Anvil Mine, Canada.</summary>
+</bill>

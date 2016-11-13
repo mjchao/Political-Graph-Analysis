@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="1511" updated="2014-03-22T09:51:52-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Service Sector Data Collection Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for collection by the Federal Government of data regarding service sector economic activity.</title>
+  </titles>
+  <sponsor id="406284"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Executive Comment Requested from OMB, Commerce.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Computer industry"/>
+    <term name="Construction industries"/>
+    <term name="Economic growth"/>
+    <term name="Economic statistics"/>
+    <term name="Economics and public finance"/>
+    <term name="Engineering"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information services"/>
+    <term name="Insurance companies"/>
+    <term name="Securities industry"/>
+    <term name="Service industries"/>
+    <term name="Tourist trade"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Service Sector Data Collection Act of 1987 - Requires the President to direct the appropriate Federal agencies to collect and disseminate information on service sector economic activity that is as complete and timely as information on the goods sector of the economy. Requires collection of information on the following services: banking, computer software, brokerage, transportation, travel, engineering, and construction. Sets forth specific directives for the Secretary of Commerce and the Secretary of Labor for service sector data collection.</summary>
+</bill>

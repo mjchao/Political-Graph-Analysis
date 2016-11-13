@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="169" updated="2014-03-22T09:54:47-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide Federal grants to States for programs to identify and aid individuals who have been exposed to the drug diethylstilbestrol (DES).</title>
+  </titles>
+  <sponsor id="409225"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="1987-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-01-23">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="164"/>
+    <bill relation="identical" session="100" type="h" number="164"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="Cancer"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Drug safety and regulation"/>
+    <term name="Drugs"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Grants-in-aid"/>
+    <term name="Information services"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Women's health"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Directs the Secretary of Health and Human Services to establish a program of grants to: (1) identify women who received diethylstilbestrol (DES) while pregnant and their children; (2) establish a voluntary registry of such women and children; (3) provide them with periodic cancer screening; and (4) provide health care personnel and the public with information respecting the health hazards of such drug. Authorizes appropriations.</summary>
+</bill>

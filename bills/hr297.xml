@@ -1,0 +1,33 @@
+<bill session="100" type="hr" number="297" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-10-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-28"/>
+  </status>
+  <introduced datetime="1987-10-28"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to amend the rules of the House of Representatives to require that the report on any measure reported from a committee shall include, in the case of a recorded vote, the names of those members voting for and against ordering the measure reported to the House, including a designation of those voting by proxy; and, in the case of a measure ordered reported by a nonrecord vote, the report shall include the names of those members actually present at the time the measure is ordered reported.</title>
+  </titles>
+  <sponsor id="300069"/>
+  <cosponsors>
+    <cosponsor id="404009" joined="1987-12-09"/>
+    <cosponsor id="411247" joined="1987-10-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-28" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Record votes"/>
+  </subjects>
+  <amendments/>
+  <summary>10/28/1987--Introduced.
+Amends rule XI of the Rules of the House of Representatives, with respect to each rollcall vote on a motion to report any bill or resolution of a public character, to require the inclusion in the committee report of the names of those Members voting for, and those Members voting against, reporting the bill or resolution (including a designation of those Members voting by proxy). Requires, with respect to each nonrecord vote on a motion to report any bill or resolution, the names of those Members of the committee actually present at the time the bill or resolution is ordered reported.</summary>
+</bill>

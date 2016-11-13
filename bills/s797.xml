@@ -1,0 +1,60 @@
+<bill session="100" type="s" number="797" updated="2014-03-22T09:55:01-04:00">
+  <state datetime="1987-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-19"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Attorney General to collect data and report annually about hate crimes.</title>
+  </titles>
+  <sponsor id="407663"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-04-21"/>
+    <cosponsor id="404679" joined="1987-10-02"/>
+    <cosponsor id="300046" joined="1988-05-09"/>
+    <cosponsor id="300056" joined="1987-03-19"/>
+    <cosponsor id="300064" joined="1987-03-19"/>
+    <cosponsor id="300066" joined="1987-03-31"/>
+    <cosponsor id="300073" joined="1987-03-19"/>
+    <cosponsor id="409562" joined="1987-03-19"/>
+    <cosponsor id="300092" joined="1987-03-19"/>
+    <cosponsor id="411421" joined="1987-03-19"/>
+    <cosponsor id="411801" joined="1987-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-11-17">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Crime prevention"/>
+    <term name="Crimes against minorities"/>
+    <term name="Criminal justice information"/>
+    <term name="Government paperwork"/>
+    <term name="Minorities"/>
+    <term name="Minorities and crime"/>
+    <term name="Prejudice"/>
+    <term name="Racial discrimination"/>
+    <term name="Racism"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Directs the Attorney General to develop a reporting system for the acquisition of data about crimes which manifest racial, ethnic, or religious prejudice. Requires the Attorney General to publish an annual summary of such data. Authorizes appropriations for FY 1988 through 1992.</summary>
+</bill>

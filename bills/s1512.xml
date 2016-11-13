@@ -1,0 +1,48 @@
+<bill session="100" type="s" number="1512" updated="2016-06-29T08:45:53-04:00">
+  <state datetime="1987-07-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-21"/>
+  </status>
+  <introduced datetime="1987-07-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that in judicial actions against State judges, such judges shall not be held liable for attorney fees.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="300048" joined="1988-01-28"/>
+    <cosponsor id="405310" joined="1987-07-21"/>
+    <cosponsor id="300157" joined="1987-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+    <action datetime="1988-02-26">
+      <text>Subcommittee on Courts and Administrative Practice. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Administrative responsibility"/>
+    <term name="Civil actions and liability"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Judges"/>
+    <term name="Judicial officers"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal fees"/>
+    <term name="State courts"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/1987--Introduced.
+Amends the Civil Rights Attorney's Fee Awards Act of 1976 to provide that State justices, judges, and judicial officers shall not be liable for any costs (including attorney fees) in any proceeding brought against such justice, judge, or official for actions taken in an official capacity.</summary>
+</bill>

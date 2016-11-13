@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="1683" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-03-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-18"/>
+  </status>
+  <introduced datetime="1987-03-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to provide for additional immigration visa numbers for natives of certain foreign states which have had a significant decrease in immigration to the United States.</title>
+  </titles>
+  <sponsor id="403476"/>
+  <cosponsors>
+    <cosponsor id="407141" joined="1987-11-09"/>
+    <cosponsor id="407457" joined="1987-11-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+  </subjects>
+  <amendments/>
+  <summary>3/18/1987--Introduced.
+Amends the Immigration and Nationality Act to make additional immigrant visas available to aliens of a country whose modified average number of U.S. entry visas during 1956 through 1965 exceeded FY 1985 levels. Allocates such additional visas under the current preference category system. Allocates any remaining unused visas: (1) first, to such preference categories without regard to numerical limits; and (2) second, to nonpreference aliens not to exceed 5,000 per fiscal year.</summary>
+</bill>

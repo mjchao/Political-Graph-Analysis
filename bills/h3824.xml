@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="3824" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1987-12-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-20"/>
+  </status>
+  <introduced datetime="1987-12-20"/>
+  <titles>
+    <title type="short" as="introduced">Truth in Mileage Amendments Act of 1987</title>
+    <title type="official" as="introduced">A bill entitled the "Truth in Mileage Amendments Act of 1987".</title>
+  </titles>
+  <sponsor id="401947"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-20" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-02-05">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+    <action datetime="1988-02-05">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Motor vehicles"/>
+    <term name="Consumer protection"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Licenses"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle registration"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Unfair or deceptive trade practices"/>
+  </subjects>
+  <amendments/>
+  <summary>12/20/1987--Introduced.
+Truth in Mileage Amendments Act of 1987 - Amends the Motor Vehicle Information and Cost Savings Act to prohibit a State from licensing a motor vehicle used primarily for business unless the responsible party has provided the requisite annual mileage information. Declares that each State shall: (1) retain and provide prompt access to such mileage information and vehicle identification number for a five-year period; and (2) reprint the most recent odometer information on duplicate certificates of title. Mandates that upon the transfer of motor vehicle ownership the ensuing title indicate on its face either the vehicle's actual mileage, or the name of the first State to issue a title for such vehicle.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="3326" updated="2014-03-22T09:52:49-04:00">
+  <state datetime="1987-09-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-22"/>
+  </status>
+  <introduced datetime="1987-09-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to assure that medicare beneficiaries receiving services for which payment is denied under the medicare program because they are not medically necessary or are custodial are not liable for deductibles and coinsurance for such services.</title>
+  </titles>
+  <sponsor id="405006"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-09-22" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-09-28">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Coinsurance"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to provide that when a beneficiary is indemnified for services furnished by an at-fault provider which such beneficiary neither knew nor had reason to know were not covered under the Medicare program, such beneficiary shall not be liable for deductibles and coinsurance for such services and such services shall not be applied toward any limitation on the amount of services for which Medicare payments may be made to a beneficiary.</summary>
+</bill>

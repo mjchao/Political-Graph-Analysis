@@ -1,0 +1,54 @@
+<bill session="100" type="hr" number="248" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-10-14">REPORTED</state>
+  <status>
+    <unknown datetime="1987-10-14"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House of Representatives in support of efforts to forge a political compromise in Fiji which preserves its traditions of parliamentary constitutional democracy and guarantees the rights of its citizens.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-08-24">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1987-10-08">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Democracy"/>
+    <term name="Fiji"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1987--Passed House amended.
+(Measure passed House, amended) Expresses the sense of the House of Representatives: (1) supporting a resolution of the present political crisis in Fiji which preserves parliamentary constitutional democracy and recognizes the rights of all people; and (2) opposing any unilateral action to solve the present political crisis in Fiji which is not representative of all the peoples of Fiji.</summary>
+</bill>

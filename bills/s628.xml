@@ -1,0 +1,57 @@
+<bill session="100" type="s" number="628" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to restore the deduction for interest on educational loans.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-04-28"/>
+    <cosponsor id="401604" joined="1987-04-02"/>
+    <cosponsor id="300023" joined="1987-04-28"/>
+    <cosponsor id="403142" joined="1987-03-03"/>
+    <cosponsor id="403171" joined="1987-03-03"/>
+    <cosponsor id="403669" joined="1987-03-03"/>
+    <cosponsor id="404598" joined="1987-05-28"/>
+    <cosponsor id="405305" joined="1987-03-03"/>
+    <cosponsor id="300154" joined="1987-04-10"/>
+    <cosponsor id="300060" joined="1987-03-03"/>
+    <cosponsor id="300094" joined="1988-07-27"/>
+    <cosponsor id="410588" joined="1988-03-14"/>
+    <cosponsor id="411762" joined="1988-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Committee on Finance. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="592"/>
+    <bill relation="identical" session="100" type="h" number="592"/>
+    <bill relation="identical" session="100" type="h" number="603"/>
+    <bill relation="identical" session="100" type="h" number="979"/>
+    <bill relation="identical" session="100" type="h" number="2262"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Education"/>
+    <term name="Finance and financial sector"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Student aid"/>
+    <term name="Student loan funds"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Amends the Internal Revenue Code to allow an income tax deduction for interest paid or incurred on a qualified educational loan. Defines "qualified educational loan" as any indebtedness incurred to pay the educational expenses of the taxpayer or the taxpayer's spouse or dependent. (Present law requires that such a loan be secured by an interest in real property.)</summary>
+</bill>

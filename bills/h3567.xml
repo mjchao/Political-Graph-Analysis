@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="3567" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-28"/>
+  </status>
+  <introduced datetime="1987-10-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 49, United States Code, to make the term of service of the Administrator of the Federal Aviation Administration 7 years.</title>
+  </titles>
+  <sponsor id="407816"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-28" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Civil service employment"/>
+    <term name="Department of Transportation"/>
+    <term name="Federal Aviation Administration"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Presidential appointments"/>
+  </subjects>
+  <amendments/>
+  <summary>10/28/1987--Introduced.
+Limits the term of service of the Administrator of the Federal Aviation Administration to seven years. Prohibits the Administrator from serving more than one seven-year term.</summary>
+</bill>

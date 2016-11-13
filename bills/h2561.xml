@@ -1,0 +1,34 @@
+<bill session="100" type="h" number="2561" updated="2014-03-22T09:52:24-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for a study relating to a consumer price index for the elderly.</title>
+  </titles>
+  <sponsor id="411948"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Consumer price indexes"/>
+    <term name="Economics and public finance"/>
+    <term name="Old age assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Directs the Secretary of Labor to: (1) study the need for, and the desirability of, a price index reflecting changes in the prices of goods and services generally purchased by the elderly; and (2) report to the Congress regarding such study within one year of this Act's enactment.</summary>
+</bill>

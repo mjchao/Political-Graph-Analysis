@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="4723" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-06-01">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-01"/>
+  </status>
+  <introduced datetime="1988-06-01"/>
+  <titles>
+    <title type="short" as="introduced">Drunk Driving Prevention Act of 1988</title>
+    <title type="official" as="introduced">A bill to promote highway traffic safety by encouraging the States to establish measures for more effective enforcement of laws to prevent drunk driving, and for other purposes.</title>
+  </titles>
+  <sponsor id="300058"/>
+  <cosponsors>
+    <cosponsor id="409443" joined="1988-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-01" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>See H.R.5210.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5210"/>
+    <bill relation="identical" session="100" type="s" number="2367"/>
+    <bill relation="identical" session="100" type="s" number="2367"/>
+    <bill relation="identical" session="100" type="s" number="2549"/>
+    <bill relation="identical" session="100" type="s" number="2549"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Alcohol and youth"/>
+    <term name="Driver licenses"/>
+    <term name="Drunk driving"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/1988--Introduced.
+Drunk Driving Prevention Act of 1988 - Authorizes the Secretary of Transportation to make basic and supplemental grants to States which adopt and implement certain drunk driving prevention programs. Requires States, in order to receive basic grants under this Act, to provide: (1) an expedited driver's license suspension or revocation system; and (2) a self-sustaining drunk driving enforcement program. Sets forth additional requirements for the receipt of supplemental grants, which include: (1) providing for mandatory blood alcohol content testing whenever a law enforcement officer has probable cause to believe that a driver involved in a collision resulting in a death or serious bodily injury has committed an alcohol-related traffic offense; or (2) providing for an effective system for preventing drivers under the age of 21 from obtaining alcoholic beverages. Provides that no State may receive grants for more than three fiscal years. Sets forth the Federal share payable for such grants for each of the three fiscal years. Authorizes appropriations for FY 1989 through 1991. Requires the Secretary to: (1) conduct a study to determine the blood alcohol concentration level at or above which an individual is deemed to be driving while under the influence; and (2) issue and publish proposed and final regulations to implement this Act.</summary>
+</bill>

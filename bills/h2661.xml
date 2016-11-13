@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="2661" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-11"/>
+  </status>
+  <introduced datetime="1987-06-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clarify merchant seamen citizenship requirements for U.S.-flag vessels.</title>
+  </titles>
+  <sponsor id="401418"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-11" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>See H.R.2598.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2598"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Citizenship"/>
+    <term name="Merchant marine"/>
+    <term name="Merchant seamen"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/1987--Introduced.
+Requires that, on each departure of a documented vessel and of a vessel for which a construction or operating differential subsidy has been granted, a specified percentage of the seamen or of the entire complement, including licensed individuals, must be U.S. citizens. (Current law imposes such requirements on each departure from a U.S. port.) Authorizes the Secretary of the department in which the Coast Guard is operating to modify the requirements of U.S. citizenship of the entire complement, including licensed officers, of an offshore supply vessel when operating from a foreign port, except that the master must always be a U.S. citizen. Provides that vacancies occurring when on a foreign voyage may be filled, except for the master, by a person who is not a U.S. citizen until the vessel's return to a port at which a replacement who is a U.S. citizen can be obtained. (Current law allows filling of a vacancy by a noncitizen until the vessel's first return to a U.S. port at which a citizen replacement can be obtained.)</summary>
+</bill>

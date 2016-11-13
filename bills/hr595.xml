@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="595" updated="2014-03-22T09:51:03-04:00">
+  <state datetime="1988-10-20">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-10-20"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for a motion to take the bill (H.R. 5210) to prevent the manufacturing, distribution, and use of illegal drugs, and for other purposes, from the Speaker's table and to agree to the Senate amendment with an amendment.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-20">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-1099.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Placed on House Calendar No: 248.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="5210"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Drugs"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1988--Introduced.
+Provides for consideration of a motion to take from the Speaker's table H.R. 5210 (anti-drug programs), with the Senate amendment thereto, and to concur in the Senate amendment with an amendment.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="1109" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1987-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-29"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to require certain labeling of foods which contain tropical fats.</title>
+  </titles>
+  <sponsor id="300051"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-06-11"/>
+    <cosponsor id="402495" joined="1987-07-09"/>
+    <cosponsor id="300026" joined="1987-04-29"/>
+    <cosponsor id="403171" joined="1987-10-23"/>
+    <cosponsor id="300031" joined="1987-11-05"/>
+    <cosponsor id="403669" joined="1987-10-23"/>
+    <cosponsor id="403962" joined="1987-07-01"/>
+    <cosponsor id="404679" joined="1987-04-29"/>
+    <cosponsor id="300048" joined="1987-09-11"/>
+    <cosponsor id="300053" joined="1987-09-11"/>
+    <cosponsor id="406183" joined="1987-07-24"/>
+    <cosponsor id="300070" joined="1987-06-11"/>
+    <cosponsor id="407622" joined="1987-06-26"/>
+    <cosponsor id="300079" joined="1987-11-18"/>
+    <cosponsor id="408898" joined="1987-06-11"/>
+    <cosponsor id="409562" joined="1988-01-28"/>
+    <cosponsor id="300157" joined="1988-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Consumer protection"/>
+    <term name="Food adulteration and inspection"/>
+    <term name="Food and Food Industry"/>
+    <term name="Labeling"/>
+    <term name="Oils and fats"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1987--Introduced.
+Amends the Federal Food, Drug, and Cosmetic Act to require foods to include on their labeling the presence and amount of any palm, palm kernel, or coconut oils along with a statement that such oil(s) is a saturated fat.</summary>
+</bill>

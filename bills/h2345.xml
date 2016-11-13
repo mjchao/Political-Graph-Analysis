@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="2345" updated="2014-03-22T09:52:19-04:00">
+  <state datetime="1987-05-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-08"/>
+  </status>
+  <introduced datetime="1987-05-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to include Lupus erythematosis among the chronic diseases that are presumed to be service-connected for purposes of veterans compensation if occurring within one year from a veteran's discharge from active service.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="405687" joined="1987-08-06"/>
+    <cosponsor id="410147" joined="1987-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-08" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2446"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Autoimmune diseases"/>
+    <term name="Blood diseases"/>
+    <term name="Health"/>
+    <term name="Skin diseases"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/8/1987--Introduced.
+Includes lupus erythematosus among the chronic diseases considered to be service-connected for purposes of veterans' benefits if it manifests itself to a degree of ten percent or more within one year of separation from service.</summary>
+</bill>

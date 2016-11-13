@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="2813" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-26"/>
+  </status>
+  <introduced datetime="1987-06-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to convey a certain parcel of land located near the city of Barstow, California.</title>
+  </titles>
+  <sponsor id="400239"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-26" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-08-12">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-09-09">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Community facilities"/>
+    <term name="Land transfers"/>
+    <term name="Parks"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>6/26/1987--Introduced.
+Directs the Secretary of the Interior to convey to the city of Barstow, California, specified lands for public park and recreational purposes, including the building of a public amphitheater. Retains a right of reversion to the United States should such land not be so used or if construction of the amphitheater has not begun within five years.</summary>
+</bill>

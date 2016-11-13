@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="5494" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-07"/>
+  </status>
+  <introduced datetime="1988-10-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the addition of certain parcels to the Harry S Truman National Historic Site in the State of Missouri.</title>
+  </titles>
+  <sponsor id="411488"/>
+  <cosponsors>
+    <cosponsor id="400377" joined="1988-10-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-07" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites"/>
+    <term name="Land transfers"/>
+    <term name="Missouri"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Real property"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/1988--Introduced.
+Authorizes the Secretary of the Interior to acquire certain properties in Independence, Missouri, to add to the Harry S. Truman National Historic Site. Authorizes the owners of such property to retain the right of use and occupancy of the property for up to 25 years or until death, whichever is later. Requires the Secretary to pay the owners the fair market value for such property. Authorizes appropriations.</summary>
+</bill>

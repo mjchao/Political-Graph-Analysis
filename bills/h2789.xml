@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="2789" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Administrator of Veterans' Affairs to establish a national cemetery in the central geographical area of Louisiana.</title>
+  </titles>
+  <sponsor id="405580"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="1987-07-23"/>
+    <cosponsor id="405258" joined="1987-07-23"/>
+    <cosponsor id="405747" joined="1987-07-23"/>
+    <cosponsor id="406863" joined="1987-07-23"/>
+    <cosponsor id="400261" joined="1988-06-03"/>
+    <cosponsor id="409354" joined="1987-07-23"/>
+    <cosponsor id="400397" joined="1987-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-25" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Louisiana"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/1987--Introduced.
+Authorizes the Administrator of Veterans Affairs to establish a national cemetery in the central geographical area of Louisiana. Authorizes the Administrator to acquire such land as necessary for the cemetery.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="100" type="hr" number="193" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-11"/>
+  </status>
+  <introduced datetime="1987-06-11"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House with respect to the use of ethanol, methanol, and other oxygenated fuels as an accepted air pollution control strategy in non-attainment areas designated by the Environmental Protection Agency.</title>
+  </titles>
+  <sponsor id="403203"/>
+  <cosponsors>
+    <cosponsor id="300037" joined="1987-06-11"/>
+    <cosponsor id="300038" joined="1987-06-11"/>
+    <cosponsor id="404602" joined="1987-06-11"/>
+    <cosponsor id="400236" joined="1987-06-11"/>
+    <cosponsor id="407069" joined="1987-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-11" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-20">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air pollution control"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Common carriers"/>
+    <term name="Energy policy"/>
+    <term name="Gasohol"/>
+    <term name="Gasoline"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle pollution control"/>
+    <term name="Ozone"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>6/11/1987--Introduced.
+States that the Environmental Protection Agency should encourage States to mandate the use of fuel alcohol and other oxygenate/gasoline blends in CO nonattainment areas, and neat alcohols or other clean burning alternative transportation fuels in commercial fleets in ozone nonattainment areas as optional pollution control strategies in their State Implementation Plans under the Clean Air Act.</summary>
+</bill>

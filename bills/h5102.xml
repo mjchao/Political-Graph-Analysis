@@ -1,0 +1,131 @@
+<bill session="100" type="h" number="5102" updated="2014-03-22T09:53:33-04:00">
+  <state datetime="1988-11-14">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-14"/>
+  </status>
+  <introduced datetime="1988-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Federal Employees Health Benefits Amendments Act of 1988</title>
+    <title type="short" as="reported to house">Federal Employees Health Benefits Amendments Act of 1988</title>
+    <title type="short" as="passed house">Federal Employees Health Benefits Amendments Act of 1988</title>
+    <title type="short" as="passed senate">Federal Employees Health Benefits Amendments Act of 1988</title>
+    <title type="short" as="enacted">Federal Employees Health Benefits Amendments Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the provisions of title 5, United States Code, relating to the health benefits program for Federal employees and certain other individuals.</title>
+  </titles>
+  <sponsor id="400003"/>
+  <cosponsors>
+    <cosponsor id="406740" joined="1988-07-28"/>
+    <cosponsor id="400524" joined="1988-07-28"/>
+    <cosponsor id="408092" joined="1988-07-28"/>
+    <cosponsor id="408313" joined="1988-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-28" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-10" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-14">
+      <text>Reported to House (Amended) by House Committee on Post Office and Civil Service.  Report No: 100-917.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Placed on Union Calendar No: 550.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-16" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-19">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-02">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-03">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-14" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-654" type="public" datetime="1988-11-14">
+      <text>Became Public Law No: 100-654.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4829"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Business and commerce"/>
+    <term name="Civil service retirement"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Debarment of government contractors"/>
+    <term name="Divorcees"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Fraud"/>
+    <term name="Government contractors"/>
+    <term name="Government employees' health insurance"/>
+    <term name="Government trust funds"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+    <term name="Judges"/>
+    <term name="Names"/>
+    <term name="Narcotic traffic"/>
+    <term name="Patients' rights"/>
+    <term name="Postal facilities"/>
+    <term name="Preferred provider organizations (Medical care)"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Separation (Law)"/>
+    <term name="Temporary employment"/>
+    <term name="Tennessee"/>
+  </subjects>
+  <amendments>
+    <amendment number="h895"/>
+    <amendment number="s3712"/>
+    <amendment number="s3713"/>
+  </amendments>
+  <summary>10/14/1988--Passed Senate amended.
+(Measure passed Senate, amended) Federal Employees Health Benefits Amendments Act of 1988 - Title I: Provisions Relating to Health Care Providers - Authorizes the Office of Personnel Management (OPM) to bar from participation in the Federal health benefits program any provider of health care services or supplies that has been convicted, under Federal or State law, of a criminal offense relating to: (1) fraud, corruption, breach of fiduciary responsibility, or other financial misconduct in connection with the delivery of a health care service or supply; (2) neglect or abuse of patients in connection with the delivery of a health care service or supply; or (3) the unlawful manufacture, distribution, prescription, or dispensing of a controlled substance. Bars from program participation any provider that has been convicted in connection with the interference with or obstruction of an investigation or prosecution of a criminal offense described under this Act. Bars from program participation any provider: (1) whose license to provide health care services or supplies has been revoked, suspended, restricted, or not renewed by a State licensing authority for reasons relating to the provider's professional competence, professional performance, or financial integrity; or (2) that surrendered such a license while a formal disciplinary proceeding was pending before such an authority, if the proceeding concerned the provider's professional competence, professional performance, or financial integrity. Authorizes OPM to impose a civil monetary penalty on providers who make false charges or claims in connection with health care services or supplies. Prohibits OPM from: (1) initiating any debarment proceeding against a provider, based on such provider's having been convicted of a criminal offense, later than six years after the date on which the provider was convicted; or (2) from initiating any action relating to a civil penalty, assessment, or debarment in connection with any claim, later than six years after the date the claim is presented. Allows a barred provider to apply for termination of the debarment after the expiration of the minimum period of debarment. Sets forth administrative duties for OPM in carrying out debarment proceedings. Title II: Provisions Relating to Temporary Continuation of Coverage for Certain Individuals - Amends Federal law to authorize Federal employees who are separated from service (for other than gross misconduct) and individuals who cease to meet unmarried dependent child requirements to continue Federal health benefits coverage. Authorizes coverage for former employees up to 18 months and for unmarried dependents up to 36 months at their own cost. Requires the Office of Personnel Management to prescribe regulations for continued coverage for certain former spouses and legally separated individuals and members of employee organization plans. Title III: Health Insurance Coverage for Temporary Employees - Directs OPM to prescribe regulations to provide for offering health benefits plans to temporary employees who have completed one year of continuous service. Title IV: Provisions Relating to Contributions by Justices and Judges to the Thrift Savings Fund - Allows a justice or judge to contribute to the Thrift Savings Fund with no contributions from the Federal Government. Designates the Post Office building at 525 Royal Parkway, Nashville, Tennessee, as the Lewis E. Moore, Sr., Post Office Building.</summary>
+</bill>

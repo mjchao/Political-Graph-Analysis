@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="1318" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Atomic Energy Act to provide criminal sanctions for an act of sabotage of a nuclear power plant during its construction which could affect the public health and safety were it to go undetected.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>For Further Action See H.R.2683.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2683"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Destruction of property"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear facilities"/>
+    <term name="Nuclear power plants"/>
+    <term name="Sabotage"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Amends the Atomic Energy Act of 1954 to apply certain criminal penalty provisions to persons who willfully destroy or damage a nuclear facility during its construction where the action could affect public health and safety if undetected before operation.</summary>
+</bill>

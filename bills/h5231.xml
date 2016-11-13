@@ -1,0 +1,90 @@
+<bill session="100" type="h" number="5231" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-09-15">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-15"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="short" as="introduced">Medical Waste Sanctions Act of 1988</title>
+    <title type="short" as="reported to house" partial="1">Great Lakes Medical Waste Control Act</title>
+    <title type="short" as="reported to house" partial="1">Medical Waste Sanctions Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Marine Protection, Research, and Control Act of 1972 to strengthen prohibitions on dumping into ocean waters, to provide for recovery of damages associated with dumping which affects ocean waters, and for other purposes.</title>
+  </titles>
+  <sponsor id="410496"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1988-09-15"/>
+    <cosponsor id="403696" joined="1988-09-26"/>
+    <cosponsor id="405775" joined="1988-09-15"/>
+    <cosponsor id="406746" joined="1988-09-22"/>
+    <cosponsor id="400359" joined="1988-09-14"/>
+    <cosponsor id="409644" joined="1988-09-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-09-06">
+      <text>Executive Comment Requested from EPA, Commerce, Army Corps of Engineers.</text>
+    </action>
+    <action datetime="1988-09-06">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-09-06">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Subcommittee on Oceanography Discharged.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-21">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-1102.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Placed on Union Calendar No: 643.</text>
+    </action>
+    <action datetime="1988-11-18">
+      <text>See S.2030.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral, Discharged" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government liability"/>
+    <term name="Great Lakes"/>
+    <term name="Hazardous waste disposal"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Liability for environmental damages"/>
+    <term name="Liability for water pollution damages"/>
+    <term name="Medical supplies"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Waste disposal in rivers, lakes, etc."/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1988--Reported to House amended.
+(Reported to House from the Committee on Merchant Marine and Fisheries with amendment, H. Rept. 100-1102) Title I: Ocean Dumping of Medical Waste - Medical Waste Sanctions Act of 1988 - Amends the Marine Protection, Research, and Sanctuaries Act of 1972 to prohibit the dumping of medical waste into the ocean. Increases the civil and criminal penalties imposed against persons who knowingly violate such Act's provisions, regulations, or permits pertaining to waste disposal in the ocean. Authorizes the Administrator of the Environmental Protection Agency to utilize payments in lieu of civil monetary penalties for environmental improvement projects. Makes any person involved in the unlawful disposal of material which affects ocean waters or the Great Lakes liable for the removal costs and damages caused by such disposal. Sets forth defenses to such liability. Title II: Prohibition on Disposal of Medical Waste in the Great Lakes - Great Lakes Medical Waste Control Act - Prohibits the dumping of medical waste into the Great Lakes or along their shorelines. Sets forth civil and criminal penalties for violations of such prohibitions.</summary>
+</bill>

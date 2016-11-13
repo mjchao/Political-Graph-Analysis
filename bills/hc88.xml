@@ -1,0 +1,35 @@
+<bill session="100" type="hc" number="88" updated="2016-06-29T08:44:53-04:00">
+  <state datetime="1987-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-25"/>
+  </status>
+  <introduced datetime="1987-03-25"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that Federal funding for vocational education should be continued.</title>
+  </titles>
+  <sponsor id="409534"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-25" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Federal aid to vocational education"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Vocational and technical education"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/1987--Introduced.
+Expresses the sense of the Congress that the Federal Government should continue its role in promoting vocational education by continuing to provide the States with vocational education grants.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="100" type="hr" number="20" updated="2014-03-22T09:50:54-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution establishing the House of Representatives Foreign Student Intern Program.</title>
+  </titles>
+  <sponsor id="404856"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to Subcommittee on Personnel and Police.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA05" subcommittee="Personnel and Police" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional employees"/>
+    <term name="Education"/>
+    <term name="Educational exchanges"/>
+    <term name="Foreign students"/>
+    <term name="Government internships"/>
+    <term name="House of Representatives"/>
+    <term name="International affairs"/>
+    <term name="Student employment"/>
+    <term name="Students"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Establishes the House of Representatives Foreign Student Intern Program. Lists the requirements for eligibility under this program.</summary>
+</bill>

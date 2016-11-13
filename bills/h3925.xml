@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="3925" updated="2014-03-22T09:53:00-04:00">
+  <state datetime="1988-06-08">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-06-08"/>
+  </status>
+  <introduced datetime="1988-02-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Gagik Barseghian.</title>
+  </titles>
+  <sponsor id="407899"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-597.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Placed on Private Calendar No: 54.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-09">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="1988-06-13" calendar="Senate Legislative" under="General Orders" number="731">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 731.</text>
+    </calendar>
+    <action datetime="1988-07-06">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>2/8/1988--Introduced.
+Declares a named individual to have satisfied certain requirements of the Immigration and Nationality Act relating to eligibility for naturalization.</summary>
+</bill>

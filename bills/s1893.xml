@@ -1,0 +1,36 @@
+<bill session="100" type="s" number="1893" updated="2014-03-22T09:55:28-04:00">
+  <state datetime="1987-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-20"/>
+  </status>
+  <introduced datetime="1987-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Tax Rate Freeze Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to extend the individual income tax rates in effect in 1987 for 3 years but to provide cost-of-living adjustments in such rates, and for other purposes.</title>
+  </titles>
+  <sponsor id="402004"/>
+  <cosponsors>
+    <cosponsor id="300051" joined="1987-12-10"/>
+    <cosponsor id="407786" joined="1987-12-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Economics and public finance"/>
+    <term name="Income tax"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Inflation"/>
+    <term name="Tax rates"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/1987--Introduced.
+Tax Rate Freeze Act - Amends the Internal Revenue Code to extend the currently applicable individual income tax rates through 1990. (Under present law these rates apply only to tax year 1987.) Requires annual indexing of the rates to reflect inflation.</summary>
+</bill>

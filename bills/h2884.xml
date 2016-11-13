@@ -1,0 +1,131 @@
+<bill session="100" type="h" number="2884" updated="2014-03-22T09:52:33-04:00">
+  <state datetime="1988-10-06">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1987-07-01"/>
+  <titles>
+    <title type="short" as="introduced">Uniform Regulatory Jurisdiction Act of 1987</title>
+    <title type="short" as="reported to house">Uniform Regulatory Jurisdiction Act of 1988</title>
+    <title type="short" as="passed house">Uniform Regulatory Jurisdiction Act of 1987</title>
+    <title type="short" as="reported to senate">Uniform Regulatory Jurisdiction Act of 1988</title>
+    <title type="short" as="passed senate">Uniform Regulatory Jurisdiction Act of 1988</title>
+    <title type="short" as="enacted">Uniform Regulatory Jurisdiction Act of 1988</title>
+    <title type="official" as="introduced">A bill to assure uniformity in the exercise of regulatory jurisdiction pertaining to the transportation of natural gas and to clarify that the local transportation of natural gas by a distribution company is a matter within State jurisdiction and subject to regulation by State commissions, and for other purposes.</title>
+  </titles>
+  <sponsor id="410245"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1987-09-29"/>
+    <cosponsor id="402159" joined="1987-08-03"/>
+    <cosponsor id="400126" joined="1987-09-29"/>
+    <cosponsor id="404006" joined="1987-07-29"/>
+    <cosponsor id="400236" joined="1987-09-29"/>
+    <cosponsor id="406799" joined="1988-04-13"/>
+    <cosponsor id="400524" joined="1987-07-01"/>
+    <cosponsor id="408490" joined="1987-07-01"/>
+    <cosponsor id="400609" joined="1987-07-29"/>
+    <cosponsor id="409968" joined="1987-08-07"/>
+    <cosponsor id="400435" joined="1987-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-01" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-18" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-10">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-683.</text>
+    </action>
+    <action datetime="1988-06-10">
+      <text>Placed on Union Calendar No: 405.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-14">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Energy Regulation.</text>
+    </action>
+    <calendar datetime="1988-08-10">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported in lieu of S. 1717 with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-08-11">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 100-486.</text>
+    </action>
+    <calendar datetime="1988-08-11" calendar="Senate Legislative" under="General Orders" number="908">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 908.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-20" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-23" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-23">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-06" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-474" type="public" datetime="1988-10-06">
+      <text>Became Public Law No: 100-474.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSEG02" subcommittee="Energy Regulation and Conservation" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1717"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy policy"/>
+    <term name="Energy prices"/>
+    <term name="Gas pipelines"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum pipelines"/>
+    <term name="Price regulation"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Transportation rates"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/1988--Passed Senate amended.
+(Measure passed Senate, amended) Uniform Regulatory Jurisdiction Act of 1988 - Amends the Natural Gas Act to provide that the rates and charges for natural gas transportation to ultimate consumers in a service area determined by the Federal Energy Regulatory Commission shall be regulated exclusively by the State commission in the State in which the gas is consumed. States that this Act does not apply to natural gas transportation to another gas company. Makes such regulatory jurisdiction effective 120 days after the date of enactment of this Act.</summary>
+</bill>

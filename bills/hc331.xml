@@ -1,0 +1,70 @@
+<bill session="100" type="hc" number="331" updated="2014-03-22T09:54:15-04:00">
+  <state datetime="1988-10-21">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-07-11"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to acknowledge the contribution of the Iroquois Confederacy of Nations to the development of the United States Constitution and to reaffirm the continuing government-to-government relationship between Indian tribes and the United States established in the Constitution.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors>
+    <cosponsor id="300017" joined="1988-07-11"/>
+    <cosponsor id="406530" joined="1988-07-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-11" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-28" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-10-03">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-1031.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Placed on House Calendar No: 231.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 408 - 8 (Record Vote No: 413).</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Received in the Senate and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Alaska"/>
+    <term name="Alaskan natives"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Passed House amended.
+(Measure passed House, amended, roll call #413 (408-8)) Acknowledges the contributions made by the Iroquois Confederacy and other Indian nations to the formation and development of the United States. Reaffirms the government-to-government relationship between the United States and Indian tribes. Reaffirms the trust responsibility and obligation of the Government to Indian tribes, including Alaska Natives. Acknowledges the need to exercise good faith in upholding treaties with the various tribes.</summary>
+</bill>

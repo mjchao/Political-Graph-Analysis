@@ -1,0 +1,61 @@
+<bill session="100" type="hj" number="545" updated="2016-06-29T08:44:47-04:00">
+  <state datetime="1988-05-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-05-10"/>
+  </status>
+  <introduced datetime="1988-04-19"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating May 8-14, 1988, as "Just Say No Week".</title>
+  </titles>
+  <sponsor id="405855"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-19" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-28" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-04-28" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-04-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-04-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-29">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-04-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-05-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-313" type="public" datetime="1988-05-10">
+      <text>Became Public Law No: 100-313.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Drug abuse"/>
+    <term name="Drug abuse prevention"/>
+    <term name="Drugs and youth"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>4/19/1988--Introduced.
+Designates the week of May 8 through May 14, 1988, as Just Say No Week.</summary>
+</bill>

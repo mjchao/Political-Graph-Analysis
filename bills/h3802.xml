@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3802" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1987-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-12-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to improve access of medicare beneficiaries to extended care services and home health services after hospitalization.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-18" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-01-04">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Provisions of Measure Incorporated Into H.R.2470.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2470"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Home care services"/>
+    <term name="Long-term care"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to eliminate the limitation on the number of covered days of post-hospital extended care services. Revises provisions concerning coinsurance for post-hospital extended care services to require a reduction in the amount payable for the first seven days of any calendar year. Provides a formula for determining the amount of the coinsurance. Ends the requirement that, in the case of post-hospital extended care services, a physician certify that the services were needed on a daily basis. Provides coverage for post-hospital home health services. Directs the Secretary of Health and Human Services to take such steps as may be necessary to ensure that determinations made under Medicare provisions by fiscal intermediaries and carriers with respect to coverage of home health services and post-hospital extended care services are based upon uniform criteria of nationwide application.</summary>
+</bill>

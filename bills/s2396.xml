@@ -1,0 +1,39 @@
+<bill session="100" type="s" number="2396" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-16"/>
+  </status>
+  <introduced datetime="1988-05-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to expand the period considered as the Vietnam era in the case of veterans who served in the Republic of Vietnam.</title>
+  </titles>
+  <sponsor id="407786"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1988-07-06"/>
+    <cosponsor id="402990" joined="1988-05-16"/>
+    <cosponsor id="403346" joined="1988-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-16" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1988-05-20">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Veterans' benefits"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>5/16/1988--Introduced.
+Changes the definition of "Vietnam era," for purposes of veterans' benefits, to include, in the case of a veteran who served in Vietnam, the period from February 28, 1961, through May 7, 1975.</summary>
+</bill>

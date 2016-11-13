@@ -1,0 +1,75 @@
+<bill session="100" type="sc" number="31" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-11-04">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-11-04"/>
+  </status>
+  <introduced datetime="1987-03-13"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution commending the Czechoslovak human rights organization Charter 77, on the occasion of the 10th anniversary of its establishment, for its courageous contributions to the achievement of the aims of the Helsinki Final Act.</title>
+  </titles>
+  <sponsor id="408898"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1987-06-09"/>
+    <cosponsor id="401709" joined="1987-07-08"/>
+    <cosponsor id="403346" joined="1987-06-16"/>
+    <cosponsor id="403669" joined="1987-05-06"/>
+    <cosponsor id="300046" joined="1987-06-04"/>
+    <cosponsor id="406183" joined="1987-05-29"/>
+    <cosponsor id="300066" joined="1987-07-30"/>
+    <cosponsor id="300070" joined="1987-05-21"/>
+    <cosponsor id="300073" joined="1987-05-29"/>
+    <cosponsor id="400563" joined="1987-05-21"/>
+    <cosponsor id="300150" joined="1987-06-09"/>
+    <cosponsor id="300079" joined="1987-05-21"/>
+    <cosponsor id="409917" joined="1987-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-13" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1987-11-03" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-11-03">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1987-11-03" calendar="Senate Legislative" under="General Orders" number="420">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 420.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-11-04" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-11-09">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="14"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Czechoslovakia"/>
+    <term name="Human rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/13/1987--Introduced.
+States that the Congress: (1) commends the Czechoslovak human rights organization Charter 77, on the tenth anniversary of its establishment of the aims of the Helsinki Final Act; (2) calls upon the Government of Czechoslovakia to cease its persecution of those involved in Charter 77 and other human rights activities; and (3) commends the U.S. representatives to the Vienna Review Meeting of the Conference on Security and Cooperation in Europe for raising the persecution issue with Czechoslovakian representatives.</summary>
+</bill>

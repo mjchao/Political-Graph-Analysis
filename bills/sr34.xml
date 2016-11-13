@@ -1,0 +1,33 @@
+<bill session="100" type="sr" number="34" updated="2014-03-22T09:54:35-04:00">
+  <state datetime="1987-01-06">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution relating to legislative assistance for Senators.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1987-01-06"/>
+    <cosponsor id="404219" joined="1987-01-06"/>
+    <cosponsor id="300094" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-01-06" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional allowances"/>
+    <term name="Congressional employees"/>
+    <term name="Salaries"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Legislative Branch Appropriation Act, 1978 to declare that certain reductions in compensation for Senate office staff assistance shall not be effective during the 100th Congress.</summary>
+</bill>

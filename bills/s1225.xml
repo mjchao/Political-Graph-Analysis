@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1225" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-19"/>
+  </status>
+  <introduced datetime="1987-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to permit the installment payment of fees required for the legalization of aliens.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="403346" joined="1987-05-19"/>
+    <cosponsor id="300060" joined="1987-05-19"/>
+    <cosponsor id="300073" joined="1987-05-19"/>
+    <cosponsor id="411801" joined="1987-09-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Administrative fees"/>
+    <term name="Aliens"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1987--Introduced.
+Amends the Immigration and Nationality Act to permit alien legalization fees to be paid in installments.</summary>
+</bill>

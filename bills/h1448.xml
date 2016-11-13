@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="1448" updated="2014-03-22T09:51:49-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="short" as="introduced">Bilingual Education Act Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Bilingual Education Act to make Federal financial assistance available for children of limited English proficiency without mandating a specific method of instruction, to encourage innovation at the State and local level through greater administrative flexibility, to improve program operations at the Federal level, and for other purposes.</title>
+  </titles>
+  <sponsor id="300057"/>
+  <cosponsors>
+    <cosponsor id="404009" joined="1987-03-05"/>
+    <cosponsor id="400586" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Bilingual education"/>
+    <term name="Bilingualism"/>
+    <term name="Educational policy"/>
+    <term name="English language"/>
+    <term name="Language and languages"/>
+    <term name="Minorities"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Bilingual Education Act Amendments of 1987 - Amends the Bilingual Education Act to add to the statement of policy the declaration that, regardless of the method of instruction, programs which serve children of limited English proficiency have the equally important goals of developing both academic achievement and English proficiency. Removes a requirement that the Secretary of Education reserve limited portions of funds for special alternative instructional programs and related activities. Removes a requirement that the Secretary reserve at least 75 percent of funds for transitional bilingual education programs.</summary>
+</bill>

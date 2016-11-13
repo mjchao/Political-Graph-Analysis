@@ -1,0 +1,34 @@
+<bill session="100" type="h" number="5398" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act and the Internal Revenue Code of 1986 to limit application of the benefits and premiums of the Medicare Catastrophic Coverage Act of 1988 to those voluntarily enrolled in part B of the medicare program.</title>
+  </titles>
+  <sponsor id="406873"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-27" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Catastrophic health insurance"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act and the Internal Revenue Code to limit application of the benefits and premiums of the Medicare Catastrophic Coverage Act of 1988 to those voluntarily enrolled in part B (Supplementary Medical Insurance) of the Medicare program.</summary>
+</bill>

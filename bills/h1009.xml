@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="1009" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Comprehensive Soil Conservation Reform Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Food Security Act of 1985 to improve the effectiveness of certain provisions relating to conservation, and for other purposes.</title>
+  </titles>
+  <sponsor id="410097"/>
+  <cosponsors>
+    <cosponsor id="401417" joined="1987-03-30"/>
+    <cosponsor id="409325" joined="1987-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Cotton"/>
+    <term name="Environmental protection"/>
+    <term name="Feed grain program"/>
+    <term name="Legumes"/>
+    <term name="Rice"/>
+    <term name="Soil conservation"/>
+    <term name="Soil erosion"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Comprehensive Soil Conservation Reform Act of 1987 - Amends the Food Security Act of 1985 to exempt from the ineligibility (for agricultural price supports and other related benefits) provisions of the highly erodible land conservation program, persons who grew alfalfa and other multiyear grasses and legumes during the 1981 through 1985 crop years pursuant to proven rotation practice. Amends the definition of "field" for specified soil conservation purposes. Amends the Agricultural Act of 1949, effective for the 1986 through 1990 crops of wheat, feed grains, rice and upland cotton, to permit crop base trading in connection with conservation plan compliance.</summary>
+</bill>

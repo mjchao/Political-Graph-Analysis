@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="2103" updated="2014-03-22T09:55:36-04:00">
+  <state datetime="1988-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-26"/>
+  </status>
+  <introduced datetime="1988-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to decennial censuses of population.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1988-07-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3815"/>
+    <bill relation="identical" session="100" type="h" number="3815"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Americans employed in foreign countries"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Census"/>
+    <term name="Census and Statistics"/>
+    <term name="Civilian personnel positions"/>
+    <term name="Federal employees"/>
+    <term name="International affairs"/>
+    <term name="Population statistics"/>
+    <term name="Statistics"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1988--Introduced.
+Requires the Secretary of Commerce to ensure that no member of the armed forces, civilian employee of the Department of Defense, or dependent of such member or employee is excluded from any decennial census based on such member or employee being assigned to a post outside the United States.</summary>
+</bill>

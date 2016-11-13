@@ -1,0 +1,61 @@
+<bill session="100" type="sj" number="167" updated="2014-03-22T09:54:22-04:00">
+  <state datetime="1987-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution making urgent supplemental appropriations for the Department of Agriculture for the fiscal year ending September 30, 1987.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-06-25"/>
+    <cosponsor id="300009" joined="1987-06-25"/>
+    <cosponsor id="300010" joined="1987-06-25"/>
+    <cosponsor id="401611" joined="1987-06-25"/>
+    <cosponsor id="300023" joined="1987-06-25"/>
+    <cosponsor id="403920" joined="1987-06-25"/>
+    <cosponsor id="404679" joined="1987-06-25"/>
+    <cosponsor id="300048" joined="1987-06-25"/>
+    <cosponsor id="300052" joined="1987-06-25"/>
+    <cosponsor id="300154" joined="1987-06-25"/>
+    <cosponsor id="406188" joined="1987-06-25"/>
+    <cosponsor id="406190" joined="1987-06-25"/>
+    <cosponsor id="407355" joined="1987-06-25"/>
+    <cosponsor id="300072" joined="1987-06-25"/>
+    <cosponsor id="407622" joined="1987-06-25"/>
+    <cosponsor id="300079" joined="1987-06-25"/>
+    <cosponsor id="408898" joined="1987-06-25"/>
+    <cosponsor id="408939" joined="1987-06-25"/>
+    <cosponsor id="409917" joined="1987-06-25"/>
+    <cosponsor id="409923" joined="1987-06-25"/>
+    <cosponsor id="410588" joined="1987-06-25"/>
+    <cosponsor id="300157" joined="1987-06-25"/>
+    <cosponsor id="411271" joined="1987-06-25"/>
+    <cosponsor id="411762" joined="1987-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Appropriations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="323"/>
+    <bill relation="identical" session="100" type="hj" number="323"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Agricultural economics"/>
+    <term name="Appropriations"/>
+    <term name="Commodity Credit Corporation"/>
+    <term name="Department of Agriculture"/>
+    <term name="Government operations and politics"/>
+    <term name="Supplemental appropriations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/1987--Introduced.
+Makes a supplemental appropriation for FY 1987 to the Department of Agriculture to reimburse the Commodity Credit Corporation for net realized losses.</summary>
+</bill>

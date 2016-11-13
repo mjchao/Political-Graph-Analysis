@@ -1,0 +1,49 @@
+<bill session="100" type="s" number="2886" updated="2014-03-22T09:55:58-04:00">
+  <state datetime="1988-10-13">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-13"/>
+  </status>
+  <introduced datetime="1988-10-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide a method under which the State of New Mexico can continue certain highway road work.</title>
+  </titles>
+  <sponsor id="300036"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1988-10-13"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-13" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Armed forces and national security"/>
+    <term name="Construction costs"/>
+    <term name="Costs"/>
+    <term name="Defense articles"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to transportation"/>
+    <term name="Federal-state relations"/>
+    <term name="Highway construction and repair"/>
+    <term name="Highway engineering"/>
+    <term name="New Mexico"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear weapons"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation of hazardous substances"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1988--Introduced.
+Directs the Secretary of Energy to enter into an agreement with the State of New Mexico to reimburse it for costs incurred for the construction of certain transportation routes for radioactive waste generated during defense-related activities.</summary>
+</bill>

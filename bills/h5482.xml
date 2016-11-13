@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="5482" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1988-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Equal Credit Opportunity Act to prohibit discrimination by creditors against members of the Armed Forces.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-06" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-10-15">
+      <text>Referred to Subcommittee on Consumer Affairs and Coinage.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA02" subcommittee="Consumer Affairs and Coinage" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Consumer credit"/>
+    <term name="Consumer protection"/>
+    <term name="Credit"/>
+    <term name="Discrimination in consumer credit"/>
+    <term name="Finance and financial sector"/>
+    <term name="Military personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1988--Introduced.
+Amends the Consumer Credit Protection Act (title VII of which is the Equal Credit Opportunity Act) to prohibit discrimination by creditors on the basis of the grade of an applicant who is a member of the armed forces.</summary>
+</bill>

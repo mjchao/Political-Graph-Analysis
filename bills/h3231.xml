@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="3231" updated="2014-03-22T09:52:47-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Physician Competency Certification Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to require periodic competency certification of physicians as a condition of participation under the medicare program.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Licenses"/>
+    <term name="Medical personnel"/>
+    <term name="Medicare"/>
+    <term name="Physicians"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Medicare Physician Competency Certification Act of 1987 - Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to condition a physician's receipt of Medicare payments for services furnished after 1992 on his or her having passed, during any of the previous seven years, a written competency examination. Requires the Secretary of Health and Human Services to: (1) establish standards for such examinations; (2) determine whether or not examinations offered by physician specialty societies or State medical boards on at least an annual basis meet such standards; and (3) offer a written competency examination at least twice each year beginning in 1990. Requires physicians who do not satisfy examination requirements to provide written notice to their patients, before furnishing services, that Medicare payments may not be made for such services. Directs the Secretary to report to the Congress periodically on other indicators of the quality of care furnished by physicians which may be used as substitutes for, or in conjunction with, competency examinations.</summary>
+</bill>

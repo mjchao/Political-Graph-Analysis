@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="478" updated="2014-03-22T09:51:22-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill entitled the "Former Presidential Enough is Enough and Taxpayers Relief Act of 1987".</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="1987-07-28"/>
+    <cosponsor id="400586" joined="1987-02-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Economics and public finance"/>
+    <term name="Ex-presidents"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Presidential compensation"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Prohibits the total annual Government expenditures for the care of a former President, excepting Secret Service protection, from exceeding eight times the poverty level income for one family of four.</summary>
+</bill>

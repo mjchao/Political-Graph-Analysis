@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="711" updated="2014-03-22T09:51:32-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="short" as="introduced">Imported Food Safety Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Food, Drug, and Cosmetic Act to require the seizure and destruction of imported food treated with pesticides in violation of that act.</title>
+  </titles>
+  <sponsor id="300100"/>
+  <cosponsors>
+    <cosponsor id="400256" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-29">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Environmental protection"/>
+    <term name="Food adulteration and inspection"/>
+    <term name="Food and Food Industry"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Pest control"/>
+    <term name="Pesticide regulation"/>
+    <term name="Pesticide residues in food"/>
+    <term name="Searches and seizures"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Imported Food Safety Act of 1987 - Amends the Federal Food, Drug, and Cosmetic Act to require the seizure and destruction of imported food treated with a pesticide deemed unsafe.</summary>
+</bill>

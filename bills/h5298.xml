@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="5298" updated="2014-03-22T09:53:36-04:00">
+  <state datetime="1988-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-14"/>
+  </status>
+  <introduced datetime="1988-09-14"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Wage Index Equity Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act with respect to making more equitable the application of the area wage index for prospective payment of hospitals under the medicare program.</title>
+  </titles>
+  <sponsor id="410553"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="1988-10-19"/>
+    <cosponsor id="403266" joined="1988-10-06"/>
+    <cosponsor id="403904" joined="1988-10-19"/>
+    <cosponsor id="404723" joined="1988-10-06"/>
+    <cosponsor id="404869" joined="1988-10-06"/>
+    <cosponsor id="405006" joined="1988-10-04"/>
+    <cosponsor id="408556" joined="1988-10-06"/>
+    <cosponsor id="300083" joined="1988-10-19"/>
+    <cosponsor id="409651" joined="1988-10-19"/>
+    <cosponsor id="410261" joined="1988-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-14" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospital personnel"/>
+    <term name="Hospitals"/>
+    <term name="Labor and employment"/>
+    <term name="Medicare"/>
+    <term name="Prospective payment systems (Medical care)"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Rural public health"/>
+    <term name="Wages"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/1988--Introduced.
+Medicare Wage Index Equity Act of 1988 - Amends title XVIII (Medicare) of the Social Security Act to require that in determining the proportion of hospital costs attributable to wages and wage-related costs the Secretary of Health and Human Services: (1) take into account the different mixes of occupations among different areas; and (2) in determining rural hospital costs, consider wage costs for skilled personnel on a statewide rather than strictly rural basis.</summary>
+</bill>

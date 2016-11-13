@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="2834" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1987-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-29"/>
+  </status>
+  <introduced datetime="1987-06-29"/>
+  <titles>
+    <title type="short" as="introduced">Criminal Justice Information Improvement Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Omnibus Crime Control and Safe Streets act of 1968 to assist States and local governments to improve the accuracy, timeliness, and completeness of criminal justice information.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="400365" joined="1987-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-29" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-09-24">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal justice information"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1987--Introduced.
+Criminal Justice Information Improvement Act of 1987 - Amends the Omnibus Crime Control and Safe Streets Act of 1968 to establish a grant program to assist State and local governments to improve the accuracy, timeliness, and completeness of criminal justice information. Authorizes appropriations for FY 1988 through 1992.</summary>
+</bill>

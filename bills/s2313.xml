@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="2313" updated="2014-03-22T09:55:46-04:00">
+  <state datetime="1988-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-22"/>
+  </status>
+  <introduced datetime="1988-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Natural Gas Transition Act of 1988</title>
+    <title type="official" as="introduced">A bill to coordinate the regulatory authority of the Federal Energy Regulatory Commission with that of State or local regulatory agencies relative to service which would bypass local utility service and to facilitate the resolution at the State or local regulatory level of competition policy issues relative to local service.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Subcommittee on Energy Regulation. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEG02" subcommittee="Energy Regulation and Conservation" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4089"/>
+    <bill relation="identical" session="100" type="h" number="4089"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Federal-local relations"/>
+    <term name="Gas companies"/>
+    <term name="Gas industry"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/1988--Introduced.
+Natural Gas Transition Act of 1988 - Prohibits the Federal Energy Regulatory Commission (Commission) from permitting natural gas distribution service which would displace existing service provided by a local distribution company (or which could be provided by such local company) if: (1) the State or local regulatory authority certifies to the Commission that the displacing service would prejudice the interests of such distribution company's customers; or (2) the proponent of such displacing service fails to demonstrate that the local distribution company protesting the proposed service is unwilling to provide transportation service on terms in effect or acceptable to the State or local commission. Precludes the Commission from permitting such displacing service until 30 days after it has published notice of such service in the Federal Register. Applies this Act to all service not provided before its date of enactment, regardless of whether the Commission had granted permission to provide such service before such date.</summary>
+</bill>

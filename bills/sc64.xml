@@ -1,0 +1,65 @@
+<bill session="100" type="sc" number="64" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-06-25">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to authorize the printing of "Guide to Records of the United States Senate at the National Archives, 1789-1989: Bicentennial Edition".</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1987-06-25"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-25" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-22">
+      <text>House Committee on House Administration Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Archives"/>
+    <term name="Congressional publications"/>
+    <term name="Printing"/>
+    <term name="Records management"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/1987--Introduced.
+Authorizes the printing of a Senate document entitled "Guide to Records of the United States Senate at the National Archives, 1789-1989: Bicentennial Edition" to be published under the supervision of the Secretary of the Senate with the editorial assistance of the Senate Historical Office. Authorizes the printing of additional copies of such document for use by the Secretary of the Senate.</summary>
+</bill>

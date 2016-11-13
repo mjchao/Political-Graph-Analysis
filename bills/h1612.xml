@@ -1,0 +1,132 @@
+<bill session="100" type="h" number="1612" updated="2014-03-22T09:51:54-04:00">
+  <state datetime="1988-02-29">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-02-29"/>
+  </status>
+  <introduced datetime="1987-03-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations under the Earthquake Hazards Reduction Act of 1977 for fiscal years 1988 and 1989.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-16" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Mining and Natural Resources.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-05-12">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-89 (Part I).</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-05-13">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-05-21">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-89 (Part II).</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Placed on Union Calendar No: 72.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-09">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <calendar datetime="1987-07-28">
+      <text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-12-09">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment in the nature of a substitute and an amendment to the title. With written report No. 100-239.</text>
+    </action>
+    <calendar datetime="1987-12-09" calendar="Senate Legislative" under="General Orders" number="466">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 466.</text>
+    </calendar>
+    <action datetime="1987-12-22">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-22" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-02-16" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-02-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-02-18">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-02-19">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-02-29" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-252" type="public" datetime="1988-02-29">
+      <text>Became Public Law No: 100-252.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII02" subcommittee="Mining and Natural Resources" name="House Interior and Insular Affairs"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Emergency management"/>
+    <term name="Authorization"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Earthquakes"/>
+    <term name="Economics and public finance"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1379"/>
+  </amendments>
+  <summary>12/22/1987--Passed Senate amended.
+(Measure passed Senate, amended) Amends the Earthquake Hazards Reduction Act of 1977 to authorize appropriations through FY 1990 for contributions to the National Earthquake Hazards Reduction Program by the Federal Emergency Management Agency (FEMA), the U.S. Geological Survey, the National Science Foundation, and the National Bureau of Standards. Limits the level of cost sharing for activities under this Act for States which voluntarily engaged in such sharing with FEMA. Prohibits for States meeting certain qualifications the imposition of new cost-sharing requirements for activities under such Act for FY 1988, but permits FEMA to require up to a 25 percent match in FY 1989.</summary>
+</bill>

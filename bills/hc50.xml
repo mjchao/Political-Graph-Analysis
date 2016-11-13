@@ -1,0 +1,123 @@
+<bill session="100" type="hc" number="50" updated="2014-03-22T09:54:07-04:00">
+  <state datetime="1987-06-09">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-09"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution concerning the encouragement and support for international negotiations, pursuant to section 156 of the Clean Air Act, by the President to develop a protocol to the Vienna Convention for the Protection of the Ozone Layer setting forth standards and regulations to protect the stratosphere from the adverse effects of chlorofluorocarbons.</title>
+  </titles>
+  <sponsor id="400110"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-03-05"/>
+    <cosponsor id="401155" joined="1987-04-09"/>
+    <cosponsor id="401231" joined="1987-06-02"/>
+    <cosponsor id="400571" joined="1987-03-25"/>
+    <cosponsor id="401923" joined="1987-03-25"/>
+    <cosponsor id="402114" joined="1987-03-25"/>
+    <cosponsor id="402325" joined="1987-03-25"/>
+    <cosponsor id="402675" joined="1987-04-09"/>
+    <cosponsor id="402833" joined="1987-03-05"/>
+    <cosponsor id="400080" joined="1987-06-02"/>
+    <cosponsor id="400081" joined="1987-04-09"/>
+    <cosponsor id="403190" joined="1987-03-05"/>
+    <cosponsor id="403266" joined="1987-06-02"/>
+    <cosponsor id="403689" joined="1987-03-05"/>
+    <cosponsor id="403726" joined="1987-03-05"/>
+    <cosponsor id="400126" joined="1987-03-25"/>
+    <cosponsor id="404097" joined="1987-03-11"/>
+    <cosponsor id="404170" joined="1987-03-05"/>
+    <cosponsor id="404220" joined="1987-04-09"/>
+    <cosponsor id="400155" joined="1987-03-05"/>
+    <cosponsor id="404752" joined="1987-03-11"/>
+    <cosponsor id="405258" joined="1987-06-02"/>
+    <cosponsor id="405377" joined="1987-03-05"/>
+    <cosponsor id="405646" joined="1987-03-05"/>
+    <cosponsor id="400226" joined="1987-03-25"/>
+    <cosponsor id="406530" joined="1987-03-11"/>
+    <cosponsor id="406740" joined="1987-03-05"/>
+    <cosponsor id="406746" joined="1987-02-19"/>
+    <cosponsor id="400238" joined="1987-03-11"/>
+    <cosponsor id="400243" joined="1987-03-05"/>
+    <cosponsor id="406994" joined="1987-03-05"/>
+    <cosponsor id="407069" joined="1987-03-25"/>
+    <cosponsor id="407457" joined="1987-03-11"/>
+    <cosponsor id="407899" joined="1987-06-02"/>
+    <cosponsor id="408023" joined="1987-03-05"/>
+    <cosponsor id="400307" joined="1987-03-25"/>
+    <cosponsor id="400318" joined="1987-03-05"/>
+    <cosponsor id="409205" joined="1987-06-03"/>
+    <cosponsor id="400359" joined="1987-03-11"/>
+    <cosponsor id="409644" joined="1987-03-11"/>
+    <cosponsor id="400365" joined="1987-03-11"/>
+    <cosponsor id="409966" joined="1987-04-09"/>
+    <cosponsor id="410623" joined="1987-03-05"/>
+    <cosponsor id="410926" joined="1987-06-02"/>
+    <cosponsor id="400414" joined="1987-06-02"/>
+    <cosponsor id="400428" joined="1987-04-09"/>
+    <cosponsor id="411834" joined="1987-06-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-09" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-22">
+      <text>Reported to House by House Committee on Energy and Commerce. Report No: 100-176 (Part I).</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-06-30">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air pollution control"/>
+    <term name="Climate"/>
+    <term name="Climate change and greenhouse gases"/>
+    <term name="Earth sciences"/>
+    <term name="International environmental cooperation"/>
+    <term name="Negotiations"/>
+    <term name="Ozone"/>
+    <term name="Research and development"/>
+    <term name="Science and technology"/>
+    <term name="Treaties"/>
+    <term name="Weather and Climate"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Supports the President in seeking global measures regarding the adverse effects resulting from the release of chlorofluorocarbons through the adoption of a protocol to the Vienna Convention for the Protection of the Ozone Layer. Urges the President to negotiate: (1) an immediate reduction on the use of chlorofluorocarbons; (2) the expeditious development of safe, effective, and nontoxic nonozone depleting chemicals; and (3) the elimination of fully halogenated chlorofluorocarbons that may deplete the ozone layer.</summary>
+</bill>

@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="1745" updated="2014-03-22T09:51:57-04:00">
+  <state datetime="1987-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-19"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the 1984 Tariff and Trade Act.</title>
+  </titles>
+  <sponsor id="400540"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="EEC countries"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Import quotas"/>
+    <term name="Imports"/>
+    <term name="Iron and steel industry"/>
+    <term name="Steel"/>
+    <term name="Trade agreements"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Amends the Trade and Tariff Act of 1984 to require bilateral arrangements between the United States and steel exporting nations imposing quantitative limitations on steel exports to, or imports into, the United States to include restraints on certain welded steel used for concrete reinforcement. Prohibits any arrangement country (or the European Community) from obtaining an exception or modification to such arrangements.</summary>
+</bill>

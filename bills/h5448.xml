@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="5448" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-10-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-03"/>
+  </status>
+  <introduced datetime="1988-10-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to modify the boundary of the Sleeping Bear Dunes National Lakeshore, to remove the authority of the Secretary of the Interior to construct and administer scenic roads as part of such National Lakeshore, and for other purposes.</title>
+  </titles>
+  <sponsor id="411119"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-03" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Recreation"/>
+    <term name="Highway construction and repair"/>
+    <term name="Lakes"/>
+    <term name="Michigan"/>
+    <term name="National lakeshores"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Roads and highways"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>10/3/1988--Introduced.
+Modifies the boundaries of the Sleeping Bear Dunes National Lakeshore in Michigan. Repeals the authority of the Secretary of the Interior to procure, construct, and administer land for scenic roads within such lakeshore.</summary>
+</bill>

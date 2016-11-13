@@ -1,0 +1,53 @@
+<bill session="100" type="hc" number="230" updated="2014-03-22T09:54:12-04:00">
+  <state datetime="1987-12-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-14"/>
+  </status>
+  <introduced datetime="1987-12-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the executive branch, in exercising authorities to restrict exports, use a standard definition of those goods which may be exported as humanitarian donations.</title>
+  </titles>
+  <sponsor id="401585"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1988-02-03"/>
+    <cosponsor id="402114" joined="1988-02-03"/>
+    <cosponsor id="403031" joined="1987-12-14"/>
+    <cosponsor id="300037" joined="1987-12-14"/>
+    <cosponsor id="403776" joined="1988-02-03"/>
+    <cosponsor id="407721" joined="1987-12-18"/>
+    <cosponsor id="408618" joined="1987-12-14"/>
+    <cosponsor id="409954" joined="1987-12-18"/>
+    <cosponsor id="410496" joined="1988-02-03"/>
+    <cosponsor id="411834" joined="1987-12-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-14" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-12-28">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sc" number="100"/>
+    <bill relation="identical" session="100" type="sc" number="100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="American economic assistance"/>
+    <term name="Export controls"/>
+    <term name="Exports"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="International affairs"/>
+    <term name="International relief"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/1987--Introduced.
+Expresses the sense of the Congress that, in exercising certain authorities to restrict exports, the executive branch should use a standard (and broad) definition of humanitarian donations.</summary>
+</bill>

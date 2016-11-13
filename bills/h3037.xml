@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="3037" updated="2014-03-22T09:52:42-04:00">
+  <state datetime="1987-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-28"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="short" as="introduced">Nuclear Regulatory Commission Authorization Act for Fiscal Years 1988 and 1989</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for the Nuclear Regulatory Commission for fiscal years 1988 and 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-28" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>House Incorporated this Measure in H.R.1315 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1315"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy policy"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Nuclear Regulatory Commission"/>
+    <term name="Nuclear energy"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1987--Introduced.
+Nuclear Regulatory Commission Authorization Act for Fiscal Years 1988 and 1989 - Authorizes appropriations for the Nuclear Regulatory Commission for FY 1988 and 1989. Prescribes allocation guidelines. Amends the Consolidated Omnibus Budget Reconciliation Act of 1985 to repeal the requirement that the Commission submit to certain congressional committees a feasibility study regarding user charges.</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="262" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of land grantors in Henderson, Union, and Webster Counties, to the United States, and their heirs.</title>
+  </titles>
+  <sponsor id="404219"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Real property"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to individuals (or their heirs) in full satisfaction or claims arising out of the sale of land in Kentucky to the United States under threat of condemnation for a military training camp.</summary>
+</bill>

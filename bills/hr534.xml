@@ -1,0 +1,36 @@
+<bill session="100" type="hr" number="534" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-09-15">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-09-15"/>
+  </status>
+  <introduced datetime="1988-09-15"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 3822) to strengthen the system of congressional oversight of the intelligence activities of the United States.</title>
+  </titles>
+  <sponsor id="401310"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-15">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-923.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Placed on House Calendar No: 208.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="3822"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/1988--Introduced.
+Sets forth the rule for the consideration of H.R. 3822 (intelligence oversight).</summary>
+</bill>

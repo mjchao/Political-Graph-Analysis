@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="1618" updated="2014-03-22T09:55:23-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Airport and Airway Improvement Act of 1982, and for other purposes.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3131"/>
+    <bill relation="identical" session="100" type="h" number="3131"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airports"/>
+    <term name="Aviation"/>
+    <term name="Land transfers"/>
+    <term name="New Jersey"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Amends the Airport and Airway Improvement Act of 1982 to prohibit the Federal Aviation Administration from conveying any property interest to any operator of the Atlantic City Airport, Pomona, New Jersey, and to preclude the availability of funds to any such operator for airport improvements, until certain planning and operating conditions have been met. Exempts safety considerations from such funding limitation.</summary>
+</bill>

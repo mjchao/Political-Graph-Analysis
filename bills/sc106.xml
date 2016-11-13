@@ -1,0 +1,39 @@
+<bill session="100" type="sc" number="106" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-03-22">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-03-22"/>
+  </status>
+  <introduced datetime="1988-03-22"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution requesting the President to return the enrolled bill (S. 854) entitled "Nevada-Florida Land Exchange Authorization Act of 1988".</title>
+  </titles>
+  <sponsor id="406084"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-22" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-23">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="854"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Legislation"/>
+    <term name="Public lands and natural resources"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>3/22/1988--Introduced.
+Requests the President to return the enrolled bill S. 854 (Nevada-Florida Land Exchange Authorization Act of 1988) for its reenrollment with technical corrections.</summary>
+</bill>

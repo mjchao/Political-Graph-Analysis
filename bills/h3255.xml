@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="3255" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-14"/>
+  </status>
+  <introduced datetime="1987-09-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to make permanent the provisions of law relating to physicians comparability allowances.</title>
+  </titles>
+  <sponsor id="400524"/>
+  <cosponsors>
+    <cosponsor id="400435" joined="1987-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-14" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-09-28">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+    <action datetime="1987-09-28">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service compensation"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Medical personnel"/>
+    <term name="Physicians"/>
+    <term name="Salaries"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/1987--Introduced.
+Amends Federal law to make permanent those provisions which authorize physicians comparability allowances. (Currently, such authorization terminates on September 30, 1987.)</summary>
+</bill>

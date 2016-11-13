@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="4792" updated="2014-03-22T09:53:25-04:00">
+  <state datetime="1988-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-10"/>
+  </status>
+  <introduced datetime="1988-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that ocean dumping of dredged material from San Francisco Bay take place at a site which is beyond the edge of the Continental Shelf.</title>
+  </titles>
+  <sponsor id="400231"/>
+  <cosponsors>
+    <cosponsor id="403776" joined="1988-06-10"/>
+    <cosponsor id="406277" joined="1988-06-10"/>
+    <cosponsor id="406463" joined="1988-06-10"/>
+    <cosponsor id="400387" joined="1988-06-10"/>
+    <cosponsor id="300100" joined="1988-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-10" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-06-10">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Executive Comment Requested from Commerce, Army Corps of Engineers, EPA.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Executive Comment Requested from Army, EPA, OMB.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="California"/>
+    <term name="Continental shelf"/>
+    <term name="Dredging"/>
+    <term name="Licenses"/>
+    <term name="Ocean"/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1988--Introduced.
+Requires that the ocean dumping of dredged material from the San Francisco Bay or its connecting or tributary waters take place beyond the edge of the Continental Shelf.</summary>
+</bill>

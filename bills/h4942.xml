@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4942" updated="2014-03-22T09:53:29-04:00">
+  <state datetime="1988-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-29"/>
+  </status>
+  <introduced datetime="1988-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the period in which a certain notification under subchapter A of chapter 2 of title II of the Trade Act of 1974 is in effect.</title>
+  </titles>
+  <sponsor id="406461"/>
+  <cosponsors>
+    <cosponsor id="408052" joined="1988-07-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-29" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-07-05">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2596"/>
+    <bill relation="identical" session="100" type="s" number="2596"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Employment and training programs"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Government and business"/>
+    <term name="Imports"/>
+    <term name="Labor and employment"/>
+    <term name="Trade adjustment assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Introduced.
+Extends through August 31, 1988, the certification for worker trade adjustment assistance made under the Trade Act of 1974 as a result of the petition TA-W-13,654.</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="2446" updated="2014-03-22T09:55:49-04:00">
+  <state datetime="1988-05-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-27"/>
+  </status>
+  <introduced datetime="1988-05-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to extend for one year the authorization of the Veterans' Administration to furnish respite care to certain chronically ill veterans and to extend the due date for a report on the results of an evaluation of furnishing such care.</title>
+  </titles>
+  <sponsor id="300084"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1988-05-27"/>
+    <cosponsor id="300046" joined="1988-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1988-06-17">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Respite care"/>
+    <term name="Veterans' hospitals"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/1988--Introduced.
+Amends the Veterans' Benefits Improvement and Health-Care Authorization Act of 1986 to extend for one year: (1) the authorization of the Veterans Administration to furnish respite care to certain chronically-ill veterans; and (2) the due date for a report on the results of an evaluation of furnishing such care.</summary>
+</bill>

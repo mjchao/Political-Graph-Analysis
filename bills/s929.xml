@@ -1,0 +1,61 @@
+<bill session="100" type="s" number="929" updated="2016-06-29T08:45:40-04:00">
+  <state datetime="1987-04-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-07"/>
+  </status>
+  <introduced datetime="1987-04-07"/>
+  <titles>
+    <title type="short" as="introduced">Volunteer Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill entitled the "Volunteer Protection Act of 1987".</title>
+  </titles>
+  <sponsor id="407622"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1987-10-22"/>
+    <cosponsor id="300009" joined="1988-01-28"/>
+    <cosponsor id="402004" joined="1987-10-22"/>
+    <cosponsor id="402023" joined="1987-08-07"/>
+    <cosponsor id="403483" joined="1987-08-07"/>
+    <cosponsor id="300056" joined="1987-08-07"/>
+    <cosponsor id="407268" joined="1987-08-07"/>
+    <cosponsor id="300079" joined="1987-06-16"/>
+    <cosponsor id="408252" joined="1988-01-28"/>
+    <cosponsor id="409562" joined="1988-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-06-05">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="911"/>
+    <bill relation="identical" session="100" type="h" number="911"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Block grants"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Federal-state relations"/>
+    <term name="Labor and employment"/>
+    <term name="Liability (Law)"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local officials and employees"/>
+    <term name="Social welfare"/>
+    <term name="State finance"/>
+    <term name="State laws"/>
+    <term name="State officials and employees"/>
+    <term name="States"/>
+    <term name="Torts"/>
+    <term name="Volunteer workers"/>
+  </subjects>
+  <amendments/>
+  <summary>4/7/1987--Introduced.
+Volunteer Protection Act of 1987 - Prescribes circumstances under which volunteers working for nonprofit organizations or government entities shall be immune from personal civil liability. Requires each State to certify to the Secretary of Health and Human Services before the beginning of each fiscal year (commencing with FY 1989) that it has enacted or has in effect a State law which provides such immunity. Requires the Secretary to reduce by one percent the fiscal year allotment which would otherwise be made to such State to carry out the Social Services Block Grant Program under title XX of the Social Security Act if such law is not in effect.</summary>
+</bill>

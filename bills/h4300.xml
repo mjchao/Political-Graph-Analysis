@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="4300" updated="2014-03-22T09:53:09-04:00">
+  <state datetime="1988-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide children's survival assistance for children who are victims of the Nicaraguan civil strife.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="400527" joined="1988-03-30"/>
+    <cosponsor id="300057" joined="1988-03-30"/>
+    <cosponsor id="400236" joined="1988-03-30"/>
+    <cosponsor id="406740" joined="1988-03-30"/>
+    <cosponsor id="408618" joined="1988-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, In Committee"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Armed forces and national security"/>
+    <term name="Charities"/>
+    <term name="Child health"/>
+    <term name="Children and youth"/>
+    <term name="Defense budgets"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="International agencies"/>
+    <term name="International relief"/>
+    <term name="Nicaragua"/>
+    <term name="Reprogramming of appropriated funds"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Transfers a specified sum of unobligated funds from certain Department of Defense appropriations accounts to the Agency for International Development to provide medical care and other relief for noncombatant children who are victims of the Nicaraguan civil strife. Directs that such assistance be provided only through nonpolitical private and voluntary organizations and international relief organizations and that at least half of such assistance be provided through organizations operating inside Nicaragua. Prohibits the provision of assistance through or to the Government of Nicaragua.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="987" updated="2014-03-22T09:51:38-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to liberalize certain provisions authorizing reimbursement for expenses of sale and purchase of a residence upon the transfer of a federal employee.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Government Activities and Transportation.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO03" subcommittee="Government Activities and Transportation" name="House Government Operations"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service compensation"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing and community development"/>
+    <term name="Housing finance"/>
+    <term name="Labor and employment"/>
+    <term name="Leases"/>
+    <term name="Relocation of employees"/>
+    <term name="Settlement costs"/>
+    <term name="Transfer of employees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Authorizes Federal agencies to reimburse employees for the expenses of: (1) selling a residence (or settling an unexpired lease) at a post of duty in the United States upon being transferred to a post outside the United States; and (2) purchasing a residence at a post within the United States after being transferred from a post outside the United States. Prohibits such reimbursement if the sale or purchase (or unexpired lease settlement) occurs before employees are notified that they will not be returning to the same post within the United States.</summary>
+</bill>

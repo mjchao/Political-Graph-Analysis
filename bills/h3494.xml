@@ -1,0 +1,71 @@
+<bill session="100" type="h" number="3494" updated="2014-03-22T09:52:52-04:00">
+  <state datetime="1987-10-15">REPORTED</state>
+  <status>
+    <unknown datetime="1987-10-15"/>
+  </status>
+  <introduced datetime="1987-10-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Food Security Act of 1985 and for other purposes.</title>
+  </titles>
+  <sponsor id="404602"/>
+  <cosponsors>
+    <cosponsor id="403873" joined="1987-10-15"/>
+    <cosponsor id="405114" joined="1987-10-15"/>
+    <cosponsor id="405747" joined="1987-10-15"/>
+    <cosponsor id="300057" joined="1987-10-15"/>
+    <cosponsor id="406157" joined="1987-10-15"/>
+    <cosponsor id="407069" joined="1987-10-15"/>
+    <cosponsor id="407162" joined="1987-10-15"/>
+    <cosponsor id="408097" joined="1987-10-21"/>
+    <cosponsor id="408618" joined="1987-10-21"/>
+    <cosponsor id="300083" joined="1987-10-15"/>
+    <cosponsor id="409651" joined="1987-10-15"/>
+    <cosponsor id="410261" joined="1987-10-15"/>
+    <cosponsor id="400389" joined="1987-10-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-15" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Subcommittee on Cotton, Rice, and Sugar Discharged.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Subcommittee on Wheat, Soybeans, and Feed Grains Discharged.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-15">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>Reported to House (Amended) by House Committee on Agriculture. Report No: 100-497.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral, Discharged" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Budget deficits"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Government spending reductions"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/1987--Reported to House amended.
+(Reported to House from the Committee on Agriculture with amendment, H. Rept. 100-497) Amends the Food Security Act of 1985 to establish an alternative procedure for implementing the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings) sequestration orders as they affect specified annual loan, deficiency, disaster, and diversion payments for wheat, feed grains, upland cotton, long staple rice, and soybeans. Directs the Secretary of Agriculture, in consultation with the Director of the Office of Management and Budget, to: (1) calculate the market effects of a sequestration order on such programs; and (2) reduce the sequestration reduction percentage if such effects would serve to reduce commodity outlays by more than the required sequestration percentage.</summary>
+</bill>

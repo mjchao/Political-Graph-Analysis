@@ -1,0 +1,33 @@
+<bill session="100" type="sj" number="100" updated="2014-03-22T09:54:21-04:00">
+  <state datetime="1987-03-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-19"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to affirm the national policy of metric conversion benefiting the United States.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors>
+    <cosponsor id="300056" joined="1987-03-19"/>
+    <cosponsor id="300060" joined="1987-09-17"/>
+    <cosponsor id="409917" joined="1987-06-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Metric system"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Reaffirms the national policy of metric conversion set forth in the Metric Conversion Act of 1975.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="hc" number="337" updated="2014-03-22T09:54:15-04:00">
+  <state datetime="1988-07-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-13"/>
+  </status>
+  <introduced datetime="1988-07-13"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the United States Government should not make reparations on account of the Iranian air disaster before the American hostages being held in Beirut, Lebanon, are released.</title>
+  </titles>
+  <sponsor id="407320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-13" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-07-25">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-07-25">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Aircraft"/>
+    <term name="Aviation"/>
+    <term name="Claims"/>
+    <term name="Government liability"/>
+    <term name="Government liability (International law)"/>
+    <term name="Hostages"/>
+    <term name="Iran"/>
+    <term name="Lebanon"/>
+    <term name="Liability for aircraft accidents"/>
+    <term name="Reparations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/13/1988--Introduced.
+States that the U.S. Government should not make reparations to Iran or persons in Iran on account of the Iranian airline disaster of July 3, 1988, until all nine American hostages being held in Beirut, Lebanon, are freed.</summary>
+</bill>

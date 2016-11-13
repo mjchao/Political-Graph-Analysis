@@ -1,0 +1,91 @@
+<bill session="100" type="h" number="3704" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1988-09-26">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-26"/>
+  </status>
+  <introduced datetime="1987-12-03"/>
+  <titles>
+    <title type="short" as="introduced">Hotel and Motel Fire Safety Act of 1987</title>
+    <title type="short" as="reported to house">Hotel and Motel Fire Safety Act of 1988</title>
+    <title type="short" as="passed house">Hotel and Motel Fire Safety Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Federal Fire Prevention and Control Act of 1974 to direct the Director of the Federal Emergency Management Agency, acting through the Administrator of the United States Fire Administration, to propose and promulgate a model code and guidelines governing the use and installation of automatic sprinkler systems in places of public accommodation affecting commerce, and for other purposes.</title>
+  </titles>
+  <sponsor id="411224"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-07-13"/>
+    <cosponsor id="400035" joined="1987-12-03"/>
+    <cosponsor id="406992" joined="1987-12-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-03" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-12-08">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+    <action datetime="1988-03-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-21" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-956.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Placed on Union Calendar No: 572.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-29">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Fires"/>
+    <term name="Architecture and the disabled"/>
+    <term name="Business and commerce"/>
+    <term name="Conferences"/>
+    <term name="Directories"/>
+    <term name="Disabled"/>
+    <term name="Federal employees"/>
+    <term name="Fire fighters"/>
+    <term name="Fire prevention"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Government paperwork"/>
+    <term name="Government publications"/>
+    <term name="Hotels, motels, etc."/>
+    <term name="Information services"/>
+    <term name="Public safety"/>
+    <term name="Service industries"/>
+    <term name="Smoke detectors"/>
+    <term name="Standards"/>
+    <term name="Student enrollment"/>
+    <term name="Travel costs"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/1988--Passed House amended.
+(Measure passed House, amended) Hotel and Motel Fire Safety Act of 1988 - Amends the Federal Fire Prevention and Control Act of 1974 to require the Director of the Federal Emergency Management Agency to issue guidelines governing the use and installation of automatic sprinkler systems and smoke detectors in places of public accommodation. Includes within such guidelines the requirements that, in each public accommodation: (1) an automatic smoke detection system be installed in accordance with the appropriate American National Standard for Fire Alarm Systems; and (2) an automatic sprinkler system be installed in accordance with the appropriate American National Standard for the Installation of Sprinkler Systems, except in places that are two stories or lower, have no interior corridors, and have immediate exterior egress from rooms to a ground level area. Requires States to submit to the Director lists of public accommodations which meet such guidelines so that the Director can compile, publish, and distribute to Federal agencies a master list of all public accommodations that meet such guidelines. Authorizes the Director to take steps to encourage States to promote the use of automatic sprinkler and smoke detection systems and to disseminate information on the life safety value and use of such systems. Amends Federal law to limit the studies and surveys conducted to establish the lodging expenses of Federal employees on official business to public accommodations which meet such guidelines. Prohibits the General Services Administration (GSA) from listing rates offered by places of public accommodation which do not meet such guidelines in any directory of lodging accommodations for Federal employees on official business. Requires that such directories include a description of the access and safety devices which each listed public accommodation provides for handicapped guests. Prohibits Federal funding for the specified purpose of sponsoring conferences, meetings, and similar events at public accommodations that do not meet such guidelines.</summary>
+</bill>

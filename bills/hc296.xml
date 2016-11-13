@@ -1,0 +1,46 @@
+<bill session="100" type="hc" number="296" updated="2014-03-22T09:54:14-04:00">
+  <state datetime="1988-06-23">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-06-23"/>
+  </status>
+  <introduced datetime="1988-05-10"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution authorizing printing of the House of Representatives Election Law Guidebook, 1988.</title>
+  </titles>
+  <sponsor id="406111"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-10">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-05-11" state="REFERRED">
+      <text>Received in the Senate and referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Senate Committee on Rules discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-23" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-27">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional publications"/>
+    <term name="Election law"/>
+    <term name="House of Representatives"/>
+    <term name="Printing"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Introduced.
+Authorizes the printing of the House of Representatives Election Law Guidebook, 1988 as a House document. Provides for the printing of additional copies for the use of the Committee on House Administration.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="1865" updated="2014-03-22T09:52:05-04:00">
+  <state datetime="1987-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-31"/>
+  </status>
+  <introduced datetime="1987-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 2(11) of the National Labor Relations Act.</title>
+  </titles>
+  <sponsor id="402626"/>
+  <cosponsors>
+    <cosponsor id="401418" joined="1987-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-31" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Collective bargaining"/>
+    <term name="Collective bargaining unit"/>
+    <term name="Education"/>
+    <term name="Labor union membership"/>
+    <term name="Labor unions"/>
+    <term name="School administration"/>
+    <term name="Teachers"/>
+    <term name="Teachers' tenure"/>
+    <term name="Unfair labor practices"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1987--Introduced.
+Amends the National Labor Relations Act to provide for the following exception under the definition of "supervisor." Prohibits deeming any faculty member or group of faculty members in any educational institution to be managerial or supervisory employees solely because they participate in decisions with respect to courses, curriculum, personnel, budget, or other matters of educational policy.</summary>
+</bill>

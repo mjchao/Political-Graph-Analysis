@@ -1,0 +1,37 @@
+<bill session="100" type="sc" number="164" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-14">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-14"/>
+  </status>
+  <introduced datetime="1988-10-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to correct errors in the enrollment of the bill H.R. 4612.</title>
+  </titles>
+  <sponsor id="405310"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Government liability"/>
+    <term name="Legislation"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/1988--Introduced.
+Makes technical corrections in the enrollment of H.R. 4612 (Federal Employees Liability Reform and Tort Compensation Act of 1988), deleting a reference to a section of the Federal judicial code.</summary>
+</bill>

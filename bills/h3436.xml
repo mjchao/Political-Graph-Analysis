@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="3436" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1987-10-15">REPORTED</state>
+  <status>
+    <unknown datetime="1987-10-15"/>
+  </status>
+  <introduced datetime="1987-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Older Americans Act of 1965 to make technical corrections.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-06" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-10-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-15" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-28">
+      <text>Reported to House by House Committee on Education and Labor. Report No: 100-409.</text>
+    </action>
+    <action datetime="1987-10-28">
+      <text>Placed on Union Calendar No: 263.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Committee on Rules Granted a Modified Closed Rule Providing Four Hours of General Debate; Makingin Order the Text of H.R.2762 as an Amendment in the Nature of a Sub stitute; Waiving All Points of Order.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Committee on Rules Granted a Modified Closed Rule Providing Four Hours of General Debate; Making in Order the Text of H.R.2762 as an Amendment in the Nature of a Substitute; Waiving all Points of Order.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Rules Committee Resolution H.Res.314 Reported to House.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Committee on Rules Granted a Modified Closed Rule Providing Three Hours of General Debate; Waiving All Points of Order.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Rules Committee Resolution H.Res.466 Reported to House.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Rule Failed of Passage in House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="314"/>
+    <bill relation="rule" session="100" type="hr" number="466"/>
+    <bill relation="unknown" session="100" type="h" number="2762"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Old age assistance"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1987--Introduced.
+Makes technical amendments to the Older Americans Act of 1965. Replaces references to "the elderly" with the term "older individuals." Defines "older individual" as an individual who is 60 years of age or older.</summary>
+</bill>

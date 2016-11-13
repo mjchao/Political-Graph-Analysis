@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="1033" updated="2014-03-22T09:51:40-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to provide that a producer's crop of oats on a farm may exceed the permitted acreage base and the producer may be eligible to participate in the annual farm program for corn and grain sorghums for such crop year.</title>
+  </titles>
+  <sponsor id="404723"/>
+  <cosponsors>
+    <cosponsor id="403864" joined="1987-02-05"/>
+    <cosponsor id="400236" joined="1987-02-05"/>
+    <cosponsor id="406799" joined="1987-02-05"/>
+    <cosponsor id="407162" joined="1987-02-05"/>
+    <cosponsor id="408097" joined="1987-02-05"/>
+    <cosponsor id="410076" joined="1987-02-05"/>
+    <cosponsor id="410641" joined="1987-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Barley"/>
+    <term name="Corn"/>
+    <term name="Feed grain program"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Amends the Agricultural Act of 1949 to permit a producer of corn and oats, beginning in 1987, to plant more oat acreage than his or her permitted farm acreage base for oats and barley without losing eligibility for feed grain agricultural program benefits. Stipulates that excess oat and barley planting will result in benefits loss for oats and barley. Directs the Secretary of Agriculture to establish a uniform date for producers in a county to certify their corn and oats acreage.</summary>
+</bill>

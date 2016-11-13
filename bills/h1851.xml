@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1851" updated="2014-03-22T09:52:04-04:00">
+  <state datetime="1987-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-30"/>
+  </status>
+  <introduced datetime="1987-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the President to provide to Congress the entire negotiating record of the Anti-Ballistic Missile Treaty of 1972.</title>
+  </titles>
+  <sponsor id="402928"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-30" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-04-13">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Antimissile missiles"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Arms control negotiations"/>
+    <term name="Classified defense information"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional-Presidential relations"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Security classification (Government documents)"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1987--Introduced.
+Directs the President to provide the Congress the entire negotiating record of the Anti-Ballistic Missile Treaty of 1972 (ABM treaty) along with other related material. Requires such material to be submitted in classified and unclassified forms and to include: (1) transcripts of negotiating sessions and meetings of the United States ABM treaty delegation both with and without their Soviet counterparts; (2) memoranda of conversation concerning such meetings; and (3) other documents relevant to the negotiation and interpretation of the ABM treaty.</summary>
+</bill>

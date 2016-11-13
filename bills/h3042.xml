@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="3042" updated="2014-03-22T09:52:42-04:00">
+  <state datetime="1987-07-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-29"/>
+  </status>
+  <introduced datetime="1987-07-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Food Security Act of 1985 to provide for the fair and equitable application of the maximum limitation on farm program payments that may be received by a person.</title>
+  </titles>
+  <sponsor id="402833"/>
+  <cosponsors>
+    <cosponsor id="300087" joined="1987-07-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-29" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Cotton, Rice, and Sugar.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+    <action datetime="1987-08-03">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG02" subcommittee="Cotton, Rice, and Sugar" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+    <committee activity="Referral" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Cotton"/>
+    <term name="Feed grain program"/>
+    <term name="Rice"/>
+    <term name="Wheat"/>
+  </subjects>
+  <amendments/>
+  <summary>7/29/1987--Introduced.
+Amends the Food Security Act of 1985 with respect to payment limitations for wheat, feed grains, cotton, and rice for FY 1988 through 1990. Requires the Secretary of Agriculture to attribute to the individual members of an organizational entity engaged in farming all payments made to such entity. Treats such entity as a separate person. Requires attribution to individual members on the basis of their individual interests in the entity. Permits the Secretary not to attribute the entity payments to any member whose interest is less than ten percent when attribution to such member would have little or no effect on the implementation of the limitation. Prohibits any member of an entity from receiving payments in excess of the limitation for a separate person. Provides that a producer who leases land from an individual or entity must be combined as one person with that individual or entity for payment limitation purposes unless the producer makes a substantial contribution of owned land or owned equipment and personal labor or active personal management to the farming operation that includes the leased land.</summary>
+</bill>

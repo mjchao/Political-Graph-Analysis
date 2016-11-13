@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="582" updated="2014-03-22T09:51:24-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to permit an increase in the maximum speed limit to 65 miles per hour on highways in States which require the use of seat belts in the front seats of automobiles.</title>
+  </titles>
+  <sponsor id="400302"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Automobile safety standards"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle safety"/>
+    <term name="Public safety"/>
+    <term name="Roads and highways"/>
+    <term name="Seat belts"/>
+    <term name="Speed limits"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Amends Federal law to permit an increase in the maximum speed limit to 65 miles per hour on highways in States that require the use of seat belts by front seat automobile passengers.</summary>
+</bill>

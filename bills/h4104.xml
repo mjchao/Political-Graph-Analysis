@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="4104" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-08"/>
+  </status>
+  <introduced datetime="1988-03-08"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Earnings Test Limitation Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to eliminate the earnings test for individuals who have attained retirement age.</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-08" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-03-11">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Earnings"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Older workers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/8/1988--Introduced.
+Social Security Earnings Test Limitation Act of 1988 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to remove the limitation on the amount of outside income which beneficiaries who have attained retirement age may earn without incurring a reduction in benefits.</summary>
+</bill>

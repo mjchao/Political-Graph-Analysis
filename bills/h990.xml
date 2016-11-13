@@ -1,0 +1,126 @@
+<bill session="100" type="h" number="990" updated="2014-12-10T13:13:40-05:00">
+  <state datetime="1988-10-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-28"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="passed house">Imperial Valley College Barker Museum Land Transfer Act of 1988</title>
+    <title type="short" as="enacted">Imperial Valley College Barker Museum Land Transfer Act of 1988</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to convey a certain parcel of land located near Ocotillo, California.</title>
+  </titles>
+  <sponsor id="400191"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-03-04" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-03-05">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-20.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Placed on Union Calendar No: 16.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-03-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-03-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <calendar datetime="1987-09-16">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-09-25">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-180.</text>
+    </action>
+    <calendar datetime="1987-09-25" calendar="Senate Legislative" under="General Orders" number="343">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 343.</text>
+    </calendar>
+    <action datetime="1987-12-22">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-22" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>House Agreed to Senate Amendment With an Amendment Pursuant to H.R.578.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate amendment.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-07" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment to the Senate amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-07">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-535" type="public" datetime="1988-10-28">
+      <text>Became Public Law No: 100-535.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="578"/>
+    <bill relation="identical" session="100" type="s" number="609"/>
+    <bill relation="identical" session="100" type="s" number="609"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Boundaries"/>
+    <term name="California"/>
+    <term name="Land transfers"/>
+    <term name="Museums"/>
+    <term name="National forests"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1380"/>
+  </amendments>
+  <summary>10/6/1988--House agreed to Senate amendment with amendment.
+(House agreed to Senate amendment with amendment under suspension of rules) Imperial Valley College Barker Museum Land Transfer Act of 1988 - Directs the Secretary of the Interior to convey, without consideration, specified land near Ocotillo, California, to Imperial Valley College Barker Museum of El Centro, California, for museum purposes.</summary>
+</bill>

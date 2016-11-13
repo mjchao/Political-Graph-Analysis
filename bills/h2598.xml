@@ -1,0 +1,143 @@
+<bill session="100" type="h" number="2598" updated="2014-12-10T13:14:06-05:00">
+  <state datetime="1988-01-11">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-01-11"/>
+  </status>
+  <introduced datetime="1987-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Commercial Fishing Industry Vessel Anti-Reflagging Act of 1987</title>
+    <title type="short" as="reported to house">Commercial Fishing Industry Vessel Anti-Reflagging Act of 1987</title>
+    <title type="short" as="passed house">Commercial Fishing Industry Vessel Anti-Reflagging Act of 1987</title>
+    <title type="short" as="enacted">Commercial Fishing Industry Vessel Anti-Reflagging Act of 1987</title>
+    <title type="official" as="introduced">A bill entitled: "The Commercial Fishing Industry Vessel Anti-Reflagging Act of 1987".</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="401585" joined="1987-06-04"/>
+    <cosponsor id="407721" joined="1987-06-04"/>
+    <cosponsor id="400440" joined="1987-06-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-04" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Executive Comment Requested from DOT, State, Commerce.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Subcommittee on Merchant Marine Discharged.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Subcommittee on Coast Guard and Navigation Discharged.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Subcommittee on Fisheries and Wildlife Conservation and the Environment Discharged.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-11-05">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-423.</text>
+    </action>
+    <action datetime="1987-11-05">
+      <text>Placed on Union Calendar No: 273.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="424" datetime="1987-11-09" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 351 - 40 (Record Vote No: 424).</text>
+    </vote>
+    <action datetime="1987-11-17">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1987-11-18" calendar="Senate Legislative" under="General Orders" number="440">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 440.</text>
+    </calendar>
+    <action datetime="1987-12-17">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-17" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>House Concurred, in Senate Amendments , with Amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate amendment.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1987-12-22" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment to the Senate amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-22">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-30">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-01-11" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-239" type="public" datetime="1988-01-11">
+      <text>Became Public Law No: 100-239.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral, Discharged" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral, Discharged" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2661"/>
+    <bill relation="unknown" session="100" type="h" number="3387"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alien labor"/>
+    <term name="Buy American"/>
+    <term name="Citizenship"/>
+    <term name="Coastwise shipping"/>
+    <term name="Fish processing ships"/>
+    <term name="Fisheries"/>
+    <term name="Fishing"/>
+    <term name="Fishing boats"/>
+    <term name="Flags of convenience"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Illegal aliens"/>
+    <term name="Immigration"/>
+    <term name="Labor and employment"/>
+    <term name="Licenses"/>
+    <term name="Merchant seamen"/>
+    <term name="Shipbuilding"/>
+    <term name="Ships"/>
+    <term name="Ships and shipping"/>
+    <term name="Vessel documentation"/>
+    <term name="Whaling"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1364"/>
+    <amendment number="s1365"/>
+  </amendments>
+  <summary>12/21/1987--House agreed to Senate amendment with amendment.
+(House agreed to Senate amendment with an amendment) Commercial Fishing Industry Vessel Anti-Reflagging Act of 1987 - Amends the Magnuson Fishery Conservation and Management Act to revise the definition of "vessel of the United States" to insert references to specific provisions of existing law and to include any vessel not equipped with propulsion machinery and used exclusively for pleasure. Amends Federal law to revise the definition of "fisheries" to include processing, storing, and transporting (except in foreign commerce) in the navigable waters of the United States or in the exclusive economic zone, of currently-specified marine life and objects. Requires a rebuilt vessel, in order to be issued a fishery license or an appropriately endorsed registry, to have been rebuilt in the United States. Provides for exceptions to the requirement that vessels must be U.S. built or rebuilt in order to be issued a fishery license or registry. Requires any fishery license or registry issued to a foreign-built vessel to be endorsed to restrict the vessel from catching, taking, or harvesting. Revises requirements regarding: (1) U.S. citizenship or permanent resident alien status for radio officers and other crew members of vessels in certain circumstances; (2) the percentage of the crew which is able to understand any order spoken by the officers; and (3) the percentage of the deck crew having merchant mariner's documents endorsed for a rating of at least able seaman. Allows not more than 25 percent of the unlicensed seamen on a fishing, fish processing, or fish tender vessel to be aliens allowed to be employed under the Immigration and Naturalization Act. Deems aliens employed on certain fishing-related vessels to be employed in the United States for purposes of specified provisions of the Immigration and Nationality Act relating to unlawful employment of aliens. Authorizes vessels for which coastwise, Great Lakes, or fishery licenses, or appropriately endorsed registries, were issued before July 28, 1987, to continue in such trades for one year or until their documentation is renewed, whichever come later. Declares that a vessel owned by a corporation is not eligible for a fishery license unless the controlling interest in the corporation is owned by individuals who are U.S. citizens. Exempts from such provision certain vessels licensed before July 28, 1987. Directs the Secretary of Commerce to submit reports to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives concerning: (1) the potential impact on the development of the U.S. fishing industry of the transportation of fish products by vessels of the United States from foreign fish processing vessels to points in the United States; and (2) the trends in the development of fishery resources under the exclusive fishery management authority of the United States, including the effect of this Act on the U.S. fishing industry. Authorizes the Secretary of the department in which the Coast Guard is operating to issue a certificate of documentation to each of eight named vessels.</summary>
+</bill>

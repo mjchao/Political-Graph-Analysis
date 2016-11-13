@@ -1,0 +1,72 @@
+<bill session="100" type="h" number="4604" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-06-28">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1988-05-13"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the expiration date of title II of the Energy Policy and Conservation Act.</title>
+  </titles>
+  <sponsor id="409793"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-13" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Hearings Held in Subcommittee on Energy and Power Prior to Referral (May 17, 88).</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee on Energy and Power Discharged.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-21" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-23">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-730.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Placed on Union Calendar No: 442.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-28" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-29">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>House Incorporated this Measure in S.2203 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Discharged" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2203"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy conservation"/>
+    <term name="Energy policy"/>
+    <term name="International cooperation"/>
+    <term name="International environmental cooperation"/>
+    <term name="Sunset legislation"/>
+    <term name="Western Hemisphere"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/1988--Passed House amended.
+(Measure passed House, amended) Amends the Energy Policy and Conservation Act to extend the standby energy authorities from June 30, 1988, to June 30, 1990. Directs the Secretary of Energy to: (1) conduct a study, in consultation with the Secretary of State and the Secretary of Commerce, regarding energy policy cooperation between the United States and other Western hemisphere countries; (2) report the study results to certain congressional committees; (3) propose a comprehensive international energy policy designed to enhance such cooperation; and (4) recommend actions to implement such policy.</summary>
+</bill>

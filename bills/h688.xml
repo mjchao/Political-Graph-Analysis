@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="688" updated="2014-03-22T09:51:31-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for payment by the United States for certain medical services and treatment provided to United States citizens and permanent residents suffering from physical injuries attributable to the atomic bomb explosions on Hiroshima and Nagasaki, Japan, in August 1945.</title>
+  </titles>
+  <sponsor id="409446"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Armed forces and national security"/>
+    <term name="Atomic bomb"/>
+    <term name="Defense articles"/>
+    <term name="Government liability"/>
+    <term name="Japan"/>
+    <term name="Liability for nuclear damages"/>
+    <term name="Nuclear energy"/>
+    <term name="Radiation"/>
+    <term name="War casualties"/>
+    <term name="World War II"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Requires the Secretary of Health and Human Services to pay for unreimbursed medical services and treatment for any physical illness suffered by a U.S. citizen or permanent resident directly attributable to the atomic explosions on Japan in August 1945. Limits such assistance to medical services provided in the United States on or after the date of enactment.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="1435" updated="2014-03-22T09:51:49-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="short" as="introduced">National Agricultural Library Act</title>
+    <title type="official" as="introduced">A bill to consolidate and expand the statutory authority for the National Agricultural Library in the Department of Agriculture.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="402710" joined="1987-11-19"/>
+    <cosponsor id="407069" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural extension work"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Department of Agriculture"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal aid to libraries"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information services"/>
+    <term name="Libraries"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+National Agricultural Library Act - Establishes in the Department of Agriculture the National Agricultural Library to serve as the Nation's primary agricultural information resource. Sets forth Library functions, including information acquisition and distribution, and inter-library coordination. Authorizes the Library to make and sell agricultural-information products and related services. Authorizes appropriations.</summary>
+</bill>

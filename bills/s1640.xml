@@ -1,0 +1,42 @@
+<bill session="100" type="s" number="1640" updated="2014-03-22T09:55:23-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow reserve for bad debts to production credit associations and banks for cooperatives.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1988-03-30"/>
+    <cosponsor id="300026" joined="1988-05-20"/>
+    <cosponsor id="300031" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Agricultural cooperatives"/>
+    <term name="Agricultural credit"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Bank loans"/>
+    <term name="Bank reserves"/>
+    <term name="Business losses"/>
+    <term name="Collection of accounts"/>
+    <term name="Finance and financial sector"/>
+    <term name="Income tax"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Amends the Internal Revenue Code to permit production credit associations and banks for cooperatives an income tax deduction for any reasonable addition to a reserve for bad debts.</summary>
+</bill>

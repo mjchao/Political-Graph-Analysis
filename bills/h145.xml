@@ -1,0 +1,162 @@
+<bill session="100" type="h" number="145" updated="2014-03-22T09:51:10-04:00">
+  <state datetime="1988-01-08">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-01-08"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Computer Security Act of 1987</title>
+    <title type="short" as="reported to house">Computer Security Act of 1987</title>
+    <title type="short" as="passed house">Computer Security Act of 1987</title>
+    <title type="short" as="enacted">Computer Security Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for a computer standards program within the National Bureau of Standards, to provide for Government-wide computer security, and to provide for the training in security matters of persons who are involved in the management, operation, and use of Federal computer systems, and for other purposes.</title>
+  </titles>
+  <sponsor id="404602"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="1987-01-06"/>
+    <cosponsor id="401837" joined="1987-01-06"/>
+    <cosponsor id="400572" joined="1987-01-06"/>
+    <cosponsor id="402114" joined="1987-06-11"/>
+    <cosponsor id="403776" joined="1987-06-11"/>
+    <cosponsor id="405646" joined="1987-01-06"/>
+    <cosponsor id="405775" joined="1987-06-11"/>
+    <cosponsor id="408109" joined="1987-06-11"/>
+    <cosponsor id="409353" joined="1987-01-06"/>
+    <cosponsor id="411224" joined="1987-01-06"/>
+    <cosponsor id="300100" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-01-16">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Science Research and Technology.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Transportation, Aviation and Materials.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-02-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-02-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-02-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-07" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-04-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-04-29">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-29">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-05-20">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-06-11">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-153 (Part I).</text>
+    </action>
+    <action datetime="1987-06-11">
+      <text>Reported to House (Amended) by House Committee on Government Operations.  Report No: 100-153 (Part II).</text>
+    </action>
+    <action datetime="1987-06-11">
+      <text>Placed on Union Calendar No: 89.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-23">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Read twice and held at the desk by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-21" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-30">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-01-08" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-235" type="public" datetime="1988-01-08">
+      <text>Became Public Law No: 100-235.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSSY07" subcommittee="Transportation, Aviation and Materials" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advisory bodies"/>
+    <term name="Civil service employment"/>
+    <term name="Computer security measures"/>
+    <term name="Computers"/>
+    <term name="Computers and government"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Employee training"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Freedom of information"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Research"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>6/22/1987--Passed House amended.
+(Measure passed House, amended) Computer Security Act of 1987 - Directs the National Bureau of Standards to establish a computer standards program for Federal computer systems, including guidelines for the security of such systems. Sets forth authorities of the Bureau in implementing such standards. Requires the Bureau to draw upon computer system technical security guidelines developed by the National Security Agency regarding protecting sensitive information. Establishes a Computer System Security and Privacy Advisory Board within the Department of Commerce to: (1) identify, and advise the Bureau and the Secretary of Commerce on, issues relating to computer systems security and privacy; and (2) report findings to the Secretary, the Director of the Office of Management and Budget, the Director of the National Security Agency, and the appropriate congressional committees. Amends the Federal Property and Administrative Services Act of 1949 to require the Secretary to promulgate standards and guidelines pertaining to Federal computer systems on the basis of standards developed by the Bureau. Authorizes the President to disapprove or modify such standards and guidelines if such action would be in the public interest. Requires that notice of such disapproval or modification be submitted to the House Committee on Government Operations and the Senate Committee on Governmental Affairs and published in the Federal Register. Directs the Secretary to rescind or modify such standards or guidelines as directed by the President. Requires each agency to provide mandatory periodic training in computer security, under guidelines developed by the Bureau, for all employees involved with the management, use, or operation of computer systems. Authorizes the use of an approved alternative training program determined by the agency head to meet the objectives of such guidelines. Requires each agency with a Federal computer system to establish a plan for the security and privacy of sensitive information. Requires the submission of such plans to the Bureau and the National Security Agency for advice and comment. Subjects such plans to disapproval by the Office of Management and Budget. Provides that nothing in this Act shall be construed to: (1) constitute authority to withhold information sought under the Freedom of Information Act; or (2) authorize any Federal agency to limit, restrict, regulate, or control the collection, maintenance, disclosure, use, transfer, or sale of any information that is privately-owned information, information disclosable under the Freedom of Information Act or other law requiring or authorizing the public disclosure of information, or information in the public domain.</summary>
+</bill>

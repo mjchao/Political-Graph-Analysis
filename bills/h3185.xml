@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="3185" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1988-04-19">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-04-19"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of James P. Purvis.</title>
+  </titles>
+  <sponsor id="300029"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-08-09">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-549.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Placed on Private Calendar No: 44.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-19">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Other Measure S.1609 Passed House in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1609"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full satisfaction of any claim of that individual or a named company against the United States arising out of a contract with the United States for construction of a building at the World's Fair in Seattle, Washington, in 1962.</summary>
+</bill>

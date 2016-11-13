@@ -1,0 +1,85 @@
+<bill session="100" type="h" number="963" updated="2014-03-22T09:51:38-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Ground Water Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for the protection of ground water through State standards, planning, and protection programs.</title>
+  </titles>
+  <sponsor id="402114"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="1987-02-04"/>
+    <cosponsor id="404422" joined="1987-05-12"/>
+    <cosponsor id="405236" joined="1987-02-04"/>
+    <cosponsor id="405775" joined="1987-02-04"/>
+    <cosponsor id="406157" joined="1987-05-12"/>
+    <cosponsor id="400223" joined="1987-02-04"/>
+    <cosponsor id="406461" joined="1987-02-04"/>
+    <cosponsor id="400537" joined="1987-05-12"/>
+    <cosponsor id="406740" joined="1987-02-04"/>
+    <cosponsor id="400595" joined="1987-05-12"/>
+    <cosponsor id="407564" joined="1987-02-04"/>
+    <cosponsor id="409237" joined="1988-04-20"/>
+    <cosponsor id="410066" joined="1987-02-04"/>
+    <cosponsor id="410147" joined="1987-05-12"/>
+    <cosponsor id="400386" joined="1987-05-12"/>
+    <cosponsor id="410531" joined="1987-05-12"/>
+    <cosponsor id="410889" joined="1987-05-12"/>
+    <cosponsor id="400612" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-17">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="20"/>
+    <bill relation="identical" session="100" type="s" number="20"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Groundwater"/>
+    <term name="Standards"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water pollution measurement"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Ground Water Protection Act of 1987 - Directs the Administrator of the Environmental Protection Agency to establish criteria for groundwater quality, including an analysis of the contaminants and the risks they pose to human and environmental health. Sets a timetable for the establishment of such criteria. Requires the Administrator to appoint an advisory panel. Requires each State to establish numerical standards for contaminants found in the ambient groundwater. Permits separate standards for special systems. Requires each State to use Federal criteria in establishing such standards. Requires each State to assess the groundwater resources and to develop a management strategy and monitoring program for such resources. Requires the Director of the U.S. Geological Survey to make grants to States for such assessments. Directs the Administrator to make grants to assist States in meeting the other requirements of this Act. Authorizes appropriations.</summary>
+</bill>

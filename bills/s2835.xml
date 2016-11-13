@@ -1,0 +1,72 @@
+<bill session="100" type="s" number="2835" updated="2014-03-22T09:55:57-04:00">
+  <state datetime="1988-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-03"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="official" as="introduced">An original bill to designate the United States Post Office and Courthouse located at 151 West Street in Rutland, Vermont, as the "Robert T. Stafford United States Courthouse and Post Office".</title>
+  </titles>
+  <sponsor id="402023"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-09-23" state="REPORTED">
+      <text>Committee on Environment and Public Works ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1988-09-27">
+      <text>Committee on Environment and Public Works. Original measure reported to Senate by Senator Burdick. Without written report.</text>
+    </action>
+    <calendar datetime="1988-09-27" calendar="Senate Legislative" under="General Orders" number="1008">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1008.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-19" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <action datetime="1988-10-28">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-599" type="public" datetime="1988-11-03">
+      <text>Became Public Law No: 100-599.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="5451"/>
+    <bill relation="identical" session="100" type="h" number="5451"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Courthouses"/>
+    <term name="Federal installations"/>
+    <term name="Names"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal facilities"/>
+    <term name="Vermont"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Introduced.
+Designates the United States Post Office and Courthouse at 151 West Street, Rutland, Vermont, as the Robert T. Stafford United States Courthouse and Post Office.</summary>
+</bill>

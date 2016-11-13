@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="1428" updated="2014-03-22T09:55:19-04:00">
+  <state datetime="1987-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="short" as="introduced">Subseabed Nuclear Waste Disposal Research Act of 1987</title>
+    <title type="official" as="introduced">A bill entitled the "Subseabed Nuclear Waste Disposal Research Act of 1987".</title>
+  </titles>
+  <sponsor id="405305"/>
+  <cosponsors>
+    <cosponsor id="403920" joined="1987-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Referred to Subcommittee on Research and Development.</text>
+    </action>
+    <action datetime="1987-07-16">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+    <action datetime="1987-07-17">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, In Committee"/>
+    <committee activity="Referral" code="SSEG01" subcommittee="Research and Development" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Department of Energy"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Executive reorganization"/>
+    <term name="Nuclear energy"/>
+    <term name="Ocean"/>
+    <term name="Oceanographic research"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive waste disposal in the ocean"/>
+    <term name="Radioactive wastes"/>
+    <term name="Research"/>
+    <term name="Research and development"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/1987--Introduced.
+Subseabed Nuclear Waste Disposal Research Act of 1987 - Amends the Nuclear Waste Policy Act of 1982 to establish an Office of Subseabed Disposal Research within the Office of Energy Research of the Department of Energy, headed by a Director responsible for research, development, and demonstration activities regarding subseabed disposal of high-level radioactive waste and spent nuclear fuel. Directs the Secretary to establish a university-based Seabed Consortium composed of oceanographic universities and institutions to investigate the technical and institutional feasibility of subseabed disposal. Requires the Consortium to report to the Congress regarding the design, costs, and impacts of a subseabed disposal system. Requires the Director of the Office of Subseabed Disposal Research to report annually to the Congress regarding Office activities. Provides funding.</summary>
+</bill>

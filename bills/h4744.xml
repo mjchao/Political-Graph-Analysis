@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="4744" updated="2014-03-22T09:53:24-04:00">
+  <state datetime="1988-06-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-03"/>
+  </status>
+  <introduced datetime="1988-06-03"/>
+  <titles>
+    <title type="short" as="introduced">Federal Budget Structure Act of 1988</title>
+    <title type="official" as="introduced">A bill to improve budgetary information by requiring that the unified budget presented by the President contain an operating budget and a capital budget, distinguish betweeen Federal funds and trust funds, and for other purposes.</title>
+  </titles>
+  <sponsor id="401837"/>
+  <cosponsors>
+    <cosponsor id="403476" joined="1988-07-14"/>
+    <cosponsor id="405646" joined="1988-06-03"/>
+    <cosponsor id="400369" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-03" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Capital budgets"/>
+    <term name="Federal budgets"/>
+    <term name="Government trust funds"/>
+  </subjects>
+  <amendments/>
+  <summary>6/3/1988--Introduced.
+Federal Budget Structure Act of 1988 - Amends Federal law to require that the budget the President submits to the Congress be a unified budget comprising an operating budget and a capital budget, each presented separately for total funds, Federal funds, and trust funds. Restricts the capital budget to the major activities, projects, and programs supporting the acquisition, construction, alteration, and rehabilitation of capital assets. Includes all other items in the operating budget. Directs the Comptroller General to review and report to the Congress, as necessary, on the implementation of this Act.</summary>
+</bill>

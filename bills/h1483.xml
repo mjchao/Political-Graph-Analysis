@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="1483" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-09"/>
+  </status>
+  <introduced datetime="1987-03-09"/>
+  <titles>
+    <title type="short" as="introduced">Mandatory Fish Inspection Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for the inspection of all commercial seafood destined for human consumption in the United States.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="1987-03-19"/>
+    <cosponsor id="404006" joined="1987-03-19"/>
+    <cosponsor id="404422" joined="1987-03-31"/>
+    <cosponsor id="400595" joined="1987-05-08"/>
+    <cosponsor id="400306" joined="1987-03-19"/>
+    <cosponsor id="408621" joined="1987-03-31"/>
+    <cosponsor id="410145" joined="1987-03-19"/>
+    <cosponsor id="400612" joined="1987-05-08"/>
+    <cosponsor id="411677" joined="1987-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-09" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-03-27">
+      <text>Executive Comment Requested from HHS, USDA, Commerce.</text>
+    </action>
+    <action datetime="1987-03-27">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Fish inspection"/>
+    <term name="Fisheries"/>
+    <term name="Fishery products"/>
+    <term name="Food adulteration and inspection"/>
+    <term name="Food and Food Industry"/>
+    <term name="Seafood"/>
+    <term name="Seafood industries"/>
+    <term name="Shellfish fisheries"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1987--Introduced.
+Mandatory Fish Inspection Act of 1987 - Directs the Secretary of Agriculture, within one year of enactment of this Act, to initiate a mandatory continuous inspection program of the commercial processing of fish, shellfish, and their products used for human consumption.</summary>
+</bill>

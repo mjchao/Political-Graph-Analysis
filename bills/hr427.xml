@@ -1,0 +1,45 @@
+<bill session="100" type="hr" number="427" updated="2014-03-22T09:51:01-04:00">
+  <state datetime="1988-04-18">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-04-18"/>
+  </status>
+  <introduced datetime="1988-04-18"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against the conference report on H.R. 5 and against consideration of such conference report, and providing for the consideration of a bill to amend the Communications Act of 1934.</title>
+  </titles>
+  <sponsor id="400143"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-18">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-570.</text>
+    </action>
+    <action datetime="1988-04-18">
+      <text>Placed on House Calendar No: 144.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="5"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Education"/>
+    <term name="Government operations and politics"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments>
+    <amendment number="h610"/>
+  </amendments>
+  <summary>4/19/1988--Passed House amended.
+(Measure passed House, amended) Waives points of order against the conference report on H.R. 5 (education programs) and against its consideration.</summary>
+</bill>

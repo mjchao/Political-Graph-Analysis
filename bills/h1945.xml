@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="1945" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1988-09-22">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1987-04-06"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Mental Illness Non-Discrimination Act</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to eliminate discrimination with regard to mental illness under the medicare program.</title>
+  </titles>
+  <sponsor id="403581"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Called up by House on Call of Consent Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+    <term name="Mental health services"/>
+  </subjects>
+  <amendments/>
+  <summary>4/6/1987--Introduced.
+Medicare Mental Illness Non-Discrimination Act - Amends title XVIII (Medicare) of the Social Security Act to eliminate restrictions with respect to inpatient psychiatric care and the treatment of mental, psychoneurotic, and personality disorders of an individual who is not an inpatient.</summary>
+</bill>

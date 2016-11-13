@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="654" updated="2014-03-22T09:51:31-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the gasoline tax and to transfer the additional revenues to the Mass Transit Account in the Highway Trust Fund.</title>
+  </titles>
+  <sponsor id="404765"/>
+  <cosponsors>
+    <cosponsor id="401310" joined="1987-03-16"/>
+    <cosponsor id="402763" joined="1987-02-25"/>
+    <cosponsor id="400080" joined="1987-02-25"/>
+    <cosponsor id="400140" joined="1987-02-25"/>
+    <cosponsor id="410145" joined="1987-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Economics and public finance"/>
+    <term name="Excise tax"/>
+    <term name="Gasoline"/>
+    <term name="Gasoline tax"/>
+    <term name="Government trust funds"/>
+    <term name="Highway finance"/>
+    <term name="Mass rapid transit"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Roads and highways"/>
+    <term name="Transportation and Travel"/>
+    <term name="Urban affairs"/>
+    <term name="Urban transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Amends the Internal Revenue Code to increase the excise tax on gasoline from nine cents per gallon to 12 cents per gallon. Specifies that revenues raised by such increase in the excise tax on gasoline shall be transferred to the Mass Transit Account of the Highway Trust Fund. Imposes a floor stock tax on gasoline of three cents per gallon. Specifies that revenues raised by such floor stock tax shall be transferred to the Highway Trust Fund.</summary>
+</bill>

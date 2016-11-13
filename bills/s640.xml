@@ -1,0 +1,154 @@
+<bill session="100" type="s" number="640" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-10-22">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-22"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="short" as="reported to house">Water and Power Authorization Act of 1987</title>
+    <title type="short" as="passed house">Water and Power Authorization Act of 1987</title>
+    <title type="official" as="introduced">A bill for the relief for the city of Dickinson, North Dakota.</title>
+  </titles>
+  <sponsor id="402023"/>
+  <cosponsors>
+    <cosponsor id="300026" joined="1987-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+    <calendar datetime="1987-06-03" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-06-08">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston under the authority of the order of May  5, 87 without amendment. With written report No. 100-65.</text>
+    </action>
+    <calendar datetime="1987-06-08" calendar="Senate Legislative" under="General Orders" number="158">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 158.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee on Water and Power Resources Discharged.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-07">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-08">
+      <text>Committee on Rules Granted an Open Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1987-10-08">
+      <text>Rules Committee Resolution H.Res.282 Reported to House.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-365.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Placed on Union Calendar No: 225.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>Committee Amendment in the Nature of a Substitute Considered as an Original Bill for the Purpose of Amendment.</text>
+    </action>
+    <action datetime="1987-10-22">
+      <text>House Agreed to Amendments Adopted by the Committee of the Whole.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="375" datetime="1987-10-22" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 220 - 184 (Record Vote No: 375).</text>
+    </vote>
+    <action datetime="1987-10-22">
+      <text>Motion to Reconsider Tabled in House by Yea-Nay Vote: 254 - 142 (Record Vote No: 376).</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Indefinitely postponed by Senate by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="282"/>
+    <bill relation="unknown" session="100" type="h" number="1304"/>
+    <bill relation="unknown" session="100" type="h" number="1819"/>
+    <bill relation="unknown" session="100" type="h" number="1820"/>
+    <bill relation="unknown" session="100" type="h" number="1821"/>
+    <bill relation="unknown" session="100" type="h" number="1894"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Alaska"/>
+    <term name="Arizona"/>
+    <term name="Authorization"/>
+    <term name="California"/>
+    <term name="Canals"/>
+    <term name="Claims"/>
+    <term name="Colorado"/>
+    <term name="Construction costs"/>
+    <term name="Contracts"/>
+    <term name="Dams"/>
+    <term name="Droughts"/>
+    <term name="Electric power transmission"/>
+    <term name="Electric utilities"/>
+    <term name="Fishery management"/>
+    <term name="Flood control"/>
+    <term name="Government liability"/>
+    <term name="Hydroelectric power"/>
+    <term name="Irrigation"/>
+    <term name="Irrigation districts"/>
+    <term name="Land transfers"/>
+    <term name="Leases"/>
+    <term name="Names"/>
+    <term name="Nebraska"/>
+    <term name="North Dakota"/>
+    <term name="Reservoirs"/>
+    <term name="Rivers"/>
+    <term name="Salmon fisheries"/>
+    <term name="South Dakota"/>
+    <term name="Stream conservation"/>
+    <term name="Washington State"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+    <term name="Watersheds"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments>
+    <amendment number="h462"/>
+    <amendment number="h463"/>
+    <amendment number="h464"/>
+    <amendment number="h465"/>
+    <amendment number="h466"/>
+    <amendment number="h467"/>
+    <amendment number="h468"/>
+    <amendment number="h469"/>
+    <amendment number="h470"/>
+  </amendments>
+  <summary>10/22/1987--Passed House amended.
+(Measure passed House, amended, roll call #375 (220-184)) Water and Power Authorization Act of 1987 - Title I: City of Dickinson, N.D. - Relieves the city of Dickinson, North Dakota, of all obligations incurred under a contract entered into with the Secretary of the Interior concerning construction of certain facilities at the Dickinson Dam under the Reclamation Authorization Act of 1975, notwithstanding certain provisions of such Act. Authorizes the Secretary to enter into a new repayment contract the terms of which will entitle it to water supply benefits provided by a bascule gate project in consideration for repayment of such project's costs according to a specified schedule. Title II: Increases in Authorization Ceiling - Amends the Reclamation Authorization Act of 1976 to increase authorized appropriations for construction at the Oroville-Tonasket Unit, Washington, irrigation project. Authorizes such appropriations through FY 1991. Directs the Secretary to report to the House Committee on Interior and Insular Affairs and the Senate Committee on Energy and Natural Resources, not later than 120 days after enactment of this Act, about mitigation of the impact of the project on salmon resources and enhancing of the production of salmon. Title III: Central Valley Project Water Releases - Directs the Secretary to install a temperature control curtain as a demonstration project at Shasta Dam, Central Valley Project, California. Declares the purpose of such project to determine the effectiveness of the curtain in controlling the temperature of water releases from Shasta Dam so as to protect and enhance anadromous fisheries in the Sacramento River and San Francisco Bay/Sacramento-San Joaquin Delta and Estuary. Title IV: Name Changes - Designates the Tucson aqueduct, Phase A, of the Central Arizona project, as the Stewart Udall-Barry Goldwater Aqueduct. Designates the Granite Reef Aqueduct of the Central Arizona project as the Hayden-Rhodes Aqueduct. Designates the Salt-Gila aqueduct of the Central Arizona project as the Fannin-McFarland Aqueduct. Designates the Whiskeytown Dam, Central Valley project, California, as the Clair A. Hill Whiskeytown Dam. Title V: Power Marketing Administration Authorization - Authorizes appropriations for FY 1988 and 1989 to: (1) the Alaska Power Administration for the operation and maintenance of projects in Alaska and for the marketing of electric power and energy; (2) the Southeastern Power Administration for operation and maintenance of power transmission facilities and for the marketing of electric power and energy; and (3) the Southwestern Power Administration for operation and maintenance of power transmission facilities, for the marketing of electric power and energy, and for construction and acquisition of transmission lines, substations and appurtenant facilities. Authorizes appropriations for FY 1988 to the Western Area Power Administration for applicable functions and related activities, including conservation and renewable resources programs. Authorizes the Secretary of the Treasury to transfer from the Colorado River Dam Fund to the Western Area Power Administration funds to carry out the power marketing and transmission activities of the Boulder Canyon Project. Directs the Administrator of the Western Area Power Administration, not later than February 1, 1988, and not less than every year thereafter, to submit to the Congress a comprehensive list of major transmission lines and related facilities which the Administration plans to construct or participate in the construction of during the next five years. Declares that no funds are authorized to be appropriated after February 1, 1988, to the Administration to construct or participate in the construction of any major transmission lines and related facilities which are not included on such list, with the exception of emergency projects. Directs the Administrator to report to the Congress, not later than May 1, 1988, with recommendations for improving transmission policies and programs. Amends the Pacific Northwest Electric Power Planning and Conservation Act to reduce the Bonneville Power Administration's borrowing authority. Title VI: Accelerated Repayment, Grand Valley Project, Colorado - Provides for the repayment of the Grand Valley Reclamation Project (Colorado) through the sale or development of power or power privileges. Authorizes the Secretary, upon final payment, to convey all U.S. interest in such Project to the Grand Valley Water Users Association and/or the Orchard Mesa Irrigation District, or their successors. Title VII: Townsite Land - Directs the Secretary to replat the townsite of Veteran, Wyoming, and to convey a specified lot to the Goshen County school district. Authorizes the Secretary to dispose of Federal lands within the townsite area by negotiated or public sale. Title VIII: Minot Extension, Garrison Diversion Unit, N. D. - Relieves the city of Minot, North Dakota, from all liability for repayment of an amount associated with the excess capacity of the Minot Pipeline resulting from enactment of the Garrison Diversion Unit Reformulation Act of 1986. Title IX: Contracts With the Redwood Valley County Water District - Directs the Secretary to renegotiate the schedules of payment for certain loans to the Redwood Valley County Water District, California. Suspends the obligation to repay such loans and interest charges until such renegotiated schedules take effect. Title X: Water Purchase by Lakeview Irrigation District - Directs the Secretary to offer to the Lakeview Irrigation District, Wyoming, the annual option to purchase specified acreage or storage in the Buffalo Bill Dam and Reservoir, Shoshone Project, Pick-Sloan Missouri Basin Program, Wyoming. Title XI: Kesterson Reservoir Prohibition, California - Prohibits the Secretary from dewatering or otherwise causing a discharge of water from Kesterson Reservoir, California, into the San Joaquin River or its tributaries. Title XII: Carryover Storage, New Melones Unit - Authorizes the Secretary to make available unallocated carryover storage from the New Melones project to the Oakdale and South San Joaquin irrigation districts during drought emergency water conditions. Title XIII - Amends the Wild and Scenic River Act of 1968 to provide that no cost-sharing by local entities shall be required by the Secretary for streambank stabilization structures constructed on the Missouri River, Nebraska and South Dakota. Title XIV: Navy Land - Authorizes the Secretary of the Navy to use revenues from agricultural leases in the vicinity of Lamoore Naval Air Station to obtain air easements in Kings County, California.</summary>
+</bill>

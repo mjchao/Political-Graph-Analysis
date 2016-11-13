@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="1909" updated="2014-03-22T09:55:28-04:00">
+  <state datetime="1987-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-02"/>
+  </status>
+  <introduced datetime="1987-12-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the United States Post Office Building located at 300 Sycamore Street in Waterloo, Iowa, as the "H.R. Gross Post Office Building".</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3689"/>
+    <bill relation="identical" session="100" type="h" number="3689"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal installations"/>
+    <term name="Iowa"/>
+    <term name="Names"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/1987--Introduced.
+Designates the United States Post Office building at 300 Sycamore Street, Waterloo, Iowa, as the H.R. Gross Post Office Building.</summary>
+</bill>

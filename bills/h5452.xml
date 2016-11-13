@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="5452" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-10-06">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-06"/>
+  </status>
+  <introduced datetime="1988-10-04"/>
+  <titles>
+    <title type="short" as="introduced">Commission on Merchant Marine and Defense Extension Act of 1988</title>
+    <title type="official" as="introduced">A bill to extend the Commission on Merchant Marine and Defense.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors>
+    <cosponsor id="401363" joined="1988-10-04"/>
+    <cosponsor id="401383" joined="1988-10-04"/>
+    <cosponsor id="400109" joined="1988-10-06"/>
+    <cosponsor id="404068" joined="1988-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-04" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-07">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Referred to Subcommittee on Seapower and Strategic and Critical Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral"/>
+    <committee activity="Referral" code="HSAS05" subcommittee="Seapower and Strategic and Critical Materials" name="House Armed Services"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral"/>
+    <committee activity="Referral" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Advisory bodies"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Legislation"/>
+    <term name="Marine transportation"/>
+    <term name="Merchant marine"/>
+    <term name="National defense"/>
+    <term name="Ships and shipping"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Introduced.
+Commission on Merchant Marine and Defense Extension Act of 1988 - Amends the Department of Defense Authorization Act, 1985 to require the Commission on Merchant Marine and Defense to submit to the Congress: (1) legislation necessary to implement the recommendations of the Commission; and (2) a final report. Authorizes appropriations.</summary>
+</bill>

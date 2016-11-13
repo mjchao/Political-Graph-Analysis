@@ -1,0 +1,43 @@
+<bill session="100" type="hj" number="71" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to limit service by Representatives, Senators, and Federal judges.</title>
+  </titles>
+  <sponsor id="405939"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional terms of office"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Federal officials"/>
+    <term name="Judges"/>
+    <term name="Judicial tenure"/>
+    <term name="Law"/>
+    <term name="Members of Congress"/>
+    <term name="Supreme Court"/>
+    <term name="Supreme Court justices"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Constitutional Amendment - Prohibits any person from serving: (1) as a Representative for more than ten years in a 12-year period; (2) as a Senator for more than 12 years during any 14-year period; or (3) as a judge of the Supreme Court or an inferior court for more than ten years in a 12-year period.</summary>
+</bill>

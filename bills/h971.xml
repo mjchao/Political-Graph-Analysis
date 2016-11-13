@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="971" updated="2014-03-22T09:51:38-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Sheltered Workshop Employment Amendment of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Food Stamp Act of 1977 to exclude income received by handicapped and disabled individuals from employment in sheltered workshop.</title>
+  </titles>
+  <sponsor id="403689"/>
+  <cosponsors>
+    <cosponsor id="402114" joined="1987-04-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Domestic Marketing, Consumer Relations, and Nutrition.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG05" subcommittee="Domestic Marketing, Consumer Relations, and Nutrition" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Disabled"/>
+    <term name="Employment of the handicapped"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food stamps"/>
+    <term name="Income"/>
+    <term name="Public assistance programs"/>
+    <term name="Sheltered workshops"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Sheltered Workshop Employment Amendment of 1987 - Amends the Food Stamp Act of 1977 to exclude from income for food stamp program purposes earnings received by handicapped or disabled persons in sheltered workshops.</summary>
+</bill>

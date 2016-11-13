@@ -1,0 +1,50 @@
+<bill session="100" type="s" number="1290" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to acquire certain real property adjacent to the Andrew Johnson National Historic Site in Greeneville, Tennessee, for inclusion within the national cemetery located in that site.</title>
+  </titles>
+  <sponsor id="409580"/>
+  <cosponsors>
+    <cosponsor id="404679" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-07-15">
+      <text>Committee on Energy and Natural Resources requested executive comment from Agriculture Department, Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2503"/>
+    <bill relation="identical" session="100" type="h" number="2503"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Historic sites"/>
+    <term name="Land transfers"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Tennessee"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Directs the Secretary of the Interior to acquire by donation specified lands in Greene County, Tennessee, for inclusion within the national cemetery in the Andrew Johnson National Historic Site, Greeneville, Tennessee.</summary>
+</bill>

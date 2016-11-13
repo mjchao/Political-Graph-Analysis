@@ -1,0 +1,80 @@
+<bill session="100" type="h" number="2727" updated="2014-03-22T09:52:29-04:00">
+  <state datetime="1987-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-18"/>
+  </status>
+  <introduced datetime="1987-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Fairness in Insurance Act of 1987</title>
+    <title type="official" as="introduced">A bill to repeal the antitrust exemption applicable to the business of insurance.</title>
+  </titles>
+  <sponsor id="403776"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-07-14"/>
+    <cosponsor id="401231" joined="1987-06-26"/>
+    <cosponsor id="400572" joined="1987-10-21"/>
+    <cosponsor id="402626" joined="1987-06-26"/>
+    <cosponsor id="400080" joined="1987-10-15"/>
+    <cosponsor id="403031" joined="1987-10-15"/>
+    <cosponsor id="403314" joined="1987-07-14"/>
+    <cosponsor id="400100" joined="1987-09-17"/>
+    <cosponsor id="403364" joined="1987-07-01"/>
+    <cosponsor id="403726" joined="1988-09-09"/>
+    <cosponsor id="400126" joined="1987-06-26"/>
+    <cosponsor id="404190" joined="1987-09-17"/>
+    <cosponsor id="400140" joined="1987-06-18"/>
+    <cosponsor id="405236" joined="1987-08-06"/>
+    <cosponsor id="405256" joined="1987-07-01"/>
+    <cosponsor id="406191" joined="1987-07-13"/>
+    <cosponsor id="400537" joined="1987-06-18"/>
+    <cosponsor id="400240" joined="1987-06-26"/>
+    <cosponsor id="407051" joined="1988-07-28"/>
+    <cosponsor id="400595" joined="1987-07-01"/>
+    <cosponsor id="400256" joined="1987-06-18"/>
+    <cosponsor id="407672" joined="1987-07-21"/>
+    <cosponsor id="400306" joined="1988-09-09"/>
+    <cosponsor id="408621" joined="1987-06-18"/>
+    <cosponsor id="409353" joined="1988-09-09"/>
+    <cosponsor id="400378" joined="1987-07-21"/>
+    <cosponsor id="410145" joined="1987-07-01"/>
+    <cosponsor id="410245" joined="1987-06-18"/>
+    <cosponsor id="400387" joined="1988-02-29"/>
+    <cosponsor id="411426" joined="1987-09-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Business and commerce"/>
+    <term name="Insurance"/>
+    <term name="Insurance companies"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/1987--Introduced.
+Fairness in Insurance Act of 1987 - Amends the McCarran-Ferguson Act to repeal the antitrust exemption applicable to the insurance industry.</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="2104" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-21"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase to 32 cents per pack the Federal excise tax on cigarettes and to provide that the revenues from such tax shall be divided among the general fund, the Federal Hospital Insurance Trust Fund under the Social Security Act, and research on tobacco-related diseases.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="402763" joined="1987-04-21"/>
+    <cosponsor id="403776" joined="1987-04-21"/>
+    <cosponsor id="400552" joined="1987-04-21"/>
+    <cosponsor id="409219" joined="1987-04-21"/>
+    <cosponsor id="400533" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Cigarettes"/>
+    <term name="Economics and public finance"/>
+    <term name="Excise tax"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Health"/>
+    <term name="Medical research"/>
+    <term name="Medicare"/>
+    <term name="Smoking"/>
+    <term name="Social welfare"/>
+    <term name="Tobacco"/>
+    <term name="Tobacco tax"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Amends the Internal Revenue Code to increase the excise tax on cigarettes from: (1) $8 to $16 per thousand for small cigarettes; and (2) $16.80 to $33.60 per thousand for large cigarettes. Imposes a floor stocks tax on small and large cigarettes manufactured in or imported into the United States that are removed before the effective date of the excise tax increase and are held on such date for sale by any person. Sets the amount of such tax to equal the amount of the excise tax increase for the respective cigarette types. Appropriates one-fourth of the revenue raised by such excise taxes to the Federal Hospital Insurance Trust Fund (Medicare). Establishes in the Treasury the Tobacco-Related Disease Research Trust Fund, to be available for the funding of research by the National Institutes of Health. Appropriates to such Trust Fund one-fourth of the revenue raised by such excise taxes.</summary>
+</bill>

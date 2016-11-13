@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="3079" updated="2014-03-22T09:52:44-04:00">
+  <state datetime="1987-08-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-03"/>
+  </status>
+  <introduced datetime="1987-08-03"/>
+  <titles>
+    <title type="short" as="introduced">Procurement Responsibility Act of 1987</title>
+    <title type="official" as="introduced">A bill to prohibit the Secretary of Defense from entering into contracts with the Toshiba Corporation and Kongsberg Vapenfabrik.</title>
+  </titles>
+  <sponsor id="409443"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="1987-08-03"/>
+    <cosponsor id="400552" joined="1987-08-03"/>
+    <cosponsor id="400191" joined="1987-08-03"/>
+    <cosponsor id="405887" joined="1987-08-03"/>
+    <cosponsor id="406995" joined="1987-08-03"/>
+    <cosponsor id="411725" joined="1987-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-03" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign corporations"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Japan"/>
+    <term name="Norway"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1987--Introduced.
+Procurement Responsibility Act of 1987 - Prohibits the Secretary of Defense from entering into a contract with: (1) the Toshiba Corporation (or any of its affiliates or subsidiaries); or (2) Kongsberg Vaapenfabrik. Waives such prohibition if the Secretary determines that a product of such corporation is needed, that it cannot be obtained elsewhere, and that the national security of the United States would be harmed unless the product is obtained from such corporation. Directs the Secretary to notify the Congress no less than 30 days prior to exercising such waiver.</summary>
+</bill>

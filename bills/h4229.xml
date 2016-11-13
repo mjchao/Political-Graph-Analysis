@@ -1,0 +1,102 @@
+<bill session="100" type="h" number="4229" updated="2014-03-22T09:53:08-04:00">
+  <state datetime="1988-07-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-07-19"/>
+  </status>
+  <introduced datetime="1988-03-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to codify in that title certain defense-related permanent free-standing provisions of law.</title>
+  </titles>
+  <sponsor id="400967"/>
+  <cosponsors>
+    <cosponsor id="403446" joined="1988-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-23" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-03-30" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-06-14">
+      <text>Reported to House (Amended) by House Committee on Armed Services. Report No: 100-696.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Placed on Union Calendar No: 417.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+    <calendar datetime="1988-06-28">
+      <text>Committee on Armed Services. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-06-28">
+      <text>Committee on Armed Services. Reported to Senate by Senator Nunn without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-06-28" calendar="Senate Legislative" under="General Orders" number="768">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 768.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-07-06" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-07-06">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-07-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-07-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-07-19" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-370" type="public" datetime="1988-07-19">
+      <text>Became Public Law No: 100-370.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Accounting"/>
+    <term name="Administrative procedure"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Buy American"/>
+    <term name="Costs"/>
+    <term name="Defense budgets"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Government paperwork"/>
+    <term name="International affairs"/>
+    <term name="Military dependents"/>
+    <term name="Military personnel"/>
+    <term name="Military research"/>
+    <term name="Officer personnel"/>
+    <term name="Post exchanges"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Research and development"/>
+    <term name="Warships"/>
+  </subjects>
+  <amendments/>
+  <summary>6/20/1988--Passed House amended.
+(Measure passed House, amended) Amends title 10 (Armed Forces) of the U.S. Code to codify defense-related statutes, including provisions relating to: (1) enlistment qualifications for armed forces personnel; (2) the limitation on the number of general officers and flag officers permitted on active duty; (3) commissary and exchange benefit eligibility with respect to dependent survivors of certain Reserve and Guard members and certain unremarried former spouses of military personnel; (4) an exemption of military appropriations funds and contract authorization from the apportionment requirement if deemed by the President to be necessary for the national defense; (5) exceptions from appropriations limitations for costs of airborne alerts and for increased armed forces personnel on active duty under certain circumstances; (6) accounting procedures, rulemaking mandates, and required budget documents with respect to contracted advisory and assistance services; (7) required contents of the Secretary of Defense's annual defense budget in connection with common procurement weapon systems; (8) miscellaneous authorities, prohibitions, limitations, and availability with respect to various funds appropriated to the Department of Defense; (9) defense procurement, both generally and in connection with specific items, such as milk; (10) research and development; (11) cost-free transfers of vessels to and from other military departments or the Department of Transportation; (12) the required annual report of the Secretary to specified congressional committees on the cost of stationing U.S. forces outside the United States; (13) contracting for performance of civilian commercial- or industrial-type functions; and (14) Buy American requirements in the context of defense procurement. Describes principles of statutory construction to be applied in connection with the codifications effected by this Act.</summary>
+</bill>

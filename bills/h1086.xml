@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="1086" updated="2014-03-22T09:51:41-04:00">
+  <state datetime="1987-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-11"/>
+  <titles>
+    <title type="short" as="introduced">Fair Credit and Charge Card Disclosure Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide for the protection of users of consumer credit and charge cards, and for other purposes.</title>
+  </titles>
+  <sponsor id="401155"/>
+  <cosponsors>
+    <cosponsor id="400115" joined="1987-03-24"/>
+    <cosponsor id="409887" joined="1987-04-27"/>
+    <cosponsor id="410765" joined="1987-04-27"/>
+    <cosponsor id="411901" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-11" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Consumer Affairs and Coinage.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-11-13">
+      <text>For Further Action See H.R.515.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSBA02" subcommittee="Consumer Affairs and Coinage" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="515"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Consumer credit"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Credit"/>
+    <term name="Credit cards"/>
+    <term name="Finance and financial sector"/>
+    <term name="Finance charges"/>
+    <term name="Interest"/>
+    <term name="Interest rates"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1987--Introduced.
+Fair Credit and Charge Card Disclosure Act of 1987 - Amends the Truth in Lending Act to direct the Board of Governors of the Federal Reserve System to issue regulations requiring that credit and charge card solicitations mailed to consumers include information regarding finance charge conditions, interest rates, and annual fees and related charges.</summary>
+</bill>

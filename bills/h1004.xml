@@ -1,0 +1,71 @@
+<bill session="100" type="h" number="1004" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-05-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-05-27"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of Agriculture to convey certain National Forest System lands to Unicoi County, Tennessee, and for other purposes.</title>
+  </titles>
+  <sponsor id="408976"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-01" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-05-08">
+      <text>Reported to House (Amended) by House Committee on Agriculture. Report No: 100-87.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Placed on Union Calendar No: 62.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-05-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-05-28">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Conservation and Forestry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSAF07" subcommittee="Conservation and Forestry" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests and forest products"/>
+    <term name="Land transfers"/>
+    <term name="National forests"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Tennessee"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/1987--Passed House amended.
+(Measure passed House, amended) Directs the Secretary of Agriculture to convey for fair market value specified Cherokee National Forest, Tennessee, lands in and to Unicoi County. Requires the Secretary to accept payment in five equal annual installments with interest accruing on the unpaid balance at a specified rate. Conveys title proportionally with each payment.</summary>
+</bill>

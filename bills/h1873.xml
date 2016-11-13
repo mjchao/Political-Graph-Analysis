@@ -1,0 +1,89 @@
+<bill session="100" type="h" number="1873" updated="2014-03-22T09:52:05-04:00">
+  <state datetime="1987-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-31"/>
+  </status>
+  <introduced datetime="1987-03-31"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to reserve 25 percent of obligations under military construction contracts for local contractors.</title>
+  </titles>
+  <sponsor id="400302"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1987-06-11"/>
+    <cosponsor id="401383" joined="1987-07-14"/>
+    <cosponsor id="401526" joined="1987-09-09"/>
+    <cosponsor id="401837" joined="1987-06-24"/>
+    <cosponsor id="402114" joined="1987-06-10"/>
+    <cosponsor id="402454" joined="1987-06-26"/>
+    <cosponsor id="402710" joined="1987-06-26"/>
+    <cosponsor id="402750" joined="1987-04-21"/>
+    <cosponsor id="402763" joined="1987-06-17"/>
+    <cosponsor id="403242" joined="1987-07-21"/>
+    <cosponsor id="403266" joined="1987-09-22"/>
+    <cosponsor id="403308" joined="1987-04-21"/>
+    <cosponsor id="403314" joined="1987-05-28"/>
+    <cosponsor id="400109" joined="1987-09-22"/>
+    <cosponsor id="403695" joined="1987-07-28"/>
+    <cosponsor id="403696" joined="1987-08-07"/>
+    <cosponsor id="404013" joined="1987-06-17"/>
+    <cosponsor id="404097" joined="1987-07-21"/>
+    <cosponsor id="404190" joined="1987-05-18"/>
+    <cosponsor id="404213" joined="1987-06-24"/>
+    <cosponsor id="404376" joined="1987-06-17"/>
+    <cosponsor id="404602" joined="1987-07-28"/>
+    <cosponsor id="404733" joined="1987-07-01"/>
+    <cosponsor id="404750" joined="1987-07-28"/>
+    <cosponsor id="405855" joined="1987-07-14"/>
+    <cosponsor id="406554" joined="1987-07-01"/>
+    <cosponsor id="406682" joined="1987-07-01"/>
+    <cosponsor id="400240" joined="1987-04-21"/>
+    <cosponsor id="406863" joined="1987-07-21"/>
+    <cosponsor id="406873" joined="1987-06-24"/>
+    <cosponsor id="406992" joined="1987-07-29"/>
+    <cosponsor id="400595" joined="1987-04-23"/>
+    <cosponsor id="408407" joined="1987-10-21"/>
+    <cosponsor id="408907" joined="1987-07-01"/>
+    <cosponsor id="409205" joined="1987-09-09"/>
+    <cosponsor id="409400" joined="1987-07-28"/>
+    <cosponsor id="409534" joined="1987-07-14"/>
+    <cosponsor id="400377" joined="1987-06-24"/>
+    <cosponsor id="400610" joined="1987-06-24"/>
+    <cosponsor id="400409" joined="1987-07-29"/>
+    <cosponsor id="400611" joined="1987-06-11"/>
+    <cosponsor id="400612" joined="1987-06-26"/>
+    <cosponsor id="411677" joined="1987-05-18"/>
+    <cosponsor id="411725" joined="1987-06-26"/>
+    <cosponsor id="400614" joined="1987-05-18"/>
+    <cosponsor id="411948" joined="1987-07-28"/>
+    <cosponsor id="400440" joined="1987-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-31" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on Military Installations and Facilities.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Unfavorable Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS04" subcommittee="Military Installations and Facilities" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Defense contracts"/>
+    <term name="Government contractors"/>
+    <term name="Military construction operations"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1987--Introduced.
+Amends Federal armed forces provisions relating to defense contracts to require the head of a defense agency to reserve at least 25 percent of all sums obligated for military construction contracts for local contractors (contractors located within 175 miles of the construction project site).</summary>
+</bill>

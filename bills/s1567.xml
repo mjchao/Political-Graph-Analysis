@@ -1,0 +1,63 @@
+<bill session="100" type="s" number="1567" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-07-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-30"/>
+  </status>
+  <introduced datetime="1987-07-30"/>
+  <titles>
+    <title type="short" as="introduced">Regulatory Fairness Act</title>
+    <title type="official" as="introduced">A bill to provide for refunds pursuant to rate decreases under the Federal Power Act.</title>
+  </titles>
+  <sponsor id="402004"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-09-07"/>
+    <cosponsor id="300005" joined="1987-09-18"/>
+    <cosponsor id="402412" joined="1987-07-30"/>
+    <cosponsor id="300026" joined="1987-07-30"/>
+    <cosponsor id="300031" joined="1987-12-03"/>
+    <cosponsor id="403483" joined="1988-02-16"/>
+    <cosponsor id="300034" joined="1987-07-30"/>
+    <cosponsor id="300056" joined="1987-09-18"/>
+    <cosponsor id="300060" joined="1988-01-28"/>
+    <cosponsor id="407663" joined="1987-10-15"/>
+    <cosponsor id="408597" joined="1987-07-30"/>
+    <cosponsor id="408937" joined="1987-07-30"/>
+    <cosponsor id="410242" joined="1987-09-29"/>
+    <cosponsor id="411421" joined="1987-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Committee on Energy and Natural Resources requested executive comment from Federal Energy Regulatory Commission, OMB.</text>
+    </action>
+    <action datetime="1987-11-18">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Committee on Energy and Natural Resources. Committee consideration and Mark Up Session held.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Committee on Energy and Natural Resources. Ordered favorably reported H.R. 2858 in lieu of this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2858"/>
+    <bill relation="identical" session="100" type="h" number="2858"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Energy prices"/>
+    <term name="Public utilities"/>
+    <term name="Public utility rates"/>
+    <term name="Public utility regulation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/30/1987--Introduced.
+Regulatory Fairness Act - Amends the Federal Power Act to direct the Federal Energy Regulatory Commission to order a public utility to refund those amounts determined by the Commission to be in excess of just and reasonable rates or charges.</summary>
+</bill>

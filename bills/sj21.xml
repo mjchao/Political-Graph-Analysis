@@ -1,0 +1,64 @@
+<bill session="100" type="sj" number="21" updated="2014-03-22T09:54:19-04:00">
+  <state datetime="1987-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-20"/>
+  </status>
+  <introduced datetime="1987-01-20"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States relative to contributions and expenditures intended to affect congressional, and Presidential elections.</title>
+  </titles>
+  <sponsor id="300053"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-02-29"/>
+    <cosponsor id="401391" joined="1987-03-18"/>
+    <cosponsor id="401604" joined="1988-02-26"/>
+    <cosponsor id="402004" joined="1988-03-24"/>
+    <cosponsor id="402023" joined="1987-04-21"/>
+    <cosponsor id="300016" joined="1987-08-07"/>
+    <cosponsor id="402495" joined="1987-04-01"/>
+    <cosponsor id="402990" joined="1987-01-20"/>
+    <cosponsor id="403346" joined="1987-03-03"/>
+    <cosponsor id="403483" joined="1987-06-10"/>
+    <cosponsor id="300034" joined="1987-01-20"/>
+    <cosponsor id="403962" joined="1987-06-10"/>
+    <cosponsor id="300046" joined="1988-02-19"/>
+    <cosponsor id="405310" joined="1987-01-20"/>
+    <cosponsor id="406084" joined="1987-03-03"/>
+    <cosponsor id="406188" joined="1987-05-19"/>
+    <cosponsor id="408898" joined="1988-03-04"/>
+    <cosponsor id="300082" joined="1987-06-10"/>
+    <cosponsor id="409562" joined="1988-02-24"/>
+    <cosponsor id="300089" joined="1987-03-06"/>
+    <cosponsor id="300094" joined="1987-01-20"/>
+    <cosponsor id="300157" joined="1987-06-05" withdrawn="1988-03-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="273"/>
+    <bill relation="identical" session="100" type="hj" number="273"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/1987--Introduced.
+Constitutional Amendment - Authorizes the Congress to enact laws regulating the amounts of contributions and expenditures intended to affect elections to Federal offices.</summary>
+</bill>

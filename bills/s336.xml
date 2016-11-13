@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="336" updated="2014-03-22T09:54:51-04:00">
+  <state datetime="1987-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-20"/>
+  </status>
+  <introduced datetime="1987-01-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Securities Exchange Act of 1934 to impose disclosure requirements on persons acquiring more than 5 per centum of certain classes of securities.</title>
+  </titles>
+  <sponsor id="406188"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-01-20"/>
+    <cosponsor id="403171" joined="1987-01-20"/>
+    <cosponsor id="403346" joined="1987-03-30"/>
+    <cosponsor id="403962" joined="1987-01-20"/>
+    <cosponsor id="404598" joined="1987-01-20"/>
+    <cosponsor id="300051" joined="1987-03-20"/>
+    <cosponsor id="405321" joined="1987-02-17"/>
+    <cosponsor id="300056" joined="1987-03-20"/>
+    <cosponsor id="300079" joined="1987-01-20"/>
+    <cosponsor id="412006" joined="1987-02-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Information disclosure (Securities law)"/>
+    <term name="Securities"/>
+    <term name="Securities and Investments"/>
+    <term name="Securities regulation"/>
+    <term name="Stocks"/>
+    <term name="Tender offers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/1987--Introduced.
+Amends the Securities Exchange Act of 1934 to require any person whose acquisition results in ownership of more than five percent of an issuer's equity securities to file specified information with the issuer, appropriate exchanges, and the Securities and Exchange Commission within 24 hours (currently, ten days).</summary>
+</bill>

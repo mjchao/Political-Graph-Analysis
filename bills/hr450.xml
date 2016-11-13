@@ -1,0 +1,68 @@
+<bill session="100" type="hr" number="450" updated="2014-03-22T09:51:01-04:00">
+  <state datetime="1988-08-11">REPORTED</state>
+  <status>
+    <unknown datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-05-17"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to express the sense of the House of Representatives that the Federal Aviation Administration should immediately establish a research and development program to study structural fatigue, wear, corrosion and damage to aircraft resulting from age and intensive utilization and to conduct non-destructive and destructive testing of older aircraft on a regular basis.</title>
+  </titles>
+  <sponsor id="404602"/>
+  <cosponsors>
+    <cosponsor id="406790" joined="1988-05-17"/>
+    <cosponsor id="407399" joined="1988-05-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-17" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Referred to Subcommittee on Transportation, Aviation and Materials.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-11" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-08">
+      <text>Reported to House (Amended) by House Committee on Science, Space, and Technology.  Report No: 100-895.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Placed on House Calendar No: 206.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSSY07" subcommittee="Transportation, Aviation and Materials" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Aeronautics"/>
+    <term name="Aircraft"/>
+    <term name="Aircraft construction"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Public safety"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/1988--Passed House amended.
+(Measure passed House, amended) Expresses the sense of the House of Representatives that: (1) the Federal Aviation Administration, working with the National Aeronautics and Space Administration and university research entities, should give high priority to establishing an immediate research and development program regarding the structural deterioration of aircraft as a result of aging and intensive utilization; and (2) the Federal Government, as part of such research program, should consider purchasing a representative sample of aircraft from the fleet of aging aircraft for extensive testing and tear down inspections and for gathering data regarding such aircrafts' airworthiness.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="506" updated="2014-03-22T09:54:55-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="short" as="introduced">Digital Audio Recorder Act of 1987</title>
+    <title type="official" as="introduced">A bill to require the inclusion of copy-code scanners in digital recording devices.</title>
+  </titles>
+  <sponsor id="404679"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1987-02-05"/>
+    <cosponsor id="403142" joined="1987-02-26"/>
+    <cosponsor id="300060" joined="1987-02-05"/>
+    <cosponsor id="411762" joined="1987-02-05"/>
+    <cosponsor id="403171" joined="1987-02-05" withdrawn="1987-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Subcommittee on Communications. Hearings held. Hearings printed: S.Hrg. 100-178.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSCM02" subcommittee="Communications" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1384"/>
+    <bill relation="identical" session="100" type="h" number="1384"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Copyright"/>
+    <term name="Magnetic recorders and recording"/>
+    <term name="Music"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Sound recording and reproducing"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Digital Audio Recorder Act of 1987 - Requires digital audio recording devices in commerce to contain a copy-code scanner. Prohibits the deactivation or bypassing of such scanners. Entitles an aggrieved party to damages which can include actual or statutory damages and impoundment, destruction, or modification of the violating device. Permits the Secretary of Commerce to exempt certain devices used exclusively for legitimate business purposes. Terminates this requirement after three years.</summary>
+</bill>

@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="3665" updated="2014-03-22T09:52:55-04:00">
+  <state datetime="1987-11-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-20"/>
+  </status>
+  <introduced datetime="1987-11-20"/>
+  <titles>
+    <title type="short" as="introduced">Official Accountability Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide for criminal penalties for Government officials who commit national security offenses.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-11-20" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-01-21">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil service employment"/>
+    <term name="Covert operations"/>
+    <term name="Crime prevention"/>
+    <term name="Federal employees and officials"/>
+    <term name="Federal officials"/>
+    <term name="Government contractors"/>
+    <term name="Military personnel"/>
+    <term name="Misconduct in office"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="National security crimes"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>11/20/1987--Introduced.
+Official Accountability Act of 1987 - Amends the Federal criminal code to provide criminal penalties for Government officials (including members of the armed forces and Government contractors) who commit a national security offense. (ordering or engaging in any intelligence activity which violates any statute, Executive Order, or international agreement to which the United States is a party). States that acting "pursuant to an order of a superior" shall not be a defense to violations of this Act. States that violators of this Act shall be ineligible for employment by the United States for 15 years.</summary>
+</bill>

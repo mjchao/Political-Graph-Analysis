@@ -1,0 +1,115 @@
+<bill session="100" type="h" number="4050" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-03"/>
+  </status>
+  <introduced datetime="1988-03-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of certain persons in Riverside County, California who purchased land in good faith reliance on an existing private land survey.</title>
+  </titles>
+  <sponsor id="407320"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-01" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-08" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-06-15">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-707.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Placed on Union Calendar No: 427.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-09-14">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-535.</text>
+    </action>
+    <calendar datetime="1988-09-22" calendar="Senate Legislative" under="General Orders" number="970">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 970.</text>
+    </calendar>
+    <action datetime="1988-10-12">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-12" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-21">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-34" type="private" datetime="1988-11-03">
+      <text>Became Private Law No: 100-34.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Real property"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3286"/>
+    <amendment number="s3673"/>
+  </amendments>
+  <summary>3/1/1988--Introduced.
+Makes a private land survey conducted in 1955 the legal boundary survey for specified lands in Riverside County, California.</summary>
+</bill>

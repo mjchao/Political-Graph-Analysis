@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="2365" updated="2014-03-22T09:52:20-04:00">
+  <state datetime="1987-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-11"/>
+  </status>
+  <introduced datetime="1987-05-11"/>
+  <titles>
+    <title type="short" as="introduced">Foster Care and Adoption Assistance Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend the foster care and adoption assistance programs under part E of title IV of the Social Security Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="404325"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-11" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Administrative procedure"/>
+    <term name="Child welfare"/>
+    <term name="Children and youth"/>
+    <term name="Foster home care"/>
+    <term name="Maternal and infant welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1987--Introduced.
+Foster Care and Adoption Assistance Amendments of 1987 - Amends part E (Foster Care and Adoption Assistance) of title IV of the Social Security Act to alter the formula for determining the Federal share of personnel training and administrative costs. Extends indefinitely: (1) the conditional ceiling on Federal financial participation in foster care; and (2) the provision which permits a State to use, under part B (Child Welfare Services) of title IV, funds made available to it under the conditional ceiling that are not needed under part E. Repeals the independent living program designed to prepare participants to live independently upon leaving foster care. Sets a one-year limit on filing payment claims for expenditures under part E of title IV. (Currently, there is a two-year limit on filing such claims.) Amends the Adoption Assistance and Child Welfare Act of 1980 to extend indefinitely the provision permitting Federal financial participation in foster care for certain children voluntarily placed in such care.</summary>
+</bill>

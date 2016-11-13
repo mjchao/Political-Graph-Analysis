@@ -1,0 +1,122 @@
+<bill session="100" type="h" number="2121" updated="2014-03-22T09:52:13-04:00">
+  <state datetime="1987-12-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-24"/>
+  </status>
+  <introduced datetime="1987-04-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize and direct the National Park Service to assist the State of Georgia in relocating a highway affecting the Chickamauga and Chattanooga National Military Park in Georgia.</title>
+  </titles>
+  <sponsor id="403190"/>
+  <cosponsors>
+    <cosponsor id="400240" joined="1987-04-22"/>
+    <cosponsor id="406873" joined="1987-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-22" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-02">
+      <text>Unfavorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-07-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-15" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-07-20">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-225.</text>
+    </action>
+    <action datetime="1987-07-20">
+      <text>Placed on Union Calendar No: 136.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-07-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Unfavorable.</text>
+    </action>
+    <calendar datetime="1987-12-02">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-12-09">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-248.</text>
+    </action>
+    <calendar datetime="1987-12-09" calendar="Senate Legislative" under="General Orders" number="477">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 477.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-12" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-16">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-211" type="public" datetime="1987-12-24">
+      <text>Became Public Law No: 100-211.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Georgia"/>
+    <term name="Highway construction and repair"/>
+    <term name="Highway engineering"/>
+    <term name="Historic sites"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Roads and highways"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/1987--Passed House amended.
+(Measure passed House, amended) Directs the Secretary of the Interior to make a grant to Georgia to assist in relocating a section of a State highway within the Chickamauga and Chattanooga National Military Park. Limits the Federal share of relocation to 75 percent of costs. Authorizes appropriations.</summary>
+</bill>

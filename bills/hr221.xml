@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="221" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-07-09">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-07-09"/>
+  </status>
+  <introduced datetime="1987-07-09"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against consideration of the bill (H. R. 2890) making appropriations for the Department of Transportation and related agencies for the fiscal year ending September 30, 1988, and for other purposes.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-09">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-210.</text>
+    </action>
+    <action datetime="1987-07-09">
+      <text>Placed on House Calendar No: 58.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 198 - 118 (Record Vote No: 254).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="2890"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/1987--Introduced.
+Waives points of order against the consideration of H.R. 2890 (Department of Transportation and related agencies appropriations).</summary>
+</bill>

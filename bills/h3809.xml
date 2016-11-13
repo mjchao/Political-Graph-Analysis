@@ -1,0 +1,86 @@
+<bill session="100" type="h" number="3809" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1987-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-12-18"/>
+  <titles>
+    <title type="short" as="introduced">Indoor Air Quality Act of 1987</title>
+    <title type="official" as="introduced">A bill to authorize a national program to reduce the threat to human health posed by exposure to contaminants in the air indoors.</title>
+  </titles>
+  <sponsor id="406277"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-04-20"/>
+    <cosponsor id="400975" joined="1988-05-10"/>
+    <cosponsor id="401231" joined="1988-04-20"/>
+    <cosponsor id="403689" joined="1988-03-29"/>
+    <cosponsor id="403695" joined="1988-06-02"/>
+    <cosponsor id="403776" joined="1988-05-19"/>
+    <cosponsor id="404006" joined="1988-04-20"/>
+    <cosponsor id="404752" joined="1988-04-20"/>
+    <cosponsor id="405256" joined="1988-04-20"/>
+    <cosponsor id="406157" joined="1988-04-20"/>
+    <cosponsor id="400216" joined="1988-06-23"/>
+    <cosponsor id="400240" joined="1988-04-20"/>
+    <cosponsor id="406974" joined="1988-04-20"/>
+    <cosponsor id="407669" joined="1988-05-10"/>
+    <cosponsor id="400278" joined="1988-06-23"/>
+    <cosponsor id="400306" joined="1988-04-20"/>
+    <cosponsor id="400314" joined="1988-04-20"/>
+    <cosponsor id="408618" joined="1988-06-02"/>
+    <cosponsor id="300087" joined="1988-04-20"/>
+    <cosponsor id="410145" joined="1988-04-20"/>
+    <cosponsor id="400611" joined="1988-06-02"/>
+    <cosponsor id="411426" joined="1988-05-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-18" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-01-04">
+      <text>Referred to Subcommittee on Natural Resources, Agricultural Research, and Environment.</text>
+    </action>
+    <action datetime="1988-01-21">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-01-21">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY04" subcommittee="Natural Resources, Agricultural Research and Environment" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1629"/>
+    <bill relation="identical" session="100" type="s" number="1629"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Air pollution control"/>
+    <term name="Air pollution measurement"/>
+    <term name="Air quality"/>
+    <term name="Environmental Protection Agency"/>
+    <term name="Environmental health"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to air pollution control"/>
+    <term name="Federal office buildings"/>
+    <term name="Government operations and politics"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Indoor air pollution"/>
+    <term name="Information services"/>
+    <term name="Research and development"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Introduced.
+Indoor Air Quality Act of 1987 - Directs the Administrator of the Environmental Protection Agency to establish a national research, development, and demonstration program to assure the quality of indoor air, including coordinating and accelerating efforts related to the causes, detection, and correction of contaminated air. Requires such program to include information collection and dissemination, cooperative research, grants, studies, development of techniques, facility construction, and conferences. Requires that research focus on human health effects and the identification of types and levels of contaminants likely to cause harm, including the development of methodology and techniques for detection and control. Authorizes the Administrator to assist technology demonstration activities based on a technology's potential to cost effectively control sources of contaminants which pose the greatest risk. Limits Federal funding to 75 percent of costs. Directs the Administrator to report to the Congress by the start of FY 1989 on activities conducted under this Act. Directs the Administrator to publish and biennially revise a list of contaminants known to occur in indoor air. Provides for additions to such list upon application of a State Governor. Requires the Administrator to publish advisory materials addressing the human health effects of listed contaminants which describe the properties, effects, risks, and concentrations of such contaminants. Directs the Indoor Air Panel of the EPA Science Advisory Board to assist in the listing and advisories. Requires that advisories be updated every five years. Directs the Administrator to develop and publish a national indoor air quality response plan to meet applicable clean air standards, including the dissemination of information and education and the provision of technical assistance. Requires the response plan to identify the contaminant, the basis for the action, the nature of the response, the responsible Federal authority, and the necessary financial resources. Requires such plan to include a specific response plan for Federal buildings which lists buildings and the reduction and response actions to be taken, and identifies those buildings likely to exceed applicable standards. Exempts specified buildings for national security, demolition, or special use purposes. Requires response plans to be submitted to the Congress on a biennial basis. Authorizes grants to States for the development of management strategies and indoor air quality assessment and response programs similar to those of the Federal program. Directs the Administrator to establish the Office of Indoor Air Quality within EPA's Office of Air and Radiation to implement agency responsibilities of this Act. Directs the President to establish a National Indoor Air Quality Council within the Executive Office to coordinate Federal activities and advise the President. Requires that the Council report to the Congress on a biennial basis. Directs the Administrator to conduct an indoor air contaminant reduction demonstration program in new Federal buildings, including the development of design, purchasing, and management guidelines. Requires the Administrator to establish a national indoor air quality clearinghouse. Authorizes appropriations for FY 1988 through 1992.</summary>
+</bill>

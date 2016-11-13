@@ -1,0 +1,136 @@
+<bill session="100" type="s" number="2215" updated="2014-03-22T09:55:38-04:00">
+  <state datetime="1988-11-17">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-17"/>
+  </status>
+  <introduced datetime="1988-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Reauthorization of the Office of Federal Procurement Policy Act of 1988</title>
+    <title type="short" as="passed house">Office of Federal Procurement Policy Act Amendments of 1988</title>
+    <title type="short" as="reported to senate">Reauthorization of the Office of Federal Procurement Policy Act of 1988</title>
+    <title type="short" as="passed senate">Reauthorization of the Office of Federal Procurement Policy Act of 1988</title>
+    <title type="short" as="enacted">Office of Federal Procurement Policy Act Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Office of Federal Procurement Policy Act to authorize appropriations for an additional four years, and for other purposes.</title>
+  </titles>
+  <sponsor id="402495"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1988-03-24"/>
+    <cosponsor id="402727" joined="1988-04-25"/>
+    <cosponsor id="404598" joined="1988-08-11"/>
+    <cosponsor id="300066" joined="1988-03-24"/>
+    <cosponsor id="408252" joined="1988-03-24"/>
+    <cosponsor id="408939" joined="1988-03-31"/>
+    <cosponsor id="400565" joined="1988-04-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <calendar datetime="1988-04-14" state="REPORTED">
+      <text>Committee on Governmental Affairs. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-07-08">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with amendments. With written report No. 100-424.</text>
+    </action>
+    <calendar datetime="1988-07-08" calendar="Senate Legislative" under="General Orders" number="796">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 796.</text>
+    </calendar>
+    <action datetime="1988-08-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-13">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-13" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-13">
+      <text>House Incorporated H.R.3345 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Senate disagreed to House amendments, requested a conference and appointed conferees. Chiles; Glenn; Nunn; Bingaman; Levin; Roth; Rudman; Stevens; Cohen.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Conference request vitiated by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-19" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendment with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1988-10-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-17" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-679" type="public" datetime="1988-11-17">
+      <text>Became Public Law No: 100-679.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3345"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting"/>
+    <term name="Administrative procedure"/>
+    <term name="Advisory bodies"/>
+    <term name="Architects in government"/>
+    <term name="Authorization"/>
+    <term name="Business intelligence"/>
+    <term name="Conflict of interests"/>
+    <term name="Congressional oversight"/>
+    <term name="Cost accounting"/>
+    <term name="Debarment of government contractors"/>
+    <term name="Department of Defense"/>
+    <term name="Economics and public finance"/>
+    <term name="Engineering"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal employees"/>
+    <term name="Federal officials"/>
+    <term name="General Services Administration"/>
+    <term name="Government contractors"/>
+    <term name="Government paperwork"/>
+    <term name="Government procurement"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information storage and retrieval systems"/>
+    <term name="Misconduct in office"/>
+    <term name="National Aeronautics and Space Administration"/>
+    <term name="Office of Management and Budget"/>
+    <term name="Profit"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Salaries"/>
+    <term name="Standards"/>
+    <term name="Travel costs"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2858"/>
+    <amendment number="s3744"/>
+  </amendments>
+  <summary>10/19/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendment with an amendment) Office of Federal Procurement Policy Act Amendments of 1988 - Amends the Office of Federal Procurement Policy Act to provide that the Federal Acquisition Regulatory Council (established by this Act) shall implement policies, regulations, procedures, and forms relating to procurement and procurement systems as such functions are prescribed by the Administrator for Federal Procurement Policy (Administrator). Requires the Administrator to prescribe Government-wide regulations, procedures, and forms when the Council is unable to agree on such regulations, procedures, and forms in a timely manner. Requires the Administrator to recommend to the Administrator of General Services: (1) a sufficient budget for the activities of the Federal Procurement Data System and the activities of the Federal Acquisition Institute; and (2) methods to ensure executive agency compliance with procurement and record-keeping requirements. Provides permanent authorization of appropriations for the Office of Federal Procurement Policy. Establishes the Federal Acquisition Regulatory Council to assist in the direction and coordination of procurement policy and procurement regulatory activities. Provides that the Council shall consist of the Administrator, the Secretary of Defense, the Administrator of the National Aeronautics and Space Administration, and the Administrator of General Services. Directs the Council to issue and maintain a single Government-wide procurement regulation, to be known as the Federal Acquisition Regulation. Declares that any other procurement regulations shall be limited to additional policies and procedures designed to satisfy the specific needs of an agency. Directs each Council member to: (1) approve or disapprove proposed and final regulations of the member's department or agency relating to procurement before such regulations may become effective; (2) carry out the responsibilities for information collection requests relating to procurement; and (3) eliminate or reduce the levels of review in the procurement system of the member's department or agency. Directs the Council to manage, control, coordinate, and monitor the maintenance of, and the issuance of changes in, the Federal Acquisition Regulation. Directs the Administrator, with the concurrence and cooperation of the Council, to: (1) issue a report every six months relating to the development of procurement regulations by the General Services Administration, the Department of Defense, and the National Aeronautics and Space Administration; and (2) report to the Congress within 180 days after establishment of the Council regarding the extent of the paperwork burden created by the Federal procurement process, and the extent to which the Federal procurement system can reduce unnecessary paperwork while maintaining legitimate recordkeeping and reporting requirements to ensure the integrity of the system. Establishes within the Office of Federal Procurement Policy an independent board to be known as the Cost Accounting Standards Board, which shall be chaired by the Administrator. Provides that the Board has the exclusive authority to make, promulgate, amend, rescind, and enforce cost accounting standards and principles designed to achieve uniformity, consistency, and equity in the cost accounting standards governing measurement, assignment, and allocation of costs to contracts with the United States. Declares that duly promulgated cost accounting standards and cost principles shall be mandatory for use by executive agencies and contractors and subcontractors in estimating, accumulating, and reporting costs in connection with pricing, administration, and settlement of negotiated prime contract and subcontract procurements in excess of $500,000, other than contracts where the price negotiated is based on: (1) established catalog or market prices of commercial items sold in substantial quantities to the public; or (2) prices set by law or regulation. Authorizes the Board to exempt classes or categories of contractors or subcontractors from such regulations and to establish procedures to waive certain requirements. Specifies procedures to be taken by the Council and the Board prior to promulgating rules, regulations, cost accounting standards, and cost principles. Requires the Board to report to the Congress annually on its activities. Authorizes appropriations. Prohibits, during the conduct of any Federal agency procurement, a competing contractor or any officer, employee, representative, agent, or consultant of any competing contractor, from knowingly: (1) making, directly or indirectly, any offer or promise of future employment or business opportunity to, or engaging directly or indirectly in any discussion of future employment or business opportunity with, any procurement official of such agency; (2) offering, giving, or promising to offer or give, directly or indirectly, any money, gratuity, or other thing of value to any procurement official of such agency; or (3) soliciting or obtaining, directly or indirectly, from any officer or employee of such agency, prior to the award of a contract, any proprietary or source selection information regarding such procurement. Prohibits, during the conduct or a Federal agency procurement, a procurement official of such agency from knowingly: (1) soliciting or accepting, directly or indirectly, any promise of future employment or business opportunity from, or engage directly or indirectly in any discussion of future employment or business opportunity with, any officer, employee, representative, agent, or consultant of a competing contractor; (2) asking for, demanding, exacting, soliciting, seeking, accepting, receiving, or agreeing to receive, directly or indirectly, any money, gratuity, or other thing of value from any officer, employee, representative, agent, or consultant of any competing contractor for such procurement; or (3) disclosing any proprietary or source selecting information regarding such procurement directly or indirectly to any person other than a person authorized by the head of such agency or the contracting officer to receive such information. Prohibits, during the conduct of any Federal agency procurement, any person who is given authorized or unauthorized access to proprietary or source selection information regarding such procurement, from knowingly disclosing such information to any person other than a person authorized to receive such information. Requires written certification to the contracting officer from the following persons that no violation of standards of conduct regarding Federal procurement has occurred: (1) the competing contractor, and each officer, employee, or representative of the contractor who has had any contact during the conduct of the procurement with any procurement official or employee of the agency who has any authority or responsibility with respect to such procurement; and (2) each procurement official and employee of such agency who has any authority or responsibility with respect to such procurement. Makes it unlawful for any individual who, during the conduct of an agency procurement, was engaged as a procurement official or employee of such agency, and was involved personally in the conduct of such procurement, to participate in any manner, as an officer, employee, agent, or consultant to a competing contractor, in: (1) any negotiations leading to the award or modification of a contract for such procurement; or (2) the performance of such contract, during the two-year period beginning on the date such individual ceases to be a procurement official or employee of such agency. Authorizes an agency, if it obtains information providing a reasonable basis to believe that a violation of integrity requirements has occurred, to: (1) terminate the procurement; (2) rescind or void a contract; (3) suspend the competing contractor; and (4) initiate a debarment proceeding. Sets forth civil and criminal penalties for violations of this Act. Requires the head of each Federal agency to establish a procurement ethics program for its procurement officials. Directs the Administrator to conduct a study to develop a consistent methodology which executive agencies should use for measuring profits earned by Government contractors on procurements. Amends the Federal Property and Administrative Services Act to expand the definition of architectural and engineering services. Establishes the position of Advocate for the Acquisition of Commercial Products in the Office of Federal Procurement Policy. Directs the Advocate to: (1) review all proposed procurement regulations and report to the Administrator on whether such regulations will encourage or discourage the acquisition of commercial products by Federal agencies; (2) recommend to the Administrator which procurement regulations should be rescinded or modified to encourage the acquisition of commercial products; and (3) recommend methods of simplifying procurement regulations governing acquisition of commercial products. Requires the Administrator, in consultation with the Comptroller General, to report to specified congressional committees on the extent to which the data collected by the Federal Procurement Data System is adequate for the management, oversight, and evaluation of Federal procurement. Increases the pay levels of certain presidential appointees in the Office of Management and Budget. Provides that travel expenses under government contracts with State institutions or nonprofit institutions for the conduct of federally sponsored research and related activities shall not exceed: (1) charges normally allowed by the institutions; and (2) limitations provided by government-wide regulation as established by the Director of the Office of Management and Budget.</summary>
+</bill>

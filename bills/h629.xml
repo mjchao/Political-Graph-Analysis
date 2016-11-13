@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="629" updated="2014-03-22T09:51:30-04:00">
+  <state datetime="1987-01-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to award special congressional gold medals to Jan Scruggs, Robert Doubek, and John Wheeler.</title>
+  </titles>
+  <sponsor id="400527"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to Subcommittee on Consumer Affairs and Coinage.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA02" subcommittee="Consumer Affairs and Coinage" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Awards, medals, prizes"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="District of Columbia"/>
+    <term name="Monuments and memorials"/>
+    <term name="National monuments"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Authorizes the President, on behalf of the Congress, to present gold medals to Jan Scruggs, Robert Doubek, and Jack Wheeler, in recognition of their tireless efforts to give the Vietnam Veterans Memorial to the Nation. Directs the Secretary of the Treasury to sell bronze duplicates of the medal. Authorizes appropriations.</summary>
+</bill>

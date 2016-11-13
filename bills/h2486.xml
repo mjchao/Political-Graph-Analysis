@@ -1,0 +1,77 @@
+<bill session="100" type="h" number="2486" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1987-10-05">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-05"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Agriculture to acquire certain private lands to be added to wilderness areas in the State of Texas.</title>
+  </titles>
+  <sponsor id="411725"/>
+  <cosponsors>
+    <cosponsor id="401203" joined="1987-07-14"/>
+    <cosponsor id="400018" joined="1987-05-20"/>
+    <cosponsor id="401947" joined="1987-05-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-20" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Unfavorable Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-09-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-05">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-343.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Placed on Union Calendar No: 214.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-05" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-06">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forests and forest products"/>
+    <term name="National forests"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Texas"/>
+    <term name="Wilderness areas"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1987--Passed House amended.
+(Measure passed House, amended) Directs the Secretary of Agriculture to acquire specified lands for addition to the Upland Island Wilderness, Angelina National Forest; the Turkey Hill Wilderness, Angelina National Forest; and the Big Slough Wilderness, Davy Crockett National Forest, Texas. Requires such additional lands to be managed as wilderness. Authorizes appropriations.</summary>
+</bill>

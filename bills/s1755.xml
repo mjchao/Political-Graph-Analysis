@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="1755" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-06"/>
+  </status>
+  <introduced datetime="1987-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the Grays Harbor National Wildlife Refuge.</title>
+  </titles>
+  <sponsor id="400692"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3423"/>
+    <bill relation="identical" session="100" type="h" number="3423"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Washington State"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1987--Introduced.
+Directs the Secretary of the Interior to designate and acquire lands for the establishment of the Grays Harbor National Wildlife Refuge, Washington. Requires the Secretary to prepare a management plan which includes a visitor center and other facilities. Authorizes appropriations.</summary>
+</bill>

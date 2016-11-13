@@ -1,0 +1,46 @@
+<bill session="100" type="s" number="713" updated="2014-03-22T09:55:00-04:00">
+  <state datetime="1987-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Administration Registered Nurse Variable Incentive Bonus Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to facilitate the recruitment of registered nurses by the Veterans' Administration.</title>
+  </titles>
+  <sponsor id="300150"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1987-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+    <calendar datetime="1987-07-31" state="REPORTED">
+      <text>Committee on Veterans. Provisions of measure incorporated into measure S. 9 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="9"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Fringe benefits"/>
+    <term name="Government operations and politics"/>
+    <term name="Medical personnel"/>
+    <term name="Nurses"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Veterans' Administration Registered Nurse Variable Incentive Bonus Act of 1987 - Amends Federal veterans' benefits provisions to direct the Administrator of Veterans Affairs, in order to recruit highly qualified registered nurses for which there is a critical shortage in the Veterans Administration's Department of Medicine and Surgery, to pay a bonus to any registered nurses appointed by the Administrator to such Department. Outlines eligibility conditions for the payment of such bonus, including the requirement that such nurses be employed within the Department for at least three years. Requires a refund by such nurses of any portion of such paid bonus for which the agreed-upon services are not performed.</summary>
+</bill>

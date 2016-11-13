@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="3429" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1987-10-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-06"/>
+  </status>
+  <introduced datetime="1987-10-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to provide that the Government's health insurance program for Federal employees include benefits relating to cleft lip, cleft palate, and certain other conditions.</title>
+  </titles>
+  <sponsor id="400189"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-06" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Birth defects"/>
+    <term name="Business and commerce"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government employees' health insurance"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>10/6/1987--Introduced.
+Provides that Federal health benefits plans may include benefits relating to cleft lip, cleft palate, and other congenital craniofacial anomalies.</summary>
+</bill>

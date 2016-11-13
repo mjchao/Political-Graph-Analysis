@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="1242" updated="2016-06-29T08:45:47-04:00">
+  <state datetime="1987-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-20"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="short" as="introduced">President's Pro-Life Bill of 1987</title>
+    <title type="official" as="introduced">A bill to prohibit the use of Federal funds for abortions except where the life of the mother would be endangered, and to prohibit the provision under title X of the Public Health Service Act of Federal family planning funds to organizations that perform or refer for abortions, except where the life of the mother would be endangered, and for other purposes.</title>
+  </titles>
+  <sponsor id="405795"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-05-20"/>
+    <cosponsor id="403171" joined="1987-05-20"/>
+    <cosponsor id="404444" joined="1987-05-20"/>
+    <cosponsor id="300159" joined="1987-05-20"/>
+    <cosponsor id="300052" joined="1987-05-20"/>
+    <cosponsor id="405305" joined="1987-05-20"/>
+    <cosponsor id="406183" joined="1987-07-14"/>
+    <cosponsor id="300071" joined="1988-01-25"/>
+    <cosponsor id="407355" joined="1987-05-20"/>
+    <cosponsor id="300072" joined="1987-06-17"/>
+    <cosponsor id="300079" joined="1987-05-20"/>
+    <cosponsor id="410315" joined="1987-10-06"/>
+    <cosponsor id="410588" joined="1987-05-20"/>
+    <cosponsor id="300157" joined="1987-06-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1729"/>
+    <bill relation="identical" session="100" type="h" number="1729"/>
+  </relatedbills>
+  <subjects>
+    <term name="Abortion"/>
+    <term name="Abortion, Birth Control, and Family Planning"/>
+    <term name="Economics and public finance"/>
+    <term name="Family planning and birth control"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Population research"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/1987--Introduced.
+President's Pro-Life Bill of 1987 - Prohibits the use of Federal funds for abortions, except when continuing the pregnancy would endanger the mother's life. Prohibits the granting of funds relating to certain population research and voluntary family programs under the Public Health Service Act to organizations providing abortions or abortion referrals, unless the life of the mother would be endangered by continuing the pregnancy.</summary>
+</bill>

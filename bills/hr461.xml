@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="461" updated="2014-03-22T09:51:02-04:00">
+  <state datetime="1988-05-25">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-05-25"/>
+  </status>
+  <introduced datetime="1988-05-25"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against the conference report on the concurrent resolution (H. Con. Res. 268) setting forth the congressional budget for the United States Government for the fiscal years 1989, 1990, and 1991 and against the consideration of such conference report.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-25">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-655.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Placed on House Calendar No: 167.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="hc" number="268"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Federal budgets"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/1988--Introduced.
+Waives points of order against the conference report on H. Con. Res. 268 (congressional budget) and against its consideration.</summary>
+</bill>

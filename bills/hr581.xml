@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="581" updated="2014-03-22T09:51:03-04:00">
+  <state datetime="1988-10-12">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-10-12"/>
+  </status>
+  <introduced datetime="1988-10-12"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving all points of order against the conference report on the bill (S. 2749) to authorize appropriations for fiscal year 1989 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe personnel strengths for such fiscal year for the Armed Forces, and for other purposes, and against the consideration of such conference report.</title>
+  </titles>
+  <sponsor id="400155"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-12">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-1076.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Placed on House Calendar No: 239.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="s" number="2749"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Introduced.
+Waives points of order against the conference report on S. 2749 (armed forces funding) and against its consideration.</summary>
+</bill>

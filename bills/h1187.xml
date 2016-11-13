@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="1187" updated="2014-03-22T09:51:44-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="short" as="introduced">Broadcast Ownership Stability Act of 1987</title>
+    <title type="official" as="introduced">A bill to require the Federal Communications Commission to repromulgate certain regulations prohibiting trafficking in station licenses.</title>
+  </titles>
+  <sponsor id="410567"/>
+  <cosponsors>
+    <cosponsor id="401947" joined="1987-02-19"/>
+    <cosponsor id="402763" joined="1987-02-19"/>
+    <cosponsor id="400110" joined="1987-02-19"/>
+    <cosponsor id="403726" joined="1987-06-22"/>
+    <cosponsor id="406740" joined="1987-02-19"/>
+    <cosponsor id="400253" joined="1987-02-19"/>
+    <cosponsor id="409632" joined="1987-06-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Broadcasting"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Licenses"/>
+    <term name="Radio broadcasting"/>
+    <term name="Television"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Broadcast Ownership Stability Act of 1987 - Requires the Federal Communications Commission to repromulgate its rules requiring a broadcast license to be held for at least three years before any transfer.</summary>
+</bill>

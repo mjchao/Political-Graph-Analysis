@@ -1,0 +1,130 @@
+<bill session="100" type="h" number="4726" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-08-11">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-06-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the United States Post Office Building located at 700 Main Street in Danville, Virginia, as the "Dan Daniel Post Office Building".</title>
+  </titles>
+  <sponsor id="400609"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1988-06-08"/>
+    <cosponsor id="401155" joined="1988-06-08"/>
+    <cosponsor id="400569" joined="1988-06-01"/>
+    <cosponsor id="401383" joined="1988-06-23"/>
+    <cosponsor id="401417" joined="1988-06-23"/>
+    <cosponsor id="401418" joined="1988-06-08"/>
+    <cosponsor id="400571" joined="1988-06-01"/>
+    <cosponsor id="400043" joined="1988-06-01"/>
+    <cosponsor id="300011" joined="1988-06-08"/>
+    <cosponsor id="400572" joined="1988-06-23"/>
+    <cosponsor id="402114" joined="1988-06-08"/>
+    <cosponsor id="402454" joined="1988-06-23"/>
+    <cosponsor id="402463" joined="1988-06-08"/>
+    <cosponsor id="402710" joined="1988-06-23"/>
+    <cosponsor id="300033" joined="1988-06-23"/>
+    <cosponsor id="400110" joined="1988-06-08"/>
+    <cosponsor id="403696" joined="1988-06-08"/>
+    <cosponsor id="403776" joined="1988-06-08"/>
+    <cosponsor id="403769" joined="1988-06-23"/>
+    <cosponsor id="403864" joined="1988-06-23"/>
+    <cosponsor id="404009" joined="1988-06-08"/>
+    <cosponsor id="404013" joined="1988-06-08"/>
+    <cosponsor id="400143" joined="1988-06-23"/>
+    <cosponsor id="404422" joined="1988-06-23"/>
+    <cosponsor id="400155" joined="1988-06-08"/>
+    <cosponsor id="405258" joined="1988-06-08"/>
+    <cosponsor id="405580" joined="1988-07-26"/>
+    <cosponsor id="405646" joined="1988-06-08"/>
+    <cosponsor id="405775" joined="1988-06-08"/>
+    <cosponsor id="405855" joined="1988-06-08"/>
+    <cosponsor id="406148" joined="1988-06-08"/>
+    <cosponsor id="406157" joined="1988-06-08"/>
+    <cosponsor id="406554" joined="1988-06-08"/>
+    <cosponsor id="400231" joined="1988-06-08"/>
+    <cosponsor id="400236" joined="1988-06-08"/>
+    <cosponsor id="406682" joined="1988-06-08"/>
+    <cosponsor id="400238" joined="1988-06-08"/>
+    <cosponsor id="400617" joined="1988-06-08"/>
+    <cosponsor id="407399" joined="1988-06-08"/>
+    <cosponsor id="407457" joined="1988-07-26"/>
+    <cosponsor id="400281" joined="1988-06-08"/>
+    <cosponsor id="407838" joined="1988-06-08"/>
+    <cosponsor id="407960" joined="1988-06-08"/>
+    <cosponsor id="408180" joined="1988-06-08"/>
+    <cosponsor id="408342" joined="1988-06-01"/>
+    <cosponsor id="400302" joined="1988-06-08"/>
+    <cosponsor id="408490" joined="1988-06-01"/>
+    <cosponsor id="408556" joined="1988-06-23"/>
+    <cosponsor id="408621" joined="1988-06-08"/>
+    <cosponsor id="400603" joined="1988-06-01"/>
+    <cosponsor id="400333" joined="1988-06-08"/>
+    <cosponsor id="409060" joined="1988-06-08"/>
+    <cosponsor id="409219" joined="1988-06-08"/>
+    <cosponsor id="409353" joined="1988-06-08"/>
+    <cosponsor id="409954" joined="1988-06-08"/>
+    <cosponsor id="400377" joined="1988-06-08"/>
+    <cosponsor id="409968" joined="1988-06-01"/>
+    <cosponsor id="400389" joined="1988-06-08"/>
+    <cosponsor id="410455" joined="1988-06-08"/>
+    <cosponsor id="411065" joined="1988-06-08"/>
+    <cosponsor id="411587" joined="1988-06-23"/>
+    <cosponsor id="411725" joined="1988-06-08"/>
+    <cosponsor id="400435" joined="1988-06-01"/>
+    <cosponsor id="411901" joined="1988-06-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-01" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-08" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-07-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-07-28" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-07-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-08-01">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-08-05">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-11" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-388" type="public" datetime="1988-08-11">
+      <text>Became Public Law No: 100-388.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal installations"/>
+    <term name="Names"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal facilities"/>
+    <term name="Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/1988--Introduced.
+Designates the United States Post Office Building at 700 Main Street, Danville, Virginia, as the Dan Daniel Post Office Building.</summary>
+</bill>

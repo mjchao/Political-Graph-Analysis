@@ -1,0 +1,81 @@
+<bill session="100" type="h" number="4306" updated="2014-03-22T09:53:09-04:00">
+  <state datetime="1988-05-10">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-05-10"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National School Lunch Act to require eligibility for free lunches to be based on the nonfarm income poverty guidelines prescribed by the Office of Management and Budget.</title>
+  </titles>
+  <sponsor id="405236"/>
+  <cosponsors>
+    <cosponsor id="403576" joined="1988-05-03"/>
+    <cosponsor id="400586" joined="1988-03-30"/>
+    <cosponsor id="405209" joined="1988-05-03"/>
+    <cosponsor id="400240" joined="1988-05-03"/>
+    <cosponsor id="410147" joined="1988-05-03"/>
+    <cosponsor id="410567" joined="1988-05-03"/>
+    <cosponsor id="411178" joined="1988-05-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Provisions of H.R.3879 Were Incorporated Into This Measure.</text>
+    </action>
+    <calendar datetime="1988-04-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-05-05">
+      <text>Reported to House (Amended) by House Committee on Education and Labor.  Report No: 100-606.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Placed on Union Calendar No: 358.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="113" datetime="1988-05-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 389 - 27 (Record Vote No: 113).</text>
+    </vote>
+    <action datetime="1988-05-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-07-06">
+      <text>Executive Comment Received From USDA.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, Markup, Reporting"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3879"/>
+    <bill relation="identical" session="100" type="s" number="2156"/>
+    <bill relation="identical" session="100" type="s" number="2156"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Authorization"/>
+    <term name="Child nutrition"/>
+    <term name="Claims"/>
+    <term name="Education"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="Income"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Maternal and infant welfare"/>
+    <term name="Poverty"/>
+    <term name="Public assistance programs"/>
+    <term name="School lunch program"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Passed House amended.
+(Measure passed House, amended, roll call #113 (389-27)) Amends the National School Lunch Act to require that eligibility for free lunches under the school lunch program be based on the nonfarm income poverty guidelines prescribed by the Office of Management and Budget. Directs the Secretary of Agriculture (the Secretary), when paying cash to school districts for losses resulting from a change in methodology in a study of alternatives under the commodity distribution program, to base calculation of such losses on the actual amount of assistance received under the National School Lunch Act during the 1981-1982 school year (including assistance in the form of additional commodities or of cash or commodity letters of credit). Repeals a limitation on the authorization of appropriations for such compensation. Requires eligible school districts to submit loss claims by May 1, 1988. Directs the Secretary to complete action on any such claim within 45 days after receipt. Amends the Child Nutrition Act of 1966 to authorize the Secretary to award grants for three-year demonstration projects in seven States to provide coupons to special supplemental food program (WIC) recipients for use at farmers' markets. Requires State matching funds. Establishes minimum and maximum grant levels. Limits the use of funds for administrative costs. Sets forth demonstration project requirements. Limits the value of the Federal share of the benefit per year received by any recipient under the project to not less than $10 and not more than $20. Requires State reports to the Secretary for each year of the project. Directs the Secretary to evaluate the projects and report to the Congress within two years after the last grant is awarded. Authorizes FY 1989 through 1991 appropriations for the farmers' market coupons demonstration projects.</summary>
+</bill>

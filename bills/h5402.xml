@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="5402" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the minimum adjustments to prices of fluid milk under Federal marketing orders and to require the Secretary of Agriculture to submit a proposal to establish basing points in various geographical areas of the United States for purposes of determining prices to be paid to milk producers under such orders.</title>
+  </titles>
+  <sponsor id="409423"/>
+  <cosponsors>
+    <cosponsor id="404869" joined="1988-09-29"/>
+    <cosponsor id="400318" joined="1988-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-27" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-10-17">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural marketing regulation"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Dairy products"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Marketing orders"/>
+    <term name="Milk"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Introduced.
+Amends the Agricultural Adjustment Act, as amended by the Agricultural Marketing Agreement Act of 1937, to: (1) repeal the existing minimum price adjustments of fluid milk under Federal marketing orders; and (2) direct the Secretary of Agriculture to submit a proposal to the House of Representatives and the Senate to establish geographic basing points for purposes of determining prices to be paid to milk producers under such orders.</summary>
+</bill>

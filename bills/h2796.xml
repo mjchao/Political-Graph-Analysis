@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="2796" updated="2014-03-22T09:52:31-04:00">
+  <state datetime="1987-06-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-25"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to recognize the organization known as the American Philatelic Society.</title>
+  </titles>
+  <sponsor id="407967"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="1987-06-25"/>
+    <cosponsor id="402114" joined="1987-06-25"/>
+    <cosponsor id="400143" joined="1987-06-25"/>
+    <cosponsor id="406530" joined="1987-06-25"/>
+    <cosponsor id="400238" joined="1987-06-25"/>
+    <cosponsor id="400595" joined="1987-06-25"/>
+    <cosponsor id="408313" joined="1987-06-25"/>
+    <cosponsor id="409353" joined="1987-06-25"/>
+    <cosponsor id="411426" joined="1987-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-25" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Corporations and Stocks"/>
+    <term name="Federal incorporation"/>
+    <term name="Philately"/>
+    <term name="Postage stamps"/>
+    <term name="Postal Services and Facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>6/25/1987--Introduced.
+Grants a Federal charter to the American Philatelic Society.</summary>
+</bill>

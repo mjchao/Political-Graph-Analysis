@@ -1,0 +1,73 @@
+<bill session="100" type="h" number="4649" updated="2014-03-22T09:53:22-04:00">
+  <state datetime="1988-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-19"/>
+  </status>
+  <introduced datetime="1988-05-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of Energy to convey to the State of California by quitclaim deed certain lands in a naval petroleum reserve and to provide that money received from a naval petroleum reserve shall be treated the same as money received from other public lands.</title>
+  </titles>
+  <sponsor id="406530"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1988-06-28"/>
+    <cosponsor id="401383" joined="1988-06-08"/>
+    <cosponsor id="400025" joined="1988-08-03"/>
+    <cosponsor id="402710" joined="1988-09-09"/>
+    <cosponsor id="403184" joined="1988-06-28"/>
+    <cosponsor id="403545" joined="1988-08-11"/>
+    <cosponsor id="400115" joined="1988-09-09"/>
+    <cosponsor id="404013" joined="1988-09-09"/>
+    <cosponsor id="400144" joined="1988-06-08"/>
+    <cosponsor id="400176" joined="1988-06-08"/>
+    <cosponsor id="400239" joined="1988-09-23"/>
+    <cosponsor id="400617" joined="1988-08-11"/>
+    <cosponsor id="400595" joined="1988-10-19"/>
+    <cosponsor id="400256" joined="1988-09-16"/>
+    <cosponsor id="400278" joined="1988-06-28"/>
+    <cosponsor id="407899" joined="1988-08-11"/>
+    <cosponsor id="400601" joined="1988-08-11"/>
+    <cosponsor id="408457" joined="1988-08-03"/>
+    <cosponsor id="408506" joined="1988-06-28"/>
+    <cosponsor id="409887" joined="1988-09-23"/>
+    <cosponsor id="400387" joined="1988-08-11"/>
+    <cosponsor id="400401" joined="1988-05-19"/>
+    <cosponsor id="410889" joined="1988-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-19" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Referred to Subcommittee on Investigations.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS06" subcommittee="Investigations" name="House Armed Services"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Land transfers"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Oil and gas royalties"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum reserves"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1988--Introduced.
+Directs the Secretary of Energy to convey to the State of California by quitclaim deed certain lands in a naval petroleum reserve if California agrees to accept: (1) all existing agreements for the operation and development of the mineral resources of such property; and (2) all restrictions applicable to such property for the purposes for which the reserve is maintained. Amends the Mineral Leasing Act to provide that money received from naval petroleum reserves shall be treated the same as money received from other public lands.</summary>
+</bill>

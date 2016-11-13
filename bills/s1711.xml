@@ -1,0 +1,59 @@
+<bill session="100" type="s" number="1711" updated="2014-03-22T09:55:25-04:00">
+  <state datetime="1987-09-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-22"/>
+  </status>
+  <introduced datetime="1987-09-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Social Security Act to establish a National Commission on Children.</title>
+  </titles>
+  <sponsor id="401391"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1987-11-10"/>
+    <cosponsor id="300010" joined="1987-11-10"/>
+    <cosponsor id="401709" joined="1987-09-22"/>
+    <cosponsor id="402412" joined="1987-09-22"/>
+    <cosponsor id="402990" joined="1987-09-22"/>
+    <cosponsor id="403346" joined="1987-09-22"/>
+    <cosponsor id="403669" joined="1987-09-22"/>
+    <cosponsor id="300046" joined="1987-09-22"/>
+    <cosponsor id="300056" joined="1987-09-22"/>
+    <cosponsor id="300065" joined="1987-11-10"/>
+    <cosponsor id="407268" joined="1987-09-22"/>
+    <cosponsor id="407786" joined="1987-09-22"/>
+    <cosponsor id="400563" joined="1987-09-22"/>
+    <cosponsor id="300082" joined="1987-09-22"/>
+    <cosponsor id="409225" joined="1987-09-22"/>
+    <cosponsor id="410315" joined="1987-09-22"/>
+    <cosponsor id="411421" joined="1987-11-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-09-30">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department, Education Department, GAO, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3376"/>
+    <bill relation="identical" session="100" type="h" number="3376"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Advisory bodies"/>
+    <term name="Child health"/>
+    <term name="Child welfare"/>
+    <term name="Children and youth"/>
+    <term name="Education"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Poverty"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/1987--Introduced.
+Amends part A (General Provisions) of title XI of the Social Security Act to establish a National Commission on Children which is to serve as a forum on behalf of children and report to the Congress and the President by September 30, 1988, regarding questions relating to: (1) the health of children; (2) social and support services for children and their parents; (3) education; and (4) poverty among children.</summary>
+</bill>

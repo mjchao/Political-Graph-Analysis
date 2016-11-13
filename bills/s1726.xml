@@ -1,0 +1,75 @@
+<bill session="100" type="s" number="1726" updated="2014-03-22T09:55:25-04:00">
+  <state datetime="1988-02-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-02-03"/>
+  </status>
+  <introduced datetime="1987-09-29"/>
+  <titles>
+    <title type="short" as="introduced">Employee Health Promotion and Disease Prevention Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to promote employee health and disease prevention, and for other purposes.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="300052" joined="1987-09-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department, OMB.</text>
+    </action>
+    <calendar datetime="1987-10-09" state="REPORTED">
+      <text>Committee on Labor and Human Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-12-16">
+      <text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy without amendment. With written report No. 100-262.</text>
+    </action>
+    <calendar datetime="1987-12-16" calendar="Senate Legislative" under="General Orders" number="499">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 499.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-02-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-02-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-02-23">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Authorization"/>
+    <term name="Business and commerce"/>
+    <term name="Civil service employment"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Health education"/>
+    <term name="Health facilities"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local officials and employees"/>
+    <term name="Medical centers"/>
+    <term name="Medical research"/>
+    <term name="Preventive medicine"/>
+    <term name="Research centers"/>
+    <term name="Small business"/>
+    <term name="State officials and employees"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>9/29/1987--Introduced.
+Employee Health Promotion and Disease Prevention Act of 1987 - Amends title XVII (Health Information and Health Promotion) of the Public Health Service Act to direct the Secretary of Health and Human Services to undertake and support research and demonstration programs regarding: (1) worksite-based programs for public sector employees to promote healthy behavior and decrease unhealthy behavior; and (2) the special circumstances and problems encountered in providing health promotion and disease prevention programs to employees of small businesses. Authorizes appropriations for the purposes of such title for FY 1988 through 1990. Directs the Secretary to make grants and enter into contracts regarding centers for research and demonstration of health promotion and disease prevention. Authorizes appropriations for FY 1988 through 1990.</summary>
+</bill>

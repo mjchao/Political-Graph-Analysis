@@ -1,0 +1,75 @@
+<bill session="100" type="h" number="497" updated="2014-03-22T09:51:22-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Farm Mortgage Marketing Corporation Act of 1987</title>
+    <title type="official" as="introduced">A bill to increase the amount of capital available to financial institutions and other agricultural lenders for loans to farmers by providing a secondary market for farm mortgages through the establishment of a federally chartered corporation, and for other purposes.</title>
+  </titles>
+  <sponsor id="406729"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="1987-01-07"/>
+    <cosponsor id="300029" joined="1987-02-03"/>
+    <cosponsor id="403178" joined="1987-02-03"/>
+    <cosponsor id="404006" joined="1987-01-07"/>
+    <cosponsor id="405256" joined="1987-02-03"/>
+    <cosponsor id="405377" joined="1987-02-03"/>
+    <cosponsor id="400223" joined="1987-01-07"/>
+    <cosponsor id="406799" joined="1987-02-03"/>
+    <cosponsor id="400595" joined="1987-01-07"/>
+    <cosponsor id="408190" joined="1987-04-23"/>
+    <cosponsor id="408457" joined="1987-02-03"/>
+    <cosponsor id="408618" joined="1987-03-16"/>
+    <cosponsor id="300083" joined="1987-02-03"/>
+    <cosponsor id="410531" joined="1987-02-03"/>
+    <cosponsor id="410641" joined="1987-02-03"/>
+    <cosponsor id="410889" joined="1987-01-07"/>
+    <cosponsor id="400409" joined="1987-02-03"/>
+    <cosponsor id="411901" joined="1987-01-07"/>
+    <cosponsor id="406111" joined="1987-01-07" withdrawn="1987-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-01-07">
+      <text>Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-04-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>See H.R.3030.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA07" subcommittee="Financial Institutions Supervision, Regulation and Insurance" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Government corporations"/>
+    <term name="Mortgages"/>
+    <term name="Secondary mortgage market"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Farm Mortgage Marketing Corporation Act of 1987 - Establishes the Farm Mortgage Marketing Corporation. Provides for a five-member Board of Directors. Authorizes the Corporation, with specified limitations, to buy farm mortgages from qualified agricultural lenders and dispose of such mortgages through security issues. Prohibits the Corporation from buying a mortgage unless: (1) the seller retains at least a ten-percent participation in the mortgage, or agrees to replace or repurchase the mortgage if the borrower defaults; and (2) at the time of purchase, the outstanding principal balance of such mortgage is less than 80 percent of the securing property's value, or the portion of the unpaid balance in excess of 80 percent is insured or guaranteed by a qualified insurer. Provides for an initial Treasury capitalization of $200,000,000. Sets forth Corporation authority. Authorizes appropriations beginning with FY 1987 for the purchase of Corporation stock.</summary>
+</bill>

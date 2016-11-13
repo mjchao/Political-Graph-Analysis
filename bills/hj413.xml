@@ -1,0 +1,53 @@
+<bill session="100" type="hj" number="413" updated="2014-03-22T09:53:57-04:00">
+  <state datetime="1987-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-02"/>
+  </status>
+  <introduced datetime="1987-12-02"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution approving the location of the Black Revolutionary War Patriots Memorial.</title>
+  </titles>
+  <sponsor id="400205"/>
+  <cosponsors>
+    <cosponsor id="401526" joined="1988-03-09"/>
+    <cosponsor id="403314" joined="1988-03-09"/>
+    <cosponsor id="403476" joined="1988-02-03"/>
+    <cosponsor id="400216" joined="1988-03-09"/>
+    <cosponsor id="400240" joined="1987-12-02"/>
+    <cosponsor id="400333" joined="1987-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-02" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-01-26">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>For Further Action See S.J.Res.216.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="216"/>
+    <bill relation="identical" session="100" type="sj" number="216"/>
+  </relatedbills>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="American Revolution"/>
+    <term name="Black history"/>
+    <term name="Blacks"/>
+    <term name="District of Columbia"/>
+    <term name="Minorities"/>
+    <term name="Slavery"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/1987--Introduced.
+Approves the location of a commemorative work in the District of Columbia to honor the slaves and free black persons who served as soldiers and sailors or provided civilian assistance during the American Revolution and to honor the black men, women, and children who ran away from slavery or filed petitions with courts and legislatures seeking their freedom.</summary>
+</bill>

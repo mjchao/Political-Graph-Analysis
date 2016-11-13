@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="4993" updated="2014-03-22T09:53:30-04:00">
+  <state datetime="1988-07-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-07"/>
+  </status>
+  <introduced datetime="1988-07-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to allow farmers suffering crop losses to be eligible for emergency loans even if crop insurance was available to the farmers under the Federal Crop Insurance Act.</title>
+  </titles>
+  <sponsor id="406157"/>
+  <cosponsors>
+    <cosponsor id="405939" joined="1988-07-07"/>
+    <cosponsor id="407351" joined="1988-07-07"/>
+    <cosponsor id="409793" joined="1988-07-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-07" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-07-11">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1988-07-11">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural insurance"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Business and commerce"/>
+    <term name="Disaster loans"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>7/7/1988--Introduced.
+Makes farmers suffering crop losses eligible for (natural disaster) emergency loans even if Federal crop insurance was available to them.</summary>
+</bill>

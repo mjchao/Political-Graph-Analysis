@@ -1,0 +1,35 @@
+<bill session="100" type="hj" number="78" updated="2016-06-29T08:44:20-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution authorizing the President to designate the 29th day in May of each year as "John Fitzgerald Kennedy Memorial Day".</title>
+  </titles>
+  <sponsor id="410455"/>
+  <cosponsors>
+    <cosponsor id="400331" joined="1988-07-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Ex-presidents"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Authorizes and requests the President to designate May 29 of each year as John Fitzgerald Kennedy Memorial Day.</summary>
+</bill>

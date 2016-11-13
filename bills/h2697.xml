@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="2697" updated="2014-03-22T09:52:28-04:00">
+  <state datetime="1987-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-16"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Surface Transportation Assistance Act of 1982 relating to reasonable access to the Interstate System by commercial motor vehicles.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="400023" joined="1987-09-10"/>
+    <cosponsor id="403203" joined="1988-08-04"/>
+    <cosponsor id="403403" joined="1988-07-27"/>
+    <cosponsor id="404733" joined="1987-08-04"/>
+    <cosponsor id="404996" joined="1987-09-30"/>
+    <cosponsor id="405887" joined="1987-08-04"/>
+    <cosponsor id="405939" joined="1987-09-10"/>
+    <cosponsor id="407162" joined="1987-09-30"/>
+    <cosponsor id="408180" joined="1987-09-10"/>
+    <cosponsor id="408618" joined="1987-08-04"/>
+    <cosponsor id="400318" joined="1988-10-06"/>
+    <cosponsor id="408957" joined="1987-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1987-09-04">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Federal aid highway program"/>
+    <term name="Federal preemption"/>
+    <term name="Federal-local relations"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Roads and highways"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Traffic accidents and safety"/>
+    <term name="Trucking"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1987--Introduced.
+Amends the Surface Transportation Assistance Act of 1982 to repeal the authority granted governmental entities to impose restrictions based on safety considerations upon truck tractor-semitrailer vehicles wishing to use Federal-aid Primary System highways. Prescribes the considerations a governmental entity must demonstrate to the Secretary of Transportation in order to be authorized to restrict commercial motor vehicle access to Federal highways designed to be a width of ten feet or more. Permits a governmental entity to restrict access upon highways designed to be less than ten feet wide.</summary>
+</bill>

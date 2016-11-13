@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="5382" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-26"/>
+  </status>
+  <introduced datetime="1988-09-26"/>
+  <titles>
+    <title type="short" as="introduced">Civil Rights Enforcement Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Revised Statutes of the United States to clarify the extent of rights against nongovernmental discrimination under certain civil rights laws.</title>
+  </titles>
+  <sponsor id="402928"/>
+  <cosponsors>
+    <cosponsor id="406473" joined="1988-10-21"/>
+    <cosponsor id="411834" joined="1988-10-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-26" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Discrimination"/>
+    <term name="Discrimination in employment"/>
+    <term name="Equality before the law"/>
+    <term name="Labor and employment"/>
+    <term name="Racial discrimination"/>
+  </subjects>
+  <amendments/>
+  <summary>9/26/1988--Introduced.
+Civil Rights Enforcement Act of 1988 - Amends Federal law to declare that certain Federal statutory provisions guaranteeing all persons within the jurisdiction of the United States equal rights under the law extend to nongovernmental as well as to governmental discrimination, except that they do not extend: (1) as against an individual, to personal services provided to that individual not in connection with that individual's business activities; or (2) to an employment relationship with an employer other than an employer as defined in specified provisions of the Civil Rights Act of 1964.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="2271" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-05-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-05"/>
+  </status>
+  <introduced datetime="1987-05-05"/>
+  <titles>
+    <title type="short" as="introduced">Federal Pesticide Programs Improvement Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Insecticide, Fungicide, and Rodenticide Act to permit Federal agencies to use pesticides on public lands without duplicating the research or analyses of the Environmental Protection Agency under that Act.</title>
+  </titles>
+  <sponsor id="300029"/>
+  <cosponsors>
+    <cosponsor id="407162" joined="1987-05-05"/>
+    <cosponsor id="410010" joined="1987-05-05"/>
+    <cosponsor id="410084" joined="1987-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-05" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="398"/>
+    <bill relation="identical" session="100" type="s" number="398"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Environmental assessment"/>
+    <term name="Epidemiology"/>
+    <term name="Pest control"/>
+    <term name="Pesticide regulation"/>
+    <term name="Research"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1987--Introduced.
+Federal Pesticide Programs Improvement Act of 1987 - Amends the Federal Insecticide, Fungicide, and Rodenticide Act to permit Federal agencies to use a registered pesticide unless the Administrator of the Environmental Protection Agency (EPA) determines that missing or deficient data warrants suspension or cancellation of such registration. Permits Federal agencies to refer to research conducted for EPA pesticide registration in developing their own environmental impact statements. Provides that registration guidelines promulgated by the Administrator may not contain a requirement for applicants to perform human epidemiological studies to obtain or support registrations.</summary>
+</bill>

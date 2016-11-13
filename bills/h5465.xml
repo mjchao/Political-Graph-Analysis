@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="5465" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to release restrictions on certain property located in Calcasieu Parish, Louisiana, and for other purposes.</title>
+  </titles>
+  <sponsor id="405258"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-05" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Land transfers"/>
+    <term name="Louisiana"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Real property"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Introduced.
+Releases restrictions on the use or conveyance of certain property in Calcasieu Parish, Louisiana. Provides that the United States shall have the use of such property for national defense purposes in time of war or national emergency.</summary>
+</bill>

@@ -1,0 +1,82 @@
+<bill session="100" type="h" number="401" updated="2014-03-22T09:51:19-04:00">
+  <state datetime="1987-06-01">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-06-01"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to add certain public lands to the Capulin Mountain National Monument, New Mexico.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="400534" joined="1987-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-05-14">
+      <text>Favorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-05-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-06-01">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-115.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Placed on Union Calendar No: 78.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-01" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-02">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Favorable.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>For Further Action See H.R.403.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="403"/>
+  </relatedbills>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="Boundaries"/>
+    <term name="National monuments"/>
+    <term name="New Mexico"/>
+    <term name="Volcanoes"/>
+  </subjects>
+  <amendments/>
+  <summary>6/1/1987--Passed House amended.
+(Measure passed House, amended) Redesignates the Capulin Mountain National Monument in New Mexico as the Capulin Volcano National Monument. Modifies the boundary of such Monument to include additional specified lands.</summary>
+</bill>

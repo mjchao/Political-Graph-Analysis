@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="107" updated="2014-03-22T09:54:46-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of June Feldman.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to Subcommittee on Federal Services, Post Office.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSGA05" subcommittee="Federal Services, Post Office, and Civil Service" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Deems a specified period of service of a named individual with the Immigration and Naturalization Service to be service as a law enforcement officer for purposes of computing the survivor annuity payable to that individual's spouse.</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="1769" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-08"/>
+  </status>
+  <introduced datetime="1987-10-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish an office of Inspector General in the Nuclear Regulatory Commission.</title>
+  </titles>
+  <sponsor id="409923"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Subcommittee on Nuclear Regulation. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEV05" subcommittee="Nuclear Regulation" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Executive reorganization"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Inspectors general"/>
+    <term name="Nuclear Regulatory Commission"/>
+    <term name="Nuclear energy"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/1987--Introduced.
+Establishes an Office of Inspector General in the Nuclear Regulatory Commission. Transfers the Office of Inspector and Auditor in the Nuclear Regulatory Commission to the Office of Inspector General.</summary>
+</bill>

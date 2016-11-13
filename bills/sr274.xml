@@ -1,0 +1,35 @@
+<bill session="100" type="sr" number="274" updated="2014-03-22T09:54:37-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to amend the Standing Rules of the Senate to limit sense of the Senate or Congress amendments.</title>
+  </titles>
+  <sponsor id="408939"/>
+  <cosponsors>
+    <cosponsor id="403171" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1987-12-02">
+      <text>Committee on Rules. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Legislative amendments"/>
+    <term name="Senate"/>
+    <term name="Senate rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Amends rule XV of the Standing Rules of the Senate to require, on a point of order made by any Senator, sense of the Senate or sense of the Congress amendments to be signed by at least 20 Senators.</summary>
+</bill>

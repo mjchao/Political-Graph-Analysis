@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="4834" updated="2014-03-22T09:53:27-04:00">
+  <state datetime="1988-06-15">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-15"/>
+  </status>
+  <introduced datetime="1988-06-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to allow Alaska Natives and Oklahoma's Indians to qualify for waste water treatment assistance.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors>
+    <cosponsor id="403769" joined="1988-09-13"/>
+    <cosponsor id="407399" joined="1988-06-21"/>
+    <cosponsor id="410589" joined="1988-06-21"/>
+    <cosponsor id="400540" joined="1988-06-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-15" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Executive Comment Requested from EPA, OMB.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+    <action datetime="1988-11-01">
+      <text>See H.R.2677.</text>
+    </action>
+    <action datetime="1988-11-01">
+      <text>See H.R.2677.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2677"/>
+    <bill relation="identical" session="100" type="s" number="2208"/>
+    <bill relation="identical" session="100" type="s" number="2208"/>
+  </relatedbills>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Alaska"/>
+    <term name="Alaskan natives"/>
+    <term name="Environmental protection"/>
+    <term name="Federal aid to Indians"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Oklahoma"/>
+    <term name="Waste water treatment"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/1988--Introduced.
+Amends the Federal Water Pollution Control Act to add Alaska natives and Oklahoma's Indians to the Indian tribes qualifying for waste water treatment assistance under the Water Quality Act of 1987.</summary>
+</bill>

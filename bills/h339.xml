@@ -1,0 +1,65 @@
+<bill session="100" type="h" number="339" updated="2014-03-22T09:51:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require States which receive funds for AIDS counseling and education to undertake certain actions.</title>
+  </titles>
+  <sponsor id="403184"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-10"/>
+    <cosponsor id="401029" joined="1987-03-10"/>
+    <cosponsor id="400055" joined="1987-04-09"/>
+    <cosponsor id="400104" joined="1987-03-10"/>
+    <cosponsor id="403545" joined="1987-02-02"/>
+    <cosponsor id="404587" joined="1987-03-30"/>
+    <cosponsor id="300055" joined="1987-04-06"/>
+    <cosponsor id="400243" joined="1987-02-11"/>
+    <cosponsor id="400596" joined="1987-04-06"/>
+    <cosponsor id="400604" joined="1987-04-22"/>
+    <cosponsor id="300155" joined="1987-03-10"/>
+    <cosponsor id="400389" joined="1987-02-02"/>
+    <cosponsor id="410574" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Communicable diseases"/>
+    <term name="Counseling"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Grants-in-aid"/>
+    <term name="Information services"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Requires any State receiving Federal funds for acquired immune deficiency syndrome (AIDS) counseling and education to: (1) have a system to trace the partners of individuals with AIDS; (2) test those individuals for AIDS; and (3) counsel those individuals about the infectious nature of the syndrome.</summary>
+</bill>

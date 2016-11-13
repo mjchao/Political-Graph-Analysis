@@ -1,0 +1,128 @@
+<bill session="100" type="h" number="4188" updated="2014-03-22T09:53:06-04:00">
+  <state datetime="1988-10-14">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-14"/>
+  </status>
+  <introduced datetime="1988-03-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the building located at 445 Broadway in Albany, New York, as the "James T. Foley United States Post Office and Courthouse".</title>
+  </titles>
+  <sponsor id="410455"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-03-16"/>
+    <cosponsor id="400035" joined="1988-03-16"/>
+    <cosponsor id="403476" joined="1988-03-16"/>
+    <cosponsor id="403581" joined="1988-03-16"/>
+    <cosponsor id="404097" joined="1988-03-16"/>
+    <cosponsor id="404139" joined="1988-05-12"/>
+    <cosponsor id="404422" joined="1988-03-16"/>
+    <cosponsor id="400536" joined="1988-05-12"/>
+    <cosponsor id="405524" joined="1988-03-16"/>
+    <cosponsor id="405646" joined="1988-03-16"/>
+    <cosponsor id="406255" joined="1988-03-16"/>
+    <cosponsor id="406746" joined="1988-03-16"/>
+    <cosponsor id="407141" joined="1988-03-16"/>
+    <cosponsor id="407196" joined="1988-03-16"/>
+    <cosponsor id="407457" joined="1988-03-16"/>
+    <cosponsor id="407471" joined="1988-03-16"/>
+    <cosponsor id="407816" joined="1988-03-16"/>
+    <cosponsor id="408023" joined="1988-03-16"/>
+    <cosponsor id="408244" joined="1988-03-16"/>
+    <cosponsor id="400306" joined="1988-03-16"/>
+    <cosponsor id="400333" joined="1988-03-16"/>
+    <cosponsor id="409632" joined="1988-03-16"/>
+    <cosponsor id="300087" joined="1988-03-16"/>
+    <cosponsor id="400378" joined="1988-03-16"/>
+    <cosponsor id="410145" joined="1988-03-16"/>
+    <cosponsor id="410147" joined="1988-03-16"/>
+    <cosponsor id="400409" joined="1988-03-16"/>
+    <cosponsor id="411426" joined="1988-03-16"/>
+    <cosponsor id="411901" joined="1988-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-16" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-03-28">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-08-10">
+      <text>Reported to House (Amended) by House Committee on Public Works and Transportation.  Report No: 100-859.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Placed on House Calendar No: 200.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Placed on Consent Calendar No: 26.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Called up by House on Call of Consent Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-23">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-04" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-04">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-14" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-489" type="public" datetime="1988-10-14">
+      <text>Became Public Law No: 100-489.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Courthouses"/>
+    <term name="Federal installations"/>
+    <term name="Federal office buildings"/>
+    <term name="Names"/>
+    <term name="New York State"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal facilities"/>
+  </subjects>
+  <amendments>
+    <amendment number="h897"/>
+  </amendments>
+  <summary>9/22/1988--Passed House amended.
+(Measure passed House, amended) Designates the United States Post Office and Courthouse at 445 Broadway in Albany, New York, as the James T. Foley United States Courthouse.</summary>
+</bill>

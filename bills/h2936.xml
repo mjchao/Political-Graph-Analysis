@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="2936" updated="2014-03-22T09:52:34-04:00">
+  <state datetime="1987-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-14"/>
+  </status>
+  <introduced datetime="1987-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Taxpayers' Deficit Reduction Act</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow taxpayers to designate that part or all of any income tax refund is to be used to reduce the public debt of the United States.</title>
+  </titles>
+  <sponsor id="400380"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-12-02"/>
+    <cosponsor id="401986" joined="1987-12-02"/>
+    <cosponsor id="404009" joined="1987-12-02"/>
+    <cosponsor id="405580" joined="1987-12-02"/>
+    <cosponsor id="405646" joined="1987-12-02"/>
+    <cosponsor id="407432" joined="1987-12-02"/>
+    <cosponsor id="408407" joined="1987-12-02"/>
+    <cosponsor id="411585" joined="1987-12-02"/>
+    <cosponsor id="411834" joined="1987-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-14" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3775"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Checkoff"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="Income tax"/>
+    <term name="Public debt"/>
+    <term name="Tax administration"/>
+    <term name="Tax refunds"/>
+    <term name="Tax returns"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1987--Introduced.
+Taxpayers' Deficit Reduction Act - Amends the Internal Revenue Code to allow taxpayers who have overpaid their income tax liability to designate on their tax returns that a specified portion of such overpayment, rather than being credited or refunded, be used to reduce the public debt of the United States. Directs the Secretary of the Treasury to transfer these designated amounts to the special account for reduction of the public debt.</summary>
+</bill>

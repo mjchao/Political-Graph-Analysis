@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3761" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-14"/>
+  </status>
+  <introduced datetime="1987-12-14"/>
+  <titles>
+    <title type="short" as="introduced">Margaret Chase Smith Foundation Grants Act of 1987</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Education to make grants to the Margaret Chase Smith Foundation.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="401755" joined="1987-12-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-14" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Postsecondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED08" subcommittee="Postsecondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Federal aid to libraries"/>
+    <term name="Foundations"/>
+    <term name="Libraries"/>
+    <term name="Maine"/>
+    <term name="Members of Congress (Senate)"/>
+    <term name="Research centers"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/1987--Introduced.
+Margaret Chase Smith Foundation Grants Act of 1987 - Authorizes the Secretary of Education to make grants to the Margaret Chase Smith Foundation, for the Margaret Chase Smith Library Center in Skowhegan, Maine. Authorizes appropriations.</summary>
+</bill>

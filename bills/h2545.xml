@@ -1,0 +1,65 @@
+<bill session="100" type="h" number="2545" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="short" as="introduced">Airline Safety and Service Improvement Act</title>
+    <title type="official" as="introduced">A bill to provide for improved airline safety and service.</title>
+  </titles>
+  <sponsor id="403873"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-08-06"/>
+    <cosponsor id="401231" joined="1987-08-06"/>
+    <cosponsor id="401383" joined="1988-08-02"/>
+    <cosponsor id="402763" joined="1987-08-06"/>
+    <cosponsor id="403308" joined="1988-08-02"/>
+    <cosponsor id="403696" joined="1988-08-02"/>
+    <cosponsor id="403769" joined="1987-08-06"/>
+    <cosponsor id="404013" joined="1987-08-06"/>
+    <cosponsor id="404750" joined="1988-08-02"/>
+    <cosponsor id="400223" joined="1987-08-06"/>
+    <cosponsor id="400240" joined="1987-08-06"/>
+    <cosponsor id="407399" joined="1988-08-02"/>
+    <cosponsor id="410066" joined="1987-08-06"/>
+    <cosponsor id="400540" joined="1987-08-06"/>
+    <cosponsor id="411947" joined="1987-08-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Subcommittee Hearings Held.  Hearings printed: H. Hrg. 100-23.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>See H.R.3051.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3051"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Department of Transportation"/>
+    <term name="Executive reorganization"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Airline Safety and Service Improvement Act - Amends the Federal Aviation Act of 1958 to repeal the Civil Aeronautics Board termination provisions (thus reestablishing such Board). Declares that the Board is established as an agency of the United States, and sets forth its membership. Declares that the provisions regarding the general powers of the Board shall have the same effect as on December 31, 1984. Provides that certain Board functions which had been transferred to other agencies are hereby transferred back to the Board. Sets forth provisions for the economic regulation of air carriers by the Board. Prescribes the factors which the Board and the Federal Aviation Administrator shall consider as being in the public interest.</summary>
+</bill>

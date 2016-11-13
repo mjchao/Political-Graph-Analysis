@@ -1,0 +1,34 @@
+<bill session="100" type="hr" number="326" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-12-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-09"/>
+  </status>
+  <introduced datetime="1987-12-09"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to honor and thank Federal Highway Administrator Ray Barnhart for his dedicated efforts to improve the Nation's highway system.</title>
+  </titles>
+  <sponsor id="400844"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-09" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-12-16">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Commemorations"/>
+    <term name="Federal aid highway program"/>
+    <term name="Federal officials"/>
+  </subjects>
+  <amendments/>
+  <summary>12/9/1987--Introduced.
+Honors Ray A. Barnhart, retiring Federal Highway Administrator, for his efforts to preserve and improve the Federal-Aid Highway System.</summary>
+</bill>

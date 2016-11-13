@@ -1,0 +1,44 @@
+<bill session="100" type="sc" number="80" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1987-09-30">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-09-30"/>
+  </status>
+  <introduced datetime="1987-09-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the appreciation of the Congress to the City of Philadelphia, the National Park Service, and We the People 200, Inc., for their hospitality during the July 16, 1987, ceremonies commemorating the bicentennial of the Great Compromise.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1987-09-30"/>
+    <cosponsor id="405321" joined="1987-09-30"/>
+    <cosponsor id="300092" joined="1987-09-30"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-09-30" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-05">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-10-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-12">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Bicentennial of the Constitution"/>
+    <term name="Commemorations"/>
+    <term name="Pennsylvania"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1987--Introduced.
+Expresses the appreciation of the Congress to the City of Philadelphia, the National Park Service, and We the People 200, Inc., for their hospitality during the ceremonies commemorating the bicentennial of the Great Compromise.</summary>
+</bill>

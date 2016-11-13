@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="72" updated="2016-06-29T08:42:12-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 28 of the United States Code to change the types of hearings which a magistrate may conduct, and to change the jurisdiction for the consideration of, and the standards for the granting of, writs of habeas corpus by Federal courts upon application of persons in custody pursuant to judgements of State courts.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors>
+    <cosponsor id="402463" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Executive Comment Requested from Admin Office US Courts.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Executive Comment Received From Admin Office US Courts.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Habeas corpus"/>
+    <term name="Judicial review"/>
+    <term name="Jurisdiction"/>
+    <term name="Limitation of actions"/>
+    <term name="Magistrates"/>
+    <term name="Sentences (Criminal procedure)"/>
+    <term name="State courts"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Requires written consent of the parties before Federal magistrates may conduct evidentiary hearings in habeas corpus proceedings attacking State custody of petitioners under State court judgments. Limits the circumstances under which Federal courts may consider petitions for habeas corpus in State court cases. Creates a three-year statute of limitations for filing habeas corpus petitions. Revises standards governing Federal court review of State court judgments.</summary>
+</bill>

@@ -1,0 +1,110 @@
+<bill session="100" type="sc" number="95" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1988-04-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-04-28"/>
+  </status>
+  <introduced datetime="1987-12-21"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the sense of the Congress with respect to the denial of health insurance coverage for disabled adopted children.</title>
+  </titles>
+  <sponsor id="405795"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-12-21"/>
+    <cosponsor id="300008" joined="1988-02-18"/>
+    <cosponsor id="402023" joined="1987-12-21"/>
+    <cosponsor id="300023" joined="1988-04-14"/>
+    <cosponsor id="300034" joined="1987-12-21"/>
+    <cosponsor id="403515" joined="1988-02-01"/>
+    <cosponsor id="403669" joined="1988-02-01"/>
+    <cosponsor id="300048" joined="1987-12-21"/>
+    <cosponsor id="300052" joined="1987-12-21"/>
+    <cosponsor id="300056" joined="1988-02-01"/>
+    <cosponsor id="300059" joined="1988-04-14"/>
+    <cosponsor id="300060" joined="1988-04-14"/>
+    <cosponsor id="300066" joined="1988-02-01"/>
+    <cosponsor id="300070" joined="1988-02-17"/>
+    <cosponsor id="300071" joined="1987-12-21"/>
+    <cosponsor id="407663" joined="1988-04-14"/>
+    <cosponsor id="300073" joined="1988-04-14"/>
+    <cosponsor id="400563" joined="1987-12-21"/>
+    <cosponsor id="300079" joined="1987-12-21"/>
+    <cosponsor id="408597" joined="1987-12-21"/>
+    <cosponsor id="409917" joined="1988-02-17"/>
+    <cosponsor id="410315" joined="1987-12-21"/>
+    <cosponsor id="300094" joined="1987-12-21"/>
+    <cosponsor id="411421" joined="1988-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-21" state="REFERRED">
+      <text>Referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <calendar datetime="1988-04-13" state="REPORTED">
+      <text>Committee on Labor and Human Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-04-27">
+      <text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-04-27" calendar="Senate Legislative" under="General Orders" number="640">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 640.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-05-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-05-02">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-06-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-22">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-07-13">
+      <text>Reported to House by House Committee on Energy and Commerce. Report No: 100-774.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Placed on House Calendar No: 186.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hc" number="43"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Adopted children"/>
+    <term name="Adoption"/>
+    <term name="Business and commerce"/>
+    <term name="Children and youth"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Discrimination in insurance"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/1987--Introduced.
+Expresses the sense of the Congress with respect to discrimination in health insurance coverage for adopted children. Calls upon State legislatures to encourage health insurers to cover adopted children on the same basis as other dependents.</summary>
+</bill>

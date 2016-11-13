@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="430" updated="2016-06-29T08:42:19-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Product Liability Uniform Standards Act</title>
+    <title type="official" as="introduced">A bill to regulate interstate commerce by providing for uniform treatment of selected product liability problems, and for other purposes.</title>
+  </titles>
+  <sponsor id="409423"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-03-05"/>
+    <cosponsor id="406530" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Advisory bodies"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer protection"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Defective products"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal preemption"/>
+    <term name="Negligence"/>
+    <term name="Products liability"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Product Liability Uniform Standards Act - Sets forth uniform national standards for products liability cases. Preempts inconsistent State laws. Declares that the provisions of this Act shall be inapplicable in certain environmental actions. Makes negligence the sole test for all defective design and failure-to-warn product liability actions. Places the burden of proof on the claimant in such cases. Treats the product seller as the manufacturer (for the purposes of such actions) if: (1) the manufacturer is not subject to service of process; or (2) the court determines that the claimant would be unable to enforce a judgment against the manufacturer. Requires damages to be reduced by the amount of workers' compensation benefits paid. Makes a product manufacturer or seller who acted with reckless disregard for the consumers' safety liable for punitive damages. Lists factors for the trier of fact to consider when determining the amount of punitive damages. Directs the Judicial Conference of the United States to establish a Product Liability Damages Review Panel to conduct a study of damages in relation to the product liability litigation system. Authorizes appropriations.</summary>
+</bill>

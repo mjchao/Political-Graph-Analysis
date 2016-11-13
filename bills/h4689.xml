@@ -1,0 +1,71 @@
+<bill session="100" type="h" number="4689" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-07-27">REPORTED</state>
+  <status>
+    <unknown datetime="1988-07-27"/>
+  </status>
+  <introduced datetime="1988-05-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Nuclear Waste Policy Act of 1982 with respect to the Office of the Nuclear Waste Negotiator.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors>
+    <cosponsor id="408407" joined="1988-06-22"/>
+    <cosponsor id="411178" joined="1988-05-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-25" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-05-31">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-06-17">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-07-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-27" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-08-11">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-869 (Part I).</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>For Further Action See S.2800.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2800"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive reorganization"/>
+    <term name="Government operations and politics"/>
+    <term name="Nuclear energy"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/1988--Introduced.
+Amends the Nuclear Waste Policy Act of 1982 to establish the Office of the Nuclear Waste Negotiator as an independent establishment in the executive branch. (Currently such office is part of the Executive Office of the President.)</summary>
+</bill>

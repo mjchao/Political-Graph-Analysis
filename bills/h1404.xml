@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="1404" updated="2014-03-22T09:51:48-04:00">
+  <state datetime="1987-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-04"/>
+  </status>
+  <introduced datetime="1987-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the 10 percent additional tax for early distributions from individual retirement plans.</title>
+  </titles>
+  <sponsor id="405409"/>
+  <cosponsors>
+    <cosponsor id="403242" joined="1987-03-24"/>
+    <cosponsor id="403696" joined="1987-03-24"/>
+    <cosponsor id="406148" joined="1987-03-24"/>
+    <cosponsor id="409353" joined="1987-03-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-04" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax"/>
+    <term name="Individual retirement accounts"/>
+    <term name="Tax-deferred compensation plans"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1987--Introduced.
+Amends the Internal Revenue Code to repeal the ten percent additional tax on early distributions from individual retirement accounts or individual retirement annuities.</summary>
+</bill>

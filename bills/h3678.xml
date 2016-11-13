@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="3678" updated="2014-03-22T09:52:56-04:00">
+  <state datetime="1987-12-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-01"/>
+  </status>
+  <introduced datetime="1987-12-01"/>
+  <titles>
+    <title type="short" as="introduced">Victims of Crime Amendments Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Victims of Crime Act of 1984 to modify the Fund established by that Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-01" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-12-04">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1987-12-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4138"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Compensation for victims of crime"/>
+    <term name="Crime prevention"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="Grants-in-aid"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>12/1/1987--Introduced.
+Victims of Crime Amendments Act of 1987 - Amends the Victims of Crime Act of 1984 to: (1) eliminate the cap on deposits to the Crime Victims Fund; (2) make authority for such Fund permanent; and (3) earmark Fund deposits exceeding a specified amount in any fiscal year for crime victim compensation and State and Federal crime victim assistance programs.</summary>
+</bill>

@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="3500" updated="2016-06-29T08:43:31-04:00">
+  <state datetime="1987-10-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-15"/>
+  </status>
+  <introduced datetime="1987-10-15"/>
+  <titles>
+    <title type="short" as="introduced">Major Fraud Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide increased penalties for certain major frauds against the United States.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="403031" joined="1987-10-15"/>
+    <cosponsor id="404019" joined="1987-10-15"/>
+    <cosponsor id="405409" joined="1987-10-15"/>
+    <cosponsor id="407306" joined="1987-10-15"/>
+    <cosponsor id="400596" joined="1987-10-15"/>
+    <cosponsor id="400369" joined="1987-10-15"/>
+    <cosponsor id="400381" joined="1987-10-15"/>
+    <cosponsor id="410066" joined="1987-10-15"/>
+    <cosponsor id="410245" joined="1987-10-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-15" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+    <action datetime="1987-12-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Clean Bill H.R.3911 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3911"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Crime prevention"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Fraud"/>
+    <term name="Government procurement"/>
+    <term name="Informers"/>
+    <term name="Limitation of actions"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>10/15/1987--Introduced.
+Major Fraud Act of 1987 - Amends the Federal criminal code to subject anyone who defrauds or attempts to defraud the Government in any procurement of property or services for $1,000,000 or more to a fine of up to twice the amount which is the object of the fraud, seven years' imprisonment, or both. Sets a seven-year statute of limitations. Provides for payments to individuals (other than Government officers or employees acting in performance of official duties) furnishing information leading to a conviction.</summary>
+</bill>

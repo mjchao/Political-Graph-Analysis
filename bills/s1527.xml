@@ -1,0 +1,31 @@
+<bill session="100" type="s" number="1527" updated="2014-03-22T09:55:21-04:00">
+  <state datetime="1987-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-22"/>
+  </status>
+  <introduced datetime="1987-07-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Norma Jean Beales.</title>
+  </titles>
+  <sponsor id="405305"/>
+  <cosponsors>
+    <cosponsor id="300082" joined="1987-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/1987--Introduced.
+Directs the Administrator of Veterans Affairs to pay a specified sum to a named individual in full settlement of all claims of such individual for interest on the face amount of a specified National Service Life Insurance policy.</summary>
+</bill>

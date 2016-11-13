@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="2187" updated="2014-03-22T09:55:38-04:00">
+  <state datetime="1988-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-17"/>
+  </status>
+  <introduced datetime="1988-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to allow refundable credit against tax to taxpayers for dependents who have not attained the age of compulsory school attendance as prescribed by the law of the State in which the taxpayer resides, and to repeal the credit for expenses for child care services necessary for gainful employment for expenses with respect to such dependents.</title>
+  </titles>
+  <sponsor id="411271"/>
+  <cosponsors>
+    <cosponsor id="300052" joined="1988-05-19"/>
+    <cosponsor id="405305" joined="1988-06-14"/>
+    <cosponsor id="300154" joined="1988-04-15"/>
+    <cosponsor id="405795" joined="1988-07-13"/>
+    <cosponsor id="406183" joined="1988-07-14"/>
+    <cosponsor id="409923" joined="1988-06-14"/>
+    <cosponsor id="410588" joined="1988-09-07"/>
+    <cosponsor id="300157" joined="1988-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3944"/>
+    <bill relation="identical" session="100" type="h" number="3944"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Children and youth"/>
+    <term name="Costs"/>
+    <term name="Day care"/>
+    <term name="Families"/>
+    <term name="Income tax"/>
+    <term name="Tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1988--Introduced.
+Amends the Internal Revenue Code to allow an individual taxpayer a refundable income tax credit, in an amount based on adjusted gross income (minimum credit of $150), for each dependent below the age of compulsory school attendance in the State where the taxpayer resides. Sets the maximum credit amount as the total employee tax withheld from the taxpayer's wages during the year under the Federal Insurance Contributions Act. Disallows application of the nonrefundable dependent care income tax credit with respect to a taxpayer's dependents under age 15, unless the child is physically or mentally incapable of self-care.</summary>
+</bill>

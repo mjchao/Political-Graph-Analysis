@@ -1,0 +1,38 @@
+<bill session="100" type="hr" number="150" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-04-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-27"/>
+  </status>
+  <introduced datetime="1987-04-27"/>
+  <titles>
+    <title type="official" as="introduced">A resolution amending the Rules of the House of Representatives to limit election expenditures by candidates for the House of Representatives.</title>
+  </titles>
+  <sponsor id="401231"/>
+  <cosponsors>
+    <cosponsor id="405939" joined="1987-04-27"/>
+    <cosponsor id="400537" joined="1988-02-01"/>
+    <cosponsor id="408023" joined="1987-04-27"/>
+    <cosponsor id="409650" joined="1987-04-27"/>
+    <cosponsor id="404220" joined="1987-04-27" withdrawn="1987-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-27" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Congressional candidates"/>
+    <term name="Congressional elections"/>
+    <term name="Political action committees"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>4/27/1987--Introduced.
+Amends the Rules of the House of Representatives to add rule LI to limit expenditures for primary or general elections to the House to $250,000, of which not more than 30 percent may be derived from contributions by multicandidate political committees and separate segregated funds. Makes such rule effective beginning with the 101st Congress.</summary>
+</bill>

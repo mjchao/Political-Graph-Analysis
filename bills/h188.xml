@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="188" updated="2016-06-29T08:42:15-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Milk Producers Prompt Payment Act of 1987</title>
+    <title type="official" as="introduced">A bill to require milk handlers to make prompt payment to producers for fluid milk.</title>
+  </titles>
+  <sponsor id="407400"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural marketing regulation"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Dairy industry"/>
+    <term name="Dairy products"/>
+    <term name="Marketing of farm produce"/>
+    <term name="Milk"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Milk Producers Prompt Payment Act of 1987 - Provides that all milk purchased from a U.S. producer by a handler in a cash sale and all inventories and proceeds and related products shall be held by the handler in trust for the producer until the producer receives full payment. Exempts handlers whose total annual milk purchases do not exceed $500,000. Requires a handler to pay the full cash price to the producer within one day of receiving the milk, unless agreed otherwise. Grants producers a cause of action in U.S. district courts for handler trust or payment violations.</summary>
+</bill>

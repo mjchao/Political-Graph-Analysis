@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="986" updated="2014-03-22T09:51:38-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the acquisition, by the Farm Credit System Capital Corporation, of real estate assets of Federal land banks, and for other purposes.</title>
+  </titles>
+  <sponsor id="405747"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Executive Comment Requested from FCA.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Farms"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government securities"/>
+    <term name="National banks"/>
+    <term name="Real estate appraisal"/>
+    <term name="Securities and Investments"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Requires the Farm Credit System Capital Corporation, at the request of a Federal land bank, to purchase real estate assets of such bank through September 30, 1990. Authorizes the Corporation to finance such activities through sales of long-term obligations. Prohibits the sale or permanent transfer of such assets if such sale or transfer will adversely affect local farm real estate values.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="154" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-05-04">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-05-04"/>
+  </status>
+  <introduced datetime="1987-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 27) to facilitate the provisions of additional financial resources to the Federal Savings and Loan Insurance Corporation.</title>
+  </titles>
+  <sponsor id="400143"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-04">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-77.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Placed on House Calendar No: 19.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="27"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Finance and financial sector"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 27 (Federal Savings and Loan Insurance Corporation finances).</summary>
+</bill>

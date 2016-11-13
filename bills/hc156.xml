@@ -1,0 +1,39 @@
+<bill session="100" type="hc" number="156" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-07-15">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1987-07-15"/>
+  </status>
+  <introduced datetime="1987-07-09"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for adjournment of the House from July 15, 1987, until July 20, 1987.</title>
+  </titles>
+  <sponsor id="404193"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-09">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-07-09">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-07-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-07-15" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/1987--Introduced.
+Provides for an adjournment of the House of Representatives from July 15 to July 20, 1987.</summary>
+</bill>

@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="512" updated="2014-03-22T09:51:22-04:00">
+  <state datetime="1987-01-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-07"/>
+  </status>
+  <introduced datetime="1987-01-07"/>
+  <titles>
+    <title type="short" as="introduced">Federal Coal Equity Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Mineral Lands Leasing Act of 1920, and for other purposes.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="401417" joined="1987-05-05"/>
+    <cosponsor id="404750" joined="1987-05-05"/>
+    <cosponsor id="406461" joined="1987-05-05"/>
+    <cosponsor id="408632" joined="1987-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-07" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Mining and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII02" subcommittee="Mining and Natural Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Mines and mineral resources"/>
+    <term name="Coal"/>
+    <term name="Energy policy"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Imports"/>
+    <term name="International corporations"/>
+  </subjects>
+  <amendments/>
+  <summary>1/7/1987--Introduced.
+Federal Coal Equity Act of 1987 - Amends the Mineral Lands Leasing Act of 1920 to prohibit the Secretary of the Interior from issuing a competitive coal lease to any entity (or its affiliate) engaged in the extraction or production of coal reserves in a foreign country and the importation of such reserves into the United States.</summary>
+</bill>

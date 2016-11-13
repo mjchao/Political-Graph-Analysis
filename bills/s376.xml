@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="376" updated="2014-03-22T09:54:52-04:00">
+  <state datetime="1987-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-22"/>
+  </status>
+  <introduced datetime="1987-01-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Tax Reform Act of 1986 to restore the full deductibility of IRA contributions.</title>
+  </titles>
+  <sponsor id="400565"/>
+  <cosponsors>
+    <cosponsor id="410588" joined="1988-06-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Income tax"/>
+    <term name="Individual retirement accounts"/>
+    <term name="Tax deductions"/>
+    <term name="Tax-deferred compensation plans"/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/1987--Introduced.
+Repeals provisions of the Tax Reform Act of 1986 relating to limitations on individual retirement account contribution deductions. Requires that the Internal Revenue Code be applied as if the provisions repealed by this Act had not been enacted.</summary>
+</bill>

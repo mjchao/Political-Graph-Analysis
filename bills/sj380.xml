@@ -1,0 +1,35 @@
+<bill session="100" type="sj" number="380" updated="2014-03-22T09:54:34-04:00">
+  <state datetime="1988-09-15">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-15"/>
+  </status>
+  <introduced datetime="1988-09-15"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to insure financial and management reform in the United Nations.</title>
+  </titles>
+  <sponsor id="300154"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="657"/>
+    <bill relation="identical" session="100" type="hj" number="657"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="United Nations"/>
+    <term name="United Nations finances"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/1988--Introduced.
+Prohibits the payment by the United States of 20 percent of its assessed budget contributions to the United Nations.</summary>
+</bill>

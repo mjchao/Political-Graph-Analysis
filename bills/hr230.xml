@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="230" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-07-23">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-07-23"/>
+  </status>
+  <introduced datetime="1987-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 618) to provide for a General Accounting Office investigation and report on conditions of displaced Salvadorans and Nicaraguans, to provide certain rules of the House of Representatives and of the Senate with respect to review of the report, to provide for the temporary stay of detention and deportation of certain Salvadorans and Nicaraguans, and for other purposes.</title>
+  </titles>
+  <sponsor id="400600"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-23">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-234.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Placed on House Calendar No: 63.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="618"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 618 (displaced Salvadorans and Nicaraguans).</summary>
+</bill>

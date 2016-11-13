@@ -1,0 +1,64 @@
+<bill session="100" type="hj" number="174" updated="2014-03-22T09:53:45-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution disapproving the additional assistance to the Nicaraguan democratic resistance.</title>
+  </titles>
+  <sponsor id="407676"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Intelligence (Permanent).</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>House Committee on Appropriations Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>House Committee on Armed Services Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>House Committee on Foreign Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>House Committee on Intelligence (Permanent) Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Placed on Union Calendar No: 17.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HLIG" name="House Intelligence (Permanent Select)" activity="Referral, Discharged"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, Discharged"/>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="81"/>
+    <bill relation="identical" session="100" type="sj" number="81"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Insurgency"/>
+    <term name="Nicaragua"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Declares that the Congress disapproves the provision of additional assistance under the Military Construction Appropriations Act, 1987 to the Nicaraguan democratic resistance.</summary>
+</bill>

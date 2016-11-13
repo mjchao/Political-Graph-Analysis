@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="2252" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-30"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="short" as="introduced">Thrift Institution Forbearance Act</title>
+    <title type="official" as="introduced">A bill to establish a forbearance program for thrift institutions including Minority Associations.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="403695" joined="1987-04-30"/>
+    <cosponsor id="406740" joined="1987-04-30"/>
+    <cosponsor id="408621" joined="1987-04-30"/>
+    <cosponsor id="410889" joined="1987-04-30"/>
+    <cosponsor id="411488" joined="1987-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance.</text>
+    </action>
+    <action datetime="1987-08-10">
+      <text>See H.R.27.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA07" subcommittee="Financial Institutions Supervision, Regulation and Insurance" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="27"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank loans"/>
+    <term name="Business and commerce"/>
+    <term name="Capital"/>
+    <term name="Depressed areas"/>
+    <term name="Minorities"/>
+    <term name="Minority business enterprises"/>
+    <term name="Mortgage loans"/>
+    <term name="Savings and loan associations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Thrift Institution Forbearance Act - Amends the Home Owners' Loan Act of 1933, the National Housing Act, and the Federal Home Loan Bank Act to allow capital forbearance for thrift institutions with a net worth of 0.5 percent or more if the association's weak capital condition is due to: (1) losses on loans made in an area adversely affected by economic conditions; or (2) losses on loans made by a minority association 50 percent or more of whose loan assets are minority loans and 50 percent or more of whose loans are construction or permanent loans for one to four family residences. Requires that such an association must submit a plan to increase its capital in order to be eligible for such forbearance and that its weak capital condition must not be the result of imprudent operating practices. Allows a similar forbearance for institutions with a net worth of less than 0.5 percent upon the institution's request if the appropriate regulatory agency determines that the institution's weak financial condition is based on such loan losses and that the institution has reasonable prospects of returning to a satisfactory capital level.</summary>
+</bill>

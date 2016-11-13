@@ -1,0 +1,43 @@
+<bill session="100" type="hj" number="239" updated="2014-03-22T09:53:46-04:00">
+  <state datetime="1987-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution to require that congressional resolutions setting forth levels of total budget outlays and Federal revenues must be agreed to by two-thirds vote of both Houses of the Congress if the level of outlays exceeds the level of revenues.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>See H.J.Res.321.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="321"/>
+  </relatedbills>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Congressional budget"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal budgets"/>
+    <term name="Legislative resolutions"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/1987--Introduced.
+Constitutional Amendment - Requires a two-thirds vote of both Houses of the Congress to pass any concurrent resolution on the budget which carries a deficit.</summary>
+</bill>

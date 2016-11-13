@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="3124" updated="2014-03-22T09:52:45-04:00">
+  <state datetime="1987-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-05"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Energy Reorganization Act of 1974 to require Presidential appointment and Senate confirmation of the Executive Director for Operations of the Nuclear Regulatory Commission.</title>
+  </titles>
+  <sponsor id="400585"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-05" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-10-09">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Energy policy"/>
+    <term name="Federal officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Nuclear Regulatory Commission"/>
+    <term name="Nuclear energy"/>
+    <term name="Presidential appointments"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Introduced.
+Amends the Energy Reorganization Act of 1974 to declare that the Executive Director for Operations of the Nuclear Regulatory Commission shall be appointed by the President (with the advice and consent of the Senate), and shall serve at the pleasure of, and be removable by, the President. Declares that any person serving as the Executive Director on the date of enactment of this Act who was not appointed by the President shall cease to hold office on such date of enactment.</summary>
+</bill>

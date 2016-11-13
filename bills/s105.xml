@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="105" updated="2014-03-22T09:54:46-04:00">
+  <state datetime="1987-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to provide for the payment of incentive special pay to Veterans' Administration psychologists who obtain certain board certification in a professional specialty.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+    <calendar datetime="1987-07-31" state="REPORTED">
+      <text>Committee on Veterans. Provisions of measure incorporated into measure S. 9 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="9"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Medical personnel"/>
+    <term name="Military medicine"/>
+    <term name="Military pay"/>
+    <term name="Officer personnel"/>
+    <term name="Psychologists"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Authorizes special pay to officers serving as psychologists in any branch of the armed forces if they receive a Diplomate in Psychology diploma from the American Board of Professional Psychology.</summary>
+</bill>

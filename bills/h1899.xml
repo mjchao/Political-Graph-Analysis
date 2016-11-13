@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="1899" updated="2014-03-22T09:52:06-04:00">
+  <state datetime="1987-04-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-01"/>
+  </status>
+  <introduced datetime="1987-04-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make permanent the formula for determining fees for the grazing of livestock on public rangelands.</title>
+  </titles>
+  <sponsor id="407162"/>
+  <cosponsors>
+    <cosponsor id="300017" joined="1987-04-01"/>
+    <cosponsor id="402484" joined="1987-04-01"/>
+    <cosponsor id="300029" joined="1987-04-01"/>
+    <cosponsor id="400552" joined="1987-04-01"/>
+    <cosponsor id="400176" joined="1987-04-01"/>
+    <cosponsor id="300058" joined="1987-04-01"/>
+    <cosponsor id="400226" joined="1987-04-01"/>
+    <cosponsor id="406530" joined="1987-04-01"/>
+    <cosponsor id="406992" joined="1987-04-01"/>
+    <cosponsor id="408190" joined="1987-04-01"/>
+    <cosponsor id="408506" joined="1987-04-01"/>
+    <cosponsor id="409165" joined="1987-04-01"/>
+    <cosponsor id="409205" joined="1987-04-01"/>
+    <cosponsor id="300083" joined="1987-04-01"/>
+    <cosponsor id="409887" joined="1987-04-01"/>
+    <cosponsor id="400534" joined="1987-04-01"/>
+    <cosponsor id="410084" joined="1987-04-01"/>
+    <cosponsor id="410097" joined="1987-04-01"/>
+    <cosponsor id="410251" joined="1987-04-01"/>
+    <cosponsor id="400504" joined="1987-04-01"/>
+    <cosponsor id="400401" joined="1988-02-16"/>
+    <cosponsor id="411178" joined="1987-04-01"/>
+    <cosponsor id="400440" joined="1987-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-01" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Fees"/>
+    <term name="Grazing"/>
+    <term name="Livestock"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>4/1/1987--Introduced.
+Sets forth a formula, beginning with the 1987 grazing year, for determining fees for domestic livestock grazing on public rangelands. Bases the formula on the base established by the 1966 Western Livestock Grazing Survey, the Forage Value Index, and the adjusted Beef Cattle Price Index. Prohibits annual fee adjustments greater or less than 25 percent.</summary>
+</bill>

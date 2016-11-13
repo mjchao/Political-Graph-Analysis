@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="1599" updated="2016-06-29T08:42:46-04:00">
+  <state datetime="1987-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-12"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Product Liability Reform Act of 1987</title>
+    <title type="official" as="introduced">A bill to promote the interests of consumers and to ensure that the free flow of products in interstate commerce is not impeded by product liability law, and for other purposes.</title>
+  </titles>
+  <sponsor id="407519"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-04-01"/>
+    <cosponsor id="402657" joined="1987-03-25"/>
+    <cosponsor id="406530" joined="1987-03-25"/>
+    <cosponsor id="400240" joined="1987-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2861"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Civil actions and liability"/>
+    <term name="Civil procedure"/>
+    <term name="Commercial arbitration"/>
+    <term name="Consumer protection"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Defective products"/>
+    <term name="Drug industry"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Federal preemption"/>
+    <term name="Health"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal fees"/>
+    <term name="Limitation of actions"/>
+    <term name="Medical supplies"/>
+    <term name="Negligence"/>
+    <term name="Products liability"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Product Liability Reform Act of 1987 - Preempts inconsistent State law, within limitations contained in this Act. Subjects the seller of a defective product unreasonably dangerous to a user or consumer to strict liability for physical damage caused by the product when: (1) the seller is engaged in the business of selling such a product; and (2) the product reaches the user or consumer without substantial alteration in its condition. Denies liability in instances when the harm results: (1) more from the user's negligence than from the negligence of the product seller; (2) from an unreasonable misuse of the product even if foreseeable and feasibly preventable; and (3) from a defect that could not have been discovered and eliminated given the technology at the time the product was made. Prohibits the application of the doctrine of joint and several liability to product liability actions, except in cases when persons acting in concert are the proximate cause of the injury. Sets a limitation on the amount of noneconomic damages that can be recovered. Permits an award of punitive damages in a product liability action only when: (1) it is shown that the person subject to liability acted with flagrant indifference to consumer safety; and (2) compensatory damages are awarded. Prohibits an award of punitive damages against a manufacturer or seller of a drug or medical device if the drug or device was subject to premarket approval by the Secretary of Health and Human Services or if the drug is generally recognized as safe and effective pursuant to conditions established in regulations of the Secretary. Permits structured settlements and periodic payment of damages awarded for future economic loss. Requires that damage awards be offset by amounts received as compensation for the same injury from specified collateral sources. Establishes a contingency fee schedule to govern compensation for plaintiffs' attorneys. Imposes a two-year statute of limitations on product liability actions, commencing upon the discovery of harm. Establishes a ten-year statute of repose for product liability actions, with a longer period applicable in certain cases. Directs the Attorney General to provide to the Congress, within one year of this Act's enactment, recommendations to encourage and accommodate the creation, adoption, and use of alternative dispute resolution techniques in civil disputes filed in Federal courts.</summary>
+</bill>

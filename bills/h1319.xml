@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1319" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Atomic Energy Act to clarify that the Nuclear Regulatory Commission is authorized to protect from public disclosure certain sensitive generic safeguards information, the disclosure of which could negate or compromise site specific security measures.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>For Further Action See H.R.2683.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2683"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Freedom of information"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information leaking"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear security measures"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Amends the Atomic Energy Act of 1954 to direct the Nuclear Regulatory Commission to prescribe regulations or issue orders prohibiting the unauthorized disclosure of safeguard information contained in generic studies, reports, and analyses that would provide substantial assistance in compromising or negating a licensee's specific security measures or procedures to protect nuclear material or facilities, or in targeting a licensee's vital plant equipment.</summary>
+</bill>

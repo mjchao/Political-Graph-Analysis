@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="5270" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-09-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-09"/>
+  </status>
+  <introduced datetime="1988-09-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the reinsurance requirement under the life insurance program for Federal employees.</title>
+  </titles>
+  <sponsor id="400231"/>
+  <cosponsors>
+    <cosponsor id="403476" joined="1988-09-09"/>
+    <cosponsor id="400140" joined="1988-09-09"/>
+    <cosponsor id="404733" joined="1988-09-09"/>
+    <cosponsor id="400314" joined="1988-09-09"/>
+    <cosponsor id="411426" joined="1988-09-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-09" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Business and commerce"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government employees' life insurance"/>
+    <term name="Insurance"/>
+    <term name="Reinsurance"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/1988--Introduced.
+Amends Federal law to repeal the reinsurance requirement under the Federal employees' life insurance program.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="5567" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1988-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-10-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Controlled Substances Act by increasing the minimum criminal penalties for any person employing or using persons under 18 years of age in drug operations.</title>
+  </titles>
+  <sponsor id="404170"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-21" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-11-15">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Children and youth"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Drugs and youth"/>
+    <term name="Narcotic traffic"/>
+    <term name="Recidivists"/>
+    <term name="Sentences (Criminal procedure)"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1988--Introduced.
+Amends the Controlled Substances Act to: (1) increase to three years (currently, one year) the minimum term of imprisonment for any person who employs a person under 18 years of age in violation of such Act and who has a prior conviction for the same offense; (2) add a minimum term of imprisonment of two years for any person who provides or distributes a controlled substance to an underage person; and (3) provide a minimum term of imprisonment of five years for any person who provides or distributes a controlled substance to an underage person after a prior conviction for the same offense has become final.</summary>
+</bill>

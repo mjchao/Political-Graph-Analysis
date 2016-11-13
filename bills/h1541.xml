@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="1541" updated="2014-03-22T09:51:52-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Nicholas and Carey Wolf.</title>
+  </titles>
+  <sponsor id="400604"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-17">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Relieves two named individuals of liability for a specified sum representing income taxes erroneously assessed by the Internal Revenue Service plus current interest and penalties. Directs the Secretary of the Treasury to pay to those individuals any amount paid by them or withheld from amounts due them in connection with the taxes, interest, and penalties referred to in this Act.</summary>
+</bill>

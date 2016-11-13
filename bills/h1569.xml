@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="1569" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1987-03-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-11"/>
+  </status>
+  <introduced datetime="1987-03-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 28, United States Code, to designate Hopkinsville as a place of holding court for the Western District of Kentucky.</title>
+  </titles>
+  <sponsor id="405724"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-11" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-13">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="District courts"/>
+    <term name="Judicial districts"/>
+    <term name="Kentucky"/>
+  </subjects>
+  <amendments/>
+  <summary>3/11/1987--Introduced.
+Provides that the U.S. District Court for the Western District of Kentucky shall be held in Hopkinsville, Kentucky, in addition to those places currently provided by law.</summary>
+</bill>

@@ -1,0 +1,126 @@
+<bill session="100" type="h" number="550" updated="2014-03-22T09:51:23-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Adult Day Care Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to provide for coverage of adult day care under the medicare program.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-10-06"/>
+    <cosponsor id="400025" joined="1987-02-24"/>
+    <cosponsor id="401417" joined="1987-01-08"/>
+    <cosponsor id="401418" joined="1987-02-24"/>
+    <cosponsor id="400035" joined="1987-02-24"/>
+    <cosponsor id="401568" joined="1987-10-06"/>
+    <cosponsor id="400542" joined="1987-10-06"/>
+    <cosponsor id="300011" joined="1987-01-08"/>
+    <cosponsor id="402159" joined="1987-10-06"/>
+    <cosponsor id="400064" joined="1987-02-24"/>
+    <cosponsor id="402626" joined="1987-02-24"/>
+    <cosponsor id="402710" joined="1987-02-24"/>
+    <cosponsor id="402763" joined="1987-10-06"/>
+    <cosponsor id="400080" joined="1987-02-24"/>
+    <cosponsor id="403031" joined="1987-10-06"/>
+    <cosponsor id="403314" joined="1987-10-06"/>
+    <cosponsor id="400100" joined="1987-02-24"/>
+    <cosponsor id="403364" joined="1987-10-06"/>
+    <cosponsor id="403776" joined="1987-10-06"/>
+    <cosponsor id="403904" joined="1987-10-06"/>
+    <cosponsor id="400126" joined="1987-02-24"/>
+    <cosponsor id="404002" joined="1987-10-06"/>
+    <cosponsor id="404006" joined="1987-02-24"/>
+    <cosponsor id="404013" joined="1987-10-06"/>
+    <cosponsor id="404019" joined="1987-10-06"/>
+    <cosponsor id="404097" joined="1987-10-06"/>
+    <cosponsor id="400140" joined="1987-01-08"/>
+    <cosponsor id="400143" joined="1987-02-24"/>
+    <cosponsor id="404422" joined="1987-02-24"/>
+    <cosponsor id="404750" joined="1987-10-06"/>
+    <cosponsor id="400538" joined="1987-10-06"/>
+    <cosponsor id="405256" joined="1987-10-06"/>
+    <cosponsor id="405409" joined="1987-02-24"/>
+    <cosponsor id="405687" joined="1987-10-06"/>
+    <cosponsor id="405775" joined="1987-02-24"/>
+    <cosponsor id="400205" joined="1987-02-24"/>
+    <cosponsor id="406157" joined="1987-10-06"/>
+    <cosponsor id="400210" joined="1987-02-24"/>
+    <cosponsor id="400211" joined="1987-02-24"/>
+    <cosponsor id="406191" joined="1987-02-24"/>
+    <cosponsor id="406554" joined="1987-02-24"/>
+    <cosponsor id="400231" joined="1987-10-06"/>
+    <cosponsor id="406729" joined="1987-10-06"/>
+    <cosponsor id="406740" joined="1987-10-06"/>
+    <cosponsor id="406765" joined="1987-10-06"/>
+    <cosponsor id="400240" joined="1987-10-06"/>
+    <cosponsor id="400595" joined="1987-02-24"/>
+    <cosponsor id="400256" joined="1987-10-06"/>
+    <cosponsor id="407471" joined="1987-10-06"/>
+    <cosponsor id="407672" joined="1987-02-24"/>
+    <cosponsor id="407772" joined="1987-02-24"/>
+    <cosponsor id="408023" joined="1987-01-08"/>
+    <cosponsor id="408052" joined="1987-10-06"/>
+    <cosponsor id="408109" joined="1987-02-24"/>
+    <cosponsor id="400299" joined="1987-10-06"/>
+    <cosponsor id="400300" joined="1987-10-06"/>
+    <cosponsor id="400302" joined="1987-10-06"/>
+    <cosponsor id="400306" joined="1987-10-06"/>
+    <cosponsor id="400331" joined="1987-02-24"/>
+    <cosponsor id="400333" joined="1987-02-24"/>
+    <cosponsor id="409205" joined="1987-02-24"/>
+    <cosponsor id="409325" joined="1987-10-06"/>
+    <cosponsor id="409446" joined="1987-01-08"/>
+    <cosponsor id="409593" joined="1987-02-24"/>
+    <cosponsor id="400359" joined="1987-02-24"/>
+    <cosponsor id="409650" joined="1987-10-06"/>
+    <cosponsor id="400378" joined="1987-10-06"/>
+    <cosponsor id="410066" joined="1987-10-06"/>
+    <cosponsor id="410145" joined="1987-10-06"/>
+    <cosponsor id="410245" joined="1987-10-06"/>
+    <cosponsor id="400409" joined="1987-10-06"/>
+    <cosponsor id="411025" joined="1987-01-08"/>
+    <cosponsor id="400612" joined="1987-02-24"/>
+    <cosponsor id="411426" joined="1987-02-24"/>
+    <cosponsor id="411834" joined="1987-10-06"/>
+    <cosponsor id="411901" joined="1987-10-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-08">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-01-27">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Day care"/>
+    <term name="Day care centers for the aged"/>
+    <term name="Disabled"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+    <term name="Mentally handicapped"/>
+    <term name="Physically handicapped"/>
+    <term name="Standards"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Medicare Adult Day Care Amendments of 1987 - Amends part B (Supplementary Medical Insurance) of title XVIII (Medicare) of the Social Security Act to provide for the establishment of adult day care programs providing certain health services to chronically-impaired adults in a group setting outside their homes for up to 100 days on a less than 24-hour basis. Requires providers of such services to have a multidisciplinary group of health care personnel conduct a written assessment of the status of each chronically-impaired adult before the adult's admission to the program and thereafter periodically develop and coordinate an individualized treatment plan for, and with the cooperation of, the adult. Defines a "chronically-impaired adult" as an individual 18 years of age or older who has a physical, emotional, or mental impairment which, but for the provision of adult day care, would require the provision of care in a hospital, skilled nursing, or intermediate care facility. Makes deductibles inapplicable to adult day care, requiring only the payment of a specified coinsurance amount. Directs the Secretary of Health and Human Services to issue regulations regarding adult day care programs. Requires the Secretary to adopt the standards established by the National Institute of Adult Day Care as the minimum standards for qualifying as a provider of such care.</summary>
+</bill>

@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="1222" updated="2014-03-22T09:51:44-04:00">
+  <state datetime="1987-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-24"/>
+  </status>
+  <introduced datetime="1987-02-24"/>
+  <titles>
+    <title type="short" as="introduced">Public Building Code Compliance Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Public Buildings Act of 1959 to require that buildings constructed or altered by a Federal agency comply, to the maximum extent feasible, with nationally recognized model codes and with local zoning laws and certain other laws.</title>
+  </titles>
+  <sponsor id="410084"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="1987-02-24"/>
+    <cosponsor id="402657" joined="1987-02-24"/>
+    <cosponsor id="405006" joined="1987-02-24"/>
+    <cosponsor id="300055" joined="1987-02-24"/>
+    <cosponsor id="400369" joined="1987-02-24"/>
+    <cosponsor id="410529" joined="1987-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-24" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-03-09">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>See H.R.2790.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2790"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Building construction"/>
+    <term name="Building laws"/>
+    <term name="Federal installations"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Municipal ordinances"/>
+    <term name="Public safety"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Zoning and zoning law"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1987--Introduced.
+Public Building Code Compliance Amendments of 1987 - Amends the Public Buildings Act of 1959 to require that public buildings constructed or altered under such Act shall, to the maximum extent feasible, be in compliance with: (1) one of the nationally recognized model building codes; (2) State and local zoning laws; and (3) State and local laws relating to landscaping, open space, parking, minimum distance from a property line, maximum height, historic preservation, and other similar laws. Requires the Federal Government to: (1) consult with State and local officials about the plans for buildings constructed or altered under such Act; (2) submit plans to State and local officials for review for a period not exceeding two months; and (3) permit inspection by State and local officials. Permits State and local officials to make recommendations to the Federal Government. Provides that no action may be brought against the United States for failure to meet the requirements of this Act.</summary>
+</bill>

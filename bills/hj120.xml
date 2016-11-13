@@ -1,0 +1,38 @@
+<bill session="100" type="hj" number="120" updated="2014-03-22T09:53:42-04:00">
+  <state datetime="1987-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-29"/>
+  </status>
+  <introduced datetime="1987-01-29"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to prohibit Members of Congress from determining their own compensation.</title>
+  </titles>
+  <sponsor id="400300"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-29" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Advisory bodies"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/1987--Introduced.
+Constitutional Amendment - Creates a commission to establish the annual rate of pay for Members of Congress on January 1 of each odd-numbered year. Makes March 1 of that calendar year the effective date for such annual rate of pay. Makes appropriations to the Commission for purposes of carrying out its duties.</summary>
+</bill>

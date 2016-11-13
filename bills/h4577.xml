@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="4577" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-11"/>
+  </status>
+  <introduced datetime="1988-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Buy American Act to extend its coverage to temporary structures used in Army Corps of Engineers projects.</title>
+  </titles>
+  <sponsor id="400281"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-11" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-05-11">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>Executive Comment Requested from OMB, Army.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Buy American"/>
+    <term name="Dams"/>
+    <term name="Government procurement"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1988--Introduced.
+Amends the Buy American Act to extend its coverage to a cofferdam or any other temporary structure used in Army Corps of Engineers water resource projects.</summary>
+</bill>

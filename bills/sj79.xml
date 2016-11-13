@@ -1,0 +1,36 @@
+<bill session="100" type="sj" number="79" updated="2014-03-22T09:54:20-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing a Constitutional amendment to limit congressional terms.</title>
+  </titles>
+  <sponsor id="403346"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-03-13">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional terms of office"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Constitutional Amendment - Provides that no person shall be elected to the Senate for more than two full terms and that no person shall be elected to the House for more than seven full terms. Prohibits Senators from serving for more than 14 years and Representatives for more than 15 years.</summary>
+</bill>

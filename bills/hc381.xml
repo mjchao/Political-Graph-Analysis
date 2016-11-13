@@ -1,0 +1,99 @@
+<bill session="100" type="hc" number="381" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-10-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-09-30"/>
+  <titles>
+    <title type="short" as="introduced">Lebanon Reconstruction Resolution of 1988</title>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress regarding United States goals with respect to Lebanon.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-10-04"/>
+    <cosponsor id="401526" joined="1988-10-04"/>
+    <cosponsor id="401847" joined="1988-10-04"/>
+    <cosponsor id="400055" joined="1988-10-04"/>
+    <cosponsor id="404019" joined="1988-10-04"/>
+    <cosponsor id="400536" joined="1988-10-04"/>
+    <cosponsor id="404996" joined="1988-10-04"/>
+    <cosponsor id="400192" joined="1988-10-04"/>
+    <cosponsor id="406530" joined="1988-10-04"/>
+    <cosponsor id="400231" joined="1988-10-04"/>
+    <cosponsor id="406765" joined="1988-10-04"/>
+    <cosponsor id="406995" joined="1988-10-04"/>
+    <cosponsor id="407669" joined="1988-10-04"/>
+    <cosponsor id="407673" joined="1988-10-04"/>
+    <cosponsor id="407721" joined="1988-10-04"/>
+    <cosponsor id="408313" joined="1988-10-04"/>
+    <cosponsor id="400331" joined="1988-10-04"/>
+    <cosponsor id="410066" joined="1988-10-04"/>
+    <cosponsor id="411426" joined="1988-10-04"/>
+    <cosponsor id="411834" joined="1988-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-30" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-10-04" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Resolution agreed to in Senate with an amendment and an amendment to the Title and an amended preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hc" number="377"/>
+    <bill relation="unknown" session="100" type="hr" number="533"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Democracy"/>
+    <term name="Economic growth"/>
+    <term name="Government operations and politics"/>
+    <term name="International military forces"/>
+    <term name="Lebanon"/>
+    <term name="Military intervention"/>
+    <term name="Military occupation"/>
+    <term name="National self-determination"/>
+    <term name="Peace"/>
+    <term name="Sovereignty"/>
+    <term name="Syria"/>
+    <term name="United Nations"/>
+    <term name="War relief"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3707"/>
+  </amendments>
+  <summary>10/14/1988--Passed Senate amended.
+(Measure passed Senate, amended) Expresses the sense of the Congress that the United States should: (1) encourage all parties in Lebanon to support the constitutional mandate to elect a new president; (2) support actions which promote the unity of Lebanon; and (3) reinforce its commitment to national sovereignty for Lebanon.</summary>
+</bill>

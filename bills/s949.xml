@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="949" updated="2014-03-22T09:55:11-04:00">
+  <state datetime="1987-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the availability of funds for the United States' proportionate share of the United Nations' Office of Research and Information Collection.</title>
+  </titles>
+  <sponsor id="400565"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1987-04-08"/>
+    <cosponsor id="300052" joined="1987-04-22"/>
+    <cosponsor id="300079" joined="1987-04-22"/>
+    <cosponsor id="408970" joined="1987-05-12"/>
+    <cosponsor id="300094" joined="1987-05-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Committee on Foreign Relations requested executive comment from State Department.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Committee on Foreign Relations received executive comment from Department of State. Unfavorable.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="United Nations"/>
+    <term name="United Nations finances"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/1987--Introduced.
+Prohibits the use of funds appropriated or otherwise made available to the "International organizations and programs account" of the Department of State for the United States' proportionate share of the United Nations' expenses in operating the United Nations' Office of Research and Information Collection.</summary>
+</bill>

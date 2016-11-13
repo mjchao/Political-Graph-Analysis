@@ -1,0 +1,107 @@
+<bill session="100" type="h" number="4101" updated="2016-06-29T08:43:44-04:00">
+  <state datetime="1988-06-28">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-06-28"/>
+  </status>
+  <introduced datetime="1988-03-07"/>
+  <titles>
+    <title type="short" as="introduced">Telemarketing Fraud Prevention Act of 1988</title>
+    <title type="short" as="reported to house">Telemarketing Fraud Prevention Act of 1988</title>
+    <title type="short" as="passed house">Telemarketing Fraud Prevention Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Federal Trade Commission Act to strengthen the authority of the Federal Trade Commission respecting fraud committed in connection with sales made with a telephone.</title>
+  </titles>
+  <sponsor id="406994"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-03-07"/>
+    <cosponsor id="400028" joined="1988-03-07"/>
+    <cosponsor id="404170" joined="1988-03-15"/>
+    <cosponsor id="405006" joined="1988-05-12"/>
+    <cosponsor id="406974" joined="1988-06-21"/>
+    <cosponsor id="400533" joined="1988-05-12"/>
+    <cosponsor id="409901" joined="1988-03-07"/>
+    <cosponsor id="409966" joined="1988-03-07"/>
+    <cosponsor id="410574" joined="1988-05-17"/>
+    <cosponsor id="411585" joined="1988-03-07"/>
+    <cosponsor id="411834" joined="1988-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Hearings Held by Subcommittee on Transportation, Tourism, and Hazardous Materials Prior to Referral (March 9, 88).</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-19" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-06-23">
+      <text>Reported to House (Amended) by House Committee on Energy and Commerce.  Report No: 100-731.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Placed on Union Calendar No: 443.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-28" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-07-06">
+      <text>Received in the Senate and read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Subcommittee on Consumer. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSCM03" subcommittee="Consumer" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2213"/>
+    <bill relation="identical" session="100" type="s" number="2213"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Advertising and Marketing"/>
+    <term name="Business and commerce"/>
+    <term name="Business records"/>
+    <term name="Citizen lawsuits"/>
+    <term name="Civil actions and liability"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Computers"/>
+    <term name="Consumer protection"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Deceptive advertising"/>
+    <term name="Fraud"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information services"/>
+    <term name="Marketing"/>
+    <term name="Restrictive trade practices"/>
+    <term name="Sales promotion"/>
+    <term name="Telephone"/>
+    <term name="Unfair or deceptive trade practices"/>
+  </subjects>
+  <amendments/>
+  <summary>6/28/1988--Passed House amended.
+(Measure passed House, amended) Telemarketing Fraud Prevention Act of 1988 - Amends the Federal Trade Commission Act to direct the Federal Trade Commission (FTC) to promulgate rules to govern telemarketing activities. Enumerates features the FTC should consider incorporating in these rules, including provisions for refunds for untimely delivery of products or services, order cancellations, time restrictions in connection with unsolicited sales calls, and recordkeeping requirements. Declares that rule violators shall be considered to have engaged in an unfair or deceptive trade practice. Prohibits telemarketing conduct whose natural consequence is to harass, oppress, or abuse, and considers violators to have engaged in an unfair or deceptive trade practice. Authorizes both citizen suits (amount in controversy must exceed $10,000) and civil actions on behalf of a State for relief against entities engaging in telemarketing fraud or dishonest acts or practices. Prescribes the general framework to govern such suits. Directs the FTC to: (1) establish a clearinghouse for inquiries made to Federal agencies concerning telemarketing; and (2) study and report to specified congressional committees, within 12 months of this Act's enactment, on telemarketing telephone calls generated by computers.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="1038" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-10"/>
+  </status>
+  <introduced datetime="1987-04-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Land and Water Conservation Fund Act of 1965, as amended, and for other purposes.</title>
+  </titles>
+  <sponsor id="407355"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3821"/>
+    <bill relation="identical" session="100" type="h" number="3821"/>
+  </relatedbills>
+  <subjects>
+    <term name="Recreation"/>
+    <term name="Economics and public finance"/>
+    <term name="Forests and forest products"/>
+    <term name="Government trust funds"/>
+    <term name="Labor and employment"/>
+    <term name="National forests"/>
+    <term name="National recreation areas"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="User charges"/>
+    <term name="Volunteer workers"/>
+    <term name="Volunteer workers in recreation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/10/1987--Introduced.
+Title I: Amendment to Land and Water Conservation Fund Act - Amends the Land and Water Conservation Fund Act of 1965 to direct the Secretary of Agriculture to charge and collect recreation use fees for specialized recreation sites, services, or facilities and for areas where services and facilities are provided to accommodate heavy public use. Gives a 50 percent discount to Golden Age Passport holders. Title II: National Forest System Recreation Use Fee Expenditures - Places recreation receipts in a special Treasury fund for recreation area operation and rehabilitation. Authorizes the contracting out or use of volunteers for recreation use fee collection. Authorizes the Secretary to accept donations to defray recreation program costs within the National Forest System.</summary>
+</bill>

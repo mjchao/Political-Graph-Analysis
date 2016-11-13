@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="2364" updated="2014-03-22T09:52:20-04:00">
+  <state datetime="1987-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-11"/>
+  </status>
+  <introduced datetime="1987-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title I of the Employee Retirement Income Security Act of 1974 to exempt from preemption under such title any provision of law of the State of Minnesota which requires employers to provide health coverage for employees and which is not inconsistent with the requirements of such title.</title>
+  </titles>
+  <sponsor id="404325"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-11" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Business and commerce"/>
+    <term name="Employee benefit plans"/>
+    <term name="Federal preemption"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+    <term name="Minnesota"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1987--Introduced.
+Amends the Employee Retirement Income Security Act of 1974 to exempt from preemption any provision of law of the State of Minnesota which requires employers to provide health coverage for employees and which is not inconsistent with the requirements of such Act.</summary>
+</bill>

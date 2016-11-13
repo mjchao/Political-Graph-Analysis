@@ -1,0 +1,48 @@
+<bill session="100" type="sj" number="120" updated="2014-03-22T09:54:22-04:00">
+  <state datetime="1987-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-30"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to void certain agreements relating to the site of the Soviet Union's embassy in the District of Columbia.</title>
+  </titles>
+  <sponsor id="410588"/>
+  <cosponsors>
+    <cosponsor id="300016" joined="1987-04-30"/>
+    <cosponsor id="300026" joined="1987-05-01"/>
+    <cosponsor id="300048" joined="1987-05-19"/>
+    <cosponsor id="300154" joined="1987-05-12"/>
+    <cosponsor id="300071" joined="1987-06-11"/>
+    <cosponsor id="300079" joined="1987-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="262"/>
+    <bill relation="identical" session="100" type="hj" number="262"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Consular agreements"/>
+    <term name="District of Columbia"/>
+    <term name="Embassies"/>
+    <term name="Espionage"/>
+    <term name="Federal installations"/>
+    <term name="Government operations and politics"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="National security crimes"/>
+    <term name="Negotiations"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Makes congressional findings concerning Soviet espionage activities at the new American Embassy in Moscow and the location of the new Soviet Embassy in Washington, D.C. Directs the President to: (1) void the current Embassy agreements with the Soviet Union; and (2) enter into negotiations for a new agreement under which the Soviet Union will move its new Embassy to a site in Washington, D.C., which is not more than 90 feet above mean sea level.</summary>
+</bill>

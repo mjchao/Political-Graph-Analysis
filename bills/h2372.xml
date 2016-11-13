@@ -1,0 +1,74 @@
+<bill session="100" type="h" number="2372" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1987-06-16">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-16"/>
+  </status>
+  <introduced datetime="1987-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to exempt natural gas liquids from the minimum price requirement for petroleum produced from the naval petroleum reserves.</title>
+  </titles>
+  <sponsor id="409793"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-11" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Executive Comment Requested from DOE.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Referred to Subcommittee on Investigations.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-16" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-07-01">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Reported to House by House Committee on Energy and Commerce. Report No: 100-267 (Part I).</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAS06" subcommittee="Investigations" name="House Armed Services"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy policy"/>
+    <term name="Liquefied natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Petroleum prices"/>
+    <term name="Petroleum reserves"/>
+    <term name="Price regulation"/>
+    <term name="Strategic materials"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1987--Introduced.
+Amends Federal law regarding the minimum price requirements for petroleum produced from the naval petroleum reserves to exempt natural gas liquids from the definition of petroleum.</summary>
+</bill>

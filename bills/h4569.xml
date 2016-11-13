@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4569" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-05-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-11"/>
+  </status>
+  <introduced datetime="1988-05-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of Agriculture to undertake actions to limit damage to natural resources and deterioration of wood fiber on certain national forests damaged by wildfire during 1987, and for other purposes.</title>
+  </titles>
+  <sponsor id="401612"/>
+  <cosponsors>
+    <cosponsor id="400176" joined="1988-05-11"/>
+    <cosponsor id="409887" joined="1988-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-11" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Forest fires"/>
+    <term name="Forest products"/>
+    <term name="Forests and forest products"/>
+    <term name="Forests and forestry"/>
+    <term name="Lumber trade"/>
+    <term name="National forests"/>
+    <term name="Reforestation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/11/1988--Introduced.
+Directs the Secretary of Agriculture to take actions to assure: (1) salvage of 1987 fire damaged timber on specified national forest lands; and (2) access to fire damaged areas for salvage, rehabilitation, and reforestation purposes.</summary>
+</bill>

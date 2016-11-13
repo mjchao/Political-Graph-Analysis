@@ -1,0 +1,56 @@
+<bill session="100" type="hr" number="571" updated="2014-03-22T09:51:03-04:00">
+  <state datetime="1988-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-10-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution in support of the President's policy regarding Soviet ABM Treaty violations.</title>
+  </titles>
+  <sponsor id="400055"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="1988-10-13"/>
+    <cosponsor id="400018" joined="1988-10-13"/>
+    <cosponsor id="402463" joined="1988-10-13"/>
+    <cosponsor id="400085" joined="1988-10-13"/>
+    <cosponsor id="403545" joined="1988-10-13"/>
+    <cosponsor id="403864" joined="1988-10-13"/>
+    <cosponsor id="400176" joined="1988-10-13"/>
+    <cosponsor id="405448" joined="1988-10-13"/>
+    <cosponsor id="400191" joined="1988-10-04"/>
+    <cosponsor id="406530" joined="1988-10-13"/>
+    <cosponsor id="406995" joined="1988-10-13"/>
+    <cosponsor id="408490" joined="1988-10-13"/>
+    <cosponsor id="410455" joined="1988-10-13"/>
+    <cosponsor id="410574" joined="1988-10-13"/>
+    <cosponsor id="400428" joined="1988-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-04" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-10-17">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Antimissile missiles"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Defense articles"/>
+    <term name="Radar defense networks"/>
+    <term name="Strategic forces"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Introduced.
+Supports the continuation of settled natonal policy that unequivocal violations of the Anti-Ballistic Missile Treaty by the Soviet Union, such as the radar at Krasnoyarsk, must be corrected before the conclusion of any future agreement on strategic arms. Urges the President to work with the Congress to develop appropriate response options to such violations.</summary>
+</bill>

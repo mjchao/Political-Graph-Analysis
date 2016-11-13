@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="383" updated="2014-03-22T09:51:19-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to provide that members of the United States Park Police and the United States Secret Service Uniformed Division shall, for purposes of premium pay, be treated in the same manner as other employees of the Federal Government.</title>
+  </titles>
+  <sponsor id="408313"/>
+  <cosponsors>
+    <cosponsor id="400536" joined="1987-02-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Executive Comment Requested from OMB, OPM.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service compensation"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Department of the Interior"/>
+    <term name="Department of the Treasury"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Law enforcement officers"/>
+    <term name="Salaries"/>
+    <term name="Secret service"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Provides that members of the United States Park Police and the United States Secret Service Uniformed Division shall, for purposes of premium pay, be treated in the same manner as other Federal employees.</summary>
+</bill>

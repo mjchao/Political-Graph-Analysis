@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="2162" updated="2014-03-22T09:52:14-04:00">
+  <state datetime="1987-04-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-23"/>
+  </status>
+  <introduced datetime="1987-04-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to expand the group eligibility requirements for worker trade readjustment allowance to include workers for parts and services suppliers, and to lengthen by 13 weeks the period in which such allowance may be paid if training is being undertaken.</title>
+  </titles>
+  <sponsor id="411901"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-23" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Employment and training programs"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Government and business"/>
+    <term name="Imports"/>
+    <term name="Labor and employment"/>
+    <term name="Manpower training programs"/>
+    <term name="Trade adjustment assistance"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>4/23/1987--Introduced.
+Amends the Trade Act of 1974 to expand the group eligibility requirements for worker trade adjustment assistance to include workers who provide essential parts or services for a firm. Extends the period from 26 to 39 weeks that an eligible worker may receive such assistance during job training approved under the Act.</summary>
+</bill>

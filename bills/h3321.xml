@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="3321" updated="2014-03-22T09:52:49-04:00">
+  <state datetime="1987-09-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-22"/>
+  </status>
+  <introduced datetime="1987-09-22"/>
+  <titles>
+    <title type="short" as="introduced">Cable Channel Shifting Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Communications Act of 1934 so as to enable local cable franchising authorities to specify, in the franchise or by any other means, the cable channel position of local stations.</title>
+  </titles>
+  <sponsor id="401947"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="1988-02-03"/>
+    <cosponsor id="400081" joined="1987-11-18"/>
+    <cosponsor id="400100" joined="1987-11-18"/>
+    <cosponsor id="404068" joined="1987-11-18"/>
+    <cosponsor id="406740" joined="1987-12-18"/>
+    <cosponsor id="407967" joined="1988-02-03"/>
+    <cosponsor id="408407" joined="1987-11-18"/>
+    <cosponsor id="409534" joined="1987-11-18"/>
+    <cosponsor id="300091" joined="1987-11-18"/>
+    <cosponsor id="400387" joined="1987-11-18"/>
+    <cosponsor id="410567" joined="1987-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-22" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Cable television"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Educational television"/>
+    <term name="Federal-local relations"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Public television"/>
+    <term name="Television"/>
+  </subjects>
+  <amendments/>
+  <summary>9/22/1987--Introduced.
+Cable Channel Shifting Act of 1987 - Amends the Communications Act of 1934 to enable any local cable franchising authority to specify the channel or service tier on which the cable system must carry: (1) any channel designated for public, educational, or governmental uses; and (2) any broadcast signal required to be carried under Federal law.</summary>
+</bill>

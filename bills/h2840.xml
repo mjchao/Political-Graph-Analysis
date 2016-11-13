@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="2840" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1987-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-29"/>
+  </status>
+  <introduced datetime="1987-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to waive the statute of limitations to award the Congressional Medal of Honor to Ensign George Gay.</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-29" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-07-06">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-07-06">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Military medals, decorations, etc."/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1987--Introduced.
+Authorizes the President, notwithstanding certain limitations, to award a medal of honor to a named individual for acts of valor performed by him in 1942.</summary>
+</bill>

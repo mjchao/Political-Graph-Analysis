@@ -1,0 +1,89 @@
+<bill session="100" type="h" number="4535" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-09-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-20"/>
+  </status>
+  <introduced datetime="1988-05-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the outpatient clinic of the Veterans' Administration to be located on New Jersey State Route 70 in Brick Township, New Jersey, as the "James J. Howard Veterans' Outpatient Clinic".</title>
+  </titles>
+  <sponsor id="409344"/>
+  <cosponsors>
+    <cosponsor id="402928" joined="1988-05-04"/>
+    <cosponsor id="403689" joined="1988-05-04"/>
+    <cosponsor id="404170" joined="1988-05-04"/>
+    <cosponsor id="404401" joined="1988-05-04"/>
+    <cosponsor id="404856" joined="1988-05-04"/>
+    <cosponsor id="405006" joined="1988-05-04"/>
+    <cosponsor id="405313" joined="1988-09-16"/>
+    <cosponsor id="405775" joined="1988-05-04"/>
+    <cosponsor id="405985" joined="1988-09-16"/>
+    <cosponsor id="406682" joined="1988-09-16"/>
+    <cosponsor id="407838" joined="1988-05-04"/>
+    <cosponsor id="409205" joined="1988-09-16"/>
+    <cosponsor id="409237" joined="1988-05-04"/>
+    <cosponsor id="409353" joined="1988-05-04"/>
+    <cosponsor id="400533" joined="1988-05-04"/>
+    <cosponsor id="400359" joined="1988-05-04"/>
+    <cosponsor id="400380" joined="1988-05-04"/>
+    <cosponsor id="410147" joined="1988-05-04"/>
+    <cosponsor id="300156" joined="1988-05-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-04" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Referred to Subcommittee on Hospitals and Health Care.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-09-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-15" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-16">
+      <text>Reported to House by House Committee on Veterans' Affairs. Report No: 100-935.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Placed on House Calendar No: 212.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Hospitals and Health Care" name="House Veterans' Affairs"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2476"/>
+    <bill relation="identical" session="100" type="s" number="2476"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Ambulatory care"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Names"/>
+    <term name="New Jersey"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>5/4/1988--Introduced.
+Designates the outpatient clinic of the Veterans Administration located in Brick Township, New Jersey, as the James J. Howard Veterans' Outpatient Clinic.</summary>
+</bill>

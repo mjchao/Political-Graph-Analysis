@@ -1,0 +1,82 @@
+<bill session="100" type="h" number="4243" updated="2014-03-22T09:51:34-04:00">
+  <state datetime="1988-04-25">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-04-25"/>
+  </status>
+  <introduced datetime="1988-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Genocide Convention Implementation Act of 1988</title>
+    <title type="short" as="reported to house">Genocide Convention Implementation Act of 1988</title>
+    <title type="short" as="passed house">Genocide Convention Implementation Act of 1988</title>
+    <title type="official" as="introduced">A bill to implement the International Convention on the Prevention and Punishment of Genocide.</title>
+  </titles>
+  <sponsor id="409344"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1988-03-23"/>
+    <cosponsor id="400064" joined="1988-03-30"/>
+    <cosponsor id="404006" joined="1988-03-28"/>
+    <cosponsor id="400140" joined="1988-03-28"/>
+    <cosponsor id="404376" joined="1988-03-28"/>
+    <cosponsor id="405775" joined="1988-03-31"/>
+    <cosponsor id="406191" joined="1988-03-28"/>
+    <cosponsor id="400216" joined="1988-03-28"/>
+    <cosponsor id="406765" joined="1988-03-30"/>
+    <cosponsor id="407306" joined="1988-03-23"/>
+    <cosponsor id="411025" joined="1988-03-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-23" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>For Previous Action See H.R.807.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-03-31" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-04-13">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-566.</text>
+    </action>
+    <action datetime="1988-04-13">
+      <text>Placed on Union Calendar No: 341.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-25" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-26">
+      <text>Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.</text>
+    </action>
+    <calendar datetime="1988-04-28" calendar="Senate Legislative" under="General Orders" number="643">
+      <text>Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 643.</text>
+    </calendar>
+    <action datetime="1988-10-14">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="807"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Genocide"/>
+    <term name="Human rights"/>
+    <term name="International affairs"/>
+    <term name="Sentences (Criminal procedure)"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/1988--Passed House amended.
+(Measure passed House, amended) Genocide Convention Implementation Act of 1988 - Amends the Federal criminal code to establish the criminal offense of genocide. Sets forth penalties for anyone who commits or attempts to commit any of the acts which constitute genocide (a fine of up to $1,000,000 and/or imprisonment for up to 20 years, and life imprisonment if group members are killed). Sets forth criminal penalties (a fine of $500,000 and/or imprisonment for up to five years) for directly and publicly inciting an act of genocide. States that nothing in this Act: (1) precludes the application of State or local laws on the same subject; or (2) creates any Federal civil remedy with respect to the prohibited conduct.</summary>
+</bill>

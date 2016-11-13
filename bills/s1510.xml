@@ -1,0 +1,50 @@
+<bill session="100" type="s" number="1510" updated="2014-03-22T09:55:21-04:00">
+  <state datetime="1987-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-07-21"/>
+  <titles>
+    <title type="short" as="introduced">Comprehensive Agent Orange Scientific Evidence Review Act of 1987</title>
+    <title type="official" as="introduced">A bill to require the Administrator of Veterans' Affairs to arrange for the review by the National Academy of Sciences of scientific evidence, studies, and literature pertaining to the human health effects of exposure to Agent Orange and its component compounds and the issuance of a report on the Academy's conclusions as to the weight of the evidence regarding the health effects in humans of exposure to Agent Orange, and for other purposes.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="1987-07-28"/>
+    <cosponsor id="402023" joined="1987-07-29"/>
+    <cosponsor id="402990" joined="1987-07-21"/>
+    <cosponsor id="404679" joined="1987-09-29"/>
+    <cosponsor id="405321" joined="1987-07-29"/>
+    <cosponsor id="408597" joined="1987-10-06"/>
+    <cosponsor id="300084" joined="1987-07-28"/>
+    <cosponsor id="409917" joined="1987-07-30"/>
+    <cosponsor id="300092" joined="1987-07-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <calendar datetime="1987-07-31" state="REPORTED">
+      <text>Committee on Veterans. Provisions of measure incorporated into measure S. 9 ordered to be reported.</text>
+    </calendar>
+    <action datetime="1987-12-17">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="9"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Agent Orange"/>
+    <term name="Health"/>
+    <term name="Medical research"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>7/21/1987--Introduced.
+Comprehensive Agent Orange Scientific Evidence Review Act of 1987 - Direct the Administrator of Veterans Affairs, within 60 days after the enactment of this Act, to enter into an agreement with the National Academy of Sciences (the Academy) under which the Academy will conduct a review of all scientific evidence, studies, and literature pertaining to the human health effects of exposure to agent orange and its component compounds and prepare the comprehensive report described later in this Act. Directs the Administrator to enter into a similar arrangement with another nonprofit scientific entity if the Academy is not willing to conduct such review and prepare the required report. Prohibits the Administrator from obligating any funds for use by another nonprofit scientific entity until specifically authorized to do so by a law enacted after the date of enactment of this Act. Directs the Administrator, no later than October 1, 1988, to transmit to the Senate and House Veterans' Affairs Committees a report prepared by the Academy or other appropriate entity describing the review conducted under this Act and containing a statement of their conclusions as to the human health effects of exposure to agent orange and its compounds. Authorizes appropriations for FY 1988 to carry out this Act.</summary>
+</bill>

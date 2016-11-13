@@ -1,0 +1,34 @@
+<bill session="100" type="sc" number="25" updated="2014-03-22T09:54:40-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to establish a Joint Committee on Intelligence Oversight.</title>
+  </titles>
+  <sponsor id="408970"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1987-03-03"/>
+    <cosponsor id="406190" joined="1987-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional joint committees"/>
+    <term name="Congressional oversight"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Establishes a congressional Joint Committee on Intelligence Oversight to oversee and make continuing studies of Federal intelligence activities.</summary>
+</bill>

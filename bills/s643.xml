@@ -1,0 +1,58 @@
+<bill session="100" type="s" number="643" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-04-08">REPORTED</state>
+  <status>
+    <unknown datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 402 of the Surface Mining Control and Reclamation Act of 1977 to permit states to set aside in a special trust fund up to 10 percent of the annual state allocation from the Abandoned Mine Land Reclamation fund for expenditure in the future for purposes of abandoned mine reclamation.</title>
+  </titles>
+  <sponsor id="411271"/>
+  <cosponsors>
+    <cosponsor id="409923" joined="1987-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Mineral Resources and Development.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Subcommittee on Mineral Resources and Development. Hearings held. Hearings printed:  S.Hrg. 100-30.</text>
+    </action>
+    <calendar datetime="1987-04-08" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-04-10">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-37.</text>
+    </action>
+    <calendar datetime="1987-04-10" calendar="Senate Legislative" under="General Orders" number="89">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 89.</text>
+    </calendar>
+    <action datetime="1987-05-12">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG05" subcommittee="Mineral Resources Development and Production" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1434"/>
+    <bill relation="identical" session="100" type="h" number="1434"/>
+  </relatedbills>
+  <subjects>
+    <term name="Mines and mineral resources"/>
+    <term name="Coal"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="Reclamation of land"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Strip mining"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Amends the Surface Mining Control and Reclamation Act of 1977 to authorize the States to receive (without regard to a specified three-year limitation) up to ten percent of the annual State allocation if such moneys are deposited in a special trust fund established under State law solely for abandoned mine reclamation purposes. Deems all moneys so allocated to the special trust accounts (including all interest earned) to be State funds.</summary>
+</bill>

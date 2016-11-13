@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="3016" updated="2014-03-22T09:52:36-04:00">
+  <state datetime="1987-07-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-23"/>
+  </status>
+  <introduced datetime="1987-07-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Dale B. Thompson.</title>
+  </titles>
+  <sponsor id="400898"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-23" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>7/23/1987--Introduced.
+Relieves a named individual of all liability to repay to the United States a specified sum representing money advanced for relocation and travel expenses arising from such individual's transfer to employment with the National Park Service. Directs the Secretary of the Treasury to pay a specified sum to such individual in full satisfaction of any claim against the United States arising out of the improper issuance by the Department of the Interior of authorizations with respect to reimbursement of such expenses.</summary>
+</bill>

@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="1391" updated="2014-03-22T09:55:18-04:00">
+  <state datetime="1987-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-18"/>
+  </status>
+  <introduced datetime="1987-06-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Surface Transportation Assistance Act of 1982.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors>
+    <cosponsor id="406183" joined="1988-07-06"/>
+    <cosponsor id="406190" joined="1988-04-28"/>
+    <cosponsor id="408898" joined="1988-06-09"/>
+    <cosponsor id="409225" joined="1988-07-13"/>
+    <cosponsor id="409923" joined="1988-10-12"/>
+    <cosponsor id="300094" joined="1987-10-14"/>
+    <cosponsor id="410588" joined="1988-08-05"/>
+    <cosponsor id="410936" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-18" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Subcommittee on Surface Transportation. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSCM08" subcommittee="Surface Transportation" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Common carriers"/>
+    <term name="Federal preemption"/>
+    <term name="Federal-local relations"/>
+    <term name="Interstate highway system"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicles"/>
+    <term name="Roads and highways"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/1987--Introduced.
+Amends the Surface Transportation Assistance Act of 1982 to define the terms "reasonable access" and "terminals" (thus providing a uniform statutory standard for commercial motor vehicle operation on the Interstate Highway system and the primary highway system). Sets forth circumstances under which a State or local government may impose commercial motor vehicle restrictions upon such highways.</summary>
+</bill>

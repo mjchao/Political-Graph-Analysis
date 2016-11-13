@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="1799" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-20"/>
+  </status>
+  <introduced datetime="1987-10-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to ensure the use of the H2A Agricultural Workers Program for all of agriculture, and for other purposes.</title>
+  </titles>
+  <sponsor id="300159"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-11-10">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Agricultural labor"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Alien labor"/>
+    <term name="Aliens"/>
+    <term name="Labor and employment"/>
+    <term name="Livestock"/>
+    <term name="Migrant labor"/>
+    <term name="Poultry"/>
+    <term name="Seasonal labor"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1987--Introduced.
+Amends the Immigration and Nationality Act with respect to nonimmigrant classification for temporary agricultural workers under the H-2A program. Defines the temporary or seasonal work addressed in the H-2A program to include work related to both the production of agricultural commodities and the breeding and preparation for market of poultry and livestock of all kinds, regardless of the time of year when the work is required. Permits a worker under the program to petition to the Secretary of Labor for certification if the work demands the worker's presence for a year or more.</summary>
+</bill>

@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="235" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Clean Air Act to provide that the Administrator of the Environmental Protection Agency shall have authority to regulate air pollution on and over the outer continental shelf.</title>
+  </titles>
+  <sponsor id="411762"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air pollution control"/>
+    <term name="Continental shelf"/>
+    <term name="Ocean"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Clean Air Act to grant the Administrator of the Environmental Protection Agency authority to regulate air pollution resulting from an activity regulated under the Outer Continental Shelf Lands Act.</summary>
+</bill>

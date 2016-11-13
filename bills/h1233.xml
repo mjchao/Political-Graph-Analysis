@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="1233" updated="2014-03-22T09:51:45-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to increase the tax on cigarettes to 40 cents per pack, and to provide annual adjustments to the rate of such tax based on increases in the cost-of-living.</title>
+  </titles>
+  <sponsor id="401310"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1987-03-25"/>
+    <cosponsor id="400975" joined="1987-02-25"/>
+    <cosponsor id="402763" joined="1987-02-25"/>
+    <cosponsor id="400140" joined="1987-02-25"/>
+    <cosponsor id="405939" joined="1987-02-25"/>
+    <cosponsor id="400205" joined="1987-02-25"/>
+    <cosponsor id="406765" joined="1987-02-25"/>
+    <cosponsor id="409632" joined="1987-02-25"/>
+    <cosponsor id="400612" joined="1987-02-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Cigarettes"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Economics and public finance"/>
+    <term name="Excise tax"/>
+    <term name="Inflation"/>
+    <term name="Tobacco"/>
+    <term name="Tobacco tax"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Amends the Internal Revenue Code to increase the excise tax on: (1) small cigarettes from $8 to $20 per thousand; and (2) large cigarettes from $16.80 to $42 per thousand. Provides for cost-of-living adjustments in the amount of such tax.</summary>
+</bill>

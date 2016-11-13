@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="4771" updated="2014-03-22T09:53:24-04:00">
+  <state datetime="1988-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-08"/>
+  </status>
+  <introduced datetime="1988-06-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Election Campaign Act of 1971 to require clear identification of candidates for election to Federal office in their television advertisements, to amend title 18, United States Code, with respect to criminal penalties for such candidates who use false campaign material, and for other purposes.</title>
+  </titles>
+  <sponsor id="407051"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-08" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-06-08">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Political advertising"/>
+    <term name="Television"/>
+    <term name="Television in politics"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/1988--Introduced.
+Amends the Federal Election Campaign Act of 1971 to require any television advertisement of a candidate for election to a Federal office to include a clearly readable identification of the candidate, by name and party affiliation, that is readable for the entire length of the advertisement. Prohibits a television advertisement from including the name of an opposing candidate unless such candidate's name is spoken, in every instance, on camera by the candidate paying for the advertisement. Amends the Federal criminal code to impose penalties upon candidates who use false or unsubstantiated campaign material.</summary>
+</bill>

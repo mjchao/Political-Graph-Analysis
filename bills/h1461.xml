@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="1461" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Trade Act of 1974 to provide for financial assistance for supplemental worker training programs, and for other purposes.</title>
+  </titles>
+  <sponsor id="409654"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Business and commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Employment and training programs"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Government and business"/>
+    <term name="Government lending"/>
+    <term name="Government trust funds"/>
+    <term name="Grants-in-aid"/>
+    <term name="Imports"/>
+    <term name="Labor and employment"/>
+    <term name="Manpower training programs"/>
+    <term name="Trade adjustment assistance"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Amends the Trade Act of 1974 to authorize the Secretary of Commerce to provide adjustment assistance in the form of grants and loans to support training programs administered by educational institutions and by firms for workers eligible to receive such training. Limits the aggregate amount of assistance that may be loaned or granted. Prohibits the Secretary from providing such training program assistance unless such program meets specified standards. Permits the Secretary to exempt any training program from such prohibition if the Secretary considers such program to contain innovative training methods that merit testing. Limits monies available for such innovative programs. Establishes in the Treasury the Supplemental Training Fund to provide assistance under this Act.</summary>
+</bill>

@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="5470" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-10-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Luisito B. Deguzman.</title>
+  </titles>
+  <sponsor id="400191"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-05" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-10-17">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Introduced.
+Prohibits any actions of a named individual of which the Department of State or the Department of Justice had prior knowledge from: (1) being the basis of his deportation; (2) affecting his immigrant status; and (3) being considered for purposes of his admission into the United States. Directs the Attorney General to cancel any outstanding orders and warrants of deportation which may have been issued.</summary>
+</bill>

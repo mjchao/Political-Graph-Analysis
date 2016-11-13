@@ -1,0 +1,49 @@
+<bill session="100" type="hj" number="341" updated="2014-03-22T09:53:54-04:00">
+  <state datetime="1987-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-22"/>
+  </status>
+  <introduced datetime="1987-07-22"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution disapproving the action of the District of Columbia Council in approving the "Prison Overcrowding Emergency Powers Act of 1987," D.C. Act 7-56.</title>
+  </titles>
+  <sponsor id="408490"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-22" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Referred to Subcommittee on Judiciary and Education.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-08">
+      <text>District of Columbia Committee Voted to Reject Measure.</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Motion to Table The Discharge Motion Agreed to by Yea-Nay Vote: 210 -  200 (Record Vote No: 353).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral"/>
+    <committee activity="Referral, Hearings" code="HSDT03" subcommittee="Judiciary and Education" name="House District of Columbia"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Correctional institutions"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="District of Columbia"/>
+    <term name="Municipal ordinances"/>
+    <term name="Municipal politics and government"/>
+    <term name="Prisons"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/1987--Introduced.
+Disapproves the action of the District of Columbia Council in enacting the Prison Overcrowding Emergency Powers Act of 1987.</summary>
+</bill>

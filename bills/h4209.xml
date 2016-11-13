@@ -1,0 +1,89 @@
+<bill session="100" type="h" number="4209" updated="2014-03-22T09:53:07-04:00">
+  <state datetime="1988-10-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-28"/>
+  </status>
+  <introduced datetime="1988-03-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations to carry out title I of the Marine Protection, Research, and Sanctuaries Act of 1972 during fiscal years 1989, 1990, and 1991.</title>
+  </titles>
+  <sponsor id="406974"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1988-03-21"/>
+    <cosponsor id="405775" joined="1988-03-21"/>
+    <cosponsor id="406148" joined="1988-03-21"/>
+    <cosponsor id="400359" joined="1988-03-21"/>
+    <cosponsor id="409644" joined="1988-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-21" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-03-25">
+      <text>Executive Comment Requested from Commerce, Army Corps of Engineers, EPA.</text>
+    </action>
+    <action datetime="1988-03-25">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-03-25">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-27">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-14" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-536" type="public" datetime="1988-10-28">
+      <text>Became Public Law No: 100-536.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2761"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Authorization"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Economics and public finance"/>
+    <term name="Marine resources conservation"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/1988--Introduced.
+Amends title I (regulation of ocean dumping) of the Marine Protection, Research, and Sanctuaries Act of 1972 to authorize appropriations through FY 1991.</summary>
+</bill>

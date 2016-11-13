@@ -1,0 +1,72 @@
+<bill session="100" type="hj" number="590" updated="2014-03-22T09:54:02-04:00">
+  <state datetime="1988-06-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-09"/>
+  </status>
+  <introduced datetime="1988-06-09"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to prohibit the proposed sale to Japan of an AEGIS Combat System (transmittal number 88-25).</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors>
+    <cosponsor id="400844" joined="1988-06-30"/>
+    <cosponsor id="401383" joined="1988-06-20"/>
+    <cosponsor id="401417" joined="1988-07-07"/>
+    <cosponsor id="401418" joined="1988-07-07"/>
+    <cosponsor id="402114" joined="1988-08-03"/>
+    <cosponsor id="403184" joined="1988-06-20"/>
+    <cosponsor id="403364" joined="1988-06-22"/>
+    <cosponsor id="403726" joined="1988-08-03"/>
+    <cosponsor id="404068" joined="1988-06-30"/>
+    <cosponsor id="405775" joined="1988-08-03"/>
+    <cosponsor id="400191" joined="1988-06-20"/>
+    <cosponsor id="400231" joined="1988-06-20"/>
+    <cosponsor id="407141" joined="1988-06-22"/>
+    <cosponsor id="408023" joined="1988-06-20"/>
+    <cosponsor id="400306" joined="1988-06-20"/>
+    <cosponsor id="408976" joined="1988-07-07"/>
+    <cosponsor id="409237" joined="1988-06-30"/>
+    <cosponsor id="409325" joined="1988-06-20"/>
+    <cosponsor id="400369" joined="1988-06-20"/>
+    <cosponsor id="300091" joined="1988-06-20"/>
+    <cosponsor id="300156" joined="1988-06-20"/>
+    <cosponsor id="400612" joined="1988-06-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-09" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral, Hearings" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Arms sales"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Japan"/>
+    <term name="Radar"/>
+    <term name="Weapons"/>
+  </subjects>
+  <amendments/>
+  <summary>6/9/1988--Introduced.
+Prohibits the proposed sale to Japan of the AEGIS Combat System and related defense articles and defense services.</summary>
+</bill>

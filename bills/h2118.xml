@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="2118" updated="2014-03-22T09:52:13-04:00">
+  <state datetime="1987-04-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-22"/>
+  </status>
+  <introduced datetime="1987-04-22"/>
+  <titles>
+    <title type="short" as="introduced">Railroad Safety Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Hazardous Materials Transportation Act to place certain restrictions on the transportation of radioactive waste and for other purposes.</title>
+  </titles>
+  <sponsor id="401986"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-06-10"/>
+    <cosponsor id="400975" joined="1987-06-10"/>
+    <cosponsor id="401446" joined="1987-06-10"/>
+    <cosponsor id="404422" joined="1987-06-10"/>
+    <cosponsor id="404750" joined="1987-06-10"/>
+    <cosponsor id="400211" joined="1987-06-10"/>
+    <cosponsor id="400595" joined="1987-06-10"/>
+    <cosponsor id="400306" joined="1987-06-10"/>
+    <cosponsor id="400409" joined="1987-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-22" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-27">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Energy policy"/>
+    <term name="Environmental protection"/>
+    <term name="Federal-local relations"/>
+    <term name="Government paperwork"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Nuclear energy"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Radioactive wastes"/>
+    <term name="Railroad safety"/>
+    <term name="Railroads"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation of hazardous substances"/>
+    <term name="Urban affairs"/>
+    <term name="Urban transportation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/22/1987--Introduced.
+Railroad Safety Act of 1987 - Amends the Hazardous Materials Transportation Act to prohibit radioactive waste from being transported by rail through any high-density metropolitan area. Authorizes the Secretary of Transportation to allow rail transportation of such waste through such an area when no reasonable alternative route is available. Requires the Nuclear Regulatory Commission to require 30 days' notice of the shipment of nuclear waste, and to require that such notice be published in the Federal Register.</summary>
+</bill>

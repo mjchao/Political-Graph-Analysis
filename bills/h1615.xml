@@ -1,0 +1,79 @@
+<bill session="100" type="h" number="1615" updated="2014-03-22T09:51:54-04:00">
+  <state datetime="1987-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-16"/>
+  </status>
+  <introduced datetime="1987-03-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the Government Information Agency to enhance the economic, scientific, and technological position of the United States by acquiring, processing, and distributing the fruits of federally-performed and federally-sponsored research, development, and analysis, and for other purposes.</title>
+  </titles>
+  <sponsor id="400572"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-05-12"/>
+    <cosponsor id="401582" joined="1987-03-16"/>
+    <cosponsor id="300011" joined="1987-03-16"/>
+    <cosponsor id="402626" joined="1987-06-02"/>
+    <cosponsor id="404422" joined="1987-03-16"/>
+    <cosponsor id="405775" joined="1987-05-12"/>
+    <cosponsor id="400306" joined="1987-03-16"/>
+    <cosponsor id="410145" joined="1987-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-16" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+    <action datetime="1987-03-27">
+      <text>Referred to Subcommittee on Government Information, Justice, and Agriculture.</text>
+    </action>
+    <action datetime="1987-03-27">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1987-04-27">
+      <text>Referred to Subcommittee on Rules of the House.</text>
+    </action>
+    <action datetime="1987-07-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSGO02" subcommittee="Government Information, Justice, and Agriculture" name="House Government Operations"/>
+    <committee activity="Referral" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSRU01" subcommittee="Rules of the House" name="House Rules"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional joint committees"/>
+    <term name="Congressional oversight"/>
+    <term name="Department of Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive reorganization"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Government trust funds"/>
+    <term name="Information policy"/>
+    <term name="Information services"/>
+    <term name="Research and development"/>
+    <term name="Revolving funds"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/1987--Introduced.
+Title I: Government Information Agency - Establishes the Government Information Agency to be headed by an Administrator and Deputy Administrator, both appointed by the President, by and with advice and consent of the Senate. Declares the mission of the Agency to be to enhance the economic, scientific, and technological position of the United States by acquiring, processing, and selling the results of federally-performed and federally-sponsored research, development, and analysis. Describes the functions of the Agency with respect to collecting and disseminating information. Requires the Agency to collect, maintain, and make available information on the results of foreign research, development, and analysis. Establishes a revolving fund in the Treasury to provide working capital for the Agency. Transfers the following functions to the Agency and the Administrator: (1) the National Technical Information Service of the Department of Commerce; and (2) all functions of the Federal Government which relate to the sale or distribution of Government information as determined by the Director of the Office of Management and Budget. Requires each Federal agency to provide to the Administrator a copy of all information developed or received by the Federal agency in connection with research, development, or analysis performed, sponsored, or contracted by that agency. Sets forth administrative provisions for the Administrator and the Agency. Sets forth provisions regarding the transfer of personnel to the Agency. Authorizes appropriations. Title II: Oversight - Establishes a Joint Committee on Government Information to have oversight responsibilities with respect to the Government Information Agency. Declares such joint committee to be non-legislative.</summary>
+</bill>

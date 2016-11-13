@@ -1,0 +1,51 @@
+<bill session="100" type="sc" number="152" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-10-07">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-07"/>
+  </status>
+  <introduced datetime="1988-10-04"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution commending the Republic of Korea in hosting the Games of the XXIV Olympiad, and for other purposes.</title>
+  </titles>
+  <sponsor id="300070"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1988-10-07"/>
+    <cosponsor id="402990" joined="1988-10-04"/>
+    <cosponsor id="300154" joined="1988-10-05"/>
+    <cosponsor id="300150" joined="1988-10-04"/>
+    <cosponsor id="408597" joined="1988-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-04" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Commemorations"/>
+    <term name="International affairs"/>
+    <term name="Olympic games"/>
+    <term name="South Korea"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Introduced.
+Salutes the Republic of Korea for successfully hosting the XXIV Olympiad. Expresses the appreciation of the American people for the warmth, generosity, and hospitality extended by the people of Korea.</summary>
+</bill>

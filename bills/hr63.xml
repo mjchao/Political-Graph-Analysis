@@ -1,0 +1,38 @@
+<bill session="100" type="hr" number="63" updated="2014-03-22T09:50:55-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing amounts from the contingent fund of the House for expenses of investigations and studies by the Committee on Education and Labor in the first session of the One Hundredth Congress.</title>
+  </titles>
+  <sponsor id="405236"/>
+  <cosponsors>
+    <cosponsor id="300057" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Accounts.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA01" subcommittee="Accounts" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committee staffing"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Government consultants"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Authorizes expenditures by the House Committee on Education and Labor for the first session of the 100th Congress, including the procurement of consultant services and assistance for specialized training for its professional staff.</summary>
+</bill>

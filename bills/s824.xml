@@ -1,0 +1,55 @@
+<bill session="100" type="s" number="824" updated="2016-06-29T08:45:37-04:00">
+  <state datetime="1987-03-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-24"/>
+  </status>
+  <introduced datetime="1987-03-24"/>
+  <titles>
+    <title type="short" as="introduced">Torture Victim Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish clearly a Federal right of action by aliens and United States citizens against persons engaging in torture or extrajudicial killing, and for other purposes.</title>
+  </titles>
+  <sponsor id="300092"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1987-07-30"/>
+    <cosponsor id="402727" joined="1987-11-13"/>
+    <cosponsor id="402990" joined="1987-11-19"/>
+    <cosponsor id="300031" joined="1987-11-05"/>
+    <cosponsor id="300053" joined="1987-06-10"/>
+    <cosponsor id="300060" joined="1988-01-25"/>
+    <cosponsor id="300065" joined="1987-06-23"/>
+    <cosponsor id="300066" joined="1987-06-16"/>
+    <cosponsor id="407663" joined="1988-02-16"/>
+    <cosponsor id="300073" joined="1987-06-10"/>
+    <cosponsor id="300150" joined="1987-11-19"/>
+    <cosponsor id="409562" joined="1988-07-28"/>
+    <cosponsor id="410242" joined="1987-09-28"/>
+    <cosponsor id="411801" joined="1987-09-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-24" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Homicide"/>
+    <term name="Human rights"/>
+    <term name="Murder"/>
+    <term name="Torture"/>
+  </subjects>
+  <amendments/>
+  <summary>3/24/1987--Introduced.
+Torture Victim Protection Act of 1987 - Imposes civil liability on anyone who, under actual or apparent authority of a foreign nation, subjects any person to torture or extrajudicial killing.</summary>
+</bill>

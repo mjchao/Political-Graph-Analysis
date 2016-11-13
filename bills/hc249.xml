@@ -1,0 +1,45 @@
+<bill session="100" type="hc" number="249" updated="2014-03-22T09:54:12-04:00">
+  <state datetime="1988-02-23">REPORTED</state>
+  <status>
+    <unknown datetime="1988-02-23"/>
+  </status>
+  <introduced datetime="1988-02-22"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing confidence that the people of El Salvador will reject efforts to disrupt the election to be held in that country on March 20, 1988, and will avail themselves of the opportunity to vote in that election.</title>
+  </titles>
+  <sponsor id="404193"/>
+  <cosponsors>
+    <cosponsor id="401847" joined="1988-02-22"/>
+    <cosponsor id="404002" joined="1988-02-22"/>
+    <cosponsor id="406530" joined="1988-02-22"/>
+    <cosponsor id="407676" joined="1988-02-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-22" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-02-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-02-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-02-24">
+      <text>See H.Con.Res.250.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="250"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="El Salvador"/>
+    <term name="Government operations and politics"/>
+  </subjects>
+  <amendments/>
+  <summary>2/22/1988--Introduced.
+Expresses the confidence of the Congress that the people of El Salvador will reject efforts to disrupt the March 20, 1988, election and will vote in that election.</summary>
+</bill>

@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="323" updated="2014-03-22T09:51:17-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Telecommunications Policy Coordination Act of 1987</title>
+    <title type="official" as="introduced">A bill to improve coordination in the formulation of telecommunications policy within the executive branch, and for other purposes.</title>
+  </titles>
+  <sponsor id="402763"/>
+  <cosponsors>
+    <cosponsor id="400595" joined="1987-01-22"/>
+    <cosponsor id="407672" joined="1987-02-04"/>
+    <cosponsor id="400409" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Advisory bodies"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Executive Office of the President"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Telecommunication policy"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Telecommunications Policy Coordination Act of 1987 - Establishes an Office of Telecommunications Policy (OTP) in the Executive Office of the President. Directs OTP to: (1) prepare national telecommunications policy options; (2) serve as the principal advisor to the President on telecommunications issues; (3) arbitrate telecommunications policy disputes among Federal agencies; (4) communicate the views of the agencies and the President concerning telecommunications policy to the Federal Communications Commission (FCC) and the Congress; and (5) monitor developments in telecommunications technology. Requires the Director of OTP to: (1) establish an Advisory Committee on Telecommunications Policy; and (2) report to the President and the Congress annually on OTP activities and on emerging trends in telecommunications. Requires the FCC to report to the President and the Congress on its reasons for taking any final action which is inconsistent with views received from OTP.</summary>
+</bill>

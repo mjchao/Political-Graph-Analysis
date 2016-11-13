@@ -1,0 +1,88 @@
+<bill session="100" type="hc" number="281" updated="2014-03-22T09:54:13-04:00">
+  <state datetime="1988-04-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-14"/>
+  </status>
+  <introduced datetime="1988-04-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the United States should withdraw from the 1977 Panama Canal Treaties.</title>
+  </titles>
+  <sponsor id="400562"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1988-06-08"/>
+    <cosponsor id="401383" joined="1988-05-24"/>
+    <cosponsor id="400028" joined="1988-04-14"/>
+    <cosponsor id="401526" joined="1988-05-24"/>
+    <cosponsor id="401628" joined="1988-05-10"/>
+    <cosponsor id="403242" joined="1988-05-10"/>
+    <cosponsor id="404587" joined="1988-04-14"/>
+    <cosponsor id="300049" joined="1988-05-10"/>
+    <cosponsor id="400552" joined="1988-04-14"/>
+    <cosponsor id="400176" joined="1988-05-10"/>
+    <cosponsor id="405580" joined="1988-06-08"/>
+    <cosponsor id="405747" joined="1988-05-10"/>
+    <cosponsor id="405855" joined="1988-05-11"/>
+    <cosponsor id="406682" joined="1988-05-11"/>
+    <cosponsor id="407162" joined="1988-06-08"/>
+    <cosponsor id="407899" joined="1988-06-22"/>
+    <cosponsor id="408490" joined="1988-05-11"/>
+    <cosponsor id="400369" joined="1988-05-11"/>
+    <cosponsor id="300155" joined="1988-08-03"/>
+    <cosponsor id="410010" joined="1988-04-14"/>
+    <cosponsor id="410574" joined="1988-08-03"/>
+    <cosponsor id="400611" joined="1988-05-10"/>
+    <cosponsor id="411178" joined="1988-05-11"/>
+    <cosponsor id="411405" joined="1988-05-10"/>
+    <cosponsor id="411901" joined="1988-05-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-14" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Executive Comment Requested from DOD, State, Treasury, Panama Canal Comm.</text>
+    </action>
+    <action datetime="1988-04-21">
+      <text>Referred to Subcommittee on Panama Canal and Outer Continental Shelf.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM05" subcommittee="Panama Canal and Outer Continental Shelf" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Armed forces and national security"/>
+    <term name="Canals"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Federal receipts and expenditures"/>
+    <term name="Government operations and politics"/>
+    <term name="Interoceanic canals"/>
+    <term name="Military agreements"/>
+    <term name="Military base agreements"/>
+    <term name="Military bases"/>
+    <term name="Negotiations"/>
+    <term name="Panama"/>
+    <term name="Panama Canal"/>
+    <term name="Panama Canal Commission"/>
+    <term name="Treaties"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>4/14/1988--Introduced.
+Calls upon the President to initiate negotiations with the Republic of Panama to nullify the 1977 Panama Canal Treaties and produce a new treaty which would: (1) maintain U.S. control and operation of the canal operating area; and (2) permanently extend U.S. military base rights in Panama. Expresses the intention of the Congress to withhold funding for the Panama Canal Commission or take other appropriate action if the President does not enter into such negotiations within 90 days after the date of the adoption of this resolution by the Congress.</summary>
+</bill>

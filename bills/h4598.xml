@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4598" updated="2014-03-22T09:53:20-04:00">
+  <state datetime="1988-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="short" as="introduced">Postal Responsibility Act of 1988</title>
+    <title type="official" as="introduced">A bill to permit claims to be brought against the United States Postal Service based on the loss, miscarriage, or negligent transmission of letters and certain other postal matter.</title>
+  </titles>
+  <sponsor id="407162"/>
+  <cosponsors>
+    <cosponsor id="403184" joined="1988-05-17"/>
+    <cosponsor id="403314" joined="1988-05-17"/>
+    <cosponsor id="404587" joined="1988-06-01"/>
+    <cosponsor id="403696" joined="1988-05-26" withdrawn="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-12" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Claims"/>
+    <term name="Government liability"/>
+    <term name="Government operations and politics"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal service"/>
+    <term name="United States Postal Service"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1988--Introduced.
+Postal Responsibility Act of 1988 - Permits claims to be brought against the United States Postal Service based on the loss, miscarriage, or negligent transmission of first class mail and express mail.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="4053" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-02"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to redesignate the J. Strom Thurmond Reservoir as the "Clarks Hill Lake".</title>
+  </titles>
+  <sponsor id="401155"/>
+  <cosponsors>
+    <cosponsor id="403190" joined="1988-03-10"/>
+    <cosponsor id="405209" joined="1988-03-10"/>
+    <cosponsor id="405985" joined="1988-03-10"/>
+    <cosponsor id="400240" joined="1988-03-10"/>
+    <cosponsor id="409060" joined="1988-03-10"/>
+    <cosponsor id="409442" joined="1988-03-10"/>
+    <cosponsor id="410765" joined="1988-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Georgia"/>
+    <term name="Lakes"/>
+    <term name="Names"/>
+    <term name="Reservoirs"/>
+    <term name="South Carolina"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1988--Introduced.
+Designates the J. Strom Thurmond Reservoir on the Savannah River on the border between Georgia and South Carolina as the Clarks Hill Lake.</summary>
+</bill>

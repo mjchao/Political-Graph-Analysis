@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="55" updated="2014-03-22T09:51:07-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 504 of the Rehabilitation Act of 1973 to eliminate discrimination against handicapped or disabled individuals in programs provided by a recipient of Federal financial assistance.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors>
+    <cosponsor id="407051" joined="1987-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Executive Comment Requested from Labor, HHS, Education, Justice.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Select Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Disabled"/>
+    <term name="Discrimination in employment"/>
+    <term name="Employment of the handicapped"/>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Rehabilitation Act of 1973 to extend the prohibition of discrimination against handicapped or disabled individuals by recipients of Federal financial assistance. Prohibits such discrimination in any program or activity of such a recipient, not only (as at present) in the program or activity receiving the Federal assistance.</summary>
+</bill>

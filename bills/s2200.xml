@@ -1,0 +1,99 @@
+<bill session="100" type="s" number="2200" updated="2016-06-29T08:46:05-04:00">
+  <state datetime="1988-08-17">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-08-17"/>
+  </status>
+  <introduced datetime="1988-03-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Public Law 90-498 to provide for the designation of National Hispanic Heritage Month.</title>
+  </titles>
+  <sponsor id="409917"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1988-04-19"/>
+    <cosponsor id="401391" joined="1988-03-21"/>
+    <cosponsor id="300009" joined="1988-03-21"/>
+    <cosponsor id="401611" joined="1988-05-19"/>
+    <cosponsor id="401709" joined="1988-03-21"/>
+    <cosponsor id="402412" joined="1988-03-21"/>
+    <cosponsor id="402495" joined="1988-03-21"/>
+    <cosponsor id="300023" joined="1988-04-28"/>
+    <cosponsor id="402990" joined="1988-03-21"/>
+    <cosponsor id="403346" joined="1988-03-21"/>
+    <cosponsor id="403483" joined="1988-03-21"/>
+    <cosponsor id="300034" joined="1988-03-21"/>
+    <cosponsor id="403515" joined="1988-03-21"/>
+    <cosponsor id="300036" joined="1988-03-21"/>
+    <cosponsor id="300046" joined="1988-03-21"/>
+    <cosponsor id="300052" joined="1988-03-21"/>
+    <cosponsor id="300059" joined="1988-03-21"/>
+    <cosponsor id="300060" joined="1988-04-28"/>
+    <cosponsor id="300064" joined="1988-03-21"/>
+    <cosponsor id="407268" joined="1988-05-09"/>
+    <cosponsor id="300071" joined="1988-03-21"/>
+    <cosponsor id="300073" joined="1988-04-19"/>
+    <cosponsor id="400563" joined="1988-03-21"/>
+    <cosponsor id="408970" joined="1988-05-19"/>
+    <cosponsor id="411762" joined="1988-03-21"/>
+    <cosponsor id="411801" joined="1988-03-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1988-05-12" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-05-12">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-05-12" calendar="Senate Legislative" under="General Orders" number="664">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 664.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-05-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-05-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-08-08" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-08-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-08-10">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-08-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-08-17" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-402" type="public" datetime="1988-08-17">
+      <text>Became Public Law No: 100-402.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3182"/>
+    <bill relation="identical" session="100" type="h" number="3182"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Spanish Americans (U.S.)"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>3/21/1988--Introduced.
+Designates the period beginning September 15 and ending October 15 each year as National Hispanic Heritage Month. (Current law designates the week including September 15 and 16 each year as National Hispanic Heritage Week.)</summary>
+</bill>

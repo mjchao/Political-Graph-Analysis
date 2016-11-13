@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="4487" updated="2014-03-22T09:53:18-04:00">
+  <state datetime="1988-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-28"/>
+  </status>
+  <introduced datetime="1988-04-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Attorney General to permit the entry into the United States of certain Cuban or Nicaraguan nationals residing in Panama.</title>
+  </titles>
+  <sponsor id="407051"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Cuba"/>
+    <term name="Cubans"/>
+    <term name="International affairs"/>
+    <term name="Nicaragua"/>
+    <term name="Panama"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1988--Introduced.
+Directs the Attorney General to permit certain Cuban or Nicaraguan nationals residing in Panama to enter the United States without regard to any numerical limitation.</summary>
+</bill>

@@ -1,0 +1,227 @@
+<bill session="100" type="h" number="4586" updated="2014-12-10T13:14:40-05:00">
+  <state datetime="1988-09-27">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill making appropriations for military construction for the Department of Defense for the fiscal year ending September 30, 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="405313"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Referred to Subcommittee on Military Construction.</text>
+    </action>
+    <action datetime="1988-03-01">
+      <text>First Day of Subcommittee Hearings.</text>
+    </action>
+    <action datetime="1988-03-31">
+      <text>Final Day of Subcommittee Hearings.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>First Day of Subcommittee Mark-up.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Final Day of Subcommittee Mark-up.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-12" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-05-12">
+      <text>Reported to House by House Committee on Appropriations.  Report No: 100-620.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Placed on Union Calendar No: 368.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Committee on Rules Granted a Rule Waiving All Points of Order Against Specified Provisions of the Bill.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Rules Committee Resolution H.Res.449 Reported to House.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>House Agreed to Amendments Adopted by the Committee of the Whole.</text>
+    </action>
+    <vote how="roll" type="vote" roll="136" datetime="1988-05-18" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 382 - 26 (Record Vote No: 136).</text>
+    </vote>
+    <action datetime="1988-05-23">
+      <text>Received in the Senate and read twice and referred to the Committee on Appropriations.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Subcommittee on Military Construction. Approved for full committee consideration with amendments favorably.</text>
+    </action>
+    <calendar datetime="1988-06-09">
+      <text>Committee on Appropriations. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-06-09">
+      <text>Committee on Appropriations. Reported to Senate by Senator Sasser with amendments. With written report No. 100-380.</text>
+    </action>
+    <calendar datetime="1988-06-09" calendar="Senate Legislative" under="General Orders" number="725">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 725.</text>
+    </calendar>
+    <action datetime="1988-06-15">
+      <text>Measure laid before Senate by motion.</text>
+    </action>
+    <action datetime="1988-06-15">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 97-1. Record Vote No: 182.</text>
+    </action>
+    <vote how="roll" type="vote2" roll="184" datetime="1988-06-15" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 93-2. Record Vote No: 184.</text>
+    </vote>
+    <action datetime="1988-06-15">
+      <text>Senate insists on its amendments, asks for a conference, appoints conferees Sasser; Inouye; Proxmire; Reid; Stennis; Specter; Garn; Stevens; Hatfield.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>House Disagreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>House Agreed to Request for Conference and Speaker Appointed Conferees: Hefner, Alexander, Coleman (TX), Thomas (GA), Bevill, Early, Dicks, Fazio, Lowery (CA), Edwards (OK), Kolbe, DeLay, Conte, Whitten.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Conference Report 100-912 Filed in House.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>House Agreed to Conference Report by Yea-Nay Vote: 386 - 26 (Record Vote No: 310).</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>House Receded and Concurred in Senate Amendment 028.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>House Receded and Concurred With an Amendment in Senate Amendments 001, 004, 007, 008, 022, 024, 025, 027, 028, 034, 035, 037, 038, 040, 041, 045.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>House Insisted on its Disagreement to Senate Amendments.</text>
+    </action>
+    <vote how="by Voice Vote" type="conference" datetime="1988-09-14" where="s" result="pass" state="CONFERENCE:PASSED:SENATE">
+      <text>Senate agreed to conference report by Voice Vote.</text>
+    </vote>
+    <vote how="By Voice Vote" type="pingpong" datetime="1988-09-14" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment to Senate amendments nos. 1, 4, 7, 8, 22, 24, 25, 27, 34, 35, 37, 38, 40, and 45. By Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-14">
+      <text>Senate receded from its amendment no. 41. By Voice Vote.</text>
+    </action>
+    <topresident datetime="1988-09-14">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-09-27" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-447" type="public" datetime="1988-09-27">
+      <text>Became Public Law No: 100-447.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSAP09" subcommittee="Military Construction" name="House Appropriations"/>
+    <committee code="SSAP" name="Senate Appropriations" activity="Referral, Markup, Reporting"/>
+    <committee activity="Markup, Reporting" code="SSAP09" subcommittee="Military Construction" name="Senate Appropriations"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="449"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Air bases"/>
+    <term name="Alien labor"/>
+    <term name="Appropriations"/>
+    <term name="Armed forces reserves"/>
+    <term name="Ballistic missile defenses"/>
+    <term name="Buy American"/>
+    <term name="California"/>
+    <term name="Collective security"/>
+    <term name="Collective security agreements"/>
+    <term name="Colorado"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Cuba"/>
+    <term name="Defense budgets"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Department of Defense"/>
+    <term name="Dredging"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and employment"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive impoundment of appropriated funds"/>
+    <term name="Foreign loans"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government consultants"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Government trust funds"/>
+    <term name="Illegal aliens"/>
+    <term name="International affairs"/>
+    <term name="Iron and steel industry"/>
+    <term name="Japan"/>
+    <term name="Leases"/>
+    <term name="Legislation"/>
+    <term name="Libya"/>
+    <term name="Maryland"/>
+    <term name="Military bases"/>
+    <term name="Military command and control"/>
+    <term name="Military communications"/>
+    <term name="Military construction operations"/>
+    <term name="Military housing"/>
+    <term name="Military maneuvers"/>
+    <term name="NATO countries"/>
+    <term name="National Guard"/>
+    <term name="Nevada"/>
+    <term name="Nicaragua"/>
+    <term name="Pacific area"/>
+    <term name="Reciprocity"/>
+    <term name="Reprogramming of appropriated funds"/>
+    <term name="South Korea"/>
+    <term name="Spain"/>
+    <term name="Steel"/>
+    <term name="Summit diplomacy"/>
+    <term name="Territories (U.S.)"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+    <term name="Vietnam"/>
+    <term name="Warsaw Pact countries"/>
+  </subjects>
+  <amendments>
+    <amendment number="h690"/>
+    <amendment number="h691"/>
+    <amendment number="h692"/>
+    <amendment number="s2363"/>
+    <amendment number="s2364"/>
+    <amendment number="s2365"/>
+    <amendment number="s2366"/>
+    <amendment number="s2367"/>
+    <amendment number="s2368"/>
+  </amendments>
+  <summary>9/14/1988--House receded and concurred with amendment.
+(House receded and concurred in certain Senate amendments wtih amendments) Appropriates funds for FY 1989 for military construction operations administered by the Department of Defense (DOD) in specified amounts for the following purposes: (1) military construction, Army; (2) military construction, Navy (including Coast Guard shore facilities); (3) military construction, Air Force; (4) military construction, defense agencies (including a specified transfer of funds); (5) North Atlantic Treaty Organization (NATO) Infrastructure; (6) military construction, Army National Guard; (7) military construction, Air National Guard; (8) military construction, Army Reserve; (9) military construction, Naval Reserve; (10) military construction, Air Force Reserve; (11) family housing, Army; (12) family housing, Navy and Marine Corps; (13) family housing, Air Force; (14) family housing, defense agencies; and (15) homeowners assistance fund, defense. Prohibits funds appropriated in this Act from being used for payments under certain cost-plus-a-fixed-fee contracts without specific approval by the Secretary of Defense. Authorizes funds appropriated in this Act to be used for: (1) the hire of passenger motor vehicles; and (2) advances to the Federal Highway Administration, Department of Transportation, for the construction of defense access roads. Prohibits funds appropriated in this Act from being used for: (1) construction of new bases inside the continental United States for which specific appropriations have not been made; (2) the purchase of certain lands or easements for amounts in excess of 100 percent of their value as determined by the Corps of Engineers or the Naval Facilities Engineering Command, except under specified conditions; (3) land acquisition, site preparation, or the installation of any utilities for family housing, except for housing for which funds have been made available under annual military construction appropriation Acts; (4) transferring or relocating any activity from one base or installation to another without prior notification to the Committees on Appropriations; (5) the procurement of steel for any construction project or activity for which American steel producers have been denied the opportunity to compete; (6) the performance of dredging work in the Indian Ocean by foreign contractors, with a specified exception; (7) the payment of real property taxes in any foreign nation; and (8) payments to a Government officer or a contractor for work in the United States by an alien who has not been lawfully admitted into the United States. Limits the expenditures of appropriations under this Act for consulting services through procurement contracts to contracts where such expenditures are a matter of public record, with certain exceptions. Prohibits funds appropriated in this Act from being used for: (1) the initiation of a new installation overseas without prior notification to the Committees on Appropriations; (2) certain architect and engineer contracts for projects in Japan or in any NATO-member country, unless awarded to U.S. firms solely or in joint ventures; or (3) the award of any contract for military construction in the U.S. territories and possessions in the Pacific and on Kwajalein Island in excess of $1,000,000 to a foreign contractor, with specified exceptions. Directs the Secretary to notify the Senate and House Armed Services and Appropriations Committees of the plans and scope of any military exercise involving U.S. personnel 30 days prior to its occurrence if amounts expended for construction are expected to exceed $100,000. Transfers certain funds of the Military Family Housing Management Account to the appropriations for family housing provided in this Act. Prohibits more than 20 percent of the funds appropriated in this Act which are limited for obligation during the current fiscal year from being obligated during the last two months of the fiscal year. Makes certain prior year funds available for military construction authorized during the second session of the 100th Congress. Directs the Secretary, by February 15, 1989, to provide the Appropriations Committees a report detailing the specific actions proposed to be taken by DOD during FY 1989 to encourage other members of NATO and Japan to assume a greater share of the common defense burden of such nations and the United States. Permits certain expired or lapsed funds to be used to pay certain overhead and other costs associated with military construction or family housing projects. Requires the Secretary of the Air Force to maintain legislative liaison to the Senate and House Appropriations Subcommittees on Military Construction and budgetary management of the military construction and military family housing appropriations in a manner identical to the method employed as of September 30, 1986. Prohibits the expenditure of funds appropriated by this Act, except NATO infrastructure funds, for planning, design, or construction of military facilities or family housing to support the relocation of the 401st Tactical Fighter Wing from Spain to another country. Limits to four fiscal years after the original funding the time in which funds may be expended by a military department or defense agency for the construction of military projects, with certain conditions. Directs the Secretary to include in the FY 1990 defense program a legislative proposal authorizing the installment purchase of family housing units. Requires the budget request for such fiscal year to include sums necessary to implement a pilot program for not to exceed 3,000 units. Limits the amount of funds appropriated in this Act for operations and maintenance of family housing which may be used for contract cleaning of family housing units. Prohibits funds appropriated in this Act from being used for the design, construction, operation, or maintenance of new family housing units in the Republic of Korea in connection with any increase in accompanied tours after June 6, 1988. Prohibits funds appropriated in this Act: (1) from being obligated or expended to transfer any equipment, operation, or personnel from the Edgewood Arsenal, Maryland, to any other facility during FY 1989; and (2) for planning and design activities from being used to initiate design of the Pentagon Annex. Prohibits any funds appropriated in this Act for the National Test Facility at Falcon Air Force Station, Colorado, from being used to provide any operational battle management, command, control, or communications capabilities for an early deployment of a ballistic missile defense system. Requires FY 1989 pay raises for programs funded by this Act to be absorbed within the funding levels appropriated in this Act.</summary>
+</bill>

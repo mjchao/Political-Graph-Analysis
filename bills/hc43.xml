@@ -1,0 +1,114 @@
+<bill session="100" type="hc" number="43" updated="2014-03-22T09:54:06-04:00">
+  <state datetime="1987-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-09"/>
+  </status>
+  <introduced datetime="1987-02-09"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress with respect to the denial of health insurance coverage for disabled adopted children.</title>
+  </titles>
+  <sponsor id="402710"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-05-07"/>
+    <cosponsor id="400975" joined="1987-06-15"/>
+    <cosponsor id="401231" joined="1987-06-15"/>
+    <cosponsor id="400025" joined="1987-05-07"/>
+    <cosponsor id="401418" joined="1987-04-28"/>
+    <cosponsor id="401628" joined="1987-05-07"/>
+    <cosponsor id="300011" joined="1987-04-28"/>
+    <cosponsor id="403308" joined="1987-05-07"/>
+    <cosponsor id="403314" joined="1987-06-15"/>
+    <cosponsor id="403776" joined="1987-05-07"/>
+    <cosponsor id="403904" joined="1987-05-07"/>
+    <cosponsor id="400126" joined="1987-04-28"/>
+    <cosponsor id="404013" joined="1987-05-07"/>
+    <cosponsor id="404019" joined="1987-06-15"/>
+    <cosponsor id="404190" joined="1987-10-06"/>
+    <cosponsor id="400140" joined="1987-05-07"/>
+    <cosponsor id="404422" joined="1987-06-15"/>
+    <cosponsor id="400586" joined="1987-06-15"/>
+    <cosponsor id="404750" joined="1987-05-07"/>
+    <cosponsor id="404752" joined="1987-05-07"/>
+    <cosponsor id="405236" joined="1987-06-15"/>
+    <cosponsor id="405256" joined="1987-05-07"/>
+    <cosponsor id="405377" joined="1987-04-28"/>
+    <cosponsor id="405524" joined="1987-04-28"/>
+    <cosponsor id="405687" joined="1987-05-07"/>
+    <cosponsor id="400211" joined="1987-05-07"/>
+    <cosponsor id="406284" joined="1987-04-28"/>
+    <cosponsor id="400223" joined="1987-05-07"/>
+    <cosponsor id="406461" joined="1987-06-15"/>
+    <cosponsor id="406473" joined="1987-05-07"/>
+    <cosponsor id="400231" joined="1987-06-15"/>
+    <cosponsor id="406729" joined="1987-04-28"/>
+    <cosponsor id="406730" joined="1987-04-28"/>
+    <cosponsor id="400240" joined="1987-04-28"/>
+    <cosponsor id="400243" joined="1987-05-07"/>
+    <cosponsor id="407669" joined="1988-05-24"/>
+    <cosponsor id="400278" joined="1987-06-30"/>
+    <cosponsor id="408023" joined="1987-05-07"/>
+    <cosponsor id="408190" joined="1987-06-15"/>
+    <cosponsor id="408313" joined="1987-04-28"/>
+    <cosponsor id="400299" joined="1987-05-07"/>
+    <cosponsor id="400306" joined="1987-04-28"/>
+    <cosponsor id="408407" joined="1987-10-06"/>
+    <cosponsor id="409353" joined="1987-05-07"/>
+    <cosponsor id="400354" joined="1987-05-07"/>
+    <cosponsor id="409632" joined="1987-05-07"/>
+    <cosponsor id="410066" joined="1987-05-07"/>
+    <cosponsor id="410145" joined="1987-04-28"/>
+    <cosponsor id="410231" joined="1987-04-28"/>
+    <cosponsor id="410251" joined="1987-04-28"/>
+    <cosponsor id="400387" joined="1987-05-07"/>
+    <cosponsor id="410889" joined="1987-05-07"/>
+    <cosponsor id="400409" joined="1987-05-07"/>
+    <cosponsor id="411025" joined="1987-05-07"/>
+    <cosponsor id="411166" joined="1987-06-30"/>
+    <cosponsor id="411725" joined="1987-05-07"/>
+    <cosponsor id="411834" joined="1987-05-07"/>
+    <cosponsor id="411947" joined="1987-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-09" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>See S.Con.Res.95.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Markup, Reporting" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sc" number="6"/>
+    <bill relation="identical" session="100" type="sc" number="6"/>
+    <bill relation="unknown" session="100" type="sc" number="95"/>
+  </relatedbills>
+  <subjects>
+    <term name="Families"/>
+    <term name="Adopted children"/>
+    <term name="Adoption"/>
+    <term name="Business and commerce"/>
+    <term name="Children and youth"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Discrimination in insurance"/>
+    <term name="Health"/>
+    <term name="Health insurance"/>
+    <term name="Insurance"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/1987--Introduced.
+Expresses the sense of the Congress with respect to the discrimination in and denial of health insurance coverage for adopted children. Calls upon State legislatures to enact legislation that requires health insurance contracts to cover adopted children on the same basis as other dependents.</summary>
+</bill>

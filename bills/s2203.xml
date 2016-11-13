@@ -1,0 +1,91 @@
+<bill session="100" type="s" number="2203" updated="2014-12-10T13:16:05-05:00">
+  <state datetime="1988-07-19">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-07-19"/>
+  </status>
+  <introduced datetime="1988-03-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the expiration date of Title II of the Energy Policy and Conservation Act.</title>
+  </titles>
+  <sponsor id="406084"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-05-12">
+      <text>Committee on Energy and Natural Resources. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-05-18" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-05-24">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment. With written report No. 100-355.</text>
+    </action>
+    <calendar datetime="1988-05-24" calendar="Senate Legislative" under="General Orders" number="684">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 684.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-06" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-07">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-06-13">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-29" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-29">
+      <text>House Incorporated H.R.4604 in This Measure as an Amendment.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-07-08" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-07-08">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-07-11">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-07-11">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-07-19" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-373" type="public" datetime="1988-07-19">
+      <text>Became Public Law No: 100-373.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Hearings, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4604"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy conservation"/>
+    <term name="Energy policy"/>
+    <term name="International cooperation"/>
+    <term name="International environmental cooperation"/>
+    <term name="Sunset legislation"/>
+    <term name="Western Hemisphere"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1988--Passed House amended.
+(Measure passed House, amended (Inserted Text of H.R. 4604 as passed House)) Amends the Energy Policy and Conservation Act to extend the standby energy authorities from June 30, 1988, to June 30, 1990. Directs the Secretary of Energy to: (1) conduct a study, in consultation with the Secretary of State and the Secretary of Commerce, regarding energy policy cooperation between the United States and other Western hemisphere countries; (2) report the study results to certain congressional committees; (3) propose a comprehensive international energy policy designed to enhance such cooperation; and (4) recommend actions to implement such policy.</summary>
+</bill>

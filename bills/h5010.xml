@@ -1,0 +1,84 @@
+<bill session="100" type="h" number="5010" updated="2014-03-22T09:53:30-04:00">
+  <state datetime="1988-08-08">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-08-08"/>
+  </status>
+  <introduced datetime="1988-07-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the authorization of the Water Resources Research Act of 1984 through the end of fiscal year 1993.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="400043" joined="1988-08-04"/>
+    <cosponsor id="300017" joined="1988-08-04"/>
+    <cosponsor id="402484" joined="1988-07-27"/>
+    <cosponsor id="404193" joined="1988-08-01"/>
+    <cosponsor id="406157" joined="1988-08-08"/>
+    <cosponsor id="400281" joined="1988-08-02"/>
+    <cosponsor id="408506" joined="1988-08-08"/>
+    <cosponsor id="400331" joined="1988-08-04"/>
+    <cosponsor id="400386" joined="1988-08-08"/>
+    <cosponsor id="410231" joined="1988-08-03"/>
+    <cosponsor id="410245" joined="1988-08-03"/>
+    <cosponsor id="400435" joined="1988-08-08"/>
+    <cosponsor id="400440" joined="1988-08-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-11" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Subcommittee on Water and Power Resources Discharged.</text>
+    </action>
+    <action datetime="1988-08-03">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-834.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Placed on Union Calendar No: 506.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-10">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>For Further Action See S.2100.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2100"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Administrative procedure"/>
+    <term name="Authorization"/>
+    <term name="Costs"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal aid to water resources development"/>
+    <term name="Interstate relations"/>
+    <term name="Public works"/>
+    <term name="Research and development facilities"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>8/8/1988--Passed House amended.
+(Measure passed House, amended) Amends the Water Resources Research Act of 1984 to reauthorize the grant program for water resources research and technology institutes on a dollar-for-dollar matching basis for FY 1989 through 1993. Requires that such funds be used only for the reimbursement of direct cost expenditures incurred for the conduct of the water resources research program. Directs the Secretary of the Interior to conduct an evaluation of each institute every five years to determine if it qualifies for further support. (Currently the Secretary must make such determination every four years.) Extends the authorization of appropriations for the grant program from FY 1989 through 1993. Authorizes appropriations for FY 1989 through 1993 only for the reimbursement of the direct cost expenses of additional research by institutes which focuses on water problems and issues of a regional or interstate nature beyond those of concern only to a single State and which related to specific program priorities identified jointly by the Secretary and the institutes. Requires such funds when appropriated to be matched on a not less than dollar-for-dollar basis by non-Federal sources. Extends the authorization of appropriations from FY 1989 through 1993 for the matching grant research program concerning any aspect of a water resource-related problem which the Secretary deems to be in the national interest. Authorizes appropriations to extend the technology grant program from FY 1989 through 1993. Requires rules and regulations issued prior to the date of enactment of the Water Resources Research Act of 1984 to remain in effect until superseded by new rules and regulations promulgated under this Act.</summary>
+</bill>

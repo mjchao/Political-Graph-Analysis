@@ -1,0 +1,73 @@
+<bill session="100" type="s" number="861" updated="2014-03-22T09:55:02-04:00">
+  <state datetime="1988-03-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1987-03-26"/>
+  <titles>
+    <title type="short" as="introduced">Truck and Bus Safety Act of 1987</title>
+    <title type="short" as="reported to senate">Truck and Bus Safety Act of 1987</title>
+    <title type="short" as="passed senate">Truck and Bus Safety Act of 1987</title>
+    <title type="official" as="introduced">A bill to require certain actions by the Secretary of Transportation regarding certain drivers of motor vehicles and motor carriers.</title>
+  </titles>
+  <sponsor id="403171"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-03-26"/>
+    <cosponsor id="402495" joined="1987-05-01"/>
+    <cosponsor id="300034" joined="1987-05-01"/>
+    <cosponsor id="406188" joined="1987-04-07"/>
+    <cosponsor id="406190" joined="1987-04-10"/>
+    <cosponsor id="300071" joined="1987-03-30"/>
+    <cosponsor id="300073" joined="1987-04-08"/>
+    <cosponsor id="409917" joined="1987-05-01"/>
+    <cosponsor id="410242" joined="1987-04-07"/>
+    <cosponsor id="411762" joined="1987-04-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-07-15">
+      <text>Subcommittee on Surface Transportation. Hearings held.</text>
+    </action>
+    <calendar datetime="1987-11-19" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-12-19">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment in the nature of a substitute. With written report No. 100-267.</text>
+    </action>
+    <calendar datetime="1987-12-19" calendar="Senate Legislative" under="General Orders" number="510">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 510.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSCM08" subcommittee="Surface Transportation" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Motor vehicles"/>
+    <term name="Administrative procedure"/>
+    <term name="Bus drivers"/>
+    <term name="Congressional oversight"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor buses"/>
+    <term name="Motor vehicle safety"/>
+    <term name="Public safety"/>
+    <term name="Roads and highways"/>
+    <term name="Standards"/>
+    <term name="Traffic accidents and safety"/>
+    <term name="Truck drivers"/>
+    <term name="Trucking"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Passed Senate amended.
+(Measure passed Senate, amended) Truck and Bus Safety Act of 1987 - Directs the Secretary of Transportation to: (1) include within the ambit of Federal motor carrier safety regulations motor carriers and drivers operating wholly within a municipality or commercial zone of a municipality (with specified exceptions); (2) initiate rulemaking proceedings on the need to adopt specified methods for safety improvement (including vehicle onboard monitoring devices in trucks to be used solely for the purpose of monitoring driver productivity); and (3) report to the Congress by September 30, 1988, on the need to adopt methods for improving braking performance standards for trucks and truck trailers. Mandates that the appropriate authorizing congressional committees conduct oversight hearings by October 31, 1988, to obtain public testimony regarding the Secretary's report. Directs the Secretary to initiate rulemaking proceedings by December 1, 1988, regarding the need to adopt methods for improving braking performance standards for trucks and truck trailers.</summary>
+</bill>

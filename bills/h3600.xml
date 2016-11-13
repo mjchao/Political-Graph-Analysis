@@ -1,0 +1,39 @@
+<bill session="100" type="h" number="3600" updated="2014-03-22T09:52:54-04:00">
+  <state datetime="1987-11-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-11-03"/>
+  </status>
+  <introduced datetime="1987-11-03"/>
+  <titles>
+    <title type="short" as="introduced">Student Aid Readjustment Act</title>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to restore a more reasonable balance in student assistance between grants and loans, and for other purposes.</title>
+  </titles>
+  <sponsor id="404220"/>
+  <cosponsors>
+    <cosponsor id="405256" joined="1988-02-22"/>
+    <cosponsor id="400595" joined="1988-02-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-11-03" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to Subcommittee on Postsecondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED08" subcommittee="Postsecondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Scholarships"/>
+    <term name="Student aid"/>
+    <term name="Student loan funds"/>
+  </subjects>
+  <amendments/>
+  <summary>11/3/1987--Introduced.
+Student Aid Readjustment Act - Amends the Higher Education Act of 1965 to increase the maximum limits on the amount of individual Pell Grants. Restricts the period of eligibility for Pell Grants to the full-time equivalent of the period required for the completion of the first two academic years of the undergraduate baccalaureate course of study. Directs the Secretary of Education (the Secretary) to keep the congressional appropriations committees informed with respect to the amount of funds required to satisfy fully all entitlements to Pell Grants. Prohibits the Secretary from reducing such a grant except as expressly provided by and in accordance with specified provisions relating to insufficient appopriations. Eliminates loan eligibility for the first two academic years of undergraduate study and increases the maximum limits on loan amounts for the succeeding years under the Federally-insured student loan (FISL), guaranteed student loan (GSL), and supplemental student loan programs. Makes the limit on national direct student loans (NDSL) $9,000 in the case of any student other than a graduate or professional one, except that the amount loaned for any one academic year may not exceed $4,500.</summary>
+</bill>

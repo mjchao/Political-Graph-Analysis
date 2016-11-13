@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="1584" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1988-06-23">REPORTED</state>
+  <status>
+    <unknown datetime="1988-06-23"/>
+  </status>
+  <introduced datetime="1987-08-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to assure compliance with the National Environmental Policy Act of 1969, and for other purposes.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-12-08"/>
+    <cosponsor id="409562" joined="1987-12-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="1988-06-23" state="REPORTED">
+      <text>Committee on Environment and Public Works. Provisions of measure incorporated into measure S. 1792 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1792"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air traffic"/>
+    <term name="Airspace (Law)"/>
+    <term name="Aviation"/>
+    <term name="Environmental assessment"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Public lands and natural resources"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1987--Introduced.
+States that the designation of a special use airspace shall be deemed to be a major Federal action requiring an environmental impact statement under the National Environmental Policy Act of 1969. Makes the Department of Transportation, acting through the Federal Aviation Administration, the lead agency for such statement and requires the Department to review semiannually each special use airspace designation.</summary>
+</bill>

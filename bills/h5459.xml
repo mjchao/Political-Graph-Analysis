@@ -1,0 +1,73 @@
+<bill session="100" type="h" number="5459" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-10-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-10-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the period for Congressional review of the proposed subsequent arrangement, under the Agreement for Cooperation between the United States and Japan, involving United States approval for sea transport of plutonium from either France or the United Kingdom to Japan.</title>
+  </titles>
+  <sponsor id="411834"/>
+  <cosponsors>
+    <cosponsor id="401585" joined="1988-10-04"/>
+    <cosponsor id="400126" joined="1988-10-20"/>
+    <cosponsor id="405524" joined="1988-10-04"/>
+    <cosponsor id="406148" joined="1988-10-04"/>
+    <cosponsor id="406554" joined="1988-10-04"/>
+    <cosponsor id="406765" joined="1988-10-04"/>
+    <cosponsor id="407351" joined="1988-10-04"/>
+    <cosponsor id="407721" joined="1988-10-04"/>
+    <cosponsor id="400377" joined="1988-10-04"/>
+    <cosponsor id="400380" joined="1988-10-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-04" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-10-17">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1988-10-17">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1988-10-17">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Energy policy"/>
+    <term name="Environmental assessment"/>
+    <term name="Environmental protection"/>
+    <term name="Exports"/>
+    <term name="Fissionable materials"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="France"/>
+    <term name="Great Britain"/>
+    <term name="Japan"/>
+    <term name="Marine safety"/>
+    <term name="Marine transportation"/>
+    <term name="Nuclear energy"/>
+    <term name="Plutonium"/>
+    <term name="Public safety"/>
+    <term name="Radiation safety"/>
+    <term name="Ships and shipping"/>
+    <term name="Trade agreements"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation of hazardous substances"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Introduced.
+Extends the period of congressional review specified in the Atomic Energy Act of 1954 with respect to the proposed arrangement under the Agreement for Cooperation between the United States and Japan involving U.S. approval for the sea transport of plutonium from France or the United Kingdom to Japan.</summary>
+</bill>

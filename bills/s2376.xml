@@ -1,0 +1,55 @@
+<bill session="100" type="s" number="2376" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-05-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-12"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to encourage the advance notification of major employment reductions, and for other purposes.</title>
+  </titles>
+  <sponsor id="408970"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1988-06-07"/>
+    <cosponsor id="300023" joined="1988-06-07"/>
+    <cosponsor id="406183" joined="1988-06-07"/>
+    <cosponsor id="300072" joined="1988-06-07"/>
+    <cosponsor id="409923" joined="1988-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Referred to Subcommittee on Labor.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee on Labor and Human Resources requested executive comment from Labor Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR03" subcommittee="Labor" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4652"/>
+    <bill relation="identical" session="100" type="h" number="4652"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Affirmative action programs"/>
+    <term name="Business and commerce"/>
+    <term name="Construction industries"/>
+    <term name="Government contractors"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Layoffs"/>
+    <term name="Plant shutdowns"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Standards"/>
+    <term name="Unemployment"/>
+  </subjects>
+  <amendments/>
+  <summary>5/12/1988--Introduced.
+Declares it to be the policy of the United States that employers should give reasonable advance notice to employees affected by major employment reductions. Directs the Secretary of Labor (the Secretary) to encourage: (1) employers to comply with such policy, both directly and by communications with trade associations and other employer organizations; and (2) employer organizations to develop codes of ethics or other mechanisms to publicize and promote such policy among their members. Directs the Secretary to: (1) collect data on the extent to which businesses give or do not give advance notice of major employment reductions, as well as on the circumstances surrounding such reductions; and (2) compile such data and, on request, make it available to the Congress. Authorizes the Secretary to: (1) investigate flagrant instances in which such reductions occur without advance notice; and (2) publicize the facts and circumstances surrounding such instances. Directs the Secretary to make recommendations to deter such occurrences. Requires each government contractor who is required to file a written affirmative action compliance program (pursuant to regulations issued under a specified Executive Order) to specify as an appendix to such program the minimum period of advance notice, and any exceptions thereto, that the contractor will give of major employment reductions. Provides that the substance of such appendix shall not be subject to review or approval by the Secretary or the contracting agency. Provides that nothing in this Act shall be considered to require any advance notice that would interfere with an employer's ability to raise financing necessary to prevent major employment reductions or otherwise impede the continuance of operations.</summary>
+</bill>

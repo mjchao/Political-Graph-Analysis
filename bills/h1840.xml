@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="1840" updated="2014-03-22T09:52:01-04:00">
+  <state datetime="1987-03-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-26"/>
+  </status>
+  <introduced datetime="1987-03-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National Labor Relations Act to increase the stability of collective bargaining in the building and construction industry with respect to section 8(f) agreements, and for other purposes.</title>
+  </titles>
+  <sponsor id="400533"/>
+  <cosponsors>
+    <cosponsor id="300057" joined="1987-03-26"/>
+    <cosponsor id="400595" joined="1987-04-30"/>
+    <cosponsor id="400318" joined="1987-04-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-26" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Referred to Subcommittee on Labor-Management Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED02" subcommittee="Labor-Management Relations" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Business and commerce"/>
+    <term name="Collective bargaining"/>
+    <term name="Collective bargaining agreements"/>
+    <term name="Collective bargaining unit"/>
+    <term name="Construction industries"/>
+  </subjects>
+  <amendments/>
+  <summary>3/26/1987--Introduced.
+Amends the National Labor Relations Act to provide that in the construction industry a collective bargaining agreement may not be repudiated unless the National Labor Relations Board certifies election results in which a majority of the employees in a bargaining unit select a bargaining representive other than the representative with whom the agreement was made, or choose not to be represented by a labor organization. States that upon expiration of such agreement, the employer and the labor organization shall be under no obligation to bargain collectively unless the majority status of the labor organization has been established by election. Requires the National Labor Relations Board to prescribe procedures for the conduct of such elections.</summary>
+</bill>

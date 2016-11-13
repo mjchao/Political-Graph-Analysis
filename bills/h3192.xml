@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="3192" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to renegotiate the schedules of payment, and to waive certain interest requirements, on certain loans to the Redwood Valley County Water District.</title>
+  </titles>
+  <sponsor id="401612"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>For Further Action See H.R.2772.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2772"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="California"/>
+    <term name="Government lending"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water districts"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Directs the Secretary of the Interior to renegotiate the schedules of payment for certain loans to the Redwood Valley County Water District, California. Suspends the obligation to repay such loans and interest charges until such renegotiated schedules take effect.</summary>
+</bill>

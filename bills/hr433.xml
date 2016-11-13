@@ -1,0 +1,38 @@
+<bill session="100" type="hr" number="433" updated="2016-06-29T08:42:03-04:00">
+  <state datetime="1988-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-21"/>
+  </status>
+  <introduced datetime="1988-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A resolution requesting the President to issue a proclamation in commemoration of the 50th anniversary of the Javits-Wagner-O'Day Act.</title>
+  </titles>
+  <sponsor id="409901"/>
+  <cosponsors>
+    <cosponsor id="400231" joined="1988-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-21" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-04-29">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Blind"/>
+    <term name="Employment of the handicapped"/>
+    <term name="Legislation"/>
+    <term name="Sheltered workshops"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1988--Introduced.
+Requests the President to issue a proclamation: (1) commemorating the 50th anniversary of the Javits-Wagner-O'Day Act, which occurs on June 25, 1988; (2) commending the efforts of the blind and severely handicapped employees of workshops connected with the Act; (3) calling on the workshops and central nonprofit agencies in the Javits-Wagner-O'Day program to give priority in management and supervisory positions to blind and handicapped individuals; and (4) calling for expanded employment opportunities for such individuals.</summary>
+</bill>

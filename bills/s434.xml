@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="434" updated="2014-03-22T09:54:54-04:00">
+  <state datetime="1987-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-02"/>
+  </status>
+  <introduced datetime="1987-02-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Doctor Pablo Esguerra, Theresa Esguerra, and Micheline Esguerra.</title>
+  </titles>
+  <sponsor id="300092"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-13">
+      <text>Referred to Subcommittee on Immigration and Refugee Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU04" subcommittee="Immigration and Refugee Affairs" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1987--Introduced.
+Declares three named individuals to have been lawfully admitted to the United States for permanent residence under the Immigration and Nationality Act.</summary>
+</bill>

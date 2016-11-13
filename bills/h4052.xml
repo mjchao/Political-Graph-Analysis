@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="4052" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-01">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-01"/>
+  </status>
+  <introduced datetime="1988-03-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of James L. Cadigan.</title>
+  </titles>
+  <sponsor id="403529"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-01" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-03-07">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-03-07">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Military medals, decorations, etc."/>
+  </subjects>
+  <amendments/>
+  <summary>3/1/1988--Introduced.
+Makes statutory time limitations regarding the awarding of certain medals to persons in the armed forces inapplicable with respect to the award of any such medal to a named individual.</summary>
+</bill>

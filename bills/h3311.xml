@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="3311" updated="2014-03-22T09:52:49-04:00">
+  <state datetime="1987-09-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-21"/>
+  </status>
+  <introduced datetime="1987-09-21"/>
+  <titles>
+    <title type="short" as="introduced">Elder Cottage Housing Opportunity Act</title>
+    <title type="official" as="introduced">A bill to authorize the Secretary of Housing and Urban Development to provide assistance for the purchase and installation of elder cottage housing opportunity units.</title>
+  </titles>
+  <sponsor id="403689"/>
+  <cosponsors>
+    <cosponsor id="401418" joined="1987-10-06"/>
+    <cosponsor id="402657" joined="1987-10-27"/>
+    <cosponsor id="402763" joined="1987-10-06"/>
+    <cosponsor id="404013" joined="1987-10-06"/>
+    <cosponsor id="404170" joined="1987-10-06"/>
+    <cosponsor id="404750" joined="1987-10-06"/>
+    <cosponsor id="405687" joined="1987-10-06"/>
+    <cosponsor id="400211" joined="1987-10-06"/>
+    <cosponsor id="406284" joined="1988-06-28"/>
+    <cosponsor id="400595" joined="1987-10-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-21" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Federal aid to housing"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing for the aged"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/21/1987--Introduced.
+Elder Cottage Housing Opportunity Act - Amends the Housing Act of 1959, the Housing and Urban Development Act of 1968, and the National Housing Act to provide assistance for the purchase and installation of elder cottage housing opportunity units.</summary>
+</bill>

@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="932" updated="2014-03-22T09:51:37-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 39, United States Code, to establish an Office of Inspector General within the United States Postal Service.</title>
+  </titles>
+  <sponsor id="406740"/>
+  <cosponsors>
+    <cosponsor id="405646" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Postal Operations and Services.</text>
+    </action>
+    <action datetime="1987-02-20">
+      <text>Executive Comment Requested from OMB, US Postal Service, Justice.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Unfavorable Executive Comment Received From Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPO06" subcommittee="Postal Operations and Services" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal officials"/>
+    <term name="Inspectors general"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Postal service"/>
+    <term name="United States Postal Service"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Establishes the Office of Inspector General in the Postal Service. Sets forth the duties and responsibilities of such office, including to direct policy and coordinate audits and investigations relating to Postal Service operations. Requires semiannual reports to the Congress on the Office's operations.</summary>
+</bill>

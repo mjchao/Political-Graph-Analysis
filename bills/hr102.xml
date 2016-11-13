@@ -1,0 +1,47 @@
+<bill session="100" type="hr" number="102" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-25"/>
+  </status>
+  <introduced datetime="1987-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing that the United States Navy should not deploy nuclear weapons on surface ships.</title>
+  </titles>
+  <sponsor id="300011"/>
+  <cosponsors>
+    <cosponsor id="400314" joined="1987-09-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-25" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+    <action datetime="1988-02-29">
+      <text>Unfavorable Executive Comment Received From Navy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Conventional weapons"/>
+    <term name="Defense articles"/>
+    <term name="Military aircraft"/>
+    <term name="Military policy"/>
+    <term name="Navy"/>
+    <term name="Nuclear weapons"/>
+    <term name="Submarines"/>
+    <term name="Warships"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1987--Introduced.
+Resolves that the U.S. Navy should concentrate deployment of nuclear weapons on submarines and aircraft, and deploy conventional weapons and warheads on its surface ships rather than nuclear weapons.</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="2688" updated="2014-03-22T09:52:28-04:00">
+  <state datetime="1987-06-16">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-16"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 11 of the United States Code to provide that the trustee may not avoid certain transfers made to depositors by uninsured industrial banks that are debtors.</title>
+  </titles>
+  <sponsor id="403641"/>
+  <cosponsors>
+    <cosponsor id="404213" joined="1987-10-14"/>
+    <cosponsor id="406873" joined="1987-10-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-19">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank deposits"/>
+    <term name="Bankruptcy"/>
+    <term name="Debtor and creditor"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>6/16/1987--Introduced.
+Amends Federal bankruptcy provisions to provide that a bankruptcy trustee may not avoid transfers made to depositors by uninsured industrial banks that accept and issue documentary evidence of time and savings deposits in the ordinary course of business. Specifies that such a requirement shall take effect retroactive to March 8, 1983, but shall not apply to bankruptcy cases filed before that date.</summary>
+</bill>

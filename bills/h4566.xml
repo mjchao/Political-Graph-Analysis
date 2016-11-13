@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="4566" updated="2014-03-22T09:53:19-04:00">
+  <state datetime="1988-09-22">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1988-05-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Charlotte S. Neal.</title>
+  </titles>
+  <sponsor id="400603"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-10" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-05-16">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-873.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Placed on Private Calendar No: 72.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-23">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Military pay"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Introduced.
+Deems a named decedent to have made an election to provide an annuity to his former spouse in accordance with their separation agreement, for purposes of determining the spouse's eligibility for an annuity under the military Survivor Benefit Plan. Provides for a lump sum payment of such amount.</summary>
+</bill>

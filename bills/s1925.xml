@@ -1,0 +1,33 @@
+<bill session="100" type="s" number="1925" updated="2014-03-22T09:55:29-04:00">
+  <state datetime="1987-12-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-08"/>
+  </status>
+  <introduced datetime="1987-12-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of the Precisa Calculating Machine Company.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-08" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-01-25">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/1987--Introduced.
+Authorizes and directs the Secretary of the Treasury to pay a specified sum to a named Utah corporation in full satisfaction of its claims against the United States arising out of the seizure of the property of the corporation, and the ultimate destruction of its business, under jeopardy assessments made to collect income tax deficiencies which were later determined to be erroneous.</summary>
+</bill>

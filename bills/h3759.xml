@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="3759" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-14">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-14"/>
+  </status>
+  <introduced datetime="1987-12-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that adjustments in rates of pay for Members of Congress be deferred until the beginning of the Congress following the Congress in which they would otherwise occur, and to provide that such adjustments may not exceed any cost-of-living increases in benefits under title II of the Social Security Act.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="300058" joined="1987-12-14"/>
+    <cosponsor id="400240" joined="1987-12-21"/>
+    <cosponsor id="408520" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-14" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Economics and public finance"/>
+    <term name="Inflation"/>
+    <term name="Members of Congress"/>
+  </subjects>
+  <amendments/>
+  <summary>12/14/1987--Introduced.
+Amends the Legislative Reorganization Act of 1946 to provide for adjustments in rates of pay for Members of Congress to be deferred until the beginning of the Congress following the Congress in which they would otherwise occur. Requires adjustments made pursuant to presidential pay recommendations to be made before any adjustments made pursuant to the General Schedule. Prohibits such adjustments from exceeding certain cost-of-living increases under title II (Old Age, Survivors and Disability Insurance) of the Social Security Act.</summary>
+</bill>

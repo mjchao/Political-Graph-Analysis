@@ -1,0 +1,91 @@
+<bill session="100" type="h" number="4879" updated="2014-03-22T09:53:28-04:00">
+  <state datetime="1988-11-10">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-10"/>
+  </status>
+  <introduced datetime="1988-06-21"/>
+  <titles>
+    <title type="short" as="introduced">Management Interlocks Revision Act of 1988</title>
+    <title type="short" as="enacted">Management Interlocks Revision Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Depository Institution Management Interlocks Act to revise the manner in which the service of directors of depository institutions and depository holding companies are regulated, and for other purposes.</title>
+  </titles>
+  <sponsor id="408490"/>
+  <cosponsors>
+    <cosponsor id="400895" joined="1988-10-03"/>
+    <cosponsor id="401155" joined="1988-06-21"/>
+    <cosponsor id="400115" joined="1988-06-21"/>
+    <cosponsor id="405724" joined="1988-06-27"/>
+    <cosponsor id="300069" joined="1988-10-03"/>
+    <cosponsor id="407564" joined="1988-06-27"/>
+    <cosponsor id="408109" joined="1988-06-21"/>
+    <cosponsor id="400326" joined="1988-06-21"/>
+    <cosponsor id="409534" joined="1988-06-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-21" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-07-01">
+      <text>Referred to Subcommittee on Financial Institutions Supervision, Regulation and Insurance.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Subcommittee on Financial Institutions Supervision, Regulation and Insurance Discharged.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-10-04" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Read twice and held at the desk by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-22" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-22">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-10" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-650" type="public" datetime="1988-11-10">
+      <text>Became Public Law No: 100-650.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Discharged" code="HSBA07" subcommittee="Financial Institutions Supervision, Regulation and Insurance" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bank directors"/>
+    <term name="Bank failures"/>
+    <term name="Bank holding companies"/>
+    <term name="Bank management"/>
+    <term name="Corporation directors"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Credit unions"/>
+    <term name="National banks"/>
+    <term name="Savings and loan associations"/>
+  </subjects>
+  <amendments/>
+  <summary>6/21/1988--Introduced.
+Management Interlocks Revision Act of 1988 - Amends the Depository Institution Management Interlocks Act to revise the definition of "affiliated" corporation to mean a corporation which is owned by persons who own more than 25 percent of another corporation. (Present law defines such term as 50 percent ownership.) Revises the definition of "management official" to exclude an advisory or honorary director of a depository institution with total assets of less than $100,000,000. Provides an exception to the prohibitions against dual service of management officials of depository institutions within a primary metropolitan statistical area and against dual service of management officials of a $1,000,000,000 institution or holding company with an unaffiliated $500,000,000 institution or holding company in cases of: (1) failed or failing institutions which are acquired by another depository institution or depository holding company during a specified five-year period; and (2) any diversified savings and loan holding company if the appropriate Federal depository institutions regulatory agencies do not disapprove. Defines the "appropriate depository institutions regulatory agency" for purposes of issuing rules and regulations under such Act to include the Comptroller of the Currency, the Federal Reserve Board, the Federal Deposit Insurance Corporation, the Federal Home Loan Bank Board, and the National Credit Union Administration. Extends for five years the exception from coverage by the Depository Institution Management Interlocks Act of officials in service in a position prior to November 10, 1978. (Such exemption is scheduled to expire under current law on November 10, 1988.)</summary>
+</bill>

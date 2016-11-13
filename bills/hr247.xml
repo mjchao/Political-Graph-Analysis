@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="247" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-08-06">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against consideration of the conference report and any amendments reported from conference in disagreement on the joint resolution (H.J.Res.324) increasing the statutory limit on the public debt.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-06">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-277.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Placed on House Calendar No: 172.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 325 - 84 (Record Vote No: 329).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="hj" number="324"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Public debt"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Waives points of order against the consideration of the conference report on H.J. Res. 324 (public debt limit) and any amendments in disagreement.</summary>
+</bill>

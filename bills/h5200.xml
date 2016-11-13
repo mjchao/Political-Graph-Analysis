@@ -1,0 +1,60 @@
+<bill session="100" type="h" number="5200" updated="2014-03-22T09:53:10-04:00">
+  <state datetime="1988-10-03">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-03"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to limit the period of detention of excludable aliens pending removal in a manner similar to that provided in the case of deportable aliens pending deportation.</title>
+  </titles>
+  <sponsor id="410574"/>
+  <cosponsors>
+    <cosponsor id="403776" joined="1988-08-11"/>
+    <cosponsor id="404097" joined="1988-08-10"/>
+    <cosponsor id="407306" joined="1988-08-10"/>
+    <cosponsor id="400596" joined="1988-08-10"/>
+    <cosponsor id="409968" joined="1988-08-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-10" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>For Previous Action See H.R.4349.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-27" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-03" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-05">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4349"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Cuba"/>
+    <term name="Cubans"/>
+    <term name="Deportation"/>
+    <term name="Detention of persons"/>
+    <term name="Illegal aliens"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/1988--Introduced.
+Amends the Immigration and Nationality Act to limit the detention of excludable aliens pending removal in a manner similar to that provided in the case of deportable aliens pending deportation. Permits extended custody under specified conditions. Excludes from such provisions aliens entitled to a hearing pursuant to the Mariel Cuban Detention Review Act of 1988.</summary>
+</bill>

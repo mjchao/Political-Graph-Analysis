@@ -1,0 +1,135 @@
+<bill session="100" type="h" number="1659" updated="2014-03-22T09:51:56-04:00">
+  <state datetime="1987-05-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-05-27"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to increase the per diem rates for payments by the Veterans' Administration to States for domiciliary care and nursing home care provided to veterans in State homes, and for other purposes.</title>
+  </titles>
+  <sponsor id="408618"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-04-09"/>
+    <cosponsor id="400906" joined="1987-05-07"/>
+    <cosponsor id="400987" joined="1987-03-17"/>
+    <cosponsor id="400028" joined="1987-05-07"/>
+    <cosponsor id="401947" joined="1987-05-07"/>
+    <cosponsor id="400055" joined="1987-05-07"/>
+    <cosponsor id="403242" joined="1987-04-09"/>
+    <cosponsor id="403266" joined="1987-03-30"/>
+    <cosponsor id="403529" joined="1987-05-07"/>
+    <cosponsor id="300037" joined="1987-04-09"/>
+    <cosponsor id="403545" joined="1987-05-07"/>
+    <cosponsor id="403576" joined="1987-05-07"/>
+    <cosponsor id="403581" joined="1987-04-22"/>
+    <cosponsor id="403689" joined="1987-05-07"/>
+    <cosponsor id="403776" joined="1987-05-07"/>
+    <cosponsor id="400126" joined="1987-05-07"/>
+    <cosponsor id="404006" joined="1987-05-07"/>
+    <cosponsor id="404013" joined="1987-05-07"/>
+    <cosponsor id="404170" joined="1987-05-07"/>
+    <cosponsor id="400140" joined="1987-05-07"/>
+    <cosponsor id="404376" joined="1987-04-09"/>
+    <cosponsor id="404750" joined="1987-04-22"/>
+    <cosponsor id="405006" joined="1987-03-17"/>
+    <cosponsor id="405114" joined="1987-05-07"/>
+    <cosponsor id="405524" joined="1987-03-30"/>
+    <cosponsor id="300058" joined="1987-05-07"/>
+    <cosponsor id="406157" joined="1987-05-07"/>
+    <cosponsor id="400210" joined="1987-05-07"/>
+    <cosponsor id="400211" joined="1987-05-07"/>
+    <cosponsor id="406277" joined="1987-05-07"/>
+    <cosponsor id="406461" joined="1987-05-07"/>
+    <cosponsor id="400240" joined="1987-04-22"/>
+    <cosponsor id="400595" joined="1987-04-22"/>
+    <cosponsor id="407351" joined="1987-05-07"/>
+    <cosponsor id="407432" joined="1987-05-07"/>
+    <cosponsor id="407673" joined="1987-05-07"/>
+    <cosponsor id="407838" joined="1987-03-17"/>
+    <cosponsor id="408520" joined="1987-05-07"/>
+    <cosponsor id="409219" joined="1987-05-07"/>
+    <cosponsor id="409325" joined="1987-05-07"/>
+    <cosponsor id="409353" joined="1987-04-09"/>
+    <cosponsor id="409442" joined="1987-05-07"/>
+    <cosponsor id="409443" joined="1987-05-07"/>
+    <cosponsor id="400354" joined="1987-04-09"/>
+    <cosponsor id="409651" joined="1987-05-07"/>
+    <cosponsor id="300155" joined="1987-05-07"/>
+    <cosponsor id="400380" joined="1987-05-07"/>
+    <cosponsor id="410066" joined="1987-04-22"/>
+    <cosponsor id="410147" joined="1987-03-17"/>
+    <cosponsor id="410245" joined="1987-04-09"/>
+    <cosponsor id="400389" joined="1987-05-07"/>
+    <cosponsor id="400504" joined="1987-05-07"/>
+    <cosponsor id="400409" joined="1987-04-09"/>
+    <cosponsor id="400612" joined="1987-04-09"/>
+    <cosponsor id="411929" joined="1987-05-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-03-30">
+      <text>Executive Comment Requested from VA.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Referred to Subcommittee on Hospitals and Health Care.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-04-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-23" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-05-07">
+      <text>Reported to House (Amended) by House Committee on Veterans' Affairs.  Report No: 100-86.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Placed on Union Calendar No: 61.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-05-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-05-28">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1987-05-29">
+      <text>Read twice and held at the desk by unanimous consent.</text>
+    </action>
+    <action datetime="1988-03-29">
+      <text>Certain Provisions Included in H.R.2616.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSVR03" subcommittee="Hospitals and Health Care" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2616"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Extended care facilities"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospital care"/>
+    <term name="Nursing"/>
+    <term name="Soldiers' homes"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/1987--Passed House amended.
+(Measure passed House, amended) Amends Federal veterans' benefits provisions to increase the per diem rates paid to States for the provision of hospital care, domiciliary care, and nursing home care to veterans in State homes. Grants the Administrator of Veterans Affairs authority, after July 1, 1987, to award transition-year grants to States for the construction of facilities furnishing hospital care, domiciliary care, or nursing home care to veterans.</summary>
+</bill>

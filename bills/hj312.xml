@@ -1,0 +1,35 @@
+<bill session="100" type="hj" number="312" updated="2016-06-29T08:44:36-04:00">
+  <state datetime="1987-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution expressing the sense of the Senate and the House of Representatives that the President is authorized and requested to issue a proclamation declaring June 27th, 1987 as "National Sokol Day in the United States".</title>
+  </titles>
+  <sponsor id="404477"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Athletics"/>
+    <term name="Slavic Americans"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Authorizes and requests the President to declare June 27, 1987, as National Sokol Day in the United States, commemorating the Sokol, an association of Americans of Czech ancestry dedicated to gymnastics and democracy.</summary>
+</bill>

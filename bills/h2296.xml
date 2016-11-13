@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="2296" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-05-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-06"/>
+  </status>
+  <introduced datetime="1987-05-06"/>
+  <titles>
+    <title type="short" as="introduced">Los Angeles and San Diego Basins Air Safety Enhancement Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to require the installation and operation of altitude-encoding transponders in all aircraft flown in the Los Angeles and San Diego Basin areas of California, and for other purposes.</title>
+  </titles>
+  <sponsor id="401029"/>
+  <cosponsors>
+    <cosponsor id="406968" joined="1987-05-06"/>
+    <cosponsor id="400604" joined="1987-05-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-06" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-05-18">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-07-21">
+      <text>Executive Comment Requested from DOT, OMB.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>See H.R.2310.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2310"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air traffic"/>
+    <term name="Aircraft"/>
+    <term name="Aviation"/>
+    <term name="Aviation safety"/>
+    <term name="Avionics"/>
+    <term name="California"/>
+    <term name="Costs"/>
+    <term name="Public safety"/>
+  </subjects>
+  <amendments/>
+  <summary>5/6/1987--Introduced.
+Los Angeles and San Diego Basins Air Safety Enhancement Act of 1987 - Amends the Federal Aviation Act of 1958 to require the Administrator of the Federal Aviation Administration to prescribe regulations requiring the operation of altitude-encoding transponders on civil aircraft operating in the Los Angeles and San Diego Basin areas and other areas designated as having sufficient air traffic density to justify such transponder requirement. Sets the applicability date for such regulations at no later than one year from enactment of this Act. Expresses the sense of the Congress that specified business and governmental entities should seek certain cost-lowering measures to expedite the installation of altitude-encoding transponders on civil aircraft.</summary>
+</bill>

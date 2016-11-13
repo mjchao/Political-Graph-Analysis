@@ -1,0 +1,52 @@
+<bill session="100" type="h" number="4161" updated="2014-03-22T09:53:05-04:00">
+  <state datetime="1988-03-16">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-16"/>
+  </status>
+  <introduced datetime="1988-03-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to re-establish the authority of the Small Business Administration to make disaster assistance loans in the case of economic injury resulting from currency devaluation.</title>
+  </titles>
+  <sponsor id="402750"/>
+  <cosponsors>
+    <cosponsor id="402114" joined="1988-03-16"/>
+    <cosponsor id="403308" joined="1988-03-16"/>
+    <cosponsor id="403776" joined="1988-03-16"/>
+    <cosponsor id="400302" joined="1988-03-16"/>
+    <cosponsor id="400534" joined="1988-03-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-16" state="REFERRED">
+      <text>Referred to House Committee on Small Business.</text>
+    </action>
+    <action datetime="1988-05-20">
+      <text>Referred to Subcommittee on SBA, and the General Economy.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSM" name="House Small Business" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSM02" subcommittee="SBA, and the General Economy" name="House Small Business"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Business and commerce"/>
+    <term name="Canada"/>
+    <term name="Currency devaluation"/>
+    <term name="Debt"/>
+    <term name="Depressed areas"/>
+    <term name="Disaster loans"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government lending"/>
+    <term name="Mexico"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Small business"/>
+  </subjects>
+  <amendments/>
+  <summary>3/16/1988--Introduced.
+Amends the Small Business Act to authorize the Small Business Administration (SBA) to make direct low interest (maximum four percent) disaster loans of up to $100,000 to assist certain small businesses or to refinance all or part of their existing indebtedness. Permits loans only to businesses: (1) located in areas of economic dislocation resulting from extreme fluctuation in the value of the currency of Canada or Mexico and concomitant adjustments in the regulation of the respective monetary system; and (2) unable to obtain credit elsewhere but able to demonstrate the ability to repay the loan. Requires the SBA to report to specified congressional committees on the extent and effectiveness of the loan program.</summary>
+</bill>

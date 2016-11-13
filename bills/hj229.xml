@@ -1,0 +1,52 @@
+<bill session="100" type="hj" number="229" updated="2014-03-22T09:53:46-04:00">
+  <state datetime="1987-04-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-02"/>
+  </status>
+  <introduced datetime="1987-04-02"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to permit certain naturalized citizens of the United States to hold the offices of President and Vice President.</title>
+  </titles>
+  <sponsor id="404013"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-05-04"/>
+    <cosponsor id="400025" joined="1987-04-27"/>
+    <cosponsor id="403695" joined="1987-04-27"/>
+    <cosponsor id="400143" joined="1987-04-27"/>
+    <cosponsor id="404376" joined="1987-05-04"/>
+    <cosponsor id="404422" joined="1987-06-17"/>
+    <cosponsor id="405256" joined="1987-05-08"/>
+    <cosponsor id="400238" joined="1987-05-20"/>
+    <cosponsor id="406765" joined="1987-05-04"/>
+    <cosponsor id="400256" joined="1987-04-23"/>
+    <cosponsor id="407772" joined="1987-05-20"/>
+    <cosponsor id="400409" joined="1987-05-04"/>
+    <cosponsor id="400612" joined="1987-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-02" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Citizenship"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Immigration"/>
+    <term name="Naturalization"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>4/2/1987--Introduced.
+Constitutional Amendment - Permits a naturalized citizen of the United States who is otherwise eligible to hold the office of the President or Vice President to hold such offices after being a citizen for 11 years.</summary>
+</bill>

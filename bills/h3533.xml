@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="3533" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-22"/>
+  </status>
+  <introduced datetime="1987-10-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to establish a connection between certain computerized indexes containing information on deportable aliens.</title>
+  </titles>
+  <sponsor id="410066"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-22" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-10-26">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="976"/>
+    <bill relation="identical" session="100" type="s" number="976"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Computer networks"/>
+    <term name="Computers"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal justice information"/>
+    <term name="Criminal justice information systems"/>
+    <term name="Department of Justice"/>
+    <term name="Deportation"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>10/22/1987--Introduced.
+Amends the Immigration and Nationality Act to provide for computer linkage between the Immigration and Naturalization Service and the National Crime Information Center and other computerized criminal indexes with respect to information on aliens convicted of crimes and deportable aliens.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="100" type="hj" number="167" updated="2014-03-22T09:53:44-04:00">
+  <state datetime="1987-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-04"/>
+  </status>
+  <introduced datetime="1987-03-04"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution approving the additional economic assistance for Costa Rica, El Salvador, Guatemala, and Honduras requested by the President on March 3, 1987.</title>
+  </titles>
+  <sponsor id="403769"/>
+  <cosponsors>
+    <cosponsor id="402435" joined="1987-03-04"/>
+    <cosponsor id="409060" joined="1987-03-04"/>
+    <cosponsor id="400377" joined="1987-03-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-04" state="REFERRED">
+      <text>Referred to House Committee on Appropriations.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>House Committee on Appropriations Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Placed on Union Calendar No: 27.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="78"/>
+    <bill relation="identical" session="100" type="sj" number="78"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Central America"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1987--Introduced.
+Grants congressional approval of additional economic assistance for the Central American democracies that the President requested pursuant to the Military Construction Appropriations Act, 1987.</summary>
+</bill>

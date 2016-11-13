@@ -1,0 +1,36 @@
+<bill session="100" type="sc" number="116" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-04-28">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-04-28"/>
+  </status>
+  <introduced datetime="1988-04-28"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution providing for a conditional adjournment or recess of the Senate from April 29, 1988 until May 9, 1988.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Submitted in the Senate, considered, and agreed to without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-29">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-29">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional sessions"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1988--Introduced.
+Provides for an adjournment or recess of the Senate on April 29, 1988, until May 9, 1988.</summary>
+</bill>

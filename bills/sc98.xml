@@ -1,0 +1,65 @@
+<bill session="100" type="sc" number="98" updated="2014-03-22T09:54:42-04:00">
+  <state datetime="1988-03-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-02-18"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to authorize the printing of the annual three volume report "Developments in Aging: 1987" prepared by the Special Committee of Aging.</title>
+  </titles>
+  <sponsor id="407622"/>
+  <cosponsors>
+    <cosponsor id="405321" joined="1988-02-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-18" state="REFERRED">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Senate Committee on Rules discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-03-09">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>House Committee on House Administration Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Discharged"/>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional publications"/>
+    <term name="Printing"/>
+    <term name="Senate"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>2/18/1988--Introduced.
+Authorizes the printing as a Senate document of "Developments in Aging: 1987," a three-volume report prepared by the Special Committee on Aging. Specifies the number of copies to be printed for each volume.</summary>
+</bill>

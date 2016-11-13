@@ -1,0 +1,38 @@
+<bill session="100" type="hj" number="177" updated="2014-03-22T09:53:45-04:00">
+  <state datetime="1987-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-10"/>
+  </status>
+  <introduced datetime="1987-03-10"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to establish terms of fifteen years for justices of the Supreme Court of the United States.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-10" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Judges"/>
+    <term name="Judicial tenure"/>
+    <term name="Supreme Court"/>
+    <term name="Supreme Court justices"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1987--Introduced.
+Constitutional Amendment - States that justices of the Supreme Court shall hold office for a term of 15 years. Provides that this amendment shall not apply to the term of any justice that commences before the ratification of this amendment.</summary>
+</bill>

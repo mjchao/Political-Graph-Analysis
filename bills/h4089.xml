@@ -1,0 +1,69 @@
+<bill session="100" type="h" number="4089" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="short" as="introduced">Natural Gas Transition Act of 1988</title>
+    <title type="official" as="introduced">A bill to coordinate the regulatory authority of the Federal Energy Regulatory Commission with that of State or local regulatory agencies relative to service which would bypass local utility service and to facilitate the resolution at the State or local regulatory level of competition policy issues relating to local service.</title>
+  </titles>
+  <sponsor id="400253"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1988-05-26"/>
+    <cosponsor id="400025" joined="1988-07-13"/>
+    <cosponsor id="400035" joined="1988-04-20"/>
+    <cosponsor id="401568" joined="1988-05-26"/>
+    <cosponsor id="400580" joined="1988-05-26"/>
+    <cosponsor id="403529" joined="1988-05-26"/>
+    <cosponsor id="403695" joined="1988-05-26"/>
+    <cosponsor id="404006" joined="1988-04-20"/>
+    <cosponsor id="404190" joined="1988-04-20"/>
+    <cosponsor id="405209" joined="1988-04-20"/>
+    <cosponsor id="400223" joined="1988-10-19"/>
+    <cosponsor id="406765" joined="1988-09-13"/>
+    <cosponsor id="400239" joined="1988-04-20"/>
+    <cosponsor id="407282" joined="1988-05-26"/>
+    <cosponsor id="409237" joined="1988-03-03"/>
+    <cosponsor id="400359" joined="1988-09-13"/>
+    <cosponsor id="300155" joined="1988-07-13"/>
+    <cosponsor id="410496" joined="1988-04-20"/>
+    <cosponsor id="400409" joined="1988-04-20"/>
+    <cosponsor id="411948" joined="1988-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-03" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2313"/>
+    <bill relation="identical" session="100" type="s" number="2313"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Federal-local relations"/>
+    <term name="Gas companies"/>
+    <term name="Gas industry"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Natural gas"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Natural Gas Transition Act of 1988 - Prohibits the Federal Energy Regulatory Commission (Commission) from permitting natural gas distribution service which would displace existing service provided by a local distribution company (or which could be provided by such local company) if: (1) the State or local regulatory authority certifies to the Commission that the displacing service would prejudice the interests of such distribution company's customers; or (2) the proponent of such displacing service fails to demonstrate that the local distribution company protesting the proposed service is unwilling to provide transportation service on terms in effect or acceptable to the State or local commission. Precludes the Commission from permitting such displacing service until 30 days after it has published notice of such service in the Federal Register. Applies this Act to all service not provided before its date of enactment, regardless of whether the Commission had granted permission to provide such service before such date.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="100" type="s" number="564" updated="2014-03-22T09:54:56-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to exclude tax-exempt interest from the computation of the alternative minimum tax and the amount of Social Security benefits to be taxed.</title>
+  </titles>
+  <sponsor id="403142"/>
+  <cosponsors>
+    <cosponsor id="410588" joined="1988-05-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Government securities"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Minimum tax"/>
+    <term name="Securities and Investments"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Tax exclusion"/>
+    <term name="Tax-exempt securities"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Amends the Internal Revenue Code to eliminate tax-exempt interest on specified private activity bonds as an item of tax preference for purposes of alternative minimum tax or as a consideration in determining a corporation's adjusted net book income or current earnings.</summary>
+</bill>

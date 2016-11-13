@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="5061" updated="2016-06-29T08:44:06-04:00">
+  <state datetime="1988-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-14"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="short" as="introduced">Computer Virus Eradication Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, to provide penalties for persons interfering with the operations of computers through the use of programs containing hidden commands that can cause harm, and for other purposes.</title>
+  </titles>
+  <sponsor id="400176"/>
+  <cosponsors>
+    <cosponsor id="400987" joined="1988-10-12"/>
+    <cosponsor id="401628" joined="1988-09-30"/>
+    <cosponsor id="300017" joined="1988-10-12"/>
+    <cosponsor id="402325" joined="1988-07-14"/>
+    <cosponsor id="400140" joined="1988-09-16"/>
+    <cosponsor id="404869" joined="1988-10-12"/>
+    <cosponsor id="400552" joined="1988-10-12"/>
+    <cosponsor id="405448" joined="1988-09-16"/>
+    <cosponsor id="405580" joined="1988-10-12"/>
+    <cosponsor id="400188" joined="1988-09-16"/>
+    <cosponsor id="400192" joined="1988-10-12"/>
+    <cosponsor id="300055" joined="1988-09-30"/>
+    <cosponsor id="406463" joined="1988-09-16"/>
+    <cosponsor id="300062" joined="1988-09-30"/>
+    <cosponsor id="400595" joined="1988-10-12"/>
+    <cosponsor id="407672" joined="1988-09-30"/>
+    <cosponsor id="408190" joined="1988-09-16"/>
+    <cosponsor id="400306" joined="1988-09-30"/>
+    <cosponsor id="409325" joined="1988-10-12"/>
+    <cosponsor id="400539" joined="1988-09-16"/>
+    <cosponsor id="409901" joined="1988-10-12"/>
+    <cosponsor id="400534" joined="1988-09-30"/>
+    <cosponsor id="400610" joined="1988-09-16"/>
+    <cosponsor id="400387" joined="1988-09-16"/>
+    <cosponsor id="411585" joined="1988-09-16"/>
+    <cosponsor id="411901" joined="1988-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Civil actions and liability"/>
+    <term name="Computer crimes"/>
+    <term name="Computer software"/>
+    <term name="Computers"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Crime prevention"/>
+    <term name="Science and technology"/>
+    <term name="White collar crime"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Introduced.
+Computer Virus Eradication Act of 1988 - Amends the Federal criminal code to impose penalties upon individuals who knowingly: (1) insert into a computer program information or commands which will result in a loss to users of such program; or (2) provide such program to others who do not know of such insertion. Permits an individual who has suffered a loss as a result of such a computer program to seek redress in a civil action.</summary>
+</bill>

@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="2005" updated="2014-03-22T09:55:32-04:00">
+  <state datetime="1988-01-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-26"/>
+  </status>
+  <introduced datetime="1988-01-26"/>
+  <titles>
+    <title type="short" as="introduced">Student Loan Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Higher Education Act of 1965 to permit guaranteed student loans to students from families with incomes equal to or less than $30,000 without the use of a need analysis, and for other purposes.</title>
+  </titles>
+  <sponsor id="408898"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-01-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1988-02-01">
+      <text>Committee on Labor and Human Resources requested executive comment from OMB, Education Department.</text>
+    </action>
+    <action datetime="1988-02-01">
+      <text>Referred to Subcommittee on Education, Arts, Humanities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR01" subcommittee="Education, Arts and Humanities" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Student aid"/>
+    <term name="Student loan funds"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/1988--Introduced.
+Student Loan Amendments of 1988 - Amends the Higher Education Act of 1965 to permit guaranteed student loans to students from families with incomes equal to or less than $30,000 without the use of a need analysis. Directs the Secretary of Education (the Secretary) to apply certain need analysis rules as necessary. Directs the Secretary, through the Office of Education Research and Improvement or the Center for Education Statistics, to study and report on the impact of the amendments made by the Higher Education Amendments of 1986 on students applying for guaranteed student loans and the effects on student enrollment in higher education.</summary>
+</bill>

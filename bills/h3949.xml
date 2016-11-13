@@ -1,0 +1,55 @@
+<bill session="100" type="h" number="3949" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-17"/>
+  </status>
+  <introduced datetime="1988-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the establishment of the Coastal Heritage Trail in the State of New Jersey, and for other purposes.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="405687" joined="1988-02-17"/>
+    <cosponsor id="400359" joined="1988-02-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-17" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-03-17">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-03-22">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-05-06">
+      <text>Unfavorable Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>For Further Action See S.2057.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2057"/>
+    <bill relation="identical" session="100" type="s" number="2057"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Historic sites"/>
+    <term name="New Jersey"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Roads and highways"/>
+    <term name="Signs and signboards"/>
+    <term name="Trails"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1988--Introduced.
+Authorizes the Secretary of the Interior to designate the New Jersey Coastal Heritage Trail, a vehicular tour route along existing public roads linking natural and cultural sites in New Jersey. Directs the Secretary to complete and submit to the appropriate congressional committees within one year a comprehensive inventory of trail sites and a general management plan. Requires intergovernment consultation and public participation in the preparation of such inventory and plan. Authorizes the Secretary to provide technical and financial assistance in the development of interpretive materials and conservation methods. Requires that the trail be marked with appropriate markers for the public. Authorizes appropriations.</summary>
+</bill>

@@ -1,0 +1,363 @@
+<bill session="100" type="s" number="2749" updated="2016-06-29T08:46:16-04:00">
+  <state datetime="1988-10-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-24"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="short" as="introduced">National Defense Authorization Act for Fiscal Year 1989</title>
+    <title type="short" as="enacted">Defense Authorization Amendments and Base Closure and Realignment Act</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for fiscal years 1989 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe personnel strengths for such fiscal year for the Armed Forces, and for other purposes.</title>
+  </titles>
+  <sponsor id="410315"/>
+  <cosponsors>
+    <cosponsor id="408252" joined="1988-08-11"/>
+    <cosponsor id="300099" joined="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Committee on Rules Granted a Rule Providing for a Motion to Strike Out All After the Enacting Clause of the Bill and Insert in Lieu Thereof the Provisions of H.R.4481 (Base Closure) as Passed by the House on July 12, 1988; Waiving All Points of Order.</text>
+    </action>
+    <action datetime="1988-09-29">
+      <text>Rules Committee Resolution H.Res.557 Reported to House.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-03" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-03">
+      <text>Other Measure H.R.4481 Passed House in Lieu.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>House Insisted on its Amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>House Requested a Conference and Speaker Appointed Conferees: Brooks, Conyers, Collins, Horton, Walker, Jones (NC), Davis (MI), Young (AK), Pepper, Moakley, Derrick, Beilenson, Frost, Quillen, Taylor, Foley, Armey.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>House Requested a Conference and Speaker Appointed Conferees: Aspin, Dellums, Montgomery, Hutto, Skelton, Leath (TX), McCurdy, Foglietta, Hertel, Ortiz, Robinson, Dickinson, Martin (IL), Martin (NY), Ravenel, Weldon, Studds, Young (AK).</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill and House requests a conference.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Senate disagreed to the House amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Senate agreed to request for conference. Appointed conferees. Nunn; Stennis; Exon; Levin; Kennedy; Bingaman; Dixon; Glenn; Gore; Wirth; Shelby; Warner; Thurmond; Humphrey; Cohen; Quayle; Wilson; Gramm; Symms; McCain.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Conferees agreed to file conference report.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Conferees agreed to file conference report.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Conference papers: Senate report and managers' statement and official papers held at the desk in Senate.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Conference Report 100-1071 Filed in House.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Committee on Rules Granted a Rule Waiving All Points of Order Against Consideration of the Conference Report.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Rules Committee Resolution H.Res.581 Reported to House.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>House Agreed to Conference Report by Yea-Nay Vote: 370 - 31 (Record Vote No: 443).</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Conference report considered in Senate.</text>
+    </action>
+    <vote how="roll" type="conference" roll="367" datetime="1988-10-12" where="s" result="pass" state="CONFERENCE:PASSED:SENATE">
+      <text>Senate agreed to conference report by Yea-Nay Vote. 82-7. Record Vote No: 367.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <topresident datetime="1988-10-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-18">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-18">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-526" type="public" datetime="1988-10-24">
+      <text>Became Public Law No: 100-526.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="557"/>
+    <bill relation="rule" session="100" type="hr" number="581"/>
+    <bill relation="unknown" session="100" type="h" number="4481"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="AWACS aircraft"/>
+    <term name="Accounting"/>
+    <term name="Administration of criminal justice"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Advisory bodies"/>
+    <term name="Afghanistan"/>
+    <term name="Air bases"/>
+    <term name="Air defenses"/>
+    <term name="Alabama"/>
+    <term name="Alaska"/>
+    <term name="Alcoholic beverages"/>
+    <term name="Alien labor"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Ammunition"/>
+    <term name="Annuities"/>
+    <term name="Antimissile missiles"/>
+    <term name="Antisatellite weapons"/>
+    <term name="Antitank weapons"/>
+    <term name="Arkansas"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces reserves"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Arms control negotiations"/>
+    <term name="Arms sales"/>
+    <term name="Auditing"/>
+    <term name="Authorization"/>
+    <term name="Avionics"/>
+    <term name="Ballistic missiles"/>
+    <term name="Binary weapons"/>
+    <term name="Black colleges"/>
+    <term name="Bomber aircraft"/>
+    <term name="Boy Scouts"/>
+    <term name="Business records"/>
+    <term name="Buy American"/>
+    <term name="California"/>
+    <term name="Cambodia"/>
+    <term name="Chemical warfare"/>
+    <term name="Civil actions and liability"/>
+    <term name="Civil defense"/>
+    <term name="Civilian personnel positions"/>
+    <term name="Claims"/>
+    <term name="Coast guard"/>
+    <term name="Collective security agreements"/>
+    <term name="Computer software"/>
+    <term name="Computers and government"/>
+    <term name="Conflict of interests"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Construction industries"/>
+    <term name="Conventional weapons"/>
+    <term name="Cost control"/>
+    <term name="Cost overruns"/>
+    <term name="Cruise missiles"/>
+    <term name="Day care"/>
+    <term name="Defectors"/>
+    <term name="Defense articles"/>
+    <term name="Defense budgets"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Energy"/>
+    <term name="District of Columbia"/>
+    <term name="Divorcees"/>
+    <term name="Drug seizures"/>
+    <term name="Drug testing"/>
+    <term name="Drugs and military personnel"/>
+    <term name="Easements"/>
+    <term name="Economics and public finance"/>
+    <term name="Education"/>
+    <term name="Electromagnetic waves"/>
+    <term name="Electronic industries"/>
+    <term name="Electronics in military engineering"/>
+    <term name="Electrooptics"/>
+    <term name="Energy efficiency"/>
+    <term name="Energy facilities"/>
+    <term name="Ethiopia"/>
+    <term name="Europe"/>
+    <term name="Evaluation"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Federal budgets"/>
+    <term name="Federal employees"/>
+    <term name="Finance and financial sector"/>
+    <term name="Flood control"/>
+    <term name="Food relief"/>
+    <term name="Foreign corporations"/>
+    <term name="Foreign fishing"/>
+    <term name="Foreign license agreements"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Franchises (Retail trade)"/>
+    <term name="Freedom of information"/>
+    <term name="Fuel consumption"/>
+    <term name="Georgia"/>
+    <term name="Girl Scouts"/>
+    <term name="Government contractors"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government trust funds"/>
+    <term name="Grants-in-aid"/>
+    <term name="Guam"/>
+    <term name="Guided missiles"/>
+    <term name="Hawaii"/>
+    <term name="Highway engineering"/>
+    <term name="Hospitals"/>
+    <term name="Human rights"/>
+    <term name="Idaho"/>
+    <term name="Illinois"/>
+    <term name="Inspection (Arms control)"/>
+    <term name="Insurgency"/>
+    <term name="Intercontinental ballistic missiles"/>
+    <term name="International affairs"/>
+    <term name="International relief"/>
+    <term name="Inventories"/>
+    <term name="Israel"/>
+    <term name="Japan"/>
+    <term name="Labor and employment"/>
+    <term name="Land transfers"/>
+    <term name="Larceny"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Leases"/>
+    <term name="Legal fees"/>
+    <term name="Legal services"/>
+    <term name="Libraries"/>
+    <term name="M-X missile"/>
+    <term name="Machine tools"/>
+    <term name="Maintenance and repair"/>
+    <term name="Mandatory retirement"/>
+    <term name="Maryland"/>
+    <term name="Medical personnel"/>
+    <term name="Michigan"/>
+    <term name="Military advisers"/>
+    <term name="Military aircraft"/>
+    <term name="Military airlift"/>
+    <term name="Military and naval supplies"/>
+    <term name="Military aviation"/>
+    <term name="Military bases"/>
+    <term name="Military command and control"/>
+    <term name="Military communications"/>
+    <term name="Military construction operations"/>
+    <term name="Military dependents"/>
+    <term name="Military education"/>
+    <term name="Military hospitals"/>
+    <term name="Military housing"/>
+    <term name="Military law"/>
+    <term name="Military medicine"/>
+    <term name="Military pay"/>
+    <term name="Military personnel"/>
+    <term name="Military posture"/>
+    <term name="Military promotions"/>
+    <term name="Military research"/>
+    <term name="Military training"/>
+    <term name="Military-industrial complex"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Minority business enterprises"/>
+    <term name="Missouri"/>
+    <term name="Monuments and memorials"/>
+    <term name="NATO countries"/>
+    <term name="NATO military forces"/>
+    <term name="Narcotic traffic"/>
+    <term name="National Guard"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Naval aviation"/>
+    <term name="Naval bases"/>
+    <term name="Netherlands"/>
+    <term name="Nevada"/>
+    <term name="New Hampshire"/>
+    <term name="New Mexico"/>
+    <term name="New York State"/>
+    <term name="Nicaragua"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear energy research"/>
+    <term name="Nuclear fusion"/>
+    <term name="Nuclear reactors"/>
+    <term name="Nuclear security measures"/>
+    <term name="Nuclear weapons"/>
+    <term name="Officer personnel"/>
+    <term name="Ohio"/>
+    <term name="Oklahoma"/>
+    <term name="Ordnance"/>
+    <term name="Panama"/>
+    <term name="Persian Gulf"/>
+    <term name="Philippines"/>
+    <term name="Physicians"/>
+    <term name="Plastics"/>
+    <term name="Poland"/>
+    <term name="Political prisoners"/>
+    <term name="Post exchanges"/>
+    <term name="Presidential appointments"/>
+    <term name="Production engineering"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Public works"/>
+    <term name="Quality control"/>
+    <term name="Radar defense networks"/>
+    <term name="Radioactive wastes"/>
+    <term name="Radioisotopes"/>
+    <term name="Reagan Doctrine"/>
+    <term name="Refugee policy"/>
+    <term name="Refugees"/>
+    <term name="Rental housing"/>
+    <term name="Reprogramming of appropriated funds"/>
+    <term name="Research and development"/>
+    <term name="Research and development facilities"/>
+    <term name="Retired military personnel"/>
+    <term name="Roads and highways"/>
+    <term name="Saudi Arabia"/>
+    <term name="Schools"/>
+    <term name="Science and technology"/>
+    <term name="Security measures"/>
+    <term name="Semiconductors"/>
+    <term name="Shipbuilding"/>
+    <term name="Small business"/>
+    <term name="South Carolina"/>
+    <term name="South Korea"/>
+    <term name="Space"/>
+    <term name="Space policy"/>
+    <term name="Space programs"/>
+    <term name="Space warfare"/>
+    <term name="Standards"/>
+    <term name="Strategic materials"/>
+    <term name="Submarines"/>
+    <term name="Surplus government property"/>
+    <term name="Survivors' benefits"/>
+    <term name="Tanks (Combat vehicles)"/>
+    <term name="Texas"/>
+    <term name="Transportation and public works"/>
+    <term name="Travel costs"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+    <term name="Unconventional warfare"/>
+    <term name="Undercover operations"/>
+    <term name="Urban planning"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' medical care"/>
+    <term name="Virginia"/>
+    <term name="Wages"/>
+    <term name="Warships"/>
+    <term name="Washington State"/>
+    <term name="West Virginia"/>
+    <term name="Whistle blowing"/>
+  </subjects>
+  <amendments/>
+  <summary>10/11/1988--Conference report filed in House.
+(Conference report filed in House, H. Rept. 100-1071) Defense Authorization Amendments and Base Closure and Realignment Act - Title I: Additional Fiscal Year 1989 Authorization Provisions - Authorizes appropriations for FY 1989 for the following purposes: (1) barracks modernization at Fort Bliss, Texas; (2) the construction of defense access roads at the New Cumberland Army Depot, Pennsylvania; (3) military construction projects at Blytheville Air Force Base, Arkansas; and (4) family housing at Helemano Military Reservation in Hawaii. Authorizes appropriations for fiscal years beginning after FY 1988 for National Guard and Reserve military construction and land acquisition projects in specified amounts at specified locations. Limits the obligation of funds for the Army Air Defense system. Revises provisions relating to multiyear procurement authority to allow the President to request from the Congress relief from the requirement of a certain cost savings that must occur before such a contract is authorized to be entered into. Amends the National Defense Authorization Act, Fiscal Year 1989 to require a certain report under such Act to be submitted to the Appropriations Committees of the Congress in addition to the Senate and House Armed Services Committees. Authorizes the President to extend the term of office for the officer serving as Vice Chairman of the Joint Chiefs of Staff until June 1, 1989. Directs the Secretary of Defense to conduct an independent assessment of Army and Air Force studies and analyses of close air support aircraft alternatives for meeting U.S. military requirements for the period between the assessment and the year 2000, and beyond. Outlines administrative provisions concerning: (1) an operational test plan for a competitive fly-off of aircraft for the close air support mission; (2) the transfer from the Air Force to the Army of the close air support mission; and (3) reports required from the Secretary to the Armed Services and Appropriations Committees on such close air support alternatives. Amends the National Defense Authorization Act, Fiscal Year 1989 to extend until March 15, 1989, the deadline for a report on the implications of a potential Strategic Arms Reductions Treaty for alternative U.S. forces postures in the 1990's. Requires the President to submit an interim report on such subject as of December 15, 1988. Waives certain congressional review periods otherwise applicable in the case of the transfer of two specified obsolete submarines. Title II: Closure and Realignment of Military Installations - Directs the Secretary of Defense to: (1) close or realign all military installations as recommended by the Commission on Base Realignment and Closure; and (2) initiate and complete all such closures and realignments by specified dates. Outlines administrative provisions relating to the following: (1) conditions required of the Secretary and the Commission with regard to such closures and realignments; (2) Commission membership and duties; (3) the implementation of such closures or realignments by the Secretary; (4) the applicability of certain current Federal laws to these provisions; (5) the waiver of certain restrictions in order to carry out these provisions; (6) studies and reports required of the Secretary; (7) funding (through the establishment and deposit of funds into the Department of Defense Base Closure Account); and (8) congressional procedures to be followed with regard to the consideration by both Houses of the Congress of the Commission's report.</summary>
+</bill>

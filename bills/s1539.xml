@@ -1,0 +1,183 @@
+<bill session="100" type="s" number="1539" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1988-06-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-22"/>
+  </status>
+  <introduced datetime="1987-07-23"/>
+  <titles>
+    <title type="short" as="introduced">Railroad Safety Act of 1987</title>
+    <title type="short" as="passed house">Rail Safety Improvement Act of 1987</title>
+    <title type="short" as="reported to senate">Railroad Safety Act of 1987</title>
+    <title type="short" as="passed senate">Railroad Safety Act of 1987</title>
+    <title type="short" as="enacted">Rail Safety Improvement Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Federal Railroad Safety Act and for other purposes.</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors>
+    <cosponsor id="403171" joined="1987-07-23"/>
+    <cosponsor id="300053" joined="1987-07-23"/>
+    <cosponsor id="406190" joined="1987-07-23"/>
+    <cosponsor id="300064" joined="1987-11-05"/>
+    <cosponsor id="300073" joined="1987-10-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <calendar datetime="1987-07-28" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1987-09-01">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings under the authority of the order of Aug  7, 87 with amendments. With written report No. 100-153.</text>
+    </action>
+    <calendar datetime="1987-09-01" calendar="Senate Legislative" under="General Orders" number="306">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 306.</text>
+    </calendar>
+    <action datetime="1987-11-05">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="370" datetime="1987-11-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Yea-Nay Vote. 93-0. Record Vote No: 370.</text>
+    </vote>
+    <action datetime="1987-11-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-11-30">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>House Committee on Energy and Commerce Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-02-03" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-02-03">
+      <text>House Incorporated H.R.3743 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>House Insisted on its Amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1988-02-03">
+      <text>House Requested a Conference and Speaker Appointed Conferees: Dingell, Thomas Luken, Slattery, Lent, Whittaker.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill and House requests a conference.</text>
+    </action>
+    <action datetime="1988-02-25">
+      <text>Senate disagreed to the amendments of the House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-02-25">
+      <text>Senate agreed to request for conference. Appointed conferees. Hollings; Exon; Adams; Danforth; Kasten.</text>
+    </action>
+    <action datetime="1988-02-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Conferees agreed to file conference report.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Conference Report 100-637 Filed in House.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Conference papers: Senate report and managers' statement held at the desk in Senate.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>House Agreed to Conference Report by Voice Vote.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Conference papers: message on House action held at the desk in Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="conference" datetime="1988-06-09" where="s" result="pass" state="CONFERENCE:PASSED:SENATE">
+      <text>Senate agreed to conference report by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-10">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-10">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-22" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-342" type="public" datetime="1988-06-22">
+      <text>Became Public Law No: 100-342.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3743"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Administrative procedure"/>
+    <term name="Administrative remedies"/>
+    <term name="Alcoholism"/>
+    <term name="Authorization"/>
+    <term name="Colleges"/>
+    <term name="Commuting"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Department of Transportation"/>
+    <term name="Disciplining of employees"/>
+    <term name="District courts"/>
+    <term name="Driver licenses"/>
+    <term name="Drug abuse"/>
+    <term name="Drugs and employment"/>
+    <term name="Economics and public finance"/>
+    <term name="Employee rights"/>
+    <term name="Employee training"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Grievance procedures"/>
+    <term name="Highspeed ground transportation"/>
+    <term name="Jurisdiction"/>
+    <term name="Labor and employment"/>
+    <term name="Licenses"/>
+    <term name="Noise"/>
+    <term name="Public safety"/>
+    <term name="Railroad employees"/>
+    <term name="Railroad equipment"/>
+    <term name="Railroad freight operations"/>
+    <term name="Railroad passenger traffic"/>
+    <term name="Railroad relocation"/>
+    <term name="Railroad safety"/>
+    <term name="Railroads"/>
+    <term name="Speed limits"/>
+    <term name="Subpoena"/>
+    <term name="Traffic accidents and safety"/>
+    <term name="Transportation and Travel"/>
+    <term name="Transportation of hazardous substances"/>
+    <term name="Urban affairs"/>
+    <term name="Urban transportation"/>
+    <term name="User charges"/>
+    <term name="Whistle blowing"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1130"/>
+    <amendment number="s1131"/>
+    <amendment number="s1132"/>
+    <amendment number="s1133"/>
+    <amendment number="s1134"/>
+  </amendments>
+  <summary>5/19/1988--Conference report filed in House.
+(Conference report filed in House, H. Rept. 100-637) Rail Safety Improvement Act of 1988 - Amends the Federal Railroad Safety Act of 1970 to authorize appropriations for FY 1988 through 1990. Makes it unlawful for any person (including railroad personnel) to fail to comply with any rules prescribed by the Secretary of Transportation. Increases the maximum civil penalty for willful violations from $2,500 to $10,000 (and $20,000 for specified violations). Declares that an individual shall not be deemed to have committed a willful violation when such individual has acted pursuant to the direct order of a railroad official or supervisor, under protest directed to the supervisor. Authorizes the Secretary to prohibit an individual from performing safety-sensitive functions if such individual's violation of a rule, regulation, order, or standard is shown to make that individual unfit for such functions. Sets forth a deadline for the Secretary to issue interim and final rules with respect to penalty schedules applicable to railroads and individuals. Directs the Secretary of Transportation to implement a mandatory licensing program for railroad operators and engineers. Outlines the requirements of such program. Entitles individuals who have been denied an operator's license to an administrative hearing. Provides that an individual who has been convicted of operating a motor vehicle while under the influence of alcohol or a controlled substance will not be prohibited from holding a railroad operator's license if such individual has successfully completed a rehabilitation program established by a rail carrier or approved by the Secretary subsequent to such conviction. Amends the National Driver Registration Act of 1982 to authorize individual access to the National Driver Register for purposes of railroad employment in safety-sensitive functions. Amends the Federal Railroad Safety Act of 1970 to provide for reasonable damages (including a maximum amount of punitive damages) for employees aggrieved by certain discriminatory practices other than discharge, suspension, or pay reduction. Provides for expediting any proceeding with respect to a dispute, grievance, or claim for discharge or discrimination. Cites circumstances under which the Secretary is authorized to disclose the name of a railroad employee who has provided information regarding alleged railroad safety violations. Amends the Railroad Revitalization and Regulatory Reform Act of 1976 to identify additional Northeast Corridor improvement projects. Amends the Federal Railroad Safety Act of 1970 to include within the term "railroad": (1) all forms of non-highway ground transportation running on rails or electromagnetic guideways (except for rapid transit operations within an urban area not connected to the general railroad system); (2) metropolitan or suburban rail passenger service (including commuter service operated by the Consolidated Rail Corporation); and (3) high speed ground transportation systems connecting metropolitan areas. Repeals certain railroad safety directives regarding track safety, oscillating lights, and safety areas. Confers jurisdiction upon Federal district courts to issue an order to certain individuals, partnerships, or corporations to immediately comply with an order or subpoena issued by the Secretary. Mandates the use of certain automatic train control systems on all trains operating after April 1, 1990, on the main line of the Northeast Corridor between Washington, D.C., and Boston, Massachusetts. Requires the Secretary to conduct a feasibility study regarding automatic train control systems (including satellite relay and transponder systems, on rail corridors on which passengers or hazardous materials are carried) and to report the study results to the Congress by April 1, 1990. Directs the Secretary to: (1) promulgate regulations within 18 months after enactment of this Act requiring trains to be equipped with event recorders within one year after such regulations are issued; (2) establish a Northeast Corridor Safety Committee to consult with the Secretary regarding safety improvements in such Corridor; (3) convene a meeting of Northeast Corridor rail carriers regarding freight traffic reduction on such Corridor rail passenger lines; and (4) report to the Congress regarding the status of safety improvement efforts in such Corridor. Repeals the requirement that the Secretary submit to the President and the Congress a certain comprehensive railroad safety report. Makes conforming amendments to specified railroad safety Acts with regard to jurisdiction, venue, and civil penalties. Increases from $500 to $1,000 the maximum penalty for violations of the Hours of Service Act. Amends the Rail Passenger Service Act with respect to the compensation of the president and other officers of the National Railroad Passenger Corporation (Amtrak). Outlines circumstances under which the Amtrak, or the owner of any facility which presents a danger to Amtrak property, employees, or passengers, may petition the Secretary for relocation assistance or other remedial measures to obviate such danger. Authorizes appropriations. Amends the Federal Railroad Safety Act of 1970 to direct the Secretary to promulgate regulations and standards regarding the protection of maintenance-of-way employees, including standards for certain bridge safety equipment, and requirements relating to boat usage. Makes conforming amendments to the Hours of Service Act. Directs the Secretary to amend the Code of Federal Regulations to apply blue signals protection to on-track vehicles where rest is provided. Requires the Federal Railroad Administration to establish, and report to certain congressional committees the results of, specified grade crossing demonstration projects. Authorizes appropriations for grade crossing safety improvements. Directs the Secretary to promulgate proscriptions against willful tampering with railroad safety or operational monitoring devices. Establishes a civil penalty for railroads operating a track with tampered or disabled monitoring devices. Directs the Secretary to: (1) report to certain congressional committees the results of an inquiry into whether training standards are necessary for train dispatchers; and (2) promulgate standards and regulations regarding signal systems at railroad highway grade crossings. Mandates that railroad accident reports which assign human error as a factor include an explanatory statement by the employee whose error is alleged.</summary>
+</bill>

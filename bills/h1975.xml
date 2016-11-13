@@ -1,0 +1,148 @@
+<bill session="100" type="h" number="1975" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1988-11-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-18"/>
+  </status>
+  <introduced datetime="1987-04-07"/>
+  <titles>
+    <title type="short" as="introduced">Federal Cave Resources Protection Act of 1987</title>
+    <title type="short" as="reported to house">Federal Cave Resources Protection Act of 1988</title>
+    <title type="short" as="passed house">Federal Cave Resources Protection Act of 1988</title>
+    <title type="short" as="reported to senate">Federal Cave Resources Protection Act of 1988</title>
+    <title type="short" as="passed senate">Federal Cave Resources Protection Act of 1988</title>
+    <title type="short" as="enacted">Federal Cave Resources Protection Act of 1988</title>
+    <title type="official" as="introduced">A bill to protect caves resources on Federal lands, and for other purposes.</title>
+  </titles>
+  <sponsor id="400043"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-05-19"/>
+    <cosponsor id="400571" joined="1988-02-17"/>
+    <cosponsor id="401986" joined="1987-05-19"/>
+    <cosponsor id="402114" joined="1987-07-15"/>
+    <cosponsor id="402600" joined="1987-09-14"/>
+    <cosponsor id="300029" joined="1987-04-07"/>
+    <cosponsor id="403190" joined="1987-05-19"/>
+    <cosponsor id="403308" joined="1987-07-15"/>
+    <cosponsor id="404422" joined="1987-07-15"/>
+    <cosponsor id="405524" joined="1988-03-08"/>
+    <cosponsor id="300058" joined="1987-04-07"/>
+    <cosponsor id="406157" joined="1987-05-19"/>
+    <cosponsor id="400216" joined="1987-06-16"/>
+    <cosponsor id="406461" joined="1987-05-19"/>
+    <cosponsor id="406530" joined="1987-06-16"/>
+    <cosponsor id="400238" joined="1987-05-19"/>
+    <cosponsor id="400240" joined="1987-07-15"/>
+    <cosponsor id="400595" joined="1987-06-16"/>
+    <cosponsor id="407960" joined="1987-06-16"/>
+    <cosponsor id="407967" joined="1987-11-19"/>
+    <cosponsor id="408023" joined="1987-05-19"/>
+    <cosponsor id="408907" joined="1987-05-19"/>
+    <cosponsor id="400609" joined="1987-09-29"/>
+    <cosponsor id="400377" joined="1987-05-27"/>
+    <cosponsor id="410245" joined="1987-09-29"/>
+    <cosponsor id="410251" joined="1987-05-19"/>
+    <cosponsor id="410407" joined="1987-07-15"/>
+    <cosponsor id="411025" joined="1987-05-27"/>
+    <cosponsor id="411224" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-07" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-05-08">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Requested from USDA, Interior.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-09-01">
+      <text>Executive Comment Received From USDA.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-03-16" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-03-28">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-534.</text>
+    </action>
+    <action datetime="1988-03-28">
+      <text>Placed on Union Calendar No: 329.</text>
+    </action>
+    <action datetime="1988-03-28">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-28" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-03-29">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-09-22">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported in lieu of S. 927 with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-09-28">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 100-559.</text>
+    </action>
+    <calendar datetime="1988-09-28" calendar="Senate Legislative" under="General Orders" number="1015">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1015.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-10">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-10">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-691" type="public" datetime="1988-11-18">
+      <text>Became Public Law No: 100-691.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="927"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental protection"/>
+    <term name="Government trust funds"/>
+    <term name="Indian lands"/>
+    <term name="Licenses"/>
+    <term name="Natural areas"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1988--Passed Senate amended.
+(Measure passed Senate, amended) Federal Cave Resources Protection Act of 1988 - Requires the Secretary of Agriculture or the Secretary of the Interior, as appropriate, to issue such regulations as are necessary to protect significant caves on Federal lands and to provide for the exchange of information between Government authorities and those who use such caves. Directs the Secretary to take such actions as may be necessary to further the purposes of this Act, including: (1) identifying significant caves; (2) restricting the use of such caves; (3) entering into volunteer management agreements with the caving community; and (4) appointing advisory committees. Requires that such caves be considered in subsequent land management plans. Restricts the release of information concerning the location of any Federal cave. Authorizes the Secretary to provide such information upon the written request by Federal and State agencies or bona fide educational and research institutions. Requires such a request to include an assurance to protect the confidentiality of such information. Authorizes the Secretary to issue permits for the collection and removal of Federal cave resources. Subjects the issuance of such permits to terms which may include the posting of bonds to insure compliance with any permit. Requires the Secretary to revoke permits for violations of this Act or permit conditions. Authorizes the Secretary of the Interior to delegate permit authority to an Indian tribe for caves on Indian lands at a tribe's request. Requires a tribe's permission before the removal of any cave resource on such tribe's land. Entitles a tribe to notice before the issuance of a permit if the Secretary determines that possible harm or destruction of a religious or cultural site may occur. Imposes criminal penalties for the alteration of a cave or interference with cave resources, including the sale or exchange of cave resources removed without permission. Establishes civil penalties for violations of this Act or permit conditions. Authorizes appropriations. Places permit fees and fines in a special fund in the Treasury for cave management.</summary>
+</bill>

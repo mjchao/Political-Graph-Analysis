@@ -1,0 +1,38 @@
+<bill session="100" type="h" number="2646" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of the city of Dickinson, North Dakota.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>For Further Action See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Public works"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Relieves a city in North Dakota of all obligations incurred in a contract entered into with the Secretary of the Interior concerning construction of certain facilities under the Reclamation Authorization Act of 1975, notwithstanding certain provisions of such Act. Authorizes the Secretary to enter into a new repayment contract with such city under specified terms involving the bascule gate project.</summary>
+</bill>

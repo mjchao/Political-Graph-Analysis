@@ -1,0 +1,36 @@
+<bill session="100" type="hj" number="235" updated="2014-03-22T09:53:46-04:00">
+  <state datetime="1987-04-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-08"/>
+  </status>
+  <introduced datetime="1987-04-08"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution commending the Cuban "Declaration of Freedom".</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-08" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Cuba"/>
+    <term name="Cubans"/>
+    <term name="Immigration"/>
+    <term name="Political refugees"/>
+    <term name="Refugees"/>
+  </subjects>
+  <amendments/>
+  <summary>4/8/1987--Introduced.
+Expresses the sense of the House of Representatives that: (1) the "Declaration of Freedom" adopted by Cuban exiles should be patriotically considered by all Cubans in exile; (2) such declaration should serve to unite those pledged to restoring Cuban liberty and independence; and (3) it should be the objective the United States to commend and encourage recognition and respect for the declaration.</summary>
+</bill>

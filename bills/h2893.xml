@@ -1,0 +1,104 @@
+<bill session="100" type="h" number="2893" updated="2014-03-22T09:52:33-04:00">
+  <state datetime="1987-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-11-03"/>
+  </status>
+  <introduced datetime="1987-07-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to reauthorize the Fishermen's Protective Act.</title>
+  </titles>
+  <sponsor id="400844"/>
+  <cosponsors>
+    <cosponsor id="406461" joined="1987-07-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-08" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Executive Comment Requested from State, Commerce.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Subcommittee on Fisheries and Wildlife Conservation and the Environment Discharged.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-09-14">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-299.</text>
+    </action>
+    <action datetime="1987-09-14">
+      <text>Placed on Union Calendar No: 182.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="335" datetime="1987-09-29" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 404 - 0 (Record Vote No: 335).</text>
+    </vote>
+    <calendar datetime="1987-09-30" calendar="Senate Legislative" under="General Orders" number="356">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 356. Pursuant to the order of August 3, 1987.</text>
+    </calendar>
+    <action datetime="1987-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-10-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1987-10-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-11-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-151" type="public" datetime="1987-11-03">
+      <text>Became Public Law No: 100-151.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="1097"/>
+    <bill relation="identical" session="100" type="s" number="1695"/>
+    <bill relation="identical" session="100" type="s" number="1695"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="American economic assistance"/>
+    <term name="Fish processing ships"/>
+    <term name="Fisheries"/>
+    <term name="Fishing boats"/>
+    <term name="Government liability"/>
+    <term name="International affairs"/>
+    <term name="International fishery management"/>
+    <term name="Seizure of vessels and cargoes"/>
+    <term name="Ships and shipping"/>
+    <term name="Vessel documentation"/>
+  </subjects>
+  <amendments>
+    <amendment number="s974"/>
+    <amendment number="s975"/>
+  </amendments>
+  <summary>10/14/1987--Passed Senate amended.
+(Measure passed Senate, amended) Amends the Fishermen's Protective Act to extend, from October 1, 1987, to October 1, 1988, the termination date of provisions authorizing the Secretary of State to make reimbursements for certain losses upon the seizure of a U.S. documented commercial fishing vessel by a foreign country. Removes the restriction of current law which limits to developing countries the provision of setting aside surplus Government vessels for use in humanitarian services. Extends to October 22, 1989, the termination date relating to setting aside such surplus Government vessels. Extends to November 15, 1987 (currently, October 15, 1987), the moratorium period on the documentation of foreign-built fish processing vessels.</summary>
+</bill>

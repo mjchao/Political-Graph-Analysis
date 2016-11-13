@@ -1,0 +1,130 @@
+<bill session="100" type="h" number="5199" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-10-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-31"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to make nonmailable any plant, fruit, vegetable, or other matter, the movement of which in interstate commerce has been prohibited or restricted by the Secretary of Agriculture in order to prevent the dissemination of dangerous plant diseases or pests, and for other purposes.</title>
+  </titles>
+  <sponsor id="402710"/>
+  <cosponsors>
+    <cosponsor id="400844" joined="1988-09-08"/>
+    <cosponsor id="406530" joined="1988-09-16"/>
+    <cosponsor id="406729" joined="1988-09-08"/>
+    <cosponsor id="400239" joined="1988-09-28"/>
+    <cosponsor id="400256" joined="1988-09-08"/>
+    <cosponsor id="407351" joined="1988-08-10"/>
+    <cosponsor id="407772" joined="1988-09-16"/>
+    <cosponsor id="408457" joined="1988-09-08"/>
+    <cosponsor id="408506" joined="1988-08-10"/>
+    <cosponsor id="409887" joined="1988-09-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-10" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-08-10">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Referred to Subcommittee on Criminal Justice.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Executive Comment Requested from OMB, US Postal Service, USDA.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Referred to Subcommittee on Postal Personnel and Modernization.</text>
+    </action>
+    <action datetime="1988-08-25">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1988-08-25">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Reported to House by House Committee on Post Office and Civil Service.  Report No: 100-954 (Part I).</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="398" datetime="1988-10-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 415 - 2 (Record Vote No: 398).</text>
+    </vote>
+    <action datetime="1988-10-05">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Senate Committee on Governmental Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-12" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-13">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-31" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-574" type="public" datetime="1988-10-31">
+      <text>Became Public Law No: 100-574.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral"/>
+    <committee activity="Referral" code="HSJU07" subcommittee="Criminal Justice" name="House Judiciary"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSPO05" subcommittee="Postal Personnel and Modernization" name="House Post Office and Civil Service"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2837"/>
+    <bill relation="identical" session="100" type="s" number="2837"/>
+  </relatedbills>
+  <subjects>
+    <term name="Postal service"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Counterfeiting"/>
+    <term name="Crime prevention"/>
+    <term name="Forgery"/>
+    <term name="Fruit and fruit trade"/>
+    <term name="Nurseries (Horticulture)"/>
+    <term name="Pest control"/>
+    <term name="Plant diseases"/>
+    <term name="Plant quarantine"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Vegetables and vegetable trade"/>
+  </subjects>
+  <amendments/>
+  <summary>10/4/1988--Passed House amended.
+(Measure passed House, amended, roll call #398 (415-2)) Declares as nonmailable matter any plant, fruit, vegetable, root, bulb, seed, or other plant product subject to interstate quarantine under the Plant Quarantine Act. Directs the Postal Service to prescribe rules and regulations permitting the mailing of such plants consistent with procedures relating to the inspection, disinfection, and certification of, and other conditions for, the delivery and shipment of plants otherwise subject to quarantine. Imposes criminal penalties upon: (1) whoever knowingly mails or causes to be mailed a nonmailable plant; or (2) whoever forges or counterfeits agricultural certifications. Expresses the sense of the Congress that the Postal Service and the Department of Agriculture should engage in a joint effort to educate the public to the types of harm which can result from the transmission to different parts of the country of plants, fruits, vegetables, and other matter which may be carrying dangerous plant diseases or pests.</summary>
+</bill>

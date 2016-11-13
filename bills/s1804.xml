@@ -1,0 +1,49 @@
+<bill session="100" type="s" number="1804" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-21"/>
+  </status>
+  <introduced datetime="1987-10-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National Wildlife Refuge Administration Act.</title>
+  </titles>
+  <sponsor id="400565"/>
+  <cosponsors>
+    <cosponsor id="401709" joined="1987-10-21"/>
+    <cosponsor id="402412" joined="1987-10-21"/>
+    <cosponsor id="403669" joined="1987-10-21"/>
+    <cosponsor id="300051" joined="1987-10-21"/>
+    <cosponsor id="300060" joined="1988-05-25"/>
+    <cosponsor id="300065" joined="1988-01-27"/>
+    <cosponsor id="407663" joined="1987-10-21"/>
+    <cosponsor id="400563" joined="1988-07-27"/>
+    <cosponsor id="409917" joined="1987-10-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1987-12-10">
+      <text>Subcommittee on Environmental Protection. Hearings held.</text>
+    </action>
+    <action datetime="1988-02-17">
+      <text>Subcommittee on Environmental Protection. Hearings held. Hearings printed:  S.Hrg. 100-694.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSEV02" subcommittee="Environmental Protection" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Alaska"/>
+    <term name="Animals and Animal Protection"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Wilderness areas"/>
+    <term name="Wildlife refuges"/>
+  </subjects>
+  <amendments/>
+  <summary>10/21/1987--Introduced.
+Designates the Arctic Coastal Plain Wilderness within the Arctic National Wildlife Refuge, Alaska, as a component of the National Wilderness Preservation System.</summary>
+</bill>

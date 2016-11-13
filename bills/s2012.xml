@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="2012" updated="2014-03-22T09:55:33-04:00">
+  <state datetime="1988-01-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-26"/>
+  </status>
+  <introduced datetime="1988-01-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize the Administrator of Veterans' Affairs to provide financial assistance for the operation and maintenance of State veterans' cemeteries, and for other purposes.</title>
+  </titles>
+  <sponsor id="402412"/>
+  <cosponsors>
+    <cosponsor id="408597" joined="1988-01-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1988-01-29">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <action datetime="1988-01-29">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4766"/>
+    <bill relation="identical" session="100" type="h" number="4766"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Grants-in-aid"/>
+    <term name="State cemeteries"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Veterans' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/1988--Introduced.
+Authorizes the Administrator of Veterans Affairs to make grants to States to defray the expenses of operating and maintaining veterans' cemeteries. Sets a maximum yearly grant limit for each State. Makes States ineligible to receive both operation and maintenance grants and a plot allowance for the burial of certain veterans in State veterans' cemeteries.</summary>
+</bill>

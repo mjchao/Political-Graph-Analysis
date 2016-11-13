@@ -1,0 +1,77 @@
+<bill session="100" type="s" number="1960" updated="2014-03-22T09:55:31-04:00">
+  <state datetime="1988-06-27">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-27"/>
+  </status>
+  <introduced datetime="1987-12-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building located at 215 17th Street in Omaha, Nebraska, as the "Edward Zorinsky Federal Building".</title>
+  </titles>
+  <sponsor id="403962"/>
+  <cosponsors>
+    <cosponsor id="406183" joined="1988-03-31"/>
+    <cosponsor id="407268" joined="1988-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <calendar datetime="1988-03-29" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-03-31">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick without amendment. Without written report.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-03-31" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-11">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-11">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-20" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-21">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-27" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-354" type="public" datetime="1988-06-27">
+      <text>Became Public Law No: 100-354.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral"/>
+    <committee activity="Referral" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3838"/>
+    <bill relation="identical" session="100" type="h" number="3838"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Federal office buildings"/>
+    <term name="Names"/>
+    <term name="Nebraska"/>
+  </subjects>
+  <amendments/>
+  <summary>12/17/1987--Introduced.
+Designates the Federal building at 215 North 17th Street, Omaha, Nebraska, as the Edward Zorinsky Federal Building.</summary>
+</bill>

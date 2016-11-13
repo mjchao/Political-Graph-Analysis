@@ -1,0 +1,36 @@
+<bill session="100" type="hr" number="209" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-24">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-06-24"/>
+  </status>
+  <introduced datetime="1987-06-24"/>
+  <titles>
+    <title type="official" as="introduced">A resolution waiving certain points of order against the conference report on the bill (H.R. 558) to provide urgently needed assistance to protect and improve the lives and safety of the homeless, with special emphasis on elderly persons, handicapped persons, and families with children.</title>
+  </titles>
+  <sponsor id="411488"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-24">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-181.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Placed on House Calendar No: 52.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="558"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Housing and community development"/>
+  </subjects>
+  <amendments/>
+  <summary>6/24/1987--Introduced.
+Waives points of order against the consideration of the conference report on H.R. 558 (programs for the homeless).</summary>
+</bill>

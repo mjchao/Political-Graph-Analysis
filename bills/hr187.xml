@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="187" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-04">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-06-04"/>
+  </status>
+  <introduced datetime="1987-06-04"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H. R. 2112) to authorize appropriations for fiscal year 1988 for intelligence and intelligence-related activities of the United States Government, for the Intelligence Community Staff, for the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+  </titles>
+  <sponsor id="401310"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-04">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-126.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Placed on House Calendar No: 34.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 285 - 115 (Record Vote No: 168).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="2112"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 2112 (intelligence operations funding).</summary>
+</bill>

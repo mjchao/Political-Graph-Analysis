@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="5406" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of the vessel "Foxy Lady III".</title>
+  </titles>
+  <sponsor id="407853"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-27" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Measure Incorporated in H.R.3105.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3105"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Ships"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Introduced.
+Authorizes the Secretary of Transportation to issue a Great Lakes license to a named vessel.</summary>
+</bill>

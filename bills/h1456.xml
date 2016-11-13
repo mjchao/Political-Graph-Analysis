@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="1456" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-03-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-05"/>
+  </status>
+  <introduced datetime="1987-03-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the energy security of the United States.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="300017" joined="1987-03-05"/>
+    <cosponsor id="408190" joined="1987-03-05"/>
+    <cosponsor id="400331" joined="1987-03-05"/>
+    <cosponsor id="409650" joined="1987-03-05"/>
+    <cosponsor id="400440" joined="1987-03-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-05" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Buy American"/>
+    <term name="Energy policy"/>
+    <term name="Fissionable materials"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government procurement"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Nuclear energy"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+    <term name="Strategic materials"/>
+    <term name="Uranium"/>
+  </subjects>
+  <amendments/>
+  <summary>3/5/1987--Introduced.
+Prohibits the Secretary of Energy from distributing any portion of the Federal uranium stockpile (other than for defense or research and development purposes) during any period in which: (1) the viability of the domestic uranium industry is not assured for certain purposes of the Atomic Energy Act of 1954; (2) such viability is determined; or (3) such distribution may discourage development of domestic supply sources independent of the Department of Energy. Prohibits any Federal agency from using uranium that is not of domestic origin (except for the existing stockpile of nondomestic uranium). Mandates that certain criteria issued by the Secretary be modified within one year of the date of enactment of this Act to clarify that the economic viability of the domestic uranium industry is the principal determining factor relating to viability of that industry. Directs the Secretary of Energy to require by regulation, with specified exceptions, that not less than 80 percent of source material or special nuclear material employed in specified facilities be derived from uranium that is mined and milled in the United States. Authorizes the Secretary to revise such percentage once every five years.</summary>
+</bill>

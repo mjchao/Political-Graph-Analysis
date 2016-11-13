@@ -1,0 +1,137 @@
+<bill session="100" type="h" number="403" updated="2014-03-22T09:51:20-04:00">
+  <state datetime="1987-12-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-31"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish the El Malpais National Monument, the Masau Trail, and the Grants National Conservation Area in the State of New Mexico, and for other purposes.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="406992" joined="1987-01-06"/>
+    <cosponsor id="407162" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-20">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-12">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-05-20" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-06-01">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-116.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Placed on Union Calendar No: 79.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-01" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-03">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="1987-06-25">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported in lieu of S. 56 with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-07-06">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston under the authority of the order of Jul  1, 87 with an amendment in the nature of a substitute. With written report No. 100-100. Additional views filed.</text>
+    </action>
+    <calendar datetime="1987-07-06" calendar="Senate Legislative" under="General Orders" number="226">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 226.</text>
+    </calendar>
+    <action datetime="1987-12-17">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-12-17" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-17">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-18" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-12-18">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-21">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-22">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-31" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-225" type="public" datetime="1987-12-31">
+      <text>Became Public Law No: 100-225.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="401"/>
+    <bill relation="identical" session="100" type="s" number="56"/>
+    <bill relation="identical" session="100" type="s" number="56"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arizona"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal-Indian relations"/>
+    <term name="Grazing"/>
+    <term name="Historic sites"/>
+    <term name="Hunting"/>
+    <term name="Indian lands"/>
+    <term name="Land transfers"/>
+    <term name="Management"/>
+    <term name="Monuments and memorials"/>
+    <term name="Names"/>
+    <term name="National monuments"/>
+    <term name="Native Americans"/>
+    <term name="New Mexico"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="State history"/>
+    <term name="Trails"/>
+    <term name="Trapping"/>
+    <term name="Volcanoes"/>
+    <term name="Wilderness areas"/>
+    <term name="Wood"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1363"/>
+  </amendments>
+  <summary>12/17/1987--Passed Senate amended.
+(Measure passed Senate, amended) Title I: El Malpais National Monument - Establishes the El Malpais National Monument, New Mexico. Directs the Secretary of the Interior, through the Director of the National Park Service, to administer such Monument. Permits the continuation of existing grazing privileges through 1997. Title II: Masau Trail - Authorizes the Secretary to designate a vehicular tour route along existing public roads linking prehistoric and historic cultural sites in New Mexico and eastern Arizona, to be known as the Masau Trail. Permits the erection of informational devices. Title III: El Malpais National Conservation Area - Establishes the El Malpais National Conservation Area, to be administered by the Secretary, acting through the Director of the Bureau of Land Management. Permits hunting and trapping except in designated zones. Prohibits the commercial collection of wood. Permits the grazing of livestock. Title IV: Wilderness - Designates the Cebolla Wilderness and the West Malpais Wilderness located within the El Malpais National Monument and National Conservation Area as a component of the National Wilderness Preservation System. Permits the grazing of livestock as specified. Title V: General Provisions - Directs the Secretary to develop and report within three years to the House Committee on Interior and Insular Affairs and the Senate Committee on Energy and Natural Resources on separate general management plans for the Monument and the Conservation Area. Requires such plans to include interpretation and education programs, public facility proposals, and natural, cultural, and wildlife resources management. Requires such plans to evaluate specified lands for their suitability for preservation as wilderness. Authorizes the Secretary to acquire lands within the Monument or Conservation Area by donation, exchange, purchase, or transfer. Requires the Secretary to notify the New Mexico Commissioner of Public Lands of State lands or interests within the Monument or Conservation Area and of the opportunity to exchange such lands for Federal public lands. Sets forth procedures for such exchange. Authorizes the Secretary to exchange Federal mineral interests in specified lands for private mineral interests in other lands. Directs the Secretary to exchange specified lands with the Pueblo of Acoma, upon their request, to acquire lands within the Conservation Area. Withdraws all Federal lands within the Monument and Conservation Area from entry under the public land, mining, or mineral and geothermal leasing laws. Redesignates the Capulin Mountain National Monument as the Capulin Volcano National Monument. Requires that such Monument and Conservation Area be open to Indians for traditional cultural and religious purposes. Directs the Secretary to request that the Governor of the Pueblo of Acoma and other Indian tribal executives make recommendations on controlling access to protect the privacy of religious activities. Requires the Secretary to provide written notice of any closures to the appropriate congressional committees. Authorizes the Secretary to establish an advisory committee. Authorizes the Secretary to enter into cooperative agreements for the interpretation of the prehistoric and historic civilizations in New Mexico and eastern Arizona. Reserves to the United States sufficient water to carry out the purpose of this Act. Authorizes appropriations.</summary>
+</bill>

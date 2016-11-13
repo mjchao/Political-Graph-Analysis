@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="4120" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-09"/>
+  </status>
+  <introduced datetime="1988-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Water Pollution Control Act to include Charleston Harbor, South Carolina, in the National estuary program.</title>
+  </titles>
+  <sponsor id="409052"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-09" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Executive Comment Requested from EPA, OMB.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Referred to Subcommittee on Water Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW02" subcommittee="Water Resources" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Estuaries"/>
+    <term name="Harbors"/>
+    <term name="Ocean"/>
+    <term name="South Carolina"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1988--Introduced.
+Amends the Federal Water Pollution Control Act to require the Administrator of the Environmental Protection Agency to give priority consideration to the inclusion of Charleston Harbor, South Carolina, in the National Estuary program.</summary>
+</bill>

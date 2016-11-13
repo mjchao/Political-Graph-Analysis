@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="1323" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Michael J. Adams.</title>
+  </titles>
+  <sponsor id="405724"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-02">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+    <term name="Federal employees"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual in full satisfaction of all claims against the United States for travel expenses to a duty station with the Occupational Safety and Health Administration. Relieves that individual of all liability to the United States for a specified sum allegedly advanced in error for such expenses.</summary>
+</bill>

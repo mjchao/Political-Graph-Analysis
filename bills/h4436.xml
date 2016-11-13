@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="4436" updated="2014-03-22T09:53:17-04:00">
+  <state datetime="1988-04-27">REPORTED</state>
+  <status>
+    <unknown datetime="1988-04-27"/>
+  </status>
+  <introduced datetime="1988-04-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for the Federal Election Commission for fiscal year 1989.</title>
+  </titles>
+  <sponsor id="410567"/>
+  <cosponsors>
+    <cosponsor id="400401" joined="1988-04-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-20" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-04-20">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+    <action datetime="1988-04-20">
+      <text>Subcommittee Consideration and Mark-up Session Held by Subcommittee on Elections Prior to Introduction (April 19, 88).  Forwarded to Full Committee.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-27" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-05-19">
+      <text>Reported to House by House Committee on House Administration. Report No: 100-640.</text>
+    </action>
+    <action datetime="1988-05-19">
+      <text>Placed on Union Calendar No: 378.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Authorization"/>
+    <term name="Computers"/>
+    <term name="Economics and public finance"/>
+    <term name="Election administration"/>
+    <term name="Electronic data processing"/>
+    <term name="Federal Election Commission"/>
+    <term name="Science and technology"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>4/20/1988--Introduced.
+Amends the Federal Election Campaign Act of 1971 to authorize appropriations for the Federal Election Commission for FY 1989, including additional funding for the enhancement of the Commission's automatic data processing system.</summary>
+</bill>

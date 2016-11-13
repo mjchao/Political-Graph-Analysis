@@ -1,0 +1,80 @@
+<bill session="100" type="h" number="1005" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to deny the foreign tax credit for any tax paid or accrued to the Republic of South Africa.</title>
+  </titles>
+  <sponsor id="400333"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-08-05"/>
+    <cosponsor id="402114" joined="1987-08-05"/>
+    <cosponsor id="402626" joined="1987-10-15"/>
+    <cosponsor id="402763" joined="1987-10-15"/>
+    <cosponsor id="400080" joined="1987-08-05"/>
+    <cosponsor id="403031" joined="1987-08-05"/>
+    <cosponsor id="403314" joined="1987-10-15"/>
+    <cosponsor id="403364" joined="1987-08-05"/>
+    <cosponsor id="400580" joined="1987-10-15"/>
+    <cosponsor id="300037" joined="1987-08-05"/>
+    <cosponsor id="403689" joined="1987-08-05"/>
+    <cosponsor id="404006" joined="1987-08-05"/>
+    <cosponsor id="404013" joined="1987-08-05"/>
+    <cosponsor id="404163" joined="1987-08-05"/>
+    <cosponsor id="404213" joined="1987-10-15"/>
+    <cosponsor id="404422" joined="1987-08-05"/>
+    <cosponsor id="404520" joined="1987-08-05"/>
+    <cosponsor id="400536" joined="1987-12-18"/>
+    <cosponsor id="404752" joined="1987-08-05"/>
+    <cosponsor id="404856" joined="1987-08-05"/>
+    <cosponsor id="405256" joined="1987-08-05"/>
+    <cosponsor id="405524" joined="1987-12-18"/>
+    <cosponsor id="405985" joined="1987-08-05"/>
+    <cosponsor id="406284" joined="1987-08-05"/>
+    <cosponsor id="406740" joined="1987-10-15"/>
+    <cosponsor id="400238" joined="1987-08-05"/>
+    <cosponsor id="400240" joined="1987-08-05"/>
+    <cosponsor id="406974" joined="1987-12-18"/>
+    <cosponsor id="400595" joined="1987-08-05"/>
+    <cosponsor id="400256" joined="1987-08-05"/>
+    <cosponsor id="407672" joined="1987-08-05"/>
+    <cosponsor id="400278" joined="1987-10-15"/>
+    <cosponsor id="400306" joined="1987-10-15"/>
+    <cosponsor id="409593" joined="1987-10-15"/>
+    <cosponsor id="410145" joined="1987-08-05"/>
+    <cosponsor id="400387" joined="1987-08-05"/>
+    <cosponsor id="400409" joined="1987-08-05"/>
+    <cosponsor id="411488" joined="1987-08-05"/>
+    <cosponsor id="400614" joined="1987-10-15"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign tax credit"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Income tax"/>
+    <term name="Sanctions (International law)"/>
+    <term name="South Africa"/>
+    <term name="Tax credits"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Amends the Internal Revenue Code to deny the foreign income tax credit for any income, war profits, or excess profits taxes paid or accrued to the Republic of South Africa.</summary>
+</bill>

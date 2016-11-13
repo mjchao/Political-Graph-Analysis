@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="4665" updated="2014-03-22T09:53:22-04:00">
+  <state datetime="1988-08-08">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-08-08"/>
+  </status>
+  <introduced datetime="1988-05-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to allow the obsolete submarine ex-Growler (ex-SSG-577) to be transferred to the Intrepid Sea-Air-Space Museum in New York before the expiration of the otherwise applicable 60-day congressional review period.</title>
+  </titles>
+  <sponsor id="405524"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-24" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-05-31">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-05-31">
+      <text>Referred to Subcommittee on Seapower and Strategic and Critical Materials.</text>
+    </action>
+    <calendar datetime="1988-07-26" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-07-28">
+      <text>Reported to House by House Committee on Armed Services.  Report No: 100-806.</text>
+    </action>
+    <action datetime="1988-07-28">
+      <text>Placed on Union Calendar No: 489.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-08" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-09">
+      <text>Received in the Senate and read twice and referred to the Committee on Armed Services.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSAS05" subcommittee="Seapower and Strategic and Critical Materials" name="House Armed Services"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Defense articles"/>
+    <term name="Historic sites"/>
+    <term name="Museums"/>
+    <term name="New York State"/>
+    <term name="Ships and shipping"/>
+    <term name="Submarines"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/1988--Introduced.
+Allows the obsolete submarine ex-Growler to be transferred to the Intrepid Sea-Air-Space Museum in New York before the expiration of the otherwise-applicable 60-day congressional review period.</summary>
+</bill>

@@ -1,0 +1,44 @@
+<bill session="100" type="s" number="241" updated="2014-03-22T09:54:50-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Credit Card Disclosure Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Truth in Lending Act.</title>
+  </titles>
+  <sponsor id="403142"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1987-01-27"/>
+    <cosponsor id="300060" joined="1987-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+    <action datetime="1987-04-21">
+      <text>Subcommittee on Consumer Affairs. Hearings held. Hearings printed:  S.Hrg. 100-119.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Hearings" code="SSBK03" subcommittee="Consumer Affairs" name="Senate Banking, Housing, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Consumer credit"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Credit"/>
+    <term name="Credit cards"/>
+    <term name="Finance and financial sector"/>
+    <term name="Finance charges"/>
+    <term name="Interest"/>
+    <term name="Interest rates"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Credit Card Disclosure Act of 1987 - Amends the Truth in Lending Act to require that credit card issuers disclose certain information regarding interest rates and fees on applications. Requires credit card issuers to submit such information quarterly to the Board of Governors of the Federal Reserve System.</summary>
+</bill>

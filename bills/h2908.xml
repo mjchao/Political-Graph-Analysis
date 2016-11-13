@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="2908" updated="2014-03-22T09:52:33-04:00">
+  <state datetime="1987-07-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-09"/>
+  </status>
+  <introduced datetime="1987-07-09"/>
+  <titles>
+    <title type="short" as="introduced">Agricultural Prompt Payment Act of 1987</title>
+    <title type="official" as="introduced">A bill to authorize and direct the Secretary of Agriculture to pay interest on late payments to farmers, ranchers, and other producers.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="300017" joined="1987-09-17"/>
+    <cosponsor id="403873" joined="1987-07-27"/>
+    <cosponsor id="404006" joined="1987-07-27"/>
+    <cosponsor id="404325" joined="1987-07-15"/>
+    <cosponsor id="400536" joined="1987-07-27"/>
+    <cosponsor id="406157" joined="1987-07-27"/>
+    <cosponsor id="406554" joined="1987-08-06"/>
+    <cosponsor id="400236" joined="1987-07-15"/>
+    <cosponsor id="406799" joined="1987-07-15"/>
+    <cosponsor id="408190" joined="1987-08-06"/>
+    <cosponsor id="408632" joined="1987-07-15"/>
+    <cosponsor id="409651" joined="1987-08-06"/>
+    <cosponsor id="410529" joined="1987-07-15"/>
+    <cosponsor id="410567" joined="1987-07-15"/>
+    <cosponsor id="411677" joined="1987-07-27"/>
+    <cosponsor id="411834" joined="1987-07-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-09" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Department Operations, Research, and Foreign Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG04" subcommittee="Department Operations, Research, and Foreign Agriculture" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Farmers"/>
+    <term name="Interest"/>
+    <term name="Range management"/>
+    <term name="Soil conservation"/>
+  </subjects>
+  <amendments/>
+  <summary>7/9/1987--Introduced.
+Agricultural Prompt Payment Act of 1987 - Directs the Secretary of Agriculture to pay interest on any payment to a producer, rancher, or farmer under the Agricultural Act of 1949 or the conservation acreage reserve program when such a payment is not made within ten days of its due date. Directs the Secretary to include a required payment date in each contract entered into after this Act's enactment with respect to the affected programs.</summary>
+</bill>

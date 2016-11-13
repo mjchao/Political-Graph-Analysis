@@ -1,0 +1,59 @@
+<bill session="100" type="s" number="1596" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-09-28">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-09-28"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the period for waivers of State eligibility requirements to enable certain States to qualify for child abuse and neglect assistance.</title>
+  </titles>
+  <sponsor id="300071"/>
+  <cosponsors>
+    <cosponsor id="403346" joined="1987-08-05"/>
+    <cosponsor id="300150" joined="1987-08-05"/>
+    <cosponsor id="300094" joined="1987-08-05"/>
+    <cosponsor id="300157" joined="1987-08-05"/>
+  </cosponsors>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-09-16" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-09-16">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-09-16">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <topresident datetime="1987-09-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-09-28" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-117" type="public" datetime="1987-09-28">
+      <text>Became Public Law No: 100-117.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Child abuse"/>
+    <term name="Children and youth"/>
+    <term name="Federal aid to child welfare"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Introduced.
+Amends the Child Abuse Prevention and Treatment Act to extend for a third one-year period waivers of State eligibility requirements to enable a State to qualify for child abuse and neglect assistance if the Secretary of Health and Human Services makes an additional finding that such State is making substantial progress to achieve compliance with such requirements.</summary>
+</bill>

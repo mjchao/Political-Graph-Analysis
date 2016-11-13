@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="2706" updated="2014-03-22T09:52:28-04:00">
+  <state datetime="1987-06-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-17"/>
+  </status>
+  <introduced datetime="1987-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Airline Passengers Right to Know Act</title>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to require that airline passengers be given adequate notice of delays, cancellations, and changes in scheduled stops of flights, and for other purposes.</title>
+  </titles>
+  <sponsor id="407816"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-17" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>See H.R.3051.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3051"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Airline passenger traffic"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Consumer education"/>
+    <term name="Consumer protection"/>
+    <term name="Rebates"/>
+    <term name="Restrictive trade practices"/>
+    <term name="Unfair or deceptive trade practices"/>
+  </subjects>
+  <amendments/>
+  <summary>6/17/1987--Introduced.
+Airline Passengers Right to Know Act - Amends the Federal Aviation Act of 1958 to mandate that air carriers: (1) notify passengers of flight delays, cancellations, and changes in scheduled stops; and (2) provide either rebates or compensation to passengers if the air carrier fails to notify them. Requires the Secretary to order an air carrier to provide such rebate or compensation if the Secretary determines, upon complaint, that an entitled passenger has been denied the rebate or compensation. Requires that air carriers include on each passenger's airline ticket specified information regarding the air service record of such air carrier, together with a postcard addressed to the Consumer Affairs Office of the Department of Transportation which contains a complaint form concerning flight cancellation, delay, or luggage handling. Directs the Secretary of Transportation to investigate possible deceptive flight schedules and possible flight cancellations made for economic reasons. Requires the Secretary to report annually to the Congress the number of scheduled flight delays and the causes for such delays.</summary>
+</bill>

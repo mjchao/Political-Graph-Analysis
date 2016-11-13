@@ -1,0 +1,44 @@
+<bill session="100" type="sr" number="75" updated="2014-03-22T09:54:35-04:00">
+  <state datetime="1987-01-21">REPORTED</state>
+  <status>
+    <unknown datetime="1987-01-21"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">An original resolution authorizing expenditures by the Committee on Labor and Human Resources.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1987-01-21" state="REPORTED">
+      <text>Committee on Labor and Human Resources ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1987-01-21">
+      <text>Committee on Labor and Human Resources. Original measure reported to Senate by Senator Kennedy. Without written report.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to the Committee on Rules.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Committee on Rules. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Origin, Reporting, Markup"/>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="sr" number="80"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committee staffing"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (Senate)"/>
+    <term name="Government consultants"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Authorizes the Senate Committee on Labor and Human Resources, from March 1, 1987, through February 29, 1988, to: (1) make expenditures from the contingent fund; (2) employ personnel; (3) utilize, on a reimbursable basis, the services of department or agency personnel; and (4) procure consultant services.</summary>
+</bill>

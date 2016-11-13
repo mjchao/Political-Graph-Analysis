@@ -1,0 +1,113 @@
+<bill session="100" type="h" number="2631" updated="2014-03-22T09:52:26-04:00">
+  <state datetime="1988-03-31">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-03-31"/>
+  </status>
+  <introduced datetime="1987-06-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for the United States Mint for fiscal years 1988 and 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="400895"/>
+  <cosponsors>
+    <cosponsor id="405448" joined="1987-06-09"/>
+    <cosponsor id="400314" joined="1987-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-09" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Referred to Subcommittee on Consumer Affairs and Coinage.</text>
+    </action>
+    <action datetime="1987-07-15">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-15">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-15">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-01" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-06">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-08">
+      <text>Received in the Senate and read twice and referred to the Committee on Banking.</text>
+    </action>
+    <calendar datetime="1987-12-02">
+      <text>Committee on Banking. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1987-12-16">
+      <text>Committee on Banking. Reported to Senate by Senator Proxmire with amendments. With written report No. 100-260.</text>
+    </action>
+    <calendar datetime="1987-12-16" calendar="Senate Legislative" under="General Orders" number="496">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 496.</text>
+    </calendar>
+    <action datetime="1988-02-17">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-02-17" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-02-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-03-10">
+      <text>House Agreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1988-03-10">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-03-16">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-03-21">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-03-31" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-274" type="public" datetime="1988-03-31">
+      <text>Became Public Law No: 100-274.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSBA02" subcommittee="Consumer Affairs and Coinage" name="House Banking, Finance, and Urban Affairs"/>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Authorization"/>
+    <term name="Buy American"/>
+    <term name="California"/>
+    <term name="Coins and coinage"/>
+    <term name="Conferences"/>
+    <term name="Department of the Treasury"/>
+    <term name="Economics and public finance"/>
+    <term name="Gold"/>
+    <term name="Government procurement"/>
+    <term name="International affairs"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="New York State"/>
+    <term name="Public debt"/>
+    <term name="Reciprocity"/>
+    <term name="Silver"/>
+  </subjects>
+  <amendments>
+    <amendment number="s1407"/>
+  </amendments>
+  <summary>2/17/1988--Passed Senate amended.
+(Measure passed Senate, amended) Authorizes appropriations for FY 1988 for the United States Mint. Authorizes: (1) the expenditure of appropriated funds for the purpose of hosting the International Mint Directors' Conference in 1988; and (2) the Director of the Mint to collect fees to pay Conference expenses from Conference participants. Redesignates the assay offices in San Francisco, California, and West Point, New York, as U.S. mints. Requires the Secretary of the Treasury to acquire only such articles, materials, supplies, and services for the production of coins as have been produced or manufactured in the United States, unless the Secretary determines that it would be inconsistent with the public interest or the cost would be unreasonable. Requires the Secretary to publish in the Federal Register a written finding stating the basis for any such determination. Specifies that such restriction: (1) shall apply only in the case of a bid or offer from a supplier with a principal place of business in a foreign country which does not accord to U.S. companies the same competitive opportunities for procurements in connection with the production of coins as it accords to domestic companies; and (2) shall not affect the procurement of gold and silver for coin production. Provides that such determination shall be reviewable in any administrative proceeding or court. Requires that gold bullion coins be minted to specified tolerances. Requires that any U.S. gold coin contain the full weight of gold stated on the coin. Requires that any amounts received from the sale of gold be used solely for the purpose of reducing the national debt. Requires the Secretary to make bulk sales of silver bullion coins at a reasonable discount.</summary>
+</bill>

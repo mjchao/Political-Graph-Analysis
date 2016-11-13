@@ -1,0 +1,60 @@
+<bill session="100" type="sr" number="184" updated="2014-03-22T09:54:36-04:00">
+  <state datetime="1987-04-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-06"/>
+  </status>
+  <introduced datetime="1987-04-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the Senate on AIDS.</title>
+  </titles>
+  <sponsor id="403515"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1987-04-03"/>
+    <cosponsor id="300010" joined="1987-04-03"/>
+    <cosponsor id="402412" joined="1987-04-03"/>
+    <cosponsor id="300023" joined="1987-04-03"/>
+    <cosponsor id="402727" joined="1987-04-06"/>
+    <cosponsor id="403142" joined="1987-04-03"/>
+    <cosponsor id="403171" joined="1987-04-03"/>
+    <cosponsor id="403346" joined="1987-04-06"/>
+    <cosponsor id="403669" joined="1987-04-06"/>
+    <cosponsor id="300052" joined="1987-04-03"/>
+    <cosponsor id="300053" joined="1987-04-03"/>
+    <cosponsor id="405795" joined="1987-04-03"/>
+    <cosponsor id="406190" joined="1987-04-03"/>
+    <cosponsor id="300150" joined="1987-04-03"/>
+    <cosponsor id="300079" joined="1987-04-03"/>
+    <cosponsor id="300082" joined="1987-04-03"/>
+    <cosponsor id="400565" joined="1987-04-06"/>
+    <cosponsor id="409923" joined="1987-04-03"/>
+    <cosponsor id="300094" joined="1987-04-03"/>
+    <cosponsor id="300157" joined="1987-04-06"/>
+    <cosponsor id="411271" joined="1987-04-06"/>
+    <cosponsor id="411762" joined="1987-04-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-03">
+      <text>Submitted in the Senate and held at the desk by unanimous consent. Until the close of business April 6, 1987.</text>
+    </action>
+    <action datetime="1987-04-06" state="REFERRED">
+      <text>Referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="140"/>
+    <bill relation="identical" session="100" type="hr" number="140"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Advisory bodies"/>
+    <term name="Communicable diseases"/>
+    <term name="Federal advisory bodies"/>
+  </subjects>
+  <amendments/>
+  <summary>4/3/1987--Introduced.
+Expresses the sense of the Senate that a presidential commission be created to assist the President and the Congress in establishing priorities in dealing with all domestic and international aspects of acquired immune deficiency syndrome (AIDS).</summary>
+</bill>

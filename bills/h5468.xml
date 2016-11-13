@@ -1,0 +1,52 @@
+<bill session="100" type="h" number="5468" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-05">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-05"/>
+  </status>
+  <introduced datetime="1988-10-05"/>
+  <titles>
+    <title type="short" as="introduced">Medicare Hospital Patient Protection Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to improve protections of individuals against inappropriate transfers from medicare participating hospitals.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-05" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-11-15">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Emergency medical services"/>
+    <term name="Emergency medicine"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospital patients"/>
+    <term name="Hospitals"/>
+    <term name="Liability (Law)"/>
+    <term name="Medical personnel"/>
+    <term name="Medical records"/>
+    <term name="Medicare"/>
+    <term name="Patients' rights"/>
+    <term name="Physicians"/>
+  </subjects>
+  <amendments/>
+  <summary>10/5/1988--Introduced.
+Medicare Hospital Patient Protection Amendments of 1988 - Amends title XVIII (Medicare) of the Social Security Act to require that a hospital give an individual who comes to its emergency department a requested medical screening examination to determine whether or not an emergency medical condition exists if such examination is within the hospital's capability. (Currently, the examination must be within the emergency department's capability for such requirement to be applicable.) Prohibits hospitals from transferring a patient who has an emergency medical condition that has not been stabilized, unless the patient gives written informed consent to the transfer or refuses to consent to treatment. Makes clarifying amendments to the process and standards for effecting such a transfer. Requires that hospitals which transfer a patient who has an emergency medical condition send all the medical records available at the time of the transfer to the receiving facility. Directs hospitals to post conspicuously in their emergency departments a sign specifying the rights of individuals regarding examination and treatment for emergency medical conditions. Makes hospitals liable for the acts and omissions of its agents and the physicians through whom it carries out its duties in providing examinations and treatment for emergency medical conditions, except when it relies in good faith on the medical judgment of such a physician with respect to a patient's condition. Requires hospitals to maintain memoranda of transfer for patients transferred to or from the hospital for five years after such transfers. Imposes penalties against physicians who engage in specified acts or omissions related to the examination and treatment of individuals who have emergency medical conditions. Prohibits hospitals that have specialized capabilities or facilities from refusing to accept an appropriate transfer of an individual who requires such specialized capabilities or facilities. Makes terminological changes to provisions concerning the examination and treatment of emergency medical conditions.</summary>
+</bill>

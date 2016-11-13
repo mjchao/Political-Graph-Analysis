@@ -1,0 +1,47 @@
+<bill session="100" type="sc" number="4" updated="2014-03-22T09:54:40-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution relating to tax-exempt 501(c)(3) bonds.</title>
+  </titles>
+  <sponsor id="400563"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="159"/>
+    <bill relation="identical" session="100" type="hc" number="159"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Colleges"/>
+    <term name="Education"/>
+    <term name="Government securities"/>
+    <term name="Health facilities"/>
+    <term name="Higher education"/>
+    <term name="Hospitals"/>
+    <term name="Income tax"/>
+    <term name="Interest"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Private schools"/>
+    <term name="Securities and Investments"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Tax exclusion"/>
+    <term name="Tax-exempt organizations"/>
+    <term name="Tax-exempt securities"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Expresses the sense of the Congress that the tax-exempt bonds of private nonprofit colleges, universities, hospitals, and certain other institutions should not be classified as "private activity" bonds for purposes of the Internal Revenue Code.</summary>
+</bill>

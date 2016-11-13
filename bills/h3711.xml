@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="3711" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-07"/>
+  </status>
+  <introduced datetime="1987-12-07"/>
+  <titles>
+    <title type="short" as="introduced">State and Local Law Enforcement Compensation Act</title>
+    <title type="official" as="introduced">A bill to provide for compensation to State and local law enforcement agencies for expenses resulting from demonstrations against Federal nuclear-related activities.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="1988-02-01"/>
+    <cosponsor id="400109" joined="1987-12-07"/>
+    <cosponsor id="400140" joined="1988-02-01"/>
+    <cosponsor id="400278" joined="1988-02-01"/>
+    <cosponsor id="300078" joined="1987-12-07"/>
+    <cosponsor id="411178" joined="1987-12-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-07" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-01-21">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Antinuclear power movements"/>
+    <term name="Antinuclear weapons movements"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Defense articles"/>
+    <term name="Federal aid to law enforcement agencies"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear power plants"/>
+    <term name="Public demonstrations"/>
+    <term name="Right of assembly"/>
+    <term name="State finance"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>12/7/1987--Introduced.
+State and Local Law Enforcement Compensation Act - Provides compensation to State and local law enforcement agencies for eligible expenses incurred by such agencies as a result of demonstrations against Federal nuclear-related activities.</summary>
+</bill>

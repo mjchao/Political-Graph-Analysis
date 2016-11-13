@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="5055" updated="2014-03-22T09:53:32-04:00">
+  <state datetime="1988-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-14"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that employees of the Tennessee Valley Authority who are covered by a collective bargaining agreement shall not be subject to any regulations which take employee efficiency or performance ratings into account in determining the order of retention of competing employees in a reduction in force.</title>
+  </titles>
+  <sponsor id="400081"/>
+  <cosponsors>
+    <cosponsor id="400548" joined="1988-07-14"/>
+    <cosponsor id="403576" joined="1988-07-14"/>
+    <cosponsor id="404163" joined="1988-07-14"/>
+    <cosponsor id="404213" joined="1988-07-14"/>
+    <cosponsor id="400155" joined="1988-07-14"/>
+    <cosponsor id="405724" joined="1988-07-14"/>
+    <cosponsor id="406111" joined="1988-07-14"/>
+    <cosponsor id="406873" joined="1988-07-14"/>
+    <cosponsor id="408976" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Executive Comment Requested from OMB, OPM, TVA.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Civil Service.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO03" subcommittee="Civil Service" name="House Post Office and Civil Service"/>
+    <committee activity="Referral" code="HSPO04" subcommittee="Human Resources" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service employment"/>
+    <term name="Collective bargaining"/>
+    <term name="Collective bargaining in government"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government corporations"/>
+    <term name="Labor and employment"/>
+    <term name="Layoffs"/>
+    <term name="Rating of employees"/>
+    <term name="Tennessee Valley Authority"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Introduced.
+Provides that if a reduction-in-force is required with respect to employees of the Tennessee Valley Authority who are covered by a collective bargaining agreement, then such reduction-in-force shall be implemented, to the extent practicable, in accordance with the agreement in lieu of any regulation which gives effect to efficiency or performance ratings of employees.</summary>
+</bill>

@@ -1,0 +1,136 @@
+<bill session="100" type="h" number="4124" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-03"/>
+  </status>
+  <introduced datetime="1988-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations to carry out the Atlantic Striped Bass Conservation Act for fiscal years 1989 through 1991, and for other purposes.</title>
+  </titles>
+  <sponsor id="410496"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1988-03-09"/>
+    <cosponsor id="409644" joined="1988-05-18"/>
+    <cosponsor id="400370" joined="1988-05-18"/>
+    <cosponsor id="400440" joined="1988-03-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-09" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Executive Comment Requested from Commerce, Interior.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-20">
+      <text>Executive Comment Received From Interior.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-05-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-12">
+      <text>Reported to House (Amended) by House Committee on Merchant Marine and Fisheries.  Report No: 100-766.</text>
+    </action>
+    <action datetime="1988-07-12">
+      <text>Placed on Union Calendar No: 467.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-02">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Ordered, that if and when reported, the bill be referred to the Committee on Commerce, Science and Transportation for a period not to exceed 14 calendar days.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate Committee on Environment and Public Works discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Referred to the Committee on Commerce pursuant to the order of of September 9, 1988.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate Committee on Commerce discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate struck all after the Enacting Clause and substituted the language of S. 2384 amended.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate in lieu of S. 2384 with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-589" type="public" datetime="1988-11-03">
+      <text>Became Public Law No: 100-589.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Discharged"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2384"/>
+    <bill relation="identical" session="100" type="s" number="2384"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Anadromous fishes"/>
+    <term name="Atlantic Coast (U.S.)"/>
+    <term name="Authorization"/>
+    <term name="Coastal zone"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Fees"/>
+    <term name="Fisheries"/>
+    <term name="Fishery management"/>
+    <term name="Fishing"/>
+    <term name="Interstate commissions"/>
+    <term name="Interstate rivers"/>
+    <term name="Licenses"/>
+    <term name="North Carolina"/>
+    <term name="Research"/>
+    <term name="Virginia"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/1988--Passed Senate amended.
+(Measure passed Senate, amended, in lieu of S. 2384) Authorizes appropriations for the Atlantic Striped Bass Conservation Act for FY 1989 through 1991. Makes such Act effective until the end of FY 1991. Extends the funding of striped bass studies under the Anadromous Fish Conservation Act through FY 1991. Authorizes the Atlantic States Marine Fisheries Commission to make specified determinations at any other time it deems necessary (in addition to its required annual determinations in December of each fiscal year). Requires the Director of the United States Fish and Wildlife Service, in consultation with the Assistant Administrator of the National Oceanic and Atmospheric Administration for Fisheries, to: (1) undertake a study of the striped bass fishery resources and habitats of the Albemarle Sound-Roanoke River basin area; (2) develop short-term and long-term recommendations for Federal and State government agencies for restoring and conserving such resources and habitats; and (3) submit such study results and recommendations to the Congress and the States of North Carolina and Virginia, within 36 months after enactment of this Act. Provides for study contents, participation by specified State and Federal agencies, and consultation with various entities. Authorizes appropriations for such study. Prohibits funds appropriated under specified provisions of the Anadromous Fish Conservation Act from being used for the study. Directs the Secretary of Commerce to promulgate regulations governing the fishing for Atlantic striped bass in the Exclusive Economic Zone (EEZ) which are consistent with the national standards set forth in provisions of the Magnuson Fishery Conservation and Management Act (Magnuson Act) and necessary and appropriate to: (1) ensure the effectiveness of State regulations or a Federal moratorium on fishing for such fish within the coastal waters of a coastal State; and (2) achieve conservation and management goals for the Atlantic striped bass resource. Allows the appropriate Regional Fishery Mangement Councils to prepare a fishery management plan on Atlantic striped bass. Declares that if a plan is approved and implemented by the Secretary, it shall supersede any regulations promulgated by a State under this Act. Makes provisions of the Magnuson Act regarding prohibited acts, civil penalties, criminal offenses, civil forfeitures, and enforcement apply to regulations and plans issued under provisions of this Act relating to regulation of striped bass fishing in the EEZ. Terminates the provisions of this Act relating to regulation of such fishing in the EEZ on September 30, 1991.</summary>
+</bill>

@@ -1,0 +1,35 @@
+<bill session="100" type="s" number="1599" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to recognize the organization known as the American Philatelic Society.</title>
+  </titles>
+  <sponsor id="300066"/>
+  <cosponsors>
+    <cosponsor id="405321" joined="1988-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Associations, institutions, etc."/>
+    <term name="Corporations and Stocks"/>
+    <term name="Federal incorporation"/>
+    <term name="Philately"/>
+    <term name="Postage stamps"/>
+    <term name="Postal Services and Facilities"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Grants a Federal charter to the American Philatelic Society.</summary>
+</bill>

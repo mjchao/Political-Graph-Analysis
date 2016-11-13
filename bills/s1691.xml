@@ -1,0 +1,72 @@
+<bill session="100" type="s" number="1691" updated="2014-12-10T13:15:58-05:00">
+  <state datetime="1987-10-16">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-10-16"/>
+  </status>
+  <introduced datetime="1987-09-16"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide interim extensions of collection of the Veterans' Administration housing loan fee and of the formula for determining whether, upon foreclosure, the Veteran's Administration shall acquire the property securing a guaranteed loan.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="300150" joined="1987-09-16"/>
+  </cosponsors>
+  <actions>
+    <calendar datetime="1987-09-16" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="314">
+      <text>Introduced in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 314.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-09-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-09-21">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-10-01" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-01">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1987-10-01" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-10-01">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-10-02">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-10-02">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-10-05">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-10-16" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-136" type="public" datetime="1987-10-16">
+      <text>Became Public Law No: 100-136.</text>
+    </enacted>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Fees"/>
+    <term name="Foreclosure"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing and community development"/>
+    <term name="Housing finance"/>
+    <term name="Veterans' loans"/>
+  </subjects>
+  <amendments>
+    <amendment number="h409"/>
+  </amendments>
+  <summary>10/1/1987--Passed House amended.
+(Measure passed House, amended) Extends until November 15, 1987, the following Federal provisions relating to the Veterans Administration (VA) housing loan guaranty program: (1) the collection from participating veterans of the VA housing loan fee; and (2) the formula for determining whether, upon foreclosure, the VA shall acquire the property securing a guaranteed loan. Revises restrictions on the sale by the VA Administration of notes of security loans financing the purchase of real property acquired by the Administrator as a result of a default on a VA loan. Allows such sale: (1) with recourse (i.e., creating direct liability on the part of the note purchaser for the full value of the note's remaining amount); or (2) without recourse, as long as the amount received is equal to the unpaid balance of such loan.</summary>
+</bill>

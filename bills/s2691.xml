@@ -1,0 +1,61 @@
+<bill session="100" type="s" number="2691" updated="2014-03-22T09:55:53-04:00">
+  <state datetime="1988-10-19">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-19"/>
+  </status>
+  <introduced datetime="1988-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend eligibility for the Indian Claims Commission Expert Witness Loan Fund, and for other purposes.</title>
+  </titles>
+  <sponsor id="403920"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-08-05"/>
+    <cosponsor id="300056" joined="1988-08-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Senate Committee on Indian Affairs discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-06">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-19" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-20">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Discharged"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Authorization"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Economics and public finance"/>
+    <term name="Executive reorganization"/>
+    <term name="Expert witnesses"/>
+    <term name="Government trust funds"/>
+    <term name="Indian claims"/>
+    <term name="Loans"/>
+    <term name="Witnesses"/>
+  </subjects>
+  <amendments/>
+  <summary>10/19/1988--Passed House amended.
+(Measure passed House, amended) Increases the authorization of appropriations for the Indian Claims Commission Expert Witness Loan Fund. Permits the use of such Fund to provide assistance for the trial of claims pending before the United States Claims Court. Creates an Office of Indian Self-Determination within the Department of the Interior's Bureau of Indian Affairs and within the Department of Health and Human Services' Indian Health Service. Directs the Secretary of the Interior to enroll specified individuals as natives under the Alaska Native Claims Settlement Act.</summary>
+</bill>

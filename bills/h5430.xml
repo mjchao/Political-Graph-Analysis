@@ -1,0 +1,123 @@
+<bill session="100" type="h" number="5430" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-10-04">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-04"/>
+  </status>
+  <introduced datetime="1988-09-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Marine Protection, Research, and Sanctuaries Act of 1972 to establish special fees for the ocean dumping of sewage sludge and industrial waste, and for other purpose.</title>
+  </titles>
+  <sponsor id="405775"/>
+  <cosponsors>
+    <cosponsor id="400844" joined="1988-09-30"/>
+    <cosponsor id="401363" joined="1988-09-30"/>
+    <cosponsor id="400035" joined="1988-09-30"/>
+    <cosponsor id="401986" joined="1988-09-30"/>
+    <cosponsor id="300019" joined="1988-09-30"/>
+    <cosponsor id="402928" joined="1988-09-30"/>
+    <cosponsor id="403266" joined="1988-09-30"/>
+    <cosponsor id="403476" joined="1988-09-30"/>
+    <cosponsor id="403581" joined="1988-09-30"/>
+    <cosponsor id="403689" joined="1988-09-30"/>
+    <cosponsor id="404401" joined="1988-09-30"/>
+    <cosponsor id="400536" joined="1988-09-30"/>
+    <cosponsor id="404765" joined="1988-09-30"/>
+    <cosponsor id="404856" joined="1988-09-30"/>
+    <cosponsor id="405006" joined="1988-09-30"/>
+    <cosponsor id="405524" joined="1988-09-30"/>
+    <cosponsor id="405646" joined="1988-09-30"/>
+    <cosponsor id="400188" joined="1988-09-30"/>
+    <cosponsor id="406148" joined="1988-09-30"/>
+    <cosponsor id="406746" joined="1988-09-30"/>
+    <cosponsor id="406974" joined="1988-09-30"/>
+    <cosponsor id="407141" joined="1988-09-30"/>
+    <cosponsor id="407196" joined="1988-09-30"/>
+    <cosponsor id="407457" joined="1988-09-30"/>
+    <cosponsor id="407816" joined="1988-09-30"/>
+    <cosponsor id="400524" joined="1988-09-30"/>
+    <cosponsor id="408023" joined="1988-09-30"/>
+    <cosponsor id="408244" joined="1988-09-30"/>
+    <cosponsor id="409344" joined="1988-09-30"/>
+    <cosponsor id="409353" joined="1988-09-30"/>
+    <cosponsor id="400533" joined="1988-09-30"/>
+    <cosponsor id="400359" joined="1988-09-30"/>
+    <cosponsor id="409644" joined="1988-09-30"/>
+    <cosponsor id="300155" joined="1988-09-30"/>
+    <cosponsor id="400380" joined="1988-09-30"/>
+    <cosponsor id="410147" joined="1988-09-30"/>
+    <cosponsor id="410261" joined="1988-09-30"/>
+    <cosponsor id="410496" joined="1988-09-30"/>
+    <cosponsor id="400409" joined="1988-09-30"/>
+    <cosponsor id="400428" joined="1988-09-30"/>
+    <cosponsor id="411901" joined="1988-09-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-30" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Referred to Subcommittee on Oceanography.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="401" datetime="1988-10-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 417 - 0 (Record Vote No: 401).</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>Laid on Table in House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>House Incorporated this Measure in S.2030 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral"/>
+    <committee activity="Referral" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee activity="Referral" code="HSMM04" subcommittee="Oceanography" name="House Merchant Marine and Fisheries"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4338"/>
+    <bill relation="unknown" session="100" type="s" number="2030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative fees"/>
+    <term name="Economics and public finance"/>
+    <term name="Environmental research"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government trust funds"/>
+    <term name="Industrial pollution"/>
+    <term name="Landfills"/>
+    <term name="Licenses"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Municipal services"/>
+    <term name="New Jersey"/>
+    <term name="New York City"/>
+    <term name="New York State"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Revolving funds"/>
+    <term name="Sewage sludge"/>
+    <term name="Standards"/>
+    <term name="User charges"/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water pollution measurement"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1988--Introduced.
+Amends the Marine Protection, Research, and Sanctuaries Act of 1972 to prohibit persons from dumping sewage sludge or industrial waste into the ocean without a permit. Prohibits all such dumping after 1992. Imposes dumping fees which increase with the approach of 1993. Requires that 85 percent of such fees be deposited in a trust account for the development of environmentally sound alternatives to ocean dumping or improvement in sewage sludge and industrial waste treatment and storage techniques. Pays the remainder of such fees to the Administrator of the Environmental Protection Agency for ocean dumping permit, enforcement, research, and monitoring activities. Conditions receipt of an ocean dumping permit upon the entering into of a compliance or enforcement agreement with the Administrator which includes a plan for the phasing-out and cessation of ocean dumping and the implementation of alternatives to such dumping. Waives dumping fees charged against persons who have entered into a compliance agreement. Imposes civil monetary penalties against persons who dump sewage sludge or industrial waste into the ocean after 1992. Requires that 90 percent of such penalties be paid into the trust accounts in 1993, with five percent reductions in such allotment for each succeeding year. Pays the remainder to the Administrator for the activities to which dumping fees are devoted. Sets forth reporting requirements. Requires that fees and penalties not needed for use by the Administrator for permit, enforcement, research, and monitoring activities be used for making capitalization grants to New York and New Jersey for the establishment of a revolving fund to assist specified water pollution control efforts under the Federal Water Pollution Control Act. Directs the Administrator to issue orders requiring ocean dumpers to cease such dumping until they enter into a compliance or enforcement agreement and obtain a permit. Authorizes the Administrator to request the Attorney General to commence civil actions against persons who violate such orders or this Act's ocean dumping provisions. Prohibits persons from disposing of sewage sludge at any landfill located on Staten Island, New York. Requires that New York and New Jersey use at least 20 percent of their capitalization grant and contribution associated with such grant within six months of receipt of such grant to assist persons in developing and implementing environmentally sound alternatives to ocean dumping of sewage sludge and industrial waste. Directs the Administrator to report to the Congress, within six months of this Act's enactment, on ocean discharge guidelines established pursuant to the Federal Water Pollution Control Act. Requires the President, in submitting his budget for FY 1990, to include a schedule and an estimate of the resources needed for achieving compliance with such guidelines.</summary>
+</bill>

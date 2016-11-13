@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="5391" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-27"/>
+  </status>
+  <introduced datetime="1988-09-27"/>
+  <titles>
+    <title type="short" as="introduced">Independent Living Trusts and Contributions Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title XVI of the Social Security Act to allow recipients of supplemental security income benefits to receive certain contributions without affecting their eligibility for such benefits, and for other purposes.</title>
+  </titles>
+  <sponsor id="401203"/>
+  <cosponsors>
+    <cosponsor id="400256" joined="1988-09-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-27" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+    <action datetime="1988-10-24">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Income"/>
+    <term name="Medicaid"/>
+    <term name="Public assistance programs"/>
+    <term name="Supplemental security income program"/>
+  </subjects>
+  <amendments/>
+  <summary>9/27/1988--Introduced.
+Independent Living Trusts and Contributions Act of 1988 - Amends title XVI (Supplemental Security Income) (SSI) to exclude from a SSI recipient's income for SSI eligibility purposes: (1) contributions received and used within 30 days to obtain specified social services; (2) contributions of clothing, or up to $750 of cash per year for the purchase of clothing; (3) contributions of up to $7,200 per year for rent, mortgage payments, or home maintenance; (4) loans received by or repaid to such individual; and (5) contributions made by any other person to a trust for the SSI recipient if one purpose of the trust is to provide the recipient with such social services, clothing, or home or housing payments. Excludes such contributions from the resources of SSI recipients. Makes this Act's income exclusions applicable under title XIX (Medicaid) of the Act. Directs the Secretary of Health and Human Services to notify SSI applicants and recipients of the opportunities this Act provides them to exercise greater independence and the applicability of the reduction in SSI eligibility thresholds and benefits to individuals living in another person's household and receiving support and maintenance from such person.</summary>
+</bill>

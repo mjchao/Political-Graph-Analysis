@@ -1,0 +1,82 @@
+<bill session="100" type="sj" number="378" updated="2016-06-29T08:45:11-04:00">
+  <state datetime="1988-11-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-05"/>
+  </status>
+  <introduced datetime="1988-09-14"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating the week of October 2 through 8, 1988, as "National Wild and Scenic Rivers Act Week".</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-09-14"/>
+    <cosponsor id="300023" joined="1988-09-14"/>
+    <cosponsor id="403962" joined="1988-09-14"/>
+    <cosponsor id="404598" joined="1988-09-30"/>
+    <cosponsor id="404679" joined="1988-09-14"/>
+    <cosponsor id="405795" joined="1988-09-14"/>
+    <cosponsor id="300060" joined="1988-09-14"/>
+    <cosponsor id="408420" joined="1988-09-14"/>
+    <cosponsor id="300084" joined="1988-09-14"/>
+    <cosponsor id="409580" joined="1988-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-10-01">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-01" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-28">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-28">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-624" type="public" datetime="1988-11-05">
+      <text>Became Public Law No: 100-624.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="598"/>
+    <bill relation="identical" session="100" type="hj" number="598"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Law and legislation"/>
+    <term name="Special weeks"/>
+    <term name="Wild rivers"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/1988--Introduced.
+Designates the week of October 2 through October 8, 1988, as National Wild and Scenic Rivers Act Week, marking the 20th anniversary of the Act.</summary>
+</bill>

@@ -1,0 +1,88 @@
+<bill session="100" type="s" number="2273" updated="2014-03-22T09:55:40-04:00">
+  <state datetime="1988-05-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-05-13"/>
+  </status>
+  <introduced datetime="1988-04-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the transfer of certain funds to the Secretary of the Interior for the benefit of certain members of the Crow Tribe.</title>
+  </titles>
+  <sponsor id="407622"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-12">
+      <text>Introduced in the Senate and held at the desk by unanimous consent. Until the close of business April 13, 1988.</text>
+    </action>
+    <action datetime="1988-04-13" state="REFERRED">
+      <text>Read twice and referred to the Committee on Indian Affairs.</text>
+    </action>
+    <calendar datetime="1988-04-13" state="REPORTED">
+      <text>Committee on Indian Affairs. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1988-04-14">
+      <text>Committee on Indian Affairs. Reported to Senate by Senator Inouye with amendments. With written report No. 100-315.</text>
+    </action>
+    <calendar datetime="1988-04-14" calendar="Senate Legislative" under="General Orders" number="612">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 612.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-04-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-04-28" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-04-28">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-04-28" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to House amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-04-28">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-04-29">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-05-04">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-05-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-05-13" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-318" type="public" datetime="1988-05-13">
+      <text>Became Public Law No: 100-318.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SLIA" name="Senate Indian Affairs (Permanent Select)" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Native Americans"/>
+    <term name="Administrative procedure"/>
+    <term name="Energy assistance for the poor"/>
+    <term name="Federal aid to Indians"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Indian claims"/>
+    <term name="Low-income housing"/>
+    <term name="Montana"/>
+    <term name="Public Welfare and Charities"/>
+    <term name="Public assistance programs"/>
+    <term name="Reprogramming of appropriated funds"/>
+    <term name="Residential utility cost relief programs"/>
+  </subjects>
+  <amendments>
+    <amendment number="h623"/>
+  </amendments>
+  <summary>4/28/1988--Passed House amended.
+(Measure passed House, amended) Directs the Secretary of Health and Human Services (HHS) to transfer to the Secretary of the Interior a specified amount of the funds appropriated to provide a grant to the Crow Tribe under the Low-Income Home Energy Assistance Act of 1981 for FY 1988. Provides that such funds and other FY 1988 funds appropriated pursuant to the Low-Income Home Energy Assistance program, which have been retained by the Secretary of HHS and allocated, but not distributed, for the benefit of the Crow Tribe, shall remain available for that purpose until expended. Directs the Secretary of HHS and the Secretary of the Interior to enter into an interagency agreement for the administration on an expedited basis of such transferred funds. Requires that such agreement include assurances that the Secretary of the Interior will follow certain requirements of such Act regarding the provision of technical assistance. Requires such funds to be used to provide, through the Crow agency social service program of the Bureau of Indian Affairs, the assistance and benefits available under such Act to those Indian households that meet the eligibility criteria established by the State of Montana and the Crow Tribe for such year. Provides for equitable consideration of claims or applications involving all forms of energy. Requires that, if direct vendor payments are made, the vendor shall agree to refrain from termination of service to an eligible household until administrative actions involving the withholding of FY 1988 grants under such Act from the Crow Tribe have been resolved.</summary>
+</bill>

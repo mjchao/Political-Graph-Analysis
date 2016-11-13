@@ -1,0 +1,45 @@
+<bill session="100" type="hc" number="42" updated="2014-03-22T09:54:06-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the sense of the Congress with respect to the need for shareholder democracy in the rules administered and supervised by the Securities and Exchange Commission.</title>
+  </titles>
+  <sponsor id="411901"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-02-05"/>
+    <cosponsor id="401155" joined="1987-02-05"/>
+    <cosponsor id="402657" joined="1987-03-18"/>
+    <cosponsor id="400085" joined="1987-02-05"/>
+    <cosponsor id="404006" joined="1987-02-05"/>
+    <cosponsor id="400596" joined="1987-02-05"/>
+    <cosponsor id="408109" joined="1987-02-05"/>
+    <cosponsor id="409052" joined="1987-07-28"/>
+    <cosponsor id="401383" joined="1987-02-05" withdrawn="1987-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Securities"/>
+    <term name="Securities and Investments"/>
+    <term name="Securities regulation"/>
+    <term name="Stock exchanges"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Expresses the sense of the Congress that the Securities and Exchange Commission should use its authority to preserve the one share, one vote rule on the New York Stock Exchange (NYSE) and to modify the rules of other exchanges so that the NYSE will not be placed at a competitive disadvantage.</summary>
+</bill>

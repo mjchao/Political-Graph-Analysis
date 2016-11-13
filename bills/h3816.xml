@@ -1,0 +1,107 @@
+<bill session="100" type="h" number="3816" updated="2014-03-22T09:52:58-04:00">
+  <state datetime="1987-12-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-18"/>
+  </status>
+  <introduced datetime="1987-12-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to extend for 1 year the application period under the legalization program.</title>
+  </titles>
+  <sponsor id="300087"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1988-02-18"/>
+    <cosponsor id="400975" joined="1988-02-18"/>
+    <cosponsor id="401231" joined="1988-02-18"/>
+    <cosponsor id="400025" joined="1987-12-18"/>
+    <cosponsor id="401418" joined="1988-02-18"/>
+    <cosponsor id="300011" joined="1988-03-01"/>
+    <cosponsor id="400572" joined="1987-12-18"/>
+    <cosponsor id="401923" joined="1988-03-17"/>
+    <cosponsor id="402114" joined="1987-12-18"/>
+    <cosponsor id="400064" joined="1988-03-17"/>
+    <cosponsor id="402750" joined="1988-01-25"/>
+    <cosponsor id="402763" joined="1988-01-25"/>
+    <cosponsor id="400080" joined="1988-03-17"/>
+    <cosponsor id="403031" joined="1988-03-17"/>
+    <cosponsor id="403308" joined="1988-04-13"/>
+    <cosponsor id="403314" joined="1987-12-18"/>
+    <cosponsor id="403364" joined="1988-03-01"/>
+    <cosponsor id="400109" joined="1988-04-13"/>
+    <cosponsor id="403581" joined="1988-02-09"/>
+    <cosponsor id="403695" joined="1988-04-13"/>
+    <cosponsor id="403776" joined="1988-03-01"/>
+    <cosponsor id="400126" joined="1988-02-09"/>
+    <cosponsor id="404006" joined="1987-12-18"/>
+    <cosponsor id="404013" joined="1988-02-09"/>
+    <cosponsor id="404097" joined="1987-12-18"/>
+    <cosponsor id="404139" joined="1988-01-25"/>
+    <cosponsor id="400140" joined="1987-12-18"/>
+    <cosponsor id="404376" joined="1987-12-18"/>
+    <cosponsor id="404422" joined="1987-12-18"/>
+    <cosponsor id="400536" joined="1988-04-13"/>
+    <cosponsor id="404634" joined="1988-01-25"/>
+    <cosponsor id="405256" joined="1988-02-18"/>
+    <cosponsor id="405646" joined="1988-02-18"/>
+    <cosponsor id="400205" joined="1988-04-13"/>
+    <cosponsor id="406277" joined="1987-12-18"/>
+    <cosponsor id="406463" joined="1987-12-18"/>
+    <cosponsor id="406740" joined="1987-12-18"/>
+    <cosponsor id="400243" joined="1988-02-18"/>
+    <cosponsor id="406974" joined="1988-04-13"/>
+    <cosponsor id="407141" joined="1988-04-13"/>
+    <cosponsor id="400595" joined="1988-03-01"/>
+    <cosponsor id="400256" joined="1988-03-17"/>
+    <cosponsor id="407672" joined="1988-04-13"/>
+    <cosponsor id="407772" joined="1988-02-18"/>
+    <cosponsor id="400600" joined="1987-12-18"/>
+    <cosponsor id="407960" joined="1987-12-18"/>
+    <cosponsor id="408190" joined="1988-02-09"/>
+    <cosponsor id="400302" joined="1988-03-17"/>
+    <cosponsor id="400306" joined="1988-01-25"/>
+    <cosponsor id="408457" joined="1988-03-01"/>
+    <cosponsor id="400314" joined="1988-01-25"/>
+    <cosponsor id="408621" joined="1988-03-01"/>
+    <cosponsor id="400333" joined="1988-02-09"/>
+    <cosponsor id="409205" joined="1988-01-25"/>
+    <cosponsor id="409446" joined="1988-01-25"/>
+    <cosponsor id="400354" joined="1988-03-01"/>
+    <cosponsor id="409644" joined="1988-03-01"/>
+    <cosponsor id="410145" joined="1988-03-01"/>
+    <cosponsor id="410889" joined="1987-12-18"/>
+    <cosponsor id="400409" joined="1988-03-17"/>
+    <cosponsor id="400425" joined="1988-02-09"/>
+    <cosponsor id="411426" joined="1987-12-18"/>
+    <cosponsor id="411834" joined="1988-02-09"/>
+    <cosponsor id="411947" joined="1988-03-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-02-22">
+      <text>Executive Comment Requested from Justice.</text>
+    </action>
+    <action datetime="1988-03-30">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2015"/>
+    <bill relation="identical" session="100" type="s" number="2015"/>
+  </relatedbills>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Illegal aliens"/>
+  </subjects>
+  <amendments/>
+  <summary>12/18/1987--Introduced.
+Amends the Immigration and Nationality Act to extend the legalization program application period from 12 months to 24 months.</summary>
+</bill>

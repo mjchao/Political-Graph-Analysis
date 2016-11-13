@@ -1,0 +1,90 @@
+<bill session="100" type="sc" number="63" updated="2014-03-22T09:54:41-04:00">
+  <state datetime="1988-08-05">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-08-05"/>
+  </status>
+  <introduced datetime="1987-06-25"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress regarding the formulation and implementation of a regional economic development and recovery program for Central America.</title>
+  </titles>
+  <sponsor id="409562"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-10-16"/>
+    <cosponsor id="300009" joined="1988-05-25"/>
+    <cosponsor id="401709" joined="1987-09-09"/>
+    <cosponsor id="300026" joined="1987-08-05"/>
+    <cosponsor id="300034" joined="1987-06-25"/>
+    <cosponsor id="403920" joined="1987-06-25"/>
+    <cosponsor id="300046" joined="1987-10-14"/>
+    <cosponsor id="406188" joined="1987-06-25"/>
+    <cosponsor id="300060" joined="1987-06-25"/>
+    <cosponsor id="300065" joined="1988-08-05"/>
+    <cosponsor id="407268" joined="1987-06-25"/>
+    <cosponsor id="300073" joined="1987-06-25"/>
+    <cosponsor id="407786" joined="1987-06-25"/>
+    <cosponsor id="400563" joined="1987-07-07"/>
+    <cosponsor id="408597" joined="1987-07-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-25" state="REFERRED">
+      <text>Referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-11-13">
+      <text>Subcommittee on International Economic Policy. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-07-27" state="REPORTED">
+      <text>Committee on Foreign Relations. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-07-27">
+      <text>Committee on Foreign Relations. Reported to Senate by Senator Pell without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1988-07-27" calendar="Senate Legislative" under="General Orders" number="842">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 842.</text>
+    </calendar>
+    <action datetime="1988-08-05">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="294" datetime="1988-08-05" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Resolution agreed to in Senate with an amendment and with a preamble by Yea-Nay Vote. 92-3. Record Vote No: 294.</text>
+    </vote>
+    <action datetime="1988-08-08">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSFR03" subcommittee="International Economic Policy, Trade, Oceans and Environment" name="Senate Foreign Relations"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Belize"/>
+    <term name="Central America"/>
+    <term name="Costa Rica"/>
+    <term name="Democracy"/>
+    <term name="El Salvador"/>
+    <term name="Guatemala"/>
+    <term name="Honduras"/>
+    <term name="Nicaragua"/>
+    <term name="Peace"/>
+    <term name="Regional economic development"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2807"/>
+  </amendments>
+  <summary>8/5/1988--Passed Senate amended.
+(Measure passed Senate, amended, roll call #294 (92-3)) Expresses the sense of the Congress that the President should: (1) encourage and assist Costa Rica, El Salvador, Guatemala, Honduras, Belize, and Nicaragua in their planning and formulation of a comprehensive plan for their economic recovery and development; and (2) assist in the implementation of such plan and encourage other countries to join in extending such assistance to those Central American countries that have made substantial progress toward peaceful relations and peacekeeping mechanisms in their region and toward an open political system in the spirit of the present negotiations of those countries.</summary>
+</bill>

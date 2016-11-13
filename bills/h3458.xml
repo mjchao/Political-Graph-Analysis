@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3458" updated="2014-03-22T09:52:52-04:00">
+  <state datetime="1987-10-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-08"/>
+  </status>
+  <introduced datetime="1987-10-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize assistance for opposition civilian democratic forces in Nicaragua.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-08" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Authorization"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Economics and public finance"/>
+    <term name="Insurgency"/>
+    <term name="Nicaragua"/>
+    <term name="Political activities"/>
+    <term name="Reagan Doctrine"/>
+  </subjects>
+  <amendments/>
+  <summary>10/8/1987--Introduced.
+Authorizes the Secretary of State to use appropriated funds to make cash grants to opposition civilian democratic forces in Nicaragua in order to support the political activities of those forces. Specifies that such funds may be used only to support peaceful political activities, not military or paramilitary activities. Directs the Secretary to report to the Congress every 90 days on the use of such funds. Authorizes appropriations for such purposes for FY 1988 through 1992. Terminates authority under this Act if the Secretary certifies to the Congress that the Sandinistas no longer control the Nicaraguan Government.</summary>
+</bill>

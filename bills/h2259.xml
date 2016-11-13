@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="2259" updated="2014-03-22T09:52:18-04:00">
+  <state datetime="1987-04-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-30"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 and title II of the Social Security Act to provide an exemption from coverage under the social security program on a current basis (pursuant to applications filed in advance) for employers and their employees in cases where both are members of faiths opposed to participation in such program.</title>
+  </titles>
+  <sponsor id="409654"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-05-12"/>
+    <cosponsor id="402657" joined="1987-06-23"/>
+    <cosponsor id="402675" joined="1987-05-19"/>
+    <cosponsor id="403184" joined="1987-05-05"/>
+    <cosponsor id="403203" joined="1987-05-12"/>
+    <cosponsor id="403726" joined="1987-05-05"/>
+    <cosponsor id="404422" joined="1987-06-10"/>
+    <cosponsor id="405448" joined="1987-04-30"/>
+    <cosponsor id="406473" joined="1987-04-30"/>
+    <cosponsor id="406530" joined="1987-04-30"/>
+    <cosponsor id="409887" joined="1987-04-30"/>
+    <cosponsor id="410145" joined="1987-05-12"/>
+    <cosponsor id="400504" joined="1987-04-30"/>
+    <cosponsor id="411119" joined="1987-04-30"/>
+    <cosponsor id="411247" joined="1987-04-30"/>
+    <cosponsor id="411948" joined="1987-05-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+    <bill relation="identical" session="100" type="s" number="1884"/>
+    <bill relation="identical" session="100" type="s" number="1884"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+    <term name="Social security eligibility"/>
+    <term name="Social security taxes"/>
+    <term name="Tax exemption"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>4/30/1987--Introduced.
+Amends the Internal Revenue Code and title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to provide an exemption from taxation under the Federal Insurance Contributions Act (employment tax) and from benefits under the social security program for employers and their employees in cases when both are members of religious groups opposed to participation in such a program. Requires both the employer and the employee to submit an application for the tax exemption.</summary>
+</bill>

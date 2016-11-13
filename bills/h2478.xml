@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="2478" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1987-05-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-20"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to provide a seventh preference category for the admission of natives of countries adversely affected by the enactment of Public Law 89-236.</title>
+  </titles>
+  <sponsor id="403529"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-20" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-26">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Immigration policy"/>
+  </subjects>
+  <amendments/>
+  <summary>5/20/1987--Introduced.
+Amends the Immigration and Nationality Act to create an additional immigrant admissions preference category for persons from countries adversely affected by the enactment of Public Law 89-236 (1965 immigration reform law). Establishes a ten percent annual admissions allocation for such category. Reduces the existing work-related third and sixth preference categories' annual admissions allocations from ten percent to five percent. Directs the Secretary of State to determine and submit to the Congress related per country quotas and selection methods. Prohibits an alien from adjusting to immigrant status on the basis of such additional preference.</summary>
+</bill>

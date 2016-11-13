@@ -1,0 +1,37 @@
+<bill session="100" type="sj" number="387" updated="2014-03-22T09:54:34-04:00">
+  <state datetime="1988-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-28"/>
+  </status>
+  <introduced datetime="1988-09-28"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to express the sense of the Senate with respect to continuing reductions in the Medicare program.</title>
+  </titles>
+  <sponsor id="409917"/>
+  <cosponsors>
+    <cosponsor id="402023" joined="1988-10-20"/>
+    <cosponsor id="402412" joined="1988-10-20"/>
+    <cosponsor id="403669" joined="1988-09-28"/>
+    <cosponsor id="406188" joined="1988-09-28"/>
+    <cosponsor id="300094" joined="1988-10-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1988--Introduced.
+Expresses the sense of the Congress that Medicare (title XVIII of the Social Security Act) payments to hospitals for FY 1990 not be reduced below current law levels for FY 1990.</summary>
+</bill>

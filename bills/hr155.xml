@@ -1,0 +1,39 @@
+<bill session="100" type="hr" number="155" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-05-05">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-05-05"/>
+  </status>
+  <introduced datetime="1987-05-05"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H. R. 1039) to amend section 37 of the Mineral Lands Leasing Act of 1920 relating to oil shale claims, and for other purposes.</title>
+  </titles>
+  <sponsor id="400155"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-05">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-81.</text>
+    </action>
+    <action datetime="1987-05-05">
+      <text>Placed on House Calendar No: 20.</text>
+    </action>
+    <action datetime="1987-05-28">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 340 - 0 (Record Vote No: 156).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="1039"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Mines and mineral resources"/>
+  </subjects>
+  <amendments/>
+  <summary>5/5/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 1039 (oil shale claims).</summary>
+</bill>

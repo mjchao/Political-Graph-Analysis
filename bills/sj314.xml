@@ -1,0 +1,123 @@
+<bill session="100" type="sj" number="314" updated="2016-06-29T08:45:10-04:00">
+  <state datetime="1988-11-15">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-15"/>
+  </status>
+  <introduced datetime="1988-05-10"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating October 1988 as "Pregnancy and Infant Loss Awareness Month".</title>
+  </titles>
+  <sponsor id="401611"/>
+  <cosponsors>
+    <cosponsor id="400927" joined="1988-09-13"/>
+    <cosponsor id="401391" joined="1988-06-06"/>
+    <cosponsor id="300010" joined="1988-06-06"/>
+    <cosponsor id="401604" joined="1988-09-15"/>
+    <cosponsor id="300012" joined="1988-09-13"/>
+    <cosponsor id="402023" joined="1988-06-06"/>
+    <cosponsor id="402412" joined="1988-06-06"/>
+    <cosponsor id="402495" joined="1988-06-06"/>
+    <cosponsor id="300026" joined="1988-06-06"/>
+    <cosponsor id="403142" joined="1988-06-06"/>
+    <cosponsor id="403171" joined="1988-09-13"/>
+    <cosponsor id="403346" joined="1988-06-06"/>
+    <cosponsor id="300034" joined="1988-09-13"/>
+    <cosponsor id="403515" joined="1988-06-06"/>
+    <cosponsor id="300036" joined="1988-09-13"/>
+    <cosponsor id="403669" joined="1988-06-10"/>
+    <cosponsor id="403962" joined="1988-06-06"/>
+    <cosponsor id="404598" joined="1988-07-26"/>
+    <cosponsor id="300052" joined="1988-09-13"/>
+    <cosponsor id="405305" joined="1988-09-13"/>
+    <cosponsor id="405310" joined="1988-06-21"/>
+    <cosponsor id="300053" joined="1988-08-04"/>
+    <cosponsor id="405795" joined="1988-09-13"/>
+    <cosponsor id="406084" joined="1988-06-06"/>
+    <cosponsor id="406183" joined="1988-06-10"/>
+    <cosponsor id="406190" joined="1988-06-10"/>
+    <cosponsor id="300064" joined="1988-06-06"/>
+    <cosponsor id="300066" joined="1988-06-06"/>
+    <cosponsor id="300070" joined="1988-06-06"/>
+    <cosponsor id="300071" joined="1988-09-13"/>
+    <cosponsor id="407355" joined="1988-06-10"/>
+    <cosponsor id="407663" joined="1988-09-13"/>
+    <cosponsor id="408420" joined="1988-08-04"/>
+    <cosponsor id="408597" joined="1988-08-04"/>
+    <cosponsor id="408898" joined="1988-07-26"/>
+    <cosponsor id="408939" joined="1988-06-06"/>
+    <cosponsor id="408970" joined="1988-06-21"/>
+    <cosponsor id="300082" joined="1988-06-06"/>
+    <cosponsor id="409225" joined="1988-06-06"/>
+    <cosponsor id="300089" joined="1988-06-06"/>
+    <cosponsor id="409917" joined="1988-06-10"/>
+    <cosponsor id="409923" joined="1988-06-10"/>
+    <cosponsor id="300092" joined="1988-09-13"/>
+    <cosponsor id="410242" joined="1988-06-21"/>
+    <cosponsor id="410315" joined="1988-06-06"/>
+    <cosponsor id="300094" joined="1988-06-10"/>
+    <cosponsor id="410588" joined="1988-09-13"/>
+    <cosponsor id="300157" joined="1988-06-06"/>
+    <cosponsor id="300099" joined="1988-09-13"/>
+    <cosponsor id="411421" joined="1988-08-04"/>
+    <cosponsor id="411762" joined="1988-06-06"/>
+    <cosponsor id="411801" joined="1988-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-10" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Senate Committee on Judiciary discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-30">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-08">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-08">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-15" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-661" type="public" datetime="1988-11-15">
+      <text>Became Public Law No: 100-661.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="360"/>
+    <bill relation="identical" session="100" type="hj" number="360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Infant mortality"/>
+    <term name="Pregnancy"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Introduced.
+Designates October 1988 as Pregnancy and Infant Loss Awareness Month.</summary>
+</bill>

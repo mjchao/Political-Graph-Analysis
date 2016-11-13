@@ -1,0 +1,45 @@
+<bill session="100" type="hj" number="624" updated="2014-03-22T09:54:03-04:00">
+  <state datetime="1988-07-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-26"/>
+  </status>
+  <introduced datetime="1988-07-26"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to provide for the resolution of the railway labor-management dispute between the Chicago and North Western Transportation Company and certain of its employees represented by the United Transportation Union.</title>
+  </titles>
+  <sponsor id="400604"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-26" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>See S.J.Res.356.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="sj" number="356"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Collective bargaining"/>
+    <term name="Illinois"/>
+    <term name="Industrial arbitration"/>
+    <term name="Labor disputes"/>
+    <term name="Labor injunctions"/>
+    <term name="Labor unions"/>
+    <term name="Lockouts"/>
+    <term name="Railroad employees"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/1988--Introduced.
+Provides for a resolution of the labor-management dispute between the Chicago and North Western Transportation Company and the United Transportation Union if it is not resolved by August 3, 1988. Directs such Company and such Union to then resolve the dispute by implementing, without any work stoppage, the recommendations submitted by a specified Presidential Emergency Board. Makes obligations imposed by such implementation enforceable in U.S. district court by the Attorney General.</summary>
+</bill>

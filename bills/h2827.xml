@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="2827" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1987-06-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-29"/>
+  </status>
+  <introduced datetime="1987-06-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Railroad Retirement Act of 1974 to provide that any worker with twenty-five years of service or more shall have a current connection for certain purposes.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="400140" joined="1987-06-29"/>
+    <cosponsor id="410245" joined="1987-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-29" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Annuities"/>
+    <term name="Employee benefit plans"/>
+    <term name="Labor and employment"/>
+    <term name="Railroad employees"/>
+    <term name="Railroad retirement plans"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>6/29/1987--Introduced.
+Amends the Railroad Retirement Act of 1974 to deem an individual to have a current connection with the railroad industry after completing 25 years of service for purposes of determining annuity eligibility requirements.</summary>
+</bill>

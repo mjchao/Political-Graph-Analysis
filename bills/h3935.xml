@@ -1,0 +1,33 @@
+<bill session="100" type="h" number="3935" updated="2014-03-22T09:53:01-04:00">
+  <state datetime="1988-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-09"/>
+  </status>
+  <introduced datetime="1988-02-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to remove the designation of the third Monday in February as a legal public holiday.</title>
+  </titles>
+  <sponsor id="404869"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-09" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Commemorations"/>
+    <term name="Holidays"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/1988--Introduced.
+Amends Federal law to remove the designation of the third Monday in February as a legal public holiday relating to Washington's Birthday. Makes conforming changes regarding contested elections, rules of any Federal agency, and rules of certain Federal courts.</summary>
+</bill>

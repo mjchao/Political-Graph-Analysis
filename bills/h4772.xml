@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="4772" updated="2014-03-22T09:53:24-04:00">
+  <state datetime="1988-06-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-06-08"/>
+  </status>
+  <introduced datetime="1988-06-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Huang Yao Quan and Hu Zhao Rong.</title>
+  </titles>
+  <sponsor id="404097"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-06-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-06-20">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>6/8/1988--Introduced.
+Authorizes the classification of two named individuals as immediate relatives within the meaning of the Immigration and Nationality Act.</summary>
+</bill>

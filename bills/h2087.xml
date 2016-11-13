@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2087" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Beneficiary Ombudsman Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Social Security Act to provide for a Beneficiary Ombudsman in the Social Security Administration.</title>
+  </titles>
+  <sponsor id="410641"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-04-09"/>
+    <cosponsor id="400043" joined="1987-04-09"/>
+    <cosponsor id="402657" joined="1987-04-22"/>
+    <cosponsor id="406799" joined="1987-04-22"/>
+    <cosponsor id="409651" joined="1987-04-09"/>
+    <cosponsor id="300091" joined="1987-04-09"/>
+    <cosponsor id="411901" joined="1987-04-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Executive reorganization"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Ombudsman"/>
+    <term name="Social Security Administration"/>
+    <term name="Supplemental security income program"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Social Security Beneficiary Ombudsman Act of 1987 - Amends title VII (Administration) of the Social Security Act to establish an Office of the Beneficiary Ombudsman in the Social Security Administration of the Department of Health and Human Services, to be headed by a Beneficiary Ombudsman appointed by the Secretary of Health and Human Services. Requires the Beneficiary Ombudsman to represent within the Secretary's decision-making process the interests of Old-Age, Survivors, and Disability Insurance program (title II of the Act) and Supplemental Security Income program (title XVI of the Act) beneficiaries and help resolve the problems under such programs of individual beneficiaries in unusual or difficult circumstances. Requires that the Secretary's annual report to the Congress on the administration of Social Security programs include a description of the Beneficiary Ombudsman's activities.</summary>
+</bill>

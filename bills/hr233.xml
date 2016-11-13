@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="233" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-07-28">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-07-28"/>
+  </status>
+  <introduced datetime="1987-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H. R. 3022) to provide for a temporary extension of the public debt limit.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-07-28">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-248.</text>
+    </action>
+    <action datetime="1987-07-28">
+      <text>Placed on House Calendar No: 64.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-07-29">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 243 - 169 (Record Vote No: 287).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="3022"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Public debt"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 3022 (public debt limit).</summary>
+</bill>

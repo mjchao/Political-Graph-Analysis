@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="2850" updated="2014-03-22T09:52:32-04:00">
+  <state datetime="1987-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-30"/>
+  </status>
+  <introduced datetime="1987-06-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the District of Columbia Prison Overcrowding Emergency Powers Emergency Act of 1987.</title>
+  </titles>
+  <sponsor id="408490"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-30" state="REFERRED">
+      <text>Referred to House Committee on District of Columbia.</text>
+    </action>
+    <action datetime="1987-07-03">
+      <text>Referred to Subcommittee on Judiciary and Education.</text>
+    </action>
+    <action datetime="1987-09-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSDT" name="House District of Columbia" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSDT03" subcommittee="Judiciary and Education" name="House District of Columbia"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Correctional institutions"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="District of Columbia"/>
+    <term name="Municipal ordinances"/>
+    <term name="Municipal politics and government"/>
+    <term name="Prisons"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1987--Introduced.
+Repeals the District of Columbia Prison Overcrowding Emergency Powers Act of 1987.</summary>
+</bill>

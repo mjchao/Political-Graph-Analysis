@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="4657" updated="2014-03-22T09:53:22-04:00">
+  <state datetime="1988-05-23">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-23"/>
+  </status>
+  <introduced datetime="1988-05-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 11 of the United States Code with respect to the rejection of executory contracts licensing rights to intellectual property.</title>
+  </titles>
+  <sponsor id="403776"/>
+  <cosponsors>
+    <cosponsor id="400064" joined="1988-09-14"/>
+    <cosponsor id="404097" joined="1988-09-13"/>
+    <cosponsor id="400140" joined="1988-06-29"/>
+    <cosponsor id="407899" joined="1988-09-16"/>
+    <cosponsor id="410245" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-23" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-05-26">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1988-06-03">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Clean Bill H.R.5348 Forwarded by Subcommittee to Full Committee in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5348"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Contracts"/>
+    <term name="Copyright"/>
+    <term name="Debtor and creditor"/>
+    <term name="Intellectual property"/>
+    <term name="Inventions"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>5/23/1988--Introduced.
+Amends Federal bankruptcy law to provide that if a trustee in bankruptcy rejects an executory contract which licenses rights to intellectual property then the licensee under such a contract may elect to: (1) treat such contract as terminated if specific conditions are met; or (2) retain its rights under such contract as such rights existed immediately before the case commenced. Provides that if the licensee elects to retain its rights under such a contract then: (1) the trustee shall allow the licensee to exercise such rights; and (2) the licensee shall make all payments due under the contract and shall be deemed to waive certain claims and any right of setoff. Specifies that on the written request of a licensee the trustee shall: (1) to the extent provided in the contracts provide to the licensee any intellectual property held by the trustee; and (2) refrain from interference with the rights of the licensee to intellectual property as provided in the contract. Provides that prior to a rejection of such a contract and upon the written request of a licensee, a trustee must: (1) perform such contract or provide to the licensee such intellectual property held by the trustee; and (2) refrain from interference with the rights of the licensee as provided in the contract.</summary>
+</bill>

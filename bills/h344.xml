@@ -1,0 +1,56 @@
+<bill session="100" type="h" number="344" updated="2014-03-22T09:51:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require testing of certain persons for the acquired immune deficiency syndrome and the HTLV-III/LAV virus.</title>
+  </titles>
+  <sponsor id="403184"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-03-10"/>
+    <cosponsor id="401029" joined="1987-03-10"/>
+    <cosponsor id="401203" joined="1987-05-14"/>
+    <cosponsor id="400571" joined="1987-06-12"/>
+    <cosponsor id="400055" joined="1987-04-09"/>
+    <cosponsor id="400104" joined="1987-03-10"/>
+    <cosponsor id="403545" joined="1987-02-02"/>
+    <cosponsor id="404587" joined="1987-03-30"/>
+    <cosponsor id="400174" joined="1987-10-09"/>
+    <cosponsor id="300055" joined="1987-04-06"/>
+    <cosponsor id="400596" joined="1987-04-06"/>
+    <cosponsor id="300155" joined="1987-03-10"/>
+    <cosponsor id="400389" joined="1987-02-02"/>
+    <cosponsor id="400504" joined="1987-07-01"/>
+    <cosponsor id="410574" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Aliens"/>
+    <term name="Communicable diseases"/>
+    <term name="Corrections and Correctional Institutions"/>
+    <term name="Counseling"/>
+    <term name="Immigration"/>
+    <term name="Immigration policy"/>
+    <term name="Medical screening"/>
+    <term name="Prisoners"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Requires any individual imprisoned in a Federal correctional institution, or in a correctional facility which receives Federal funds, and any individual seeking permanent residence in the United States to be tested for acquired immune deficiency syndrome (AIDS) or the virus HTLV-III/LAV. Requires any individual identified as a result of such test as a carrier of AIDS to be notified and counseled about the risks of spreading it.</summary>
+</bill>

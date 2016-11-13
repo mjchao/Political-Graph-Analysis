@@ -1,0 +1,126 @@
+<bill session="100" type="h" number="2052" updated="2014-03-22T09:52:09-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="short" as="introduced">Ethanol Motor Fuel Act of 1987</title>
+    <title type="official" as="introduced">A bill to enhance the energy security of the United States, improve the environment, and expand markets for agricultural commodities by providing for the increased use of motor fuel blended with ethanol.</title>
+  </titles>
+  <sponsor id="300038"/>
+  <cosponsors>
+    <cosponsor id="400761" joined="1987-04-09"/>
+    <cosponsor id="400975" joined="1987-05-08"/>
+    <cosponsor id="401231" joined="1987-10-20"/>
+    <cosponsor id="400023" joined="1987-08-05"/>
+    <cosponsor id="400571" joined="1987-05-21"/>
+    <cosponsor id="400035" joined="1987-10-29"/>
+    <cosponsor id="401923" joined="1987-04-29"/>
+    <cosponsor id="403242" joined="1987-04-29"/>
+    <cosponsor id="300037" joined="1987-04-09"/>
+    <cosponsor id="403726" joined="1987-09-22"/>
+    <cosponsor id="403864" joined="1987-05-08"/>
+    <cosponsor id="400126" joined="1987-04-29"/>
+    <cosponsor id="404002" joined="1987-04-29"/>
+    <cosponsor id="404097" joined="1987-11-17"/>
+    <cosponsor id="404190" joined="1987-12-02"/>
+    <cosponsor id="400146" joined="1987-04-09"/>
+    <cosponsor id="404602" joined="1987-04-09"/>
+    <cosponsor id="404723" joined="1987-04-09"/>
+    <cosponsor id="404750" joined="1987-05-08"/>
+    <cosponsor id="404869" joined="1987-09-22"/>
+    <cosponsor id="400538" joined="1987-04-29"/>
+    <cosponsor id="400169" joined="1987-04-29"/>
+    <cosponsor id="405580" joined="1987-04-09"/>
+    <cosponsor id="405775" joined="1987-04-29"/>
+    <cosponsor id="300058" joined="1987-07-01"/>
+    <cosponsor id="406111" joined="1987-06-23"/>
+    <cosponsor id="406157" joined="1987-05-08"/>
+    <cosponsor id="400211" joined="1987-12-02"/>
+    <cosponsor id="400216" joined="1987-10-20"/>
+    <cosponsor id="400226" joined="1987-06-23"/>
+    <cosponsor id="406461" joined="1987-05-08"/>
+    <cosponsor id="406554" joined="1987-04-29"/>
+    <cosponsor id="400236" joined="1987-06-10"/>
+    <cosponsor id="406729" joined="1987-12-02"/>
+    <cosponsor id="400240" joined="1987-05-21"/>
+    <cosponsor id="406799" joined="1987-04-09"/>
+    <cosponsor id="400243" joined="1987-05-08"/>
+    <cosponsor id="406974" joined="1988-03-31"/>
+    <cosponsor id="407069" joined="1987-04-09"/>
+    <cosponsor id="407215" joined="1987-04-09"/>
+    <cosponsor id="407351" joined="1988-05-25"/>
+    <cosponsor id="407432" joined="1987-04-09"/>
+    <cosponsor id="407676" joined="1987-06-10"/>
+    <cosponsor id="407967" joined="1987-06-10"/>
+    <cosponsor id="408097" joined="1987-06-23"/>
+    <cosponsor id="408109" joined="1987-11-17"/>
+    <cosponsor id="408342" joined="1987-10-20"/>
+    <cosponsor id="408575" joined="1987-10-29"/>
+    <cosponsor id="400314" joined="1988-03-31"/>
+    <cosponsor id="408618" joined="1987-04-09"/>
+    <cosponsor id="400604" joined="1987-05-08"/>
+    <cosponsor id="408907" joined="1987-04-09"/>
+    <cosponsor id="409205" joined="1987-06-10"/>
+    <cosponsor id="409651" joined="1987-04-09"/>
+    <cosponsor id="400534" joined="1987-10-29"/>
+    <cosponsor id="400377" joined="1987-04-09"/>
+    <cosponsor id="409966" joined="1987-04-09"/>
+    <cosponsor id="409968" joined="1987-12-21"/>
+    <cosponsor id="410097" joined="1987-04-09"/>
+    <cosponsor id="410251" joined="1987-04-09"/>
+    <cosponsor id="410261" joined="1987-04-09"/>
+    <cosponsor id="410407" joined="1987-06-23"/>
+    <cosponsor id="410623" joined="1987-04-09"/>
+    <cosponsor id="410641" joined="1987-04-29"/>
+    <cosponsor id="400409" joined="1987-04-09"/>
+    <cosponsor id="410926" joined="1987-04-09"/>
+    <cosponsor id="400414" joined="1987-05-21"/>
+    <cosponsor id="411405" joined="1987-05-21"/>
+    <cosponsor id="400428" joined="1987-10-20"/>
+    <cosponsor id="411677" joined="1987-06-10"/>
+    <cosponsor id="411834" joined="1987-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-24">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1304"/>
+    <bill relation="identical" session="100" type="s" number="1304"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Energy policy"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Gasoline"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Petroleum"/>
+    <term name="Petroleum and petroleum products"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Ethanol Motor Fuel Act of 1987 - Mandates that in any calendar year beginning with calendar year 1988, the total quantity of motor fuel sold annually in U.S. commerce by wholesale distributors shall contain, on the average, not less than a specified percentage of ethanol by volume. Sets forth a computation formula for measuring the percentage of ethanol in motor fuel sold by a wholesale distributor. Requires wholesale distributors of motor fuel to report to the Secretary of Energy regarding ethanol sales and credits. Imposes a civil penalty on wholesale distributors for violation of the ethanol-blended fuel requirements. Directs the Secretary of Energy to establish a program to promote ethanol use in motor fuel.</summary>
+</bill>

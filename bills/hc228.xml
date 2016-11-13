@@ -1,0 +1,44 @@
+<bill session="100" type="hc" number="228" updated="2014-03-22T09:54:11-04:00">
+  <state datetime="1987-12-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-10"/>
+  </status>
+  <introduced datetime="1987-12-10"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress regarding the recent arrest of 4 people who were detained in the offices of the Zion Church in East Berlin by authorities of the German Democratic Republic.</title>
+  </titles>
+  <sponsor id="400604"/>
+  <cosponsors>
+    <cosponsor id="405377" joined="1987-12-10"/>
+    <cosponsor id="400189" joined="1987-12-10"/>
+    <cosponsor id="400231" joined="1987-12-10"/>
+    <cosponsor id="400380" joined="1987-12-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-10" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="East Germany"/>
+    <term name="Human rights"/>
+    <term name="Political prisoners"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>12/10/1987--Introduced.
+Expresses the sense of the Congress that: (1) the Department of State and the executive branch should take every opportunity to encourage the Government of the German Democratic Republic (GDR) to live up to its obligations under the Helsinki Final Act and other international instruments; and (2) the GDR should favorably resolve the pending cases against the four people detained at the Zion Church on November 24, 1987, initiate no further reprisals against individuals for peacefully expressing their views, and continue and expand the positive steps taken in the area of human rights.</summary>
+</bill>

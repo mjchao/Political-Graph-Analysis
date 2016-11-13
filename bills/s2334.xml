@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="2334" updated="2014-03-22T09:55:47-04:00">
+  <state datetime="1988-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-04-28"/>
+  </status>
+  <introduced datetime="1988-04-28"/>
+  <titles>
+    <title type="short" as="introduced">Pro Competition Cargo Allocation Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Merchant Marine Act, to repeal the requirements both for additional cargo perference imposed on certain agricultural exports and for allocations of a share of such exports to Great Lakes ports.</title>
+  </titles>
+  <sponsor id="403483"/>
+  <cosponsors>
+    <cosponsor id="401611" joined="1988-04-28"/>
+    <cosponsor id="300066" joined="1988-04-28"/>
+    <cosponsor id="408937" joined="1988-04-28"/>
+    <cosponsor id="409917" joined="1988-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-28" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3699"/>
+    <bill relation="identical" session="100" type="h" number="3699"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Cargo preference"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Great Lakes"/>
+    <term name="Lakes"/>
+    <term name="Marine transportation"/>
+    <term name="Ships and shipping"/>
+    <term name="Water and Water Resources Development"/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1988--Introduced.
+Pro Competition Cargo Allocation Act of 1988 - Amends the Merchant Marine Act, 1936 to repeal various provisions relating to cargo preference shipping requirements for certain agricultural exports, including provisions relating to preserving the percentage share or metric tonnage of certain commodities of waterborne cargoes exported from Great Lakes ports.</summary>
+</bill>

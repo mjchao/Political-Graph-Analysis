@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="1044" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-21"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for medicare coverage of influenza vaccine and its administration.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="300094" joined="1987-05-28"/>
+    <cosponsor id="411421" joined="1987-05-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Communicable diseases"/>
+    <term name="Health"/>
+    <term name="Influenza"/>
+    <term name="Medicare"/>
+    <term name="Preventive medicine"/>
+    <term name="Vaccination"/>
+    <term name="Vaccines"/>
+  </subjects>
+  <amendments/>
+  <summary>4/21/1987--Introduced.
+Amends title XVIII (Medicare) of the Social Security Act to provide Medicare coverage for influenza vaccines and their administration.</summary>
+</bill>

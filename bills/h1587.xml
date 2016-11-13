@@ -1,0 +1,95 @@
+<bill session="100" type="h" number="1587" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1987-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-12"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the States to prohibit the export of unprocessed logs harvested from lands owned or administered by States.</title>
+  </titles>
+  <sponsor id="400100"/>
+  <cosponsors>
+    <cosponsor id="400987" joined="1988-03-30"/>
+    <cosponsor id="401585" joined="1988-03-30"/>
+    <cosponsor id="401612" joined="1987-12-17"/>
+    <cosponsor id="402435" joined="1988-03-30"/>
+    <cosponsor id="402657" joined="1988-04-20"/>
+    <cosponsor id="402763" joined="1988-04-27"/>
+    <cosponsor id="300029" joined="1987-10-01"/>
+    <cosponsor id="408407" joined="1988-07-12"/>
+    <cosponsor id="410251" joined="1987-10-01"/>
+    <cosponsor id="410531" joined="1988-05-26"/>
+    <cosponsor id="410567" joined="1988-03-30"/>
+    <cosponsor id="300156" joined="1988-05-26"/>
+    <cosponsor id="411901" joined="1988-05-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1988-04-05">
+      <text>Executive Comment Requested from USDA, Commerce, Treasury, USTR.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Unfavorable Executive Comment Received From US Trade Rep.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Executive Comment Received From US Trade Rep.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Unfavorable Executive Comment Received From USTR.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Unfavorable Executive Comment Received From Department of Commerce.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Unfavorable Executive Comment Received From Commerce.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Unfavorable Executive Comment Received From State Department.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Unfavorable Executive Comment Received From State.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Unfavorable Executive Comment Received From Treasury.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Unfavorable Executive Comment Received From State, Treasury.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Export controls"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Forest products"/>
+    <term name="Forests and forest products"/>
+    <term name="Lumber trade"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Authorizes each State to prohibit the export of unprocessed logs harvested from lands owned or administered by that State.</summary>
+</bill>

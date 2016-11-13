@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="5215" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="short" as="introduced">Health Care Providers Responsibility Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that tax exempt bonds may be used to provide a hospital or other inpatient health care facility only if the facility accepts medicaid patients and to amend title XVIII of the Social Security Act to require medicare hospitals and skilled nursing facilities to accept medicaid patients.</title>
+  </titles>
+  <sponsor id="403529"/>
+  <cosponsors>
+    <cosponsor id="400387" joined="1988-08-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-08-24">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Health"/>
+    <term name="Business and commerce"/>
+    <term name="Debt"/>
+    <term name="Extended care facilities"/>
+    <term name="Finance and financial sector"/>
+    <term name="Government securities"/>
+    <term name="Health facilities"/>
+    <term name="Health insurance"/>
+    <term name="Hospitals"/>
+    <term name="Income"/>
+    <term name="Income tax"/>
+    <term name="Insurance"/>
+    <term name="Interest"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Nursing homes"/>
+    <term name="Securities and Investments"/>
+    <term name="Social welfare"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Tax deductions"/>
+    <term name="Tax exclusion"/>
+    <term name="Tax-exempt organizations"/>
+    <term name="Tax-exempt securities"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Health Care Providers Responsibility Act of 1988 - Amends the Internal Revenue Code to remove the Federal income tax exemption for interest on any inpatient health care facility bond (a 501(c)(3) bond) with respect to any facility that at the time of bond issuance does not have in effect a provider agreement under the relevant State's Medicaid plan. Subjects to the tax on unrelated business income of charitable organizations the owner of any inpatient health care facility that was financed from proceeds of any tax-exempt bond and that does not have a provider agreement under a State Medicaid plan. Denies an income tax deduction for interest on financing to these same entities. Amends title XVIII (Medicare) of the Social Security Act to require hospitals and skilled nursing facilities to have in effect a provider agreement under the relevant State Medicaid program as a condition for eligibility to participate in the Medicare program.</summary>
+</bill>

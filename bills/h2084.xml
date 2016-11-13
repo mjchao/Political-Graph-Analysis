@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="2084" updated="2014-03-22T09:52:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Secretary of State to include the amount and type of foreign assistance in the report on policies pursued by other countries in international organizations.</title>
+  </titles>
+  <sponsor id="410574"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="1987-06-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Referred to Subcommittee on International Operations.</text>
+    </action>
+    <action datetime="1987-04-24">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA02" subcommittee="International Operations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="International agencies"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Department of State Authorization Act, Fiscal Years 1984 and 1985 to require the Secretary of State to include in the required report to the Congress on policies pursued by other countries in international organizations the amount and type of foreign assistance (if any) made available by the United States for the preceding fiscal year to each such country under the Foreign Assistance Act of 1961, the Arms Export Control Act, the Export-Import Bank Act of 1945, and the Peace Corps Act.</summary>
+</bill>

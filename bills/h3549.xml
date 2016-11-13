@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="3549" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-27"/>
+  </status>
+  <introduced datetime="1987-10-27"/>
+  <titles>
+    <title type="short" as="introduced">Sunflower Indemnity Act of 1988</title>
+    <title type="official" as="introduced">A bill to provide indemnity payments to sunflower producers for the 1988 crop.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="300058" joined="1987-10-27"/>
+    <cosponsor id="410261" joined="1987-10-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-27" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-11-02">
+      <text>Referred to Subcommittee on Wheat, Soybeans, and Feed Grains.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG08" subcommittee="Wheat, Soybeans, and Feed Grains" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Flowers"/>
+    <term name="Oilseeds"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1987--Introduced.
+Sunflower Indemnity Act of 1988 - Directs the Secretary of Agriculture to make available indemnity payments, in the form of cash or negotiable commodity certificates, to persons who plant oil-type sunflowers for harvest during the 1988 crop year. Sets the payment rate at the difference between average market prices and eight cents per pound. Limits the annual payment per recipient and sets a total payment limitation of $18,000,000. Authorizes the Secretary to adjust the payment rate to comply with these limits. Directs the Secretary, after 180 days, but not later than one year following this Act's enactment, to: (1) determine whether the traditional and historic price and market share relationship between cottonseed and its products and sunflowers and their products has been changed as a result of direct payments to sunflower producers; and (2) take steps to restore the traditional relationship if a market share decrease or price decline is noted with respect to cottonseed or its derivative products.</summary>
+</bill>

@@ -1,0 +1,61 @@
+<bill session="100" type="h" number="1936" updated="2016-06-29T08:42:55-04:00">
+  <state datetime="1987-04-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-02"/>
+  </status>
+  <introduced datetime="1987-04-02"/>
+  <titles>
+    <title type="short" as="introduced">Product Liability Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide a uniform product liability law.</title>
+  </titles>
+  <sponsor id="409887"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1987-05-11"/>
+    <cosponsor id="404325" joined="1987-05-11"/>
+    <cosponsor id="400205" joined="1987-05-11"/>
+    <cosponsor id="406530" joined="1987-05-11"/>
+    <cosponsor id="400334" joined="1987-05-11"/>
+    <cosponsor id="400380" joined="1987-05-11"/>
+    <cosponsor id="400504" joined="1987-06-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-02" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Civil actions and liability"/>
+    <term name="Consumer protection"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Defective products"/>
+    <term name="Evidence (Law)"/>
+    <term name="Federal preemption"/>
+    <term name="Law"/>
+    <term name="Limitation of actions"/>
+    <term name="Products liability"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>4/2/1987--Introduced.
+Product Liability Act of 1987 - Sets forth uniform national standards for products liability cases. Preempts inconsistent Federal and State laws. Permits actions under this Act to be brought in State court or Federal court if the United States is a party or diversity jurisdiction exists. Prohibits recovery for other than commercial loss or damage to the product itself, except as otherwise provided in this Act. Sets forth basic standards of responsibility for manufacturers and product sellers. Establishes rules relating to proof in products liability cases with respect to Government standards and contract specifications. Prohibits admission of postmanufacturing improvements except for the purpose of impeaching a witness where the product seller denies the feasibility of such improvements. Allows a manufacturer to introduce certain precautionary measures. Provides that all product liability actions shall be governed by the principles of comparative responsibility. Specifies the manner in which damages are to be apportioned. Provides that comparative damages apply only to compensatory damages. Requires the reduction of any damage award by the amount of workers' compensation benefits which are paid. Makes a product seller who acted with flagrant indifference to consumer safety, where the act was an extreme departure from accepted practice, liable for punitive damages. Establishes a two-year statute of limitations and a ten-year statute of repose.</summary>
+</bill>

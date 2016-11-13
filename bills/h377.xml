@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="377" updated="2014-03-22T09:51:18-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to require air carriers to schedule operations at airports in such a manner so as not to exceed the capacity of any airport to handle operations during any period of time.</title>
+  </titles>
+  <sponsor id="407816"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1987-01-08"/>
+    <cosponsor id="401383" joined="1987-02-19"/>
+    <cosponsor id="400585" joined="1987-01-06"/>
+    <cosponsor id="405855" joined="1987-01-21"/>
+    <cosponsor id="400210" joined="1987-01-21"/>
+    <cosponsor id="400595" joined="1987-01-08"/>
+    <cosponsor id="407457" joined="1987-01-08"/>
+    <cosponsor id="410066" joined="1987-01-06"/>
+    <cosponsor id="410529" joined="1987-06-08"/>
+    <cosponsor id="410567" joined="1987-02-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-08-05">
+      <text>See H.R.3051.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3051"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air traffic"/>
+    <term name="Airlines"/>
+    <term name="Airports"/>
+    <term name="Antitrust law"/>
+    <term name="Antitrust policy"/>
+    <term name="Aviation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends the Federal Aviation Act of 1958 to require air carriers to schedule takeoffs and landings at airports in a manner that does not exceed the capacity of such airports to handle such operations. Directs the Administrator of the Federal Aviation Administration to prescribe procedures for such scheduling not later than 30 days after enactment of this Act, including the monitoring of any necessary negotiations. Requires air carriers to enter into an initial agreement, not later than 60 days after enactment, which establishes a conforming operation schedule. Authorizes the Administrator to prescribe schedules if air carriers do not enter into such agreement. Authorizes the Administrator to resolve any schedule disputes and to exempt air carriers from the antitrust laws to the extent necessary to implement agreements.</summary>
+</bill>

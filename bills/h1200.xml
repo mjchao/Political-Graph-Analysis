@@ -1,0 +1,70 @@
+<bill session="100" type="h" number="1200" updated="2014-03-22T09:51:44-04:00">
+  <state datetime="1987-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-24"/>
+  </status>
+  <introduced datetime="1987-02-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide that the exclusion applicable under the Age Discrimination in Employment Act of 1967 to the employment of police officers and firefighters shall be permanent.</title>
+  </titles>
+  <sponsor id="408052"/>
+  <cosponsors>
+    <cosponsor id="401363" joined="1987-04-06"/>
+    <cosponsor id="403314" joined="1987-05-27"/>
+    <cosponsor id="404013" joined="1987-04-27"/>
+    <cosponsor id="404097" joined="1987-04-27"/>
+    <cosponsor id="400143" joined="1987-04-27"/>
+    <cosponsor id="404422" joined="1987-04-27"/>
+    <cosponsor id="400536" joined="1987-07-01"/>
+    <cosponsor id="404996" joined="1987-04-06"/>
+    <cosponsor id="405409" joined="1987-04-27"/>
+    <cosponsor id="405448" joined="1988-03-16"/>
+    <cosponsor id="405687" joined="1988-03-16"/>
+    <cosponsor id="405775" joined="1987-02-24"/>
+    <cosponsor id="405939" joined="1987-04-06"/>
+    <cosponsor id="400238" joined="1987-04-27"/>
+    <cosponsor id="400243" joined="1987-04-06"/>
+    <cosponsor id="406873" joined="1987-04-06"/>
+    <cosponsor id="400617" joined="1987-04-06"/>
+    <cosponsor id="400595" joined="1987-02-24"/>
+    <cosponsor id="407457" joined="1987-04-06"/>
+    <cosponsor id="407772" joined="1987-04-06"/>
+    <cosponsor id="400306" joined="1987-05-06"/>
+    <cosponsor id="408618" joined="1987-05-06"/>
+    <cosponsor id="409237" joined="1987-02-24"/>
+    <cosponsor id="400533" joined="1987-05-27"/>
+    <cosponsor id="410066" joined="1987-04-06"/>
+    <cosponsor id="400387" joined="1987-05-27"/>
+    <cosponsor id="410889" joined="1987-04-09"/>
+    <cosponsor id="400611" joined="1987-05-27"/>
+    <cosponsor id="411834" joined="1987-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-24" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-03-16">
+      <text>Referred to Subcommittee on Employment Opportunities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED06" subcommittee="Employment Opportunities" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Age and employment"/>
+    <term name="Age discrimination"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Discrimination in employment"/>
+    <term name="Fire fighters"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Law enforcement officers"/>
+    <term name="Police"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1987--Introduced.
+Amends the Age Discrimination in Employment Amendments of 1986 to make permanent the exclusion applicable under the Age Discrimination in Employment Act of 1967 to the employment of police officers and firefighters.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4299" updated="2014-03-22T09:53:09-04:00">
+  <state datetime="1988-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the duty arrangement on certain unwrought lead for a period of four years.</title>
+  </titles>
+  <sponsor id="403203"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-04-06">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-04-13">
+      <text>Executive Comment Requested from State, Treasury, Commerce, Labor, ITC, USTR.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Lead"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Amends the Tariff Schedules of the United States to extend the duty on unwrought lead (other than lead bullion) through December 31, 1992.</summary>
+</bill>

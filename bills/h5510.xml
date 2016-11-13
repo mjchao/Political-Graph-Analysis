@@ -1,0 +1,54 @@
+<bill session="100" type="h" number="5510" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-12"/>
+  </status>
+  <introduced datetime="1988-10-12"/>
+  <titles>
+    <title type="short" as="introduced">Local Television Service Act of 1988</title>
+    <title type="official" as="introduced">A bill to provide primary commercial television service by very high frequency television stations to metropolitan areas with large populations that do not currently receive such service, and for other purposes.</title>
+  </titles>
+  <sponsor id="406746"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1988-10-12"/>
+    <cosponsor id="403545" joined="1988-10-12"/>
+    <cosponsor id="403581" joined="1988-10-12"/>
+    <cosponsor id="405524" joined="1988-10-12"/>
+    <cosponsor id="400239" joined="1988-10-12"/>
+    <cosponsor id="407320" joined="1988-10-12"/>
+    <cosponsor id="407457" joined="1988-10-12"/>
+    <cosponsor id="408023" joined="1988-10-12"/>
+    <cosponsor id="409632" joined="1988-10-12"/>
+    <cosponsor id="400369" joined="1988-10-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-12" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-11-01">
+      <text>Referred to Subcommittee on Telecommunications and Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF01" subcommittee="Telecommunications and Finance" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative procedure"/>
+    <term name="Broadcasting"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Licenses"/>
+    <term name="Metropolitan areas"/>
+    <term name="Television"/>
+    <term name="Television broadcasting"/>
+    <term name="Television frequency allocation"/>
+    <term name="Television stations"/>
+    <term name="Urban affairs"/>
+    <term name="Urban life"/>
+  </subjects>
+  <amendments/>
+  <summary>10/12/1988--Introduced.
+Local Television Service Act of 1988 - Amends the Communications Act of 1934 to mandate a policy under which the Federal Communications Commission (FCC) allocates VHF (very high frequency) commercial television broadcasting channels in ways that assure no fewer than one such channel to each Principal Metropolitan Statistical Area (PMSA) of more than 1,000,000 persons, if technically feasible. Directs the FCC to: (1) order reallocation of a channel or the hyphenation of a community of license within such a PMSA if a VHF commercial television broadcast station licensee notifies the FCC that it wishes such action; (2) issue a license to the licensee under the changed conditions for a term equal to the term remaining on the existing license; and (3) permit the license to be renewed for another term without considering other applications for the same channel, if certain findings are made. Requires the FCC to initiate rulemaking to ensure primary program service from at least one VHF commercial television station to any PMSA in question that is not receiving such service. Directs the FCC to report to the Congress on these proceedings and on recommendations to achieve the expressed policy.</summary>
+</bill>

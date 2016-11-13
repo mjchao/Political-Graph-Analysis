@@ -1,0 +1,137 @@
+<bill session="100" type="s" number="1382" updated="2014-12-10T13:15:54-05:00">
+  <state datetime="1988-11-05">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-05"/>
+  </status>
+  <introduced datetime="1987-06-17"/>
+  <titles>
+    <title type="short" as="introduced">Federal Energy Management Improvement Act</title>
+    <title type="short" as="passed house">Federal Energy Management Improvement Act of 1988</title>
+    <title type="short" as="reported to senate">Federal Energy Management Improvement Act</title>
+    <title type="short" as="passed senate">Federal Energy Management Improvement Act</title>
+    <title type="short" as="enacted">Federal Energy Management Improvement Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the National Energy Conservation Policy Act to improve the Federal Energy Management program, and for other purposes.</title>
+  </titles>
+  <sponsor id="407663"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-09-08"/>
+    <cosponsor id="402004" joined="1987-06-23"/>
+    <cosponsor id="403920" joined="1987-06-17"/>
+    <cosponsor id="404277" joined="1987-06-17"/>
+    <cosponsor id="405321" joined="1987-11-10"/>
+    <cosponsor id="406084" joined="1987-06-17"/>
+    <cosponsor id="300070" joined="1987-08-04"/>
+    <cosponsor id="407268" joined="1987-07-08"/>
+    <cosponsor id="411421" joined="1987-06-23"/>
+    <cosponsor id="411801" joined="1987-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-06-17">
+      <text>Referred to Subcommittee on Energy Regulation.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee on Energy Regulation. Hearings held.</text>
+    </action>
+    <calendar datetime="1987-12-02" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1987-12-15">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 100-256.</text>
+    </action>
+    <calendar datetime="1987-12-15" calendar="Senate Legislative" under="General Orders" number="487">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 487.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-18" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-01-27">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-02-16">
+      <text>Referred to Subcommittee on Energy and Power.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-29" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-29">
+      <text>House Incorporated H.R.4065 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-06-29">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <action datetime="1988-10-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-11" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in House amendments with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-12" where="h" result="pass" state="PASSED:BILL">
+      <text>House Agreed to Senate Amendments to House Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-05" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-615" type="public" datetime="1988-11-05">
+      <text>Became Public Law No: 100-615.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG02" subcommittee="Energy Regulation and Conservation" name="Senate Energy and Natural Resources"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral"/>
+    <committee activity="Referral" code="HSIF03" subcommittee="Energy and Power" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4065"/>
+  </relatedbills>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Advisory bodies"/>
+    <term name="Automobile fuel consumption"/>
+    <term name="Building construction"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Criminal statistics"/>
+    <term name="Energy conservation"/>
+    <term name="Energy policy"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal installations"/>
+    <term name="Federal office buildings"/>
+    <term name="Federal preemption"/>
+    <term name="Firearms"/>
+    <term name="Firearms control"/>
+    <term name="Government operations and politics"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information services"/>
+    <term name="Labeling"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Planning"/>
+    <term name="Toys"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3661"/>
+  </amendments>
+  <summary>10/11/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendment with an amendment) Federal Energy Management Improvement Act of 1988 - Amends the National Energy Conservation Policy Act to revise the policies governing Federal energy management. Requires agencies to improve construction designs for Federal buildings so that the energy consumption per gross square foot in use during FY 1995 is at least ten percent less than that of FY 1985. Sets forth implementation steps to meet such goal. Exempts from such requirement buildings in which energy intensive activities are implemented. Redescribes procedures involved in the establishment and use of life cycle cost methods for Federal buildings. Requires the establishment by each agency of an incentives program using internal resources to encourage energy conservation and efficiency by allowing the retention of a portion of the dollar savings resulting from the agency's energy conservation measures. Directs the Secretary of Energy to establish an Interagency Energy Management Task Force to coordinate Federal energy savings and disseminate information on energy efficiency. Requires each agency to report at least annually to the Secretary regarding its energy conservation activities and related contracts. Requires the Secretary to report annually to the Congress regarding energy conservation progress and contracts relating to Federal buildings. Requires the Secretary, to carry out an energy survey to: (1) determine the potential maximum cost effective energy peak demand savings achievable in a limited representative sample of federally-owned or leased buildings; and (2) recommend cost effective energy efficiency and renewable energy improvements in such buildings. Prescribes implementation procedures. Directs the Secretary to report to the Congress and the affected agencies regarding the survey findings and conclusions. Authorizes appropriations. Makes it unlawful to manufacture, enter into commerce, ship, transfer, or receive any toy or imitation firearm which does not have a marking approved by the Secretary of Commerce. Requires each such toy or imitation firearm to have a blaze orange plug inserted in its barrel as a permanently fixed and integral part. Provides for alternate marking and exceptions in certain instances. Requires the Director of the Bureau of Justice Statistics to study and report on the criminal misuse of toy, look-alike and imitation firearms, including police reports regarding incidents relative to marked and unmarked firearms. Directs the Director of the National Institute of Justice to conduct a technical evaluation of the marking systems for toy, look-alike, and imitation firearms to determine their effectiveness in police combat situations. Declares that these firearms provisions supersede any State or local laws dealing with firearms marking or identification. Prohibits States from banning the sale of antique firearms replicas and pellet-firing airguns. Exempts such artifacts from the prohibitions of this Act.</summary>
+</bill>

@@ -1,0 +1,283 @@
+<bill session="100" type="s" number="1220" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1988-09-23">PASS_BACK:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-23"/>
+  </status>
+  <introduced datetime="1987-05-15"/>
+  <titles>
+    <title type="short" as="introduced">Acquired Immunodeficiency Syndrome Education, Information, Risk Reduction, Training, Prevention, Treatment, Care, and Research Act of 1987</title>
+    <title type="short" as="passed house">AIDS Federal Policy Act of 1988</title>
+    <title type="short" as="reported to senate">Acquired Immunodeficiency Syndrome Research and Information Act of 1987</title>
+    <title type="short" as="passed senate">Acquired Immunodeficiency Syndrome Research and Information Act of 1988</title>
+    <title type="short" as="passed senate" partial="1">AIDS Awareness Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Public Health Service Act to provide for a comprehensive program of education, information, risk reduction, training, prevention, treatment, care, and research concerning acquired immunodeficiency syndrome.</title>
+  </titles>
+  <sponsor id="300059"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-10-20"/>
+    <cosponsor id="401391" joined="1987-08-06"/>
+    <cosponsor id="300009" joined="1988-03-31"/>
+    <cosponsor id="401611" joined="1988-04-19"/>
+    <cosponsor id="401709" joined="1988-03-03"/>
+    <cosponsor id="300012" joined="1988-04-27"/>
+    <cosponsor id="402004" joined="1988-03-31"/>
+    <cosponsor id="402023" joined="1987-06-19"/>
+    <cosponsor id="402412" joined="1987-09-22"/>
+    <cosponsor id="300023" joined="1987-06-19"/>
+    <cosponsor id="402727" joined="1988-04-21"/>
+    <cosponsor id="300026" joined="1988-03-17"/>
+    <cosponsor id="402990" joined="1987-05-15"/>
+    <cosponsor id="403142" joined="1988-04-11"/>
+    <cosponsor id="403171" joined="1988-04-13"/>
+    <cosponsor id="300031" joined="1988-03-31"/>
+    <cosponsor id="403483" joined="1988-04-22"/>
+    <cosponsor id="300034" joined="1987-05-15"/>
+    <cosponsor id="300036" joined="1988-04-27"/>
+    <cosponsor id="403669" joined="1987-10-22"/>
+    <cosponsor id="403920" joined="1988-03-23"/>
+    <cosponsor id="404277" joined="1988-04-20"/>
+    <cosponsor id="404598" joined="1988-03-31"/>
+    <cosponsor id="404679" joined="1988-03-25"/>
+    <cosponsor id="300046" joined="1988-04-20"/>
+    <cosponsor id="300051" joined="1987-05-27"/>
+    <cosponsor id="300052" joined="1987-06-19"/>
+    <cosponsor id="405212" joined="1988-04-13"/>
+    <cosponsor id="405321" joined="1988-03-23"/>
+    <cosponsor id="300053" joined="1987-08-07"/>
+    <cosponsor id="300056" joined="1987-06-19"/>
+    <cosponsor id="406084" joined="1988-04-19"/>
+    <cosponsor id="300060" joined="1987-07-17"/>
+    <cosponsor id="300064" joined="1987-09-16"/>
+    <cosponsor id="300065" joined="1987-12-03"/>
+    <cosponsor id="300066" joined="1988-03-31"/>
+    <cosponsor id="407268" joined="1987-06-19"/>
+    <cosponsor id="407622" joined="1988-03-30"/>
+    <cosponsor id="407663" joined="1987-05-15"/>
+    <cosponsor id="300073" joined="1987-05-15"/>
+    <cosponsor id="407786" joined="1988-04-20"/>
+    <cosponsor id="400563" joined="1987-11-19"/>
+    <cosponsor id="408420" joined="1988-04-13"/>
+    <cosponsor id="408597" joined="1987-05-15"/>
+    <cosponsor id="408970" joined="1988-04-20"/>
+    <cosponsor id="409225" joined="1987-08-06"/>
+    <cosponsor id="300084" joined="1988-03-31"/>
+    <cosponsor id="409562" joined="1987-12-01"/>
+    <cosponsor id="300086" joined="1987-10-09"/>
+    <cosponsor id="409917" joined="1987-05-19"/>
+    <cosponsor id="300092" joined="1988-03-31"/>
+    <cosponsor id="410242" joined="1987-06-19"/>
+    <cosponsor id="300157" joined="1987-06-19"/>
+    <cosponsor id="411421" joined="1987-06-19"/>
+    <cosponsor id="411762" joined="1988-04-11"/>
+    <cosponsor id="411801" joined="1988-03-23"/>
+    <cosponsor id="300150" joined="1988-04-20" withdrawn="1988-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-15" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Committee on Labor and Human Resources requested executive comment from Health and Human Services Department, OMB.</text>
+    </action>
+    <calendar datetime="1987-06-17" state="REPORTED">
+      <text>Committee on Labor and Human Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-07-29">
+      <text>Committee on Labor and Human Resources. Reported to Senate by Senator Kennedy with an amendment in the nature of a substitute. With written report No. 100-133.</text>
+    </action>
+    <calendar datetime="1987-07-29" calendar="Senate Legislative" under="General Orders" number="271">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 271.</text>
+    </calendar>
+    <action datetime="1988-04-27">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Considered by Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="120" datetime="1988-04-28" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 87-4. Record Vote No: 120.</text>
+    </vote>
+    <action datetime="1988-05-09">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-23" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-23">
+      <text>House Incorporated H.R.5142 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>House Insisted on its Amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>House Requested a Conference and Speaker Appointed Conferees: Dingell, Waxman, Wyden, Lent, Madigan, Montgomery, Edwards (CA), Rowland (GA), Solomon, Hammerschmidt.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill and House requests a conference.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2626"/>
+    <bill relation="identical" session="100" type="h" number="2626"/>
+    <bill relation="unknown" session="100" type="h" number="5142"/>
+  </relatedbills>
+  <subjects>
+    <term name="Health"/>
+    <term name="AIDS (Disease)"/>
+    <term name="Advisory bodies"/>
+    <term name="American economic assistance"/>
+    <term name="Block grants"/>
+    <term name="Blood"/>
+    <term name="Blood banks"/>
+    <term name="Blood donors"/>
+    <term name="Blood transfusions"/>
+    <term name="Child health"/>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Communicable diseases"/>
+    <term name="Community health services"/>
+    <term name="Correctional personnel"/>
+    <term name="Counseling"/>
+    <term name="Cuba"/>
+    <term name="Curricula"/>
+    <term name="Data banks"/>
+    <term name="Dentistry"/>
+    <term name="Dentists"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Discrimination in insurance"/>
+    <term name="District of Columbia"/>
+    <term name="Donation of organs, tissues, etc."/>
+    <term name="Drug abuse"/>
+    <term name="Drugs"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Education"/>
+    <term name="Emergency medical personnel"/>
+    <term name="Epidemiology"/>
+    <term name="Executive reorganization"/>
+    <term name="Families"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Federal aid to alcoholism programs"/>
+    <term name="Federal aid to child health services"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Federal aid to medical education"/>
+    <term name="Federal aid to medical research"/>
+    <term name="Federal employees"/>
+    <term name="Federal officials"/>
+    <term name="Federal preemption"/>
+    <term name="Fire fighters"/>
+    <term name="Government operations and politics"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Graduate education"/>
+    <term name="Health education"/>
+    <term name="Health facilities"/>
+    <term name="Health insurance"/>
+    <term name="Health planning"/>
+    <term name="Health surveys"/>
+    <term name="Hemophilia"/>
+    <term name="Home care services"/>
+    <term name="Homosexuality"/>
+    <term name="Information services"/>
+    <term name="Informed consent (Medical law)"/>
+    <term name="International affairs"/>
+    <term name="International agencies"/>
+    <term name="International cooperation"/>
+    <term name="Law and legislation"/>
+    <term name="Licenses"/>
+    <term name="Life insurance"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Marriage"/>
+    <term name="Married people"/>
+    <term name="Medical centers"/>
+    <term name="Medical economics"/>
+    <term name="Medical education"/>
+    <term name="Medical ethics"/>
+    <term name="Medical laboratories"/>
+    <term name="Medical personnel"/>
+    <term name="Medical policy"/>
+    <term name="Medical records"/>
+    <term name="Medical research"/>
+    <term name="Medical statistics"/>
+    <term name="Medical tests"/>
+    <term name="Mental health"/>
+    <term name="Migrant labor"/>
+    <term name="Military bases"/>
+    <term name="Military intervention"/>
+    <term name="Minorities"/>
+    <term name="Narcotic addicts"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Native Americans"/>
+    <term name="Neurology"/>
+    <term name="Nicaragua"/>
+    <term name="Nurses"/>
+    <term name="Nursing"/>
+    <term name="Occupational health and safety"/>
+    <term name="Osteopathy and osteopaths"/>
+    <term name="Panama"/>
+    <term name="Paramedical personnel"/>
+    <term name="Patients' rights"/>
+    <term name="Peer review organizations (Medicine)"/>
+    <term name="Physicians"/>
+    <term name="Police"/>
+    <term name="Preventive medicine"/>
+    <term name="Prisoners"/>
+    <term name="Prostitution"/>
+    <term name="Psychology"/>
+    <term name="Public health"/>
+    <term name="Public health personnel"/>
+    <term name="Public service advertising"/>
+    <term name="Rape"/>
+    <term name="Rape victim services"/>
+    <term name="Research"/>
+    <term name="Research centers"/>
+    <term name="Right of privacy"/>
+    <term name="Scholarships"/>
+    <term name="Sex"/>
+    <term name="Sex education"/>
+    <term name="Sex offenders"/>
+    <term name="Sexually transmitted diseases"/>
+    <term name="Social sciences"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Student aid"/>
+    <term name="Telephone"/>
+    <term name="Terminal care"/>
+    <term name="Treatment and rehabilitation of narcotic addicts"/>
+    <term name="U.S.S.R."/>
+    <term name="Vaccines"/>
+    <term name="Veterans' medical care"/>
+    <term name="Victims of crimes"/>
+    <term name="Vital statistics"/>
+    <term name="Women's health"/>
+    <term name="World health"/>
+  </subjects>
+  <amendments>
+    <amendment number="s672"/>
+    <amendment number="s1980"/>
+    <amendment number="s1981"/>
+    <amendment number="s1982"/>
+    <amendment number="s1983"/>
+    <amendment number="s1984"/>
+    <amendment number="s1985"/>
+    <amendment number="s1986"/>
+    <amendment number="s1988"/>
+    <amendment number="s1989"/>
+    <amendment number="s1990"/>
+    <amendment number="s1991"/>
+    <amendment number="s1992"/>
+    <amendment number="s1993"/>
+    <amendment number="s1994"/>
+    <amendment number="s1995"/>
+    <amendment number="s1996"/>
+    <amendment number="s1997"/>
+    <amendment number="s1998"/>
+    <amendment number="s1999"/>
+  </amendments>
+  <summary>9/23/1988--Passed House amended.
+(Measure passed House, amended, in lieu of H.R. 5142) AIDS Federal Policy Act of 1988 - Title I: Counseling and Testing with Respect to Acquired Immune Deficiency Syndrome - Amends the Public Health Service Act to create a new title on counseling and testing with respect to acquired immune deficiency syndrome (AIDS). Directs the Secretary of Health and Human Services to make a grant allotment for each State for each of FY 1989 through 1991. Authorizes the Secretary to make grants to entities which are grantees under other specified provisions, have received appropriated funds as alternate blood testing sites, or are nonprofit hospitals. Requires the allotments and grants be used only for counseling individuals with respect to AIDS and testing individuals for infection with the etiologic agent for AIDS. Directs the Secretary, in making the grants, to give preference to applicants in geographic areas where in FY 1989, the number of additional cases of AIDS, or in FY 1990 and subsequent fiscal years, if sufficient and accurate data are available, the number of additional cases of infection with the etiologic agent constitutes one percent or greater of such cases in the United States. Prohibits the Secretary from making an allotment or grant unless the applicant agrees to ensure, in accordance with Federal law and with State and local law not superseded by Federal law, the confidentiality of information and records with respect to individuals counseled or tested. Requires a written, signed statement of informed consent by the individual to be tested, with special provisions relating to testing through the use of a pseudonym and anonymous testing. Requires grantees to provide counseling which includes coverage of specified points before testing, after a negative test result, and after a positive test result. Requires grantees, where appropriate, to provide opportunities for women, children, hemophiliacs, and emergency response employees to undergo counseling under conditions appropriate to their needs. Allows grantees to use the grant to provide counseling without testing. Requires applicants who regularly provide treatment for sexually transmitted diseases or for intravenous substance abuse and applicants who are family planning clinics or tuberculosis clinics to routinely test for infection with the etiologic agent for AIDS. Prohibits the Secretary from making a grant to a State unless the State requires testing of each individual who is convicted of prostitution, a crime relating to sexual assault, or a crime relating to intravenous drug abuse. Requires the State to test certain individuals on entering the penal system and during the 30-day period preceeding their release. Requires the State to notify the individual before the test is performed. Requires, on request of a victim of a crime relating to sexual assault, that the victim be notified of the results of the testing. Allows the Secretary to make a grant to a State for each of the FY 1989 and 1990 if the State provides assurances that it will establish the requirements not later than October 1, 1990. Prohibits the Secretary from making a grant to a State unless the State provides assurances that it will: (1) encourage individuals in the State receiving, after 1976, a transfusion of any blood product to undergo testing; and (2) inform the individuals of public health facilities in the area that offer testing. Prohibits the Secretary from making a grant to a State unless the State requires that: (1) any entity carrying out testing confidentially report to the State public health officer information sufficient to perform statistical and epidemiological analyses of the incidence and demographic characteristics of cases of infection; and (2) the State public health officer, to the extent appropriate in the determination of the officer, carry out a program of contact tracing. Requires State grantees to establish a civil cause of action and a criminal penalty for knowing actions by an infected individual which exposes another individual to the etiologic agent through: (1) donation of blood, semen, breast milk, or an organ; (2) sexual activity; and (3) any behavior with intent to expose another individual. Provides for an exception where the person exposed gives prior consent to being exposed. Allows the Secretary to make a grant to a State for each of the FY 1989 and 1990 if the State provides assurances that it will establish the civil and criminal actions not later than October 1, 1990. Allows the State chief executive officer to certify, in lieu of enactment of any statute or issuance of any regulation, that the law of the State is in substantial compliance. Requires States, to the extent permitted under State law, to offer substantial opportunities for an individual to undergo counseling and testing anonymously and through the use of a pseudonym. Prohibits requiring testing as a condition of receiving other health services, unless the testing is medically indicated in the health services being sought. Requires States to make available to marriage license applicants the most recently available scientific data with respect to prevention of exposure to, and the transmission of, the etiologic agent. Requires States to make such information available to physicians and dentists, updating the information not less than once each six months. Requires that grantees who provided counseling and testing before receipt of these grants use the grants to increase the availability of counseling and testing. Provides for administration of the grant, including prohibiting: (1) imposing a charge on any individual seeking counseling or testing who is unable to pay the charge; and (2) expending more than ten percent of the grant for administartion. Sets forth a formula for determination of the amount of allotments for States. Authorizes the Secretary, on request of a grantee, to provide supplies, equipment, services, and detailed personnel in lieu of grant funds. Directs the Secretary, directly or through grants and contracts, to evaluate programs carried out with grants made under this Act for counseling and testing. Authorizes appropriations for FY 1989 through 1991, with 50 percent of any appropriations going to allotments and 50 percent going to grants. Requires all individuals receiving counseling under these provisions to be counseled about the harmful effects of promiscuous sexual activity and intravenous substance abuse, and the benefits of abstaining from such activities. Prohibits funds from being used to provide counseling that promotes or encourages, directly, homosexual or unsafe heterosexual sexual activity or intravenous substance abuse, but declares that this may not be construed to prohibit a counselor from providing the most current scientific knowledge to reduce the individual's risk of exposure to, or the transmission of, the etiologic agent, provided any informational materials used are not obscene. Creates another new part in the new subtitle established by this Act concerning confidentiality with respect to counseling and testing. Prohibits certain persons, without regard to whether such person receives Federal financial assistance, from disclosing identifying information with respect to a protected individual or a contact of such individual. Includes among such persons anyone who obtains identifying information: (1) directly or indirectly in connection with counseling or testing with regard to AIDS, providing health care to the protected individual, or carrying out a disclosure authorized by this Act or ordered by a court under this Act; (2) by directly perceiving any record developed in such counseling, testing, health care, or disclosure; or (3) in connection with notification of emergency response employees under specified provisions of this Act. Authorized consensual disclosure of identifying information through a specified procedure, including consent by a guardian of a legally incompetent person and consent, after the death of the protected individual, by the claimant of life insurance proceeds, for disclosure to the insurance company. Provides for nonconsensual disclosure: (1) to a health care provider in connection with counseling or testing, to the protected individual, or to the guardian of an incompetent individual; (2) to a health care provider who is likely to be occupationally exposed to the etiologic agent; (3) to a State public health officer if required by State law; (4) in connection with donation of blood, semen, breast milk, or an organ; (5) to a person preparing the body of a protected individual for burial; (6) intraorganizationally as necessary; (7) from a person receiving disclosure to any person authorized in these provisions for authorized purposes; (8) in connection with certain sales, transfers, mergers, or consolidations of all portions of organizations; and (9) in certain circumstances involving insurance policies and health plans. Authorizes a court of competent jurisdiction, with respect to the protected individual or contact involved, to: (1) order disclosure of identifying information to a State health officer in order to prevent a clear and imminent danger or transmission, by the individual or contact, of the etiologic agent; and (2) authorize the officer to disclose identifying information to the extent reasonably necessary to prevent such danger. Sets forth procedures, including in camera hearings, use of pseudonyms, and sealing of records. Provides for nonconsensual disclosures to victims of sexual assault. Authorizes physicians and counselors to make nonconsensual disclosures to spouses, sexual contacts, and people with whom the protected individual has shared a hypodermic needle, in certain circumstances. Requires, subject to exception, that: (1) disclosures be accompanined by a written declaration that redisclosure may be prohibited by law; and (2) in certain circumstances, the protected individual be notified in writing of the disclosure. Provides for civil money penalties and civil causes of action for intentional or negligent violation of disclosure provisions of this part. Authorizes injunctive relief initiated by the Secretary and a civil cause of action by any aggrieved individual. Provides for in camera proceedings, use of pseudonyms, and sealing of records. Provides for criminal penalties for intentional violation of disclosure provisions. Provides for termination of grants and contracts with any Federal agency and suspension or debarment of any Federal grantee or contractor for violation of certain disclosure provisions of this part. Declares that the imposition of a penalty or the receipt of relief under specified provisions of this part does not preclude other penalties or relief under Federal law. Declares that this part supersedes any State law that provides penalties or causes of action for failure to make disclosures not authorized by this part or for making disclosures authorized by this part. Directs the Secretary, acting through the Director of the Centers for Disease Control, to develop guidelines and a model curriculum for emergency response employees (EREs) with respect to the prevention of exposure to AIDS during the process of responding to emergencies. Directs the Secretary to establish a task force to assist in developing the guidelines and model curriculum, appointing to the task force representatives of the Centers for Disease Control, State governments, and EREs. Directs the Secretary to make grants to States and local governments to assist with initial implementation of the guidelines and model curriculum. Authorizes appropriations. Requires a medical facility to notify the designated officer of an ERE if the facility determines that a victim the ERE transported to the facility is infected with the etiologic agent for AIDS. Requires a medical facility, upon request of the designated officer of any EREs who attended, assisted, or transported the victim, to notify the designated officer if the facility makes a determination that a victim transported by EREs is infected with the etiologic agent for AIDS. Makes notification requirements apply to both the facility receiving the victim and, if the victim dies, to the facility ascertaining the cause of death. Directs the public health officer of each State to designate one official or officer of each employer of EREs to make requests and receive notifications. Sets forth notification procedures. Provides for notification of EREs and for requests from an ERE to a designated officer that the designated officer request notification from the medical facility. Declares that these provisions relating to EREs shall not be construed to authorize or require: (1) a medical facility to test any victim for infection with the etiologic agent; or (2) any medical facility, designated officer, or ERE to disclose identifying information with respect to a protected individual. Provides, for violations of certain provisions of this Act, for civil monetary penalties, injunctive relief, and civil causes of action. Directs the Secretary to issue guidelines describing circumstances under which an individual infected with the etiologic agent can expose other individuals to the agent. Authorizes the Secretary to make grants for demonstration projects for the development, establishment, or expansion of programs to provide counseling and mental health treatment for individuals with a positive test result, and for their families and others, who experience serious psychological reactions. Mandates that the counseling include counseling relating to prevention of exposure to, and the transmission of, the etiologic agent. Allows the grants to be used to train individuals to provide the counseling and mental health treatment. Directs the Secretary, subject to appropriations, to make a minimum of six grants for FY 1989. Authorizes the Secretary, acting through the Director of the National Institute of Mental Health, to provide technical assistance and administrative support to grantees. Authorizes appropriations for FY 1989 through 1991. Title II: Research with Respect to Acquired Immune Deficiency Syndrome - Amends title IV (National Research Institutes) of the Public Service Act to direct the Secretary of Health and Human Services to expedite the award of grants, contracts, and cooperative agreements for research projects relating to acquired immune deficiency syndrome (AIDS). Provides for time limitations for submission of and final action on applications submitted in response to a solicitation by the Secretary. Allows the Secretary to adjust the limitations. Amends the Public Health Service Act to create a new title on research with respect to AIDS. Requires the Director of the Office of Personnel Management (OPM) or the Administrator of General Services to respond within 14 days to any request for the allocation of personnel or for administrative support to carry out activities with respect to AIDS (priority requests) made by the Administrator of the Alcohol, Drug Abuse, and Mental Health Administration (ADAMHA), the Director of the Centers of Disease Control (CDC), the Commissioner of Food and Drugs, or the Director of the National Institutes of Health (NIH). Requires such requestors to transmit a copy of each priority request to the Secretary and the Assistant Secretary for Health. Mandates specified minimum numbers of additional personnel for the Public Health Service, subject to appropriations. Repeals this mandate effective October 1, 1989. Directs the Secretary, through the Director of the National Institute of Allergy and Infectious Disease (NIAID), to establish the AIDS Clinical Research Review Committee to: (1) advise the Director on research; (2) review research, issue reports, conduct studies, and convene meetings regarding clinical treatment; and (3) establish a telephone number to provide information to health professionals. Directs the Secretary, through the Directors of the National Cancer Institute (NCI) and the NIAID, to establish in each Institute a clinical evaluation unit. Authorizes appropriations. Directs the Secretary, if the Secretary determines that a new drug has potential effectiveness with respect to the prevention or treatment of AIDS, to encourage applications for an exemption for investigational use of the new drug under regulations issued under the Federal Food, Drug, and Cosmetic Act. Requires the AIDS Clinical Research Review Committee to make recommendations to the Secretary with respect to new drugs appropriate for such a determination. Directs the Secretary, in the case of a drug for which such an exemption is in effect to encourage licensed medical practitioners to use the drug in the treatment of individuals who are infected with the etiologic agent and who are not participating in the clinical trials under the exemption. Directs the Secretary, through the Director of the NIAID, to establish a program for the evaluation of drugs which are not approved by the Commissioner for AIDS treatment and which are being used by individuals infected with the etiologic agent for AIDS. Authorizes the Secretary to make grants and enter into contracts and cooperative agreements fo the purpose of conducting the drug evaluations. Includes as eligible for the grants, contracts, and agreements nonprofit private organizations established for the purpose of evaluating AIDS treatments and consisting primarily of individuals infected with the etiologic agent for AIDS. Directs the Secretary to establish scientific and ethical guidelines for the evaluations. Authorizes appropriations. Directs the Secretary, through the Director of the NIH, to make grants to and enter into contracts with international organizations concerned with public health: (1) for international research on vaccines and treatment; and (2) to support projects for training individuals in skills and technical expertise and to support epidemiological research. Authorizes the provision of technical assistance for foreign governments. Requires support provided by the Secretary to be in furtherance of the World Health Organization's Special Programme on Acquired Immunodeficiency Syndrome. Authorizes appropriations for FY 1989 through 1991. Directs the Secretary, through the Director of NIAID, to make grants and enter into contracts for centers for basic and clinical research into, and training in, advanced diagnostic, prevention, and treatment methods for AIDS. Prohibits the grants and contracts from being used to provide training for which National Research Service Awards may be provided. Authorizes appropriations. Directs the Secretary, acting through the National Library of Medicine, to establish the International Acquired Immune Deficiency Syndrome Research Data Bank to collect and disseminate information to the public, general practitioners, and investigators. Directs the Secretary to establish a schedule of charges for foreign users of the data bank. Authorizes appropriations. Directs the Secretary, acting through the Director of the CDC, directly or through cooperative agreements and contracts, using representative sampling and other methods, to provide for the continuous collection of data on the U.S. incidence of AIDS and of infection with the etiologic agent. Directs the Secretary to encourage each State to enter into a cooperative agreement or contract with the Secretary. Requires publication of the data collected at least once a year. Directs the Secretary, through the Director of the CDC, to develop an epidemiological data base and provide for long-term studies. Authorizes grants, contracts, and cooperative agreements. Authorizes grants for long-term research into treatments for AIDS developed from knowledge of the genetic nature of the etiologic agent for AIDS. Directs the Secretary, through the Director of the National Institute of Mental Health, to make grants for scientific research into the psychological and social sciences as such sciences relate to AIDS. Authorizes appropriations. Authorizes the Secretary to make grants for projects to develop model protocols for the clinical care of individuals infected with the etiologic agent. Requires that a grantee either be a provider of comprehensive primary care or agree to enter into a cooperative arrangement with such an entity. Prohibits a grantee who routinely imposes a charge for services under the grant from imposing the charge on an individual who is unable to pay the charge. Authorizes appropriations. Directs the Secretary, through the Director of the CDC, to establish fellowship and training programs to develop skills in epidemiology, surveillance, testing, and laboratory analysis relating to AIDS. Directs the Secretary, through the Director of the National Institute of Mental Health, to conduct or support fellowship and training programs to train individuals at the graduate or postgraduate level to conduct scientific research into the psychological and social sciences as such sciences relate to AIDS. Authorizes appropriations for FY 1989 through 1991. Directs the Secretary, acting through the Director of the NIH, to develop and expand clinical trials of treatments and therapies for infection with the etiologic agent for AIDS, including for women, infants, children, hemopheliacs, and minorities. Authorizes the Director to: (1) establish or support efforts using specialized biological materials; (2) support research and training outside the United States; (3) encourage and coordinate research by industrial concerns; (4) acquire and maintain real and personal property; (5) make grants for the construction or renovation of facilities; (6) acquire buildings in or around the District of Columbia; and (7) enter into contracts and cooperative agreements as necessary to expedite and coordinate research. Requires the Director of the NIH to establish projects to promote cooperation in research. Sets forth reporting requirements. Defines "acquired immune deficiency syndrome," for the purposes of the new title added by this title, to include any condition arising from infection with the etiologic agent for such syndrome. Directs the Secretary, through the Director of the CDC, to conduct a study of AIDS mortality rates among various groups, among geographic areas, and among individuals with varying financial resources for the payment of health care services. Directs the Secretary, through the Director of NIAID, to conduct a study of the consensus among health care professionals on clinical treatment for preventing the development of symptoms arising from infection with the etiologic agent for AIDS. Directs the Secretary to request the National Academy of Sciences and other similar institutions to report regarding the establishment of consortia for research and development. Sets forth reporting requirements. Title III: National Commission on Acquired Immune Deficiency Syndrome - Establishes a National Commission on Acquired Immune Deficiency Syndrome to study and make recommendations regarding: (1) national policy and priorities with respect to acquired immune deficiency syndrome (AIDS) including research, testing for the AIDS virus, confidentiality of test results, treatment and care of AIDS sufferers, prevention of the transmission of AIDS, and education about AIDS; (2) the appropriate roles of Federal, State, and local governments, and of the private sector regarding such national policy and priorities; and (3) guidelines for the coordination of AIDS activities with international organizations. Directs the Commission to hold hearings and to submit interim and final reports to the President and to the Congress. Directs the Administrator of Veterans Affairs to assist the Commission by preparing: (1) a detailed compilation and synopsis of national and international medical research on AIDS; and (2) a detailed report on activities of the Veterans Administration relevant to the duties of the Commission. Authorizes appropriations for FY 1988. Terminates the Commission 30 days after submission of its final report. Authorizes the President to extend the life of the Commission for a period not to exceed two years.</summary>
+</bill>

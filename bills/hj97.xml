@@ -1,0 +1,98 @@
+<bill session="100" type="hj" number="97" updated="2014-03-22T09:53:42-04:00">
+  <state datetime="1987-11-13">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-11-13"/>
+  </status>
+  <introduced datetime="1987-01-21"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to recognize the Disabled American Veterans Vietnam Veterans National Memorial as a memorial of national significance.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="400055" joined="1987-04-28"/>
+    <cosponsor id="403695" joined="1987-04-28"/>
+    <cosponsor id="404422" joined="1987-04-28"/>
+    <cosponsor id="406992" joined="1987-01-21"/>
+    <cosponsor id="407838" joined="1987-04-28"/>
+    <cosponsor id="409901" joined="1987-04-28"/>
+    <cosponsor id="400534" joined="1987-01-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-21" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Subcommittee on Census and Population Discharged.</text>
+    </action>
+    <action datetime="1987-04-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-22" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-05-04">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-05-04">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-05-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-05-05">
+      <text>Received in the Senate and read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1987-10-29">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-10-29">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment and with a preamble. Without written report.</text>
+    </action>
+    <calendar datetime="1987-10-29" calendar="Senate Legislative" under="General Orders" number="415">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 415.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-10-30" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment and an amended preamble by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-10-30">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-11-03">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-11-04">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-11-13" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-164" type="public" datetime="1987-11-13">
+      <text>Became Public Law No: 100-164.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral, Markup, Discharged" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="106"/>
+  </relatedbills>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="New Mexico"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments/>
+  <summary>1/21/1987--Introduced.
+Recognizes the Disabled American Veterans Vietnam Veterans National Memorial near Eagle Nest, New Mexico, as a memorial of national significance. Requests the President to issue a proclamation commemorating the occasion of this recognition.</summary>
+</bill>

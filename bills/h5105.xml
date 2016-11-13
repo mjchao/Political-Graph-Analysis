@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="5105" updated="2014-03-22T09:53:33-04:00">
+  <state datetime="1988-07-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-28"/>
+  </status>
+  <introduced datetime="1988-07-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to establish an Equal Employment Opportunity Appeals Board in the Library of Congress.</title>
+  </titles>
+  <sponsor id="402626"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-09-08"/>
+    <cosponsor id="402750" joined="1988-09-15"/>
+    <cosponsor id="402763" joined="1988-09-08"/>
+    <cosponsor id="403726" joined="1988-09-15"/>
+    <cosponsor id="404006" joined="1988-09-08"/>
+    <cosponsor id="400140" joined="1988-09-08"/>
+    <cosponsor id="400143" joined="1988-09-08"/>
+    <cosponsor id="407960" joined="1988-09-08"/>
+    <cosponsor id="400306" joined="1988-09-08"/>
+    <cosponsor id="400354" joined="1988-09-08"/>
+    <cosponsor id="400409" joined="1988-09-08"/>
+    <cosponsor id="400612" joined="1988-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-28" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Personnel and Police.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Referred to Subcommittee on Libraries and Memorials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA05" subcommittee="Personnel and Police" name="House Administration"/>
+    <committee activity="Referral" code="HSHA09" subcommittee="Libraries and Memorials" name="House Administration"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="5054"/>
+  </relatedbills>
+  <subjects>
+    <term name="Labor and employment"/>
+    <term name="Administrative courts"/>
+    <term name="Administrative remedies"/>
+    <term name="Affirmative action programs"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional agencies"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Discrimination in employment"/>
+    <term name="Judicial review"/>
+    <term name="Judicial review of administrative acts"/>
+    <term name="Libraries"/>
+    <term name="Library of Congress"/>
+    <term name="Personnel management"/>
+  </subjects>
+  <amendments/>
+  <summary>7/28/1988--Introduced.
+Establishes, in the Library of Congress, the Library of Congress Equal Employment Opportunity Appeals Board. Requires that the Board's three members: (1) be appointed by the Librarian of Congress; (2) have experience in adjudicating or arbitrating equal employment opportunity matters; and (3) not be current or former Librarians of Congress or employees of the Library. Sets forth appointment procedures, including requirements for a candidates' list from, and consultation with, employees, employee representative organizations, other organizations in the Library, professional and civil rights organizations, and specified congressional committees. Authorizes the Board to consider and order corrective or disciplinary action in any case arising from: (1) an employee appeal of a decision of the Librarian relating to a formal complaint of alleged discrimination; (2) an employee appeal of a failure of the Library to decide the employee's formal complaint of alleged discrimination within 180 days after the filing date; (3) an action or personnel practice involving discrimination based on race, color, religion, sex, age, national origin, marital status, or handicapping condition; and (4) any issue about the Library's equal employment opportunity policies or practices that the Librarian by regulation decides the Board shall resolve. Directs the Librarian to carry out Board decisions, in cases in which the Librarian has authority to do so. Allows judicial review of a final decision of the Board in an appropriate U.S. circuit court of appeals.</summary>
+</bill>

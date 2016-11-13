@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="740" updated="2014-03-22T09:51:32-04:00">
+  <state datetime="1987-01-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-26"/>
+  </status>
+  <introduced datetime="1987-01-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Thomas Wilson.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-26" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-04">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>1/26/1987--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named individual to reimburse him for medical expenses he incurred for his son before he became eligible for medical insurance under the Regional Rail Reorganization Act of 1973.</summary>
+</bill>

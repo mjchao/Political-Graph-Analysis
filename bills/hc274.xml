@@ -1,0 +1,64 @@
+<bill session="100" type="hc" number="274" updated="2014-03-22T09:54:13-04:00">
+  <state datetime="1988-04-27">REPORTED</state>
+  <status>
+    <unknown datetime="1988-04-27"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution commending Prime Minister Ozal of Turkey and Prime Minister Papandreou of Greece for their statesmanship in initiating their current dialogue.</title>
+  </titles>
+  <sponsor id="410145"/>
+  <cosponsors>
+    <cosponsor id="402600" joined="1988-04-13"/>
+    <cosponsor id="411948" joined="1988-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-04-11">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1988-04-20">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-04-20">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-04-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-04-27" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-05-17">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Collective security agreements"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Greece"/>
+    <term name="NATO countries"/>
+    <term name="Negotiations"/>
+    <term name="Treaties"/>
+    <term name="Turkey"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Commends Prime Minister Papandreou of Greece and Prime Minister Ozal of Turkey for initiating their current dialogue. Expresses hope that their talks will lead to progress in reducing regional tensions, strengthening the southern flank of the North Atlantic Treaty Organization, and resolving Greek-Turkish disputes.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="913" updated="2014-03-22T09:51:37-04:00">
+  <state datetime="1987-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-02"/>
+  </status>
+  <introduced datetime="1987-02-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Military Selective Service Act to improve the ability of the Selective Service System to respond to a mobilization.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="410147" joined="1987-02-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-02" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-02-06">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-09-17">
+      <text>Executive Comment Received From DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Compulsory military service"/>
+    <term name="Health"/>
+    <term name="Hospital personnel"/>
+    <term name="Medical personnel"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1987--Introduced.
+Amends the Military Selective Service Act to include, as part of the Selective Service System still maintained under the all-volunteer forces program, a program for the registration and classification in the System of persons qualified in a health-care occupation essential to the maintenance of the armed forces.</summary>
+</bill>

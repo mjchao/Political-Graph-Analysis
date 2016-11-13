@@ -1,0 +1,78 @@
+<bill session="100" type="s" number="2283" updated="2014-03-22T09:55:41-04:00">
+  <state datetime="1988-09-14">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-09-14"/>
+  </status>
+  <introduced datetime="1988-04-14"/>
+  <titles>
+    <title type="short" as="introduced">Statehood Centennial Commemorative Coin Act of 1989</title>
+    <title type="short" as="reported to senate">Statehood Centennial Commemorative Coin Act of 1989</title>
+    <title type="short" as="passed senate">Statehood Centennial Commemorative Coin Act of 1989</title>
+    <title type="official" as="introduced">A bill to require the Secretary of the Treasury to mint and issue five-dollar coins in commemoration of the 100th anniversary of the statehood of Idaho, Montana, North Dakota, South Dakota, Washington, and Wyoming.</title>
+  </titles>
+  <sponsor id="300005"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1988-04-14"/>
+    <cosponsor id="402023" joined="1988-04-14"/>
+    <cosponsor id="300026" joined="1988-04-14"/>
+    <cosponsor id="300031" joined="1988-04-14"/>
+    <cosponsor id="403920" joined="1988-04-14"/>
+    <cosponsor id="407355" joined="1988-04-14"/>
+    <cosponsor id="407622" joined="1988-04-14"/>
+    <cosponsor id="408898" joined="1988-04-14"/>
+    <cosponsor id="409923" joined="1988-04-14"/>
+    <cosponsor id="410588" joined="1988-04-14"/>
+    <cosponsor id="411271" joined="1988-04-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-14" state="REFERRED">
+      <text>Read twice and referred to the Committee on Banking.</text>
+    </action>
+    <calendar datetime="1988-07-27" state="REPORTED">
+      <text>Committee on Banking. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-08-08">
+      <text>Committee on Banking. Reported to Senate by Senator Proxmire with an amendment in the nature of a substitute. With written report No. 100-460.</text>
+    </action>
+    <calendar datetime="1988-08-08" calendar="Senate Legislative" under="General Orders" number="876">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 876.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-16">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSBK" name="Senate Banking, Housing, and Urban Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2792"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Anniversaries"/>
+    <term name="Coins and coinage"/>
+    <term name="Commemorations"/>
+    <term name="Economics and public finance"/>
+    <term name="Exhibitions"/>
+    <term name="Idaho"/>
+    <term name="Monetary policy"/>
+    <term name="Money"/>
+    <term name="Montana"/>
+    <term name="North Dakota"/>
+    <term name="Public debt"/>
+    <term name="South Dakota"/>
+    <term name="Statehood (American politics)"/>
+    <term name="Washington State"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments/>
+  <summary>9/14/1988--Passed Senate amended.
+(Measure passed Senate, amended) Statehood Centennial Commemorative Coin Act of 1989 - Directs the Secretary of the Treasury to mint and issue not more than a specified number of five dollar palladium coins in commemoration of the 100th anniversary of the statehood of Idaho, Montana, North Dakota, South Dakota, Washington, and Wyoming. Sets forth certain features of such coins and provides for their design, issuance, and sale. Terminates authority to mint coins under this Act after December 31, 1990. Requires a specified amount of all surcharges received from the sale of the coins to be provided to the "Documents West" exhibition program and administered by the Idaho Centennial Commission, to be used only for promoting the exhibition. Requires the Secretary to deposit in the Treasury all remaining surcharges received, to be used to reduce the national debt. Declares that: (1) no law governing procurement or public contracts shall be applicable to the procurement of goods and services for this Act, except laws relating to equal employment opportunity; and (2) no firm shall be considered a Federal contractor for purposes of specified Federal regulations as a result of participating as a U.S. Mint coin consignee.</summary>
+</bill>

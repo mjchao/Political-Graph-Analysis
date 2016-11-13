@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="1335" updated="2016-06-29T08:42:38-04:00">
+  <state datetime="1987-03-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-02"/>
+  </status>
+  <introduced datetime="1987-03-02"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Compensation Amendments of 1989</title>
+    <title type="official" as="introduced">A bill to amend title 28 of the United States Code to provide for reassignment of certain Federal cases upon request of a party.</title>
+  </titles>
+  <sponsor id="400617"/>
+  <cosponsors>
+    <cosponsor id="403203" joined="1987-03-25"/>
+    <cosponsor id="404097" joined="1987-03-02"/>
+    <cosponsor id="400192" joined="1987-03-02"/>
+    <cosponsor id="406530" joined="1987-03-02"/>
+    <cosponsor id="300069" joined="1987-03-02"/>
+    <cosponsor id="400365" joined="1987-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-02" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Bankruptcy"/>
+    <term name="Bankruptcy courts"/>
+    <term name="Civil actions and liability"/>
+    <term name="Civil procedure"/>
+    <term name="Claims"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Courts of special jurisdiction"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Criminal procedure"/>
+    <term name="District courts"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1987--Introduced.
+Peremptory Challenge Act of 1987 - Amends the Federal judicial code to require the reassignment of a case to be tried in the U.S. Claims Court, a Federal district court, or a bankruptcy court to another judicial officer upon application of all parties on one side of a civil or criminal case. Sets guidelines for such reassignments.</summary>
+</bill>

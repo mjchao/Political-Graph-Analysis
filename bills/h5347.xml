@@ -1,0 +1,127 @@
+<bill session="100" type="h" number="5347" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-10-14">PASS_BACK:SENATE</state>
+  <status>
+    <unknown datetime="1988-10-14"/>
+  </status>
+  <introduced datetime="1988-09-23"/>
+  <titles>
+    <title type="short" as="passed senate">Intellectual Property Antitrust Protection Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title 11 of the United States Code with respect to claims payable from special revenues by municipalities that are debtors; and for other purposes.</title>
+  </titles>
+  <sponsor id="403776"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1988-09-26"/>
+    <cosponsor id="400064" joined="1988-09-26"/>
+    <cosponsor id="300029" joined="1988-09-26"/>
+    <cosponsor id="403031" joined="1988-09-26"/>
+    <cosponsor id="403184" joined="1988-09-28"/>
+    <cosponsor id="404013" joined="1988-09-26"/>
+    <cosponsor id="404019" joined="1988-09-23"/>
+    <cosponsor id="404097" joined="1988-09-23"/>
+    <cosponsor id="404190" joined="1988-09-26"/>
+    <cosponsor id="400140" joined="1988-09-26"/>
+    <cosponsor id="404602" joined="1988-09-23"/>
+    <cosponsor id="405775" joined="1988-09-23"/>
+    <cosponsor id="400192" joined="1988-09-23"/>
+    <cosponsor id="407306" joined="1988-09-23"/>
+    <cosponsor id="407899" joined="1988-09-23"/>
+    <cosponsor id="407967" joined="1988-09-26"/>
+    <cosponsor id="400314" joined="1988-09-26"/>
+    <cosponsor id="409325" joined="1988-09-26"/>
+    <cosponsor id="409344" joined="1988-09-23"/>
+    <cosponsor id="409650" joined="1988-09-26"/>
+    <cosponsor id="300087" joined="1988-09-26"/>
+    <cosponsor id="410066" joined="1988-09-23"/>
+    <cosponsor id="410245" joined="1988-09-23"/>
+    <cosponsor id="400409" joined="1988-09-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-23" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>For Previous Action See H.R.3845.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-27" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-30">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-1011.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Placed on Union Calendar No: 599.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Considered by House Unfinished Business.</text>
+    </action>
+    <vote how="roll" type="vote" roll="392" datetime="1988-10-04" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 413 - 1 (Record Vote No: 392).</text>
+    </vote>
+    <calendar datetime="1988-10-04" calendar="Senate Legislative" under="General Orders" number="1065">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 1065.</text>
+    </calendar>
+    <action datetime="1988-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>S. 1863 passed in Senate relating to this measure.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3845"/>
+    <bill relation="unknown" session="100" type="s" number="1863"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Antitrust actions"/>
+    <term name="Antitrust law"/>
+    <term name="Authorization"/>
+    <term name="Bankruptcy"/>
+    <term name="Congressional oversight"/>
+    <term name="Consumer price indexes"/>
+    <term name="Copyright"/>
+    <term name="Debtor and creditor"/>
+    <term name="Electronic data processing"/>
+    <term name="Fees"/>
+    <term name="Government operations and politics"/>
+    <term name="Government securities"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Information services"/>
+    <term name="Information storage and retrieval systems"/>
+    <term name="Intellectual property"/>
+    <term name="Inventions"/>
+    <term name="Leases"/>
+    <term name="Libraries"/>
+    <term name="Liens"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Municipal finance"/>
+    <term name="Municipal politics and government"/>
+    <term name="Patent agreements"/>
+    <term name="Patents"/>
+    <term name="Securities and Investments"/>
+    <term name="Tax-exempt securities"/>
+    <term name="Trademarks"/>
+    <term name="User charges"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3704"/>
+  </amendments>
+  <summary>10/14/1988--Passed Senate amended.
+(Measure passed Senate, amended) Amends Federal bankruptcy provisions relating to the adjustment of debts of a municipality to revise rules relating to the treatment of special revenue bonds. Treats as an administrative expense any claim against a debtor municipality if the debtor provides adequate protection of the interest of the holder of a claim secured by a lien on property of the debtor and if the creditor has a claim from a stay of action against such property. Specifies that the filing of a bankruptcy petition does not operate as a stay of application of pledged special revenues to payment of indebtedness secured by such revenues. Specifies that the transfer of property of the debtor to or for the benefit of any holder of a bond or note, on account of such bond or note, may not be avoided. Provides that the holder of a claim payable solely from special revenues of a debtor municipality under applicable nonbankruptcy law shall not be treated as having recourse against the debtor as an unsecured creditor. Provides that special revenues acquired by the debtor after the commencement of the case shall remain subject to any lien resulting from any security agreement entered into by the debtor before the commencement of the case. Specifies that any such lien on special revenues derived from a project or system shall be subject to the necessary operating expenses of such project or system. Specifies that a lease to a municipality shall not be treated as an executory contract or unexpired lease by reason of its being subject to termination in the event the debtor fails to appropriate rent. Title I: Intellectual Property - Intellectual Property Antitrust Protection Act of 1988 - Provides that an intellectual property right shall not be presumed to define a market or to establish market power, including economic power and product uniqueness or distinctiveness, or monopoly power in any action in which the owner, licensor, licensee, or other holder of such right is alleged to have violated the antitrust laws in the marketing or distribution of a product or service protected by such a right. Title II: Patent Misuse Doctrine Reform - Amends Federal patent law to permit a patent holder to: (1) refuse to license or use any rights to the patent; or (2) condition the license of any rights to the patent or the sale of the patented product on the acquisition of a license to rights in another patent or purchase of a separate product, unless the courts find that the patent owner has market power in the relevant market for the patent or patented product on which the license or sale is conditioned and, under the circumstances, the business justification for the conditioned license or sale does not outweigh any anticompetitive effect. Title III - Authorizes appropriations to the Patent and Trademark Office for FY 1989 through 1991. Prohibits the Commissioner of Patents and Trademarks from increasing or establishing additional patent and trademark fees during FY 1989 through 1991. Allows cost-of-living adjustments according to the Consumer Price Index. Directs the Secretary of Commerce to report to the Congress regarding patent and trademark fee expenditures and collections, budget plans, and surplus fees. Repeals the prohibition against the imposition of a fee for the use of public patent and trademark search rooms and libraries. Directs the Commissioner to make U.S. patent and trademark information (and foreign patent documents) available for public search and retrieval. Prohibits the Commissioner from imposing fees for the use of such collections or for the use of public patent trademark search rooms or libraries. Authorizes the Commissioner to establish fees for public access to automated search systems of the Patent and Trademark Office. Provides for a limited amount of free access to all users of such systems for education and training purposes. Authorizes the Commissioner to waive fee payments by individuals upon a show of need or hardship if such waiver is in the public interest. Provides that not more than 30 percent of the amounts available to the Patent and Trademark Office for automatic data processing resources for each of fiscal years 1989 through 1991 may be from trademark or patent fees. Authorizes the Patent and Trademark Office to use fee revenues for its activities. Prohibits the Commissioner from: (1) entering into any agreement during FY 1989 through 1991 for the exchange of items or services related to automatic data processing resources; or (2) continuing existing agreements for such exchange after the date of enactment of this Act, including an agreement with a foreign government or an international intergovernmental organization.</summary>
+</bill>

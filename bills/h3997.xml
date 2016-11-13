@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="3997" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-03-15">REPORTED</state>
+  <status>
+    <unknown datetime="1988-03-15"/>
+  </status>
+  <introduced datetime="1988-02-24"/>
+  <titles>
+    <title type="short" as="introduced">Ethics in Government Act Authorization Extension Act of 1988</title>
+    <title type="short" as="reported to house">Ethics in Government Act Authorization Extension Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Ethics in Government Act of 1978 to extend the authorization of appropriations for the Office of Government Ethics for six years.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-24" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-24">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-02-29">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-03-07">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+    <action datetime="1988-03-15">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-03-15" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-03-31">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-558 (Part I).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO04" subcommittee="Human Resources" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Ethics"/>
+    <term name="Federal officials"/>
+    <term name="Misconduct in office"/>
+    <term name="Office of Personnel Management"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1988--Reported to House amended, Part I.
+(Reported to House from the Committee on the Judiciary with amendment, H. Rept. 100-558 (Part I)) Ethics in Government Act Authorization Extension Act of 1988 - Amends the Ethics in Government Act of 1978 to authorize appropriations of a specified amount for the Office Government Ethics for FY 1989 and such sums as necessary for each of the following five fiscal years.</summary>
+</bill>

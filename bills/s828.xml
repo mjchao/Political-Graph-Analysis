@@ -1,0 +1,75 @@
+<bill session="100" type="s" number="828" updated="2014-03-22T09:55:02-04:00">
+  <state datetime="1987-06-04">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-04"/>
+  </status>
+  <introduced datetime="1987-03-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide authorization of appropriations for activities of the National Telecommunications and Information Administration.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="403171" joined="1987-03-25"/>
+    <cosponsor id="300053" joined="1987-03-25"/>
+    <cosponsor id="408420" joined="1987-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <action datetime="1987-03-26">
+      <text>Subcommittee on Communications. Hearings held. Hearings printed: S.Hrg. 100-36.</text>
+    </action>
+    <calendar datetime="1987-06-04" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-07-01">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment and an amendment to the title. With written report No. 100-93.</text>
+    </action>
+    <calendar datetime="1987-07-01" calendar="Senate Legislative" under="General Orders" number="219">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 219.</text>
+    </calendar>
+    <action datetime="1988-08-04">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Senate incorporated this measure in H.R. 2472 as an amendment.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Senate passed companion measure H.R. 2472 in lieu of this measure by Voice Vote.</text>
+    </action>
+    <action datetime="1988-08-04">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSCM02" subcommittee="Communications" name="Senate Commerce, Science, and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2472"/>
+    <bill relation="identical" session="100" type="h" number="2472"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Affirmative action programs"/>
+    <term name="Auditing"/>
+    <term name="Authorization"/>
+    <term name="Communication satellites"/>
+    <term name="Department of Commerce"/>
+    <term name="Economics and public finance"/>
+    <term name="Government paperwork"/>
+    <term name="Grants-in-aid"/>
+    <term name="Licenses"/>
+    <term name="Minority employment"/>
+    <term name="Pacific area"/>
+    <term name="Public television"/>
+    <term name="Telecommunication policy"/>
+    <term name="Women's employment"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2806"/>
+  </amendments>
+  <summary>8/4/1988--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate, H.R. 2472 passed in lieu) Authorizes appropriations for the National Telecommunications and Information Administration (NTIA) for FY 1988 and 1989. Requires the NTIA to establish semiannual goals for recruiting and hiring minorities and women for its staff and to make semiannual progress reports to specified House and Senate committees. Requires the Administrator of the NTIA to: (1) discuss with the Federal Communications Commission (FCC) the feasibility of awarding public television facilities program grants for low-power translator stations and television translator stations (conditional on the FCC's approval of a license for the station); (2) work with the FCC to expedite the schedules for considering such grants and licenses; and (3) report to the Congress on the implementation of these requirements. Directs the Secretary of Commerce to acquire the satellite services necessary to re-establish the Pan-Pacific Educational and Cultural Experiments by Satellite (PEACESAT) Program. Permits the PEACESAT program to operate for three years over the UHF frequencies currently assigned to the Department of the Navy. Authorizes the Secretary to give the PEACESAT program funding adequate for its operation. Requires PEACESAT managers to maintain the records needed to permit the Secretary to conduct an audit. Authorizes FY 1988 and 1989 funds for acquiring and developing the necessary satellite services for PEACESAT. Requires the Secretary to consult with Federal agencies, PEACESAT program representatives, and other affected parties concerning a long-term solution to the communication needs of the Pacific Ocean region and to report to the Congress on results within one year after enactment of this Act.</summary>
+</bill>

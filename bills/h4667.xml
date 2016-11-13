@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4667" updated="2014-03-22T09:53:22-04:00">
+  <state datetime="1988-05-24">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-24"/>
+  </status>
+  <introduced datetime="1988-05-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize the appointment of Veterans' Administration-trained graduates in certain health-care professions or occupations by the Veterans' Administration without regard to civil service hiring procedures.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="410147" joined="1988-05-24"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-24" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="2394"/>
+    <bill relation="identical" session="100" type="s" number="2394"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Civil service employment"/>
+    <term name="Civil service system"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Health facilities"/>
+    <term name="Hospital personnel"/>
+    <term name="Hospitals"/>
+    <term name="Medical personnel"/>
+    <term name="Veterans' hospitals"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>5/24/1988--Introduced.
+Authorizes the appointment of Veterans Administration-trained graduates in certain health-care professions or occupations by the Veterans Administration without regard to civil service hiring procedures.</summary>
+</bill>

@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="5262" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-09-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-08"/>
+  </status>
+  <introduced datetime="1988-09-08"/>
+  <titles>
+    <title type="short" as="introduced">Temporary Emergency Wildfire Suppression Act</title>
+    <title type="official" as="introduced">A bill entitled "The Temporary Emergency Wildfire Suppression Act".</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="404013" joined="1988-09-08"/>
+    <cosponsor id="404193" joined="1988-09-08"/>
+    <cosponsor id="406729" joined="1988-09-08"/>
+    <cosponsor id="407069" joined="1988-09-08"/>
+    <cosponsor id="407162" joined="1988-09-08"/>
+    <cosponsor id="407967" joined="1988-09-08"/>
+    <cosponsor id="410084" joined="1988-09-08"/>
+    <cosponsor id="411166" joined="1988-09-08"/>
+    <cosponsor id="411677" joined="1988-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-08" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Referred to Subcommittee on Forest, Family Farms, and Energy.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG06" subcommittee="Forests, Family Farms, and Energy" name="House Agriculture"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Fires"/>
+    <term name="Canada"/>
+    <term name="Environmental protection"/>
+    <term name="Fire departments"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Forest fires"/>
+    <term name="Forests and forest products"/>
+    <term name="International cooperation"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>9/8/1988--Introduced.
+Temporary Emergency Wildfire Suppression Act - Authorizes the Secretary of Agriculture or the Secretary of the Interior to enter into reciprocal agreements with foreign fire organizations to provide wildfire protection resources for lands and other properties for which such Secretaries or organizations normally provide such protection. Requires that such agreements allow for termination of the agreement by any party thereto after reasonable notice. Authorizes the Secretary of Agriculture or the Secretary of the Interior, in the absence of such agreement, to furnish emergency wildfire protection resources to any foreign nation and to accept such assistance from any foreign fire organization when to do so is in the best interest of the United States. Authorizes the reimbursement of Canada or Canadian fire organizations for U.S. wildfire protection pursuant to a specified memorandum and arrangement with Canada. Requires the Secretary of Agriculture or the Secretary of the Interior to determine that no U.S. fire organization is reasonably available to provide such protection before spending funds for foreign wildfire protection.</summary>
+</bill>

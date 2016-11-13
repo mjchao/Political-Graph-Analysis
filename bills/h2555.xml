@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="2555" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clarify the treatment of Members of Congress and their families under State income tax laws.</title>
+  </titles>
+  <sponsor id="300069"/>
+  <cosponsors>
+    <cosponsor id="405747" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="American Samoa"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Income tax"/>
+    <term name="Members of Congress"/>
+    <term name="State laws"/>
+    <term name="State taxation"/>
+    <term name="States"/>
+    <term name="Tax administration"/>
+    <term name="Taxation"/>
+    <term name="Territories (U.S.)"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Amends Federal law to revise provisions that prohibit a State in which a Member of Congress maintains living quarters for purposes of attending congressional sessions from considering such Member as a resident or from treating any compensation paid to the Member as income for State income tax purposes, unless the Member represents the State or one of its districts. Applies these provisions to: (1) the spouse of a Member of Congress who files a joint tax return; and (2) a Member's dependent child whose principal place of abode is that of the Member or the Member's spouse. Includes within the term "Member of Congress" delegates from American Samoa. Applies such provisions retroactively.</summary>
+</bill>

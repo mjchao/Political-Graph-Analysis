@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="1641" updated="2014-03-22T09:51:55-04:00">
+  <state datetime="1987-03-17">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-17"/>
+  </status>
+  <introduced datetime="1987-03-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to delay for 1 year the changes made by the Tax Reform Act of 1986 in the taxable years of certain entities, and for other purposes.</title>
+  </titles>
+  <sponsor id="403529"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-04-28"/>
+    <cosponsor id="401568" joined="1987-04-09"/>
+    <cosponsor id="402159" joined="1987-04-09"/>
+    <cosponsor id="402484" joined="1987-05-12"/>
+    <cosponsor id="402657" joined="1987-06-11"/>
+    <cosponsor id="402833" joined="1987-04-09"/>
+    <cosponsor id="403242" joined="1987-04-09"/>
+    <cosponsor id="403403" joined="1987-05-12"/>
+    <cosponsor id="403873" joined="1987-04-28"/>
+    <cosponsor id="404006" joined="1987-07-13"/>
+    <cosponsor id="404013" joined="1987-04-09"/>
+    <cosponsor id="404213" joined="1987-04-09"/>
+    <cosponsor id="300049" joined="1987-03-31"/>
+    <cosponsor id="405939" joined="1987-03-31"/>
+    <cosponsor id="406284" joined="1987-04-28"/>
+    <cosponsor id="400256" joined="1987-03-31"/>
+    <cosponsor id="407282" joined="1987-03-24"/>
+    <cosponsor id="400596" joined="1987-05-12"/>
+    <cosponsor id="407960" joined="1987-04-28"/>
+    <cosponsor id="408190" joined="1987-04-09"/>
+    <cosponsor id="408457" joined="1987-07-13"/>
+    <cosponsor id="409644" joined="1987-04-09"/>
+    <cosponsor id="410496" joined="1987-04-09"/>
+    <cosponsor id="411677" joined="1987-05-12"/>
+    <cosponsor id="400435" joined="1987-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-17" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Business and commerce"/>
+    <term name="Close corporations"/>
+    <term name="Corporation taxes"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Income tax"/>
+    <term name="Partnerships"/>
+    <term name="Small business"/>
+    <term name="Tax administration"/>
+    <term name="Trusts and trustees"/>
+  </subjects>
+  <amendments/>
+  <summary>3/17/1987--Introduced.
+Amends the Tax Reform Act of 1986 to delay for one year revision of the taxable years of partnerships, S corporations, personal service corporations, and trusts. Reduces by one year the transition period for such revision.</summary>
+</bill>

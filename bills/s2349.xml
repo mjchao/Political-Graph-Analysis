@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="2349" updated="2014-03-22T09:55:47-04:00">
+  <state datetime="1988-08-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-04-29"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Middle Atlantic Interstate Forest Fire Protection Compact to include the State of Ohio.</title>
+  </titles>
+  <sponsor id="407663"/>
+  <cosponsors>
+    <cosponsor id="404598" joined="1988-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-29" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-08-10">
+      <text>Committee on Judiciary. Reported to Senate by Senator Byrd for Senator Biden without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-08-10" calendar="Senate Legislative" under="General Orders" number="889">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 889.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Fires"/>
+    <term name="Fire prevention"/>
+    <term name="Fires and Fire Fighters"/>
+    <term name="Forest fires"/>
+    <term name="Forests and forest products"/>
+    <term name="Interstate compacts"/>
+    <term name="Middle Atlantic States"/>
+    <term name="Ohio"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1988--Introduced.
+Amends the Middle Atlantic Interstate Forest Fire Protection Compact to include Ohio.</summary>
+</bill>

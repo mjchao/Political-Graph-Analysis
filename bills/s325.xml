@@ -1,0 +1,40 @@
+<bill session="100" type="s" number="325" updated="2016-06-29T08:45:29-04:00">
+  <state datetime="1987-01-20">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-20"/>
+  </status>
+  <introduced datetime="1987-01-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 1979 of the Revised Statutes (42 USC 1983), relating to civil actions for the deprivation of rights, to limit the applicability of that statute to laws relating to equal rights and to provide a special defense to the liability of political subdivisions of States.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="300157" joined="1987-01-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-20" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-09">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Civil actions and liability"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Equality before the law"/>
+    <term name="Government liability"/>
+    <term name="Local and Municipal Government"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>1/20/1987--Introduced.
+Limits the applicability of the current statute providing a Federal cause of action for the deprivation of a person's civil rights to the violation of laws which provide for the equal rights of citizens. States that damages shall not be awarded against any government entity if the court finds that the officials involved were acting in good faith. Requires the exhaustion of all administrative and judicial remedies before Federal jurisdiction may be granted.</summary>
+</bill>

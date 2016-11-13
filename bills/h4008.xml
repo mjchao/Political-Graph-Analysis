@@ -1,0 +1,64 @@
+<bill session="100" type="h" number="4008" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-24"/>
+  </status>
+  <introduced datetime="1988-02-24"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to repeal the application of the uniform capitalization rules to farming businesses.</title>
+  </titles>
+  <sponsor id="409651"/>
+  <cosponsors>
+    <cosponsor id="402747" joined="1988-05-02"/>
+    <cosponsor id="403266" joined="1988-02-24"/>
+    <cosponsor id="404869" joined="1988-03-30"/>
+    <cosponsor id="300057" joined="1988-03-30"/>
+    <cosponsor id="400216" joined="1988-05-02"/>
+    <cosponsor id="406554" joined="1988-03-30"/>
+    <cosponsor id="300069" joined="1988-05-04"/>
+    <cosponsor id="407069" joined="1988-03-30"/>
+    <cosponsor id="407162" joined="1988-02-24"/>
+    <cosponsor id="407215" joined="1988-06-03"/>
+    <cosponsor id="407558" joined="1988-05-26"/>
+    <cosponsor id="407967" joined="1988-03-30"/>
+    <cosponsor id="408618" joined="1988-03-30"/>
+    <cosponsor id="409052" joined="1988-03-30"/>
+    <cosponsor id="410623" joined="1988-03-30"/>
+    <cosponsor id="410926" joined="1988-03-30"/>
+    <cosponsor id="411119" joined="1988-05-02"/>
+    <cosponsor id="411834" joined="1988-03-30"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-24" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Costs"/>
+    <term name="Depreciation and amortization"/>
+    <term name="Farm produce"/>
+    <term name="Farmers"/>
+    <term name="Farms"/>
+    <term name="Income tax"/>
+    <term name="Inventories"/>
+    <term name="Livestock"/>
+    <term name="Nurseries (Horticulture)"/>
+    <term name="Tax deductions"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1988--Introduced.
+Amends the Internal Revenue Code to exempt from the required application of uniform inventory cost capitalization rules any plant or animal produced by a taxpayer in a farming business, regardless of the product's preproductive period.</summary>
+</bill>

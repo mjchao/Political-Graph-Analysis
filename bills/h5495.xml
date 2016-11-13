@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="5495" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-07">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-07"/>
+  </status>
+  <introduced datetime="1988-10-07"/>
+  <titles>
+    <title type="official" as="introduced">A bill to clear certain impediments to the licensing of a vessel for employment in the coastwise trade and fisheries of the United States.</title>
+  </titles>
+  <sponsor id="405646"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-07" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM06" subcommittee="Merchant Marine" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Ships"/>
+  </subjects>
+  <amendments/>
+  <summary>10/7/1988--Introduced.
+Authorizes the Secretary of the department in which the Coast Guard is operating to issue a certificate of documentation for a named vessel.</summary>
+</bill>

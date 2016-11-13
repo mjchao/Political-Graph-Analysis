@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="1582" updated="2014-03-22T09:51:53-04:00">
+  <state datetime="1987-03-12">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-12"/>
+  </status>
+  <introduced datetime="1987-03-12"/>
+  <titles>
+    <title type="short" as="introduced">Fair Election Act</title>
+    <title type="official" as="introduced">A bill to enforce the guarantees of the first, fourteenth, and fifteenth amendments to the Constitution of the United States by prohibiting certain devices used to deny the right to participate in certain elections.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="402763" joined="1987-04-21"/>
+    <cosponsor id="403031" joined="1987-05-11"/>
+    <cosponsor id="403364" joined="1987-04-21"/>
+    <cosponsor id="400580" joined="1987-04-21"/>
+    <cosponsor id="403576" joined="1987-04-21"/>
+    <cosponsor id="403695" joined="1987-04-21"/>
+    <cosponsor id="403904" joined="1987-04-21"/>
+    <cosponsor id="404006" joined="1987-04-21"/>
+    <cosponsor id="404139" joined="1987-04-21"/>
+    <cosponsor id="405236" joined="1987-04-21"/>
+    <cosponsor id="405256" joined="1987-04-21"/>
+    <cosponsor id="406191" joined="1987-04-21"/>
+    <cosponsor id="406740" joined="1987-04-21"/>
+    <cosponsor id="400240" joined="1987-04-21"/>
+    <cosponsor id="407672" joined="1987-04-21"/>
+    <cosponsor id="400306" joined="1987-04-21"/>
+    <cosponsor id="400333" joined="1987-04-21"/>
+    <cosponsor id="409446" joined="1987-04-21"/>
+    <cosponsor id="409593" joined="1987-04-21"/>
+    <cosponsor id="410407" joined="1987-04-21"/>
+    <cosponsor id="400409" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-12" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Election administration"/>
+    <term name="State laws"/>
+    <term name="States"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>3/12/1987--Introduced.
+Fair Election Act - Prohibits States from using any device to abridge or deny the right of an individual to be placed on, or to have such individual's political affiliation placed on, a ballot or similar voting materials in a Federal election. Allows States to impose specified prerequisites regarding petitions for placement on ballots. Allows States to waive such requirements for candidates or political affiliates which receive certain amounts of votes in the most recent election for President or the Senate.</summary>
+</bill>

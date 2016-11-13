@@ -1,0 +1,95 @@
+<bill session="100" type="h" number="1078" updated="2014-03-22T09:51:41-04:00">
+  <state datetime="1987-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-10"/>
+  </status>
+  <introduced datetime="1987-02-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to prohibit smoking on domestic commercial aircraft flights.</title>
+  </titles>
+  <sponsor id="300156"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1988-06-29"/>
+    <cosponsor id="400975" joined="1987-09-21"/>
+    <cosponsor id="400023" joined="1987-05-04"/>
+    <cosponsor id="300011" joined="1987-04-23"/>
+    <cosponsor id="402435" joined="1987-05-18"/>
+    <cosponsor id="400080" joined="1987-04-23"/>
+    <cosponsor id="402928" joined="1987-04-23"/>
+    <cosponsor id="403031" joined="1987-05-04"/>
+    <cosponsor id="400100" joined="1987-05-18"/>
+    <cosponsor id="403545" joined="1987-04-23"/>
+    <cosponsor id="300038" joined="1987-07-28"/>
+    <cosponsor id="403695" joined="1987-05-18"/>
+    <cosponsor id="403776" joined="1987-04-23"/>
+    <cosponsor id="403769" joined="1987-07-28"/>
+    <cosponsor id="404006" joined="1987-05-18"/>
+    <cosponsor id="404190" joined="1988-06-23"/>
+    <cosponsor id="400143" joined="1987-07-28"/>
+    <cosponsor id="404422" joined="1987-04-23"/>
+    <cosponsor id="404520" joined="1987-04-23"/>
+    <cosponsor id="400586" joined="1988-06-23"/>
+    <cosponsor id="400552" joined="1987-04-23"/>
+    <cosponsor id="400211" joined="1987-05-04"/>
+    <cosponsor id="400537" joined="1988-05-10"/>
+    <cosponsor id="400231" joined="1988-05-10"/>
+    <cosponsor id="406740" joined="1987-05-18"/>
+    <cosponsor id="400238" joined="1988-05-10"/>
+    <cosponsor id="400240" joined="1987-04-23"/>
+    <cosponsor id="400243" joined="1987-04-23"/>
+    <cosponsor id="406974" joined="1987-07-28"/>
+    <cosponsor id="400617" joined="1988-05-10"/>
+    <cosponsor id="400595" joined="1987-05-04"/>
+    <cosponsor id="400256" joined="1988-06-29"/>
+    <cosponsor id="407960" joined="1987-05-04"/>
+    <cosponsor id="408023" joined="1988-05-10"/>
+    <cosponsor id="408190" joined="1987-04-23"/>
+    <cosponsor id="400314" joined="1988-05-10"/>
+    <cosponsor id="408621" joined="1988-06-23"/>
+    <cosponsor id="409251" joined="1987-07-28"/>
+    <cosponsor id="409353" joined="1988-06-23"/>
+    <cosponsor id="400369" joined="1988-06-23"/>
+    <cosponsor id="409887" joined="1988-05-10"/>
+    <cosponsor id="410066" joined="1988-06-29"/>
+    <cosponsor id="410145" joined="1987-04-23"/>
+    <cosponsor id="400387" joined="1988-05-10"/>
+    <cosponsor id="410589" joined="1987-04-23"/>
+    <cosponsor id="400417" joined="1988-06-23"/>
+    <cosponsor id="411426" joined="1987-04-23"/>
+    <cosponsor id="411725" joined="1987-05-04"/>
+    <cosponsor id="400439" joined="1988-04-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-10" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air travel"/>
+    <term name="Aircraft"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Health"/>
+    <term name="Smoking"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/1987--Introduced.
+Amends the Federal Aviation act of 1958 to prohibit smoking on passenger-carrying aircraft in interstate or intrastate transportation. Directs the Secretary of Transportation to promulgate regulations to implement this Act.</summary>
+</bill>

@@ -1,0 +1,59 @@
+<bill session="100" type="h" number="4635" updated="2014-03-22T09:53:22-04:00">
+  <state datetime="1988-05-19">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-19"/>
+  </status>
+  <introduced datetime="1988-05-19"/>
+  <titles>
+    <title type="short" as="introduced">Retirement Equity Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to remove the limitation on outside earnings under the OASDI program, and to amend the Internal Revenue Code of 1986 to eliminate the income tax on social security benefits and exempt individuals age 70 or over from the FICA and SECA taxes.</title>
+  </titles>
+  <sponsor id="400115"/>
+  <cosponsors>
+    <cosponsor id="402454" joined="1988-05-25"/>
+    <cosponsor id="403576" joined="1988-06-08"/>
+    <cosponsor id="403696" joined="1988-05-25"/>
+    <cosponsor id="400176" joined="1988-06-08"/>
+    <cosponsor id="405448" joined="1988-09-27"/>
+    <cosponsor id="406995" joined="1988-06-14"/>
+    <cosponsor id="407457" joined="1988-06-07"/>
+    <cosponsor id="409353" joined="1988-05-25"/>
+    <cosponsor id="409443" joined="1988-06-01"/>
+    <cosponsor id="409534" joined="1988-06-08"/>
+    <cosponsor id="409887" joined="1988-06-08"/>
+    <cosponsor id="410261" joined="1988-05-25"/>
+    <cosponsor id="411901" joined="1988-06-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-19" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Earnings"/>
+    <term name="Employee benefit plans"/>
+    <term name="Income tax"/>
+    <term name="Labor and employment"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Older workers"/>
+    <term name="Railroad retirement plans"/>
+    <term name="Railroads"/>
+    <term name="Self-employed"/>
+    <term name="Social security taxes"/>
+    <term name="Tax exclusion"/>
+    <term name="Tax exemption"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>5/19/1988--Introduced.
+Retirement Equity Act of 1988 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to remove the limitation on the amount of outside income which a beneficiary may earn without incurring a reduction in benefits. Amends the Internal Revenue Code to repeal the taxation of social security benefits and tier I railroad retirement benefits. Prohibits the imposition of social security taxes on the wages or self-employment income of individuals aged 70 and over.</summary>
+</bill>

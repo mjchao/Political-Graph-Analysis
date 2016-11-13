@@ -1,0 +1,64 @@
+<bill session="100" type="hc" number="361" updated="2014-03-22T09:54:18-04:00">
+  <state datetime="1988-09-28">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-09-28"/>
+  </status>
+  <introduced datetime="1988-09-07"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to print a revised edition of "Our Flag".</title>
+  </titles>
+  <sponsor id="400895"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-07" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-22" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-23">
+      <text>House Committee on House Administration Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Received in the Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-28" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Markup, Discharged"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional publications"/>
+    <term name="Flags"/>
+    <term name="House of Representatives"/>
+    <term name="Printing"/>
+  </subjects>
+  <amendments>
+    <amendment number="h924"/>
+  </amendments>
+  <summary>9/23/1988--Passed House amended.
+(Measure passed House, amended) Requires the printing of a revised edition of the booklet entitled "Our Flag" as a House document. Provides for the printing of additional copies for the use of the House of Representatives, the Senate, and the Joint Committee on Printing.</summary>
+</bill>

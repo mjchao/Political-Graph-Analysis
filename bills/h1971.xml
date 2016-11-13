@@ -1,0 +1,98 @@
+<bill session="100" type="h" number="1971" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1987-04-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-07"/>
+  </status>
+  <introduced datetime="1987-04-07"/>
+  <titles>
+    <title type="short" as="introduced">Disabled Americans Work Incentive Act</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act to permit certain individuals with physical or mental impairments to continue medicare coverage at their own expense.</title>
+  </titles>
+  <sponsor id="407558"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-04-07"/>
+    <cosponsor id="400015" joined="1987-04-07"/>
+    <cosponsor id="401203" joined="1987-04-07"/>
+    <cosponsor id="400018" joined="1987-04-07"/>
+    <cosponsor id="401383" joined="1987-04-07"/>
+    <cosponsor id="400076" joined="1987-04-07"/>
+    <cosponsor id="403031" joined="1987-04-07"/>
+    <cosponsor id="403203" joined="1987-04-07"/>
+    <cosponsor id="400104" joined="1987-04-07"/>
+    <cosponsor id="400115" joined="1987-06-25"/>
+    <cosponsor id="403695" joined="1987-04-07"/>
+    <cosponsor id="403696" joined="1987-04-07"/>
+    <cosponsor id="404006" joined="1987-04-07"/>
+    <cosponsor id="404068" joined="1987-07-21"/>
+    <cosponsor id="404097" joined="1987-04-07"/>
+    <cosponsor id="404422" joined="1987-04-07"/>
+    <cosponsor id="300049" joined="1987-04-07"/>
+    <cosponsor id="405256" joined="1987-04-07"/>
+    <cosponsor id="405377" joined="1987-07-15"/>
+    <cosponsor id="406148" joined="1987-04-07"/>
+    <cosponsor id="400211" joined="1987-04-07"/>
+    <cosponsor id="400226" joined="1987-04-07"/>
+    <cosponsor id="406530" joined="1987-05-06"/>
+    <cosponsor id="400239" joined="1987-04-07"/>
+    <cosponsor id="400240" joined="1987-04-07"/>
+    <cosponsor id="406994" joined="1987-04-07"/>
+    <cosponsor id="407215" joined="1987-05-06"/>
+    <cosponsor id="407519" joined="1987-04-07"/>
+    <cosponsor id="407772" joined="1988-02-17"/>
+    <cosponsor id="408109" joined="1987-04-07"/>
+    <cosponsor id="400299" joined="1987-04-07"/>
+    <cosponsor id="400331" joined="1987-04-07"/>
+    <cosponsor id="409219" joined="1987-04-07"/>
+    <cosponsor id="409251" joined="1987-04-07"/>
+    <cosponsor id="409534" joined="1987-09-15"/>
+    <cosponsor id="409593" joined="1987-04-07"/>
+    <cosponsor id="409651" joined="1987-05-06"/>
+    <cosponsor id="409887" joined="1987-04-07"/>
+    <cosponsor id="409901" joined="1987-09-15"/>
+    <cosponsor id="410066" joined="1987-04-07"/>
+    <cosponsor id="410623" joined="1987-09-21"/>
+    <cosponsor id="400409" joined="1987-04-07"/>
+    <cosponsor id="400414" joined="1987-05-20"/>
+    <cosponsor id="411119" joined="1987-04-07"/>
+    <cosponsor id="411834" joined="1987-04-07"/>
+    <cosponsor id="411901" joined="1987-04-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-04-14">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="936"/>
+    <bill relation="identical" session="100" type="s" number="936"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Disabled"/>
+    <term name="Employment of the handicapped"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+    <term name="Mentally handicapped"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Physically handicapped"/>
+    <term name="Social security eligibility"/>
+  </subjects>
+  <amendments/>
+  <summary>4/7/1987--Introduced.
+Disabled Americans Work Incentive Act - Amends part A (Hospital Insurance) of title XVIII (Medicare) of the Social Security Act to continue the part A eligibility of physically or mentally impaired individuals who were eligible for such benefits by reason of their entitlement to disability benefits under title II (Old Age, Survivors and Disability Insurance) of the Act, but whose title II benefits have been terminated because they engaged in substantial gainful activity. Sets forth enrollment, special enrollment, and coverage periods as well as the contingencies terminating one's enrollment. Conditions such continued part A eligibility upon the payment of a monthly premium. Requires individuals who are entitled to part B (Supplementary Medical Insurance) Medicare benefits only by reason of their continued part A eligibility provided by this Act to pay a monthly premium set at four times the amount otherwise required under part B. Prohibits such part A and B premiums from exceeding a specified percentage of the individual's adjusted gross income, unless the premium thereby sinks below 25 percent of the premium determined without income restraints. Prohibits the benefits provided by this Act from supplanting employer group health plan benefits. Amends title II of the Act to provide that when individuals become entitled to OASDI disability benefits by reason of a disability which previously entitled them to such benefits, both periods of entitlement shall count toward the two-year period of OASDI disability benefit entitlement required for Medicare eligibility despite an intervening period of gainful employment.</summary>
+</bill>

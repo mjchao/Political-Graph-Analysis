@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="5228" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the appropriation of funds to reimburse persons whose property was damaged by an explosion in Clark County, Nevada, for certain uninsured expenses in connection with such damage.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors>
+    <cosponsor id="401446" joined="1988-08-11"/>
+    <cosponsor id="411178" joined="1988-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1988-08-23">
+      <text>Referred to Subcommittee on Space Science and Applications.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY02" subcommittee="Space Science and Applications" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Authorization"/>
+    <term name="Chemicals"/>
+    <term name="Claims"/>
+    <term name="Compensation (Law)"/>
+    <term name="Damages"/>
+    <term name="Economics and public finance"/>
+    <term name="Explosions"/>
+    <term name="Government liability"/>
+    <term name="Government operations and politics"/>
+    <term name="National Aeronautics and Space Administration"/>
+    <term name="Nevada"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Authorizes appropriations to the Administrator of the National Aeronautics and Space Administration to pay damages in connection with the May 4, 1988, explosion of ammonium perchlorate at the Pacific Engineering and Production Company in Clark County, Nevada.</summary>
+</bill>

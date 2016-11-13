@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1147" updated="2014-03-22T09:51:42-04:00">
+  <state datetime="1987-02-19">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-19"/>
+  </status>
+  <introduced datetime="1987-02-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, to allow withholding of State and local income taxes from the drill pay of members of the Reserves and National Guard.</title>
+  </titles>
+  <sponsor id="402159"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-19" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-02-25">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+    <action datetime="1987-02-26">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Armed forces and national security"/>
+    <term name="Armed forces reserves"/>
+    <term name="Income tax"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local taxation"/>
+    <term name="National Guard"/>
+    <term name="State taxation"/>
+    <term name="States"/>
+    <term name="Withholding tax"/>
+  </subjects>
+  <amendments/>
+  <summary>2/19/1987--Introduced.
+Allows the withholding of State and local income taxes from the drill pay of members of the Reserves and National Guard.</summary>
+</bill>

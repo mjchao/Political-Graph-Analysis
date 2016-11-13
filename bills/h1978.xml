@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="1978" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1987-04-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-07"/>
+  </status>
+  <introduced datetime="1987-04-07"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Children's Benefits Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title II of the Social Security Act to restore from age sixteen to age eighteen the age of a child at which certain benefits under such title are terminated.</title>
+  </titles>
+  <sponsor id="411426"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-04-07" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-04-13">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Children and youth"/>
+    <term name="Families"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security eligibility"/>
+  </subjects>
+  <amendments/>
+  <summary>4/7/1987--Introduced.
+Social Security Children's Benefits Act of 1987 - Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to terminate a nondisabled child's entitlement to child's insurance benefits when such child reaches age 18. (Currently, such entitlement ceases when the child reaches age 16.)</summary>
+</bill>

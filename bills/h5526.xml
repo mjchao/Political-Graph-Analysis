@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="5526" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-13">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-13"/>
+  </status>
+  <introduced datetime="1988-10-13"/>
+  <titles>
+    <title type="short" as="introduced">Quality Child Care Demonstration Act of 1988</title>
+    <title type="official" as="introduced">A bill to establish a demonstration block grant program to increase the quality and availability of child care.</title>
+  </titles>
+  <sponsor id="406530"/>
+  <cosponsors>
+    <cosponsor id="400205" joined="1988-10-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-13" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1988-12-09">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+    <action datetime="1988-12-09">
+      <text>Referred to Subcommittee on Select Education.</text>
+    </action>
+    <action datetime="1988-12-09">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED07" subcommittee="Human Resources" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Child development"/>
+    <term name="Children and youth"/>
+    <term name="Day care"/>
+    <term name="Federal aid to day care centers"/>
+    <term name="Research"/>
+  </subjects>
+  <amendments/>
+  <summary>10/13/1988--Introduced.
+Quality Child Care Demonstration Act of 1988 - Authorizes the Secretary of Health and Human Services to make grants to not more than 25 eligible public agencies and private entities, in urban and rural areas, to administer child development models to increase the quality and availability of child care services. Defines "child development model" to mean, with respect to child care services, an entity capable of providing training and on-going assistance to satellites that provide child care services to such children or exceptional children, and which is either: (1) a child care development center that provides child care services at a single site (or at multiple sites in reasonably close proximity) to infants, toddlers, preschool children, and school-age children; or (2) a high quality child care program capable of recruiting, training, supporting, and monitoring family child care providers. Sets forth grant application and program requirements. Sets forth evaluation and reporting requirements for grant recipients. Directs the Secretary to report by April 1, 1991, to the Congress on such program. Authorizes appropriations for FY 1990 and 1991 to carry out this Act.</summary>
+</bill>

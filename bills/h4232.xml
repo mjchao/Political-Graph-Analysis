@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="4232" updated="2014-03-22T09:53:08-04:00">
+  <state datetime="1988-03-23">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-23"/>
+  </status>
+  <introduced datetime="1988-03-23"/>
+  <titles>
+    <title type="short" as="introduced">Fair Practices in Automotive Products Act</title>
+    <title type="official" as="introduced">A bill to establish domestic content requirements for motor vehicles sold or distributed in interstate commerce in the United States.</title>
+  </titles>
+  <sponsor id="400055"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-23" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-03-28">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+    <action datetime="1988-04-06">
+      <text>Referred to Subcommittee on Commerce, Consumer Protection, and Competitiveness.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF06" subcommittee="Commerce, Consumer Protection, and Competitiveness" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Motor vehicles"/>
+    <term name="Automobile industry"/>
+    <term name="Automobile parts"/>
+    <term name="Buy American"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Imports"/>
+    <term name="Motor Vehicles and Driving"/>
+  </subjects>
+  <amendments/>
+  <summary>3/23/1988--Introduced.
+Fair Practices in Automotive Products Act - Sets forth a minimum domestic content ratio for vehicle manufacturers producing over 100,000 motor vehicles for sale in the United States during each model year beginning after January 1, 1984. Requires the Secretary of Transportation to prescribe rules for allocating automotive products among vehicle manufacturers in certain circumstances. Requires such manufacturers to maintain and furnish records and information required by the Secretary for allocation purposes. Requires the Secretary to make annual reports available to the public regarding the domestic content ratio achieved by each manufacturer during the model year. Declares it is unlawful for a vehicle manufacturer to fail to meet the minimum domestic content ratio for any model year. Sets forth enforcement provisions. Requires the Secretary and the Federal Trade Commission to report to the Congress within one year after enactment of this Act regarding the practices used by vehicle manufacturers to persuade U.S. motor vehicle dealers to favor foreign-made parts over domestically produced parts.</summary>
+</bill>

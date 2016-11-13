@@ -1,0 +1,113 @@
+<bill session="100" type="h" number="4064" updated="2014-03-22T09:53:03-04:00">
+  <state datetime="1988-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-03"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 28 of the United States Code to authorize the appointment of additional bankruptcy judges.</title>
+  </titles>
+  <sponsor id="409650"/>
+  <cosponsors>
+    <cosponsor id="404602" joined="1988-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-03-08">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-06-28">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-06-28" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-07">
+      <text>Reported to House (Amended) by House Committee on The Judiciary. Report No: 100-756 (Part I).</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Referred to House Committee on Appropriations Sequentially, for a Period not to Exceed Fifteen Legislative Days.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>House Committee on Appropriations Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Placed on Union Calendar No: 520.</text>
+    </action>
+    <action datetime="1988-09-13">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-13" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-14">
+      <text>Received in the Senate.</text>
+    </action>
+    <calendar datetime="1988-09-15" calendar="Senate Legislative" under="General Orders" number="948">
+      <text>Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 948.</text>
+    </calendar>
+    <action datetime="1988-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-14" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>House Agreed to Senate Amendments by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-21">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-25">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-587" type="public" datetime="1988-11-03">
+      <text>Became Public Law No: 100-587.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+    <committee code="HSAP" name="House Appropriations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Alaska"/>
+    <term name="Arizona"/>
+    <term name="Bankruptcy"/>
+    <term name="Bankruptcy courts"/>
+    <term name="Colorado"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Judges"/>
+    <term name="Judicial districts"/>
+    <term name="Kansas"/>
+    <term name="Kentucky"/>
+    <term name="Texas"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3700"/>
+  </amendments>
+  <summary>10/14/1988--Passed Senate amended.
+(Measure passed Senate, amended) Amends the judicial code to increase the number of bankruptcy judgeships in the District of Alaska, the District of Colorado, the District of Kansas, the Eastern District of Kentucky, the Eastern and Western Districts of Texas, and the District of Arizona.</summary>
+</bill>

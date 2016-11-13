@@ -1,0 +1,43 @@
+<bill session="100" type="hc" number="29" updated="2014-03-22T09:54:05-04:00">
+  <state datetime="1987-01-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-22"/>
+  </status>
+  <introduced datetime="1987-01-22"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to condemn deceptive Soviet emigration policies and to call on the Soviet Union to abide by the human rights provisions of the Helsinki Accords.</title>
+  </titles>
+  <sponsor id="401847"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-22" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-01-26">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-01-26">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Executive Comment Requested from State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Emigration"/>
+    <term name="Human rights"/>
+    <term name="Jews"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>1/22/1987--Introduced.
+Declares that the Congress protests the continued human rights repression in the Soviet Union, especially the new emigration regulations, despite compliance with its international human rights obligations while continuing to violate the Helsinki Final Act and other international human rights agreements. Declares that such violations, especially Soviet refusal to permit emigration, affect U.S.-Soviet relations. Calls upon the Soviet authorities to release specified individuals who wish to emigrate. Declares that the Congress dedicates itself to support, as a priority in the 100th Congress, the restoration of human rights to all Soviet citizens, especially the right of all Soviet Jews and others who have requested exit permits to emigrate.</summary>
+</bill>

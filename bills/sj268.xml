@@ -1,0 +1,73 @@
+<bill session="100" type="sj" number="268" updated="2014-03-22T09:54:31-04:00">
+  <state datetime="1988-04-14">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-04-14"/>
+  </status>
+  <introduced datetime="1988-03-02"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution disapproving the certification by the President under section 481(h) of the Foreign Assistance Act of 1961.</title>
+  </titles>
+  <sponsor id="411762"/>
+  <cosponsors>
+    <cosponsor id="403142" joined="1988-03-02"/>
+    <cosponsor id="403346" joined="1988-03-02"/>
+    <cosponsor id="300036" joined="1988-03-02"/>
+    <cosponsor id="300048" joined="1988-04-14"/>
+    <cosponsor id="405305" joined="1988-03-02"/>
+    <cosponsor id="300154" joined="1988-03-02"/>
+    <cosponsor id="407355" joined="1988-03-02"/>
+    <cosponsor id="300150" joined="1988-04-14"/>
+    <cosponsor id="300092" joined="1988-04-14"/>
+    <cosponsor id="410588" joined="1988-03-02"/>
+    <cosponsor id="410936" joined="1988-04-11"/>
+    <cosponsor id="411271" joined="1988-03-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1988-04-12">
+      <text>Committee on Foreign Relations. Failed to order reported.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Senate Committee on Foreign Relations discharged by Voice Vote.</text>
+    </action>
+    <action datetime="1988-04-14">
+      <text>Measure laid before Senate by motion.</text>
+    </action>
+    <vote how="roll" type="vote" roll="97" datetime="1988-04-14" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate without amendment by Yea-Nay Vote. 63-27. Record Vote No: 97.</text>
+    </vote>
+    <action datetime="1988-04-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-04-18">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1988-04-18">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Markup, Discharged"/>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="499"/>
+    <bill relation="identical" session="100" type="hj" number="499"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Mexico"/>
+    <term name="Narcotic traffic"/>
+  </subjects>
+  <amendments/>
+  <summary>3/2/1988--Introduced.
+Disapproves the President's certification for U.S. assistance to Mexico under provisions of the Foreign Assistance Act of 1961 relating to countries that fail to take adequate measures to prevent narcotic drugs and other controlled substances from being sold illegally within the jurisdiction of such country to U.S. Government personnel or from entering the United States unlawfully.</summary>
+</bill>

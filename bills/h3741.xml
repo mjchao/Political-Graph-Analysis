@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="3741" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-10"/>
+  </status>
+  <introduced datetime="1987-12-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to eliminate the 2-tier system for calculating the amount of an annuity paid under the Survivor Benefit Plan for the Armed Forces.</title>
+  </titles>
+  <sponsor id="404097"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-10" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Referred to Subcommittee on Military Personnel and Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS02" subcommittee="Military Personnel and Compensation" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Annuities"/>
+    <term name="Military dependents"/>
+    <term name="Survivors' benefits"/>
+  </subjects>
+  <amendments/>
+  <summary>12/10/1987--Introduced.
+Amends Federal armed forces provisions relating to annuity payments under the Survivor Benefit Plan (SBP) to eliminate the two-tiered system of payment amounts (a certain percentage of the deceased's base salary to those beneficiaries age 62 or over, and a lower amount for those below age 62) in the calculation of annuity payments for eligible beneficiaries of active-duty and reserve members of the armed forces. Implements in its place a level percentage of base salary for beneficiaries of active-duty members (notwithstanding their age), and a level percentage of base salary for beneficiaries of reserve members. Repeals current Federal provisions which: (1) reduce the annuity amount for beneficiaries upon attaining age 62; and (2) base eligibility for such annuity payments on participation in the SBP on or before a specified date.</summary>
+</bill>

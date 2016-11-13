@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="299" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-10-29">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-10-29"/>
+  </status>
+  <introduced datetime="1987-10-29"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 3479) to provide for adjustments of royalty payments under certain Federal onshore and Indian oil and gas leases, and for other purposes.</title>
+  </titles>
+  <sponsor id="401310"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-10-29">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-412.</text>
+    </action>
+    <action datetime="1987-10-29">
+      <text>Placed on House Calendar No: 96.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-11-03">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 253 - 153 (Record Vote No: 403).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="3479"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Petroleum"/>
+  </subjects>
+  <amendments/>
+  <summary>10/29/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 3479 (oil and gas lease royalties).</summary>
+</bill>

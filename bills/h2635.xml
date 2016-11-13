@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="2635" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prevent United States involvement in hostilities in the Persian Gulf.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors>
+    <cosponsor id="407351" joined="1987-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Flags of convenience"/>
+    <term name="International military forces"/>
+    <term name="Iran"/>
+    <term name="Iran-Iraq War"/>
+    <term name="Iraq"/>
+    <term name="Military agreements"/>
+    <term name="Persian Gulf"/>
+    <term name="Persian Gulf States"/>
+    <term name="Shipping agreements"/>
+    <term name="Ships and shipping"/>
+    <term name="Tankers"/>
+    <term name="Treaties"/>
+    <term name="United Nations"/>
+    <term name="War"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Prevents the United States from implementing any agreement with any country bordering the Persian Gulf under which vessels of such country are registered under the U.S. flag. Urges the President to seek a United Nations Security Council meeting to establish a U.N. Peacekeeping Force to protect nonbelligerent shipping in the Persian Gulf and to seek an early end to the Iran-Iraq war.</summary>
+</bill>

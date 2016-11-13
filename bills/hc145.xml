@@ -1,0 +1,50 @@
+<bill session="100" type="hc" number="145" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-06-23">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-23"/>
+  </status>
+  <introduced datetime="1987-06-23"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution on the Persian Gulf situation.</title>
+  </titles>
+  <sponsor id="402928"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-23" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-07-06">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-07-06">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Iran"/>
+    <term name="Iran-Iraq War"/>
+    <term name="Iraq"/>
+    <term name="Marine transportation"/>
+    <term name="Middle East"/>
+    <term name="Peace"/>
+    <term name="Persian Gulf"/>
+    <term name="Ships and shipping"/>
+    <term name="Treaties"/>
+    <term name="Truces"/>
+    <term name="War"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/1987--Introduced.
+States that the Congress supports the determination of the President to take measures to: (1) ensure the unimpeded flow of commercial traffic through the Persian Gulf and Strait of Hormuz; and (2) repel any armed attack against U.S. naval forces in or outside the Persian Gulf. States that it should be the policy of the United States to take diplomatic and economic measures to support a ceasefire in, and encourage a negotiated solution to, the Iran-Iraq war.</summary>
+</bill>

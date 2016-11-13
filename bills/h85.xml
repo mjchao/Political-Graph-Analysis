@@ -1,0 +1,85 @@
+<bill session="100" type="h" number="85" updated="2014-03-22T09:51:08-04:00">
+  <state datetime="1987-10-20">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-20"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">New Zealand Military Preference Elimination Act</title>
+    <title type="short" as="passed house">New Zealand Military Preference Suspension Act</title>
+    <title type="official" as="introduced">A bill to eliminate security assistance and arms export preferences for New Zealand, and for other purposes.</title>
+  </titles>
+  <sponsor id="401847"/>
+  <cosponsors>
+    <cosponsor id="410147" joined="1987-01-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-01-26">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-01-26">
+      <text>Referred to Subcommittee on Asian and Pacific Affairs.</text>
+    </action>
+    <action datetime="1987-02-02">
+      <text>Executive Comment Requested from State, Defense.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Executive Comment Received From State.</text>
+    </action>
+    <action datetime="1987-09-22">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-10-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-10-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-10-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="366" datetime="1987-10-20" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 300 - 111 (Record Vote No: 366).</text>
+    </vote>
+    <action datetime="1987-10-22">
+      <text>Received in the Senate and read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>See H.R.5550.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSFA05" subcommittee="Asian and Pacific Affairs" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="5550"/>
+    <bill relation="identical" session="100" type="s" number="1463"/>
+    <bill relation="identical" session="100" type="s" number="1463"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Arms sales"/>
+    <term name="Collective security agreements"/>
+    <term name="Export controls"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="New Zealand"/>
+    <term name="Shipping agreements"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1987--Passed House amended.
+(Measure passed House, amended, roll call #366 (300-111)) New Zealand Military Preference Suspension Act - Urges the Government of New Zealand to: (1) reconsider its decision and law denying port access to certain U.S. ships; and (2) resume its obligations under the ANZUS Treaty. Amends the Foreign Assistance Act of 1961 and the Arms Export Control Act to suspend certain security assistance and arms export preferences for New Zealand unless the President determines, and reports to the Congress, that New Zealand is complying fully with its obligations under the ANZUS Treaty.</summary>
+</bill>

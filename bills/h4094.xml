@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4094" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-03"/>
+  </status>
+  <introduced datetime="1988-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the provision of certain employee protection arrangements in certain railroad transactions involving parties under common control unless the Interstate Commerce Commission imposes employee protection arrangements within 6 months.</title>
+  </titles>
+  <sponsor id="300091"/>
+  <cosponsors>
+    <cosponsor id="401755" joined="1988-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-03" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-03-16">
+      <text>Referred to Subcommittee on Transportation, Tourism, and Hazardous Materials.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF07" subcommittee="Transportation, Tourism, and Hazardous Materials" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Dismissal of employees"/>
+    <term name="Employee rights"/>
+    <term name="Job security"/>
+    <term name="Labor and employment"/>
+    <term name="Railroad employees"/>
+    <term name="Railroad mergers"/>
+    <term name="Railroad reorganization"/>
+    <term name="Railroads"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1988--Introduced.
+Amends Federal law relating to railroad employee protective arrangements in rail carrier transactions to provide that, in the case of a transaction between parties under common control, if the Interstate Commerce Commission has not issued a final decision requiring such a protective arrangement within six months after receiving notice of the proposed transaction, then such an arrangement shall be at least as protective as the terms imposed under current law in merger cases before February 5, 1976.</summary>
+</bill>

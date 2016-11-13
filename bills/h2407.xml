@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="2407" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1987-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-13"/>
+  </status>
+  <introduced datetime="1987-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Public Housing Income Equity Act</title>
+    <title type="official" as="introduced">A bill to amend the United States Housing Act of 1937 to exclude from the income calculation of elderly residents in public housing amounts received under Federal job training and employment programs.</title>
+  </titles>
+  <sponsor id="406530"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-13" state="REFERRED">
+      <text>Referred to House Committee on Banking, Finance and Urban Affairs.</text>
+    </action>
+    <action datetime="1987-06-01">
+      <text>Referred to Subcommittee on Housing and Community Development.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSBA" name="House Banking, Finance, and Urban Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSBA04" subcommittee="Housing and Community Development" name="House Banking, Finance, and Urban Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Housing and community development"/>
+    <term name="Employment and training programs"/>
+    <term name="Housing and Housing Finance"/>
+    <term name="Housing for the aged"/>
+    <term name="Income"/>
+    <term name="Labor and employment"/>
+    <term name="Low-income housing"/>
+    <term name="Manpower training programs"/>
+    <term name="Public housing"/>
+    <term name="Rental housing"/>
+    <term name="Social welfare"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/1987--Introduced.
+Public Housing Income Equity Act - Amends the United States Housing Act of 1937 to exclude from the income calculation of public housing residents 62 years of age or older amounts received under Federal job training and employment programs or under title V of the Older Americans Act of 1965.</summary>
+</bill>

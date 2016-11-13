@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="1012" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Salary Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide that rates of pay for Members of Congress shall not be subject to adjustment under the Federal Salary Act of 1967 or subject to any other automatic adjustment.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors>
+    <cosponsor id="410084" joined="1987-04-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to Subcommittee on Ad Hoc Task Force on Presidential Pay Recommendation.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Referred to Subcommittee on Compensation and Employee Benefits.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO08" subcommittee="Hoc Task Force on Presidential Pay Recommendation" name="House Post Office and Civil Service"/>
+    <committee activity="Referral" code="HSPO02" subcommittee="Compensation and Employee Benefits" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Congressional-Presidential relations"/>
+    <term name="Members of Congress"/>
+    <term name="Presidents and Vice Presidents"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Congressional Salary Act of 1987 - Amends the Federal Salary Act of 1967 to make the recommendations of the President relating to congressional salaries of an advisory nature. Amends the Legislative Reorganization Act of 1946 to declare the rate of pay for Members of Congress to be that which is payable for such positions on the date of enactment of this Act. Requires increases in such rate of pay to take effect at the beginning of the following Congress. Declares the period which begins on the Tuesday following the first Monday of November of even-numbered years and which ends on the following January 3 as occurring during the first session of the following Congress.</summary>
+</bill>

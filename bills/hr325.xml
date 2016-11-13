@@ -1,0 +1,56 @@
+<bill session="100" type="hr" number="325" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-12-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-08"/>
+  </status>
+  <introduced datetime="1987-12-08"/>
+  <titles>
+    <title type="official" as="introduced">A resolution authorizing printing of the transcript of proceedings of the Committee on Government Operations incident to presentation of a portrait of the Honorable Jack Brooks.</title>
+  </titles>
+  <sponsor id="400080"/>
+  <cosponsors>
+    <cosponsor id="405646" joined="1987-12-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-08" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-12-18">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>House Committee on House Administration Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, Discharged"/>
+    <committee activity="Referral, Markup, Reporting" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Congressional publications"/>
+    <term name="House of Representatives"/>
+    <term name="Members of Congress (House)"/>
+    <term name="Portraits"/>
+    <term name="Printing"/>
+  </subjects>
+  <amendments>
+    <amendment number="h608"/>
+  </amendments>
+  <summary>4/19/1988--Passed House amended.
+(Measure passed House, amended) Authorizes the printing as a House document of the transcript of proceedings of the House Committee on Government Operations on November 19, 1987, incident to the presentation of a portrait of the Honorable Jack Brooks to the Committee. Authorizes the printing of additional copies for the use of the Committee.</summary>
+</bill>

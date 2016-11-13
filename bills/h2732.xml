@@ -1,0 +1,63 @@
+<bill session="100" type="h" number="2732" updated="2014-03-22T09:52:29-04:00">
+  <state datetime="1987-06-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-18"/>
+  </status>
+  <introduced datetime="1987-06-18"/>
+  <titles>
+    <title type="short" as="introduced">Federal Firearms Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 18, United States Code, with respect to firearms.</title>
+  </titles>
+  <sponsor id="409500"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-06-18"/>
+    <cosponsor id="401310" joined="1987-06-18"/>
+    <cosponsor id="300011" joined="1987-06-18"/>
+    <cosponsor id="402763" joined="1987-06-18"/>
+    <cosponsor id="400080" joined="1987-06-18"/>
+    <cosponsor id="403314" joined="1987-06-18"/>
+    <cosponsor id="403364" joined="1987-06-18"/>
+    <cosponsor id="403689" joined="1987-08-04"/>
+    <cosponsor id="404190" joined="1987-06-18"/>
+    <cosponsor id="404213" joined="1987-08-04"/>
+    <cosponsor id="404634" joined="1987-06-18"/>
+    <cosponsor id="405687" joined="1987-08-04"/>
+    <cosponsor id="406730" joined="1987-06-18"/>
+    <cosponsor id="406740" joined="1987-08-04"/>
+    <cosponsor id="400238" joined="1987-08-04"/>
+    <cosponsor id="406765" joined="1987-08-04"/>
+    <cosponsor id="400243" joined="1987-06-18"/>
+    <cosponsor id="407672" joined="1987-08-04"/>
+    <cosponsor id="407772" joined="1987-08-04"/>
+    <cosponsor id="407960" joined="1987-06-18"/>
+    <cosponsor id="408023" joined="1987-06-18"/>
+    <cosponsor id="400333" joined="1987-06-18"/>
+    <cosponsor id="409632" joined="1987-06-18"/>
+    <cosponsor id="410066" joined="1987-06-18"/>
+    <cosponsor id="400387" joined="1987-06-18"/>
+    <cosponsor id="410407" joined="1987-08-04"/>
+    <cosponsor id="400409" joined="1987-06-18"/>
+    <cosponsor id="411947" joined="1987-06-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Crime.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU06" subcommittee="Crime" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Firearms"/>
+    <term name="Firearms control"/>
+  </subjects>
+  <amendments/>
+  <summary>6/18/1987--Introduced.
+Federal Firearms Act of 1987 - Amends the Gun Control Act of 1968 to prohibit any person licensed under such Act from manufacturing, selling, delivering, or transferring: (1) any concealable handgun; or (2) any revolver or pistol which fails to meet specified requirements. Exempts from such prohibition handguns which are relics or curios as determined by the Secretary of the Treasury and the use of handguns for research or by the Government.</summary>
+</bill>

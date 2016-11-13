@@ -1,0 +1,74 @@
+<bill session="100" type="h" number="2644" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-06-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-10"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="short" as="introduced">Child Care Coordination and Information Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish requirements relating to Federally funded child care services.</title>
+  </titles>
+  <sponsor id="402763"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1987-06-10"/>
+    <cosponsor id="401526" joined="1987-06-23"/>
+    <cosponsor id="400035" joined="1987-06-29"/>
+    <cosponsor id="401986" joined="1987-06-23"/>
+    <cosponsor id="402626" joined="1987-06-10"/>
+    <cosponsor id="402657" joined="1987-06-10"/>
+    <cosponsor id="402833" joined="1987-06-10"/>
+    <cosponsor id="400080" joined="1987-06-23"/>
+    <cosponsor id="403581" joined="1987-06-23"/>
+    <cosponsor id="403695" joined="1987-06-10"/>
+    <cosponsor id="404422" joined="1987-06-10"/>
+    <cosponsor id="404869" joined="1987-06-10"/>
+    <cosponsor id="405256" joined="1987-06-10"/>
+    <cosponsor id="400205" joined="1987-06-10"/>
+    <cosponsor id="406740" joined="1987-06-10"/>
+    <cosponsor id="407215" joined="1987-11-03"/>
+    <cosponsor id="400595" joined="1987-11-03"/>
+    <cosponsor id="408109" joined="1987-06-23"/>
+    <cosponsor id="400314" joined="1987-06-23"/>
+    <cosponsor id="409443" joined="1987-06-10"/>
+    <cosponsor id="409534" joined="1987-06-23"/>
+    <cosponsor id="409593" joined="1987-06-10"/>
+    <cosponsor id="400409" joined="1987-06-10"/>
+    <cosponsor id="411178" joined="1987-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-06-10">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Select Education.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED07" subcommittee="Human Resources" name="House Education and Labor"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Children and youth"/>
+    <term name="Day care"/>
+    <term name="Evaluation"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Information services"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Child Care Coordination and Information Act of 1987 - Directs the Department of Health and Human Services, Office of Human Development Services, Administration for Children, Youth, and Families to coordinate all federally funded child care services. Directs the Office to: (1) require all federally funded child care programs to provide a description of services provided, the number of children served, the length of the waiting list, and the cost of the services; (2) establish and maintain a clearinghouse for the receipt of information pertaining to child care and child care services; (3) conduct a comprehensive analysis of the need for and availability of child care services in the United States; and (4) submit to the Congress a report on such analysis before the end of the one-year period beginning on the date of the enactment of this Act, and at the end of each succeeding three-year period.</summary>
+</bill>

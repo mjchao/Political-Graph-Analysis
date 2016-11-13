@@ -1,0 +1,48 @@
+<bill session="100" type="h" number="4716" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-05-26">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-26"/>
+  </status>
+  <introduced datetime="1988-05-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to permit issuance of a certificate of documentation for employment in the coastwise trade of the United States for the vessel Encore.</title>
+  </titles>
+  <sponsor id="405887"/>
+  <cosponsors>
+    <cosponsor id="400333" joined="1988-05-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-26" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Referred to Subcommittee on Merchant Marine.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Executive Comment Received From DOT.</text>
+    </action>
+    <action datetime="1988-10-06">
+      <text>Measure Incorporated in H.R.3105.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPO" subcommittee="Merchant Marine" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3105"/>
+  </relatedbills>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Ships"/>
+  </subjects>
+  <amendments/>
+  <summary>5/26/1988--Introduced.
+Authorizes the Secretary of the department in which the Coast Guard is operating to cause a named vessel to be documented as a vessel of the United States entitled to engage in the coastwise trade.</summary>
+</bill>

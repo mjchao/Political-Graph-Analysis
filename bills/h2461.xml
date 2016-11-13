@@ -1,0 +1,78 @@
+<bill session="100" type="h" number="2461" updated="2014-03-22T09:52:22-04:00">
+  <state datetime="1988-11-09">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-09"/>
+  </status>
+  <introduced datetime="1987-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Milena Mesin and Bozena Mesin.</title>
+  </titles>
+  <sponsor id="400611"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-18" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-26">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-842.</text>
+    </action>
+    <action datetime="1988-08-08">
+      <text>Placed on Private Calendar No: 58.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-23">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-09-30">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <calendar datetime="1988-10-05">
+      <text>Committee on Judiciary. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-10-05">
+      <text>Committee on Judiciary. Reported to Senate by Senator Biden without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1988-10-05" calendar="Senate Legislative" under="General Orders" number="1105">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1105.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-21" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-21">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-28">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-01">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-09" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-39" type="private" datetime="1988-11-09">
+      <text>Became Private Law No: 100-39.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Reporting"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Immigration"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1987--Introduced.
+Authorizes the classification of two named individuals as children within the meaning of the Immigration and Nationality Act. Directs the Attorney General to adjust each of such individual's status to that of an alien lawfully admitted for permanent residence.</summary>
+</bill>

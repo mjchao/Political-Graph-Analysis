@@ -1,0 +1,72 @@
+<bill session="100" type="h" number="1728" updated="2014-03-22T09:51:57-04:00">
+  <state datetime="1987-04-07">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-04-07"/>
+  </status>
+  <introduced datetime="1987-03-19"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the National School Lunch Act to provide for limited extension of alternative means of providing assistance under the school lunch program.</title>
+  </titles>
+  <sponsor id="400586"/>
+  <cosponsors>
+    <cosponsor id="404220" joined="1987-03-19"/>
+    <cosponsor id="300057" joined="1987-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-19" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-04-01" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-04-06">
+      <text>Reported to House by House Committee on Education and Labor. Report No: 100-37.</text>
+    </action>
+    <action datetime="1987-04-06">
+      <text>Placed on Union Calendar No: 29.</text>
+    </action>
+    <action datetime="1987-04-07">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-04-07" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-04-08">
+      <text>Received in the Senate and read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-04-16">
+      <text>Referred to Subcommittee on Nutrition and Investigations.</text>
+    </action>
+    <action datetime="1987-05-19">
+      <text>Subcommittee on Nutrition and Investigations. Hearings held.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Subcommittee on Nutrition and Investigations. Provisions of measure incorporated in S. 305.</text>
+    </action>
+    <calendar datetime="1987-07-01">
+      <text>Committee on Agriculture. Provisions of measure incorporated into measure S. 305 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, Markup, Reporting"/>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup" code="SSAF06" subcommittee="Nutrition and Investigations" name="Senate Agriculture, Nutrition, and Forestry"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="305"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Education"/>
+    <term name="Food and Food Industry"/>
+    <term name="Food relief"/>
+    <term name="School lunch program"/>
+  </subjects>
+  <amendments/>
+  <summary>3/19/1987--Introduced.
+Amends the National School Lunch Act to permit a school district that was receiving, as of January 1, 1987, cash or letters of credit in lieu of commodities for its school lunch program (program) to elect to extend such alternative assistance program for each school year ending before July 1, 1992. States that such an election shall not affect the distribution of any bonus program commodities.</summary>
+</bill>

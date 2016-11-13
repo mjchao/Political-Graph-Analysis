@@ -1,0 +1,69 @@
+<bill session="100" type="h" number="5336" updated="2014-03-22T09:53:36-04:00">
+  <state datetime="1988-09-22">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1988-09-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to further the revitalization, rehabilitation, and utilization of the area known as "Officers Row" located within the Sandy Hook Unit of the Gateway National Recreation Area, and for other purposes.</title>
+  </titles>
+  <sponsor id="411025"/>
+  <cosponsors>
+    <cosponsor id="403689" joined="1988-09-20"/>
+    <cosponsor id="404170" joined="1988-09-20"/>
+    <cosponsor id="404856" joined="1988-09-20"/>
+    <cosponsor id="405775" joined="1988-09-20"/>
+    <cosponsor id="409344" joined="1988-09-20"/>
+    <cosponsor id="409353" joined="1988-09-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-09-20" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>House Committee on Interior and Insular Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-22" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-09-26">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-09-27">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>For Further Action See S.2057.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2057"/>
+  </relatedbills>
+  <subjects>
+    <term name="Recreation"/>
+    <term name="Fisheries"/>
+    <term name="Laboratories"/>
+    <term name="Marine and coastal resources, fisheries"/>
+    <term name="National recreation areas"/>
+    <term name="New Jersey"/>
+    <term name="Recreation and Recreational Facilities"/>
+    <term name="Recreation areas"/>
+    <term name="Research and development"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>9/20/1988--Introduced.
+Requires the Secretary of the Interior to enter into an agreement to permit New Jersey to construct the James J. Howard Marine Sciences Laboratory in the area known as "Officers Row" within the Sandy Hook Unit of the Gateway National Recreation Area.</summary>
+</bill>

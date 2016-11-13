@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="3118" updated="2014-03-22T09:52:45-04:00">
+  <state datetime="1987-08-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-05"/>
+  </status>
+  <introduced datetime="1987-08-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the site of the Glorieta Battle in the Civil War as a national historic site.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="401363" joined="1987-10-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-05" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-19">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Civil War"/>
+    <term name="Historic sites"/>
+    <term name="Monuments and memorials"/>
+    <term name="National monuments"/>
+    <term name="New Mexico"/>
+  </subjects>
+  <amendments/>
+  <summary>8/5/1987--Introduced.
+Establishes the Glorieta Battlefield National Historic Site, New Mexico, associated with the Civil War, to be administered as part of the Pecos National Monument. Authorizes the Secretary of the Interior to acquire lands. Authorizes appropriations.</summary>
+</bill>

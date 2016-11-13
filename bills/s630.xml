@@ -1,0 +1,53 @@
+<bill session="100" type="s" number="630" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-04-23">REPORTED</state>
+  <status>
+    <unknown datetime="1987-04-23"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the use on Cyprus of military equipment provided to Turkey by the United States and to require that certain information regarding activities on Cyprus of the Turkish armed forces be included in the periodic reports submitted to Congress.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="1987-03-03"/>
+    <cosponsor id="403142" joined="1987-03-03"/>
+    <cosponsor id="300064" joined="1987-04-01"/>
+    <cosponsor id="300073" joined="1987-03-03"/>
+    <cosponsor id="400563" joined="1987-03-27"/>
+    <cosponsor id="408898" joined="1987-03-03"/>
+    <cosponsor id="409917" joined="1987-03-03"/>
+    <cosponsor id="300092" joined="1987-03-03"/>
+    <cosponsor id="410936" joined="1987-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <calendar datetime="1987-04-23" state="REPORTED">
+      <text>Committee on Foreign Relations. Provisions of measure incorporated into measure S. 1274 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="957"/>
+    <bill relation="identical" session="100" type="h" number="957"/>
+    <bill relation="unknown" session="100" type="s" number="1274"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American military assistance"/>
+    <term name="Arms sales"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Cyprus"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Military intervention"/>
+    <term name="Turkey"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Amends the Foreign Assistance Act of 1961 to prohibit U.S. defense articles from being transferred to, or used on, Cyprus by Turkey. Declares that such prohibition shall not apply to the extent that the President certifies to the Congress that: (1) there has been an armed attack on one or more parties to the North Atlantic Treaty or that such an attack is imminent; and (2) the President has approved the transfer of such defense articles. Requires the President to report periodically to the Congress: (1) specifying the number of Turkish armed forces on Cyprus; and (2) describing any U.S. defense articles on Cyprus.</summary>
+</bill>

@@ -1,0 +1,75 @@
+<bill session="100" type="h" number="4799" updated="2014-03-22T09:53:25-04:00">
+  <state datetime="1988-06-17">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-06-17"/>
+  </status>
+  <introduced datetime="1988-06-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to extend the withdrawal of certain public lands in Lincoln County, Nevada.</title>
+  </titles>
+  <sponsor id="400612"/>
+  <cosponsors>
+    <cosponsor id="403364" joined="1988-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-14" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>House Committee on Armed Services Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>House Committee on Interior and Insular Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-06-14" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-06-15" where="s" result="pass" state="PASSED:BILL">
+      <text>Received in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-06-15">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-06-16">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-06-16">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-06-17">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-06-17" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-338" type="public" datetime="1988-06-17">
+      <text>Became Public Law No: 100-338.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, Discharged"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1508"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Air force operations"/>
+    <term name="Armed forces and national security"/>
+    <term name="Defense articles"/>
+    <term name="Land use"/>
+    <term name="Military training"/>
+    <term name="Nevada"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>6/14/1988--Introduced.
+Amends the Military Lands Withdrawal Act of 1986 to expand the lands withdrawn for certain military purposes to include specified lands in Lincoln County, Nevada.</summary>
+</bill>

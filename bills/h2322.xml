@@ -1,0 +1,80 @@
+<bill session="100" type="h" number="2322" updated="2014-03-22T09:52:19-04:00">
+  <state datetime="1987-05-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-07"/>
+  </status>
+  <introduced datetime="1987-05-07"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Act Mental Health Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend titles XVI, XVIII, and XIX of the Social Security Act with respect to services and benefits for chronically mentally ill individuals.</title>
+  </titles>
+  <sponsor id="408457"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="1987-12-08"/>
+    <cosponsor id="400572" joined="1987-12-08"/>
+    <cosponsor id="402833" joined="1987-12-08"/>
+    <cosponsor id="404019" joined="1987-12-08"/>
+    <cosponsor id="404190" joined="1987-12-08"/>
+    <cosponsor id="404213" joined="1987-12-08"/>
+    <cosponsor id="405006" joined="1987-12-08"/>
+    <cosponsor id="405209" joined="1987-12-08"/>
+    <cosponsor id="400211" joined="1987-12-08"/>
+    <cosponsor id="406530" joined="1987-12-08"/>
+    <cosponsor id="407471" joined="1987-12-08"/>
+    <cosponsor id="408313" joined="1987-12-08"/>
+    <cosponsor id="400306" joined="1987-12-08"/>
+    <cosponsor id="409205" joined="1987-12-08"/>
+    <cosponsor id="409353" joined="1987-12-08"/>
+    <cosponsor id="409443" joined="1987-12-08"/>
+    <cosponsor id="400417" joined="1987-12-08"/>
+    <cosponsor id="411834" joined="1987-12-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-05-13">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Referred to Subcommittee on Public Assistance and Unemployment Compensation.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM03" subcommittee="Public Assistance and Unemployment Compensation" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Ambulatory care"/>
+    <term name="Community health services"/>
+    <term name="Disabled"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Home care services"/>
+    <term name="Hospitals"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Mental health"/>
+    <term name="Mental health services"/>
+    <term name="Mentally handicapped"/>
+    <term name="Mentally ill"/>
+    <term name="Prospective payment systems (Medical care)"/>
+    <term name="Public assistance programs"/>
+    <term name="Social security eligibility"/>
+    <term name="Supplemental security income program"/>
+  </subjects>
+  <amendments/>
+  <summary>5/7/1987--Introduced.
+Social Security Act Mental Health Amendments of 1987 - Amends titles XVI (Supplemental Security Income) (SSI), XVIII (Medicare), and XIX (Medicaid) of the Social Security Act to provide benefits for chronically mentally ill individuals. Requires State plans under title XIX to include case management services and home and community-based services for such individuals. Directs the Secretary of Health and Human Services to arrange for up to five States to conduct demonstration projects providing mental health services on a prepaid capitation basis to chronically mentally ill Medicaid beneficiaries. Requires any hospital receiving funds under titles XVIII or XIX to have a case plan established for, and a case manager assigned to such individuals prior to their discharge. Treats certain chronically mentally ill individuals about to be discharged from an institution as presumptively disabled for purposes of title XVI. Extends the period during which certain institutionalized mentally ill may receive SSI benefits if such individuals are expected to return home upon discharge. Provides Medicaid coverage for certain SSI recipients who are chronically mentally ill and would be institutionalized but for such coverage. Preserves the eligibility of such individuals for SSI benefits for the period during which they are in transitional living facilities. Repeals limits on coverage of outpatient services relating to mental illness under part B (Supplementary Medical Insurance) of Medicare.</summary>
+</bill>

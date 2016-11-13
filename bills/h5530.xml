@@ -1,0 +1,46 @@
+<bill session="100" type="h" number="5530" updated="2014-03-22T09:53:39-04:00">
+  <state datetime="1988-10-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-10-14"/>
+  </status>
+  <introduced datetime="1988-10-14"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XI of the Social Security Act to exclude, from paticipation in the medicare program and State health care programs, physicians who have been found to have violated regulations governing the investigational use of new drugs.</title>
+  </titles>
+  <sponsor id="400387"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-10-14" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-22">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-11-17">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Drug safety and regulation"/>
+    <term name="Drugs and narcotics"/>
+    <term name="Health"/>
+    <term name="Medical personnel"/>
+    <term name="Medicare"/>
+    <term name="Pharmaceutical research"/>
+    <term name="Physicians"/>
+  </subjects>
+  <amendments/>
+  <summary>10/14/1988--Introduced.
+Amends part A (General Provisions) of title XI of the Social Security Act to authorize the Secretary of Health and Human Services to exclude physicians who violate Federal Food, Drug, and Cosmetic Act regulations governing the investigational use of new drugs from participation in the Medicare program (title XVIII of the Social Security Act) and State health care programs.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="1255" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-21"/>
+  </status>
+  <introduced datetime="1987-05-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the accelerated repayment of the Grand Valley Project, and for other purposes.</title>
+  </titles>
+  <sponsor id="400927"/>
+  <cosponsors>
+    <cosponsor id="411801" joined="1987-05-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Referred to Subcommittee on Water and Power.</text>
+    </action>
+    <action datetime="1988-01-27">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG03" subcommittee="Water and Power" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Colorado"/>
+    <term name="Electric power"/>
+    <term name="Energy"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/1987--Introduced.
+Provides for the repayment of the Grand Valley Reclamation Project (Colorado) through the sale or development of power or power privileges. Authorizes the Secretary of the Interior, upon final payment, to convey all U.S. interest in such Project to the Grand Valley Water Users Association and/or the Orchard Mesa Irrigation District, or their successors.</summary>
+</bill>

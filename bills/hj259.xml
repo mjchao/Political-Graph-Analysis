@@ -1,0 +1,67 @@
+<bill session="100" type="hj" number="259" updated="2014-03-22T09:53:47-04:00">
+  <state datetime="1987-04-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-28"/>
+  </status>
+  <introduced datetime="1987-04-28"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution concerning the April 1986 accident at the Chernobyl nuclear power plant in the Soviet Union.</title>
+  </titles>
+  <sponsor id="405409"/>
+  <cosponsors>
+    <cosponsor id="409251" joined="1987-04-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-28" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on International Economic Policy and Trade.</text>
+    </action>
+    <action datetime="1987-06-12">
+      <text>Executive Comment Requested from State, DOD.</text>
+    </action>
+    <action datetime="1987-06-12">
+      <text>Executive Comment Requested from DIA.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Executive Comment Received From DIA.</text>
+    </action>
+    <action datetime="1987-11-09">
+      <text>Unfavorable Executive Comment Received From State.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA04" subcommittee="International Economic Policy and Trade" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="119"/>
+    <bill relation="identical" session="100" type="sj" number="119"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Health facilities"/>
+    <term name="International cooperation"/>
+    <term name="Medical centers"/>
+    <term name="Medical statistics"/>
+    <term name="Negotiations"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear power plant accidents"/>
+    <term name="Nuclear power plants"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>4/28/1987--Introduced.
+Directs the Secretary of State to prepare and annually update a report describing the scientific, economic, environmental, agricultural, and public health effects, including the number of deaths and injuries, of the April 1986 accident at the Chernobyl nuclear power plant in the Soviet Union. Expresses the sense of the Congress that: (1) the President should initiate negotiations with the Soviet Union for the purpose of establishing an international medical center in the Soviet Union to treat victims of the Chernobyl nuclear accident; (2) such negotiations should include proposals that any concerned government should be allowed to send medical personnel to serve on the staff of such center and that the costs of operating such center should be shared among all participating nations; (3) the United States should participate in such center only if the center's facilities and services are made available to all who need them; and (4) the United States should encourage individuals and organizations from the private sector to donate or loan necessary medical equipment, supplies, and services to such center.</summary>
+</bill>

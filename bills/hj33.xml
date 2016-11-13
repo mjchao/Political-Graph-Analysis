@@ -1,0 +1,43 @@
+<bill session="100" type="hj" number="33" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States with respect to the English language.</title>
+  </titles>
+  <sponsor id="407700"/>
+  <cosponsors>
+    <cosponsor id="400544" joined="1987-03-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+    <action datetime="1988-05-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="13"/>
+    <bill relation="identical" session="100" type="sj" number="13"/>
+  </relatedbills>
+  <subjects>
+    <term name="Arts, culture, religion"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="English language"/>
+    <term name="Language and languages"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Constitutional Amendment - Proclaims the English language to be the official language of the United States. Grants the Congress the power to enforce this article by appropriate legislation.</summary>
+</bill>

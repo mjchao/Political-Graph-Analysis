@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="2490" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1987-05-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-21"/>
+  </status>
+  <introduced datetime="1987-05-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 10, United States Code, to provide for improved control of excess profits on negotiated defense contracts.</title>
+  </titles>
+  <sponsor id="404634"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-21" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Referred to Subcommittee on Procurement and Military Nuclear Systems.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS07" subcommittee="Procurement and Military Nuclear Systems" name="House Armed Services"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Accounting"/>
+    <term name="Cost accounting"/>
+    <term name="Costs"/>
+    <term name="Defense contracts"/>
+    <term name="Defense procurement"/>
+    <term name="Economics and public finance"/>
+    <term name="Government contractors"/>
+    <term name="Government procurement"/>
+    <term name="Profit"/>
+    <term name="Public Contracts, Procurement, and Property"/>
+  </subjects>
+  <amendments/>
+  <summary>5/21/1987--Introduced.
+Amends Federal defense procurement provisions to require profits on negotiated contracts of the Department of Defense (DOD) to be reasonable, as determined under standards prescribed under the Renegotiation Act of 1951. Directs the Comptroller General to examine each negotiated defense contract in excess of $10,000,000 and certify to the Congress whether the profit allowed under the contract is reasonable. Requires the Comptroller General to again examine and certify the reasonableness of profit after the contract is actually paid. Directs the Comptroller General, no later than March 31 of each year, to report to the Congress on the reasonableness of profits paid on negotiated defense contracts during the preceding fiscal year, requiring certain specified information to be contained in each such report. Makes these provisions applicable to contracts entered into after the 180-day period beginning on the date of enactment of this Act.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="2525" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1987-05-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-27"/>
+  </status>
+  <introduced datetime="1987-05-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to repeal the War Powers Resolution.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-27" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Americans in foreign countries"/>
+    <term name="Armed forces abroad"/>
+    <term name="Armed forces and national security"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional-Presidential relations"/>
+    <term name="Presidential powers"/>
+    <term name="Presidents and Vice Presidents"/>
+    <term name="War"/>
+    <term name="War and emergency powers"/>
+  </subjects>
+  <amendments/>
+  <summary>5/27/1987--Introduced.
+Repeals the War Powers Resolution.</summary>
+</bill>

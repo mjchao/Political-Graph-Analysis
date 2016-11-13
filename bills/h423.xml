@@ -1,0 +1,47 @@
+<bill session="100" type="h" number="423" updated="2014-03-22T09:51:20-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Social Security Refinancing Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Social Security Act and the Internal Revenue Code of 1954 to reduce Social Security taxes and apply the proceeds thereof exclusively to the financing of the Old-Age Survivors, and Disability Insurance Program, with the Medicare Program being hereafter financed from general revenues (earmarking a portion of Federal income tax receipts for that purpose) rather than through the imposition of employment and self-employment taxes as at present.</title>
+  </titles>
+  <sponsor id="409353"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+    <action datetime="1987-01-21">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Economics and public finance"/>
+    <term name="Government trust funds"/>
+    <term name="Health"/>
+    <term name="Income tax"/>
+    <term name="Medicare"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social security finance"/>
+    <term name="Social security taxes"/>
+    <term name="Tax rates"/>
+    <term name="Tax returns"/>
+    <term name="Taxation"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Social Security Refinancing Amendments of 1987 - Title I: Financing of Old Age, Survivors and Disability Insurance Program - Amends the Internal Revenue Code to reduce the tax rates applicable to employers, employees, and self-employed individuals for old age, survivors and disability insurance. Amends title II (Old Age, Survivors and Disability Insurance) of the Social Security Act to reduce the level of appropriations from general Federal revenues to the Federal Disability Insurance Trust Fund. Title II: Financing of Medicare Program - Eliminates taxation of employers, employees, and self-employed individuals for purposes of hospital insurance beginning in the 1980 calendar year. Amends title XVIII (Medicare) of the Social Security Act to provide financing for the Medicare program with appropriations from general revenues earmarked by the Secretary of the Treasury in consultation with the Secretary of Health and Human Services. Bases such appropriations on the expected needs of the Federal Hospital Insurance Trust Fund in each fiscal year allocated among individual tax receipts according to a specified formula. Requires an equal amount to be allocated from corporate tax returns. Directs each Advisory Council on Social Security after 1979 to submit a separate report on the Medicare program and its financing. Title III: Miscellaneous Provisions - Directs the Secretary of the Treasury to print on each individual tax return form notice of the amount of the individual's Federal income tax which will be allocated to the Medicare program.</summary>
+</bill>

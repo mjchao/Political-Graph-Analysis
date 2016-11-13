@@ -1,0 +1,80 @@
+<bill session="100" type="hc" number="164" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-07-23">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-23"/>
+  </status>
+  <introduced datetime="1987-07-22"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to recognize the importance of the agricultural export enhancement program.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="403203" joined="1987-07-23"/>
+    <cosponsor id="403864" joined="1987-07-23"/>
+    <cosponsor id="403873" joined="1987-07-23"/>
+    <cosponsor id="404602" joined="1987-07-22"/>
+    <cosponsor id="405114" joined="1987-07-23"/>
+    <cosponsor id="405580" joined="1987-07-23"/>
+    <cosponsor id="406111" joined="1987-07-23"/>
+    <cosponsor id="407069" joined="1987-07-22"/>
+    <cosponsor id="407162" joined="1987-07-23"/>
+    <cosponsor id="408097" joined="1987-07-23"/>
+    <cosponsor id="410084" joined="1987-07-23"/>
+    <cosponsor id="410251" joined="1987-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-22" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-07-23" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-07-23">
+      <text>House Committee on Agriculture Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>House Committee on Foreign Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <calendar datetime="1987-07-28" calendar="Senate Legislative" under="General Orders" number="264">
+      <text>Received in the Senate. Placed on Senate Legislative Calendar under General Orders. Calendar No. 264.</text>
+    </calendar>
+    <action datetime="1987-08-05">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, Markup, Discharged"/>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hc" number="163"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural subsidies"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Agriculture in foreign trade"/>
+    <term name="Export subsidies"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade promotion"/>
+    <term name="Nontariff trade barriers"/>
+    <term name="Trade negotiations"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/1987--Introduced.
+Declares that the Congress recognizes the importance of the agricultural export enhancement program under the Food Security Act of 1985: (1) to multilateral trade negotiations; (2) to counter agricultural subsidies and unfair practices of foreign countries; and (3) as a transitional tool in implementing such Act. Expresses the sense of the Congress that the Secretary of Agriculture should provide sufficient funding under the Commodity Credit Corporation Charter Act for FY 1987 through 1990 to carry out agricultural export enhancement initiatives.</summary>
+</bill>

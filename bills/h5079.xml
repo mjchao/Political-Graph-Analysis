@@ -1,0 +1,52 @@
+<bill session="100" type="h" number="5079" updated="2014-03-22T09:53:32-04:00">
+  <state datetime="1988-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-14"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="short" as="introduced">New River Regional Development Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the National Parks and Recreation Act of 1978 to authorize certain facilities at the New River Gorge National River in West Virginia.</title>
+  </titles>
+  <sponsor id="400331"/>
+  <cosponsors>
+    <cosponsor id="410245" joined="1988-07-14"/>
+    <cosponsor id="400614" joined="1988-07-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-07-28">
+      <text>Referred to Subcommittee on Surface Transportation.</text>
+    </action>
+    <action datetime="1988-07-29">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPW03" subcommittee="Surface Transportation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Highway construction and repair"/>
+    <term name="Highway finance"/>
+    <term name="Highway planning"/>
+    <term name="Limited access highways"/>
+    <term name="Parks"/>
+    <term name="Rivers"/>
+    <term name="Roads and highways"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="West Virginia"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Introduced.
+New River Regional Development Act of 1988 - Amends the National Parks and Recreation Act of 1978 to require the Secretary of the Interior to construct for public use a scenic overlook and visitor information facility at the New River Gorge National River in West Virginia. Authorizes the Secretary to acquire lands outside the boundaries of such River. Requires the Secretary to conduct a study, including planning and design, regarding upgrading to parkway status of a specified segment of Route 9, West Virginia. Authorizes the use of funds from the Highway Trust Fund.</summary>
+</bill>

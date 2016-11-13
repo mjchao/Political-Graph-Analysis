@@ -1,0 +1,195 @@
+<bill session="100" type="s" number="11" updated="2014-12-10T13:15:35-05:00">
+  <state datetime="1988-11-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-18"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Veterans' Administration Adjudication Procedure and Judicial Review Act</title>
+    <title type="short" as="enacted" partial="1">Veterans' Benefits Improvement Act of 1988</title>
+    <title type="short" as="enacted" partial="1">Veterans' Judicial Review Act</title>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to establish certain procedures for the adjudication of claims for benefits under laws administered by the Veterans' Administration; to apply the provisions of section 553 of title 5, United States Code, to rulemaking procedures of the Veterans' Administration; to provide for judicial review of certain final decisions of the Administrator of Veterans' Affairs; to provide for the payment of reasonable fees to attorneys for rendering legal representation to individuals claiming benefits under laws administered by the Veterans' Administration; and for other purposes.</title>
+    <title type="official" as="amended by senate">A bill to amend title 38, United States Code, to establish certain procedures for the adjudication of claims for benefits under laws administered by the Veterans' Administration; to apply the provisions of section 553 of title 5, United States Code, to rule-making procedures of the Veterans' Administration; to provide for judicial review of certain final decisions of the Board of veterans' Appeals; to provide for the payment of reasonable fees to attorneys for rendering legal representation to individuals claiming benefits under laws administered by the Veterans' Administration, and for other purposes.</title>
+  </titles>
+  <sponsor id="402990"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-07-09"/>
+    <cosponsor id="300009" joined="1987-01-06"/>
+    <cosponsor id="402004" joined="1987-03-03"/>
+    <cosponsor id="402023" joined="1987-01-06"/>
+    <cosponsor id="402495" joined="1987-01-06"/>
+    <cosponsor id="402727" joined="1987-01-06"/>
+    <cosponsor id="300031" joined="1987-06-02"/>
+    <cosponsor id="403346" joined="1987-01-06"/>
+    <cosponsor id="403669" joined="1987-01-06"/>
+    <cosponsor id="404679" joined="1987-01-06"/>
+    <cosponsor id="405321" joined="1987-01-06"/>
+    <cosponsor id="406084" joined="1987-01-06"/>
+    <cosponsor id="300059" joined="1987-01-06"/>
+    <cosponsor id="300060" joined="1987-01-06"/>
+    <cosponsor id="300064" joined="1988-05-20"/>
+    <cosponsor id="300065" joined="1987-01-06"/>
+    <cosponsor id="300066" joined="1987-01-06"/>
+    <cosponsor id="407268" joined="1987-01-06"/>
+    <cosponsor id="407622" joined="1987-01-06"/>
+    <cosponsor id="407786" joined="1987-01-06"/>
+    <cosponsor id="408898" joined="1987-01-06"/>
+    <cosponsor id="300082" joined="1988-02-18"/>
+    <cosponsor id="409225" joined="1987-01-06"/>
+    <cosponsor id="300084" joined="1987-01-06"/>
+    <cosponsor id="300086" joined="1987-01-06"/>
+    <cosponsor id="409580" joined="1987-01-06"/>
+    <cosponsor id="409917" joined="1987-01-06"/>
+    <cosponsor id="409923" joined="1987-01-06"/>
+    <cosponsor id="410242" joined="1987-01-06"/>
+    <cosponsor id="411762" joined="1987-01-06"/>
+    <cosponsor id="411801" joined="1987-04-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <action datetime="1988-04-28">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+    <action datetime="1988-07-07">
+      <text>Committee on Veterans. Reported to Senate by Senator Cranston with an amendment in the nature of a substitute and an amendment to the title. With written report No. 100-418. Additional views filed.</text>
+    </action>
+    <calendar datetime="1988-07-07" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="790">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 790.</text>
+    </calendar>
+    <action datetime="1988-07-11">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="239" datetime="1988-07-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Yea-Nay Vote. 86-11. Record Vote No: 239.</text>
+    </vote>
+    <action datetime="1988-07-26">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Committee Hearings Held.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>House Committee on Veterans' Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-03">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-03" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-03">
+      <text>House Incorporated H.R.5288 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-18" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendment with an amendment (sp 3726) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-18">
+      <text>Senate disagreed to the House amendment to the title by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>House Concurred in Senate Amendments to House Amendments, with Amendments, by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate amendments.</text>
+    </action>
+    <vote how="by Voice Vote" type="pingpong" datetime="1988-10-20" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendments to the Senate amendments to House amendments to the text by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-20">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-07">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-07">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-687" type="public" datetime="1988-11-18">
+      <text>Became Public Law No: 100-687.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, Reporting"/>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, Hearings, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4741"/>
+    <bill relation="unknown" session="100" type="h" number="5288"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Administrative procedure"/>
+    <term name="Administrative remedies"/>
+    <term name="Advice and consent of the Senate"/>
+    <term name="Agent Orange"/>
+    <term name="Appellate courts"/>
+    <term name="Cemeteries and funerals"/>
+    <term name="Claims"/>
+    <term name="Counseling"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Courts of special jurisdiction"/>
+    <term name="Damages"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government liability"/>
+    <term name="Government life insurance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government procurement"/>
+    <term name="Grants-in-aid"/>
+    <term name="Health surveys"/>
+    <term name="Historic sites"/>
+    <term name="Income"/>
+    <term name="Insurance premiums"/>
+    <term name="Judicial review"/>
+    <term name="Judicial review of administrative acts"/>
+    <term name="Jurisdiction"/>
+    <term name="Land transfers"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal fees"/>
+    <term name="Medical tests"/>
+    <term name="Monuments and memorials"/>
+    <term name="Nursing homes"/>
+    <term name="Philippines"/>
+    <term name="Presidential appointments"/>
+    <term name="Products liability"/>
+    <term name="Radiation"/>
+    <term name="Soldiers' homes"/>
+    <term name="Survivors' benefits"/>
+    <term name="Tennessee"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' education"/>
+    <term name="Veterans' employment"/>
+    <term name="Veterans' hospitals"/>
+    <term name="Veterans' medical care"/>
+    <term name="Veterans' pensions"/>
+    <term name="Veterans' rehabilitation"/>
+    <term name="Vietnam veterans"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2542"/>
+    <amendment number="s2543"/>
+    <amendment number="s3726"/>
+  </amendments>
+  <summary>10/19/1988--House agreed to Senate amendment with amendment.
+(House agreed to Senate amendments with amendments) Division A: Veterans' Judicial Review - Veterans' Judicial Review Act - Title I: Adjudicative and Rulemaking Authority of the Veterans' Administration - Directs the Administrator of Veterans Affairs to ensure that Veterans Administration (VA) rulemaking and judicial review procedures of comply with relevant provisions of the Administrative Procedure Act. Provides for judicial review of VA decisions in the Federal court system. Provides that the benefit of the doubt in resolving an issue material to the determination of a veteran's claim for benefits made through the VA shall be given to the claimant. Directs the Administrator to: (1) reopen a claim when new and material evidence is presented or secured; and (2) secure an advisory medical opinion in appropriate cases. Revises provisions relating to the payment by the Administrator of fees to attorneys handling claims for veterans' benefits. Title II: Board of Veterans' Appeals - Revises provisions relating to the establishment and jurisdiction of the Board of Veterans' Appeals to provide that the Chairman of the Board shall be appointed by the President by and with the advice and consent of the Senate. (Currently, the Chairman is appointed by the Administrator.) Provides that the other members of the Board shall be appointed by the Administrator. Requires that decisions of the Board be made by a majority of the members. (Currently, unanimous consent is required.) Provides that such decision is final unless the Chairman orders reconsideration of the case. Requires the decisions of the Board to be based upon the entire record in the proceeding and upon consideration of all the evidence. Requires each decision of the Board to include: (1) a written statement of the Board's findings and conclusions; and (2) an order granting appropriate relief. Outlines matters to be included in an appellate court's statement of the case. Prohibits a presumption of agreement by the claimant in the case with any statement of fact made in the statement of the case. Title III: United States Court of Veterans Appeals - Establishes a court to be known as the United States Court of Veterans Appeals. Empowers the Court to decide all relevant questions of law, interpret constitutional, statutory, and regulatory provisions, and determine the meaning or applicability of the terms of an action of the Administrator. Outlines administrative provisions concerning such Court relating to: (1) fees for filing appeals; (2) representation of parties and fee agreements; (3) rules of practice and procedure; (4) contempt authority of the Court; (5) notice of appeal; (6) decisions; (7) the availability of proceedings; and (8) the publication of decisions. Outlines further provisions with respect to: (1) employees and expenditures of the Court; and (2) certain fees associated with proceedings brought before the Court. Outlines provisions for the determination of the date when a decision of the Court becomes final, with a different date determined if the decision of the Court: (1) is not appealed in a timely manner; (2) is modified or reversed by the Supreme Court; or (3) a rehearing is ordered. Provides procedural guidelines for review of a decision of the Court by the U.S. Court of Appeals for the Federal Circuit involved, providing that such Federal court shall have exclusive jurisdiction to review and decide any challenge to the validity of any statute or regulation or any interpretation thereof brought under these provisions, and to interpret constitutional and statutory provisions. Provides that the judgment of such court shall be final, except that it may be subject to review by the Supreme Court upon certiorari. Prohibits the Court of Appeals from reviewing a factual or legal challenge to a case unless a constitutional issue is presented. Provides for the appointment of the Chief Judge to the Court. Outlines provisions for the appointment of the remaining judges to such Court. Provides a facility for the principal office of the Court. Title IV: Effective Dates and Applicability - Sets forth effective dates and rules concerning the applicability of this Act to current cases and attorneys fees. Division B: Veterans' Benefits Improvements - Veterans' Benefits Improvement Act of 1988 - Title XI: Compensation Rate Increases (SIC) - Increases the rates of the following: (1) veterans' disability compensation; (2) additional compensation for dependents; (3) the clothing allowance for certain disabled veterans; and (4) dependency and indemnity compensation for children. Title XII: Agent Orange and Related Provisions - Provides that certain funds appropriated under prior law shall be available for: (1) the Air Force for blood tests for possible Agent Orange victims in the Vietnam era; and (2) the payment of expenses for a survey of health effects as the result of exposure to toxic chemicals and other herbicides in the Republic of Vietnam during the Vietnam era. Extends through 1990 health-care benefits eligibility for veterans suffering from a disease based on Agent Orange or ionizing radiation exposure. Prohibits legal settlement payments received in a certain Agent Orange product liability case from being counted as "income" for purposes of eligibility for certain needs-based benefits. Directs the Administrator to conduct an outreach program for furnishing outreach services to Vietnam veterans and providing information to such veterans on health risks associated with such military service. Requires that, after February 28, 1989: (1) a specified number of the members of the Ranch Hand Advisory Committee shall be individuals selected by the Secretary of Health and Human Services; and (2) the Chairman of such Committee may be a Government officer or employee only if the Secretary makes certain determinations with regard to his or her qualifications. Requires certain reports concerning the findings and progress of the Committee. Title XIII: Rehabilitation Provisions - Extends through January 31, 1992, temporary programs of trial work periods and vocational rehabilitation evaluations. Revises provisions concerning funding for veterans' educational and vocational counseling services. Extends through January 31, 1992, the program period for: (1) vocational training for certain new veterans' pension recipients; and (2) temporary protection of health-care eligibility for any veteran whose pension is terminated. Title XIV: Miscellaneous Benefit Provisions - Provides authority for the payment of interest on veterans' insurance settlements. Authorizes the Administrator to adjust periodically the discount rates for veterans' insurance premiums paid in advance. Excludes: (1) casualty loss payments under parents' dependency and indemnity compensation; and (2) pension payments from income for purposes of eligibility for certain needs-based benefits. Directs the Administrator to pay certain benefits to the surviving spouse and dependents of a veteran rated totally disabled at the time of death and whose death was not the result of the veteran's willful misconduct. Sets forth certain conditions required in order to be eligible for such payments. Title XV: Health Care - Authorizes the Administrator, when determined necessary under circumstances beyond the control of the VA, to relocate a VA counseling facility away from a VA general health-care facility. Extends through FY 1990 certain contracts and grants for medical care for U.S. veterans in the Republic of the Philippines. Increases the annual authorization for such grants. Directs the Administrator to submit to the House and Senate Committees on Veterans' Affairs certain reports concerning such care at the Veterans Memorial Medical Center and other treatment centers in the Philippines. Ratifies certain action of the Administrator in contracting with facilities other than VA facilities for the furnishing of medical services by contract to certain veterans who applied for such care after a specified date. Authorizes the Administrator to transfer certain real property in Rutherford County, Tennessee, for use by the State of Tennessee as a nursing care facility. Authorizes the Administrator, under certain conditions, to transfer certain excess properties for use as State home facilities. Requires directors of VA facilities, except under certain circumstances, to become career appointees in the Senior Executive Service. Requires certain reports from the Administrator to the veterans' committees on the number of VA health-care items procured through local contracts. Title XVI: Cemetery and Memorial Provisions - Extends for five additional years the authorization of appropriations for the State cemetery grant program. Directs the American Battle Monuments Commission, under certain conditions, to restore, operate, and maintain the Pacific War Memorial and other historical and memorial sites on the island of Corregidor in the Republic of the Philippines. Outlines administrative provisions relating to such restoration by the Commission. Authorizes appropriations.</summary>
+</bill>

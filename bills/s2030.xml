@@ -1,0 +1,177 @@
+<bill session="100" type="s" number="2030" updated="2014-03-22T09:55:33-04:00">
+  <state datetime="1988-11-18">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-18"/>
+  </status>
+  <introduced datetime="1988-02-02"/>
+  <titles>
+    <title type="short" as="introduced">Ocean Dumping Reform Act of 1988</title>
+    <title type="short" as="reported to senate">Ocean Dumping Reform Act of 1988</title>
+    <title type="short" as="passed senate" partial="1">Ocean Dumping Reform Act of 1988</title>
+    <title type="short" as="passed senate" partial="1">Shore Protection Act of 1988</title>
+    <title type="short" as="enacted">Ocean Dumping Ban Act of 1988</title>
+    <title type="short" as="enacted" partial="1">Shore Protection Act of 1988</title>
+    <title type="short" as="enacted" partial="1">United States Public Vessel Medical Waste Anti-Dumping Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Marine Protection, Research, and Sanctuaries Act.</title>
+  </titles>
+  <sponsor id="300064"/>
+  <cosponsors>
+    <cosponsor id="300008" joined="1988-02-02"/>
+    <cosponsor id="401709" joined="1988-02-02"/>
+    <cosponsor id="402412" joined="1988-02-02"/>
+    <cosponsor id="403142" joined="1988-08-05"/>
+    <cosponsor id="300034" joined="1988-06-22"/>
+    <cosponsor id="400563" joined="1988-08-05"/>
+    <cosponsor id="300082" joined="1988-08-04"/>
+    <cosponsor id="400565" joined="1988-02-02"/>
+    <cosponsor id="409562" joined="1988-07-14"/>
+    <cosponsor id="300086" joined="1988-08-09"/>
+    <cosponsor id="411421" joined="1988-05-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee on Environmental Protection. Approved for full committee consideration with an amendment in the nature of a substitute favorably.</text>
+    </action>
+    <calendar datetime="1988-06-23" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-07-26">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick with an amendment in the nature of a substitute. With written report No. 100-431. Additional views filed.</text>
+    </action>
+    <calendar datetime="1988-07-26" calendar="Senate Legislative" under="General Orders" number="839">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 839.</text>
+    </calendar>
+    <action datetime="1988-08-09">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="300" datetime="1988-08-09" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Yea-Nay Vote. 97-0. Record Vote No: 300.</text>
+    </vote>
+    <action datetime="1988-09-07">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-04" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-04">
+      <text>House Incorporated H.R.5430 in This Measure as an Amendment.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>House Insisted on its Amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>House Requested a Conference and Speaker Appointed Conferees: Jones (NC), Studds, Lowry (WA), Hughes, Carper, Manton, Davis (MI), Lent, Schneider, Saxton.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>House Requested a Conference and Speaker Appointed Conferees: Anderson, Roe, Mineta, Oberstar, Nowak, Towns, Hammerschmidt, Stangeland, Molinari, Gallo.</text>
+    </action>
+    <action datetime="1988-10-05">
+      <text>Message on House action received in Senate and held at desk: House amendments to Senate bill and House requests a conference.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Senate disagreed to the House amendments by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Senate agreed to request for conference. Appointed conferees. Moynihan; Burdick; Mitchell; Lautenberg; Chafee; Stafford; Pressler.</text>
+    </action>
+    <action datetime="1988-10-07">
+      <text>Conferees agreed to file conference report.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Conference Report 100-1090 Filed in House.</text>
+    </action>
+    <action datetime="1988-10-18">
+      <text>Conference papers: Senate report and managers' statement and official papers held at the desk in Senate.</text>
+    </action>
+    <vote how="by Voice Vote" type="conference" datetime="1988-10-18" where="s" result="pass" state="CONFERENCE:PASSED:SENATE">
+      <text>Senate agreed to conference report by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-19">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>House Agreed to Conference Report by Voice Vote.</text>
+    </action>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-11-08">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-11-08">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-18" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-688" type="public" datetime="1988-11-18">
+      <text>Became Public Law No: 100-688.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee activity="Markup, Reporting" code="SSEV02" subcommittee="Environmental Protection" name="Senate Environment and Public Works"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3478"/>
+    <bill relation="unknown" session="100" type="h" number="3595"/>
+    <bill relation="unknown" session="100" type="h" number="5081"/>
+    <bill relation="unknown" session="100" type="h" number="5231"/>
+    <bill relation="unknown" session="100" type="h" number="5249"/>
+    <bill relation="unknown" session="100" type="h" number="5430"/>
+    <bill relation="unknown" session="100" type="h" number="5450"/>
+  </relatedbills>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Administrative fees"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Electronic surveillance"/>
+    <term name="Estuaries"/>
+    <term name="Federal aid to water pollution control"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Florida"/>
+    <term name="Government trust funds"/>
+    <term name="Hazardous waste disposal"/>
+    <term name="Health facilities"/>
+    <term name="Industrial pollution"/>
+    <term name="Landfills"/>
+    <term name="Licenses"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Louisiana"/>
+    <term name="Marine transportation"/>
+    <term name="Massachusetts"/>
+    <term name="Medical supplies"/>
+    <term name="Municipal services"/>
+    <term name="New Jersey"/>
+    <term name="New York City"/>
+    <term name="New York State"/>
+    <term name="Ocean"/>
+    <term name="Refuse and refuse disposal"/>
+    <term name="Sewage sludge"/>
+    <term name="Ships"/>
+    <term name="User charges"/>
+    <term name="Waste disposal in rivers, lakes, etc."/>
+    <term name="Waste disposal in the ocean"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water pollution measurement"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2822"/>
+    <amendment number="s2823"/>
+    <amendment number="s2824"/>
+    <amendment number="s2825"/>
+    <amendment number="s2826"/>
+  </amendments>
+  <summary>10/18/1988--Conference report filed in House.
+(Conference report filed in House, H. Rept. 100-1090) Ocean Dumping Ban Act of 1988 - Title I: Ocean Dumping of Sewage Sludge and Industrial Waste - Amends the Marine Protection, Research, and Sanctuaries Act of 1972 to prohibit all dumping of sewage sludge and industrial waste into the ocean after 1991. Prohibits the Administrator of the Environmental Protection Agency (EPA) from issuing a sewage sludge or industrial waste ocean dumping permit to persons who did not have such a permit on September 1, 1988. Prohibits persons from dumping sewage sludge or industrial waste into the ocean on and after the 270th day after this Act's enactment, unless they have a permit and have entered into a compliance or enforcement agreement with their State and the Administrator which includes a schedule for phasing-out and terminating ocean dumping. Imposes fees on ocean dumpers for each dry ton of sewage sludge or industrial waste dumped, increasing such fees with the approach of 1992. Apportions amounts collected in the form of fees and dumping penalties imposed pursuant to this Act to: (1) a trust account to be established by dumpers for use in developing and implementing alternative disposal methods; (2) the EPA for ocean dumping enforcement, monitoring, and research activities; (3) State Clean Oceans Funds to be used by States in providing assistance to dumpers in implementing alternative disposal methods; and (4) water pollution control revolving funds established by States under the Federal Water Pollution Control Act. Waives such fees, other than those apportioned to the EPA, for persons who enter a compliance agreement. Requires the Administrator to issue an order against an individual violating this title's dumping provision which requires that such violator obtain a permit and enter into a compliance or enforcement agreement before continuing such dumping. Authorizes the Administrator to request the Attorney General to commence a civil action against such violators. Sets forth State and EPA reporting requirements. Requires the Administrator to design a dumpsite monitoring program which shall be conducted by the Administrator and the Under Secretary of Commerce for Oceans and Atmosphere. Sets forth reporting requirements. Directs the Administrator to report to the Congress, within six months of this Act's enactment, on progress made in using electronic monitoring equipment and other means to monitor and prevent dumping of sewage sludge outside the 106-Mile Ocean Waste Dump Site. Prohibits the disposal of sewage sludge at landfills on Staten Island, New York. Requires New York and New Jersey to use ten percent of their water pollution control revolving fund grants under the Federal Water Pollution Control Act and ten percent of their contributions associated with such grants, in the six months after receiving such grants, to provide loans and other assistance to persons developing alternatives to ocean dumping. Directs the Administrator to report to the Congress, within six months of this Act's enactment, on ocean discharge guidelines established pursuant to the Federal Water Pollution Control Act. Title II: Designation of Areas for Priority Consideration under National Estuary Program - Designates Massachusetts Bay, Massachusetts; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York for priority consideration under the National Estuary Program. Title III: Dumping of Medical Waste - Subtitle A: Dumping by Public Vessels - United States Public Vessel Medical Waste Anti-Dumping Act of 1988 - Prohibits a public vessel from dumping potentially infectious medical waste into the ocean unless: (1) the health and safety of individuals on board the vessel is threatened; (2) there is a war or declared national emergency; or (3) the waste is disposed of beyond 50 nautical miles from the nearest land and is sterilized (if the vessel is nonsubmersible), properly packaged and sufficiently weighted to prevent it from coming to shore. Requires Federal agency heads to issue guidance for vessels under their jurisdiction. Subtitle B: Dumping by Vessels - Amends the Marine Protection, Research, and Sanctuaries Act of 1972 and the Federal Water Pollution Control Act to prohibit the dumping of medical wastes into the ocean or navigable waters. Sets forth civil monetary penalties, criminal penalties and forfeitures to which violators are subject. Title IV: Shore Protection Act of 1988 - Shore Protection Act of 1988 - Subtitle A: Shore Protection - Requires that vessels carrying municipal or commercial waste within U.S. waters have a permit from the Secretary of Transportation and display a number or other prescribed marking. Provides that such permits shall not run beyond renewable five-year terms and shall terminate when the vessel is sold. Authorizes the Secretary to collect permit fees. Provides that the Secretary is authorized to, and, at the request of the Administrator, required to deny a permit to any vessel for which the owner or operator has a record of a pattern of serious violations of this subtitle or certain other Federal environmental laws. Requires that owners or operators of waste sources make sure that waste material is properly loaded, secured, and offloaded. Requires the Administrator to promulgate regulations further defining such responsibilities. Establishes civil and criminal penalties for violations of this subtitle as well as actions that the Secretary and Administrator are authorized to take to enforce this subtitle. Subtitle B: Related Provisions - Directs the Administrator to conduct a study and report to the Congress, within two years of this Act's enactment, regarding the need for and effectiveness of additional tracking systems for vessels to assure that municipal and commercial waste is not disposed of in U.S. waters. Directs the Secretary to provide recommendations to the Administrator concerning the various tracking systems that might be applicable to vessels transporting municipal or commercial waste. Authorizes appropriations for FY 1989 and 1990 to carry out this title.</summary>
+</bill>

@@ -1,0 +1,51 @@
+<bill session="100" type="h" number="3875" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-02-02">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-02-02"/>
+  </status>
+  <introduced datetime="1988-01-28"/>
+  <titles>
+    <title type="short" as="introduced">Civil Service Due Process Amendments</title>
+    <title type="short" as="passed house">Civil Service Due Process Amendments</title>
+    <title type="official" as="introduced">A bill to amend title 5, United States Code, with respect to appeal rights for members of the excepted service affected by adverse personnel actions and with respect to the Merit Systems Protection Board.</title>
+  </titles>
+  <sponsor id="409650"/>
+  <cosponsors>
+    <cosponsor id="403695" joined="1988-01-28"/>
+    <cosponsor id="405646" joined="1988-01-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-28" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-02-02">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="3" datetime="1988-02-02" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 365 - 21 (Record Vote No: 3).</text>
+    </vote>
+    <action datetime="1988-02-03">
+      <text>Received in the Senate and read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral"/>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Civil service employment"/>
+    <term name="Civil service retirement"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Disciplining of employees"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Judicial review"/>
+    <term name="Judicial review of administrative acts"/>
+    <term name="Merit Systems Protection Board"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1988--Passed House amended.
+(Measure passed House, amended, roll call #3 (365-21)) Civil Service Due Process Amendments - Makes certain employees in the excepted service (civilian positions in the executive branch specifically excepted from civil service requirements) subject to adverse personnel action provisions respecting removal, suspension for more than 14 days, reduction in grade or pay, or furlough for 30 days or less. Excludes the following persons from such provisions: (1) presidential appointees; (2) retirees receiving an annuity from the Civil Service Retirement and Disability Fund or the Foreign Service Retirement and Disability Fund; (3) National Guard technicians; (4) members of the Foreign Service; (5) employees of the Central Intelligence Agency, the General Accounting Office, or the Department of Medicine and Surgery of the Veterans Administration; (6) employees who are not preference eligibles in the U.S. Postal Service, the Postal Rate Commission, the Federal Bureau of Investigation, the National Security Agency, or the Tennessee Valley Authority; and (7) aliens and non-citizens of the United States occupying positions outside the United States. Provides that an employee or applicant for employment who is the prevailing party in an appeal to the Merit Systems Protection Board shall be granted the relief provided in the Board's decision pending the outcome of any petition for review by the Board. Declares that such provision does not apply to the award of back pay or attorney's fees before the decision has become final. Prohibits an individual's status under any retirement system from being taken into account in determining the appealability to the Board of any case involving a removal from service. Requires the Board to hold hearings or other proceedings near the employee's or applicant's job site unless the costs to the Government would be less elsewhere. Requires that the Board be named the respondent in any proceeding for judicial review of a Board decision. (Currently, the applicable agency is named the respondent.)</summary>
+</bill>

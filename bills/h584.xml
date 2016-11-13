@@ -1,0 +1,44 @@
+<bill session="100" type="h" number="584" updated="2014-03-22T09:51:24-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to permit visas to be issued to nationals of Cuba who are or were imprisoned in Cuba for political activities without regard to section 243(g) of the Immigration and Nationality Act.</title>
+  </titles>
+  <sponsor id="409205"/>
+  <cosponsors>
+    <cosponsor id="408621" joined="1987-01-08"/>
+    <cosponsor id="410066" joined="1987-01-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+    <action datetime="1987-03-03">
+      <text>Executive Comment Requested from State, Justice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Aliens"/>
+    <term name="Cuba"/>
+    <term name="Cubans"/>
+    <term name="Deportation"/>
+    <term name="Human rights"/>
+    <term name="International affairs"/>
+    <term name="Political prisoners"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Permits the issuance of visas to Cuban nationals who are or were imprisoned in Cuba for political activities without regard to an Immigration and Nationality Act provision prohibiting visas to nationals of a country which refuses or delays acceptance of deportees.</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="4401" updated="2014-03-22T09:53:12-04:00">
+  <state datetime="1988-04-19">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-04-19"/>
+  </status>
+  <introduced datetime="1988-04-19"/>
+  <titles>
+    <title type="short" as="introduced">Prevention of Telephone Pornography Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Communications Act of 1934 with respect to Dial-a-Porn.</title>
+  </titles>
+  <sponsor id="400165"/>
+  <cosponsors>
+    <cosponsor id="400571" joined="1988-04-19"/>
+    <cosponsor id="403403" joined="1988-04-19"/>
+    <cosponsor id="400600" joined="1988-04-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="roll" type="vote" roll="56" datetime="1988-04-19" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Yea-Nay Vote: 380 - 22 (Record Vote No: 56).</text>
+    </vote>
+    <calendar datetime="1988-04-19" calendar="Senate Legislative" under="General Orders" number="615">
+      <text>Received in the Senate. Read twice. Placed on Senate Legislative Calendar under General Orders. Calendar No. 615.</text>
+    </calendar>
+    <action datetime="1988-04-20">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Communications and Broadcasting"/>
+    <term name="Crime prevention"/>
+    <term name="Pornography"/>
+    <term name="Telephone"/>
+  </subjects>
+  <amendments/>
+  <summary>4/19/1988--Introduced.
+Prevention of Telephone Pornography Act of 1988 - Amends the Communications Act of 1934 to prohibit any obscene or indecent telephone communication for commercial purposes to any person in the District of Columbia or in interstate or foreign communication. (Current law prohibits such communication to any person without his or her consent or to any person under 18 years of age.)</summary>
+</bill>

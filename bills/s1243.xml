@@ -1,0 +1,85 @@
+<bill session="100" type="s" number="1243" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1987-07-14">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-14"/>
+  </status>
+  <introduced datetime="1987-05-20"/>
+  <titles>
+    <title type="short" as="introduced">Intelligence Authorization Act, Fiscal Years 1988 and 1989</title>
+    <title type="short" as="reported to senate">Intelligence Authorization Act, Fiscal Years 1988 and 1989</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for fiscal years 1988 and 1989 for intelligence and intelligence-related activities of the United States Government, to Intelligence Community Staff, and the Central Intelligence Agency Retirement and Disability System, and for other purposes.</title>
+  </titles>
+  <sponsor id="401604"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-20">
+      <text>Committee on Intelligence. Original measure reported to Senate by Senator Boren. With written report No. 100-59.</text>
+    </action>
+    <action datetime="1987-05-20">
+      <text>Read twice and referred jointly to the Committees on Armed Services; Judiciary by unanimous consent for the thirty-day time period provided in section 3(b) of Senate Resolution 400, 94th Congress, provided that the Committee on the Judiciary be restricted to the consideration of Title IV; Provided further that if either committee fails to report within the thirty-day time limit, such committee shall be discharged from further consideration of the bill.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Committee on Armed Services. Committee consideration and Mark Up Session held.</text>
+    </action>
+    <calendar datetime="1987-07-14" state="REPORTED">
+      <text>Committee on Armed Services. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-07-17">
+      <text>Committee on Armed Services. Reported to Senate by Senator Nunn with an amendment. With written report No. 100-117.</text>
+    </action>
+    <calendar datetime="1987-07-17" calendar="Senate Legislative" under="General Orders" number="247">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 247.</text>
+    </calendar>
+    <action datetime="1987-07-17">
+      <text>Senate Committee on Judiciary discharged.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Senate incorporated this measure in H.R. 2112 as an amendment.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Senate passed companion measure H.R. 2112 in lieu of this measure by Voice Vote.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SLIN" name="Senate Intelligence (Select)" activity="Origin, Reporting"/>
+    <committee code="SSAS" name="Senate Armed Services" activity="Referral, Markup, Reporting"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2112"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Authorization"/>
+    <term name="Central Intelligence Agency"/>
+    <term name="Civil service retirement"/>
+    <term name="Department of Defense"/>
+    <term name="Diplomats"/>
+    <term name="Disability retirement"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal employees"/>
+    <term name="Federal employees and officials"/>
+    <term name="Government operations and politics"/>
+    <term name="Government trust funds"/>
+    <term name="Income tax"/>
+    <term name="Intelligence community staff"/>
+    <term name="Intelligence officers"/>
+    <term name="International affairs"/>
+    <term name="Military personnel"/>
+    <term name="National Security and Intelligence Operations"/>
+    <term name="Personnel management"/>
+    <term name="Tax exclusion"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments>
+    <amendment number="s632"/>
+  </amendments>
+  <summary>7/23/1987--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate, H.R. 2112 passed in lieu) Intelligence Authorization Act, Fiscal Years 1988 and 1989 - Title I: Intelligence Activities - Authorizes appropriations for FY 1988 and 1989 for intelligence activities in specified departments and agencies of the Government, including the Central Intelligence Agency and the Department of Defense. Declares that the authorized amounts and personnel ceilings for such intelligence activities are those specified in the classified schedule of authorizations prepared by the Select Committee on Intelligence of the Senate as amended by the Senate Committee on Armed Services. Authorizes the Director of Central Intelligence to employ civilian personnel in excess of the ceiling for such personnel when necessary to the performance of important intelligence functions. Requires the Director to notify the House and Senate Intelligence Committees whenever he exceeds the authorized ceiling. Title II: Intelligence Community Staff - Authorizes appropriations for the Intelligence Community Staff for FY 1988 and 1989. Establishes an end strength ceiling of 237 full-time Intelligence Community Staff Employees. Provides that such staff shall be administered in the same manner as the CIA. Title III: Central Intelligence Agency Retirement and Disability System - Authorizes appropriations for the Central Intelligence Agency Retirement and Disability Fund for FY 1988 and 1989. Title IV: Enhanced Counterintelligence and Security Capabilities - Requires the Attorney General to submit annual reports to the House and Senate Intelligence Committees on the admission to the United States, over the objections of the Federal Bureau of Investigation, of certain Soviet diplomatic personnel. Authorizes the Director of the Federal Bureau of Investigation to provide additional compensation to the New York Field Division to defray unusual living expenses associated with such employment. Title V: DOD Intelligence Personnel Improvements - Authorizes the Secretary of Defense to pay a uniform allowance to civilian employees of the Defense Attache Offices located outside the United States. Extends through FY 1989 the Secretary's special authority to terminate the employment of Defense Intelligence Agency employees and Department of Defense military intelligence personnel. Exempts the Defense Intelligence Agency from any requirement to disclose information on its organization, functions, or personnel. States that such exemption shall not apply to any responsibility of the DIA to report to the Congress. Amends the National Security Agency Act of 1959 to allow the Secretary of Defense to offer advanced training in certain skills critical to the mission of the National Security Agency. Title VI: General Provisions - Provides that the authorization of appropriations by this Act shall not constitute authority for the conduct of any intelligence activity which is not otherwise authorized by the Constitution or laws of the United States.</summary>
+</bill>

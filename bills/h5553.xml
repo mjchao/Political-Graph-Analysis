@@ -1,0 +1,62 @@
+<bill session="100" type="h" number="5553" updated="2014-03-22T09:53:40-04:00">
+  <state datetime="1988-10-21">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-10-21"/>
+  </status>
+  <introduced datetime="1988-10-20"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building and United States Courthouse located at 301 West Main Street in Benton, Illinois, as the "Kenneth J. Gray Federal Building and United States Courthouse".</title>
+  </titles>
+  <sponsor id="401923"/>
+  <cosponsors>
+    <cosponsor id="400895" joined="1988-10-20"/>
+    <cosponsor id="402763" joined="1988-10-20"/>
+    <cosponsor id="400082" joined="1988-10-20"/>
+    <cosponsor id="403242" joined="1988-10-20"/>
+    <cosponsor id="300038" joined="1988-10-20"/>
+    <cosponsor id="400126" joined="1988-10-20"/>
+    <cosponsor id="404009" joined="1988-10-20"/>
+    <cosponsor id="400169" joined="1988-10-20"/>
+    <cosponsor id="405256" joined="1988-10-20"/>
+    <cosponsor id="400243" joined="1988-10-20"/>
+    <cosponsor id="407069" joined="1988-10-20"/>
+    <cosponsor id="407676" joined="1988-10-20"/>
+    <cosponsor id="400604" joined="1988-10-20"/>
+    <cosponsor id="409422" joined="1988-10-20"/>
+    <cosponsor id="409500" joined="1988-10-20"/>
+    <cosponsor id="409593" joined="1988-10-20"/>
+    <cosponsor id="411947" joined="1988-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-10-20" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>House Committee on Public Works and Transportation Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-10-21">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-21" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-21">
+      <text>Received in the Senate and read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Discharged"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Courthouses"/>
+    <term name="Federal office buildings"/>
+    <term name="Illinois"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>10/20/1988--Introduced.
+Designates the Federal Building and United States Courthouse at 301 West Main Street, Benton, Illinois, as the Kenneth J. Gray Federal Building and United States Courthouse.</summary>
+</bill>

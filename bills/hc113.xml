@@ -1,0 +1,111 @@
+<bill session="100" type="hc" number="113" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-06-02">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-02"/>
+  </status>
+  <introduced datetime="1987-04-30"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution concerning military unrest in Argentina.</title>
+  </titles>
+  <sponsor id="406765"/>
+  <cosponsors>
+    <cosponsor id="400003" joined="1987-05-12"/>
+    <cosponsor id="400975" joined="1987-05-18"/>
+    <cosponsor id="401231" joined="1987-05-27"/>
+    <cosponsor id="401310" joined="1987-05-08"/>
+    <cosponsor id="400527" joined="1987-06-04"/>
+    <cosponsor id="400043" joined="1987-05-12"/>
+    <cosponsor id="300011" joined="1987-05-27"/>
+    <cosponsor id="400064" joined="1987-06-04"/>
+    <cosponsor id="402657" joined="1987-05-08"/>
+    <cosponsor id="402833" joined="1987-05-18"/>
+    <cosponsor id="403031" joined="1987-05-07"/>
+    <cosponsor id="400100" joined="1987-05-12"/>
+    <cosponsor id="403364" joined="1987-05-12"/>
+    <cosponsor id="403545" joined="1987-05-18"/>
+    <cosponsor id="404013" joined="1987-05-12"/>
+    <cosponsor id="404019" joined="1987-05-12"/>
+    <cosponsor id="404097" joined="1987-05-27"/>
+    <cosponsor id="400140" joined="1987-05-08"/>
+    <cosponsor id="404325" joined="1987-05-08"/>
+    <cosponsor id="404376" joined="1987-05-07"/>
+    <cosponsor id="404765" joined="1987-05-12"/>
+    <cosponsor id="405256" joined="1987-06-04"/>
+    <cosponsor id="405775" joined="1987-05-27"/>
+    <cosponsor id="406530" joined="1987-05-07"/>
+    <cosponsor id="400236" joined="1987-05-07"/>
+    <cosponsor id="406730" joined="1987-05-12"/>
+    <cosponsor id="400238" joined="1987-05-27"/>
+    <cosponsor id="406974" joined="1987-05-07"/>
+    <cosponsor id="406994" joined="1987-05-27"/>
+    <cosponsor id="400595" joined="1987-05-27"/>
+    <cosponsor id="407960" joined="1987-06-04"/>
+    <cosponsor id="408023" joined="1987-05-12"/>
+    <cosponsor id="408109" joined="1987-05-18"/>
+    <cosponsor id="400306" joined="1987-05-12"/>
+    <cosponsor id="408621" joined="1987-06-04"/>
+    <cosponsor id="400604" joined="1987-05-12"/>
+    <cosponsor id="400334" joined="1987-05-08"/>
+    <cosponsor id="409632" joined="1987-05-18"/>
+    <cosponsor id="409901" joined="1987-05-27"/>
+    <cosponsor id="400377" joined="1987-05-12"/>
+    <cosponsor id="410145" joined="1987-05-08"/>
+    <cosponsor id="410496" joined="1987-05-27"/>
+    <cosponsor id="410567" joined="1987-05-12"/>
+    <cosponsor id="410889" joined="1987-05-12"/>
+    <cosponsor id="400611" joined="1987-06-04"/>
+    <cosponsor id="411025" joined="1987-05-08"/>
+    <cosponsor id="411224" joined="1987-05-27"/>
+    <cosponsor id="411834" joined="1987-05-18"/>
+    <cosponsor id="411901" joined="1987-05-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-30" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-05-11">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-05-27">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-02" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-06-15">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1987-06-15">
+      <text>Resolution Agreed to in House (Amended) by Voice Vote.</text>
+    </action>
+    <action datetime="1987-06-16">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Argentina"/>
+    <term name="Commemorations"/>
+    <term name="Congressional tributes"/>
+    <term name="Coups d'etat"/>
+    <term name="Democracy"/>
+  </subjects>
+  <amendments/>
+  <summary>6/15/1987--Passed House amended.
+(Measure passed House, amended) Declares that: (1) President Alfonsin should be commended for his actions in resolving the recent military unrest in Argentina; and (2) the President of the United States is commended for taking prompt action and should continue to take all appropriate action to indicate U.S. support for the current democratic regime in Argentina and the principles of a democratic society for the people of Argentina.</summary>
+</bill>

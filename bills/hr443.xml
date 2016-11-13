@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="443" updated="2014-03-22T09:51:01-04:00">
+  <state datetime="1988-05-10">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-05-10"/>
+  </status>
+  <introduced datetime="1988-05-10"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 3193) to provide for the acquisition and publication of data about crimes that manifest prejudice based on race, religion, sexual orientation, or ethnicity.</title>
+  </titles>
+  <sponsor id="400143"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-10">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-617.</text>
+    </action>
+    <action datetime="1988-05-10">
+      <text>Placed on House Calendar No: 153.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="3193"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="Crime and law enforcement"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>5/10/1988--Introduced.
+Sets forth the rule for the consideration of H.R. 3193 (hate crime statistics).</summary>
+</bill>

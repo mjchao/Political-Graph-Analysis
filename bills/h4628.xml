@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="4628" updated="2014-03-22T09:53:21-04:00">
+  <state datetime="1988-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-18"/>
+  </status>
+  <introduced datetime="1988-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide temporary authorities to the Secretary of the Interior to facilitate emergency action to mitigate the impacts of drought.</title>
+  </titles>
+  <sponsor id="402710"/>
+  <cosponsors>
+    <cosponsor id="406729" joined="1988-05-18"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-18" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-06-06">
+      <text>Referred to Subcommittee on Water and Power Resources.</text>
+    </action>
+    <action datetime="1988-11-17">
+      <text>For Further Action See S.795.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII05" subcommittee="Water and Power Resources" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="795"/>
+  </relatedbills>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Disaster relief"/>
+    <term name="Disasters and Disaster Relief"/>
+    <term name="Droughts"/>
+    <term name="Irrigation"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1988--Introduced.
+Directs the Secretary of the Interior to make specified efforts to mitigate the impact of the 1987-1988 drought period. Prohibits any willing seller from profiting or receiving any undue benefit from the sale of water during such drought. Authorizes the Secretary to make available, by contract, surplus water at existing Federal reclamation projects to irrigation districts on a temporary basis to mitigate losses and damages resulting from the drought. Requires Federal and State agencies to coordinate emergency and relief operations. Requires a report to the President and the Congress by March 1, 1989. Authorizes appropriations.</summary>
+</bill>

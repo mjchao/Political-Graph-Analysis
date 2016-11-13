@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="184" updated="2014-03-22T09:50:57-04:00">
+  <state datetime="1987-06-02">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-06-02"/>
+  </status>
+  <introduced datetime="1987-06-02"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 2160) to authorize appropriations to the Secretary of Commerce for the programs of the National Bureau of Standards for fiscal year 1988, and for other purposes.</title>
+  </titles>
+  <sponsor id="401310"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-06-02">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-120.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Placed on House Calendar No: 32.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-06-03">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="2160"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="Science, technology, communications"/>
+  </subjects>
+  <amendments/>
+  <summary>6/2/1987--Introduced.
+Sets forth the rule for the consideration of H.R. 2160 (National Bureau of Standards funding).</summary>
+</bill>

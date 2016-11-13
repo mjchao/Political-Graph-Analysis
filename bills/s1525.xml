@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="1525" updated="2014-03-22T09:55:21-04:00">
+  <state datetime="1987-07-22">REFERRED</state>
+  <status>
+    <introduced datetime="1987-07-22"/>
+  </status>
+  <introduced datetime="1987-07-22"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Public Law 99-572 to authorize the Secretary of the Treasury to invest private funds contributed to the American Battle Monuments Commission for the construction of the Korean War Veterans Memorial in public debt securities.</title>
+  </titles>
+  <sponsor id="400927"/>
+  <cosponsors>
+    <cosponsor id="404598" joined="1987-07-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-22" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-10-01">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-12-03">
+      <text>Committee on Energy and Natural Resources requested executive comment from Treasury Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1454"/>
+    <bill relation="identical" session="100" type="h" number="1454"/>
+  </relatedbills>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="American Battle Monuments Commission"/>
+    <term name="Armed forces and national security"/>
+    <term name="District of Columbia"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government securities"/>
+    <term name="Government trust funds"/>
+    <term name="Investments"/>
+    <term name="Korean War, 1950-1953"/>
+    <term name="Securities and Investments"/>
+  </subjects>
+  <amendments/>
+  <summary>7/22/1987--Introduced.
+Requires the Secretary of the Treasury to invest a portion of the private funds contributed to the American Battle Monuments Commission account for the Korean War Veterans Memorial in public debt securities, and to credit any interest earned to the account.</summary>
+</bill>

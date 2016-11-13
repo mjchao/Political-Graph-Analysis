@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="4004" updated="2014-03-22T09:53:02-04:00">
+  <state datetime="1988-02-24">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-24"/>
+  </status>
+  <introduced datetime="1988-02-24"/>
+  <titles>
+    <title type="short" as="introduced">Regional Presidential Primary and Caucus Act of 1988</title>
+    <title type="official" as="introduced">A bill to provide for regional primary elections and caucuses for selection of delegates to political party presidential nominating conventions and for Federal funding of presidential primary elections.</title>
+  </titles>
+  <sponsor id="300078"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-24" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-02-24">
+      <text>Referred to Subcommittee on Elections.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA08" subcommittee="Elections" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Presidential elections"/>
+    <term name="Presidential primaries"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>2/24/1988--Introduced.
+Regional Presidential Primary and Caucus Act of 1988 - Declares that delegates to national conventions for the nomination of presidential and vice presidential candidates shall be selected by primary election or by caucus, as provided by State law. Staggers the times of regional primary elections and caucuses beginning with the first Tuesday in February of a presidential election year and at the end of each of the next four-week intervals. Provides for two non-contiguous regions to conduct primaries or caucuses at the same time. Establishes ten regions comprised of entire States. Authorizes appropriations for the costs of presidential primary elections.</summary>
+</bill>

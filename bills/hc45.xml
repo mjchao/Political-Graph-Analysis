@@ -1,0 +1,41 @@
+<bill session="100" type="hc" number="45" updated="2014-03-22T09:54:06-04:00">
+  <state datetime="1987-02-10">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-10"/>
+  </status>
+  <introduced datetime="1987-02-10"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress that the several States should ratify the proposed amendment to the Constitution of the United States that provides that changes in the salaries of Members of Congress may not take effect until after an election of the Members of the House of Representatives.</title>
+  </titles>
+  <sponsor id="407853"/>
+  <cosponsors>
+    <cosponsor id="400318" joined="1987-02-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-10" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-18">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Members of Congress"/>
+    <term name="Ratification of constitutional amendments"/>
+    <term name="State legislatures"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>2/10/1987--Introduced.
+Expresses the sense of the Congress that the States should ratify the proposed amendment to the Constitution which provides that no law varying the compensation for the services of Members of Congress shall take effect until an election of Representatives has intervened.</summary>
+</bill>

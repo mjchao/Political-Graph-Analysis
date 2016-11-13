@@ -1,0 +1,47 @@
+<bill session="100" type="hj" number="502" updated="2014-03-22T09:53:59-04:00">
+  <state datetime="1988-03-15">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-15"/>
+  </status>
+  <introduced datetime="1988-03-15"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution authorizing the Vietnam Women's Memorial Project, Inc. to establish a memorial on Federal land in the District of Columbia or its environs to honor women of the Armed Forces of the United States who served in the Republic of Vietnam during the Vietnam era.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="403446" joined="1988-04-27"/>
+    <cosponsor id="409534" joined="1988-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-15" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Referred to Subcommittee on Libraries and Memorials.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-11-15">
+      <text>For Further Action See S.2042.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSHA09" subcommittee="Libraries and Memorials" name="House Administration"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2042"/>
+  </relatedbills>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="Armed forces and national security"/>
+    <term name="District of Columbia"/>
+    <term name="National monuments"/>
+    <term name="Vietnam veterans"/>
+    <term name="Women soldiers"/>
+  </subjects>
+  <amendments/>
+  <summary>3/15/1988--Introduced.
+Authorizes the Vietnam Women's Memorial Project, Inc., to establish a memorial on Federal land in the District of Columbia or its environs to honor women who served in the armed forces in Vietnam during the Vietnam era. Requires the establishment of such memorial to be in compliance with current Federal standards for commemorative works. Prohibits the United States from paying any expenses for the establishment of such memorial. Expresses the sense of the Congress that it would be appropriate to locate such memorial within the current site of the Vietnam Veterans Memorial in the District of Columbia.</summary>
+</bill>

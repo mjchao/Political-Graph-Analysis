@@ -1,0 +1,37 @@
+<bill session="100" type="s" number="1581" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-08-03">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-08-03"/>
+  </status>
+  <introduced datetime="1987-08-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit the importation of objects from the R.M.S. Titanic.</title>
+  </titles>
+  <sponsor id="411421"/>
+  <cosponsors/>
+  <actions>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-03" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Introduced in the Senate, read twice, considered, read the third time, and passed without amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-05">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+  </actions>
+  <committees/>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Historic sites"/>
+    <term name="Import restrictions"/>
+    <term name="Imports"/>
+    <term name="Maritime law"/>
+    <term name="Passenger ships"/>
+    <term name="Salvage"/>
+    <term name="Ships and shipping"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1987--Introduced.
+Prohibits the importation of objects from the R.M.S. Titanic for purposes of commercial gain. Terminates the prohibition upon the entry into force of an international agreement to which the United States is a party governing salvage of the R.M.S. Titanic.</summary>
+</bill>

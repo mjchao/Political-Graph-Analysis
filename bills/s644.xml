@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="644" updated="2014-03-22T09:54:57-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide for the duty-free entry of certain structures and parts for use in the W. M. Keck Observatory Project, Mauna Kea, Hawaii.</title>
+  </titles>
+  <sponsor id="407268"/>
+  <cosponsors>
+    <cosponsor id="402990" joined="1987-03-03"/>
+    <cosponsor id="300056" joined="1987-03-03"/>
+    <cosponsor id="411762" joined="1987-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Tariff"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Provides for the duty-free entry of certain articles for use by a named organization in the construction of an optical telescope in Hawaii.</summary>
+</bill>

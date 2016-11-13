@@ -1,0 +1,81 @@
+<bill session="100" type="hc" number="35" updated="2014-03-22T09:54:05-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the sense of Congress regarding efficient and compassionate management of the Social Security Disability Insurance (SSDI) program.</title>
+  </titles>
+  <sponsor id="400140"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-02-03"/>
+    <cosponsor id="400035" joined="1987-03-03"/>
+    <cosponsor id="401568" joined="1987-02-03"/>
+    <cosponsor id="401585" joined="1987-02-03"/>
+    <cosponsor id="400043" joined="1987-02-03"/>
+    <cosponsor id="401947" joined="1987-02-03"/>
+    <cosponsor id="400080" joined="1987-02-03"/>
+    <cosponsor id="403031" joined="1987-03-25"/>
+    <cosponsor id="403581" joined="1987-02-03"/>
+    <cosponsor id="403695" joined="1987-02-03"/>
+    <cosponsor id="403709" joined="1987-02-03"/>
+    <cosponsor id="403776" joined="1987-02-03"/>
+    <cosponsor id="404006" joined="1987-02-03"/>
+    <cosponsor id="404013" joined="1987-02-03"/>
+    <cosponsor id="404097" joined="1987-03-03"/>
+    <cosponsor id="405006" joined="1987-02-03"/>
+    <cosponsor id="405313" joined="1987-02-03"/>
+    <cosponsor id="405377" joined="1987-05-27"/>
+    <cosponsor id="405687" joined="1987-02-03"/>
+    <cosponsor id="400211" joined="1987-02-03"/>
+    <cosponsor id="406284" joined="1987-02-03"/>
+    <cosponsor id="400238" joined="1987-02-03"/>
+    <cosponsor id="407141" joined="1987-02-03"/>
+    <cosponsor id="400253" joined="1987-02-03"/>
+    <cosponsor id="400256" joined="1987-02-03"/>
+    <cosponsor id="407772" joined="1987-03-03"/>
+    <cosponsor id="400600" joined="1987-02-03"/>
+    <cosponsor id="408023" joined="1987-02-03"/>
+    <cosponsor id="408109" joined="1987-02-03"/>
+    <cosponsor id="400306" joined="1987-02-03"/>
+    <cosponsor id="408725" joined="1987-02-03"/>
+    <cosponsor id="408957" joined="1987-02-03"/>
+    <cosponsor id="409446" joined="1987-02-03"/>
+    <cosponsor id="409651" joined="1987-05-07"/>
+    <cosponsor id="410066" joined="1987-02-03"/>
+    <cosponsor id="300091" joined="1987-11-04"/>
+    <cosponsor id="410496" joined="1987-02-03"/>
+    <cosponsor id="400414" joined="1987-07-08"/>
+    <cosponsor id="400612" joined="1987-03-03"/>
+    <cosponsor id="411834" joined="1987-03-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to Subcommittee on Social Security.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM01" subcommittee="Social Security" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sc" number="13"/>
+    <bill relation="identical" session="100" type="sc" number="13"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Disability evaluation"/>
+    <term name="Government operations and politics"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social Security Administration"/>
+    <term name="Social security eligibility"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Expresses the sense of the Congress that the Social Security Administration should not take actions which impair the ability of the staff of the Social Security Disability Insurance (SSDI) program to make eligibility determinations in accordance with the Social Security Disability Benefits Reform Act of 1984. Urges the Social Security Administration to place a higher priority on assisting States in both complying with the 1984 reforms and improving the accuracy of SSDI eligibility determinations.</summary>
+</bill>

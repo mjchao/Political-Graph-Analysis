@@ -1,0 +1,111 @@
+<bill session="100" type="s" number="1259" updated="2014-03-22T09:55:16-04:00">
+  <state datetime="1988-10-11">PROV_KILL:VETO</state>
+  <status>
+    <unknown datetime="1988-10-11"/>
+  </status>
+  <introduced datetime="1987-05-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to direct the Secretary of the Interior to permit access across certain Federal lands in the State of Arkansas, and for other purposes.</title>
+  </titles>
+  <sponsor id="402004"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1987-07-30">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1987-08-17">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Unfavorable.</text>
+    </action>
+    <calendar datetime="1987-09-16" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with amendments favorably.</text>
+    </calendar>
+    <action datetime="1987-09-25">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 100-176.</text>
+    </action>
+    <calendar datetime="1987-09-25" calendar="Senate Legislative" under="General Orders" number="339">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 339.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-01-26">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-02-04">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Subcommittee on National Parks and Public Lands Discharged.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-22">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1988-09-23">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-976.</text>
+    </action>
+    <action datetime="1988-09-23">
+      <text>Placed on Union Calendar No: 586.</text>
+    </action>
+    <action datetime="1988-09-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-26" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-26">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-29">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-29">
+      <text>Presented to President.</text>
+    </topresident>
+    <vetoed datetime="1988-10-11" state="PROV_KILL:VETO">
+      <text>Vetoed by President. Veto Message No: PM164.</text>
+    </vetoed>
+    <action datetime="1988-10-11">
+      <text>Veto message received in Senate. Ordered held at the desk.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Arkansas"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Right-of-way"/>
+    <term name="Rivers"/>
+    <term name="User charges"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Wild rivers"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/1987--Passed Senate amended.
+(Measure passed Senate, amended) Directs the Secretary of the Interior to permit access across the Buffalo National River (park), Arkansas, to certain owners of privately owned lands (as of September 1, 1987) outside the park on an annual fee basis.</summary>
+</bill>

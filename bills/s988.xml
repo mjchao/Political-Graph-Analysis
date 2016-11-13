@@ -1,0 +1,34 @@
+<bill session="100" type="s" number="988" updated="2014-03-22T09:55:12-04:00">
+  <state datetime="1987-04-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-09"/>
+  </status>
+  <introduced datetime="1987-04-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 2314 of title 18, United States Code, relating to transportation of stolen goods, securities, moneys, fraudulent State tax stamps, or articles used in counterfeiting.</title>
+  </titles>
+  <sponsor id="400565"/>
+  <cosponsors>
+    <cosponsor id="410242" joined="1987-06-09"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-09" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="2094"/>
+    <bill relation="identical" session="100" type="h" number="2094"/>
+  </relatedbills>
+  <subjects>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Fraud"/>
+  </subjects>
+  <amendments/>
+  <summary>4/9/1987--Introduced.
+Amends the Federal criminal code to provide criminal penalties for inducing persons to travel in interstate commerce in the execution of a scheme to defraud such persons of money or property having a total value of $5,000 or more. (Current law provides for the imposition of such penalties where the value of the money or property defrauded from one person totals $5,000 or more.)</summary>
+</bill>

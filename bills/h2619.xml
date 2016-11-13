@@ -1,0 +1,53 @@
+<bill session="100" type="h" number="2619" updated="2014-03-22T09:52:26-04:00">
+  <state datetime="1987-06-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-04"/>
+  </status>
+  <introduced datetime="1987-06-04"/>
+  <titles>
+    <title type="short" as="introduced">Bankruptcy Antifraud Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 11 of the United States Code to make nondischargeable any debt arising from a judgment or consent decree requiring an individual debtor to make restitution as a result of a violation of State law.</title>
+  </titles>
+  <sponsor id="409443"/>
+  <cosponsors>
+    <cosponsor id="405939" joined="1987-07-08"/>
+    <cosponsor id="400612" joined="1987-07-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-04" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Monopolies and Commercial Law.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-09-08">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU05" subcommittee="Monopolies and Commercial Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1017"/>
+    <bill relation="identical" session="100" type="s" number="1017"/>
+  </relatedbills>
+  <subjects>
+    <term name="Finance and financial sector"/>
+    <term name="Bankruptcy"/>
+    <term name="Compensation (Law)"/>
+    <term name="Compensation for victims of crime"/>
+    <term name="Crime and law enforcement"/>
+    <term name="Crime prevention"/>
+    <term name="Criminal Procedure and Sentencing"/>
+    <term name="Debtor and creditor"/>
+    <term name="Sentences (Criminal procedure)"/>
+    <term name="Victims of crimes"/>
+  </subjects>
+  <amendments/>
+  <summary>6/4/1987--Introduced.
+Bankruptcy Antifraud Act of 1987 - Amends Federal bankruptcy provisions to make nondischargeable any debt arising from a judgment, consent agreement, or claim requiring an individual debtor to make restitution as a result of a violation of a civil or criminal law enforceable by an action of a governmental unit.</summary>
+</bill>

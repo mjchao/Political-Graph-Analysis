@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="3161" updated="2014-03-22T09:52:46-04:00">
+  <state datetime="1987-08-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-08-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize certain additional medical services for veterans with service-connected disabilities.</title>
+  </titles>
+  <sponsor id="407838"/>
+  <cosponsors>
+    <cosponsor id="400028" joined="1987-09-16"/>
+    <cosponsor id="400126" joined="1987-09-10"/>
+    <cosponsor id="400210" joined="1987-09-14"/>
+    <cosponsor id="409442" joined="1987-09-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-06" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Referred to Subcommittee on Hospitals and Health Care.</text>
+    </action>
+    <action datetime="1987-09-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSVR03" subcommittee="Hospitals and Health Care" name="House Veterans' Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Human fertility"/>
+    <term name="Veterans' disability compensation"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>8/6/1987--Introduced.
+Amends Federal veterans' benefits provisions to authorize the Administrator of Veterans Affairs to provide medical services to a veteran (and, if necessary, to a veteran's spouse) to the extent necessary to overcome the effects of a service-connected disability of the veteran which impairs or prevents the ability of the veteran and his or her spouse to conceive a child. Excludes certain procedures and services from those permitted as part of such medical services provided (such as artificial insemination and the use of surrogate mothers).</summary>
+</bill>

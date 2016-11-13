@@ -1,0 +1,38 @@
+<bill session="100" type="s" number="2029" updated="2014-03-22T09:55:33-04:00">
+  <state datetime="1988-02-02">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-02"/>
+  </status>
+  <introduced datetime="1988-02-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend Public Law 96-586, relating to the disposal of certain Federal lands in Nevada, to require the Secretary of the Interior to purchase necessary lands at 1980 prices.</title>
+  </titles>
+  <sponsor id="300082"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-02-05">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Committee on Energy and Natural Resources requested executive comment from Agriculture Department, Interior Department, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Nevada"/>
+    <term name="Public Lands and Real Property"/>
+    <term name="Real estate appraisal"/>
+  </subjects>
+  <amendments/>
+  <summary>2/2/1988--Introduced.
+Amends Federal law relating to the disposal of certain public lands in Nevada to require the Secretary of the Interior, when acquiring environmentally sensitive lands in the Lake Tahoe Basin, to pay no less than the 1980 appraised value of such lands.</summary>
+</bill>

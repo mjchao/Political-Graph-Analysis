@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="5431" updated="2014-03-22T09:53:38-04:00">
+  <state datetime="1988-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-30"/>
+  </status>
+  <introduced datetime="1988-09-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the Governor of Illinois to use funds from the Abandoned Mine Reclamation Fund to provide relief to certain property owners adversely affected by abandoned mines.</title>
+  </titles>
+  <sponsor id="404750"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-30" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-11-03">
+      <text>Referred to Subcommittee on Energy and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII06" subcommittee="Energy and the Environment" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Mines and mineral resources"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Damages"/>
+    <term name="Environmental protection"/>
+    <term name="Illinois"/>
+    <term name="Real property"/>
+    <term name="Reclamation of land"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1988--Introduced.
+Authorizes the Governor of Illinois to use funds from the Abandoned Mine Reclamation Fund to compensate owners of specified real estate for losses in the value of such real estate due to the escape of noxious gases from abandoned mines within a certain area. Conditions such authority upon submission by the Governor of an amendment to the annual application (to the Secretary of the Interior) for support required by the Surface Mining Control and Reclamation Act of 1977.</summary>
+</bill>

@@ -1,0 +1,82 @@
+<bill session="100" type="h" number="1951" updated="2014-03-22T09:52:07-04:00">
+  <state datetime="1987-10-27">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-10-27"/>
+  </status>
+  <introduced datetime="1987-04-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 914 of title 17, United States Code, regarding certain protective orders for semiconductor chip products.</title>
+  </titles>
+  <sponsor id="406191"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1987-10-20"/>
+    <cosponsor id="400064" joined="1987-10-20"/>
+    <cosponsor id="400076" joined="1987-10-20"/>
+    <cosponsor id="403776" joined="1987-04-06"/>
+    <cosponsor id="400617" joined="1987-10-20"/>
+    <cosponsor id="407772" joined="1987-04-06"/>
+    <cosponsor id="407899" joined="1987-04-06"/>
+    <cosponsor id="407960" joined="1987-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-09">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-09-16">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-09-29">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-09-29" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-10-21">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-388.</text>
+    </action>
+    <action datetime="1987-10-21">
+      <text>Placed on Union Calendar No: 249.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-10-27" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-10-27">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-10-27">
+      <text>House Incorporated this Measure in S.442 as an Amendment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="442"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Computers"/>
+    <term name="Copyright"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="Imports"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+    <term name="Reciprocity"/>
+    <term name="Science and technology"/>
+    <term name="Semiconductors"/>
+    <term name="Trade agreements"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1987--Passed House amended.
+(Measure passed House, amended) Extends through July 1, 1991, the period during which the Secretary of Commerce may grant interim protective orders for mask works fixed in semiconductor chip products originating in foreign countries which are making good faith efforts and progress toward providing such protection to mask works of U.S. nationals. Authorizes the President to alter proclamations protecting such mask works. Directs the Secretary of Commerce to report to the appropriate congressional committees by July 1, 1990, on such protection.</summary>
+</bill>

@@ -1,0 +1,41 @@
+<bill session="100" type="s" number="2058" updated="2014-03-22T09:55:34-04:00">
+  <state datetime="1988-02-17">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-17"/>
+  </status>
+  <introduced datetime="1988-02-17"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the establishment of the Charles Pinckney National Historic Site in the State of South Carolina, and for other purposes.</title>
+  </titles>
+  <sponsor id="300157"/>
+  <cosponsors>
+    <cosponsor id="300053" joined="1988-02-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-17" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-02-18">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-06-23">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Historic sites"/>
+    <term name="South Carolina"/>
+  </subjects>
+  <amendments/>
+  <summary>2/17/1988--Introduced.
+Authorizes the Secretary of the Interior to acquire lands for the establishment of the Charles Pinckney National Historic Site, South Carolina. Requires the Secretary to report, within three years, to the appropriate congressional committees a general management plan for such site. Authorizes appropriations.</summary>
+</bill>

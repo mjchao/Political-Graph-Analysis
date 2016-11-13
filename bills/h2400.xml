@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="2400" updated="2014-03-22T09:52:21-04:00">
+  <state datetime="1987-05-13">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-13"/>
+  </status>
+  <introduced datetime="1987-05-13"/>
+  <titles>
+    <title type="short" as="introduced">Film Integrity Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title 17 of the United States Code to provide artistic authors of motion pictures the exclusive right to prohibit the material alteration, including colorization, of the motion pictures.</title>
+  </titles>
+  <sponsor id="400146"/>
+  <cosponsors>
+    <cosponsor id="401310" joined="1987-06-03"/>
+    <cosponsor id="401383" joined="1987-06-03"/>
+    <cosponsor id="404602" joined="1987-05-13"/>
+    <cosponsor id="404869" joined="1987-06-03"/>
+    <cosponsor id="405524" joined="1987-06-03"/>
+    <cosponsor id="406554" joined="1987-06-03"/>
+    <cosponsor id="406730" joined="1987-05-13"/>
+    <cosponsor id="400238" joined="1987-05-13"/>
+    <cosponsor id="400243" joined="1987-06-03"/>
+    <cosponsor id="407051" joined="1987-05-13"/>
+    <cosponsor id="400256" joined="1987-06-03"/>
+    <cosponsor id="400278" joined="1987-06-03"/>
+    <cosponsor id="408023" joined="1987-06-03"/>
+    <cosponsor id="410066" joined="1987-10-15"/>
+    <cosponsor id="410145" joined="1987-06-03"/>
+    <cosponsor id="411426" joined="1987-06-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-13" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1988-06-21">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Arts, culture, religion"/>
+    <term name="Authors and authorship"/>
+    <term name="Copyright"/>
+    <term name="Motion pictures"/>
+    <term name="Patents, Trademarks, and Copyrights"/>
+  </subjects>
+  <amendments/>
+  <summary>5/13/1987--Introduced.
+Film Integrity Act of 1987 - Amends the copyright law to prohibit material alteration, including colorization, of a published motion picture without the written consent of the artistic authors (the principal director and principal screenwriter). Extends the right of consent beyond the duration of the copyright. States that material alterations made without consent render the altered work uncopyrightable.</summary>
+</bill>

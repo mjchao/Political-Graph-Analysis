@@ -1,0 +1,38 @@
+<bill session="100" type="hc" number="222" updated="2014-03-22T09:54:10-04:00">
+  <state datetime="1987-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-02"/>
+  </status>
+  <introduced datetime="1987-12-02"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution urging President Reagan and General Secretary Gorbachev to act to prevent the forces of global politics from adversely affecting the 1988 Summer Olympic Games in Seoul, South Korea and the 1988 Winter Olympic Games in Calgary, Canada.</title>
+  </titles>
+  <sponsor id="407564"/>
+  <cosponsors>
+    <cosponsor id="300017" joined="1987-12-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-02" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-12-14">
+      <text>Referred to Subcommittee on Europe and the Middle East.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA03" subcommittee="Europe and the Middle East" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Canada"/>
+    <term name="International relations"/>
+    <term name="Olympic games"/>
+    <term name="South Korea"/>
+    <term name="Sports and Athletics"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/1987--Introduced.
+Urges President Reagan and General Secretary Gorbachev to act to prevent global politics from adversely affecting the 1988 Summer Olympic Games in Seoul, South Korea, and the Winter Olympic Games in Calgary, Canada.</summary>
+</bill>

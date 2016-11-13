@@ -1,0 +1,69 @@
+<bill session="100" type="h" number="1050" updated="2014-03-22T09:51:40-04:00">
+  <state datetime="1987-02-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-09"/>
+  </status>
+  <introduced datetime="1987-02-09"/>
+  <titles>
+    <title type="short" as="introduced">FmHA Leadership Act of 1987</title>
+    <title type="official" as="introduced">A bill to direct the Secretary of Agriculture to grant more reductions of outstanding loan principal to marginal farm borrowers, and for other purposes.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="400906" joined="1987-02-18"/>
+    <cosponsor id="400975" joined="1987-02-09"/>
+    <cosponsor id="401417" joined="1987-02-09"/>
+    <cosponsor id="402710" joined="1987-02-23"/>
+    <cosponsor id="402750" joined="1987-02-09"/>
+    <cosponsor id="400080" joined="1987-02-09"/>
+    <cosponsor id="403726" joined="1987-02-18"/>
+    <cosponsor id="403769" joined="1987-03-10"/>
+    <cosponsor id="404006" joined="1987-02-09"/>
+    <cosponsor id="300057" joined="1987-02-24"/>
+    <cosponsor id="300058" joined="1987-02-18"/>
+    <cosponsor id="406191" joined="1987-02-09"/>
+    <cosponsor id="406461" joined="1987-03-31"/>
+    <cosponsor id="406554" joined="1987-02-24"/>
+    <cosponsor id="407400" joined="1987-02-18"/>
+    <cosponsor id="407432" joined="1987-02-24"/>
+    <cosponsor id="407672" joined="1987-02-18"/>
+    <cosponsor id="408575" joined="1987-02-18"/>
+    <cosponsor id="408618" joined="1987-02-09"/>
+    <cosponsor id="400354" joined="1987-02-09"/>
+    <cosponsor id="409901" joined="1987-03-31"/>
+    <cosponsor id="410765" joined="1987-02-09"/>
+    <cosponsor id="400409" joined="1987-02-09"/>
+    <cosponsor id="410926" joined="1987-02-18"/>
+    <cosponsor id="400540" joined="1987-03-19"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-09" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-02-11">
+      <text>Referred to Subcommittee on Conservation Credit and Rural Development.</text>
+    </action>
+    <action datetime="1987-04-28">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>See H.R.3030.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG01" subcommittee="Conservation, Credit, and Rural Development" name="House Agriculture"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3030"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+  </subjects>
+  <amendments/>
+  <summary>2/9/1987--Introduced.
+FmHA Leadership Act of 1987 - Amends the Consolidated Farm and Rural Development Act to provide for loan principal reductions for marginal farm borrowers. Defines "marginal borrower" as a borrower who would not otherwise be able to meet his debt obligations unless the outstanding loan principal were reduced to the value of the securing property.</summary>
+</bill>

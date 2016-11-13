@@ -1,0 +1,35 @@
+<bill session="100" type="hc" number="340" updated="2014-03-22T09:54:15-04:00">
+  <state datetime="1988-07-14">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-14"/>
+  </status>
+  <introduced datetime="1988-07-14"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution requiring that the pledge of allegiance to the United States flag be rendered in the Hall of the House at the start of each legislative day.</title>
+  </titles>
+  <sponsor id="410147"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-07-14" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="501"/>
+    <bill relation="identical" session="100" type="hr" number="538"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Flags"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+    <term name="National emblems"/>
+    <term name="Oaths"/>
+  </subjects>
+  <amendments/>
+  <summary>7/14/1988--Introduced.
+Amends rule XXIV and rule I of the Rules of the House of Representatives to require the rendering of the Pledge of Allegiance in the House at the start of each legislative day.</summary>
+</bill>

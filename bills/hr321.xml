@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="321" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-12-02">INTRODUCED</state>
+  <status>
+    <introduced datetime="1987-12-02"/>
+  </status>
+  <introduced datetime="1987-12-02"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the joint resolution (H.J. Res. 395) making further continuing appropriations for the fiscal year 1988, and for other purposes.</title>
+  </titles>
+  <sponsor id="403403"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-02">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-466.</text>
+    </action>
+    <action datetime="1987-12-02">
+      <text>Placed on House Calendar No: 107.</text>
+    </action>
+    <action datetime="1987-12-03">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1987-12-03">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 236 - 177 (Record Vote No: 453).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/1987--Introduced.
+Sets forth the rule for the consideration of H.J. Res. 395 (continuing appropriations).</summary>
+</bill>

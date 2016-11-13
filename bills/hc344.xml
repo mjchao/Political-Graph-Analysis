@@ -1,0 +1,83 @@
+<bill session="100" type="hc" number="344" updated="2016-06-29T08:44:59-04:00">
+  <state datetime="1988-10-20">PASSED:CONCURRENTRES</state>
+  <status>
+    <unknown datetime="1988-10-20"/>
+  </status>
+  <introduced datetime="1988-08-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution commending the International Boundary and Water Commission for its efforts during the past 100 years to improve the social and economic welfare of the United States and Mexico and to improve good relations between our two countries.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="401947" joined="1988-08-03"/>
+    <cosponsor id="402114" joined="1988-08-03"/>
+    <cosponsor id="402454" joined="1988-08-03"/>
+    <cosponsor id="402750" joined="1988-08-03"/>
+    <cosponsor id="400165" joined="1988-08-03"/>
+    <cosponsor id="400191" joined="1988-08-03"/>
+    <cosponsor id="400226" joined="1988-08-03"/>
+    <cosponsor id="406740" joined="1988-08-03"/>
+    <cosponsor id="400302" joined="1988-08-03"/>
+    <cosponsor id="400534" joined="1988-08-03"/>
+    <cosponsor id="400389" joined="1988-08-03"/>
+    <cosponsor id="411025" joined="1988-08-03"/>
+    <cosponsor id="411725" joined="1988-08-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-08-03" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1988-08-15">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1988-09-14">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-09-20">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1988-09-20">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Received in the Senate and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1988-10-20">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-20" where="s" result="pass" state="PASSED:CONCURRENTRES">
+      <text>Resolution agreed to in Senate without amendment and with a preamble by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup"/>
+    <committee activity="Referral, Markup, Reporting" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Anniversaries"/>
+    <term name="Boundaries"/>
+    <term name="Congressional tributes"/>
+    <term name="Federal advisory bodies"/>
+    <term name="International affairs"/>
+    <term name="International agencies"/>
+    <term name="Management"/>
+    <term name="Mexico"/>
+    <term name="Water supply"/>
+    <term name="Water use"/>
+  </subjects>
+  <amendments/>
+  <summary>8/3/1988--Introduced.
+Commends the International Boundary and Water Commission's efforts during the past century to improve the social and economic welfare of the United States and Mexico.</summary>
+</bill>

@@ -1,0 +1,55 @@
+<bill session="100" type="s" number="216" updated="2014-03-22T09:54:48-04:00">
+  <state datetime="1987-07-31">REPORTED</state>
+  <status>
+    <unknown datetime="1987-07-31"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to increase the per diem rates paid to States for providing care to veterans in State homes.</title>
+  </titles>
+  <sponsor id="407786"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-02-03"/>
+    <cosponsor id="402990" joined="1987-01-06"/>
+    <cosponsor id="407268" joined="1987-01-06"/>
+    <cosponsor id="300079" joined="1987-03-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Veterans.</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Committee on Veterans requested executive comment from VA, OMB.</text>
+    </action>
+    <action datetime="1987-03-24">
+      <text>Committee on Veterans received executive comment from VA.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Committee on Veterans. Hearings held.</text>
+    </action>
+    <calendar datetime="1987-07-31" state="REPORTED">
+      <text>Committee on Veterans. Provisions of measure incorporated into measure S. 9 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSVA" name="Senate Veterans' Affairs" activity="Referral, Hearings, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="9"/>
+  </relatedbills>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Extended care facilities"/>
+    <term name="Federal aid to health facilities"/>
+    <term name="Health"/>
+    <term name="Health facilities"/>
+    <term name="Nursing"/>
+    <term name="Soldiers' homes"/>
+    <term name="State finance"/>
+    <term name="States"/>
+    <term name="Veterans' medical care"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Amends Federal veterans' benefits provisions to increase the per diem rates paid to States for providing domiciliary, nursing, and hospital care to veterans in State homes.</summary>
+</bill>

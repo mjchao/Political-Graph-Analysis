@@ -1,0 +1,40 @@
+<bill session="100" type="sj" number="50" updated="2014-03-22T09:54:19-04:00">
+  <state datetime="1987-02-05">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-05"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution proposing an amendment to the Constitution of the United States to limit the expenditure of Government funds for any fiscal year to the projected revenue of the Government for that year and to limit the outstanding debt of the United States to thirty per centum of the projected gross national product.</title>
+  </titles>
+  <sponsor id="300031"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-02-13">
+      <text>Referred to Subcommittee on Constitution.</text>
+    </action>
+    <action datetime="1988-03-23">
+      <text>Subcommittee on Constitution. Hearings held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="SSJU03" subcommittee="Constitution" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Economics and public finance"/>
+    <term name="Balanced budgets"/>
+    <term name="Budget deficits"/>
+    <term name="Constitution and Constitutional Amendments"/>
+    <term name="Constitutional amendments"/>
+    <term name="Economic growth"/>
+    <term name="Federal budgets"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Constitutional Amendment - Prohibits total Government expenditures (excluding expenditures for the redemption of Government obligations) from exceeding projected revenue (excluding revenue derived from the issuance of Government obligations) for a fiscal year, unless the Congress projects that the real growth rate of the economy will be less than three percent for that year. Requires that any deficit resulting from expenditures exceeding revenue in such a year of low economic growth be extinguished within the five subsequent years. Provides for the suspension of this article in time of war or national emergency as declared by the Congress. Requires that any surplus revenue over expenditures for a fiscal year be considered revenue for the following fiscal year.</summary>
+</bill>

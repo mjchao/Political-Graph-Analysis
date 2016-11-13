@@ -1,0 +1,45 @@
+<bill session="100" type="s" number="1746" updated="2014-03-22T09:55:26-04:00">
+  <state datetime="1987-10-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-02"/>
+  </status>
+  <introduced datetime="1987-10-02"/>
+  <titles>
+    <title type="official" as="introduced">A bill to effect any reduction in net expenditures for milk price support activities required by the Balanced Budget and Emergency Control Act of 1985.</title>
+  </titles>
+  <sponsor id="401611"/>
+  <cosponsors>
+    <cosponsor id="403669" joined="1987-10-02"/>
+    <cosponsor id="300048" joined="1987-10-02"/>
+    <cosponsor id="406190" joined="1987-10-02"/>
+    <cosponsor id="300065" joined="1987-10-02"/>
+    <cosponsor id="408937" joined="1987-10-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3344"/>
+    <bill relation="identical" session="100" type="h" number="3344"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Budget deficits"/>
+    <term name="Dairy products"/>
+    <term name="Economics and public finance"/>
+    <term name="Federal budgets"/>
+    <term name="Government spending reductions"/>
+    <term name="Milk"/>
+  </subjects>
+  <amendments/>
+  <summary>10/2/1987--Introduced.
+Amends the Agricultural Act of 1949 to provide that, notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985 (Gramm-Rudman-Hollings Act) and the subsequent sequestration order issued by the President (under such Act), FY 1987 dairy expenditure reductions shall be implemented through a reduction in the price received by milk producers rather than through a reduction in Commodity Credit Corporation payments for dairy product purchases. States that such reductions shall be no greater than needed to equal the reduction in milk support expenditures required by such order.</summary>
+</bill>

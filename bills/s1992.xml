@@ -1,0 +1,67 @@
+<bill session="100" type="s" number="1992" updated="2014-03-22T09:55:32-04:00">
+  <state datetime="1988-08-11">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1987-12-21"/>
+  <titles>
+    <title type="official" as="introduced">A bill to promote intergovernmental and interagency cooperation in the development of groundwater policy.</title>
+  </titles>
+  <sponsor id="405321"/>
+  <cosponsors>
+    <cosponsor id="404598" joined="1988-08-03"/>
+    <cosponsor id="408970" joined="1988-04-26"/>
+    <cosponsor id="409225" joined="1988-04-14"/>
+    <cosponsor id="400565" joined="1987-12-21"/>
+    <cosponsor id="409580" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Governmental Affairs.</text>
+    </action>
+    <action datetime="1988-04-22">
+      <text>Subcommittee on Government Efficiency, Federalism. Hearings held.</text>
+    </action>
+    <action datetime="1988-05-18">
+      <text>Subcommittee on Government Efficiency, Federalism. Hearings held.</text>
+    </action>
+    <calendar datetime="1988-07-14" state="REPORTED">
+      <text>Committee on Governmental Affairs. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1988-08-10">
+      <text>Committee on Governmental Affairs. Reported to Senate by Senator Glenn with an amendment in the nature of a substitute and an amendment to the title. With written report No. 100-475.</text>
+    </action>
+    <calendar datetime="1988-08-10" calendar="Senate Legislative" under="General Orders" number="893">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 893.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-11" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-11">
+      <text>Senate vitiated previous passage. By unanimous consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSGA" name="Senate Governmental Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSGA04" subcommittee="Government Efficiency, Federalism, and the District of Columbia" name="Senate Governmental Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Advisory bodies"/>
+    <term name="Environmental research"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government operations and politics"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Groundwater"/>
+    <term name="Information services"/>
+    <term name="Research and development"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water pollution control"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Passed Senate amended.
+(Measure passed Senate, amended) Directs the President to coordinate groundwater related activities conducted by Federal agencies and to disseminate information concerning such activities. Directs the President to establish an Interagency Committee on Groundwater Protection to coordinate research and development, demonstration, technology transfer, training, and information dissemination activities related to groundwater activities conducted by Federal agencies, including establishing priorities. Requires the Committee to report annually to the Congress and to hold at least two public meetings each year. Directs the President to establish the Advisory Committee on Groundwater Management and Protection to ensure that the programs carried out by the member agencies of the Interagency Committee on Groundwater Protection meet the needs of State and local governments and the public. Authorizes appropriations for FY 1988 through FY 1992.</summary>
+</bill>

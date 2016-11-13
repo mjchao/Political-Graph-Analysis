@@ -1,0 +1,44 @@
+<bill session="100" type="sr" number="458" updated="2014-03-22T09:54:39-04:00">
+  <state datetime="1988-09-09">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1988-09-09"/>
+  </status>
+  <introduced datetime="1988-08-10"/>
+  <titles>
+    <title type="official" as="introduced">An original resolution managing the expenditure of funds for Senate official mail during fiscal year 1989.</title>
+  </titles>
+  <sponsor id="404219"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1988-08-03" state="REPORTED">
+      <text>Committee on Rules ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1988-08-10">
+      <text>Committee on Rules. Original measure reported to Senate by Senator Ford. With written report No. 100-480.</text>
+    </action>
+    <calendar datetime="1988-08-10" calendar="Senate Legislative" under="General Orders" number="900">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 900.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1988-09-09" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment by Voice Vote.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Origin, Reporting, Markup"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (Senate)"/>
+    <term name="Costs"/>
+    <term name="Franking privilege"/>
+    <term name="Members of Congress"/>
+    <term name="Members of Congress (Senate)"/>
+    <term name="Postal Services and Facilities"/>
+    <term name="Senate"/>
+  </subjects>
+  <amendments/>
+  <summary>8/10/1988--Introduced.
+Prohibits Senate offices from incurring official mail costs for FY 1989 in excess of the amounts allocated to such offices in accordance with this resolution. Requires the Committee on Rules and Administration to determine such costs. Urges the House of Representatives to make similar expenditure limitations. Directs the Committee to prescribe: (1) a recordkeeping system to ensure that allocated amounts are not exceeded; and (2) a procedure to transfer portions of an allocation from one Senate office to another.</summary>
+</bill>

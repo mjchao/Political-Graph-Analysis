@@ -1,0 +1,101 @@
+<bill session="100" type="s" number="1048" updated="2014-03-22T09:55:13-04:00">
+  <state datetime="1988-11-03">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-11-03"/>
+  </status>
+  <introduced datetime="1987-04-21"/>
+  <titles>
+    <title type="short" as="introduced">Federal Communications Commission Authorization Act of 1987</title>
+    <title type="short" as="reported to senate">Federal Communications Commission Authorization Act of 1987</title>
+    <title type="short" as="passed senate">Federal Communications Commission Authorization Act of 1988</title>
+    <title type="short" as="enacted">Federal Communications Commission Authorization Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Communications Act of 1934 to provide authorization of appropriations for the Federal Communications Commission, and for other purposes.</title>
+  </titles>
+  <sponsor id="300056"/>
+  <cosponsors>
+    <cosponsor id="403171" joined="1987-04-21"/>
+    <cosponsor id="300053" joined="1987-04-21"/>
+    <cosponsor id="408420" joined="1987-04-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-21" state="REFERRED">
+      <text>Read twice and referred to the Committee on Commerce.</text>
+    </action>
+    <calendar datetime="1987-07-14" state="REPORTED">
+      <text>Committee on Commerce. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-08-04">
+      <text>Committee on Commerce. Reported to Senate by Senator Hollings with an amendment in the nature of a substitute. With written report No. 100-142.</text>
+    </action>
+    <calendar datetime="1987-08-04" calendar="Senate Legislative" under="General Orders" number="288">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 288.</text>
+    </calendar>
+    <action datetime="1988-10-07">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-10-07" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-10-12">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-10-19">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-10-19" where="h" result="pass" state="PASSED:BILL">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-10-19">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-10-27">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-10-27">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-11-03" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-594" type="public" datetime="1988-11-03">
+      <text>Became Public Law No: 100-594.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2961"/>
+    <bill relation="unknown" session="100" type="sc" number="127"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Administrative fees"/>
+    <term name="Administrative procedure"/>
+    <term name="Administrative remedies"/>
+    <term name="Amateur radio stations"/>
+    <term name="Authorization"/>
+    <term name="Broadcasting"/>
+    <term name="Congressional oversight"/>
+    <term name="Cost of living adjustments"/>
+    <term name="Economics and public finance"/>
+    <term name="Emergency communication systems"/>
+    <term name="Federal Communications Commission"/>
+    <term name="Fees"/>
+    <term name="Government paperwork"/>
+    <term name="Hawaii"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Indexing (Economic policy)"/>
+    <term name="Members of Congress"/>
+    <term name="Older workers"/>
+    <term name="Radio broadcasting"/>
+    <term name="Transportation and Travel"/>
+    <term name="Travel costs"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3628"/>
+    <amendment number="s3629"/>
+  </amendments>
+  <summary>10/7/1988--Passed Senate amended.
+(Measure passed Senate, amended) Federal Communications Commission Authorization Act of 1988 - Amends the Communications Act of 1934 to authorize FY 1988 and 1989 appropriations for the Federal Communications Commission. Extends through FY 1989 the authority for the Commission's travel reimbursement program. Repeals the requirement for the Commission to submit an annual management report to the Congress. Delays for one year the date by which the Commission must begin biennial reviews of its Schedule of Charges, adjusting it to reflect changes in the Consumer Price Index. Authorizes the Commission, during FY 1988 and 1989, to make grants to and enter into cooperative agreements with private nonprofit organizations to employ older Americans to provide technical and administrative assistance on projects related to the implementation, promotion, or enforcement of Commission regulations. Requires the Commission and program participants to certify their compliance with various program prerequisites. Prohibits the employment of program participants in policymaking positions. Exempts ex parte congressional communications with the Commission from regulations that restrict communications during the week prior to specified types of Commission proceedings. Requires the Commission to issue an order concluding any hearing concerning the lawfulness of any new or revised charge, classification, regulation, or practice within 12 months of the item's effective date (15 months in very complex cases). Permits appeals of such orders. Establishes corresponding requirements in connection with Commission investigations of such questions. Requires the Commission to issue within 90 days of receipt an order granting or denying any petition for reconsideration of any order concluding such a hearing or investigation. Authorizes the Commission to spend FY 1989 and 1990 appropriations to relocate the Hawaii Monitoring Station in Honolulu (Waipahu) to another site in Hawaii. Sets forth procedures and actions to be taken in connection with the sale of the present site as surplus property and with sale proceeds. Prohibits the Commission and the General Services Administration from taking action until their principals have prepared and submitted to specified congressional committees a detailed plan concerning the relocation. Expresses the sense of the Congress: (1) encouraging and supporting the Amateur Radio Service and its emergency communications efforts; and (2) urging Government agencies to take into account the valuable contributions of amateur radio operators when considering actions that affect the Amateur Radio Service.</summary>
+</bill>

@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="3260" updated="2014-03-22T09:52:48-04:00">
+  <state datetime="1987-09-15">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-15"/>
+  </status>
+  <introduced datetime="1987-09-15"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 with respect to date of inclusion into gross income when a Commodity Credit Loan is paid with a commodity certificate.</title>
+  </titles>
+  <sponsor id="403203"/>
+  <cosponsors>
+    <cosponsor id="401628" joined="1987-10-20"/>
+    <cosponsor id="401874" joined="1987-10-20"/>
+    <cosponsor id="402675" joined="1987-10-20"/>
+    <cosponsor id="300033" joined="1988-02-02"/>
+    <cosponsor id="300037" joined="1987-09-15"/>
+    <cosponsor id="403726" joined="1988-02-02"/>
+    <cosponsor id="400126" joined="1987-10-20"/>
+    <cosponsor id="404723" joined="1987-09-15"/>
+    <cosponsor id="406157" joined="1987-10-20"/>
+    <cosponsor id="407351" joined="1987-10-20"/>
+    <cosponsor id="408618" joined="1987-10-20"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-15" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Accounting"/>
+    <term name="Agricultural credit"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Farmers"/>
+    <term name="Government lending"/>
+    <term name="Income tax"/>
+    <term name="Payment-in-kind program"/>
+    <term name="Tax deferral"/>
+  </subjects>
+  <amendments/>
+  <summary>9/15/1987--Introduced.
+Amends the Internal Revenue Code to allow a taxpayer to choose the taxable year for inclusion in income of generic commodity certificates (PIK certificates) used to repay Commodity Credit Corporation (CCC) loans. Permits as choices: (1) the year in which either the CCC loan is repaid or the commodity used as collateral for the loan is sold; or (2) the year in progress nine months after the date the loan was originally received. Applies to loans made after 1985.</summary>
+</bill>

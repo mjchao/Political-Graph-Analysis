@@ -1,0 +1,67 @@
+<bill session="100" type="h" number="1787" updated="2014-03-22T09:51:58-04:00">
+  <state datetime="1987-03-25">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-25"/>
+  </status>
+  <introduced datetime="1987-03-25"/>
+  <titles>
+    <title type="short" as="introduced">Rural Health Care Improvement Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Social Security Act to provide for improved treatment of small rural hospitals and sole community hospitals under titles XVIII and XIX of such Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="400035"/>
+  <cosponsors>
+    <cosponsor id="400536" joined="1987-06-25"/>
+    <cosponsor id="404733" joined="1987-06-10"/>
+    <cosponsor id="405209" joined="1987-06-04"/>
+    <cosponsor id="400176" joined="1987-07-13"/>
+    <cosponsor id="400211" joined="1987-06-10"/>
+    <cosponsor id="406530" joined="1987-06-04"/>
+    <cosponsor id="406554" joined="1987-06-25"/>
+    <cosponsor id="400409" joined="1987-06-10"/>
+    <cosponsor id="411725" joined="1987-06-25"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-25" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1987-04-02">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.R.3545.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Armed forces and national security"/>
+    <term name="Cancer"/>
+    <term name="Executive reorganization"/>
+    <term name="Health"/>
+    <term name="Hospitals"/>
+    <term name="Medicaid"/>
+    <term name="Medicare"/>
+    <term name="Peer review organizations (Medicine)"/>
+    <term name="Public assistance programs"/>
+    <term name="Regulatory impact statements"/>
+    <term name="Rural affairs legislation"/>
+    <term name="Veterans' disability compensation"/>
+  </subjects>
+  <amendments/>
+  <summary>3/25/1987--Introduced.
+Rural Health Care Improvement Act of 1987 - Amends part A (General Provisions) of title XI of the Social Security Act to require that whenever the Secretary of Health and Human Services proposes a regulation or promulgates a final version of a regulation under titles XVIII (Medicare), XIX (Medicaid), or part B (Peer Review) of title XI of the Act which will have a substantial impact on small rural hospitals, the Secretary make a regulatory impact analysis available to the public. Provides certain small sole community and rural hospitals with payment for extremely high cost cases (outlier payments) which represent five or six percent of the total payments made to such hospitals. Sets aside ten percent of amounts expended by the Secretary on certain experiments and demonstration projects for projects relating exclusively to rural health issues. Requires fiscal intermediaries to pay certain small rural hospitals for Medicare claims, at the latest, 30 days after receiving the request for such payment. Amends title VII (Administration) of the Act to establish an Office of Rural Health Policy in the Office of the Administrator of the Health Care Financing Administration to: (1) advise the Administrator regarding the effects of changes in the Medicare and Medicaid programs on rural health; and (2) oversee compliance with provisions of this Act requiring regulatory impact analysis and rural health demonstration projects.</summary>
+</bill>

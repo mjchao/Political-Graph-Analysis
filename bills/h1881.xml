@@ -1,0 +1,66 @@
+<bill session="100" type="h" number="1881" updated="2014-03-22T09:52:05-04:00">
+  <state datetime="1987-03-31">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-31"/>
+  </status>
+  <introduced datetime="1987-03-31"/>
+  <titles>
+    <title type="short" as="introduced">Civil Rights Act of 1987</title>
+    <title type="official" as="introduced">A bill to clarify the meaning of the phrase "program or activity" as applied to educational institutions that are extended Federal financial assistance, and for other purposes.</title>
+  </titles>
+  <sponsor id="400365"/>
+  <cosponsors>
+    <cosponsor id="400076" joined="1987-03-31"/>
+    <cosponsor id="400079" joined="1987-03-31"/>
+    <cosponsor id="300029" joined="1987-03-31"/>
+    <cosponsor id="300033" joined="1987-03-31"/>
+    <cosponsor id="403864" joined="1987-03-31"/>
+    <cosponsor id="405724" joined="1987-03-31"/>
+    <cosponsor id="400192" joined="1987-03-31"/>
+    <cosponsor id="406530" joined="1987-03-31"/>
+    <cosponsor id="409887" joined="1987-03-31"/>
+    <cosponsor id="400534" joined="1987-03-31"/>
+    <cosponsor id="400389" joined="1987-03-31"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-03-31" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-04-10">
+      <text>Referred to Subcommittee on Civil and Constitutional Rights.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU04" subcommittee="Civil and Constitutional Rights" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Civil rights and liberties, minority issues"/>
+    <term name="Age discrimination"/>
+    <term name="Church and education"/>
+    <term name="Civil Rights and Liberties"/>
+    <term name="Civil rights legislation"/>
+    <term name="Desegregation in education"/>
+    <term name="Disabled"/>
+    <term name="Discrimination"/>
+    <term name="Education"/>
+    <term name="Federal aid to education"/>
+    <term name="Federal aid to handicapped services"/>
+    <term name="Racial discrimination"/>
+    <term name="Religion and Clergy"/>
+    <term name="Religious liberty"/>
+    <term name="Sex discrimination"/>
+    <term name="Sex discrimination against women"/>
+    <term name="Sex discrimination in education"/>
+    <term name="Women's education"/>
+    <term name="Women's rights"/>
+  </subjects>
+  <amendments/>
+  <summary>3/31/1987--Introduced.
+Civil Rights Act of 1987 - Amends title IX of the Education Amendments of 1972, the Rehabilitation Act of 1973, the Age Discrimination Act of 1975, and title VI of the Civil Rights Act of 1964 to provide that the phrase "program or activity" shall, as applied to educational institutions receiving Federal financial assistance, mean the educational institution (notwithstanding the decisions of the Supreme Court in Grove City College v. Bell and North Haven Board of Education v. Bell). Amends title IX of the Education Amendments of 1972 to state that such Act's prohibition of sex discrimination shall be inapplicable to educational institutions which are controlled by, or closely associated with the tenants of, a particular religious organization if the application of such prohibition would be inconsistent with the organization's religious intent. (Current law provides that such prohibitions are inapplicable where the educational institutions are controlled by religious organizations.) States that nothing in such Act shall be construed to grant or deny any right relating to abortion.</summary>
+</bill>

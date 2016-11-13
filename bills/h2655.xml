@@ -1,0 +1,110 @@
+<bill session="100" type="h" number="2655" updated="2014-03-22T09:52:27-04:00">
+  <state datetime="1987-08-06">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-08-06"/>
+  </status>
+  <introduced datetime="1987-06-10"/>
+  <titles>
+    <title type="official" as="introduced">A bill to designate the Federal Building located at 330 Independence Avenue SW, Washington, District of Columbia, as the "Wilbur J. Cohen Federal Building".</title>
+  </titles>
+  <sponsor id="408725"/>
+  <cosponsors>
+    <cosponsor id="400895" joined="1987-06-16"/>
+    <cosponsor id="401417" joined="1987-07-01"/>
+    <cosponsor id="401418" joined="1987-07-01"/>
+    <cosponsor id="401837" joined="1987-06-10"/>
+    <cosponsor id="403314" joined="1987-06-16"/>
+    <cosponsor id="404006" joined="1987-08-04"/>
+    <cosponsor id="404220" joined="1987-06-10"/>
+    <cosponsor id="400140" joined="1987-06-16"/>
+    <cosponsor id="404422" joined="1987-07-01"/>
+    <cosponsor id="404705" joined="1987-06-10"/>
+    <cosponsor id="405006" joined="1987-06-10"/>
+    <cosponsor id="405646" joined="1987-06-10"/>
+    <cosponsor id="405687" joined="1987-06-10"/>
+    <cosponsor id="405939" joined="1987-06-10"/>
+    <cosponsor id="406191" joined="1987-06-10"/>
+    <cosponsor id="406461" joined="1987-07-01"/>
+    <cosponsor id="400238" joined="1987-06-16"/>
+    <cosponsor id="400256" joined="1987-06-17"/>
+    <cosponsor id="407400" joined="1987-06-10"/>
+    <cosponsor id="407772" joined="1987-07-01"/>
+    <cosponsor id="407816" joined="1987-06-10"/>
+    <cosponsor id="408313" joined="1987-06-10"/>
+    <cosponsor id="408621" joined="1987-06-10"/>
+    <cosponsor id="400318" joined="1987-07-08"/>
+    <cosponsor id="408957" joined="1987-06-10"/>
+    <cosponsor id="409237" joined="1987-06-10"/>
+    <cosponsor id="409344" joined="1987-07-01"/>
+    <cosponsor id="409422" joined="1987-06-10"/>
+    <cosponsor id="409446" joined="1987-06-10"/>
+    <cosponsor id="409500" joined="1987-06-17"/>
+    <cosponsor id="400387" joined="1987-06-10"/>
+    <cosponsor id="410407" joined="1987-06-10"/>
+    <cosponsor id="410531" joined="1987-06-10"/>
+    <cosponsor id="410589" joined="1987-06-16"/>
+    <cosponsor id="400409" joined="1987-07-01"/>
+    <cosponsor id="400612" joined="1987-07-08"/>
+    <cosponsor id="411166" joined="1987-07-01"/>
+    <cosponsor id="400425" joined="1987-06-10"/>
+    <cosponsor id="411912" joined="1987-06-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-10" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to Subcommittee on Public Buildings and Grounds.</text>
+    </action>
+    <action datetime="1987-07-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-07-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-07-09">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-08-04" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-08-04">
+      <text>Reported to House by House Committee on Public Works and Transportation.  Report No: 100-269.</text>
+    </action>
+    <action datetime="1987-08-04">
+      <text>Placed on House Calendar No: 70.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-08-06" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-08-06">
+      <text>Laid on Table in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-08-06">
+      <text>Other Measure S.1371 Passed House in Lieu.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSPW04" subcommittee="Public Buildings and Grounds" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1371"/>
+    <bill relation="identical" session="100" type="s" number="1371"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="District of Columbia"/>
+    <term name="Federal office buildings"/>
+    <term name="Names"/>
+  </subjects>
+  <amendments/>
+  <summary>6/10/1987--Introduced.
+Designates the Federal building located at 330 Independence Avenue, S.W., Washington, District of Columbia, as the Wilbur J. Cohen Federal Building.</summary>
+</bill>

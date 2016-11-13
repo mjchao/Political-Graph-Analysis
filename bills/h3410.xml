@@ -1,0 +1,68 @@
+<bill session="100" type="h" number="3410" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1987-10-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-01"/>
+  </status>
+  <introduced datetime="1987-10-01"/>
+  <titles>
+    <title type="short" as="introduced">Fair Physician Reciprocity Standards Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend title XIX of the Social Security Act to prohibit States, as a condition of medicaid funding, from discriminating in its medical reciprocity standards (other than years of accredited graduate medical education) against foreign medical graduates.</title>
+  </titles>
+  <sponsor id="410145"/>
+  <cosponsors>
+    <cosponsor id="400012" joined="1988-06-22"/>
+    <cosponsor id="400043" joined="1987-11-18"/>
+    <cosponsor id="402325" joined="1988-09-28"/>
+    <cosponsor id="400080" joined="1988-01-27"/>
+    <cosponsor id="403314" joined="1988-02-17"/>
+    <cosponsor id="403695" joined="1988-03-01"/>
+    <cosponsor id="403696" joined="1988-10-18"/>
+    <cosponsor id="400536" joined="1988-04-12"/>
+    <cosponsor id="400192" joined="1988-02-17"/>
+    <cosponsor id="400331" joined="1988-03-30"/>
+    <cosponsor id="409500" joined="1988-06-08"/>
+    <cosponsor id="400378" joined="1987-11-10"/>
+    <cosponsor id="400611" joined="1987-12-03"/>
+    <cosponsor id="400417" joined="1987-11-04"/>
+    <cosponsor id="411166" joined="1988-08-02"/>
+    <cosponsor id="411725" joined="1988-09-22"/>
+    <cosponsor id="400614" joined="1988-03-01"/>
+    <cosponsor id="411834" joined="1988-09-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-01" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+    <action datetime="1988-03-11">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Foreign-trained physicians"/>
+    <term name="Health"/>
+    <term name="Licenses"/>
+    <term name="Medicaid"/>
+    <term name="Medical education"/>
+    <term name="Medical personnel"/>
+    <term name="Physicians"/>
+    <term name="Public assistance programs"/>
+    <term name="Standards"/>
+    <term name="State laws"/>
+    <term name="States"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/1987--Introduced.
+Fair Physician Reciprocity Standards Act of 1987 - Amends title XIX (Medicaid) of the Social Security Act to prohibit State physician licensure reciprocity standards from discriminating against foreign medical graduates. Authorizes States to require foreign medical graduates to have more years of accredited graduate medical education than licensed physicians who are not foreign medical graduates, provided such required accredited graduate medical education does not exceed three years.</summary>
+</bill>

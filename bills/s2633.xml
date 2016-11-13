@@ -1,0 +1,57 @@
+<bill session="100" type="s" number="2633" updated="2016-06-29T08:46:13-04:00">
+  <state datetime="1988-07-12">REFERRED</state>
+  <status>
+    <introduced datetime="1988-07-12"/>
+  </status>
+  <introduced datetime="1988-07-12"/>
+  <titles>
+    <title type="short" as="introduced">Radiation Exposure Compensation Act</title>
+    <title type="official" as="introduced">A bill to provide jurisdiction and procedures for claims by individuals for injuries or death due to exposure to radiation from nuclear testing.</title>
+  </titles>
+  <sponsor id="300052"/>
+  <cosponsors>
+    <cosponsor id="404444" joined="1988-07-12"/>
+    <cosponsor id="405305" joined="1988-08-03"/>
+    <cosponsor id="300082" joined="1988-09-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-07-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1988-07-21">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="5022"/>
+    <bill relation="identical" session="100" type="h" number="5022"/>
+  </relatedbills>
+  <subjects>
+    <term name="Law"/>
+    <term name="Armed forces and national security"/>
+    <term name="Civil actions and liability"/>
+    <term name="Claims"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="Damages"/>
+    <term name="Defense articles"/>
+    <term name="Energy policy"/>
+    <term name="Fines (Penalties)"/>
+    <term name="Government liability"/>
+    <term name="Jurisdiction"/>
+    <term name="Liability for nuclear damages"/>
+    <term name="Mine safety"/>
+    <term name="Miners"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Nuclear energy"/>
+    <term name="Nuclear weapons"/>
+    <term name="Radiation"/>
+    <term name="Uranium"/>
+  </subjects>
+  <amendments/>
+  <summary>7/12/1988--Introduced.
+Radiation Exposure Compensation Act - Confers jurisdiction upon the United States Claims Court for wrongful death or injury actions brought by individuals alleging radiation exposure from either Federal nuclear testing at the Nevada test site or from employment in uranium mining. Sets forth procedural guidelines and a maximum damages award for certain claims relating to: (1) open air nuclear testing; and (2) uranium mining. Sets forth a statute of limitations. Prescribes the maximum percentage which attorneys may receive for services rendered. Establishes a fine for violations of this prescription. Provides that insurance claims shall not be affected by the award of damages. Declares that the United States is liable under this Act to the same extent as a private individual under like circumstances.</summary>
+</bill>

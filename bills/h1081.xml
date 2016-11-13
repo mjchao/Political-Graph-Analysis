@@ -1,0 +1,65 @@
+<bill session="100" type="h" number="1081" updated="2014-03-22T09:51:41-04:00">
+  <state datetime="1987-02-11">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-11"/>
+  </status>
+  <introduced datetime="1987-02-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to improve the education status of Native Hawaiians, and for other purposes.</title>
+  </titles>
+  <sponsor id="300001"/>
+  <cosponsors>
+    <cosponsor id="400216" joined="1987-02-11"/>
+    <cosponsor id="409205" joined="1987-02-19"/>
+    <cosponsor id="409534" joined="1987-02-11"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-11" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Referred to Subcommittee on Select Education.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Referred to Subcommittee on Human Resources.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Referred to Subcommittee on Postsecondary Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED04" subcommittee="Select Education" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED07" subcommittee="Human Resources" name="House Education and Labor"/>
+    <committee activity="Referral" code="HSED08" subcommittee="Postsecondary Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="360"/>
+    <bill relation="identical" session="100" type="s" number="360"/>
+  </relatedbills>
+  <subjects>
+    <term name="Education"/>
+    <term name="Children and youth"/>
+    <term name="Community colleges"/>
+    <term name="Disabled"/>
+    <term name="Elementary education"/>
+    <term name="Federal aid to education"/>
+    <term name="Federal aid to higher education"/>
+    <term name="Gifted children"/>
+    <term name="Hawaii"/>
+    <term name="Hawaiians"/>
+    <term name="Preschool education"/>
+    <term name="Scholarships"/>
+    <term name="Secondary education"/>
+    <term name="Special education"/>
+    <term name="Student aid"/>
+    <term name="Teachers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/11/1987--Introduced.
+Directs the Secretary of Education to make grants to specified State schools in Hawaii in order to implement the Kamehameha Elementary Education Program (KEEP). Requires the Secretary, by no later than the school year 1992-1993, to assure that the State of Hawaii (Department of Education) has implemented the KEEP model program. Authorizes appropriations for FY 1988, and such sums as necessary for FY 1989 through 1993. Directs the Secretary to make grants to Native Hawaiian Organizations to develop and operate a minimum of eleven Family-Based Education Centers in Hawaii with prenatal and preschool programs. Authorizes appropriations for FY 1988, and such sums as necessary for FY 1989 through 1993. Requires the Secretary to make grants to the Kamehameha Schools/Bernice Pauahi Bishop Estate for a demonstration program to provide Higher Education Fellowship assistance to Native Hawaiian students, including students in post-bachelor degree programs. Authorizes appropriations for FY 1988 through 1993. Directs the Secretary to make grants to and enter into contracts with the State of Hawaii, including its junior or community colleges, and/or the Kamehameha Schools/Bernice Pauahi Bishop Estate for demonstration projects designed to address the special needs of Native Hawaiian gifted and talented elementary and secondary school students. Authorizes appropriations for FY 1988 through 1993. Requires the Secretary to make grants to and enter into contracts with the State of Hawaii and/or Native Hawaiian Organizations to operate projects to address the special needs of Native Hawaiian students. Authorizes appropriations for FY 1988 through 1993. Sets forth specified grant and contract requirements.</summary>
+</bill>

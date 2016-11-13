@@ -1,0 +1,77 @@
+<bill session="100" type="s" number="1335" updated="2014-03-22T09:55:17-04:00">
+  <state datetime="1987-12-12">PASS_OVER:SENATE</state>
+  <status>
+    <unknown datetime="1987-12-12"/>
+  </status>
+  <introduced datetime="1987-06-05"/>
+  <titles>
+    <title type="short" as="introduced">City of Rocks National Reserve Act of 1987</title>
+    <title type="short" as="reported to senate">City of Rocks National Reserve Act of 1987</title>
+    <title type="short" as="passed senate">City of Rocks National Reserve Act of 1987</title>
+    <title type="official" as="introduced">A bill to establish the City of Rocks National Reserve in the State of Idaho, and for other purposes.</title>
+  </titles>
+  <sponsor id="407355"/>
+  <cosponsors>
+    <cosponsor id="410588" joined="1987-06-05"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-06-05">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-08-19">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held at Burley, Idaho.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with amendments. With written report No. 100-245.</text>
+    </action>
+    <calendar datetime="1987-12-09" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="474">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 474.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-12-12" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with amendments by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-15">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-01-26">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-03-04">
+      <text>Executive Comment Requested from Interior, USDA.</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Executive Comment Received From USDA.</text>
+    </action>
+    <calendar datetime="1988-09-15">
+      <text>Committee on Energy and Natural Resources. Measure incorporated into measure S. 2840 ordered to be reported.</text>
+    </calendar>
+    <action datetime="1988-10-20">
+      <text>See S.2840.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="2840"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Idaho"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+  </subjects>
+  <amendments/>
+  <summary>12/12/1987--Passed Senate amended.
+(Measure passed Senate, amended) City of Rocks National Reserve Act of 1987 - Establishes the City of Rocks National Reserve, Idaho, for natural and historic preservation and recreational use. Requires the Secretary of the Interior, acting through the National Park Service, to formulate a comprehensive management plan for the Reserve, to be transmitted to specified congressional and State officials. Requires the Secretary to: (1) pass control of any or all of such lands to a State or local government agency with adequate protective regulations; (2) provide technical and financial assistance to such agencies; and (3) make grants to pay up to 50 percent of the annual operation costs. Authorizes the Secretary to acquire lands only with the consent of the owner. Transfers Federal land and water interests in such Reserve to the jurisdiction of the Secretary to be administered by the National Park Service. Requires the Secretary to withdraw upon notice any transfer of lands if such lands are not being managed in accordance with this Act. Authorizes the United States to acquire certain water rights. Withdraws Federal lands within the Reserve from entry or disposition under the public land and mining laws. Authorizes appropriations.</summary>
+</bill>

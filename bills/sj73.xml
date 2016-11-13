@@ -1,0 +1,36 @@
+<bill session="100" type="sj" number="73" updated="2016-06-29T08:45:02-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution designating the week of April 26, 1987, through May 2, 1987, as "Youth Commitment to Ending Hunger Week".</title>
+  </titles>
+  <sponsor id="300034"/>
+  <cosponsors>
+    <cosponsor id="402495" joined="1987-02-26"/>
+    <cosponsor id="403142" joined="1987-03-13"/>
+    <cosponsor id="409917" joined="1987-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="160"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Food relief"/>
+    <term name="Hunger"/>
+    <term name="Special weeks"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Designates the week of April 26 through May 2, 1987, as Youth's Commitment to Ending Hunger Week.</summary>
+</bill>

@@ -1,0 +1,45 @@
+<bill session="100" type="h" number="63" updated="2014-03-22T09:51:07-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 28 of the United States Code to limit the jurisdiction of courts established by Congress under article III of the Constitution of the United States over State Cases.</title>
+  </titles>
+  <sponsor id="401363"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-02-10">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Executive Comment Requested from Admin Office US Courts.</text>
+    </action>
+    <action datetime="1987-04-20">
+      <text>Executive Comment Received From Admin Office US Courts.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Appellate courts"/>
+    <term name="Courts and Civil Procedure"/>
+    <term name="District courts"/>
+    <term name="Judicial review"/>
+    <term name="Jurisdiction"/>
+    <term name="State courts"/>
+    <term name="States"/>
+    <term name="Supreme Court"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Eliminates the jurisdiction of Federal courts established under article III of the Constitution to modify any State court order which is subject to review by the highest court of the State.</summary>
+</bill>

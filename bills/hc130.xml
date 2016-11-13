@@ -1,0 +1,81 @@
+<bill session="100" type="hc" number="130" updated="2014-03-22T09:54:08-04:00">
+  <state datetime="1987-06-09">REPORTED</state>
+  <status>
+    <unknown datetime="1987-06-09"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution recognizing the accomplishments of the Federal Aid in Wildlife Restoration Act in honor of its 50th anniversary.</title>
+  </titles>
+  <sponsor id="403266"/>
+  <cosponsors>
+    <cosponsor id="401417" joined="1987-06-11"/>
+    <cosponsor id="403242" joined="1987-06-11"/>
+    <cosponsor id="403696" joined="1987-06-11"/>
+    <cosponsor id="404068" joined="1987-05-28"/>
+    <cosponsor id="405747" joined="1987-06-11"/>
+    <cosponsor id="405775" joined="1987-06-16"/>
+    <cosponsor id="406148" joined="1987-05-28"/>
+    <cosponsor id="400537" joined="1987-06-16"/>
+    <cosponsor id="406530" joined="1987-06-11"/>
+    <cosponsor id="406746" joined="1987-05-28"/>
+    <cosponsor id="408342" joined="1987-06-11"/>
+    <cosponsor id="409887" joined="1987-06-11"/>
+    <cosponsor id="410496" joined="1987-05-28"/>
+    <cosponsor id="411405" joined="1987-06-11"/>
+    <cosponsor id="400428" joined="1987-06-11"/>
+    <cosponsor id="411901" joined="1987-06-11"/>
+    <cosponsor id="400440" joined="1987-05-28"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-06-08">
+      <text>Referred to Subcommittee on Fisheries and Wildlife Conservation and the Environment.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Subcommittee on Fisheries and Wildlife Conservation and the Environment Discharged.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-09" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-06-18">
+      <text>Reported to House by House Committee on Merchant Marine and Fisheries.  Report No: 100-168.</text>
+    </action>
+    <action datetime="1987-06-18">
+      <text>Placed on House Calendar No: 48.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Resolution Agreed to in House by Voice Vote.</text>
+    </action>
+    <action datetime="1987-06-23">
+      <text>Received in the Senate and referred to the Committee on Environment and Public Works.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Discharged" code="HSMM02" subcommittee="Fisheries and Wildlife Conservation and the Environment" name="House Merchant Marine and Fisheries"/>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sc" number="81"/>
+    <bill relation="identical" session="100" type="sc" number="81"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congressional tributes"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Hunting"/>
+    <term name="Wildlife management"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Recognizes the accomplishments of the Federal Aid in Wildlife Restoration Act in enhancing, during the past 50 years, the knowledge, conservation, management, and habitat of U.S. wildlife resources, as well as hunter education. Commends hunters and shooters for their contributions to such Act's success.</summary>
+</bill>

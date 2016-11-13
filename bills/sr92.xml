@@ -1,0 +1,48 @@
+<bill session="100" type="sr" number="92" updated="2014-03-22T09:54:35-04:00">
+  <state datetime="1987-01-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-29"/>
+  </status>
+  <introduced datetime="1987-01-29"/>
+  <titles>
+    <title type="official" as="introduced">A resolution rejecting the Administration's recommendation to eliminate the excise tax exemption for alcohol fuels.</title>
+  </titles>
+  <sponsor id="300048"/>
+  <cosponsors>
+    <cosponsor id="401604" joined="1987-02-02"/>
+    <cosponsor id="401611" joined="1987-02-26"/>
+    <cosponsor id="300026" joined="1987-02-26"/>
+    <cosponsor id="300031" joined="1987-02-17"/>
+    <cosponsor id="403669" joined="1987-02-03"/>
+    <cosponsor id="300070" joined="1987-02-19"/>
+    <cosponsor id="407355" joined="1987-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-29" state="REFERRED">
+      <text>Referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hr" number="53"/>
+    <bill relation="identical" session="100" type="hr" number="53"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Alcohol tax"/>
+    <term name="Economics and public finance"/>
+    <term name="Energy policy"/>
+    <term name="Excise tax"/>
+    <term name="Federal budgets"/>
+    <term name="Gasoline"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Petroleum and petroleum products"/>
+  </subjects>
+  <amendments/>
+  <summary>1/29/1987--Introduced.
+Expresses the sense of the Senate that the President's recommendation in the 1988 Federal Budget proposal to repeal the partial excise tax exemption for alcohol fuels should be rejected by the Congress.</summary>
+</bill>

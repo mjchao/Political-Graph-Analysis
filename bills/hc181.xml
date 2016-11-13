@@ -1,0 +1,45 @@
+<bill session="100" type="hc" number="181" updated="2014-03-22T09:54:09-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of Congress with respect to violations of human rights by the provisional National Governing Council of Haiti.</title>
+  </titles>
+  <sponsor id="400306"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-08-24">
+      <text>Referred to Subcommittee on Arms Control, International Security and Science.</text>
+    </action>
+    <action datetime="1987-08-24">
+      <text>Referred to Subcommittee on Human Rights and International Organizations.</text>
+    </action>
+    <action datetime="1987-08-24">
+      <text>Referred to Subcommittee on Western Hemisphere Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSFA01" subcommittee="Arms Control, International Security and Science" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA06" subcommittee="Human Rights and International Organizations" name="House Foreign Affairs"/>
+    <committee activity="Referral" code="HSFA07" subcommittee="Western Hemisphere Affairs" name="House Foreign Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="American economic assistance"/>
+    <term name="American military assistance"/>
+    <term name="Democracy"/>
+    <term name="Government operations and politics"/>
+    <term name="Haiti"/>
+    <term name="Human rights"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Expresses the sense of the Congress that: (1) the failure of the National Governing Council of Haiti to abide by the new constitution of Haiti and respect internationally recognized human rights poses a threat to the transition of Haiti to democracy; (2) the President should suspend all military assistance and nonemergency economic assistance provided to the National Governing Council and use all means possible to ensure that pending elections are carried out without obstruction or interference; and (3) international organizations should make their resources and expertise available to the Provisional Electoral Council to assist in implementing and monitoring the pending elections in Haiti.</summary>
+</bill>

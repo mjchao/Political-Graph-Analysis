@@ -1,0 +1,59 @@
+<bill session="100" type="s" number="2565" updated="2014-03-22T09:55:52-04:00">
+  <state datetime="1988-09-14">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-14"/>
+  </status>
+  <introduced datetime="1988-06-23"/>
+  <titles>
+    <title type="official" as="introduced">A bill to remove certain restrictions on land acquisition for Antietam National Battlefield.</title>
+  </titles>
+  <sponsor id="300086"/>
+  <cosponsors>
+    <cosponsor id="300073" joined="1988-06-23"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-06-23" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1988-06-27">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1988-07-14">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-08-02">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held.</text>
+    </action>
+    <action datetime="1988-09-07">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Favorable.</text>
+    </action>
+    <calendar datetime="1988-09-14" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-22">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-529.</text>
+    </action>
+    <calendar datetime="1988-09-22" calendar="Senate Legislative" under="General Orders" number="964">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 964.</text>
+    </calendar>
+    <action datetime="1988-10-11">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Civil War"/>
+    <term name="Historic sites"/>
+    <term name="Land transfers"/>
+    <term name="Maryland"/>
+    <term name="Public Lands and Real Property"/>
+  </subjects>
+  <amendments/>
+  <summary>6/23/1988--Introduced.
+Removes the restriction which prohibits the Secretary of the Interior from acquiring in fee by purchase or condemnation more than 600 acres of Antietam National Battlefield, Maryland. Amends the National Parks and Recreation Act of 1978 to remove additional restrictions which authorized only certain scenic easement acquisitions.</summary>
+</bill>

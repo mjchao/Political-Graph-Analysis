@@ -1,0 +1,34 @@
+<bill session="100" type="s" number="2232" updated="2014-03-22T09:55:38-04:00">
+  <state datetime="1988-03-30">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-30"/>
+  </status>
+  <introduced datetime="1988-03-30"/>
+  <titles>
+    <title type="official" as="introduced">A bill to temporarily suspend the duty on high resolution cathode-ray tubes.</title>
+  </titles>
+  <sponsor id="403669"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-03-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4337"/>
+    <bill relation="identical" session="100" type="h" number="4337"/>
+  </relatedbills>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Imports"/>
+    <term name="Tariff"/>
+    <term name="Video display terminals"/>
+  </subjects>
+  <amendments/>
+  <summary>3/30/1988--Introduced.
+Amends the Tariff Schedules of the United States to suspend the duty on high resolution cathode-ray tubes through December 31, 1991.</summary>
+</bill>

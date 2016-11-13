@@ -1,0 +1,41 @@
+<bill session="100" type="h" number="1021" updated="2014-03-22T09:51:39-04:00">
+  <state datetime="1987-02-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-04"/>
+  </status>
+  <introduced datetime="1987-02-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require the Commandant of the Coast Guard to submit any organizational realignment plan to Congress for approval prior to implementation.</title>
+  </titles>
+  <sponsor id="400440"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-04" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Executive Comment Requested from DOT.</text>
+    </action>
+    <action datetime="1987-02-19">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1987-05-21">
+      <text>Unfavorable Executive Comment Received From DOT.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Coast guard"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Executive reorganization"/>
+  </subjects>
+  <amendments/>
+  <summary>2/4/1987--Introduced.
+Requires, before the implementation of any Coast Guard organizational realignment plan: (1) the Commandant of the Coast Guard to report to the Senate Commerce, Science, and Transportation Committee and the House Merchant Marine and Fisheries Committee, giving a complete statement on the realignment and the reasons for the realignment; and (2) approval of such plan by an Act of Congress.</summary>
+</bill>

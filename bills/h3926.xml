@@ -1,0 +1,32 @@
+<bill session="100" type="h" number="3926" updated="2014-03-22T09:53:00-04:00">
+  <state datetime="1988-02-08">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-08"/>
+  </status>
+  <introduced datetime="1988-02-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Nebraska Aluminum Castings, Incorporated.</title>
+  </titles>
+  <sponsor id="410097"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-02-08" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1988-02-12">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>2/8/1988--Introduced.
+Directs the Secretary of the Treasury to pay a specified sum to a named Nebraska corporation in full satisfaction of any claim against the United States for amounts expended for the preparation and protest of a bid which was erroneously rejected by the Department of the Army.</summary>
+</bill>

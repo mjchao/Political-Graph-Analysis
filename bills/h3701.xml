@@ -1,0 +1,37 @@
+<bill session="100" type="h" number="3701" updated="2014-03-22T09:52:57-04:00">
+  <state datetime="1987-12-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-03"/>
+  </status>
+  <introduced datetime="1987-12-03"/>
+  <titles>
+    <title type="short" as="introduced">Immigration Employment Paperwork Reduction Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Immigration and Nationality Act to make use of the employment verification paperwork system voluntary.</title>
+  </titles>
+  <sponsor id="400369"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-12-03" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-12-08">
+      <text>Referred to Subcommittee on Immigration, Refugees, and International Law.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSJU01" subcommittee="Immigration, Refugees, and International Law" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Immigration"/>
+    <term name="Alien labor"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Illegal aliens"/>
+    <term name="Labor and employment"/>
+  </subjects>
+  <amendments/>
+  <summary>12/3/1987--Introduced.
+Immigration Employment Paperwork Reduction Act of 1987 - Amends the Immigration and Nationality Act to repeal certain employment verification recordkeeping requirements.</summary>
+</bill>

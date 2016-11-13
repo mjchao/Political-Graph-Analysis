@@ -1,0 +1,111 @@
+<bill session="100" type="hj" number="342" updated="2016-06-29T08:44:39-04:00">
+  <state datetime="1988-08-09">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1988-08-09"/>
+  </status>
+  <introduced datetime="1987-07-27"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate August 20, 1988, as "Drum and Bugle Corps Recognition Day".</title>
+  </titles>
+  <sponsor id="408506"/>
+  <cosponsors>
+    <cosponsor id="401029" joined="1987-09-22"/>
+    <cosponsor id="400012" joined="1988-06-29"/>
+    <cosponsor id="401155" joined="1987-12-17"/>
+    <cosponsor id="400035" joined="1988-06-29"/>
+    <cosponsor id="401874" joined="1988-06-29"/>
+    <cosponsor id="401947" joined="1987-08-07"/>
+    <cosponsor id="400055" joined="1988-06-29"/>
+    <cosponsor id="402114" joined="1987-08-07"/>
+    <cosponsor id="402325" joined="1987-12-21"/>
+    <cosponsor id="402675" joined="1987-12-21"/>
+    <cosponsor id="400080" joined="1987-08-07"/>
+    <cosponsor id="403529" joined="1987-12-17"/>
+    <cosponsor id="403545" joined="1987-12-21"/>
+    <cosponsor id="400126" joined="1987-09-22"/>
+    <cosponsor id="404002" joined="1988-06-29"/>
+    <cosponsor id="404013" joined="1987-08-07"/>
+    <cosponsor id="400143" joined="1987-09-22"/>
+    <cosponsor id="300049" joined="1987-12-17"/>
+    <cosponsor id="404869" joined="1987-09-22"/>
+    <cosponsor id="404996" joined="1987-09-22"/>
+    <cosponsor id="405006" joined="1987-12-17"/>
+    <cosponsor id="405258" joined="1987-12-17"/>
+    <cosponsor id="405448" joined="1988-06-29"/>
+    <cosponsor id="405646" joined="1987-08-07"/>
+    <cosponsor id="405775" joined="1987-09-22"/>
+    <cosponsor id="400210" joined="1988-06-29"/>
+    <cosponsor id="406191" joined="1987-07-27"/>
+    <cosponsor id="406461" joined="1987-09-22"/>
+    <cosponsor id="400537" joined="1987-12-17"/>
+    <cosponsor id="406530" joined="1987-08-07"/>
+    <cosponsor id="400236" joined="1987-12-17"/>
+    <cosponsor id="406729" joined="1987-08-07"/>
+    <cosponsor id="406863" joined="1988-06-29"/>
+    <cosponsor id="406873" joined="1988-06-29"/>
+    <cosponsor id="407196" joined="1988-06-29"/>
+    <cosponsor id="407215" joined="1987-09-22"/>
+    <cosponsor id="400595" joined="1987-09-22"/>
+    <cosponsor id="400256" joined="1987-09-22"/>
+    <cosponsor id="407351" joined="1987-09-22"/>
+    <cosponsor id="400286" joined="1987-09-22"/>
+    <cosponsor id="408092" joined="1988-06-29"/>
+    <cosponsor id="408109" joined="1988-06-29"/>
+    <cosponsor id="408907" joined="1987-09-22"/>
+    <cosponsor id="300083" joined="1987-12-17"/>
+    <cosponsor id="409651" joined="1987-12-17"/>
+    <cosponsor id="409793" joined="1987-12-21"/>
+    <cosponsor id="300155" joined="1987-09-22"/>
+    <cosponsor id="410245" joined="1987-12-17"/>
+    <cosponsor id="400387" joined="1987-09-22"/>
+    <cosponsor id="410574" joined="1987-09-22"/>
+    <cosponsor id="410641" joined="1987-12-17"/>
+    <cosponsor id="400397" joined="1988-06-29"/>
+    <cosponsor id="300156" joined="1988-06-29"/>
+    <cosponsor id="411166" joined="1987-09-22"/>
+    <cosponsor id="411178" joined="1988-06-29"/>
+    <cosponsor id="411224" joined="1988-06-29"/>
+    <cosponsor id="400425" joined="1988-06-29"/>
+    <cosponsor id="411488" joined="1987-09-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-07-27" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1987-08-13">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>House Committee on Post Office and Civil Service Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-08-09">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-08-09" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-10">
+      <text>Received in the Senate.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="sj" number="271"/>
+    <bill relation="identical" session="100" type="sj" number="271"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Music"/>
+    <term name="Special days"/>
+  </subjects>
+  <amendments/>
+  <summary>7/27/1987--Introduced.
+Designates August 20, 1988, as Drum and Bugle Corps Recognition Day.</summary>
+</bill>

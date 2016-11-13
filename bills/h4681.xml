@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="4681" updated="2014-03-22T09:53:23-04:00">
+  <state datetime="1988-05-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-05-25"/>
+  </status>
+  <introduced datetime="1988-05-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill relating to the reporting of trade statistics.</title>
+  </titles>
+  <sponsor id="403545"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-05-25" state="REFERRED">
+      <text>Referred to House Committee on Post Office and Civil Service.</text>
+    </action>
+    <action datetime="1988-06-02">
+      <text>Referred to Subcommittee on Census and Population.</text>
+    </action>
+    <action datetime="1988-06-03">
+      <text>Executive Comment Requested from OMB, Commerce.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPO" name="House Post Office and Civil Service" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSPO01" subcommittee="Census and Population" name="House Post Office and Civil Service"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Balance of payments"/>
+    <term name="Economic statistics"/>
+    <term name="Economics and public finance"/>
+    <term name="Exports"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Imports"/>
+  </subjects>
+  <amendments/>
+  <summary>5/25/1988--Introduced.
+Repeals the requirement for the reporting of certain import statistics 48 hours in advance of any other Government statistics concerning values of imports or trade balances. Requires the Director of the Census to report to the Senate Committee on Finance and the House Committee on Ways and Means on a study of the feasibility of developing and publishing a monthly index of the real volume of merchandise trade which would be reported simultaneously with the balance of merchandise trade for the United States.</summary>
+</bill>

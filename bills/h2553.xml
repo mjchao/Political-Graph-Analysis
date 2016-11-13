@@ -1,0 +1,49 @@
+<bill session="100" type="h" number="2553" updated="2014-03-22T09:52:23-04:00">
+  <state datetime="1987-05-28">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-28"/>
+  </status>
+  <introduced datetime="1987-05-28"/>
+  <titles>
+    <title type="short" as="introduced">Legal Services Corporation Authorization Act of 1987</title>
+    <title type="official" as="introduced">A bill to authorize appropriations for fiscal year 1988 to the Legal Services Corporation to carry out the Legal Services Corporation Act, and for other purposes.</title>
+  </titles>
+  <sponsor id="406191"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-05-28" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-06-02">
+      <text>Referred to Subcommittee on Courts, Civil Liberties, and the Administration of Justice.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-06-09">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSJU03" subcommittee="Courts, Civil Liberties, and the Administration of Justice" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Law"/>
+    <term name="Authorization"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Economics and public finance"/>
+    <term name="Government corporations"/>
+    <term name="Government operations and politics"/>
+    <term name="Lawyers and Legal Services"/>
+    <term name="Legal Services Corporation"/>
+    <term name="Legal services"/>
+  </subjects>
+  <amendments/>
+  <summary>5/28/1987--Introduced.
+Legal Services Corporation Authorization Act of 1987 - Authorizes appropriations for FY 1988 for the Legal Services Corporation. Sets forth restrictions on the use of such funds.</summary>
+</bill>

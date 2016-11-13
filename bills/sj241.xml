@@ -1,0 +1,57 @@
+<bill session="100" type="sj" number="241" updated="2014-03-22T09:54:30-04:00">
+  <state datetime="1988-03-21">FAIL:ORIGINATING:SENATE</state>
+  <status>
+    <unknown datetime="1988-03-21"/>
+  </status>
+  <introduced datetime="1988-01-27"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to disapprove the proposed agreement for cooperation between the Government of the United States of America and the Government of Japan concerning peaceful uses of nuclear energy, transmitted to the Congress by the President on November 9, 1987.</title>
+  </titles>
+  <sponsor id="300016"/>
+  <cosponsors>
+    <cosponsor id="403515" joined="1988-01-27"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-27" state="REFERRED">
+      <text>Read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Senate Committee on Foreign Relations discharged.</text>
+    </action>
+    <calendar datetime="1988-03-14" state="REPORTED" calendar="Senate Legislative" under="General Orders" number="581">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 581.</text>
+    </calendar>
+    <action datetime="1988-03-21">
+      <text>Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 41-40. Record Vote No: 65.</text>
+    </action>
+    <action datetime="1988-03-21">
+      <text>Measure laid before Senate.</text>
+    </action>
+    <vote how="roll" type="vote" roll="66" datetime="1988-03-21" where="s" result="fail" state="FAIL:ORIGINATING:SENATE">
+      <text>Failed of passage in Senate by Yea-Nay Vote. 30-53. Record Vote No: 66.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="507"/>
+    <bill relation="identical" session="100" type="hj" number="507"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional oversight"/>
+    <term name="Congressional veto"/>
+    <term name="Foreign Trade and Investments"/>
+    <term name="Foreign trade and international finance"/>
+    <term name="International control of nuclear power"/>
+    <term name="Japan"/>
+    <term name="Nuclear energy"/>
+    <term name="Trade agreements"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1988--Introduced.
+Disapproves the proposed U.S.-Japan cooperation agreement concerning peaceful uses of nuclear energy.</summary>
+</bill>

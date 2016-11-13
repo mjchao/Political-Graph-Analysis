@@ -1,0 +1,32 @@
+<bill session="100" type="sj" number="71" updated="2016-06-29T08:45:02-04:00">
+  <state datetime="1987-02-26">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-26"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to designate the month of May 1987, as "National Digestive Diseases Awareness Month".</title>
+  </titles>
+  <sponsor id="404679"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hj" number="150"/>
+    <bill relation="identical" session="100" type="sj" number="67"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commemorations"/>
+    <term name="Digestive diseases"/>
+    <term name="Special months"/>
+  </subjects>
+  <amendments/>
+  <summary>2/26/1987--Introduced.
+Designates the month of May 1987 as National Digestive Diseases Awareness Month.</summary>
+</bill>

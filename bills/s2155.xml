@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="2155" updated="2014-03-22T09:55:37-04:00">
+  <state datetime="1988-03-04">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-04"/>
+  </status>
+  <introduced datetime="1988-03-04"/>
+  <titles>
+    <title type="short" as="introduced">Congressional Pay For Performance Act</title>
+    <title type="official" as="introduced">A bill to modify the provision of law which provides a permanent appropriation for the compensation of Members of Congress, and for other purposes.</title>
+  </titles>
+  <sponsor id="300154"/>
+  <cosponsors>
+    <cosponsor id="405305" joined="1988-03-04"/>
+    <cosponsor id="407355" joined="1988-03-04"/>
+    <cosponsor id="410588" joined="1988-03-04"/>
+    <cosponsor id="300157" joined="1988-03-04"/>
+    <cosponsor id="411271" joined="1988-03-04"/>
+    <cosponsor id="411762" joined="1988-04-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSRA" name="Senate Rules and Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1038"/>
+    <bill relation="identical" session="100" type="h" number="1038"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Appropriations"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional budget process"/>
+    <term name="Congressional salaries and pensions"/>
+    <term name="Economics and public finance"/>
+    <term name="House rules and procedure"/>
+    <term name="Legislation"/>
+    <term name="Members of Congress"/>
+    <term name="Senate rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>3/4/1988--Introduced.
+Congressional Pay For Performance Act - Provides that if the Congress has not passed all general appropriation bills before the beginning of a fiscal year, then the permanent appropriation for the compensation of Members of Congress shall not be effective for such fiscal year. Prohibits the House of Representatives and the Senate from considering the legislative branch appropriation bill for any fiscal year until other general appropriation bills for such fiscal year have been presented to the President.</summary>
+</bill>

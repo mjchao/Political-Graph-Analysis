@@ -1,0 +1,47 @@
+<bill session="100" type="s" number="1910" updated="2014-03-22T09:55:28-04:00">
+  <state datetime="1987-12-02">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-02"/>
+  </status>
+  <introduced datetime="1987-12-02"/>
+  <titles>
+    <title type="short" as="introduced">Class Size Demonstration Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide financial assistance to local educational agencies to demonstrate the advantages of implementing plans to reduce class size.</title>
+  </titles>
+  <sponsor id="402412"/>
+  <cosponsors>
+    <cosponsor id="300009" joined="1988-02-01"/>
+    <cosponsor id="300056" joined="1988-02-23"/>
+    <cosponsor id="408597" joined="1988-02-01"/>
+    <cosponsor id="409917" joined="1988-02-01"/>
+    <cosponsor id="410242" joined="1988-02-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-02" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Committee on Labor and Human Resources requested executive comment from OMB, Education Department.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Referred to Subcommittee on Education, Arts, Humanities.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR01" subcommittee="Education, Arts and Humanities" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="Federal aid to education"/>
+    <term name="Local and Municipal Government"/>
+    <term name="Local finance"/>
+    <term name="Secondary education"/>
+  </subjects>
+  <amendments/>
+  <summary>12/2/1987--Introduced.
+Class Size Demonstration Act of 1987 - Authorizes appropriations for FY 1989 and thereafter to carry out this Act. Directs the Secretary of Education to make demonstration grants to local educational agencies having elementary and secondary schools with large classes in order to demonstrate the advantages of reducing the size of classes. Sets forth grant selection criteria, application requirements, and audit requirements. Sets forth provisions for the Federal share of program payments.</summary>
+</bill>

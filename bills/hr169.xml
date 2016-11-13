@@ -1,0 +1,54 @@
+<bill session="100" type="hr" number="169" updated="2014-03-22T09:50:56-04:00">
+  <state datetime="1987-05-18">REFERRED</state>
+  <status>
+    <introduced datetime="1987-05-18"/>
+  </status>
+  <introduced datetime="1987-05-18"/>
+  <titles>
+    <title type="official" as="introduced">A resolution to amend the Rules of the House of Representatives to prohibit select committees from being reestablished more than three times.</title>
+  </titles>
+  <sponsor id="406968"/>
+  <cosponsors>
+    <cosponsor id="400551" joined="1987-06-15"/>
+    <cosponsor id="400018" joined="1987-07-01"/>
+    <cosponsor id="400571" joined="1987-06-17"/>
+    <cosponsor id="400035" joined="1987-07-15"/>
+    <cosponsor id="401847" joined="1987-06-02"/>
+    <cosponsor id="403184" joined="1987-05-27"/>
+    <cosponsor id="400104" joined="1987-06-15"/>
+    <cosponsor id="400205" joined="1987-05-27"/>
+    <cosponsor id="400226" joined="1987-06-17"/>
+    <cosponsor id="406530" joined="1987-05-27"/>
+    <cosponsor id="400239" joined="1987-05-27"/>
+    <cosponsor id="407215" joined="1987-06-17"/>
+    <cosponsor id="407899" joined="1987-06-02"/>
+    <cosponsor id="408190" joined="1987-06-02"/>
+    <cosponsor id="400318" joined="1987-06-02"/>
+    <cosponsor id="300083" joined="1987-05-27"/>
+    <cosponsor id="409887" joined="1987-06-15"/>
+    <cosponsor id="400534" joined="1987-06-15"/>
+    <cosponsor id="410010" joined="1987-05-27"/>
+    <cosponsor id="400389" joined="1987-06-04"/>
+    <cosponsor id="410553" joined="1987-06-04"/>
+    <cosponsor id="410641" joined="1987-06-17"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-05-18" state="REFERRED">
+      <text>Referred to House Committee on Rules.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>5/18/1987--Introduced.
+Amends rule X of the Rules of the House of Representatives to prohibit select committees from being reestablished more than three times other than by a resolution adopting or amending the Rules of the House.</summary>
+</bill>

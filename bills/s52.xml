@@ -1,0 +1,142 @@
+<bill session="100" type="s" number="52" updated="2014-03-22T09:54:45-04:00">
+  <state datetime="1988-09-22">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-09-22"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="passed house">Continental Scientific Drilling and Exploration Act</title>
+    <title type="short" as="reported to senate">Continental Scientific Drilling and Exploration Act</title>
+    <title type="short" as="passed senate">Continental Scientific Drilling and Exploration Act</title>
+    <title type="short" as="enacted">Continental Scientific Drilling and Exploration Act</title>
+    <title type="official" as="introduced">A bill to direct the cooperation of certain Federal entities in the implementation of the Continental Scientific Drilling Program.</title>
+  </titles>
+  <sponsor id="408898"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-01-06"/>
+    <cosponsor id="403483" joined="1987-01-06"/>
+    <cosponsor id="300036" joined="1987-01-06"/>
+    <cosponsor id="404679" joined="1987-03-11"/>
+    <cosponsor id="405305" joined="1987-02-17"/>
+    <cosponsor id="407268" joined="1987-01-06"/>
+    <cosponsor id="400563" joined="1987-01-06"/>
+    <cosponsor id="300150" joined="1987-01-06"/>
+    <cosponsor id="300079" joined="1987-01-06"/>
+    <cosponsor id="409917" joined="1987-01-06"/>
+    <cosponsor id="300094" joined="1987-03-25"/>
+    <cosponsor id="300099" joined="1987-01-06"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-01-06">
+      <text>Referred to Subcommittee on Mineral Resources and Development.</text>
+    </action>
+    <calendar datetime="1987-06-03" state="REPORTED">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-06-11">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment. With written report No. 100-67.</text>
+    </action>
+    <calendar datetime="1987-06-11" calendar="Senate Legislative" under="General Orders" number="162">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 162.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-17" where="s" result="pass" state="PASS_OVER:SENATE">
+      <text>Passed Senate with an amendment by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-22">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-07-07">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+    <action datetime="1987-07-13">
+      <text>Referred to Subcommittee on Mining and Natural Resources.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>House Committee on Interior and Insular Affairs Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>House Committee on Science, Space, and Technology Discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1988-05-23">
+      <text>Called up by House by Unanimous Consent.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-05-23" where="h" result="pass" state="PASS_BACK:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-05-23">
+      <text>House Struck all After the Enacting Clause and Substituted the Language of H.R.2737.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate bill.</text>
+    </action>
+    <action datetime="1988-06-10">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="By Voice Vote" type="pingpong" datetime="1988-06-10" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Senate concurred in the House amendments with an amendment. By Voice Vote.</text>
+    </vote>
+    <action datetime="1988-06-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>House Agreed to Senate Amendments to House Amendments by Unanimous Consent.</text>
+    </action>
+    <topresident datetime="1988-09-09">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-13">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-13">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-09-22" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-441" type="public" datetime="1988-09-22">
+      <text>Became Public Law No: 100-441.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral" code="SSEG05" subcommittee="Mineral Resources Development and Production" name="Senate Energy and Natural Resources"/>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSII02" subcommittee="Mining and Natural Resources" name="House Interior and Insular Affairs"/>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, Discharged"/>
+    <committee activity="Referral" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="2737"/>
+  </relatedbills>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Advisory bodies"/>
+    <term name="Earth science research"/>
+    <term name="Earth sciences"/>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Energy research"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Mines and mineral resources"/>
+    <term name="Research and development"/>
+    <term name="Science and technology"/>
+    <term name="Technological innovations"/>
+  </subjects>
+  <amendments>
+    <amendment number="s2344"/>
+  </amendments>
+  <summary>6/10/1988--Senate agreed to House amendment with amendment.
+(Senate agreed to House amendments with an amendment) Continental Scientific Drilling and Exploration Act - Directs the Secretary of Energy, the Secretary of the Interior, through the United States Geological Survey, and the Director of the National Science Foundation to implement the policies of the proposed Continental Scientific Drilling Program of the United States relating to earth science research and technological development. Prescribes guidelines for such implementation, including: (1) taking action to assure an effective cooperative effort in furtherance of the Program; (2) taking administrative and financial measures to assure the effective functioning of the Interagency Accord on Continental Scientific Drilling; (3) assuring the continuing operation of the Interagency Coordinating Group; and (4) assuring that the Interagency Coordinating Group receives appropriate Federal agency cooperation. Requires a report to the Congress within 180 days of enactment describing: (1) policy objectives; (2) projected schedules of scientific and engineering events that would advance Program objectives; (3) resources and funding levels for FY 1989 that would be required by each participating Federal agency to implement projected schedules of events and Program policy objectives; and (4) cooperation with the international community. Requires the Interagency Coordinating Group to submit annually a report describing the resources and funding levels needed for the next fiscal year (beginning one year after submission of the policy objectives report).</summary>
+</bill>

@@ -1,0 +1,43 @@
+<bill session="100" type="hc" number="234" updated="2014-03-22T09:54:12-04:00">
+  <state datetime="1987-12-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-21"/>
+  </status>
+  <introduced datetime="1987-12-21"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution expressing the sense of the Congress with respect to the 40th anniversary of the General Agreement on Tariffs and Trade.</title>
+  </titles>
+  <sponsor id="404325"/>
+  <cosponsors>
+    <cosponsor id="403581" joined="1987-12-21"/>
+    <cosponsor id="404520" joined="1987-12-21"/>
+    <cosponsor id="408575" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-21" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1987-12-21">
+      <text>Referred to Subcommittee on Trade.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM04" subcommittee="Trade" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Foreign trade and international finance"/>
+    <term name="Anniversaries"/>
+    <term name="Commemorations"/>
+    <term name="Commercial arbitration"/>
+    <term name="Congressional tributes"/>
+    <term name="International arbitration"/>
+    <term name="Tariff agreements"/>
+    <term name="Trade agreements"/>
+    <term name="Treaties"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/1987--Introduced.
+Commends: (1) the General Agreement on Tariffs and Trade (GATT) on its 40th anniversary; (2) all those who worked to create the GATT and have contributed their efforts since then; (3) those who have striven to uphold the principles and ideals of the GATT during past and present tariff and trade negotiations; and (4) the efforts of the men and women of the GATT Secretariat who have worked diligently to apply GATT to international trade and to impartially mediate international commercial disputes.</summary>
+</bill>

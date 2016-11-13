@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="5241" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to require that all Federal research, development, testing, and evaluation of the use of biological agents in the development of defenses against biological warfare be conducted by the Director of the National Institutes of Health, and for other purposes.</title>
+  </titles>
+  <sponsor id="408407"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on Armed Services.</text>
+    </action>
+    <action datetime="1988-08-11">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Executive Comment Requested from DOD.</text>
+    </action>
+    <action datetime="1988-08-22">
+      <text>Referred to Subcommittee on Research and Development.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAS" name="House Armed Services" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAS01" subcommittee="Research and Development" name="House Armed Services"/>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Science, technology, communications"/>
+    <term name="Armed forces and national security"/>
+    <term name="Biological research"/>
+    <term name="Biological warfare"/>
+    <term name="Defense articles"/>
+    <term name="Defense procurement"/>
+    <term name="Department of Defense"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Department of the Army"/>
+    <term name="Executive reorganization"/>
+    <term name="Government operations and politics"/>
+    <term name="Health"/>
+    <term name="Medical research"/>
+    <term name="Military research"/>
+    <term name="National Institutes of Health (NIH)"/>
+    <term name="Science and technology"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Directs the Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, to conduct all Federal research, except such research involving the field testing of biological agents and the use of classified information, on the use of biological agents in defenses against biological warfare, including such research currently conducted by the Secretary of the Army under the Biological Defense Research Program. Transfers all functions, personnel, and funds of such Program to the Secretary of Health and Human Services. Authorizes the Secretary to enter into cooperative agreements with the Secretary of the military department concerned under which members of the armed forces may be detailed for service in the National Institutes of Health to carry out the transferred functions. Amends Federal defense procurement provisions to restrict the Secretary of the Army and the Secretary of Defense from engaging in any research on the use of biological agents in defenses against biological warfare, except such research involving field testing of such agents or the use of classified information.</summary>
+</bill>

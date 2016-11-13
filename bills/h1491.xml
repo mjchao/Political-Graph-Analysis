@@ -1,0 +1,65 @@
+<bill session="100" type="h" number="1491" updated="2014-03-22T09:51:51-04:00">
+  <state datetime="1987-11-16">REPORTED</state>
+  <status>
+    <unknown datetime="1987-11-16"/>
+  </status>
+  <introduced datetime="1987-03-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of Rodney E. Hoover.</title>
+  </titles>
+  <sponsor id="408506"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-09" state="REFERRED">
+      <text>Referred to House Committee on The Judiciary.</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Referred to Subcommittee on Administrative Law and Governmental Relations.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-10-07">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-11-16" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-11-16">
+      <text>Reported to House by House Committee on The Judiciary.  Report No: 100-439.</text>
+    </action>
+    <action datetime="1987-11-16">
+      <text>Placed on Private Calendar No: 34.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1987-12-01">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1988-04-19">
+      <text>Passed Over by House Without Prejudice.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Called up by House on Call of Private Calendar.</text>
+    </action>
+    <action datetime="1988-05-03">
+      <text>Recommitted by House to House Committee on The Judiciary by Virtue of Objection Made on Call of Private Calendar.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSJU" name="House Judiciary" activity="Referral, Re-Commitment, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSJU02" subcommittee="Administrative Law and Governmental Relations" name="House Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>3/9/1987--Introduced.
+Confers jurisdiction upon the U.S. District Court for the Eastern District of California to hear, determine, and render judgment on any claim of a named individual against the United States arising out of injuries suffered in an accident while a member of the Civilian Conservation Corps.</summary>
+</bill>

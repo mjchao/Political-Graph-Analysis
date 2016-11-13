@@ -1,0 +1,44 @@
+<bill session="100" type="hr" number="355" updated="2014-03-22T09:50:59-04:00">
+  <state datetime="1988-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-03"/>
+  </status>
+  <introduced datetime="1988-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing amounts from the contingent fund of the House for expenses of investigations and studies by the Committee on Agriculture in the second session of the One Hundredth Congress.</title>
+  </titles>
+  <sponsor id="403308"/>
+  <cosponsors>
+    <cosponsor id="407069" joined="1988-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-03" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1988-02-09">
+      <text>Referred to Subcommittee on Accounts.</text>
+    </action>
+    <action datetime="1988-02-23">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-03-03">
+      <text>For Further Action See H.Res.388.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSHA01" subcommittee="Accounts" name="House Administration"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hr" number="388"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Congressional committees"/>
+    <term name="Congressional committees (House)"/>
+    <term name="House of Representatives"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1988--Introduced.
+Authorizes expenditures by the House Committee on Agriculture for the second session of the 100th Congress.</summary>
+</bill>

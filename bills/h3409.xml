@@ -1,0 +1,40 @@
+<bill session="100" type="h" number="3409" updated="2014-03-22T09:52:51-04:00">
+  <state datetime="1987-10-01">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-01"/>
+  </status>
+  <introduced datetime="1987-10-01"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title 38, United States Code, to authorize the Administrator of Veterans' Affairs to provide child day care services to employees of Veterans' Administration medical centers.</title>
+  </titles>
+  <sponsor id="408520"/>
+  <cosponsors>
+    <cosponsor id="405006" joined="1987-10-01"/>
+    <cosponsor id="300058" joined="1987-10-01"/>
+    <cosponsor id="406157" joined="1987-10-01"/>
+    <cosponsor id="400211" joined="1987-10-01"/>
+    <cosponsor id="407838" joined="1987-10-01"/>
+    <cosponsor id="410147" joined="1987-10-01"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-01" state="REFERRED">
+      <text>Referred to House Committee on Veterans' Affairs.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSVR" name="House Veterans' Affairs" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Armed forces and national security"/>
+    <term name="Children and youth"/>
+    <term name="Day care"/>
+    <term name="Government operations and politics"/>
+    <term name="Health facilities"/>
+    <term name="Hospitals"/>
+    <term name="Veterans' hospitals"/>
+  </subjects>
+  <amendments/>
+  <summary>10/1/1987--Introduced.
+Directs the Veterans' Canteen Service to operate child day care centers at Veterans Administration (VA) medical facilities for the care of the children of VA employees. Directs the Administrator of Veterans Affairs to provide to the Service, without charge, support services and utilities. Authorizes the Service to establish reasonable charges for the provision of such care. Requires the Administrator to assign suitable employees to the operation of such day care centers.</summary>
+</bill>

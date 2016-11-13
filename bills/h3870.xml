@@ -1,0 +1,57 @@
+<bill session="100" type="h" number="3870" updated="2014-03-22T09:52:59-04:00">
+  <state datetime="1988-01-27">REFERRED</state>
+  <status>
+    <introduced datetime="1988-01-27"/>
+  </status>
+  <introduced datetime="1988-01-27"/>
+  <titles>
+    <title type="short" as="introduced">Dairy Production Termination Enforcement Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Agricultural Act of 1949 to establish joint liability for certain breaches of contracts made under the milk production termination program, and for other purposes.</title>
+  </titles>
+  <sponsor id="408342"/>
+  <cosponsors>
+    <cosponsor id="401231" joined="1988-02-02"/>
+    <cosponsor id="400035" joined="1988-02-09"/>
+    <cosponsor id="402710" joined="1988-02-03"/>
+    <cosponsor id="300029" joined="1988-03-01"/>
+    <cosponsor id="404193" joined="1988-02-09"/>
+    <cosponsor id="400140" joined="1988-02-02"/>
+    <cosponsor id="404869" joined="1988-02-09"/>
+    <cosponsor id="405775" joined="1988-02-17"/>
+    <cosponsor id="300057" joined="1988-02-02"/>
+    <cosponsor id="408190" joined="1988-02-09"/>
+    <cosponsor id="409400" joined="1988-02-16"/>
+    <cosponsor id="410251" joined="1988-02-02"/>
+    <cosponsor id="400389" joined="1988-02-02"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-01-27" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1988-02-01">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1988-02-01">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+    <action datetime="1988-03-02">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Dairy industry"/>
+    <term name="Dairy products"/>
+    <term name="Milk"/>
+  </subjects>
+  <amendments/>
+  <summary>1/27/1988--Introduced.
+Dairy Production Termination Enforcement Act of 1988 - Amends the Agricultural Act of 1949 to make jointly liable with the producer for program violations any person who: (1) acquires, and uses or makes available for milk production, any milk production capacity idled under a dairy termination program producer contract; and (2) knows that the producer is prohibited from making the facility available to another person. Directs the Secretary of Agriculture to notify each facility owner regarding program compliance.</summary>
+</bill>

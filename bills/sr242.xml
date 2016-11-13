@@ -1,0 +1,53 @@
+<bill session="100" type="sr" number="242" updated="2014-03-22T09:54:36-04:00">
+  <state datetime="1987-10-28">PASSED:SIMPLERES</state>
+  <status>
+    <unknown datetime="1987-10-28"/>
+  </status>
+  <introduced datetime="1987-07-01"/>
+  <titles>
+    <title type="official" as="introduced">An original resolution waiving section 303(a) of the Congressional Budget Act of 1974 with respect to the consideration of S. 1184.</title>
+  </titles>
+  <sponsor id="300053"/>
+  <cosponsors/>
+  <actions>
+    <calendar datetime="1987-06-04" state="REPORTED">
+      <text>Committee on Commerce ordered to be reported an original measure.</text>
+    </calendar>
+    <action datetime="1987-07-01">
+      <text>Committee on Commerce. Original measure reported to Senate by Senator Hollings. Without written report.</text>
+    </action>
+    <action datetime="1987-07-01">
+      <text>Referred to the Committee on Budget.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Committee on Budget. Approved for reporting without amendment favorably.</text>
+    </action>
+    <action datetime="1987-07-23">
+      <text>Committee on Budget. Reported to Senate by Senator Chiles without amendment. Without written report.</text>
+    </action>
+    <calendar datetime="1987-07-23" calendar="Senate Legislative" under="General Orders" number="248">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 248.</text>
+    </calendar>
+    <action datetime="1987-10-28">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <vote how="roll" type="vote" roll="354" datetime="1987-10-28" where="s" result="pass" state="PASSED:SIMPLERES">
+      <text>Resolution agreed to in Senate without amendment by Yea-Nay Vote. 92-5. Record Vote No: 354.</text>
+    </vote>
+  </actions>
+  <committees>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Origin, Reporting, Markup"/>
+    <committee code="SSBU" name="Senate Budget" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Bill consideration (Budget waiver)"/>
+    <term name="Senate"/>
+    <term name="Senate rules and procedure"/>
+    <term name="Transportation and public works"/>
+  </subjects>
+  <amendments/>
+  <summary>7/1/1987--Introduced.
+Waives certain requirements of the Congressional Budget Act of 1974 with respect to the consideration of S. 1184 (airport and aviation programs).</summary>
+</bill>

@@ -1,0 +1,111 @@
+<bill session="100" type="h" number="4457" updated="2014-03-22T09:53:17-04:00">
+  <state datetime="1988-10-07">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1988-10-07"/>
+  </status>
+  <introduced datetime="1988-04-26"/>
+  <titles>
+    <title type="official" as="introduced">A bill to create a national park at Natchez, Mississippi.</title>
+  </titles>
+  <sponsor id="403576"/>
+  <cosponsors>
+    <cosponsor id="400882" joined="1988-07-26"/>
+    <cosponsor id="405258" joined="1988-07-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-04-26" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1988-05-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1988-05-24">
+      <text>Executive Comment Requested from Interior.</text>
+    </action>
+    <action datetime="1988-06-14">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1988-06-30">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1988-07-13">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1988-07-13" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1988-07-26">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-793.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Placed on Union Calendar No: 482.</text>
+    </action>
+    <action datetime="1988-07-26">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1988-07-26" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1988-08-02">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <calendar datetime="1988-09-14">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported without amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-16">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-09-19">
+      <text>Committee on Energy and Natural Resources requested executive comment from Interior Department, OMB.</text>
+    </action>
+    <action datetime="1988-09-22">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-538.</text>
+    </action>
+    <calendar datetime="1988-09-22" calendar="Senate Legislative" under="General Orders" number="973">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 973.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1988-09-27" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1988-09-27">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1988-09-30">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1988-09-30">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1988-10-07" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-479" type="public" datetime="1988-10-07">
+      <text>Became Public Law No: 100-479.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4596"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Historic sites"/>
+    <term name="Mississippi"/>
+    <term name="National parks"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Right-of-way"/>
+    <term name="Trails"/>
+  </subjects>
+  <amendments/>
+  <summary>7/26/1988--Passed House amended.
+(Measure passed House, amended) Establishes the Natchez National Historical Park in Mississippi. Authorizes the Secretary of the Interior to acquire land for such park by donations or exchange. Requires the Secretary to transmit to the House Committee on Interior and Insular Affairs and the Senate Committee on Energy and Natural Resources a study of historic properties in the city of Natchez. Directs the Secretary, following completion of such study, but not later than one year after enactment of this Act, to establish historic districts in the city of Natchez. Authorizes the Secretary to enter into cooperative agreements with owners of properties located within such historic districts. Requires the Secretary, within three complete fiscal years after enactment of this Act, to submit to such congressional committees a general management plan for the park. Requires the Secretary to study the feasibility of extending the Natchez Trace within the city of Natchez, including acceptance of donations of rights-of-way. Requires the Secretary, within one year after enactment of this Act, to transmit such study to such congressional committees. Establishes the Natchez National Historical Park Advisory Commission to consult with the Secretary on the management and development of the park. Authorizes appropriations.</summary>
+</bill>

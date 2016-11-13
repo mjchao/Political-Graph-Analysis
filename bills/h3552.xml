@@ -1,0 +1,60 @@
+<bill session="100" type="h" number="3552" updated="2014-03-22T09:52:53-04:00">
+  <state datetime="1987-10-27">REFERRED</state>
+  <status>
+    <introduced datetime="1987-10-27"/>
+  </status>
+  <introduced datetime="1987-10-27"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to reduce the maximum capital gains rate to 15 percent.</title>
+  </titles>
+  <sponsor id="400562"/>
+  <cosponsors>
+    <cosponsor id="400015" joined="1987-11-03"/>
+    <cosponsor id="401628" joined="1987-11-03"/>
+    <cosponsor id="401874" joined="1987-12-02"/>
+    <cosponsor id="403203" joined="1987-11-10"/>
+    <cosponsor id="400104" joined="1987-12-02"/>
+    <cosponsor id="403476" joined="1987-12-10"/>
+    <cosponsor id="403545" joined="1987-11-03"/>
+    <cosponsor id="403769" joined="1988-03-22"/>
+    <cosponsor id="404097" joined="1987-11-10"/>
+    <cosponsor id="300049" joined="1988-05-24"/>
+    <cosponsor id="400192" joined="1987-11-03"/>
+    <cosponsor id="300062" joined="1987-12-02"/>
+    <cosponsor id="406530" joined="1987-11-03"/>
+    <cosponsor id="406863" joined="1987-11-10"/>
+    <cosponsor id="406995" joined="1987-11-10"/>
+    <cosponsor id="407162" joined="1988-06-22"/>
+    <cosponsor id="407558" joined="1987-12-17"/>
+    <cosponsor id="400601" joined="1987-11-10"/>
+    <cosponsor id="400318" joined="1987-11-10"/>
+    <cosponsor id="409534" joined="1987-11-03"/>
+    <cosponsor id="400369" joined="1988-04-26"/>
+    <cosponsor id="300155" joined="1988-03-22"/>
+    <cosponsor id="400504" joined="1987-11-03"/>
+    <cosponsor id="410574" joined="1987-11-10"/>
+    <cosponsor id="411405" joined="1987-12-02"/>
+    <cosponsor id="411901" joined="1987-11-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-10-27" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="1789"/>
+    <bill relation="identical" session="100" type="s" number="1789"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Capital gains tax"/>
+    <term name="Income tax"/>
+    <term name="Tax rates"/>
+  </subjects>
+  <amendments/>
+  <summary>10/27/1987--Introduced.
+Amends the Internal Revenue Code to reduce from 28 to 15 percent the maximum income tax rate applicable to the long-term capital gains of individuals. Excludes capital gains from the phaseout affecting personal exemptions and the 15 percent income tax rate.</summary>
+</bill>

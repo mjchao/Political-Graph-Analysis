@@ -1,0 +1,44 @@
+<bill session="100" type="hj" number="51" updated="2014-03-22T09:53:41-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A joint resolution to express opposition to the Environmental Protection Agency's proposal to increase fluoridation levels in drinking water.</title>
+  </titles>
+  <sponsor id="406746"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="1987-03-31"/>
+    <cosponsor id="403184" joined="1987-03-10"/>
+    <cosponsor id="406530" joined="1987-03-10"/>
+    <cosponsor id="407457" joined="1987-03-31"/>
+    <cosponsor id="400359" joined="1987-03-10"/>
+    <cosponsor id="300087" joined="1987-03-10"/>
+    <cosponsor id="400409" joined="1987-03-10"/>
+    <cosponsor id="411901" joined="1987-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-01-22">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Water resources development"/>
+    <term name="Environmental protection"/>
+    <term name="Water and Water Resources Development"/>
+    <term name="Water fluoridation"/>
+    <term name="Water supply"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+States that the Environmental Protection Agency should not raise the fluoride levels in drinking water.</summary>
+</bill>

@@ -1,0 +1,86 @@
+<bill session="100" type="s" number="2384" updated="2014-03-22T09:55:48-04:00">
+  <state datetime="1988-09-23">REPORTED</state>
+  <status>
+    <unknown datetime="1988-09-23"/>
+  </status>
+  <introduced datetime="1988-05-12"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations to carry out the Atlantic Striped Bass Conservation Act for fiscal years 1989 through 1991, and for other purposes.</title>
+  </titles>
+  <sponsor id="407786"/>
+  <cosponsors>
+    <cosponsor id="402412" joined="1988-05-12"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-05-12" state="REFERRED">
+      <text>Read twice and referred to the Committee on Environment and Public Works.</text>
+    </action>
+    <action datetime="1988-05-25">
+      <text>Subcommittee on Environmental Protection. Hearings held. Hearings printed:  S.Hrg. 100-671.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Subcommittee on Environmental Protection. Approved for full committee consideration without amendment favorably.</text>
+    </action>
+    <action datetime="1988-09-09">
+      <text>Ordered, that if and when reported, the bill be referred to the Committee on Commerce, Sceince and Transportation for a period not to exceed 14 calendar days.</text>
+    </action>
+    <calendar datetime="1988-09-23" state="REPORTED">
+      <text>Committee on Environment and Public Works. Ordered to be reported with an amendment favorably.</text>
+    </calendar>
+    <action datetime="1988-09-28">
+      <text>Committee on Environment and Public Works. Reported to Senate by Senator Burdick with an amendment. With written report No. 100-558.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Referred to the Committee on Commerce pursuant to the order of September 9, 1988, for not to exceed fourteen days.</text>
+    </action>
+    <action datetime="1988-10-12">
+      <text>Senate Committee on Commerce discharged by Unanimous Consent.</text>
+    </action>
+    <calendar datetime="1988-10-12" calendar="Senate Legislative" under="General Orders" number="1143">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 1143.</text>
+    </calendar>
+    <action datetime="1988-10-14">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate incorporated this measure in H.R. 4124 as an amendment.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Senate passed companion measure H.R. 4124 in lieu of this measure by Voice Vote.</text>
+    </action>
+    <action datetime="1988-10-14">
+      <text>Indefinitely postponed by Senate by Unanimous Consent.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSEV" name="Senate Environment and Public Works" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings, Markup, Reporting" code="SSEV02" subcommittee="Environmental Protection" name="Senate Environment and Public Works"/>
+    <committee code="SSCM" name="Senate Commerce, Science, and Transportation" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="4124"/>
+    <bill relation="identical" session="100" type="h" number="4124"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="Anadromous fishes"/>
+    <term name="Atlantic Ocean"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Estuaries"/>
+    <term name="Fisheries"/>
+    <term name="Fishery management"/>
+    <term name="Fishing boats"/>
+    <term name="Foreign fishing"/>
+    <term name="Interstate commissions"/>
+    <term name="North Carolina"/>
+    <term name="Research"/>
+    <term name="Virginia"/>
+    <term name="Watersheds"/>
+  </subjects>
+  <amendments>
+    <amendment number="s3708"/>
+  </amendments>
+  <summary>9/28/1988--Reported to Senate amended.
+(Reported to Senate from the Committee on Environment and Public Works with amendment, S. Rept. 100-558) Authorizes appropriations for the Atlantic Striped Bass Conservation Act for FY 1989 through 1991. Makes such Act effective until the end of FY 1991. Extends the funding of striped bass studies under the Anadromous Fish Conservation Act through FY 1991. Authorizes the Atlantic States Marine Fisheries Commission to make specified determinations at any other time it deems necessary (in addition to its required annual determinations in December of each fiscal year). Requires the Director of the United States Fish and Wildlife Service, in consultation with the Assistant Administrator of the National Oceanic and Atmospheric Administration for Fisheries, to: (1) undertake a study of the striped bass fishery resources and habitats of the Albemarle Sound-Roanoke River basin area; (2) develop short-term and long-term recommendations for Federal and State government agencies for restoring and conserving such resources and habitats; and (3) submit such study results and recommendations to the Congress and the States of North Carolina and Virginia, within 36 months after enactment of this Act. Provides for study contents, participation by specified State and Federal agencies, and consultation with various entities. Authorizes appropriations for such study. Amends the Magnuson Fishery Conservation and Management Act to direct the Secretary of Commerce, when State regulations or a Federal moratorium on Atlantic striped bass fishing within the coastal waters of coastal State is in effect, to promulgate regulations governing Atlantic striped bass fishing in the Exclusive Economic Zone. Requires Federal regulations to be consistent with national standards and appropriate to: (1) ensure the effectiveness of such State regulations or Federal moratorium; and (2) achieve conservation and management goals for the Atlantic striped bass resource. Allows the appropriate Regional Fishery Management Councils to prepare a fishery management plan on Atlantic striped bass. Declares that, if a plan is approved and implemented by the Secretary, it shall supersede any regulations promulgated by a State under this Act. Terminates the provisions of this Act relating to regulation of striped bass fishing in the Exclusive Economic Zone on September 30, 1991. Amends provisions of Federal law relating to the stationing of a U.S. observer aboard each foreign fishing vessel while in certain waters to substitute references to the Exclusive Economic Zone for references to the fishery conservation zone.</summary>
+</bill>

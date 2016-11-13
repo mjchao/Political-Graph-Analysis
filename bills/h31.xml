@@ -1,0 +1,52 @@
+<bill session="100" type="h" number="31" updated="2014-03-22T09:51:06-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="short" as="introduced">Milk Price Support Modification Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend section 201(d)(1)(D) and (E) of the Agricultural Act of 1949.</title>
+  </titles>
+  <sponsor id="300057"/>
+  <cosponsors>
+    <cosponsor id="400035" joined="1987-03-10"/>
+    <cosponsor id="400536" joined="1987-03-10"/>
+    <cosponsor id="405256" joined="1987-03-10"/>
+    <cosponsor id="405646" joined="1987-03-10"/>
+    <cosponsor id="400188" joined="1987-03-10"/>
+    <cosponsor id="407196" joined="1987-03-10"/>
+    <cosponsor id="400318" joined="1987-03-10"/>
+    <cosponsor id="400378" joined="1987-03-18"/>
+    <cosponsor id="410455" joined="1987-03-10"/>
+    <cosponsor id="400409" joined="1987-03-10"/>
+    <cosponsor id="411901" joined="1987-03-10"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Agriculture.</text>
+    </action>
+    <action datetime="1987-01-30">
+      <text>Executive Comment Requested from USDA.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on Livestock, Dairy, and Poultry.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSAG" name="House Agriculture" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSAG03" subcommittee="Livestock, Dairy and Poultry" name="House Agriculture"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Dairy products"/>
+    <term name="Milk"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Milk Price Support Modification Act of 1987 - Amends the Agricultural Act of 1949 to eliminate purchase-based 50-cent increases or decreases for 1988 milk support levels.</summary>
+</bill>

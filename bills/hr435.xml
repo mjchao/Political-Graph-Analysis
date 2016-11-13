@@ -1,0 +1,42 @@
+<bill session="100" type="hr" number="435" updated="2014-03-22T09:51:01-04:00">
+  <state datetime="1988-04-25">INTRODUCED</state>
+  <status>
+    <introduced datetime="1988-04-25"/>
+  </status>
+  <introduced datetime="1988-04-25"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the consideration of the bill (H.R. 4264) to authorize appropriations for the fiscal year 1989 amended budget request for military functions of the Department of Defense and to prescribe military personnel levels for such Department for fiscal year 1989, to amend the National Defense Authorization Act for fiscal years 1988 and 1989, and for other purposes.</title>
+  </titles>
+  <sponsor id="408621"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-04-25">
+      <text>House Committee on Rules Reported an Original Measure. Report No: 100-579.</text>
+    </action>
+    <action datetime="1988-04-25">
+      <text>Placed on House Calendar No: 147.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Called up by House as Privileged Matter.</text>
+    </action>
+    <action datetime="1988-04-26">
+      <text>Resolution Agreed to in House by Yea-Nay Vote: 343 - 56 (Record Vote No: 67).</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSRU" name="House Rules" activity="Origin, Reporting"/>
+  </committees>
+  <relatedbills>
+    <bill relation="ruled-by" session="100" type="h" number="4264"/>
+  </relatedbills>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Armed forces and national security"/>
+    <term name="Bill consideration (Rule)"/>
+    <term name="House of Representatives"/>
+    <term name="House rules and procedure"/>
+  </subjects>
+  <amendments/>
+  <summary>4/25/1988--Introduced.
+Sets forth the rule for the consideration of H.R. 4264 (armed forces funding).</summary>
+</bill>

@@ -1,0 +1,58 @@
+<bill session="100" type="h" number="3377" updated="2014-03-22T09:52:50-04:00">
+  <state datetime="1987-09-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-30"/>
+  </status>
+  <introduced datetime="1987-09-30"/>
+  <titles>
+    <title type="short" as="introduced">Aircraft Cabin Air Quality Protection Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Federal Aviation Act of 1958 to prohibit smoking on domestic commercial aircraft flights.</title>
+  </titles>
+  <sponsor id="400299"/>
+  <cosponsors>
+    <cosponsor id="300011" joined="1987-10-22"/>
+    <cosponsor id="403314" joined="1987-11-09"/>
+    <cosponsor id="400100" joined="1987-11-09"/>
+    <cosponsor id="404006" joined="1987-10-22"/>
+    <cosponsor id="404009" joined="1987-10-22"/>
+    <cosponsor id="404190" joined="1987-12-03"/>
+    <cosponsor id="404520" joined="1987-09-30"/>
+    <cosponsor id="400537" joined="1987-10-22"/>
+    <cosponsor id="410496" joined="1987-10-22"/>
+    <cosponsor id="411585" joined="1987-11-04"/>
+    <cosponsor id="300100" joined="1987-10-22"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-30" state="REFERRED">
+      <text>Referred to House Committee on Public Works and Transportation.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Referred to Subcommittee on Aviation.</text>
+    </action>
+    <action datetime="1987-10-13">
+      <text>Hearings Held by Subcommittee on Aviation Prior to Referral (Oct 7, 87).</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>See H.J.Res.395.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSPW" name="House Public Works and Transportation" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSPW05" subcommittee="Aviation" name="House Public Works and Transportation"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="hj" number="395"/>
+  </relatedbills>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Air travel"/>
+    <term name="Aircraft"/>
+    <term name="Airlines"/>
+    <term name="Aviation"/>
+    <term name="Health"/>
+    <term name="Smoking"/>
+  </subjects>
+  <amendments/>
+  <summary>9/30/1987--Introduced.
+Aircraft Cabin Air Quality Protection Act of 1987 - Amends the Federal Aviation Act of 1958 to require air carriers to prohibit smoking on any aircraft during any flight involving the carriage of passengers in interstate or overseas air transportation. Directs the Administrator of the Federal Aviation Administration to promulgate regulations to implement this Act. Declares that it is unlawful to smoke during any flight involving the carriage of passengers in interstate or overseas air transportation.</summary>
+</bill>

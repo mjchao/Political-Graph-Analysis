@@ -1,0 +1,36 @@
+<bill session="100" type="h" number="1344" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-03-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-03-03"/>
+  </status>
+  <introduced datetime="1987-03-03"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize appropriations for the restoration of Fort McHenry.</title>
+  </titles>
+  <sponsor id="401383"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-03-03" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-18">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="Authorization"/>
+    <term name="Economics and public finance"/>
+    <term name="Historic sites"/>
+    <term name="Maryland"/>
+    <term name="National monuments"/>
+  </subjects>
+  <amendments/>
+  <summary>3/3/1987--Introduced.
+Authorizes appropriations for the restoration of Fort McHenry at the Fort McHenry National Monument and Historic Shrine in Maryland.</summary>
+</bill>

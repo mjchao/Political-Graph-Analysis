@@ -1,0 +1,50 @@
+<bill session="100" type="sc" number="13" updated="2014-03-22T09:54:40-04:00">
+  <state datetime="1987-02-03">REFERRED</state>
+  <status>
+    <introduced datetime="1987-02-03"/>
+  </status>
+  <introduced datetime="1987-02-03"/>
+  <titles>
+    <title type="official" as="introduced">A concurrent resolution to express the sense of Congress regarding efficient and compassionate management of the Social Security Disability Insurance (SSDI) program.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="400692" joined="1987-03-06"/>
+    <cosponsor id="403346" joined="1987-03-06"/>
+    <cosponsor id="300034" joined="1987-03-06"/>
+    <cosponsor id="405321" joined="1987-03-24"/>
+    <cosponsor id="300056" joined="1987-03-06"/>
+    <cosponsor id="406084" joined="1987-02-03"/>
+    <cosponsor id="300066" joined="1987-03-06"/>
+    <cosponsor id="407268" joined="1987-03-06"/>
+    <cosponsor id="400563" joined="1987-02-03"/>
+    <cosponsor id="409225" joined="1987-02-03"/>
+    <cosponsor id="300084" joined="1987-03-06"/>
+    <cosponsor id="300086" joined="1987-02-03"/>
+    <cosponsor id="410242" joined="1987-02-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-03" state="REFERRED">
+      <text>Referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="hc" number="35"/>
+    <bill relation="identical" session="100" type="hc" number="35"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Department of Health and Human Services"/>
+    <term name="Disability evaluation"/>
+    <term name="Government operations and politics"/>
+    <term name="Old age, survivors and disability insurance"/>
+    <term name="Social Security Administration"/>
+    <term name="Social security eligibility"/>
+  </subjects>
+  <amendments/>
+  <summary>2/3/1987--Introduced.
+Expresses the sense of the Congress that the Social Security Administration should not take actions which impair the ability of the staff of the Social Security Disability Insurance (SSDI) program to make eligibility determinations in accordance with the Social Security Disability Benefits Reform Act of 1984. Urges the Social Security Administration to place a higher priority on assisting States in both complying with the 1984 reforms and improving the accuracy of SSDI eligibility determinations.</summary>
+</bill>

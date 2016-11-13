@@ -1,0 +1,78 @@
+<bill session="100" type="h" number="3245" updated="2014-03-22T09:52:47-04:00">
+  <state datetime="1987-09-09">REFERRED</state>
+  <status>
+    <introduced datetime="1987-09-09"/>
+  </status>
+  <introduced datetime="1987-09-09"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Internal Revenue Code of 1986 to provide that the time for the payment of the manufacturers excise tax on bows, arrows and accessories will be the same as the time for payment of the excise tax on sport fishing equipment.</title>
+  </titles>
+  <sponsor id="408407"/>
+  <cosponsors>
+    <cosponsor id="401383" joined="1988-05-26"/>
+    <cosponsor id="400028" joined="1988-06-29"/>
+    <cosponsor id="401986" joined="1988-05-26"/>
+    <cosponsor id="402325" joined="1988-06-29"/>
+    <cosponsor id="402435" joined="1988-05-26"/>
+    <cosponsor id="402710" joined="1988-06-29"/>
+    <cosponsor id="300029" joined="1988-06-29"/>
+    <cosponsor id="403203" joined="1988-06-08"/>
+    <cosponsor id="400100" joined="1988-05-26"/>
+    <cosponsor id="404013" joined="1988-05-26"/>
+    <cosponsor id="404193" joined="1988-05-26"/>
+    <cosponsor id="404869" joined="1988-05-26"/>
+    <cosponsor id="405377" joined="1988-05-26"/>
+    <cosponsor id="400205" joined="1988-05-26"/>
+    <cosponsor id="406157" joined="1988-05-26"/>
+    <cosponsor id="400216" joined="1988-05-26"/>
+    <cosponsor id="400238" joined="1988-05-26"/>
+    <cosponsor id="400243" joined="1988-06-29"/>
+    <cosponsor id="407051" joined="1988-06-29"/>
+    <cosponsor id="400595" joined="1988-06-08"/>
+    <cosponsor id="407399" joined="1988-06-29"/>
+    <cosponsor id="407564" joined="1988-06-29"/>
+    <cosponsor id="407853" joined="1988-05-26"/>
+    <cosponsor id="400601" joined="1988-05-26"/>
+    <cosponsor id="408618" joined="1988-05-26"/>
+    <cosponsor id="400604" joined="1988-05-26"/>
+    <cosponsor id="409443" joined="1988-06-29"/>
+    <cosponsor id="410097" joined="1988-06-29"/>
+    <cosponsor id="411025" joined="1988-05-26"/>
+    <cosponsor id="411488" joined="1988-05-26"/>
+    <cosponsor id="411677" joined="1988-05-26"/>
+    <cosponsor id="411834" joined="1988-06-08"/>
+    <cosponsor id="411901" joined="1988-05-26"/>
+    <cosponsor id="300100" joined="1988-05-26"/>
+    <cosponsor id="400435" joined="1988-05-26" withdrawn="1988-06-14"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-09-09" state="REFERRED">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-11-10">
+      <text>Provisions of Measure Incorporated Into H.R.4333.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="h" number="4333"/>
+    <bill relation="identical" session="100" type="s" number="2438"/>
+    <bill relation="identical" session="100" type="s" number="2438"/>
+  </relatedbills>
+  <subjects>
+    <term name="Taxation"/>
+    <term name="Equipment and supplies"/>
+    <term name="Excise tax"/>
+    <term name="Hunting"/>
+    <term name="Manufacturing industries"/>
+    <term name="Sports and Athletics"/>
+    <term name="Sports and recreation"/>
+    <term name="Tax administration"/>
+    <term name="Trapping"/>
+  </subjects>
+  <amendments/>
+  <summary>9/9/1987--Introduced.
+Amends the Internal Revenue Code to provide that the manufacturers excise tax on bows, arrows, and related accessories shall be due and payable on the date for filing the appropriate return. (This provision corresponds to the treatment of sport fishing equipment under current law.)</summary>
+</bill>

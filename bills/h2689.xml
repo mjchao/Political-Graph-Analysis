@@ -1,0 +1,134 @@
+<bill session="100" type="h" number="2689" updated="2014-12-10T13:14:08-05:00">
+  <state datetime="1987-12-24">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-12-24"/>
+  </status>
+  <introduced datetime="1987-06-16"/>
+  <titles>
+    <title type="short" as="introduced">Arms Control and Disarmament Amendments Act of 1987</title>
+    <title type="short" as="reported to house">Arms Control and Disarmament Amendments Act of 1987</title>
+    <title type="short" as="passed house">Arms Control and Disarmament Amendments Act of 1987</title>
+    <title type="short" as="passed senate">Arms Control and Disarmament Amendments Act of 1987</title>
+    <title type="short" as="enacted">Arms Control and Disarmament Amendments Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Arms Control and Disarmament Act to authorize appropriations for the fiscal years 1988 and 1989 for the Arms Control and Disarmament Agency, and for other purposes.</title>
+  </titles>
+  <sponsor id="404002"/>
+  <cosponsors>
+    <cosponsor id="400025" joined="1987-06-16"/>
+    <cosponsor id="401847" joined="1987-06-16"/>
+    <cosponsor id="400055" joined="1987-06-16"/>
+    <cosponsor id="402600" joined="1987-06-16"/>
+    <cosponsor id="404996" joined="1987-06-16"/>
+    <cosponsor id="400192" joined="1987-06-16"/>
+    <cosponsor id="400231" joined="1987-06-16"/>
+    <cosponsor id="400236" joined="1987-06-16"/>
+    <cosponsor id="300091" joined="1987-06-16"/>
+    <cosponsor id="410496" joined="1987-06-16"/>
+    <cosponsor id="411025" joined="1987-06-16"/>
+    <cosponsor id="411426" joined="1987-06-16"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-16" state="REFERRED">
+      <text>Referred to House Committee on Foreign Affairs.</text>
+    </action>
+    <action datetime="1987-06-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-06-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-06-26">
+      <text>Reported to House (Amended) by House Committee on Foreign Affairs.  Report No: 100-193.</text>
+    </action>
+    <action datetime="1987-06-26">
+      <text>Placed on Union Calendar No: 116.</text>
+    </action>
+    <action datetime="1987-06-29">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-06-29" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-06-30">
+      <text>Received in the Senate and read twice and referred to the Committee on Foreign Relations.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Senate Committee on Foreign Relations discharged by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Measure laid before Senate by unanimous consent.</text>
+    </action>
+    <action datetime="1987-07-22">
+      <text>Senate struck all after the Enacting Clause and substituted the language of S. 1498.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-07-22" where="s" result="pass" state="PASS_BACK:SENATE">
+      <text>Passed Senate in lieu of S. 1498 with an amendment and an amendment to the Title by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-07-24">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-08">
+      <text>House Concurred, in Senate Amendments , with Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-12-08">
+      <text>House Disagreed to Senate Amendments by Unanimous Consent.</text>
+    </action>
+    <action datetime="1987-12-10">
+      <text>Message on House action received in Senate and held at desk: House amendment to Senate amendment.</text>
+    </action>
+    <vote how="By Voice Vote" type="pingpong" datetime="1987-12-12" where="s" result="pass" state="PASSED:BILL">
+      <text>Senate agreed to the House amendment. By Voice Vote.</text>
+    </vote>
+    <action datetime="1987-12-12">
+      <text>Senate receded from its title amendment. By Voice Vote.</text>
+    </action>
+    <topresident datetime="1987-12-12">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-12-14">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-12-15">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-12-16">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-12-24" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-213" type="public" datetime="1987-12-24">
+      <text>Became Public Law No: 100-213.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSFA" name="House Foreign Affairs" activity="Referral, Markup, Reporting"/>
+    <committee code="SSFR" name="Senate Foreign Relations" activity="Referral, Discharged"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="1498"/>
+  </relatedbills>
+  <subjects>
+    <term name="International affairs"/>
+    <term name="Antimissile missiles"/>
+    <term name="Armed forces and national security"/>
+    <term name="Arms Control and Disarmament Agency"/>
+    <term name="Arms control"/>
+    <term name="Arms control agreements"/>
+    <term name="Arms control negotiations"/>
+    <term name="Authorization"/>
+    <term name="Classified defense information"/>
+    <term name="Defense articles"/>
+    <term name="Economics and public finance"/>
+    <term name="Government operations and politics"/>
+    <term name="Government paperwork"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Inspection (Arms control)"/>
+    <term name="Inspectors general"/>
+    <term name="Treaties"/>
+    <term name="U.S.S.R."/>
+  </subjects>
+  <amendments/>
+  <summary>12/8/1987--House agreed to Senate amendment with amendment.
+(House agreed to Senate amendment with an amendment) Arms Control and Disarmament Amendments Act of 1987 - Amends the Arms Control and Disarmament Act to authorize appropriations for the Arms Control and Disarmament Agency for FY 1988 and 1989. Earmarks specified amounts of authorized funds for: (1) necessary expenses incurred in connection with arms control negotiations conducted with the Soviet Union; (2) the program for visiting scholars in the field of arms control and disarmament; (3) external research to assist the Bureau of Verification and Intelligence in making assessments of possible new systems, devices, and capabilities for verification of arms control; and (4) other external research programs. Requires the President to submit an annual report to the Congress prepared by the United States Commissioner on the activities of the U.S.-U.S.S.R. Standing Consultative Commission established under the Treaty on the Limitation of Anti-Ballistic Missile Systems. Requires the Director of the Arms Control and Disarmament Agency to conduct and report to the Congress on a study to determine how the Commission could be used more effectively to resolve arms control compliance issues. Requires the Director to submit an annual report to the Congress setting forth a comprehensive list of research, development, and other studies relating to arms control and disarmament issues concluded during the previous calendar year by Government agencies or for Government agencies by private or public institutions or persons. Revises the requirements for the annual report concerning arms-control compliance to require the inclusion of information on actions taken by the Soviet Union and other nations with regard to size, structure, and disposition of their military forces in order to comply with existing arms control agreements. Establishes within the Agency an Office of the Inspector General. Specifies that the Inspector General of the Department of State shall also hold the position of Inspector General of the Agency and shall utilize personnel of the Office of the Inspector General of the Department of State. Requires the Inspector General of the Agency to conduct a survey of physical, personnel, document, and communications security programs, procedures, and practices of the Agency for the protection of classified information and to submit a report to the Director and to the Congress on the results of such survey.</summary>
+</bill>

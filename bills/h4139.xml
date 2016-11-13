@@ -1,0 +1,60 @@
+<bill session="100" type="h" number="4139" updated="2014-03-22T09:53:04-04:00">
+  <state datetime="1988-03-10">REFERRED</state>
+  <status>
+    <introduced datetime="1988-03-10"/>
+  </status>
+  <introduced datetime="1988-03-10"/>
+  <titles>
+    <title type="short" as="introduced">Inspector General Act Amendments of 1988</title>
+    <title type="official" as="introduced">A bill to amend the Inspector General Act of 1978.</title>
+  </titles>
+  <sponsor id="409793"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1988-04-13"/>
+    <cosponsor id="401947" joined="1988-03-10"/>
+    <cosponsor id="403364" joined="1988-04-13"/>
+    <cosponsor id="403776" joined="1988-04-13"/>
+    <cosponsor id="404190" joined="1988-04-13"/>
+    <cosponsor id="404422" joined="1988-04-13"/>
+    <cosponsor id="404602" joined="1988-04-13"/>
+    <cosponsor id="404634" joined="1988-05-02"/>
+    <cosponsor id="404765" joined="1988-04-13"/>
+    <cosponsor id="405524" joined="1988-04-13"/>
+    <cosponsor id="405775" joined="1988-04-13"/>
+    <cosponsor id="406157" joined="1988-04-13"/>
+    <cosponsor id="400216" joined="1988-04-13"/>
+    <cosponsor id="408109" joined="1988-04-13"/>
+    <cosponsor id="408407" joined="1988-05-10"/>
+    <cosponsor id="410066" joined="1988-04-13"/>
+    <cosponsor id="400387" joined="1988-04-13"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-03-10" state="REFERRED">
+      <text>Referred to House Committee on Government Operations.</text>
+    </action>
+    <action datetime="1988-03-14">
+      <text>Referred to Subcommittee on Legislation and National Security.</text>
+    </action>
+    <action datetime="1988-05-17">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSGO" name="House Government Operations" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSGO06" subcommittee="Legislation and National Security" name="House Government Operations"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Energy"/>
+    <term name="Energy policy"/>
+    <term name="Executive reorganization"/>
+    <term name="Government operations and politics"/>
+    <term name="Independent regulatory commissions"/>
+    <term name="Inspectors general"/>
+    <term name="Nuclear Regulatory Commission"/>
+    <term name="Nuclear energy"/>
+  </subjects>
+  <amendments/>
+  <summary>3/10/1988--Introduced.
+Inspector General Act Amendments of 1988 - Amends the Inspector General Act of 1978 to establish in the Nuclear Regulatory Commission the Office of Inspector General. Authorizes the Chairman of the Nuclear Regulatory Commission to delegate supervision of the Inspector General to another member of the Commission, but to no one else.</summary>
+</bill>

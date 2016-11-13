@@ -1,0 +1,148 @@
+<bill session="100" type="h" number="1320" updated="2014-03-22T09:51:47-04:00">
+  <state datetime="1987-04-01">PASS_OVER:HOUSE</state>
+  <status>
+    <unknown datetime="1987-04-01"/>
+  </status>
+  <introduced datetime="1987-02-26"/>
+  <titles>
+    <title type="short" as="introduced">Land and Water Conservation Fund Act Amendments of 1987</title>
+    <title type="short" as="reported to house">Land and Water Conservation Fund Act Amendments of 1987</title>
+    <title type="short" as="passed house">Land and Water Conservation Fund Act Amendments of 1987</title>
+    <title type="short" as="reported to senate">Land and Water Conservation Fund Act Amendments of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Land and Water Conservation Fund Act of 1965, and for other purposes.</title>
+  </titles>
+  <sponsor id="400612"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-03-11"/>
+    <cosponsor id="401310" joined="1987-03-11"/>
+    <cosponsor id="401446" joined="1987-03-11"/>
+    <cosponsor id="402159" joined="1987-03-11"/>
+    <cosponsor id="402710" joined="1987-03-11"/>
+    <cosponsor id="403776" joined="1987-03-11"/>
+    <cosponsor id="404190" joined="1987-03-11"/>
+    <cosponsor id="404376" joined="1987-03-11"/>
+    <cosponsor id="406473" joined="1987-03-11"/>
+    <cosponsor id="400331" joined="1987-03-11"/>
+    <cosponsor id="409353" joined="1987-03-11"/>
+    <cosponsor id="410066" joined="1987-03-11"/>
+    <cosponsor id="410496" joined="1987-03-11"/>
+    <cosponsor id="411025" joined="1987-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-26" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-03-12">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-03-19">
+      <text>Forwarded by Subcommittee to Full Committee (Amended).</text>
+    </action>
+    <action datetime="1987-03-25">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-03-25" state="REPORTED">
+      <text>Ordered to be Reported (Amended).</text>
+    </calendar>
+    <action datetime="1987-03-27">
+      <text>Reported to House (Amended) by House Committee on Interior and Insular Affairs.  Report No: 100-33.</text>
+    </action>
+    <action datetime="1987-03-27">
+      <text>Placed on Union Calendar No: 25.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Committee on Rules Granted a Modified Closed Rule Providing One Hour of General Debate.</text>
+    </action>
+    <action datetime="1987-03-31">
+      <text>Rules Committee Resolution H.Res.135 Reported to House.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Rule Passed House.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Called up by House by Rule.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>Committee Amendment in the Nature of a Substitute Considered as an Original Bill for the Purpose of Amendment.</text>
+    </action>
+    <action datetime="1987-04-01">
+      <text>House Agreed to Amendments Adopted by the Committee of the Whole.</text>
+    </action>
+    <vote how="roll" type="vote" roll="44" datetime="1987-04-01" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House (Amended) by Yea-Nay Vote: 416 - 5 (Record Vote No: 44).</text>
+    </vote>
+    <action datetime="1987-04-02">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-04-27">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed:  S.Hrg. 100-59.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Favorable.</text>
+    </action>
+    <calendar datetime="1987-06-10">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported with an amendment in the nature of a substitute favorably.</text>
+    </calendar>
+    <action datetime="1987-06-24">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston with an amendment in the nature of a substitute. With written report No. 100-86.</text>
+    </action>
+    <calendar datetime="1987-06-24" calendar="Senate Legislative" under="General Orders" number="204">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 204.</text>
+    </calendar>
+    <action datetime="1987-10-07">
+      <text>For Further Action See H.R.3545.</text>
+    </action>
+    <action datetime="1988-01-26">
+      <text>Indefinitely postponed by Senate by Voice Vote.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="rule" session="100" type="hr" number="135"/>
+    <bill relation="unknown" session="100" type="h" number="1089"/>
+    <bill relation="unknown" session="100" type="h" number="1542"/>
+    <bill relation="unknown" session="100" type="h" number="3545"/>
+  </relatedbills>
+  <subjects>
+    <term name="Public lands and natural resources"/>
+    <term name="California"/>
+    <term name="Economics and public finance"/>
+    <term name="Fees"/>
+    <term name="Government trust funds"/>
+    <term name="Hawaii"/>
+    <term name="Historic sites"/>
+    <term name="Idaho"/>
+    <term name="Montana"/>
+    <term name="Monuments and memorials"/>
+    <term name="National monuments"/>
+    <term name="National parks"/>
+    <term name="New York City"/>
+    <term name="Outdoor recreation"/>
+    <term name="Parks"/>
+    <term name="Parks and Natural Areas"/>
+    <term name="Pennsylvania"/>
+    <term name="Recreation areas"/>
+    <term name="Urban affairs"/>
+    <term name="Urban life"/>
+    <term name="User charges"/>
+    <term name="Volunteer workers"/>
+    <term name="Wyoming"/>
+  </subjects>
+  <amendments>
+    <amendment number="h26"/>
+    <amendment number="h27"/>
+  </amendments>
+  <summary>1/26/1988--Indefinitely postponed in Senate.
+(Measure indefinitely postponed in Senate) Land and Water Conservation Fund Act Amendments of 1987 - Amends the Land and Water Conservation Fund Act of 1965 to increase from $10 to $25 the charge for the annual admission permit (the Golden Eagle Passport) into any entrance fee area of the National Park System. Authorizes the Secretary of the Interior to make available an annual admission permit for a reasonable fee for a specific unit or units of the National Park System. Sets fee limits for single-visit permits. Prohibits charging fees at any National Park unit located in an urbanized area. Directs the Secretary to report to specified congressional committees a list of units and their proposed admission fees. Prohibits admission fees for persons 16 years of age or less or for organized educational groups. Prohibits charges at: (1) the Statue of Liberty National Monument, New York; (2) the U.S.S. Arizona Memorial, Hawaii; and (3) Independence National Historical Park, Pennsylvania. Requires a "Fee-Free Day" at each unit where a fee is charged. Sets admission fee limitations for Glacier, Yellowstone, and Grand Teton National Parks. Makes admission fees available to the collecting agency for resource protection, research, interpretation, and maintenance at outdoor recreation facilities managed by that agency. Allocates 15 percent of the funds collected by the National Park Service to Park units based upon need; 35 percent for operating expenses; and 50 percent based on user and admission fees. Permits the use of such funds for resource protection, research, and interpretation, and in the case of funds from user fees, for maintenance. Authorizes volunteers or others to sell permits and collect fees if adequately trained and bonded. Permits the charge of a transportation fee in lieu of an entrance fee at parks with transportation systems. Provides for the distribution of such funds with the park itself retaining 50 percent outright. Directs the Secretary to study the feasibility of adjusting entrance fees to encourage alternative transportation usage and visitation at off-peak times. Requires the study to include a pilot program at Yosemite National Park. Directs the Secretary to report to specified congressional committees within three years on such study. Extends the Land and Water Conservation Fund through FY 2015.</summary>
+</bill>

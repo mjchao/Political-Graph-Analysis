@@ -1,0 +1,138 @@
+<bill session="100" type="h" number="191" updated="2014-03-22T09:51:13-04:00">
+  <state datetime="1987-06-30">ENACTED:SIGNED</state>
+  <status>
+    <unknown datetime="1987-06-30"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to authorize the establishment of a Peace Garden on a site to be selected by the Secretary of the Interior.</title>
+  </titles>
+  <sponsor id="400278"/>
+  <cosponsors>
+    <cosponsor id="400975" joined="1987-02-04"/>
+    <cosponsor id="401231" joined="1987-02-04"/>
+    <cosponsor id="300011" joined="1987-01-06"/>
+    <cosponsor id="400572" joined="1987-01-06"/>
+    <cosponsor id="402114" joined="1987-02-04"/>
+    <cosponsor id="402833" joined="1987-02-04"/>
+    <cosponsor id="403031" joined="1987-01-06"/>
+    <cosponsor id="400100" joined="1987-02-04"/>
+    <cosponsor id="403364" joined="1987-01-06"/>
+    <cosponsor id="403776" joined="1987-01-06"/>
+    <cosponsor id="404013" joined="1987-01-06"/>
+    <cosponsor id="404376" joined="1987-01-06"/>
+    <cosponsor id="405256" joined="1987-02-04"/>
+    <cosponsor id="405646" joined="1987-01-06"/>
+    <cosponsor id="400211" joined="1987-01-06"/>
+    <cosponsor id="400216" joined="1987-01-06"/>
+    <cosponsor id="406740" joined="1987-02-04"/>
+    <cosponsor id="400238" joined="1987-02-04"/>
+    <cosponsor id="400595" joined="1987-02-04"/>
+    <cosponsor id="407471" joined="1987-02-04"/>
+    <cosponsor id="407772" joined="1987-02-04"/>
+    <cosponsor id="407960" joined="1987-02-04"/>
+    <cosponsor id="408313" joined="1987-01-06"/>
+    <cosponsor id="408457" joined="1987-02-04"/>
+    <cosponsor id="400333" joined="1987-02-04"/>
+    <cosponsor id="400387" joined="1987-01-06"/>
+    <cosponsor id="400409" joined="1987-02-04"/>
+    <cosponsor id="410926" joined="1987-02-04"/>
+    <cosponsor id="411426" joined="1987-02-04"/>
+    <cosponsor id="411677" joined="1987-02-04"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Interior and Insular Affairs.</text>
+    </action>
+    <action datetime="1987-02-05">
+      <text>Referred to Subcommittee on National Parks and Public Lands.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Subcommittee Consideration and Mark-up Session Held.</text>
+    </action>
+    <action datetime="1987-02-24">
+      <text>Forwarded by Subcommittee to Full Committee.</text>
+    </action>
+    <action datetime="1987-03-04">
+      <text>Committee Consideration and Mark-up Session Held.</text>
+    </action>
+    <calendar datetime="1987-03-04" state="REPORTED">
+      <text>Ordered to be Reported.</text>
+    </calendar>
+    <action datetime="1987-03-05">
+      <text>Reported to House by House Committee on Interior and Insular Affairs.  Report No: 100-17.</text>
+    </action>
+    <action datetime="1987-03-05">
+      <text>Placed on Union Calendar No: 13.</text>
+    </action>
+    <action datetime="1987-03-10">
+      <text>Called up by House Under Suspension of Rules.</text>
+    </action>
+    <vote how="by Voice Vote" type="vote" datetime="1987-03-10" where="h" result="pass" state="PASS_OVER:HOUSE">
+      <text>Passed House by Voice Vote.</text>
+    </vote>
+    <action datetime="1987-03-11">
+      <text>Received in the Senate and read twice and referred to the Committee on Energy and Natural Resources.</text>
+    </action>
+    <action datetime="1987-03-11">
+      <text>Referred to Subcommittee on Public Lands, National Parks.</text>
+    </action>
+    <action datetime="1987-05-07">
+      <text>Subcommittee on Public Lands, National Parks. Hearings held. Hearings printed:  S.Hrg. 100-94.</text>
+    </action>
+    <action datetime="1987-05-15">
+      <text>Committee on Energy and Natural Resources received executive comment from Interior Department. Favorable.</text>
+    </action>
+    <calendar datetime="1987-06-03">
+      <text>Committee on Energy and Natural Resources. Ordered to be reported in lieu of S. 261 without amendment favorably.</text>
+    </calendar>
+    <action datetime="1987-06-11">
+      <text>Committee on Energy and Natural Resources. Reported to Senate by Senator Johnston without amendment. With written report No. 100-69.</text>
+    </action>
+    <calendar datetime="1987-06-11" calendar="Senate Legislative" under="General Orders" number="164">
+      <text>Placed on Senate Legislative Calendar under General Orders. Calendar No. 164.</text>
+    </calendar>
+    <vote how="by Voice Vote" type="vote2" datetime="1987-06-17" where="s" result="pass" state="PASSED:BILL">
+      <text>Passed Senate without amendment by Voice Vote.</text>
+    </vote>
+    <topresident datetime="1987-06-17">
+      <text>Cleared for White House.</text>
+    </topresident>
+    <action datetime="1987-06-18">
+      <text>Message on Senate action sent to the House.</text>
+    </action>
+    <action datetime="1987-06-22">
+      <text>Measure Signed in Senate.</text>
+    </action>
+    <topresident datetime="1987-06-23">
+      <text>Presented to President.</text>
+    </topresident>
+    <signed datetime="1987-06-30" state="ENACTED:SIGNED">
+      <text>Signed by President.</text>
+    </signed>
+    <enacted number="100-63" type="public" datetime="1987-06-30">
+      <text>Became Public Law No: 100-63.</text>
+    </enacted>
+  </actions>
+  <committees>
+    <committee code="HSII" name="House Interior and Insular Affairs" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Markup, Reporting" code="HSII01" subcommittee="National Parks and Public Lands" name="House Interior and Insular Affairs"/>
+    <committee code="SSEG" name="Senate Energy and Natural Resources" activity="Referral, Markup, Reporting"/>
+    <committee activity="Referral, Hearings" code="SSEG04" subcommittee="Public Lands, National Parks and Forests" name="Senate Energy and Natural Resources"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="71"/>
+    <bill relation="identical" session="100" type="s" number="71"/>
+    <bill relation="identical" session="100" type="s" number="261"/>
+  </relatedbills>
+  <subjects>
+    <term name="Monuments and memorials"/>
+    <term name="District of Columbia"/>
+    <term name="Gardening"/>
+    <term name="International affairs"/>
+    <term name="Peace"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Authorizes the Secretary of the Interior to enter into an agreement with the Peace Garden Project, Inc., which permits the Project to establish a Peace Garden in the District of Columbia, to honor the commitment of the people of the United States to world peace. Requires Federal approval of design plans. Prohibits Federal financial participation. Terminates such authority if construction is not begun within five years of this Act's enactment.</summary>
+</bill>

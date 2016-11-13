@@ -1,0 +1,42 @@
+<bill session="100" type="h" number="546" updated="2014-03-22T09:51:23-04:00">
+  <state datetime="1987-01-08">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-08"/>
+  </status>
+  <introduced datetime="1987-01-08"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend the Education Consolidation and Improvement Act of 1981 to authorize programs of child abuse education and prevention and to establish demonstration projects of child abuse education and prevention.</title>
+  </titles>
+  <sponsor id="402763"/>
+  <cosponsors>
+    <cosponsor id="405687" joined="1987-11-03"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-01-08" state="REFERRED">
+      <text>Referred to House Committee on Education and Labor.</text>
+    </action>
+    <action datetime="1987-02-23">
+      <text>Referred to Subcommittee on Elementary, Secondary and Vocational Education.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSED" name="House Education and Labor" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSED01" subcommittee="Elementary, Secondary, and Vocational Education" name="House Education and Labor"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Families"/>
+    <term name="Child abuse"/>
+    <term name="Children and youth"/>
+    <term name="Curricula"/>
+    <term name="Education"/>
+    <term name="Elementary and secondary education"/>
+    <term name="Elementary education"/>
+    <term name="Secondary education"/>
+    <term name="Teacher education"/>
+    <term name="Teachers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/8/1987--Introduced.
+Amends the Education Consolidation and Improvement Act of 1981 to include as authorized special projects programs for the development of curricula related to child abuse education and prevention and the training of personnel to teach child abuse education and prevention to elementary and secondary school children. Directs the Secretary of Education to establish a demonstration program for such curricula development and personnel training. Authorizes appropriations for FY 1987 and subsequent fiscal years for such demonstration program.</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="172" updated="2014-03-22T09:51:12-04:00">
+  <state datetime="1987-01-06">REFERRED</state>
+  <status>
+    <introduced datetime="1987-01-06"/>
+  </status>
+  <introduced datetime="1987-01-06"/>
+  <titles>
+    <title type="official" as="introduced">A bill to prohibit vessels transporting Alaskan oil from using routes through the territorial and international waters northward of the Santa Barbara Channel Islands.</title>
+  </titles>
+  <sponsor id="406530"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-01-06" state="REFERRED">
+      <text>Referred to House Committee on Merchant Marine and Fisheries.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Executive Comment Requested from Commerce, DOT, CEQ, Interior.</text>
+    </action>
+    <action datetime="1987-01-20">
+      <text>Referred to Subcommittee on Coast Guard and Navigation.</text>
+    </action>
+    <action datetime="1987-06-04">
+      <text>Unfavorable Executive Comment Received From DOT.</text>
+    </action>
+    <action datetime="1987-12-04">
+      <text>Unfavorable Executive Comment Received From Navy.</text>
+    </action>
+    <action datetime="1987-12-09">
+      <text>Subcommittee Hearings Held.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSMM" name="House Merchant Marine and Fisheries" activity="Referral, In Committee"/>
+    <committee activity="Referral, Hearings" code="HSMM01" subcommittee="Coast Guard and Navigation" name="House Merchant Marine and Fisheries"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Transportation and public works"/>
+    <term name="Alaska"/>
+    <term name="California"/>
+    <term name="Coastwise shipping"/>
+    <term name="Marine transportation"/>
+    <term name="Petroleum"/>
+    <term name="Ships and shipping"/>
+    <term name="Tankers"/>
+  </subjects>
+  <amendments/>
+  <summary>1/6/1987--Introduced.
+Prohibits vessels transporting Alaskan oil to any port in California east or south of the Santa Barbara Channel Islands of San Miguel, Santa Rosa, Santa Cruz, and Anacapa from using any route passing through the territorial or international waters which lie between such islands and the coast of California. Sets forth penalties for violations of this Act.</summary>
+</bill>

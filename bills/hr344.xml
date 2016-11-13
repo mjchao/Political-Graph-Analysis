@@ -1,0 +1,39 @@
+<bill session="100" type="hr" number="344" updated="2014-03-22T09:50:59-04:00">
+  <state datetime="1987-12-21">REFERRED</state>
+  <status>
+    <introduced datetime="1987-12-21"/>
+  </status>
+  <introduced datetime="1987-12-21"/>
+  <titles>
+    <title type="official" as="introduced">A resolution providing for the printing of a history of the Committee on Merchant Marine and Fisheries in connection with the 100th anniversary of the committee.</title>
+  </titles>
+  <sponsor id="406148"/>
+  <cosponsors>
+    <cosponsor id="403266" joined="1987-12-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-12-21" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+    <action datetime="1987-12-22">
+      <text>Referred to Subcommittee on Procurement and Printing.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSHA02" subcommittee="Procurement and Printing" name="House Administration"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Congress"/>
+    <term name="Anniversaries"/>
+    <term name="Congressional committees (House)"/>
+    <term name="Congressional publications"/>
+    <term name="History"/>
+    <term name="House of Representatives"/>
+    <term name="Printing"/>
+  </subjects>
+  <amendments/>
+  <summary>12/21/1987--Introduced.
+Requires a brief history of the Committee on Merchant Marine and Fisheries to be printed as a House document in connection with the 100th anniversary of the committee.</summary>
+</bill>

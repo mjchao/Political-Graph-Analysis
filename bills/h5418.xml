@@ -1,0 +1,43 @@
+<bill session="100" type="h" number="5418" updated="2014-03-22T09:53:37-04:00">
+  <state datetime="1988-09-28">REFERRED</state>
+  <status>
+    <introduced datetime="1988-09-28"/>
+  </status>
+  <introduced datetime="1988-09-28"/>
+  <titles>
+    <title type="short" as="introduced">Catastrophic Coverage Election Act of 1988</title>
+    <title type="official" as="introduced">A bill to amend title XVIII of the Social Security Act and the Internal Revenue Code of 1986 to permit individuals to elect not to receive benefits to which such individuals are entitled as a result of the enactment of the Medicare Catastrophic Coverage Act of 1988 and not to pay premiums imposed pursuant to such Act.</title>
+  </titles>
+  <sponsor id="410623"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-09-28" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1988-09-28">
+      <text>Referred to House Committee on Ways and Means.</text>
+    </action>
+    <action datetime="1988-10-04">
+      <text>Referred to Subcommittee on Health.</text>
+    </action>
+    <action datetime="1988-10-24">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+    <committee code="HSWM" name="House Ways and Means" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSWM02" subcommittee="Health" name="House Ways and Means"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Catastrophic health insurance"/>
+    <term name="Health"/>
+    <term name="Medicare"/>
+  </subjects>
+  <amendments/>
+  <summary>9/28/1988--Introduced.
+Catastrophic Coverage Election Act of 1988 - Amends title XVIII (Medicare) of the Social Security Act and the Internal Revenue Code to permit individuals to elect not to receive benefits to which such individuals are entitled as a result of the enactment of the Medicare Catastrophic Coverage Act of 1988 and not to pay premiums imposed pursuant to such Act. Requires that beneficiaries be notified of such option.</summary>
+</bill>

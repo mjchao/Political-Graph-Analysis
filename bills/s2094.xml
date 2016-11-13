@@ -1,0 +1,46 @@
+<bill session="100" type="s" number="2094" updated="2014-03-22T09:55:36-04:00">
+  <state datetime="1988-02-25">REFERRED</state>
+  <status>
+    <introduced datetime="1988-02-25"/>
+  </status>
+  <introduced datetime="1988-02-25"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend title XVI of the Social Security Act, to provide that the existing requirements for deeming a parent's income and resources to his or her children under age 18 shall not apply in the case of certain severely disabled children, and for other purposes.</title>
+  </titles>
+  <sponsor id="300060"/>
+  <cosponsors>
+    <cosponsor id="300059" joined="1988-07-08"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1988-02-25" state="REFERRED">
+      <text>Read twice and referred to the Committee on Finance.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSFI" name="Senate Finance" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="3953"/>
+    <bill relation="identical" session="100" type="h" number="3953"/>
+  </relatedbills>
+  <subjects>
+    <term name="Social welfare"/>
+    <term name="Children and youth"/>
+    <term name="Corporate mergers"/>
+    <term name="Corporate reorganizations"/>
+    <term name="Corporations and Stocks"/>
+    <term name="Disabled"/>
+    <term name="Excise tax"/>
+    <term name="Health"/>
+    <term name="Home care services"/>
+    <term name="Income"/>
+    <term name="Public assistance programs"/>
+    <term name="Stockholders"/>
+    <term name="Supplemental security income program"/>
+    <term name="Taxation"/>
+    <term name="Tender offers"/>
+  </subjects>
+  <amendments/>
+  <summary>2/25/1988--Introduced.
+Amends title XVI (Supplemental Security Income) (SSI) of the Social Security Act to exclude parental income and resources from the determination of a disabled child's SSI eligibility if such child requires the level of care provided in a hospital, skilled nursing facility, or intermediate care facility, but care outside such a facility is appropriate and less costly. Amends the Internal Revenue Code to impose a 50 percent excise tax on gain or other income realized by greenmail (amounts paid by corporations in redeeming their stock from certain shareholders) recipients.</summary>
+</bill>

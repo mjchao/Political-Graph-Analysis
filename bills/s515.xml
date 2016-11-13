@@ -1,0 +1,54 @@
+<bill session="100" type="s" number="515" updated="2014-03-22T09:54:56-04:00">
+  <state datetime="1987-03-04">REPORTED</state>
+  <status>
+    <unknown datetime="1987-03-04"/>
+  </status>
+  <introduced datetime="1987-02-05"/>
+  <titles>
+    <title type="official" as="introduced">A bill to provide equitable treatment under the highly-erodible land conservation provisions of the Food Security Act of 1985 to farmers who produced alfalfa and other multi-year grasses and legumes in a rotation practice during each of the years 1981 through 1985.</title>
+  </titles>
+  <sponsor id="412006"/>
+  <cosponsors>
+    <cosponsor id="300005" joined="1987-03-03"/>
+    <cosponsor id="401604" joined="1987-02-19"/>
+    <cosponsor id="402023" joined="1987-02-19"/>
+    <cosponsor id="300026" joined="1987-03-03"/>
+    <cosponsor id="300031" joined="1987-02-05"/>
+    <cosponsor id="403515" joined="1987-02-05"/>
+    <cosponsor id="300036" joined="1987-03-06"/>
+    <cosponsor id="403962" joined="1987-02-05"/>
+    <cosponsor id="406188" joined="1987-02-05"/>
+    <cosponsor id="300070" joined="1987-03-06"/>
+    <cosponsor id="407355" joined="1987-02-05"/>
+    <cosponsor id="300079" joined="1987-03-03"/>
+    <cosponsor id="409923" joined="1987-02-26"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-02-05" state="REFERRED">
+      <text>Read twice and referred to the Committee on Agriculture.</text>
+    </action>
+    <calendar datetime="1987-03-04" state="REPORTED">
+      <text>Committee on Agriculture. Provisions of measure incorporated into measure S. 410 ordered to be reported.</text>
+    </calendar>
+  </actions>
+  <committees>
+    <committee code="SSAF" name="Senate Agriculture, Nutrition, and Forestry" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="unknown" session="100" type="s" number="410"/>
+  </relatedbills>
+  <subjects>
+    <term name="Agriculture and food"/>
+    <term name="Agricultural economics"/>
+    <term name="Agricultural price supports"/>
+    <term name="Agriculture and Rural Affairs"/>
+    <term name="Conservation of natural resources"/>
+    <term name="Environmental protection"/>
+    <term name="Legumes"/>
+    <term name="Soil conservation"/>
+    <term name="Soil erosion"/>
+  </subjects>
+  <amendments/>
+  <summary>2/5/1987--Introduced.
+Amends the Food Security Act to 1985 to exempt from the ineligibility (for agricultural price supports and other related benefits) provisions of the highly erodible land conservation program persons who grew alfalfa and other multiyear grasses and legumes during the 1981 through 1985 crop years in a rotation practice approved by the Secretary of Agriculture.</summary>
+</bill>

@@ -1,0 +1,50 @@
+<bill session="100" type="h" number="2219" updated="2014-03-22T09:52:17-04:00">
+  <state datetime="1987-04-29">REFERRED</state>
+  <status>
+    <introduced datetime="1987-04-29"/>
+  </status>
+  <introduced datetime="1987-04-29"/>
+  <titles>
+    <title type="short" as="introduced">Competitiveness Enhancement Act of 1987</title>
+    <title type="official" as="introduced">A bill to amend the Stevenson-Wydler Technology Innovation Act of 1980 to establish a Center on State and Local Initiatives on Productivity, Technology, and Innovation, and for other purposes.</title>
+  </titles>
+  <sponsor id="409644"/>
+  <cosponsors>
+    <cosponsor id="403726" joined="1988-08-03"/>
+    <cosponsor id="411224" joined="1987-04-29"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-04-29" state="REFERRED">
+      <text>Referred to House Committee on Science, Space, and Technology.</text>
+    </action>
+    <action datetime="1987-05-01">
+      <text>Referred to Subcommittee on Science, Research and Technology.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSSY" name="House Science, Space and Technology" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSSY03" subcommittee="Science, Research and Technology" name="House Science, Space and Technology"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="s" number="930"/>
+    <bill relation="identical" session="100" type="s" number="930"/>
+  </relatedbills>
+  <subjects>
+    <term name="Commerce"/>
+    <term name="Advisory bodies"/>
+    <term name="Business and commerce"/>
+    <term name="Competition"/>
+    <term name="Department of Commerce"/>
+    <term name="Executive reorganization"/>
+    <term name="Federal advisory bodies"/>
+    <term name="Government and business"/>
+    <term name="Government records, documents, and information"/>
+    <term name="Industrial engineering"/>
+    <term name="Industrial productivity"/>
+    <term name="Information services"/>
+    <term name="Technological innovations"/>
+  </subjects>
+  <amendments/>
+  <summary>4/29/1987--Introduced.
+Competitiveness Enhancement Act of 1987 - Amends the Stevenson-Wydler Technology Innovation Act of 1980 to establish in the Office of Productivity, Technology and Innovation of the Department of Commerce a Center on State and Local Initiatives on Productivity, Technology, and Innovation. States that such Center shall be headed by a Director and serve as a clearinghouse on State and local initiatives to enhance the competitiveness of American businesses. Requires the Director to: (1) establish relations with State and local governments and organizations; (2) evaluate the effectiveness of State and local initiatives; and (3) collect and disseminate information. Permits the Director to contract out such evaluations as specified. Requires the Director to evaluate Federal programs, provide technical assistance to State or local governments upon request, and support generic research on stimulating productivity, technology, and innovation and evaluating such initiatives. Requires the Director to report to the Congress annually on such initiatives. Requires the Director to establish an advisory board to advise the Assistant Secretary and the Director on the activities of the Center. Authorizes appropriations.</summary>
+</bill>

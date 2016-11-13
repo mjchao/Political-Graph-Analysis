@@ -1,0 +1,50 @@
+<bill session="100" type="hr" number="254" updated="2014-03-22T09:50:58-04:00">
+  <state datetime="1987-08-07">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-07"/>
+  </status>
+  <introduced datetime="1987-08-07"/>
+  <titles>
+    <title type="official" as="introduced">A resolution expressing the sense of the House regarding the critical need to include the use of oxygenated fuels such as ethanol, produced from our abundant stocks of surplus grain, and methanol, which can be produced from our vast coal reserves, in air pollution control strategies required by the Federal Environmental Protection Agency for carbon monoxide and ozone nonattainment.</title>
+  </titles>
+  <sponsor id="300037"/>
+  <cosponsors>
+    <cosponsor id="300038" joined="1987-08-07"/>
+    <cosponsor id="403904" joined="1987-11-16"/>
+    <cosponsor id="300058" joined="1987-08-07"/>
+    <cosponsor id="400236" joined="1987-08-07"/>
+    <cosponsor id="408618" joined="1987-08-07"/>
+    <cosponsor id="410251" joined="1987-08-07"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-08-07" state="REFERRED">
+      <text>Referred to House Committee on Energy and Commerce.</text>
+    </action>
+    <action datetime="1987-10-06">
+      <text>Referred to Subcommittee on Health and the Environment.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSIF" name="House Energy and Commerce" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="HSIF04" subcommittee="Health and Environment" name="House Energy and Commerce"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Environmental protection"/>
+    <term name="Air pollution control"/>
+    <term name="Alcohol and Alcoholic Beverages"/>
+    <term name="Alcohol as fuel"/>
+    <term name="Common carriers"/>
+    <term name="Energy policy"/>
+    <term name="Gasohol"/>
+    <term name="Gasoline"/>
+    <term name="Motor Vehicles and Driving"/>
+    <term name="Motor vehicle pollution control"/>
+    <term name="Ozone"/>
+    <term name="Petroleum and petroleum products"/>
+    <term name="Trucks"/>
+  </subjects>
+  <amendments/>
+  <summary>8/7/1987--Introduced.
+Expresses the sense of the House of Representatives that the Environmental Protection Agency strongly encourage nonattainment cities to include in their State Implementation Plans, as a cost effective and preferred pollution control strategy in meeting Clean Air Act standards, the required use of ethanol blended fuels and other oxygenated/gasoline blends in carbon monoxide nonattainment areas, and neat alcohol fuels in commercial transportation fleets in ozone nonattainment areas.</summary>
+</bill>

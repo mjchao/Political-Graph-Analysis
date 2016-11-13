@@ -1,0 +1,52 @@
+<bill session="100" type="s" number="1448" updated="2014-03-22T09:55:20-04:00">
+  <state datetime="1987-06-30">REFERRED</state>
+  <status>
+    <introduced datetime="1987-06-30"/>
+  </status>
+  <introduced datetime="1987-06-30"/>
+  <titles>
+    <title type="short" as="introduced">Student Loan Amendments Act of 1987</title>
+    <title type="official" as="introduced">A bill to provide a clarification in the insurance premium rule for the guaranteed student loan program under part B of title IV of the Higher Education Act of 1965.</title>
+  </titles>
+  <sponsor id="408597"/>
+  <cosponsors>
+    <cosponsor id="401391" joined="1987-06-30"/>
+    <cosponsor id="300034" joined="1987-06-30"/>
+    <cosponsor id="404219" joined="1987-06-30"/>
+    <cosponsor id="300051" joined="1987-06-30"/>
+    <cosponsor id="300052" joined="1987-06-30"/>
+    <cosponsor id="300059" joined="1987-06-30"/>
+    <cosponsor id="407268" joined="1987-06-30"/>
+    <cosponsor id="300089" joined="1987-07-23"/>
+    <cosponsor id="409917" joined="1987-06-30"/>
+    <cosponsor id="410242" joined="1987-06-30"/>
+    <cosponsor id="410315" joined="1987-06-30"/>
+    <cosponsor id="411801" joined="1987-07-21"/>
+  </cosponsors>
+  <actions>
+    <action datetime="1987-06-30" state="REFERRED">
+      <text>Read twice and referred to the Committee on Labor and Human Resources.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Referred to Subcommittee on Education, Arts, Humanities.</text>
+    </action>
+    <action datetime="1987-07-27">
+      <text>Committee on Labor and Human Resources requested executive comment from Education Department.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSHR" name="Senate Labor and Human Resources" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSHR01" subcommittee="Education, Arts and Humanities" name="Senate Labor and Human Resources"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Education"/>
+    <term name="Federally-guaranteed loans"/>
+    <term name="Insurance premiums"/>
+    <term name="Student aid"/>
+    <term name="Student loan funds"/>
+  </subjects>
+  <amendments/>
+  <summary>6/30/1987--Introduced.
+Student Loan Amendments Act of 1987 - Amends the Higher Education Act of 1965 to revise the insurance premium rule for the guaranteed student loan program. Requires the collection of a single insurance premium which shall be applied uniformly to all loans. Requires that such premium be not less than 0.5 percent nor more than three percent of the principal amount of the loan. Provides that a multistate guaranty agency may set the premium for each State for which it has received advances as the designated State guarantor, with a single uniform rate to be set for the balance of the activity of the agency with other States. Permits a guaranty agency, after 60 days' notice, to cease to guarantee loans for students at an otherwise eligible institution if the cumulative default rate of loans at such institution in repayment exceeds 25 percent of the amount insured by the guaranty agency which holds the preponderance of the value of the loans outstanding at such institution (unless the guarantor is the designated State guaranty agency in the State where the eligible institution is located and insures loans for the lender of last resort in that State under specified provisions).</summary>
+</bill>

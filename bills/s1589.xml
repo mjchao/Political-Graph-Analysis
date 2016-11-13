@@ -1,0 +1,32 @@
+<bill session="100" type="s" number="1589" updated="2014-03-22T09:55:22-04:00">
+  <state datetime="1987-08-04">REFERRED</state>
+  <status>
+    <introduced datetime="1987-08-04"/>
+  </status>
+  <introduced datetime="1987-08-04"/>
+  <titles>
+    <title type="official" as="introduced">A bill for the relief of LeRoy Sylestine, Chairman of the Tribal Council of the Coushatta Tribe of Louisiana, and all other enrolled members of the Coushatta Tribe of Louisiana.</title>
+  </titles>
+  <sponsor id="300012"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1987-08-04" state="REFERRED">
+      <text>Read twice and referred to the Committee on Judiciary.</text>
+    </action>
+    <action datetime="1987-10-20">
+      <text>Referred to Subcommittee on Courts and Administrative Practice.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="SSJU" name="Senate Judiciary" activity="Referral, In Committee"/>
+    <committee activity="Referral" code="SSJU02" subcommittee="Courts and Administrative Practice" name="Senate Judiciary"/>
+  </committees>
+  <relatedbills/>
+  <subjects>
+    <term name="Private legislation"/>
+    <term name="Claims"/>
+  </subjects>
+  <amendments/>
+  <summary>8/4/1987--Introduced.
+Authorizes and directs the Secretary of the Treasury to pay a specified sum to a named individual and all other enrolled members of an Indian tribe of Louisiana in full settlement of all claims of such tribe regarding the uncompensated taking by the United States of land owned or occupied by the tribe in the 19th century.</summary>
+</bill>

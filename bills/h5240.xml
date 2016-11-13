@@ -1,0 +1,35 @@
+<bill session="100" type="h" number="5240" updated="2014-03-22T09:53:35-04:00">
+  <state datetime="1988-08-11">REFERRED</state>
+  <status>
+    <introduced datetime="1988-08-11"/>
+  </status>
+  <introduced datetime="1988-08-11"/>
+  <titles>
+    <title type="official" as="introduced">A bill to amend section 313 of the Federal Election Campaign Act of 1971 to eliminate an exception that permits certain Members of Congress to use amounts from excess campaign funds for personal purposes.</title>
+  </titles>
+  <sponsor id="400300"/>
+  <cosponsors/>
+  <actions>
+    <action datetime="1988-08-11" state="REFERRED">
+      <text>Referred to House Committee on House Administration.</text>
+    </action>
+  </actions>
+  <committees>
+    <committee code="HSHA" name="House Administration" activity="Referral, In Committee"/>
+  </committees>
+  <relatedbills>
+    <bill relation="identical" session="100" type="h" number="1440"/>
+    <bill relation="identical" session="100" type="h" number="5187"/>
+  </relatedbills>
+  <subjects>
+    <term name="Government operations and politics"/>
+    <term name="Campaign funds"/>
+    <term name="Congress and Members of Congress"/>
+    <term name="Congressional elections"/>
+    <term name="Members of Congress"/>
+    <term name="Voting"/>
+  </subjects>
+  <amendments/>
+  <summary>8/11/1988--Introduced.
+Amends the Federal Election Campaign Act of 1971 to remove the authority for certain Members of Congress to use excess campaign funds for personal purposes.</summary>
+</bill>
