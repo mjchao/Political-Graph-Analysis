@@ -1,6 +1,6 @@
 #Collects data from govTrack.us and saves to panda files
 #Saves a Legislator as {first_name(string), last_name(string), id(string), state(string), yes_votes(int[]), no_votes(int[])}
-#Directories are labeled as session_year_vote e.g. 114_2014_3
+#Directories are labeled as session_#vote e.g. 113_565
 
 import urllib2
 import requests
@@ -40,9 +40,6 @@ def get_votes():
 		for j in range(2):
 			year += 1
 			vote = 2
-			# url = "https://www.govtrack.us/data/congress/" + str(session) + "/votes/" + str(year) + "/h" + str(vote) +  "/data.json"
-			# response = requests.get(url)
-			# while response.status_code != 404:
 			path = "data/" + str(session) + "/votes/" + str(year)
 			for folder in os.listdir(path):
 				if folder.startswith('h'):
@@ -64,15 +61,11 @@ def get_votes():
 								congressmen[c['id'].encode('utf8')]['yes_votes'].append(int(str(year) + str(vote)))
 						
 						vote += 1
-					# url = "https://www.govtrack.us/data/congress/" + str(session) + "/votes/" + str(year) + "/h" + str(vote) +  "/data.json"
-					# response = requests.get(url)
 
 		num_congressmen = 0
 		for key, c in congressmen.iteritems():
 			if len(c['yes_votes']) != 0 or len(c['no_votes']) != 0:
 				nodes.AddLegislator(c)
-				# print(len(c['yes_votes']))
-				# print(len(c['no_votes']))
 				num_congressmen += 1
 
 		print(num_congressmen)

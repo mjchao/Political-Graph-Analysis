@@ -29,24 +29,17 @@ if __name__ == "__main__":
 	nodes = [i for i in range(len(dataframes[0]))]
 	print('Number of Nodes: ', len(nodes))
 	g = graph.SimrankGraph(nodes)
-	print(len(dataframes[1]))
-	print(len(dataframes[0]))
 	num_edges = 0;
 	total_weight = 0;
 	for pair in itertools.combinations(nodes, 2):
 		weight = 0
 		for i in range(1):
-			# print(len(dataframes[i]))
-			# print(pair)
-			# print(dataframes[i][pair[0]]['yes_votes'])
-			# print(set.intersection(set(dataframes[i][pair[0]]['yes_votes']), set(dataframes[i][pair[1]]['yes_votes'])))
 			weight += len(set.intersection(set(dataframes[i][pair[0]]['yes_votes']), set(dataframes[i][pair[1]]['yes_votes'])))
 			# weight += len(set.intersection(dataframes[i][pair[0]]['no_votes'], dataframes[i][pair[1]]['no_votes']))
 		g._SetEdgeById(pair[0], pair[1], weight, False)
 		num_edges += 1
 		total_weight += weight
-		# print(weight)
 	print('Number of Edges: ', num_edges)
 	print('Average Edge Weight: ', total_weight/num_edges)
 
-	g.Run(r=1)
+	g.Run(r=5)
