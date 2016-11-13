@@ -12,6 +12,14 @@ class TestNodes(unittest.TestCase):
         self._SAVE_DIR = os.path.join("tmp", "test")
         nodes.Reset()
 
+    def testReset(self):
+        nodes.AddLegislator({"id": 1})
+        nodes.Reset()
+
+        legislators = nodes.GetLegislators()
+        expected = pd.DataFrame()
+        self.assertTrue(expected.equals(legislators))
+
     def testAddBills(self):
         nodes.AddBillProperties(["id", "name", "date"])
         nodes.AddBill({"id": 1})	
