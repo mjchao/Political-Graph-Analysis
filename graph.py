@@ -122,36 +122,6 @@ class SimrankGraph(DenseGraph):
         super(SimrankGraph, self)._SetEdgeById(from_id, to_id, weight, directed)
         self._nodes_within_radius_invalidated = True
 
-    def _GetNeighbors(self, node=None, node_id=None):
-        """Gets the neighbors of the given node. Either the node or the node_id
-        but not both should be specified. A neighbor of a given node has a
-        directed edge coming into it from the given node. If a node links to
-        itself, it is a neighbor of itself.
-
-        Args:
-            node: (object) The node for which to obtain neighbors.
-            node_id: (int) The node id for which to obtain neighbors.
-
-        Returns:
-            neighbors: (list of object) A list of neighbors. The list contains
-                objects in the nodes list passed in to the constructor. The
-                list is sorted by internal node id (the order in the list passed
-                to the constructor).
-        """
-        if node is None and node_id is None:
-            raise ValueError("Must specify either node or node_id.")
-        if node is not None and node_id is not None:
-            raise ValueError("Can only specify one of node or node_id.")
-        
-        if node is not None:
-            node_id = self._node_to_id[node]
-        
-        neighbors = []
-        for i in self._nodes_within_radius[node_id]:
-            if self._adj[node_id][i] != 0.0:
-                neighbors.append(self._id_to_node[i])
-        return neighbors
-
     def _ComputeNodesWithinRadius(self, r=None):
         """Computes the nodes within a given radius for every node in the graph.
         Applies a Breadth-First Search. The worst-case complexity is
@@ -206,13 +176,47 @@ class SimrankGraph(DenseGraph):
                     nodes_within_radius.append(i)
             self._nodes_within_radius.append(nodes_within_radius)
 
+    def _GetNeighbors(self, node=None, node_id=None):
+        """Gets the neighbors of the given node. Either the node or the node_id
+        but not both should be specified. A neighbor of a given node has a
+        directed edge coming into it from the given node. If a node links to
+        itself, it is a neighbor of itself. Assumes _ComputeNodesWithinRadius
+        has already been called.
+
+        Args:
+            node: (object) The node for which to obtain neighbors.
+            node_id: (int) The node id for which to obtain neighbors.
+
+        Returns:
+            neighbors: (list of object) A list of neighbors. The list contains
+                objects in the nodes list passed in to the constructor. The
+                list is sorted by internal node id (the order in the list passed
+                to the constructor).
+        """
+        if node is None and node_id is None:
+            raise ValueError("Must specify either node or node_id.")
+        if node is not None and node_id is not None:
+            raise ValueError("Can only specify one of node or node_id.")
+        
+        if node is not None:
+            node_id = self._node_to_id[node]
+        
+        neighbors = []
+        for i in self._nodes_within_radius[node_id]:
+            if self._adj[node_id][i] != 0.0:
+                neighbors.append(self._id_to_node[i])
+        return neighbors
 
     def Run(self, iterations=5, C=0.8, r=None):
         """Runs the SimRank algorithm to determine the node similarity between
         all pairs of nodes. Note: similarity is not reset after each call to
         this function, so you can continue running for more iterations later on.
 
-        Worst-case complexity: O(|V|^3). In most cases, i
+        Worst-case complexity: O(k|V|^4). In most cases, this should be faster
+        with a good value of r because it cuts down on the number of node pairs
+        to consider. The paper reports this as O(k*|V|*d_r*d_2) where d_r is
+        the average number of nodes within radius r and d_2 is the average of
+        the neighbor sets.
 
         Args:
             iterations: (int) Number of iterations for which to run.
