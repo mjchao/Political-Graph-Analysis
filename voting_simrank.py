@@ -31,7 +31,7 @@ if __name__ == "__main__":
 	total_weight = 0;
 	for pair in itertools.combinations(nodes, 2):
 		weight = len(set.intersection(set(dataframe[pair[0]]['yes_votes']), set(dataframe[pair[1]]['yes_votes'])))
-		weight += len(set.intersection(dataframe[i][pair[0]]['no_votes'], dataframe[i][pair[1]]['no_votes']))
+		weight += len(set.intersection(set(dataframe[pair[0]]['no_votes']), set(dataframe[pair[1]]['no_votes'])))
 		if(weight != 0):
 			g._SetEdgeById(pair[0], pair[1], 1.0/weight, False)
 			total_weight += 1.0/weight
