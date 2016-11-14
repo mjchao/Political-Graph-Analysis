@@ -21,6 +21,7 @@ def get_congressmen():
 												'last_name': row['last_name'],
 												'id': row['bioguide_id'],
 												'state': row['state'],
+												'party': row['party'],
 												'yes_votes': [],
 												'no_votes': []}
 	with open('legislators-historic.csv') as csvfile:

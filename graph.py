@@ -1,6 +1,7 @@
 import collections
 import numpy as np
 import warnings
+from datetime import datetime
 
 class Graph(object):
     """Represents a graph (nodes and edges).
@@ -234,6 +235,9 @@ class SimrankGraph(DenseGraph):
         for iteration in range(iterations):
             next_similarity = np.zeros((len(self._nodes), len(self._nodes)))
             for i in range(len(self._nodes)):
+                #Start timer
+                if i == 0:
+                    start = datetime.now()
                 print "Iteration", iteration, "of", iterations, ": calculating simrank for node", i, "of", len(self._nodes)
                 for j in self._nodes_within_radius[i]:
                     node1_neighbors = self._GetNeighbors(node_id=i)
@@ -246,6 +250,12 @@ class SimrankGraph(DenseGraph):
                     multiplier = C / float(len(node1_neighbors) *
                                             len(node2_neighbors))
                     next_similarity[i][j] *= multiplier
+                    #End timer
+                if i == 0:
+                    end = datetime.now()
+                    delta_seconds = (end - start).total_seconds()
+                    estimated_minutes = (delta_seconds * iterations * (len(self._nodes) - 1)) / 60
+                    print('Estimated minutes remaining: ', estimated_minutes)
             self._similarity = next_similarity
 
     def Similarity(self, a, b):
