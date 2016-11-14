@@ -30,6 +30,19 @@ class TestGraph(unittest.TestCase):
         self.assertEqual(g.GetEdgeWeight("Alice", "Ethan"), 5.0)
         self.assertEqual(g.GetEdgeWeight("Alice", "Bob"), 1.0)
 
+    def testDenseSparseNeighbors(self):
+        nodes = ["Alice", "Bob", "Carl", "David", "Ethan"]
+        g = graph.SparseGraph(nodes)
+        g.SetEdge("Alice", "Bob")
+        g.SetEdge("Carl", "David")
+        g.SetEdge("Ethan", "Ethan", 10.0)
+        g._SetEdgeById(4, 0, 5.0, False)
+        self.assertEqual(g._GetId("Alice"), 0)
+        self.assertEqual(g._GetId("David"), 3)
+        self.assertEqual(g.GetEdgeWeight("Ethan", "Alice"), 5.0)
+        self.assertEqual(g.GetEdgeWeight("Alice", "Ethan"), 5.0)
+        self.assertEqual(g.GetEdgeWeight("Alice", "Bob"), 1.0)
+
     def testSimrankGraphNeighbors(self):
         nodes = ["Alice", "Bob", "Carl", "David", "Ethan"]
         g = graph.SimrankGraph(nodes)

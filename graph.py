@@ -99,6 +99,70 @@ class DenseGraph(Graph):
         return self._adj
 
 
+class SparseGraph(Graph):
+    """Represents a sparse graph. This uses adjacency dictionaries to store
+    the edges.
+    """
+    
+    def __init__(self, nodes):
+        """Creates a sparse graph with the given nodes.
+
+        Args:
+            nodes: (list) A list of objects that represent the nodes in the
+                graph.
+        """
+        super(SparseGraph, self).__init__(nodes)
+        self._adj_list = [{} for _ in range(len(nodes))]
+        
+    def _SetEdgeById(self, from_id, to_id, weight=1.0, directed=True):
+        """Sets an edge between two nodes.
+
+        Args:
+            from_id: (int) The internal id for the source node.
+            to_id: (int) The internal id for the destination node.
+            weight: (float) The weight of the edge
+            directed: (bool) Whether the edge is directed.
+        """
+        if weight == 0.0:
+            return
+        self._adj_list[from_id][to_id] = weight
+        if not directed:
+            self._adj_list[to_id][from_id] = weight
+
+    def SetEdge(self, from_node, to_node, weight=1.0, directed=True):
+        """Sets an edge between two nodes.
+
+        Args:
+            from_node: (object) The source node. This is a value in the nodes
+                list supplied in the constructor.
+            to_node: (object) The destination node. This is a value in the
+                nodes list supplied in the constructor.
+        """
+        from_id = self._node_to_id[from_node]
+        to_id = self._node_to_id[to_node]
+        self._SetEdgeById(from_id, to_id, weight, directed)
+
+    def GetEdgeWeight(self, from_node, to_node):
+        """Gets the edge weight between two nodes. 
+
+        Args:
+            from_node: (object) The source node.
+            to_node: (object) The destination node.
+        """
+        from_id = self._node_to_id[from_node]
+        to_id = self._node_to_id[to_node]
+        if to_id in self._adj_list[from_id]:
+            return self._adj_list[from_id][to_id]
+        else:
+            return 0.0
+
+# TODO (mjchao): Change Simrank to take a graph so that we can use
+# dense/sparse depending on efficiency.
+class SimrankAlgorithm(object):
+    
+    def __init__(self, graph):
+        pass
+
 class SimrankGraph(DenseGraph):
     """A DenseGraph with functions for the SimRank algorithm.
     """
