@@ -6,7 +6,21 @@ class KMeans():
         self._similarities = similarities
 
     def Run(self, num_clusters=2, maxIterations=100):
-        self.centers = np.random.randint(0, len(self._similarities), num_clusters)
+        self.centers = []
+        for i in range(num_clusters):
+            while True:
+                next_idx = np.random.randint(0, len(self._similarities))
+                similarity_is_different = True
+                for i in range(len(self.centers)):
+                    if (self._similarities[next_idx][self.centers[i]] != 0.0 or
+                        self._similarities[self.centers[i]][next_idx] != 0.0):
+                            similarity_is_different = False
+                            print "Failed"
+                if similarity_is_different:
+                    self.centers.append(next_idx)
+                    break
+
+        #self.centers = np.random.randint(0, len(self._similarities), num_clusters)
         count = 0
         while True:
             print count
