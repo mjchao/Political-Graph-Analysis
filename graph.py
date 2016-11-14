@@ -1,5 +1,6 @@
 import collections
 import numpy as np
+from numpy import random
 import warnings
 from datetime import datetime
 
@@ -250,7 +251,7 @@ class SimrankGraph(DenseGraph):
                     multiplier = C / float(len(node1_neighbors) *
                                             len(node2_neighbors))
                     next_similarity[i][j] *= multiplier
-                    #End timer
+                #End timer
                 if i == 0:
                     end = datetime.now()
                     delta_seconds = (end - start).total_seconds()
@@ -271,4 +272,5 @@ class SimrankGraph(DenseGraph):
         a_id = self._node_to_id[a]
         b_id = self._node_to_id[b]
         return self._similarity[a_id][b_id]
+
                             
