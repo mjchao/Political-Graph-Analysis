@@ -181,6 +181,7 @@ class SimrankGraph(DenseGraph):
             search_queue = collections.deque()
             added_to_queue[i] = True
             search_queue.append(i)
+            nodes_within_radius.append(i)
             dist[i] = 0
             while search_queue:
                 curr_node = search_queue.popleft()
@@ -196,9 +197,7 @@ class SimrankGraph(DenseGraph):
                         if not added_to_queue[j]:
                             search_queue.append(j)
                             added_to_queue[j] = True
-            for i in range(len(self._nodes)):
-                if added_to_queue[i]:
-                    nodes_within_radius.append(i)
+                            nodes_within_radius.append(j)
             self._nodes_within_radius.append(nodes_within_radius)
 
     def _GetNeighbors(self, node=None, node_id=None):
