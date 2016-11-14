@@ -44,6 +44,20 @@ class KMeans():
             for cluster_index, cluster in enumerate(self.clusters):
                 best_average_similarity = 0
                 best_center = -1
+                """
+                for i in range(len(cluster)):
+                    sims = []
+                    for j in range(len(cluster)):
+                        sims.append(self._similarities[cluster[i]][cluster[j]])
+                    sorted(sims)
+                    median_sim = sims[3*len(sims)/4]
+                    #print median_sim
+                    if median_sim > best_average_similarity:
+                        best_average_similarity = median_sim
+                        best_center = i
+                self.centers[cluster_index] = best_center
+                """
+                #"""
                 for i in range(len(cluster)):
                     if len(cluster) <= 1:
                         continue
@@ -55,7 +69,8 @@ class KMeans():
                     if average_similarity > best_average_similarity:
                         best_average_similarity = average_similarity
                         best_center = i
-                self.centers[cluster_index] = i
+                self.centers[cluster_index] = best_center
+                #"""
 
             # If converged
             converged = True
