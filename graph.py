@@ -120,6 +120,25 @@ class SimrankGraph(DenseGraph):
         self._nodes_within_radius = [[] for _ in range(len(self._nodes))]
         self._last_radius = 0
 
+    def Save(fn):
+        """Saves the similarity matrix to fn
+
+        Args:
+            fn: (string) The filename to save to. Should end with 
+            '.csv' or '.txt'
+        """
+
+        np.savetxt(fn, np.matrix(self_similarity), delimiter=',')
+
+    def Load(fn):
+        """Loads the similarity matrix from fn
+
+        Args:
+            fn: (string) The filename to load from. Should end with
+            '.csv' or '.txt'
+        """
+        self._similarity = np.loadtxt(fn, delimiter=',')
+
     def _SetEdgeById(self, from_id, to_id, weight=1.0, directed=True):
         super(SimrankGraph, self)._SetEdgeById(from_id, to_id, weight, directed)
         self._nodes_within_radius_invalidated = True
