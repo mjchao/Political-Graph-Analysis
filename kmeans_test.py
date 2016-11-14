@@ -9,16 +9,24 @@ class TestGraph(unittest.TestCase):
     def setUp(self):
         pass
 
-    def testSimrankSanity(self):
-        nodes = ["Alice", "Bob", "Carl"]
-        g = graph.SimrankGraph(nodes)
-        g.SetEdge("Alice", "Bob", directed=False)
-        g.SetEdge("Carl", "Bob", directed=False)
-        g.Run(iterations=1, C=1.0)
-
-        km = kmeans.KMeans(g._similarity)
+    def testKmeansSanity(self):
+        # nodes = ["Alice", "Bob", "Carl"]
+        # g = graph.SimrankGraph(nodes)
+        # g.SetEdge("Alice", "Bob", directed=False)
+        # g.SetEdge("Carl", "Bob", directed=False)
+        # g.Run(iterations=1, C=1.0)
+        similarity_matrix = [[100, 100, 0 , 0], 
+                             [100, 100, 0 , 0], 
+                             [ 0 ,  0 ,100,100], 
+                             [ 0 ,  0 ,100,100]]
+        km = kmeans.KMeans(similarity_matrix)
         km.Run()
-        self.assertTrue(len(km.clusters) == 2)
+
+        cluster1 = [0,1]
+        cluster2 = [2,3]
+        self.assertTrue((km.clusters[0] == cluster1 and km.clusters[1] == cluster2) or 
+                        (km.clusters[1] == cluster1 and km.clusters[0] == cluster2))
+
         
         
 
