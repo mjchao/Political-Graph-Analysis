@@ -1,6 +1,10 @@
 import graph
 import kmeans
 
+""" This script was made to run the kmeans algorithm on the donations graph 
+    network.
+"""
+
 nameToID = {}
 
 # Tie politician name and ID
@@ -20,7 +24,6 @@ with open('legislators-historic.csv', 'r') as f:
     line = line.split(',')
     politicianID = line[20]
     politicianParty = line[7]
-    # print politicianID, politicianParty
     IDToParty[politicianID] = politicianParty
 
 nodes = set()
@@ -45,14 +48,15 @@ for node in nodes:
 contribution_graph = graph.SimrankGraph(nodes_list)
 
 for edge in edges:
-  contribution_graph.SetEdge(edge[0],edge[1],weight=float(edge[2]),directed=False)
+  contribution_graph.SetEdge(edge[0],edge[1],weight=float(edge[2]),
+    directed=False)
 
 # print contribution_graph.getAdjacencyMatrix()
 # print contribution_graph.getAdjacencyMatrix().sum().sum()
 
 kmeansObj = kmeans.KMeans(contribution_graph.getAdjacencyMatrix())
 # Set number of clusters
-kmeansObj.Run(num_clusters=2)
+kmeansObj.Run(num_clusters=2,maxIterations=2000)
 
 results = []
 
@@ -66,8 +70,8 @@ with open('kmeans_donations_out.txt', 'w') as f:
           results[clusterID][partyStr] = 1
         else:
           results[clusterID][partyStr] = results[clusterID][partyStr] + 1
-        f.write(str(clusterID) + ', ' + nodes_list[nodeID] + ', ' + partyStr + '\n')
-      # f.write(str(clusterID) + ', ' + nodes_list[nodeID] + '\n')
+        f.write(str(clusterID) + ', ' + nodes_list[nodeID] 
+          + ', ' + partyStr + '\n')
 
 # print results
 for result in results:
