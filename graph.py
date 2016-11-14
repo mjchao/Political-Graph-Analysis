@@ -95,6 +95,9 @@ class DenseGraph(Graph):
         to_id = self._node_to_id[to_node]
         return self._adj[from_id][to_id]
 
+    def getAdjacencyMatrix(self):
+        return self._adj
+
 
 class SimrankGraph(DenseGraph):
     """A DenseGraph with functions for the SimRank algorithm.

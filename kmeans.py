@@ -6,11 +6,20 @@ class KMeans():
         self._similarities = similarities
 
     def Run(self, num_clusters=2, iterations=100):
-        self.centers = np.random.randint(0, len(self._similarities), 2)
-        for i in range(iterations):
+        self.centers = np.random.randint(0, len(self._similarities), num_clusters)
+        count = 0
+        while True:
+            print count
+            count = count + 1
+            prevCenters = list(self.centers)
+            # print prevCenters
+            # print self.centers
             self.clusters = [[] for i in range(num_clusters)]
-            indexes = [i for i in range(len(self._similarities))]
-            for i in indexes:
+
+            for i in range(num_clusters):
+                self.clusters[i].append(self.centers[i])
+
+            for i in range(len(self._similarities)):
                 best_cluster = -1
                 highest_sim_score = 0
                 for cluster in range(num_clusters):
@@ -23,16 +32,64 @@ class KMeans():
             for cluster_index, cluster in enumerate(self.clusters):
                 best_average_similarity = 0
                 best_center = -1
-                for i in range(len(self.clusters)):
+                for i in range(len(cluster)):
+                    if len(cluster) <= 1:
+                        continue
                     total_similarity = 0
-                    for j in range(len(self.clusters)):
+                    for j in range(len(cluster)):
                         if i != j:
-                            total_similarity += self._similarities[i][j]
-                    average_similarity = total_similarity / len(cluster)
+                            total_similarity += self._similarities[cluster[i]][cluster[j]]
+                    average_similarity = total_similarity / (len(cluster)-1)
                     if average_similarity > best_average_similarity:
                         best_average_similarity = average_similarity
                         best_center = i
                 self.centers[cluster_index] = i
+
+            # If converged
+            converged = True
+            for i in range(len(prevCenters)):
+                if prevCenters[i] != self.centers[i]:
+                    converged = False
+                    break
+            if converged or count >= 2000:
+                break
+
+    # def Run(self, num_clusters=2, iterations=100):
+    #     self.centers = np.random.randint(0, len(self._similarities), num_clusters)
+    #     count = 0
+    #     for i in range(iterations):
+    #         # print count
+    #         # count = count + 1
+    #         print self.centers
+    #         self.clusters = [[] for i in range(num_clusters)]
+    #         # indexes = [i for i in range(len(self._similarities))]
+    #         for i in range(len(self._similarities)):
+    #             best_cluster = -1
+    #             highest_sim_score = 0
+    #             for cluster in range(num_clusters):
+    #                 if self._similarities[i][self.centers[cluster]] > highest_sim_score:
+    #                     best_cluster = cluster
+    #                     highest_sim_score = self._similarities[i][self.centers[cluster]]
+    #             self.clusters[best_cluster].append(i)
+
+    #         print self.clusters
+
+
+    #         for cluster_index, cluster in enumerate(self.clusters):
+    #             best_average_similarity = 0
+    #             best_center = -1
+    #             for i in range(len(cluster)):
+    #                 if len(cluster) <= 1:
+    #                     continue
+    #                 total_similarity = 0
+    #                 for j in range(len(cluster)):
+    #                     if i != j:
+    #                         total_similarity += self._similarities[cluster[i]][cluster[j]]
+    #                 average_similarity = total_similarity / (len(cluster)-1)
+    #                 if average_similarity > best_average_similarity:
+    #                     best_average_similarity = average_similarity
+    #                     best_center = i
+    #             self.centers[cluster_index] = i
 
     def Save(fn):
         """Saves the clusters to fn
