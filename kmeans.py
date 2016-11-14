@@ -43,7 +43,7 @@ class KMeans():
 
             for cluster_index, cluster in enumerate(self.clusters):
                 best_average_similarity = 0
-                best_center = -1
+                best_center = 0
                 """
                 for i in range(len(cluster)):
                     sims = []
