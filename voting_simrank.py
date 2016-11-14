@@ -6,6 +6,7 @@ import itertools
 import pandas as pd
 import copy
 import csv
+import kmeans
 
 if __name__ == "__main__":
 	session = sys.argv[1]
@@ -40,7 +41,21 @@ if __name__ == "__main__":
 		num_edges += 1
 
 	g.Run(r=1.0/300, C=.99, iterations=1)
-	
+	g.Save(argv[1] + '_similarity.csv')
+
+	#Initialie K-Means
+	km2 = KMeans(g._similarity, num_clusters=2)
+	km3 = KMeans(g._similarity, num_clusters=3)
+	km4 = KMeans(g._similarity, num_clusters=4)
+
+	#Run K-Means
+	km2.Run()
+	km3.Run()
+	km4.Run()
+
+	print(km2.clusters)
+	print(km3.clusters)
+	print(km4.clusters)
 	#TEST
 	print('Number of Nodes: ', len(nodes))
 	print('Number of Edges: ', num_edges)

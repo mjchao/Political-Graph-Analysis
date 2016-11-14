@@ -33,3 +33,22 @@ class KMeans():
                         best_average_similarity = average_similarity
                         best_center = i
                 self.centers[cluster_index] = i
+
+    def Save(fn):
+        """Saves the clusters to fn
+
+        Args:
+            fn: (string) The filename to save to. Should end with 
+            '.csv' or '.txt'
+        """
+
+        np.savetxt(fn, np.array(clusters), delimiter=',')
+
+    def Load(fn):
+        """Loads the clusters from fn
+
+        Args:
+            fn: (string) The filename to load from. Should end with
+            '.csv' or '.txt'
+        """
+        self.clusters = np.loadtxt(fn, delimiter=',')
