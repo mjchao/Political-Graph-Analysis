@@ -23,7 +23,7 @@ class KMeans():
         #self.centers = np.random.randint(0, len(self._similarities), num_clusters)
         count = 0
         while True:
-            print count
+            # print count
             count = count + 1
             prevCenters = list(self.centers)
             self.clusters = [[] for i in range(num_clusters)]
