@@ -187,7 +187,7 @@ class SimrankGraph(DenseGraph):
         self._nodes_within_radius = [[] for _ in range(len(self._nodes))]
         self._last_radius = 0
 
-    def Save(fn):
+    def Save(self, fn):
         """Saves the similarity matrix to fn
 
         Args:
@@ -195,9 +195,9 @@ class SimrankGraph(DenseGraph):
             '.csv' or '.txt'
         """
 
-        np.savetxt(fn, np.matrix(self_similarity), delimiter=',')
+        np.savetxt(fn, np.matrix(self._similarity), delimiter=',')
 
-    def Load(fn):
+    def Load(self, fn):
         """Loads the similarity matrix from fn
 
         Args:
@@ -263,6 +263,7 @@ class SimrankGraph(DenseGraph):
                             added_to_queue[j] = True
                             nodes_within_radius.append(j)
             self._nodes_within_radius.append(nodes_within_radius)
+            print len(nodes_within_radius), "neighbors for node", i
 
     def _GetNeighbors(self, node=None, node_id=None):
         """Gets the neighbors of the given node. Either the node or the node_id
