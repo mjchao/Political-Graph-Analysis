@@ -438,10 +438,16 @@ class SimrankGraph(DenseGraph):
                             node1_id = self._node_to_id[node1_neighbor]
                             node2_id = self._node_to_id[node2_neighbor]
 
-                            weight1 = (self._total_edge_weight - self._GetEdgeWeightById(i, node1_id) + 1) / self._total_edge_weight
-                            weight2 = (self._total_edge_weight - self._GetEdgeWeightById(j, node2_id) + 1) / self._total_edge_weight
+                            weight1 = ((self._total_edge_weight -
+                                self._GetEdgeWeightById(i, node1_id) + 1) /
+                                self._total_edge_weight)
+                            weight2 = ((self._total_edge_weight -
+                                self._GetEdgeWeightById(j, node2_id) + 1) /
+                                self._total_edge_weight)
                             weight_scale = weight1 * weight2 
-                            next_similarity[i][j] += self._similarity[node1_id][node2_id] * weight_scale
+                            next_similarity[i][j] += (
+                                self._similarity[node1_id][node2_id] *
+                                weight_scale)
 
                     multiplier = C / float(len(node1_neighbors) *
                                             len(node2_neighbors))
