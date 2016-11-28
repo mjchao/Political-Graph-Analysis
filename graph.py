@@ -75,6 +75,15 @@ class Graph(object):
                 self._num_edges += 1
             if not directed and dest_source_weight != 0.0:
                 self._num_edges += 1
+
+    def GetNumEdges(self):
+        """Returns the number of edges in the graph. There is a directed edge
+        between two nodes if the weight between them in nonzero.
+
+        Returns:
+            num_edges: (int) The number of edges in the graph.
+        """
+        return self._num_edges
             
 
 
@@ -232,6 +241,17 @@ class SimrankAlgorithm(object):
     
     def __init__(self, graph):
         self._similarity = np.identity(len(nodes), dtype=np.float32)
+        self._graph = graph
+        for i in range(len(self._nodes)):
+            self._graph._SetEdgeById(i, i)
+
+        self._dist = np.empty((len(nodes), len(nodes))) * np.nan
+        for i in range(len(nodes)):
+            self._dist[i][i] = 0
+
+        self._nodes_within_radius_invalidated = False
+        self._nodes_within_radius = [[] for _ in range(len(self._nodes))]
+        self._last_radius = 0
 
 class SimrankGraph(DenseGraph):
     """A DenseGraph with functions for the SimRank algorithm.
@@ -246,8 +266,12 @@ class SimrankGraph(DenseGraph):
         super(SimrankGraph, self).__init__(nodes)
         self._similarity = np.identity(len(nodes), dtype=np.float32)
 
+        # total edge weight starts at # nodes because each node is
+        # automatically connected to itself with weight 1 in simrank.
+        self._total_edge_weight = 0
+
         for i in range(len(self._nodes)):
-            self._adj[i][i] = 1.0
+            self._SetEdgeById(i, i)
 
         self._dist = np.empty((len(nodes), len(nodes))) * np.nan
         for i in range(len(nodes)):
@@ -277,6 +301,17 @@ class SimrankGraph(DenseGraph):
         self._similarity = np.loadtxt(fn, delimiter=',')
 
     def _SetEdgeById(self, from_id, to_id, weight=1.0, directed=True):
+        """Sets an edge between two nodes.
+
+        Args:
+            from_id: (int) The internal id for the source node.
+            to_id: (int) The internal id for the destination node.
+            weight: (float) The weight of the edge
+            directed: (bool) Whether the edge is directed.
+        """
+        prev_weight = self._GetEdgeWeightById(from_id, to_id)
+        change_in_weight = weight - prev_weight
+        self._total_edge_weight += change_in_weight
         super(SimrankGraph, self)._SetEdgeById(from_id, to_id, weight, directed)
         self._nodes_within_radius_invalidated = True
 
@@ -403,12 +438,15 @@ class SimrankGraph(DenseGraph):
                             node1_id = self._node_to_id[node1_neighbor]
                             node2_id = self._node_to_id[node2_neighbor]
 
-                            # Multiply by number of edges
-                            # Multiply by weight / (sum of edge weights)
-                            next_similarity[i][j] += self._similarity[node1_id][node2_id]
+                            weight1 = (self._total_edge_weight - self._GetEdgeWeightById(i, node1_id) + 1) / self._total_edge_weight
+                            weight2 = (self._total_edge_weight - self._GetEdgeWeightById(j, node2_id) + 1) / self._total_edge_weight
+                            weight_scale = weight1 * weight2 
+                            next_similarity[i][j] += self._similarity[node1_id][node2_id] * weight_scale
+
                     multiplier = C / float(len(node1_neighbors) *
                                             len(node2_neighbors))
                     next_similarity[i][j] *= multiplier
+
                 #End timer
                 if i == 0:
                     end = datetime.now()
