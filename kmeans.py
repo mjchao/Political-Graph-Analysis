@@ -25,6 +25,7 @@ class KMeans():
         while True:
             # print count
             count = count + 1
+            print self.centers
             prevCenters = list(self.centers)
             self.clusters = [[] for i in range(num_clusters)]
 

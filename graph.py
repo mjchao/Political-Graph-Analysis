@@ -155,6 +155,13 @@ class DenseGraph(Graph):
     def getAdjacencyMatrix(self):
         return self._adj
 
+    def SaveAdjacencyList(self, fn):
+        with open(fn, 'w') as f:
+            for x in range(self._adj.shape[0]):
+                for y in range(self._adj.shape[1]):
+                    if self._adj[x][y] != 0.0:
+                        f.write(str(x) + ' ' + str(y) + ' ' + str(self._adj[x][y]) + '\n')
+
 
 class SparseGraph(Graph):
     """Represents a sparse graph. This uses adjacency dictionaries to store
@@ -281,7 +288,7 @@ class SimrankGraph(DenseGraph):
         self._nodes_within_radius = [[] for _ in range(len(self._nodes))]
         self._last_radius = 0
 
-    def Save(fn):
+    def Save(self, fn):
         """Saves the similarity matrix to fn
 
         Args:
@@ -291,7 +298,7 @@ class SimrankGraph(DenseGraph):
 
         np.savetxt(fn, np.matrix(self_similarity), delimiter=',')
 
-    def Load(fn):
+    def Load(self, fn):
         """Loads the similarity matrix from fn
 
         Args:
