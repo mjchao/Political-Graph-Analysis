@@ -17,8 +17,8 @@ contribution_graph = graph.SimrankGraph(nodes_list)
 for edge in edges:
 	contribution_graph.SetEdge(edge[0],edge[1],directed=False)
 
-# Save adjacency matrix to file
-# contribution_graph.SaveAdjacencyList('contribution_edges.txt')
+# Save graph adjacency list to file
+# contribution_graph.SaveAdjacencyList('node2vec/contribution_edges.txt', weight=False)
 
 contribution_graph.Run(r=1)
 

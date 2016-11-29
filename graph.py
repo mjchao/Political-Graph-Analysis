@@ -155,12 +155,15 @@ class DenseGraph(Graph):
     def getAdjacencyMatrix(self):
         return self._adj
 
-    def SaveAdjacencyList(self, fn):
+    def SaveAdjacencyList(self, fn, weight=True):
         with open(fn, 'w') as f:
             for x in range(self._adj.shape[0]):
                 for y in range(self._adj.shape[1]):
                     if self._adj[x][y] != 0.0:
-                        f.write(str(x) + ' ' + str(y) + ' ' + str(self._adj[x][y]) + '\n')
+                        if weight:
+                            f.write(str(x) + ' ' + str(y) + ' ' + str(self._adj[x][y]) + '\n')
+                        else:
+                            f.write(str(x) + ' ' + str(y) + '\n')
 
 
 class SparseGraph(Graph):
