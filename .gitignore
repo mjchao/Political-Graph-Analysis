@@ -6,4 +6,4 @@ sftp-config.json
 simrank_contributions_results_*.csv
 data
 kmeans_contributions_*_out.txt
-contribution_edges.txt
+node2vec/contribution_*.txt

@@ -28,3 +28,5 @@ print 'here'
 
 # Save graph adjacency list to file
 contribution_graph.SaveAdjacencyList('node2vec/contribution_edges.txt', weight=False)
+# Save node ID mapping
+contribution_graph.SaveNodeMapping('node2vec/contribution_id_map.txt')

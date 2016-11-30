@@ -84,6 +84,11 @@ class Graph(object):
             num_edges: (int) The number of edges in the graph.
         """
         return self._num_edges
+
+    def SaveNodeMapping(self, fn):
+        with open(fn, 'w') as f:
+            for node_id in range(len(self._id_to_node)):
+                f.write(str(node_id) + ' ' + str(self._id_to_node[node_id]) + '\n')
             
 
 
