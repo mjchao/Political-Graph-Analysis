@@ -1,26 +1,30 @@
+from sets import Set
 import graph
 
-nodes = {}
+# Choose the congress session
+# years = Set([1998])
+years = Set([2014])
+# years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016])
+nodes = Set()
 edges = []
 with open('contributions.csv','r') as f:
   for line in f:
-  	line = line.split(',')
-  	nodes[line[0]] = True
-  	nodes[line[3]] = True
-  	edges.append([line[0],line[3]])
+    line = line.split(',')
+    # TODO (cvwang): this needs to be fixed
+    if int(line[2]) in years:
+      nodes.add(line[0])
+      nodes.add(line[4])
+      edges.append([line[0],line[4]])
 
-nodes_list = []
-for key, value in nodes.iteritems():
-	nodes_list.append(key)
+print len(nodes)
+print len(edges)
 
-contribution_graph = graph.SimrankGraph(nodes_list)
+contribution_graph = graph.SimrankGraph(list(nodes))
 for edge in edges:
-	contribution_graph.SetEdge(edge[0],edge[1],directed=False)
-
-# Save graph adjacency list to file
-# contribution_graph.SaveAdjacencyList('node2vec/contribution_edges.txt', weight=False)
+  contribution_graph.SetEdge(edge[0], edge[1], directed=False)
 
 contribution_graph.Run(r=1)
 
-# for edge in edges:
-# 	print(contribution_graph.Similarity(edge[0],edge[1]))
+# TODO (cvwang): change this to a file print
+for edge in edges:
+	print(contribution_graph.Similarity(edge[0],edge[1]))
