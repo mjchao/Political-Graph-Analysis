@@ -16,15 +16,12 @@ with open('contributions.csv','r') as f:
       nodes.add(line[4])
       edges.append([line[0],line[4]])
 
-print 'here'
-print len(nodes)
-print len(edges)
+print 'Number of nodes: ' + str(len(nodes))
+print 'Number of edges: ' + str(len(edges))
 
 contribution_graph = graph.SparseGraph(list(nodes))
 for edge in edges:
   contribution_graph.SetEdge(edge[0], edge[1], directed=True)
-
-print 'here'
 
 # Save graph adjacency list to file
 contribution_graph.SaveAdjacencyList('node2vec/contribution_edges.txt', weight=False)

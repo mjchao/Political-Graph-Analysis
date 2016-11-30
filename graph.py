@@ -88,7 +88,7 @@ class Graph(object):
     def SaveNodeMapping(self, fn):
         with open(fn, 'w') as f:
             for node_id in range(len(self._id_to_node)):
-                f.write(str(node_id) + ' ' + str(self._id_to_node[node_id]) + '\n')
+                f.write(str(node_id) + ',' + str(self._id_to_node[node_id]) + '\n')
             
 
 
