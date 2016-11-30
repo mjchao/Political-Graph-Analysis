@@ -242,6 +242,16 @@ class SparseGraph(Graph):
         to_id = self._node_to_id[to_node]
         return self._GetEdgeWeightById(from_id, to_id)
 
+    def SaveAdjacencyList(self, fn, weight=True):
+        with open(fn, 'w') as f:
+            for from_id in range(len(self._adj_list)):
+                for to_id, weight_val in self._adj_list[from_id].iteritems():
+                    if weight:
+                        f.write(str(from_id) + ' ' + str(to_id) + ' ' + str(weight_val) + '\n')
+                    else:
+                        f.write(str(from_id) + ' ' + str(to_id) + '\n')
+
+
 
 # TODO (mjchao): Change Simrank to take a graph so that we can use
 # dense/sparse depending on efficiency.
