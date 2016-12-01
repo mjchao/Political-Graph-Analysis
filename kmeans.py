@@ -5,33 +5,12 @@ class KMeans():
     def __init__(self, similarities):
         self._similarities = similarities
 
-    def Run(self, num_clusters=2, maxIterations=100):
-        self.centers = []
-        for i in range(num_clusters):
-            while True:
-                next_idx = np.random.randint(0, len(self._similarities))
-                similarity_is_different = True
-                for i in range(len(self.centers)):
-                    if (self._similarities[next_idx][self.centers[i]] != 0.0 or
-                        self._similarities[self.centers[i]][next_idx] != 0.0):
-                            similarity_is_different = False
-                            print "Failed"
-                if similarity_is_different:
-                    self.centers.append(next_idx)
-                    break
-
-        #self.centers = np.random.randint(0, len(self._similarities), num_clusters)
-        count = 0
-        while True:
-            print count
-            count = count + 1
-            prevCenters = list(self.centers)
+    def Run(self, num_clusters=2, iterations=100):
+        self.centers = np.random.randint(0, len(self._similarities), num_clusters)
+        for i in range(iterations):
             self.clusters = [[] for i in range(num_clusters)]
-
-            for i in range(num_clusters):
-                self.clusters[i].append(self.centers[i])
-
-            for i in range(len(self._similarities)):
+            indexes = [i for i in range(len(self._similarities))]
+            for i in indexes:
                 best_cluster = -1
                 highest_sim_score = 0
                 for cluster in range(num_clusters):
@@ -43,45 +22,19 @@ class KMeans():
 
             for cluster_index, cluster in enumerate(self.clusters):
                 best_average_similarity = 0
-                best_center = 0
-                """
+                best_center = -1
                 for i in range(len(cluster)):
-                    sims = []
-                    for j in range(len(cluster)):
-                        sims.append(self._similarities[cluster[i]][cluster[j]])
-                    sorted(sims)
-                    median_sim = sims[3*len(sims)/4]
-                    #print median_sim
-                    if median_sim > best_average_similarity:
-                        best_average_similarity = median_sim
-                        best_center = i
-                self.centers[cluster_index] = best_center
-                """
-                #"""
-                for i in range(len(cluster)):
-                    if len(cluster) <= 1:
-                        continue
                     total_similarity = 0
                     for j in range(len(cluster)):
                         if i != j:
                             total_similarity += self._similarities[cluster[i]][cluster[j]]
-                    average_similarity = total_similarity / (len(cluster)-1)
+                    average_similarity = total_similarity / len(cluster)
                     if average_similarity > best_average_similarity:
                         best_average_similarity = average_similarity
                         best_center = i
                 self.centers[cluster_index] = best_center
-                #"""
 
-            # If converged
-            converged = True
-            for i in range(len(prevCenters)):
-                if prevCenters[i] != self.centers[i]:
-                    converged = False
-                    break
-            if converged or count >= maxIterations:
-                break
-
-    def Save(fn):
+    def Save(self, fn):
         """Saves the clusters to fn
 
         Args:
@@ -89,9 +42,9 @@ class KMeans():
             '.csv' or '.txt'
         """
 
-        np.savetxt(fn, np.array(clusters), delimiter=',')
+        np.savetxt(fn, np.array(self. clusters), delimiter=',')
 
-    def Load(fn):
+    def Load(self, fn):
         """Loads the clusters from fn
 
         Args:

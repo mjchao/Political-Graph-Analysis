@@ -3,6 +3,7 @@ import numpy as np
 from numpy import random
 import warnings
 from datetime import datetime
+import sys
 
 class Graph(object):
     """Represents a graph (nodes and edges).
@@ -263,7 +264,7 @@ class SimrankGraph(DenseGraph):
                             added_to_queue[j] = True
                             nodes_within_radius.append(j)
             self._nodes_within_radius.append(nodes_within_radius)
-            print len(nodes_within_radius), "neighbors for node", i
+            print len(nodes_within_radius), "neighbors for node", i, ''
 
     def _GetNeighbors(self, node=None, node_id=None):
         """Gets the neighbors of the given node. Either the node or the node_id
@@ -325,7 +326,8 @@ class SimrankGraph(DenseGraph):
                 #Start timer
                 if i == 0:
                     start = datetime.now()
-                print "Iteration", iteration, "of", iterations, ": calculating simrank for node", i, "of", len(self._nodes)
+                sys.stdout.write("Iteration " + str(iteration) + " of " + str(iterations) + ": calculating simrank for node " + str(i) + " of " + str(len(self._nodes)) + '\r')
+                sys.stdout.flush()
                 for j in self._nodes_within_radius[i]:
                     node1_neighbors = self._GetNeighbors(node_id=i)
                     node2_neighbors = self._GetNeighbors(node_id=j)
