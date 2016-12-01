@@ -174,6 +174,35 @@ class TestGraph(unittest.TestCase):
         expected_neighbors_F = [5, 6, 7]
         self.assertEqual(set(expected_neighbors_F), set(neighbors_F))
 
+    def testSimrankWeighted(self):
+        #                         100   
+        #     B < - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - A
+        #   1 |
+        #     v    1      0.01
+        #     C < - - - F < - G
+        #     ^
+        #   1 |
+        #     D < - - - - - - - - - - - - - - - - - E
+        #                     1
+        nodes = ["A", "B", "C", "D", "E", "F", "G"] 
+        edges = [("A", "B", 100), ("B", "C", 1), ("D", "C", 1), ("E", "D", 1),
+                    ("F", "C", 1), ("G", "F", 0.01)]
+        g = graph.SimrankGraph(nodes)
+        for edge in edges:
+            g.SetEdge(edge[0], edge[1], edge[2], True)
+        g.Run()
+
+        # Note: higher edge weight means greater distance from. So higher edge
+        # weight means the similarity between the two nodes should be lower.
+        self.assertTrue(g.Similarity("A", "C") < g.Similarity("E", "C"))
+        self.assertTrue(g.Similarity("E", "C") < g.Similarity("G", "C"))
+
+        self.assertTrue(g.Similarity("B", "C") == g.Similarity("D", "C"))
+        self.assertTrue(g.Similarity("D", "C") == g.Similarity("F", "C"))
+
+        self.assertTrue(g.Similarity("B", "F") == g.Similarity("F", "D"))
+        self.assertTrue(g.Similarity("F", "D") == g.Similarity("D", "B"))
+
     def testSimrankScale(self):
         NUM_NODES = 100
         nodes = range(NUM_NODES)

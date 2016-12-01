@@ -16,15 +16,14 @@ with open('contributions.csv','r') as f:
       nodes.add(line[4])
       edges.append([line[0],line[4]])
 
-print len(nodes)
-print len(edges)
+print 'Number of nodes: ' + str(len(nodes))
+print 'Number of edges: ' + str(len(edges))
 
-contribution_graph = graph.SimrankGraph(list(nodes))
+contribution_graph = graph.SparseGraph(list(nodes))
 for edge in edges:
-  contribution_graph.SetEdge(edge[0], edge[1], directed=False)
+  contribution_graph.SetEdge(edge[0], edge[1], directed=True)
 
-contribution_graph.Run(r=1)
-
-# TODO (cvwang): change this to a file print
-for edge in edges:
-	print(contribution_graph.Similarity(edge[0],edge[1]))
+# Save graph adjacency list to file
+contribution_graph.SaveAdjacencyList('node2vec/contribution_edges.txt', weight=False)
+# Save node ID mapping
+contribution_graph.SaveNodeMapping('node2vec/contribution_id_map.txt')

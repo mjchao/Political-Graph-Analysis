@@ -19,6 +19,7 @@ class Graph(object):
         self._nodes = nodes
         self._node_to_id = {nodes[i]: i for i in range(len(nodes))}
         self._id_to_node = {i: nodes[i] for i in range(len(nodes))}
+        self._num_edges = 0
 
     def _GetId(self, node):
         """Gets the internal id in range [0, NUM_NODES) for a given node.
@@ -42,6 +43,54 @@ class Graph(object):
             node: (object) The node the given ID represents.
         """
         return self._id_to_node[node_id]
+
+    def GetNumNodes(self):
+        """Returns the number of nodes in the graph.
+
+        Returns:
+            num_nodes: (int) The number of nodes in the graph.
+        """
+        return len(self._nodes)
+
+    def _SetEdgeById(self, from_id, to_id, weight=1.0, directed=True):
+        """Sets an edge between two nodes.
+
+        Args:
+            from_id: (int) The internal id for the source node.
+            to_id: (int) The internal id for the destination node.
+            weight: (float) The weight of the edge
+            directed: (bool) Whether the edge is directed.
+        """
+        # Removing an edge
+        source_dest_weight = self._GetEdgeWeightById(from_id, to_id)
+        dest_source_weight = self._GetEdgeWeightById(to_id, from_id)
+        if weight == 0.0:
+            if source_dest_weight != 0.0:
+                self._num_edges -= 1
+            if not directed and dest_source_weight != 0.0:
+                self._num_edges -= 1
+
+        # Adding an edge
+        else:
+            if source_dest_weight == 0.0:
+                self._num_edges += 1
+            if not directed and dest_source_weight != 0.0:
+                self._num_edges += 1
+
+    def GetNumEdges(self):
+        """Returns the number of edges in the graph. There is a directed edge
+        between two nodes if the weight between them in nonzero.
+
+        Returns:
+            num_edges: (int) The number of edges in the graph.
+        """
+        return self._num_edges
+
+    def SaveNodeMapping(self, fn):
+        with open(fn, 'w') as f:
+            for node_id in range(len(self._id_to_node)):
+                f.write(str(node_id) + ',' + str(self._id_to_node[node_id]) + '\n')
+            
 
 
 class DenseGraph(Graph):
@@ -68,6 +117,7 @@ class DenseGraph(Graph):
             weight: (float) The weight of the edge
             directed: (bool) Whether the edge is directed.
         """
+        super(DenseGraph, self)._SetEdgeById(from_id, to_id, weight, directed)
         self._adj[from_id][to_id] = weight
         if not directed:
             self._adj[to_id][from_id] = weight
@@ -85,6 +135,18 @@ class DenseGraph(Graph):
         to_id = self._node_to_id[to_node]
         self._SetEdgeById(from_id, to_id, weight, directed)
 
+    def _GetEdgeWeightById(self, from_id, to_id):
+        """Gets the edge weight between two nodes.
+
+        Args:
+            from_id: (int) The id of the source node.
+            to_id: (int) The id of the destination node.
+
+        Returns:
+            weight: (float) The edge weight.
+        """
+        return self._adj[from_id][to_id]
+
     def GetEdgeWeight(self, from_node, to_node):
         """Gets the edge weight between two nodes. 
 
@@ -94,10 +156,20 @@ class DenseGraph(Graph):
         """
         from_id = self._node_to_id[from_node]
         to_id = self._node_to_id[to_node]
-        return self._adj[from_id][to_id]
+        return self._GetEdgeWeightById(from_id, to_id)
 
     def getAdjacencyMatrix(self):
         return self._adj
+
+    def SaveAdjacencyList(self, fn, weight=True):
+        with open(fn, 'w') as f:
+            for x in range(self._adj.shape[0]):
+                for y in range(self._adj.shape[1]):
+                    if self._adj[x][y] != 0.0:
+                        if weight:
+                            f.write(str(x) + ' ' + str(y) + ' ' + str(self._adj[x][y]) + '\n')
+                        else:
+                            f.write(str(x) + ' ' + str(y) + '\n')
 
 
 class SparseGraph(Graph):
@@ -124,11 +196,15 @@ class SparseGraph(Graph):
             weight: (float) The weight of the edge
             directed: (bool) Whether the edge is directed.
         """
+        super(SparseGraph, self)._SetEdgeById(from_id, to_id, weight, directed)
         if weight == 0.0:
-            return
-        self._adj_list[from_id][to_id] = weight
-        if not directed:
-            self._adj_list[to_id][from_id] = weight
+            del self._adj_list[from_id][to_id]
+            if not directed:
+                del self._adj_list[to_id][from_id]
+        else:
+            self._adj_list[from_id][to_id] = weight
+            if not directed:
+                self._adj_list[to_id][from_id] = weight
 
     def SetEdge(self, from_node, to_node, weight=1.0, directed=True):
         """Sets an edge between two nodes.
@@ -143,26 +219,65 @@ class SparseGraph(Graph):
         to_id = self._node_to_id[to_node]
         self._SetEdgeById(from_id, to_id, weight, directed)
 
+    def _GetEdgeWeightById(self, from_id, to_id):
+        """Gets the edge weight between two nodes.
+
+        Args:
+            from_id: (int) The id of the source node.
+            to_id: (int) The id of the destination node.
+
+        Returns:
+            weight: (float) The edge weight.
+        """
+        if to_id in self._adj_list[from_id]:
+            return self._adj_list[from_id][to_id]
+        else:
+            return 0.0
+        
     def GetEdgeWeight(self, from_node, to_node):
         """Gets the edge weight between two nodes. 
 
         Args:
             from_node: (object) The source node.
             to_node: (object) The destination node.
+
+        Returns:
+            weight: (float) The edge weight.
         """
         from_id = self._node_to_id[from_node]
         to_id = self._node_to_id[to_node]
-        if to_id in self._adj_list[from_id]:
-            return self._adj_list[from_id][to_id]
-        else:
-            return 0.0
+        return self._GetEdgeWeightById(from_id, to_id)
+
+    def SaveAdjacencyList(self, fn, weight=True):
+        with open(fn, 'w') as f:
+            for from_id in range(len(self._adj_list)):
+                for to_id, weight_val in self._adj_list[from_id].iteritems():
+                    if weight:
+                        f.write(str(from_id) + ' ' + str(to_id) + ' ' + str(weight_val) + '\n')
+                    else:
+                        f.write(str(from_id) + ' ' + str(to_id) + '\n')
+
+
 
 # TODO (mjchao): Change Simrank to take a graph so that we can use
 # dense/sparse depending on efficiency.
 class SimrankAlgorithm(object):
+    """Container for running Simrank algorithm on a graph.
+    """
     
     def __init__(self, graph):
-        pass
+        self._similarity = np.identity(len(nodes), dtype=np.float32)
+        self._graph = graph
+        for i in range(len(self._nodes)):
+            self._graph._SetEdgeById(i, i)
+
+        self._dist = np.empty((len(nodes), len(nodes))) * np.nan
+        for i in range(len(nodes)):
+            self._dist[i][i] = 0
+
+        self._nodes_within_radius_invalidated = False
+        self._nodes_within_radius = [[] for _ in range(len(self._nodes))]
+        self._last_radius = 0
 
 class SimrankGraph(DenseGraph):
     """A DenseGraph with functions for the SimRank algorithm.
@@ -177,8 +292,12 @@ class SimrankGraph(DenseGraph):
         super(SimrankGraph, self).__init__(nodes)
         self._similarity = np.identity(len(nodes), dtype=np.float32)
 
+        # total edge weight starts at # nodes because each node is
+        # automatically connected to itself with weight 1 in simrank.
+        self._total_edge_weight = 0
+
         for i in range(len(self._nodes)):
-            self._adj[i][i] = 1.0
+            self._SetEdgeById(i, i)
 
         self._dist = np.empty((len(nodes), len(nodes))) * np.nan
         for i in range(len(nodes)):
@@ -208,6 +327,17 @@ class SimrankGraph(DenseGraph):
         self._similarity = np.loadtxt(fn, delimiter=',')
 
     def _SetEdgeById(self, from_id, to_id, weight=1.0, directed=True):
+        """Sets an edge between two nodes.
+
+        Args:
+            from_id: (int) The internal id for the source node.
+            to_id: (int) The internal id for the destination node.
+            weight: (float) The weight of the edge
+            directed: (bool) Whether the edge is directed.
+        """
+        prev_weight = self._GetEdgeWeightById(from_id, to_id)
+        change_in_weight = weight - prev_weight
+        self._total_edge_weight += change_in_weight
         super(SimrankGraph, self)._SetEdgeById(from_id, to_id, weight, directed)
         self._nodes_within_radius_invalidated = True
 
@@ -335,10 +465,22 @@ class SimrankGraph(DenseGraph):
                         for node2_neighbor in node2_neighbors:
                             node1_id = self._node_to_id[node1_neighbor]
                             node2_id = self._node_to_id[node2_neighbor]
-                            next_similarity[i][j] += self._similarity[node1_id][node2_id]
+
+                            weight1 = ((self._total_edge_weight -
+                                self._GetEdgeWeightById(i, node1_id) + 1) /
+                                self._total_edge_weight)
+                            weight2 = ((self._total_edge_weight -
+                                self._GetEdgeWeightById(j, node2_id) + 1) /
+                                self._total_edge_weight)
+                            weight_scale = weight1 * weight2 
+                            next_similarity[i][j] += (
+                                self._similarity[node1_id][node2_id] *
+                                weight_scale)
+
                     multiplier = C / float(len(node1_neighbors) *
                                             len(node2_neighbors))
                     next_similarity[i][j] *= multiplier
+
                 #End timer
                 if i == 0:
                     end = datetime.now()
@@ -361,4 +503,3 @@ class SimrankGraph(DenseGraph):
         b_id = self._node_to_id[b]
         return self._similarity[a_id][b_id]
 
-                            

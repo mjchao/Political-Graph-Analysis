@@ -3,5 +3,7 @@
 !.gitignore
 tmp/
 sftp-config.json
-simrank_contributions_results_1998.csv
+simrank_contributions_results_*.csv
 data
+kmeans_contributions_*_out.txt
+node2vec/contribution_*.txt

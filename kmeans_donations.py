@@ -1,8 +1,7 @@
 import graph
 import kmeans
 
-""" This script was made to run the kmeans algorithm on the donations graph 
-    network.
+""" Run the kmeans algorithm on the donations graph network.
 """
 
 nameToID = {}
@@ -26,54 +25,59 @@ with open('legislators-historic.csv', 'r') as f:
     politicianParty = line[7]
     IDToParty[politicianID] = politicianParty
 
-nodes = set()
-edges = []
+# years = [ 1998, 2000, 2002, 2004 ]
+years = [ 2004 ]
 
-# Get similarity edges
-with open('simrank_contributions_results_1998.csv','r') as f:
-  for line in f:
-    line = line[:-1]
-    line = line.split(',')
-    # Check it's a politician
-    if line[3] == 'Companies':
-      continue
-    nodes.add(line[0])
-    nodes.add(line[1])
-    edges.append(line[0:3])
+for year in years:
 
-nodes_list = []
-for node in nodes:
-  nodes_list.append(node)
+  nodes = set()
+  edges = []
 
-contribution_graph = graph.SimrankGraph(nodes_list)
+  # Get similarity edges
+  with open('simrank_contributions_results_%d.csv' % year,'r') as f:
+    for line in f:
+      line = line[:-1]
+      line = line.split(',')
+      # Check it's a politician
+      if line[3] == 'Companies':
+        continue
+      nodes.add(line[0])
+      nodes.add(line[1])
+      edges.append(line[0:3])
 
-for edge in edges:
-  contribution_graph.SetEdge(edge[0],edge[1],weight=float(edge[2]),
-    directed=False)
+  nodes_list = []
+  for node in nodes:
+    nodes_list.append(node)
 
-# print contribution_graph.getAdjacencyMatrix()
-# print contribution_graph.getAdjacencyMatrix().sum().sum()
+  contribution_graph = graph.SimrankGraph(nodes_list)
 
-kmeansObj = kmeans.KMeans(contribution_graph.getAdjacencyMatrix())
-# Set number of clusters
-kmeansObj.Run(num_clusters=2,maxIterations=2000)
+  for edge in edges:
+    contribution_graph.SetEdge(edge[0],edge[1],weight=float(edge[2]),
+      directed=False)
 
-results = []
+  # print contribution_graph.getAdjacencyMatrix()
+  # print contribution_graph.getAdjacencyMatrix().sum().sum()
 
-with open('kmeans_donations_out.txt', 'w') as f:
-  for clusterID, cluster in enumerate(kmeansObj.clusters):
-    results.append({})
-    for nodeID in cluster:
-      if nameToID[nodes_list[nodeID]] in IDToParty:
-        partyStr = IDToParty[nameToID[nodes_list[nodeID]]]
-        if partyStr not in results[clusterID]:
-          results[clusterID][partyStr] = 1
-        else:
-          results[clusterID][partyStr] = results[clusterID][partyStr] + 1
-        f.write(str(clusterID) + ', ' + nodes_list[nodeID] 
-          + ', ' + partyStr + '\n')
+  kmeansObj = kmeans.KMeans(contribution_graph.getAdjacencyMatrix())
+  # Set number of clusters
+  kmeansObj.Run(num_clusters=2,maxIterations=2000)
 
-# print results
-for result in results:
-  print result
+  results = []
+
+  with open('kmeans_contributions_%d_out.txt' % year, 'w') as f:
+    for clusterID, cluster in enumerate(kmeansObj.clusters):
+      results.append({})
+      for nodeID in cluster:
+        if nameToID[nodes_list[nodeID]] in IDToParty:
+          partyStr = IDToParty[nameToID[nodes_list[nodeID]]]
+          if partyStr not in results[clusterID]:
+            results[clusterID][partyStr] = 1
+          else:
+            results[clusterID][partyStr] = results[clusterID][partyStr] + 1
+          f.write(str(clusterID) + ', ' + nodes_list[nodeID] 
+            + ', ' + partyStr + '\n')
+
+  # print results
+  for result in results:
+    print result
 
