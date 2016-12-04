@@ -16,7 +16,7 @@ with open('contributions.csv', 'r') as f:
 IDToParty = {}
 
 # Tie politician IDs to party affiliation
-with open('legislators-historic.csv', 'r') as f:
+with open('legislators.csv', 'r') as f:
   for line in f:
     line = line[:-1]
     line = line.lower()

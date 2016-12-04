@@ -33,7 +33,6 @@ with open('contribution_node2vec_nn.txt', 'w') as f:
     f.write(' '.join(map(str, nn)) + '\n')
 
 # Read in ID mapping
-# TODO
 id_to_name = []
 with open('contribution_id_map.txt', 'r') as f:
   for line in f:
@@ -44,3 +43,5 @@ print 'Outputting nearest neighbors name to file'
 with open('contribution_node2vec_nn_names.txt', 'w') as f:
   for nn in indices:
     f.write(','.join([id_to_name[i] for i in nn]) + '\n')
+
+# TODO (cvwang): Do a NN just on politician vectors gotten from node2vec (but calculated with company connections as well, obviously).
