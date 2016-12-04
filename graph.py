@@ -175,6 +175,8 @@ class DenseGraph(Graph):
 class SparseGraph(Graph):
     """Represents a sparse graph. This uses adjacency dictionaries to store
     the edges.
+
+    IMPORTANT: Not tested yet. Don't use.
     """
     
     def __init__(self, nodes):
@@ -263,6 +265,8 @@ class SparseGraph(Graph):
 # dense/sparse depending on efficiency.
 class SimrankAlgorithm(object):
     """Container for running Simrank algorithm on a graph.
+
+    IMPORTANT: Not done yet. Do not use.
     """
     
     def __init__(self, graph):
