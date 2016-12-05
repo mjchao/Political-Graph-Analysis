@@ -1,7 +1,7 @@
 from evaluate import ReadNodeVectors, EntropyEvaluator
 import numpy as np
 
-def ClusterByParty():
+def ClusterByDemRep():
     vecs = ReadNodeVectors("contribution_node2vec_out.txt")
     ground_truth = []
     with open("contribution_id_map.txt") as f:
@@ -20,9 +20,11 @@ def ClusterByParty():
     
     evaluator = EntropyEvaluator()
     evaluator.fit(vecs, 2)
+    print "Distribution:", evaluator.GetDistributionAmongClusters(ground_truth)
     print "Entropy:", evaluator.evaluate(ground_truth) 
 
+
 def main():
-    ClusterByParty()
+    ClusterByDemRep()
 
 if __name__ == "__main__": main()

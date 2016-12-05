@@ -63,9 +63,25 @@ class Evaluator(object):
         return self._clustering.predict(vecs)
 
     def GetDistributionAmongClusters(self, ground_truth):
+        """Gets the distribution of the true classes within each cluster.
+
+        Args:
+            ground_truth: (2D array) Array of length num_vectors that is the
+                actual label of each node vector.
+
+        Returns:
+            cluster_true_labels: (numpy array) Array of shape
+                (n_clusters, n_clusters). The value at index (i, j) is the
+                number of vectors categorized into cluster i with ground truth
+                label j.
+        """
         cluster_true_labels = np.zeros((self._n_clusters, self._n_clusters))
         for i in range(len(self._labels)):
             true_label = ground_truth[i]
+            if true_label >= self._n_clusters:
+                raise ValueError("Ground truth label out of range."
+                                    "Must be in range [0, %d]"
+                                    %(self._n_clusters - 1))
             if true_label != -1:
                 cluster_id = self._labels[i]
                 cluster_true_labels[cluster_id][true_label] += 1

@@ -29,6 +29,12 @@ class TestGraph(unittest.TestCase):
         self.assertTrue(np.all(distribution == [[0, 2],
                                                 [1, 0]]))
 
+    def testInvalidGroundTruth(self):
+        evaluator = EntropyEvaluator(KMeans)
+        evaluator.fit(TestGraph._TEST_DATA, 2)
+        with self.assertRaises(ValueError):
+            evaluator.GetDistributionAmongClusters([1, 2, 0, 0])
+
     def testEvaluate(self):
         evaluator = EntropyEvaluator(KMeans)
         evaluator.fit(TestGraph._TEST_DATA, 2)
