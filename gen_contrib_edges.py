@@ -56,15 +56,18 @@ for year in years:
         nodeName = line[0] + ',' + line[1]
         if line[1] in IDToParty:
           nodeName = nodeName + ',' + IDToParty[line[1]]
-
-
         politicians.add(nodeName)
         nodes.add(nodeName)
         nodes.add(line[4])
+        
         # Use this line for unweighted graph
         # edges.append([nodeName,line[4]])
+
         # Use this line for weighted graph
-        edges.append([nodeName,line[4],float(line[-4])])
+        weight = float(line[-4])
+        # NOTE: needed to added this as node2vec was not playing well with non-positive weights.
+        if weight > 0.0:
+          edges.append([nodeName,line[4],weight])
 
   print 'Number of nodes: ' + str(len(nodes))
   print 'Number of edges: ' + str(len(edges))
