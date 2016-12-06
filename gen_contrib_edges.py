@@ -28,8 +28,8 @@ with open('legislators.csv', 'r') as f:
 # Choose the congress session
 # years = Set([1998])
 # years = Set([2014])
-# years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016])
-years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2016])
+# years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2016])
+years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016])
 
 yearToSession = {
   1998 : 105,
@@ -70,7 +70,13 @@ for year in years:
   for edge in edges:
     contribution_graph.SetEdge(edge[0], edge[1], directed=True)
 
+  # # Save graph adjacency list to file
+  # contribution_graph.SaveAdjacencyList('node2vec/contribution_edges_%d.txt' % yearToSession[year], weight=False)
+  # # Save node ID mapping
+  # contribution_graph.SaveNodeMapping('node2vec/contribution_id_map_%d.txt' % yearToSession[year])
+
+  # Print 
   # Save graph adjacency list to file
-  contribution_graph.SaveAdjacencyList('node2vec/contribution_edges_%d.txt' % yearToSession[year], weight=False)
+  contribution_graph.SaveAdjacencyList('node2vec/contribution_edges_weight_%d.txt' % yearToSession[year], weight=True)
   # Save node ID mapping
   contribution_graph.SaveNodeMapping('node2vec/contribution_id_map_%d.txt' % yearToSession[year])
