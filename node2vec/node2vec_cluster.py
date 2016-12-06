@@ -1,13 +1,14 @@
 from evaluate import ReadNodeVectors, EntropyEvaluator
 import numpy as np
+import os
 
-def ClusterByDemRep():
-    vecs = ReadNodeVectors("contribution_node2vec_out.txt")
+def ClusterByDemRep(vec_file, ground_truth_file):
+    vecs = ReadNodeVectors(vec_file)
     ground_truth = []
-    with open("contribution_id_map.txt") as f:
+    with open(ground_truth_file) as f:
         for line in f.readlines():
             data = line.rstrip("\n").split(",")
-            if len(data) > 2:
+            if len(data) > 3:
                 politician_party = data[3]
                 if politician_party == "democrat":
                     ground_truth.append(0)
@@ -20,11 +21,20 @@ def ClusterByDemRep():
     
     evaluator = EntropyEvaluator()
     evaluator.fit(vecs, 2)
-    print "Distribution:", evaluator.GetDistributionAmongClusters(ground_truth)
-    print "Entropy:", evaluator.evaluate(ground_truth) 
+    print "Distribution:"
+    print evaluator.GetDistributionAmongClusters(ground_truth)
+
+    entropy = evaluator.evaluate(ground_truth)
+    print "Entropy:", entropy
+    print "Average entropy:", np.mean(entropy)
 
 
 def main():
-    ClusterByDemRep()
+    for i in range(105, 115):
+        print "Processing Congress #%d" %(i)
+        vec_file = os.path.join("data", "contribution_node2vec_out_%d.txt" %(i))
+        ground_truth_file = os.path.join("data", "contribution_id_map_%d.txt" %(i))
+        ClusterByDemRep(vec_file, ground_truth_file)
+        print
 
 if __name__ == "__main__": main()
