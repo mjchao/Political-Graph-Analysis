@@ -12,11 +12,7 @@ with open('contribution_node2vec_out.txt', 'r') as f:
   X = np.empty([numNodes, numFeatures])
   for line in f:
     nodeValues = map(float, line[:-1].split(' '))
-    # print nodeValues
-    # print len(nodeValues)
     X[int(nodeValues[0])] = nodeValues[1:numFeatures+1]
-    # np.append(X, nodeValues[1:numFeatures+1])
-    # print X
   print X
   print 'Modelling nearest neighbors...'
   nbrs = NearestNeighbors().fit(X)

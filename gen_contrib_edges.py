@@ -61,14 +61,17 @@ for year in years:
         politicians.add(nodeName)
         nodes.add(nodeName)
         nodes.add(line[4])
-        edges.append([nodeName,line[4]])
+        # Use this line for unweighted graph
+        # edges.append([nodeName,line[4]])
+        # Use this line for weighted graph
+        edges.append([nodeName,line[4],float(line[-4])])
 
   print 'Number of nodes: ' + str(len(nodes))
   print 'Number of edges: ' + str(len(edges))
 
   contribution_graph = graph.SparseGraph(list(nodes))
   for edge in edges:
-    contribution_graph.SetEdge(edge[0], edge[1], directed=True)
+    contribution_graph.SetEdge(edge[0], edge[1], weight=edge[2], directed=True)
 
   # # Save graph adjacency list to file
   # contribution_graph.SaveAdjacencyList('node2vec/contribution_edges_%d.txt' % yearToSession[year], weight=False)
