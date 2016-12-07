@@ -200,9 +200,9 @@ class SparseGraph(Graph):
         """
         super(SparseGraph, self)._SetEdgeById(from_id, to_id, weight, directed)
         if weight == 0.0:
-            del self._adj_list[from_id][to_id]
+            self._adj_list[from_id].pop(to_id, None)
             if not directed:
-                del self._adj_list[to_id][from_id]
+                self._adj_list[to_id].pop(from_id, None)
         else:
             self._adj_list[from_id][to_id] = weight
             if not directed:

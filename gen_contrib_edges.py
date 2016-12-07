@@ -28,8 +28,8 @@ with open('legislators.csv', 'r') as f:
 # Choose the congress session
 # years = Set([1998])
 # years = Set([2014])
-# years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016])
-years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2016])
+# years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2016])
+years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016])
 
 yearToSession = {
   1998 : 105,
@@ -56,21 +56,33 @@ for year in years:
         nodeName = line[0] + ',' + line[1]
         if line[1] in IDToParty:
           nodeName = nodeName + ',' + IDToParty[line[1]]
-
-
         politicians.add(nodeName)
         nodes.add(nodeName)
         nodes.add(line[4])
-        edges.append([nodeName,line[4]])
+        
+        # Use this line for unweighted graph
+        # edges.append([nodeName,line[4]])
+
+        # Use this line for weighted graph
+        weight = float(line[-4])
+        # NOTE: needed to added this as node2vec was not playing well with non-positive weights.
+        if weight > 0.0:
+          edges.append([nodeName,line[4],weight])
 
   print 'Number of nodes: ' + str(len(nodes))
   print 'Number of edges: ' + str(len(edges))
 
   contribution_graph = graph.SparseGraph(list(nodes))
   for edge in edges:
-    contribution_graph.SetEdge(edge[0], edge[1], directed=True)
+    contribution_graph.SetEdge(edge[0], edge[1], weight=edge[2], directed=True)
 
+  # # Save graph adjacency list to file
+  # contribution_graph.SaveAdjacencyList('node2vec/contribution_edges_%d.txt' % yearToSession[year], weight=False)
+  # # Save node ID mapping
+  # contribution_graph.SaveNodeMapping('node2vec/contribution_id_map_%d.txt' % yearToSession[year])
+
+  # Print 
   # Save graph adjacency list to file
-  contribution_graph.SaveAdjacencyList('node2vec/contribution_edges_%d.txt' % yearToSession[year], weight=False)
+  contribution_graph.SaveAdjacencyList('node2vec/contribution_edges_weight_%d.txt' % yearToSession[year], weight=True)
   # Save node ID mapping
   contribution_graph.SaveNodeMapping('node2vec/contribution_id_map_%d.txt' % yearToSession[year])
