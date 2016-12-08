@@ -17,8 +17,8 @@ def ReadNodeVectors(vec_filename):
         num_vecs = int(dims[0])
         vec_size = int(dims[1])
         vecs = np.zeros((num_vecs, vec_size))
-        for i in range(num_vecs):
-            vec_entries = f.readline().split()
+        for line in f:
+            vec_entries = line.split()
             vec_idx = int(vec_entries[0])
             for j in range(vec_size):
                 vecs[vec_idx][j] = float(vec_entries[1 + j])
@@ -82,7 +82,7 @@ class Evaluator(object):
                 raise ValueError("Ground truth label out of range."
                                     "Must be in range [0, %d]"
                                     %(self._n_clusters - 1))
-            if true_label != -1:
+            if true_label >= 0:
                 cluster_id = self._labels[i]
                 cluster_true_labels[cluster_id][true_label] += 1
         return cluster_true_labels 
