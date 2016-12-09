@@ -21,6 +21,7 @@ for session in range(105,114):
 
 	new_edges = []
 
+	print('Generating graph for session ' + str(session))
 
 	next_id = 0 #new id
 	with open('voting_edgelists/' + str(session) + 'congressmen_edgelist_key.txt', 'r') as infile:
@@ -29,7 +30,7 @@ for session in range(105,114):
 		for con in list(reader):
 			congressmen[con['opensecrets_id']] = {'voting_id':con['id'], 
 													'new_id':next_id,
-													'first_name':con['id'],
+													'first_name':con['first_name'],
 													'last_name':con['last_name'],
 													'party': con['party'],
 													'state':con['state'],
@@ -92,6 +93,7 @@ for session in range(105,114):
 			outfile.write(str(new_c_id) + ' ' + str(new_v_id) + '\n')
 
 	with open('tripartite_edgelists/' + str(session) + '_key.txt', 'w') as outfile:
+
 		for opensecrets_id, con in congressmen.iteritems():
 			outfile.write(str(con['new_id']) + ',' +
 							con['first_name'] + ',' +
