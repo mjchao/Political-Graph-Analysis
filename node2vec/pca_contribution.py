@@ -1,3 +1,15 @@
+"""Usage
+
+-f, --file: The file with the node vectors.
+-g, --ground_truth: The file with the ground truth (democrat/republican)
+-a, --comp1: The first principal component onto which to project. E.g. 1
+-b, --comp2: The second principal component onto which to project. E.g. 5
+-c, --comp3: The third principal component onto which to project. E.g. 7
+
+Example:
+
+python pca_contribution.py -f data/contribution_node2vec_out_105.txt -g data/contribution_id_map_105.txt -a 1 -b 2
+"""
 import numpy as np
 import matplotlib.pylab as plt
 from mpl_toolkits.mplot3d import Axes3D
