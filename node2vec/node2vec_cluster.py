@@ -1,3 +1,13 @@
+"""Usage
+-s --start: starting session, inclusive (105 by default)
+-e --end: ending session, exclusive (115 by default)
+-f --vec_file: file pattern for node vectors. E.g. data/contribution_node2vec_out_%d.txt
+-g --gt_file: file pattern for ground truth. E.g. data/contribution_id_map_%d.txt
+
+Example to run clustering + entropy evaluation:
+
+python node2vec_cluster.py -f data/contribution_node2vec_out_%d.txt -g data/contribution_id_map_%d.txt
+"""
 from evaluate import ReadNodeVectors, EntropyEvaluator
 import numpy as np
 import os
