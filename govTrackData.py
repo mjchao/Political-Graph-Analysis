@@ -14,7 +14,7 @@ import copy
 congressmen_template = {}
 
 def get_congressmen():
-	with open('legislators-current.csv') as csvfile:
+	with open('legislators.csv') as csvfile:
 		reader = csv.DictReader(csvfile)
 		for row in reader:
 			congressmen_template[row['bioguide_id']] = {'first_name': row['first_name'], 
@@ -22,14 +22,6 @@ def get_congressmen():
 												'id': row['bioguide_id'],
 												'state': row['state'],
 												'party': row['party'],
-												'yes_votes': [],
-												'no_votes': []}
-	with open('legislators-historic.csv') as csvfile:
-		reader = csv.DictReader(csvfile)
-		for row in reader:
-			congressmen_template[row['bioguide_id']] = {'first_name': row['first_name'], 
-												'last_name': row['last_name'],
-												'state': row['state'],
 												'yes_votes': [],
 												'no_votes': []}
 	return
