@@ -25,8 +25,9 @@ with open('legislators.csv', 'r') as f:
     politicianParty = line[7]
     IDToParty[politicianID] = politicianParty
 
-# years = [ 1998, 2000, 2002, 2004 ]
-years = [ 2004 ]
+years = [ 1998, 2000, 2002, 2004 ]
+years = [ 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016 ]
+# years = [ 2004 ]
 
 for year in years:
 
@@ -34,7 +35,7 @@ for year in years:
   edges = []
 
   # Get similarity edges
-  with open('simrank_contributions_results_%d.csv' % year,'r') as f:
+  with open('Simrank/simrank_contributions_results_%d.csv' % year,'r') as f:
     for line in f:
       line = line[:-1]
       line = line.split(',')
@@ -60,22 +61,23 @@ for year in years:
 
   kmeansObj = kmeans.KMeans(contribution_graph.getAdjacencyMatrix())
   # Set number of clusters
-  kmeansObj.Run(num_clusters=2,maxIterations=2000)
+  kmeansObj.Run(num_clusters=2,iterations=2000)
 
   results = []
 
-  with open('kmeans_contributions_%d_out.txt' % year, 'w') as f:
+  with open('Simrank/kmeans_contributions_%d_out.txt' % year, 'w') as f:
     for clusterID, cluster in enumerate(kmeansObj.clusters):
       results.append({})
       for nodeID in cluster:
-        if nameToID[nodes_list[nodeID]] in IDToParty:
-          partyStr = IDToParty[nameToID[nodes_list[nodeID]]]
-          if partyStr not in results[clusterID]:
-            results[clusterID][partyStr] = 1
-          else:
-            results[clusterID][partyStr] = results[clusterID][partyStr] + 1
-          f.write(str(clusterID) + ', ' + nodes_list[nodeID] 
-            + ', ' + partyStr + '\n')
+        if nodes_list[nodeID] in nameToID:
+          if nameToID[nodes_list[nodeID]] in IDToParty:
+            partyStr = IDToParty[nameToID[nodes_list[nodeID]]]
+            if partyStr not in results[clusterID]:
+              results[clusterID][partyStr] = 1
+            else:
+              results[clusterID][partyStr] = results[clusterID][partyStr] + 1
+            f.write(str(clusterID) + ', ' + nodes_list[nodeID] 
+              + ', ' + partyStr + '\n')
 
   # print results
   for result in results:
