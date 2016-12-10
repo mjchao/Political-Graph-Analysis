@@ -35,34 +35,21 @@ def ClusterByDemRep(vec_file, ground_truth_file):
 
 def main():
     parser = OptionParser()
-    parser.add_option("-t", "--tripartite", action="store_true",
-                        dest="tripartite", default=False,
-                        help="Use tripartite graph node2vec results.")
-    parser.add_option("-w", "--weighted", action="store_true",
-                        dest="weighted", default=False,
-                        help="Use weighted node2vec results.")
+    parser.add_option("-s", "--start", action="store", dest="start", default=105,
+                        help="Start session (inclusive).")
+    parser.add_option("-e", "--end", action="store", dest="end", default=115,
+                        help="End session (exclusive).")
+    parser.add_option("-f", "--vec_file", action="store", dest="vec_file",
+                        help="Filename pattern for node vectors.")
+    parser.add_option("-g", "--gt_file", action="store", dest="gt_file",
+                        help="Filename pattern for ground truth.")
+
     options, args = parser.parse_args()
-    if options.tripartite:
-        for i in range(105, 106):
-            print "Processing Congress #%d (tripartite, unweighted)" %(i)
-            vec_file = os.path.join("tripartite", "tripartite_node2vec_out_%d.txt" %(i))
-            ground_truth_file = os.path.join("tripartite", "%d_key.txt" %(i))
-            ClusterByDemRep(vec_file, ground_truth_file)
-            print
-    else:
-        if not options.weighted:
-            for i in range(105, 115):
-                print "Processing Congress #%d (unweighted)" %(i)
-                vec_file = os.path.join("data", "contribution_node2vec_out_%d.txt" %(i))
-                ground_truth_file = os.path.join("data", "contribution_id_map_%d.txt" %(i))
-                ClusterByDemRep(vec_file, ground_truth_file)
-                print
-        elif options.weighted:
-            for i in range(105, 115):
-                print "Processing Congress #%d (weighted)" %(i)
-                vec_file = os.path.join("weighted_data", "contribution_node2vec_out_%d.txt" %(i))
-                ground_truth_file = os.path.join("weighted_data", "contribution_id_map_%d.txt" %(i))
-                ClusterByDemRep(vec_file, ground_truth_file)
-                print
+    for i in range(int(options.start), int(options.end)):
+        print "Processing Congress #%d" %(i)
+        vec_file = options.vec_file %(i)
+        ground_truth_file = options.gt_file %(i)
+        ClusterByDemRep(vec_file, ground_truth_file)
+        print
 
 if __name__ == "__main__": main()
