@@ -1,10 +1,23 @@
+""" Get contribution graph edges and node attributes
+"""
+
 from sets import Set
 import graph
 from optparse import OptionParser
 import sys
 
-""" Get contribution graph edges and node attributes
-"""
+yearToSession = {
+  1998 : 105,
+  2000 : 106,
+  2002 : 107,
+  2004 : 108,
+  2006 : 109,
+  2008 : 110,
+  2010 : 111,
+  2012 : 112,
+  2014 : 113,
+  2016 : 114
+}
 
 def generateContributionEdges(weight = False):
   IDToParty = {}
@@ -20,19 +33,6 @@ def generateContributionEdges(weight = False):
 
   # Choose the congress session
   years = Set([1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016])
-
-  yearToSession = {
-    1998 : 105,
-    2000 : 106,
-    2002 : 107,
-    2004 : 108,
-    2006 : 109,
-    2008 : 110,
-    2010 : 111,
-    2012 : 112,
-    2014 : 113,
-    2016 : 114
-  }
 
   for year in years:
     nodes = Set()
@@ -50,7 +50,6 @@ def generateContributionEdges(weight = False):
           nodes.add(nodeName)
           nodes.add(line[4])
           
-          # Use this line for weighted graph
           if weight:
             weight = float(line[-4])
             # NOTE: needed to added this as node2vec was not playing well with non-positive weights.
@@ -86,10 +85,8 @@ def main():
   options, args = parser.parse_args()
 
   if options.weight:
-    print 'Is weight'
     generateContributionEdges(weight = True)
   else:
-    print 'Is not weight'
     generateContributionEdges(weight = False)
 
 if __name__ == '__main__':

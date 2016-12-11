@@ -55,7 +55,8 @@ voting:
 	python node2vec-master/src/main.py --input voting_edgelists/113_bipartite_edgelist.txt --output voting_node2vec_out_113.txt
 
 nn:
-	python near_neighbor.py
+	# python near_neighbor.py
+	python near_neighbor.py -f unweighted_graph/contribution_node2vec_out_105.txt -g unweighted_graph/contribution_id_map_105.txt -i contribution_node2vec_nn_105.txt -n contribution_node2vec_nn_names_105.txt
 
 tsne:
 	python tsne_contribution.py -f unwighted_graph/contribution_node2vec_out_105.txt -g unwighted_graph/contribution_id_map_105.txt
