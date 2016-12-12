@@ -5,7 +5,11 @@
 
 # Run kmeans on contribution simrank data
 kmeans_simrank_contrib:
-	python kmeans_donations.py
+	python kmeans_contrib.py
+
+# Run kmeans on voting simrank data
+kmeans_simrank_voting:
+	python kmeans_voting.py
 
 ################################################################################
 
@@ -32,6 +36,10 @@ n2v_contrib:
 # Generate node2vec feature vectors for contribution weighted edge and ID mapping files
 n2v_contrib_weight:
 	make -C node2vec contrib_weight
+
+# Generate node2vec feature vectors for voting edge and ID mapping files
+n2v_voting:
+	make -C node2vec voting
 
 # Run nearest neighbors on node2vec contribution data
 # TODO (cvwang): This file will need to be generalized later
