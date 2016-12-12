@@ -58,8 +58,8 @@ def kmeansVoting():
             results[clusterID][partyStr] = 1
           else:
             results[clusterID][partyStr] = results[clusterID][partyStr] + 1
-          f.write(str(clusterID) + ',' + nodes_list[nodeID][0] + ','
-                  + nodes_list[nodeID][1] + ',' + partyStr + '\n')
+          f.write(str(clusterID) + ',' + IDToData[nodeID][0] + ','
+                  + IDToData[nodeID][1] + ',' + partyStr + '\n')
 
     # print results
     for result in results:
