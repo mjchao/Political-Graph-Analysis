@@ -25,9 +25,7 @@ with open('legislators.csv', 'r') as f:
     politicianParty = line[7]
     IDToParty[politicianID] = politicianParty
 
-years = [ 1998, 2000, 2002, 2004 ]
 years = [ 1998, 2000, 2002, 2004, 2006, 2008, 2010, 2012, 2014, 2016 ]
-# years = [ 2004 ]
 
 for year in years:
 
