@@ -2,7 +2,6 @@
 all:
 	unzip voting_edgelists.zip
 	unzip voting_data.zip
-	unzip data.zip
 	make voting
 	make scrape_contrib
 	make gen_contrib_edges
@@ -63,16 +62,12 @@ find_outliers_pca:
 simrank_opensecrets:
 	python sim_rank_on_donations.py
 
-#Collect and process govtrack data
-govTrackData:
-	python govTrackData.py
-
 #Run simrank and knn on voting data
-voting_simrank: govTrackData
+voting_simrank:
 	bash run_simrank.sh
 	
 #Create voting edgelists and keys
-generate_voting_graphs: govTrackData
+generate_voting_graphs:
 	bash generate_all_voting_graphs.sh
 	
 voting:
