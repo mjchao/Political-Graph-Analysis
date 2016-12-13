@@ -16,7 +16,8 @@ import sys
 """ Run the kmeans algorithm on the donations graph network.
 """
 def kmeansVoting():
-  sessions = [ 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113 ]
+  # sessions = [ 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112, 113 ]
+  sessions = [ 105, 106, 107, 108, 109, 110, 111, 112, 113 ]
 
   for session in sessions:
     print 'Processing session %d' % session
@@ -39,7 +40,7 @@ def kmeansVoting():
 
     contribution_graph = graph.SimrankGraph(list(nodes))
     for edge in edges:
-      contribution_graph.SetEdge(int(edge[1]),int(edge[2]),weight=float(edge[0]),
+      contribution_graph.SetEdge(int(edge[1]),int(edge[2]),weight=1.0/float(edge[0]),
         directed=False)
 
     kmeansObj = kmeans.KMeans(contribution_graph.getAdjacencyMatrix())
