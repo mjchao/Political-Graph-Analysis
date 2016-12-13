@@ -60,7 +60,6 @@ govTrackData:
 	python govTrackData.py
 
 #Run simrank and knn on voting data
-#Requires govTrackData
 voting_simrank: govTrackData
 	bash run_simrank.sh
 	
