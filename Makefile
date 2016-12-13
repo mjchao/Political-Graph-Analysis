@@ -1,5 +1,12 @@
 # This is root Makefile
-
+all:
+	unzip voting_edgelists.zip
+	unzip voting_data.zip
+	make voting
+	make scrape_contrib
+	make gen_contrib_edges
+	make n2v_contrib
+	make find_outliers_pca
 
 # Simrank Commands #############################################################
 
