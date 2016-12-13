@@ -2,16 +2,16 @@
 # edge file and ID map file.
 
 contrib:
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_105.txt --output unweighted_graph/contribution_node2vec_out_105.txt
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_106.txt --output unweighted_graph/contribution_node2vec_out_106.txt
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_107.txt --output unweighted_graph/contribution_node2vec_out_107.txt
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_108.txt --output unweighted_graph/contribution_node2vec_out_108.txt
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_109.txt --output unweighted_graph/contribution_node2vec_out_109.txt
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_110.txt --output unweighted_graph/contribution_node2vec_out_110.txt
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_111.txt --output unweighted_graph/contribution_node2vec_out_111.txt
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_112.txt --output unweighted_graph/contribution_node2vec_out_112.txt
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_113.txt --output unweighted_graph/contribution_node2vec_out_113.txt
-	python node2vec-master/src/main.py --input unweighted_graph/contribution_edges_114.txt --output unweighted_graph/contribution_node2vec_out_114.txt
+	python node2vec-master/src/main.py --input contribution_edges_105.txt --output contribution_node2vec_out_105.txt
+	python node2vec-master/src/main.py --input contribution_edges_106.txt --output contribution_node2vec_out_106.txt
+	python node2vec-master/src/main.py --input contribution_edges_107.txt --output contribution_node2vec_out_107.txt
+	python node2vec-master/src/main.py --input contribution_edges_108.txt --output contribution_node2vec_out_108.txt
+	python node2vec-master/src/main.py --input contribution_edges_109.txt --output contribution_node2vec_out_109.txt
+	python node2vec-master/src/main.py --input contribution_edges_110.txt --output contribution_node2vec_out_110.txt
+	python node2vec-master/src/main.py --input contribution_edges_111.txt --output contribution_node2vec_out_111.txt
+	python node2vec-master/src/main.py --input contribution_edges_112.txt --output contribution_node2vec_out_112.txt
+	python node2vec-master/src/main.py --input contribution_edges_113.txt --output contribution_node2vec_out_113.txt
+	python node2vec-master/src/main.py --input contribution_edges_114.txt --output contribution_node2vec_out_114.txt
 
 contrib_weight:
 	python node2vec-master/src/main.py --weighted --input weighted_graph/contribution_edges_weight_105.txt --output weighted_graph/contribution_node2vec_out_105.txt
