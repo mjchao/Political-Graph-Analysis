@@ -66,5 +66,7 @@ voting_simrank: govTrackData
 #Create voting edgelists and keys
 generate_voting_graphs: govTrackData
 	bash generate_all_voting_graphs.sh
+	
+voting: voting_simrank generate_voting_graphs
 
 ################################################################################
