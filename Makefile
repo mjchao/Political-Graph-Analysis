@@ -2,6 +2,7 @@
 all:
 	unzip voting_edgelists.zip
 	unzip voting_data.zip
+	unzip data.zip
 	make voting
 	make scrape_contrib
 	make gen_contrib_edges
