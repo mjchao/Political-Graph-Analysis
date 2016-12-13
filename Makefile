@@ -67,6 +67,7 @@ voting_simrank: govTrackData
 generate_voting_graphs: govTrackData
 	bash generate_all_voting_graphs.sh
 	
-voting: voting_simrank generate_voting_graphs
-
+voting:
+	make voting_simrank
+	make generate_voting_graphs
 ################################################################################
