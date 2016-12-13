@@ -49,4 +49,10 @@ nn_n2v_contrib:
 tsne:
 	make -C node2vec tsne	
 
+find_outliers_pca:
+	python pca_outliers.py	
+
+simrank_opensecrets:
+	python sim_rank_on_donations.py
+
 ################################################################################
