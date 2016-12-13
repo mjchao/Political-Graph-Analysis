@@ -61,12 +61,11 @@ govTrackData:
 
 #Run simrank and knn on voting data
 #Requires govTrackData
-voting_simrank:
+voting_simrank: govTrackData
 	bash run_simrank.sh
 	
 #Create voting edgelists and keys
-#Requires govTrackData
-generate_voting_graphs:
+generate_voting_graphs: govTrackData
 	bash generate_all_voting_graphs.sh
 
 ################################################################################
