@@ -54,5 +54,14 @@ find_outliers_pca:
 
 simrank_opensecrets:
 	python sim_rank_on_donations.py
+	
+govTrackData:
+	python govTrackData.py
+	
+voting_simrank:
+	bash run_simrank.sh
+	
+generate_voting_graphs:
+	bash generate_all_voting_graphs.sh
 
 ################################################################################
