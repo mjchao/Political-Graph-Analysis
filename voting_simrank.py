@@ -41,7 +41,7 @@ if __name__ == "__main__":
 		num_edges += 1
 
 	g.Run(r=1.0/300, C=.99, iterations=1)
-	g.Save(argv[1] + '_similarity.csv')
+	g.Save(sys.argv[1] + '_similarity.csv')
 
 	#Initialie K-Means
 	km2 = KMeans(g._similarity, num_clusters=2)
